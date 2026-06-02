@@ -2,6 +2,54 @@
   "articles": [
     {
       "category": "科技前沿",
+      "date": "2026.06.03 05:14",
+      "title": "生成式AI加速侵入企业后台，自动化管理职能面临重构",
+      "summary": "MIT技术评论指出，生成式AI正以惊人广度渗透企业运营，从会计、设计到市场研究，中小企业可借此获得过去只有大公司才具备的专家级能力，这预示着企业后台职能的自动化浪潮即将到来。",
+      "stars": "★★★★",
+      "insight": "这不是简单的效率提升，而是企业组织架构的破坏性重构。当AI能以极低成本提供专家级行政、财务、市场分析能力时，中小企业的核心竞争力将从‘拥有专家’转向‘善用AI’。未来6-12个月，传统企业服务SaaS市场将面临来自AI原生工具的降维打击，大量中间管理层和专业服务岗位面临被重新定义的风险。",
+      "original_text": "From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to... This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries.",
+      "full_translation": "从会计、设计到市场研究和产品开发，经营一家企业需要令人吃惊的广泛技能。大公司可以聘请专家来...本文来自《让AI发挥作用》，这是《麻省理工科技评论》一份考察如何在各行业应用大语言模型的限时通讯。",
+      "source_name": "MIT Tech Review",
+      "source_url": "https://www.technologyreview.com/2026/06/02/how-small-businesses-can-leverage-ai/"
+    },
+    {
+      "category": "全球金融",
+      "date": "2026.06.03 05:14",
+      "title": "美联储等机构移除‘声誉风险’条款，银行加密货币业务监管松绑信号明显",
+      "summary": "美联储等监管机构联合移除了银行监管中关于‘声誉风险’的额外表述，这通常被视为允许银行更自主地评估和决定与加密货币等高风险业务的往来，是监管态度软化的明确信号。",
+      "stars": "★★★★",
+      "insight": "此举是全球金融监管从‘围堵’向‘风险管控’转向的微观标志。移除模糊且主观的‘声誉风险’，意味着监管层正为传统金融机构进入加密资产领域扫清心理和制度障碍。这将直接刺激银行等机构加速推出加密货币托管、交易和衍生品服务，成为连接传统金融资本与数字资产市场的关键桥梁，预计未来18个月将有大量合规资金通过此渠道涌入。",
+      "original_text": "Agencies remove additional references to reputation risk",
+      "full_translation": "各机构移除了关于声誉风险的额外表述",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm"
+    },
+    {
+      "category": "地缘政治",
+      "date": "2026.06.03 05:14",
+      "title": "Vitalik警告：加密货币行业面临18个月‘应用生死窗’",
+      "summary": "以太坊联合创始人Vitalik Buterin发出严厉警告，在与多国政策制定者沟通后，他认为加密货币‘纯粹投机’的叙事正被固化，若不能在18个月内于汇款、身份、DAO治理等领域推出‘杀手级应用’，监管窗口将永久关闭。",
+      "stars": "★★★★★",
+      "insight": "这标志着加密货币行业从‘技术愿景驱动’进入‘实用价值证明’的残酷淘汰赛阶段。未来18个月将是决定行业全球政治合法性的关键窗口。未能解决真实世界支付、身份验证和治理问题的公链与协议，将被主流国家监管体系系统性排斥。地缘竞争将体现在：哪国率先为具有实用价值的加密应用（如跨境支付、数字身份）建立清晰、友好的监管框架，从而吸引创新和资本。",
+      "original_text": "The narrative that crypto is just speculation is becoming entrenched. If we dont ship killer apps for remittances, identity, and DAO governance in the next 18 months, the regulatory window slams shut permanently.",
+      "full_translation": "加密货币只是投机的叙事正变得根深蒂固。如果我们在未来18个月内不能推出汇款、身份和DAO治理的杀手级应用，监管窗口将永久关闭。",
+      "source_name": "X/@VitalikButerin",
+      "source_url": "https://x.com/VitalikButerin/status/1796920172435128574"
+    },
+    {
+      "category": "具身智能",
+      "date": "2026.06.03 05:14",
+      "title": "微软CEO纳德拉定义下一平台转移：AI从操纵比特转向操纵原子",
+      "summary": "微软CEO Satya Nadella提出，下一个重大平台转移是具身智能（Embodied AI），即AI从生成文本和图像发展到操纵原子。他指出机器人基础模型正处于大语言模型2020年的发展阶段，能解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★★",
+      "insight": "纳德拉的论断为整个科技行业的投资指明了方向。具身智能是AI能力的终极物理体现，其核心瓶颈‘模拟到现实迁移’一旦突破，将引发制造业、物流、家庭服务等实体产业的链式反应。这不仅是技术竞赛，更是国家间高端制造业竞争力的争夺。未来6-18个月，围绕高质量合成数据生成、仿真平台和硬件协同设计的创新将爆发，资本市场将从投资‘软件AI’转向重仓‘物理AI’基础设施。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正进入一个AI不仅仅生成文本和图像——而是操纵原子的时代。机器人基础模型正处于大语言模型2020年的发展阶段。能解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "source_name": "X/@sataborelli",
+      "source_url": "https://x.com/sataborelli/status/1796925841983787264"
+    },
+    {
+      "category": "科技前沿",
       "date": "2026.06.03 04:56",
       "title": "Sam Altman警告：AGI实现时间表加速，人类需重新定义通用人工智能",
       "summary": "OpenAI CEO Sam Altman透露，其内部基准测试显示，模型在复杂任务上达到人类水平推理能力的速度远超2024年的预测，暗示AGI的到来可能比预期更早，迫使行业重新思考其定义。",

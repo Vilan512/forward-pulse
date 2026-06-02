@@ -32,11 +32,11 @@ HOURS_WINDOW = 24
 # ════════════════════════════════════════════════════════
 # 模块 A：RSS 智库嗅探
 # ════════════════════════════════════════════════════════
-def clean_html(raw_html: str) -> str:
+def clean_html(raw_html: str, max_len: int = 2000) -> str:
     """去除 HTML 标签，保留纯文本"""
     clean = re.sub(r'<[^>]+>', '', raw_html or '')
     clean = re.sub(r'\s+', ' ', clean).strip()
-    return clean[:500]  # 截断过长内容
+    return clean[:max_len]
 
 
 def fetch_rss_feeds() -> list[dict]:
@@ -62,13 +62,21 @@ def fetch_rss_feeds() -> list[dict]:
                     continue
 
                 title = clean_html(getattr(entry, 'title', ''))
-                summary = clean_html(getattr(entry, 'summary', getattr(entry, 'description', '')))
+
+                # 逐级提取尽可能丰富的正文内容
+                raw_body = ''
+                # 优先取 content（全文），其次 summary，最后 description
+                if hasattr(entry, 'content') and entry.content:
+                    raw_body = entry.content[0].get('value', '')
+                if not raw_body or len(clean_html(raw_body)) < 100:
+                    raw_body = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
+                body = clean_html(raw_body)
 
                 if title:
                     results.append({
                         'source': name,
                         'title': title,
-                        'summary': summary,
+                        'body': body,
                         'time': published.strftime('%Y-%m-%d %H:%M') if published else '未知时间',
                     })
                     count += 1
@@ -140,8 +148,9 @@ def assemble_and_export(rss_data: list[dict], twitter_data: list[dict], output_p
     for item in all_items:
         lines.append(f"[来源: {item['source']}] [时间: {item['time']}]")
         lines.append(f"标题: {item['title']}")
-        if item['summary']:
-            lines.append(f"摘要: {item['summary']}")
+        body = item.get('body', '') or item.get('summary', '')
+        if body:
+            lines.append(f"正文: {body}")
         lines.append("")
 
     content = '\n'.join(lines)

@@ -32,14 +32,6 @@
             z-index: -1;
             pointer-events: none;
         }
-        .card-glow-effect {
-            box-shadow: 0 0 15px 5px rgba(16, 185, 129, 0.15);
-            transition: all 0.3s ease;
-        }
-        .card-glow-effect:hover {
-            box-shadow: 0 0 25px 10px rgba(16, 185, 129, 0.3);
-        }
-
         .glow-border {
             position: relative;
             border: 1px solid rgba(16, 185, 129, 0.15);
@@ -72,7 +64,8 @@
             background-color: rgba(16, 185, 129, 0.15);
             color: #34d399;
         }
-        .tab-btn:focus-visible {
+        .tab-btn:focus-visible,
+        .date-btn:focus-visible {
             outline: 2px solid #34d399;
             outline-offset: 2px;
         }
@@ -93,6 +86,16 @@
 
         .tabs-scroll::-webkit-scrollbar { height: 0; }
         .tabs-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        @media (min-width: 640px) {
+            .sm\:line-clamp-none { -webkit-line-clamp: unset; overflow: visible; }
+        }
 
         .badge-tech { background-color: rgba(16, 185, 129, 0.15); color: #34d399; }
         .badge-finance { background-color: rgba(168, 85, 247, 0.15); color: #c084fc; }
@@ -153,28 +156,28 @@
 </head>
 <body class="bg-slate-background text-slate-100 font-sans relative min-h-screen">
 
-    <canvas id="particle-canvas"></canvas>
+    <canvas id="particle-canvas" aria-hidden="true"></canvas>
 
     <header class="sticky top-0 z-50 bg-slate-background/80 backdrop-blur-xl border-b border-white/5">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <div class="flex items-center gap-3">
-                <div class="pulse-dot"></div>
-                <h1 class="text-xl font-bold text-white tracking-tighter">Forward<span class="text-emerald-accent">Pulse</span></h1>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2">
+            <div class="flex items-center gap-2 sm:gap-3 min-w-0">
+                <div class="pulse-dot flex-shrink-0"></div>
+                <h1 class="text-lg sm:text-xl font-bold text-white tracking-tighter truncate">Forward<span class="text-emerald-accent">Pulse</span></h1>
             </div>
-            <p id="current-date" class="text-slate-400 font-mono text-sm"></p>
+            <p id="current-date" class="text-slate-400 font-mono text-xs sm:text-sm flex-shrink-0"></p>
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 relative z-10">
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 sm:py-10 relative z-10">
 
         <!-- Hero Section -->
-        <section class="mb-12">
+        <section class="mb-6 sm:mb-12">
             <div class="flex items-center gap-2 mb-4">
                 <div class="pulse-dot"></div>
                 <h2 class="text-xs font-semibold uppercase tracking-[0.2em] text-emerald-accent/80">今日焦点</h2>
             </div>
             <div id="featured-container">
-                <div class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-8 sm:p-10 animate-pulse">
+                <div class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-5 sm:p-8 lg:p-10 animate-pulse">
                     <div class="flex flex-wrap items-center gap-3 mb-5">
                         <div class="h-5 w-16 bg-slate-800 rounded-full"></div>
                         <div class="h-4 w-24 bg-slate-800 rounded"></div>
@@ -192,7 +195,7 @@
         </section>
 
         <!-- Control Panel -->
-        <section class="mb-8 space-y-4">
+        <section class="mb-5 sm:mb-8 space-y-2 sm:space-y-4">
             <!-- Search Bar -->
             <div class="relative max-w-md">
                 <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
@@ -200,23 +203,24 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                     </svg>
                 </div>
-                <input id="searchInput" type="text" placeholder="搜索情报关键词..."
+                <label for="searchInput" class="sr-only">搜索情报关键词</label>
+                <input id="searchInput" type="text" placeholder="搜索情报关键词..." aria-label="搜索情报关键词"
                     class="search-input w-full pl-11 pr-4 py-2.5 bg-slate-900/50 border border-white/10 rounded-xl text-sm text-slate-200 placeholder-slate-500 backdrop-blur-sm">
             </div>
             <!-- Tabs -->
-            <div class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1" id="tabGroup">
-                <button class="tab-btn active text-sm font-medium px-5 py-2 rounded-full border border-emerald-500/30 whitespace-nowrap" data-filter="全部">全部</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" data-filter="科技前沿">科技前沿</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" data-filter="全球金融">全球金融</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" data-filter="地缘政治">地缘政治</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" data-filter="具身智能">具身智能</button>
+            <div class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1" id="tabGroup" role="tablist">
+                <button class="tab-btn active text-sm font-medium px-5 py-2 rounded-full border border-emerald-500/30 whitespace-nowrap" role="tab" aria-selected="true" data-filter="全部">全部</button>
+                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="科技前沿">科技前沿</button>
+                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="全球金融">全球金融</button>
+                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="地缘政治">地缘政治</button>
+                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="具身智能">具身智能</button>
             </div>
             <!-- Date Timeline -->
             <div id="dateTimeline" class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1"></div>
         </section>
 
         <!-- Grid -->
-        <section id="articles-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-8"></section>
+        <section id="articles-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 mb-6 sm:mb-8"></section>
         <!-- Load More -->
         <div class="flex justify-center mb-16">
             <button id="loadMoreBtn" style="display:none"
@@ -227,9 +231,9 @@
 
     </main>
 
-    <footer class="border-t border-white/10 py-8 backdrop-blur-sm relative z-10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <span class="text-sm text-slate-500">&copy; 2026 ForwardPulse &mdash; 洞见未来，先人一步</span>
+    <footer class="border-t border-white/10 py-5 sm:py-8 backdrop-blur-sm relative z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-4">
+            <span class="text-xs sm:text-sm text-slate-500">&copy; 2026 ForwardPulse &mdash; 洞见未来，先人一步</span>
             <span class="text-xs text-slate-600">数据来源仅供演示，不代表真实事件</span>
         </div>
     </footer>
@@ -239,11 +243,11 @@
 
     <!-- Source Drawer -->
     <aside id="source-drawer" class="fixed top-0 right-0 h-screen w-full md:w-[40%] z-[70] translate-x-full bg-slate-900/90 backdrop-blur-xl border-l-2 border-emerald-500/30 overflow-y-auto">
-        <div class="sticky top-0 flex items-center justify-between p-4 border-b border-white/10 bg-slate-900/80 backdrop-blur-md">
-            <h3 class="text-lg font-bold text-white">深度解析与源文</h3>
-            <button id="drawer-close-btn" class="w-8 h-8 flex items-center justify-center rounded-full border border-white/10 text-slate-400 hover:text-white hover:border-emerald-500/50 transition-all duration-200">&times;</button>
+        <div class="sticky top-0 flex items-center justify-between p-3 sm:p-4 border-b border-white/10 bg-slate-900/80 backdrop-blur-md">
+            <h3 class="text-base sm:text-lg font-bold text-white">深度解析与源文</h3>
+            <button id="drawer-close-btn" aria-label="关闭" class="w-8 h-8 flex items-center justify-center rounded-full border border-white/10 text-slate-400 hover:text-white hover:border-emerald-500/50 transition-all duration-200">&times;</button>
         </div>
-        <div id="drawer-content" class="p-6 space-y-6"></div>
+        <div id="drawer-content" class="p-4 sm:p-6 space-y-4 sm:space-y-6"></div>
     </aside>
 
     <script>
@@ -266,6 +270,7 @@
         var currentR = 52, currentG = 211, currentB = 153;
         var targetR  = 52, targetG  = 211, targetB  = 153;
         var LERP_SPEED = 0.05;
+        var animFrameId = null;
 
         var CONNECT_DIST = 180;
         var MOUSE_DIST   = 200;
@@ -395,10 +400,19 @@
                 }
             }
 
-            requestAnimationFrame(animate);
+            animFrameId = requestAnimationFrame(animate);
         }
 
         animate();
+
+        // 标签页不可见时暂停粒子动画
+        document.addEventListener('visibilitychange', function () {
+            if (document.hidden) {
+                cancelAnimationFrame(animFrameId);
+            } else {
+                animate();
+            }
+        });
 
         // ── 3. 数据引擎 ─────────────────────────────────
         var BADGE_MAP = {
@@ -438,19 +452,19 @@
         function renderFeatured(d) {
             var s = buildStars(d.stars || '★★★');
             var b = BADGE_MAP[d.category] || BADGE_MAP['科技前沿'];
-            return '<article class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-8 sm:p-10 cursor-pointer group hover:-translate-y-1 hover:scale-[1.01] transition-all duration-300">' +
-                '<div class="flex flex-wrap items-center gap-3 mb-5">' +
+            return '<article class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-5 sm:p-8 lg:p-10 cursor-pointer group hover:-translate-y-1 transition-all duration-300">' +
+                '<div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-3 sm:mb-5">' +
                     '<span class="' + b.cls + ' text-xs font-medium px-3 py-1 rounded-full border border-emerald-accent/20">' + (d.category || '前沿动态') + '</span>' +
                     '<span class="text-xs text-slate-400 font-mono">' + (d.date || '日期未知') + '</span>' +
                 '</div>' +
-                '<h1 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white leading-tight mb-5 tracking-tight ' + b.hover + ' transition-colors duration-300">' + (d.title || '机密情报解析中...') + '</h1>' +
-                '<p class="text-slate-300 text-base sm:text-lg leading-relaxed mb-6 max-w-2xl">' + (d.summary || '数据流暂未捕获详细摘要。') + '</p>' +
-                '<div class="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-8">' +
+                '<h1 class="text-xl sm:text-2xl lg:text-4xl font-extrabold text-white leading-tight mb-3 sm:mb-5 tracking-tight ' + b.hover + ' transition-colors duration-300">' + (d.title || '机密情报解析中...') + '</h1>' +
+                '<p class="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6 max-w-2xl line-clamp-3 sm:line-clamp-none">' + (d.summary || '数据流暂未捕获详细摘要。') + '</p>' +
+                '<div class="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-8">' +
                     '<div class="flex items-center gap-2">' +
                         '<span class="text-sm text-slate-400 mr-1">前瞻指数</span>' +
                         '<span class="inline-block" aria-label="' + s.label + '">' + s.svg + '</span>' +
                     '</div>' +
-                    '<div class="insight-line text-sm">深度思考：' + (d.insight || '情报分析引擎持续运转中。') + '</div>' +
+                    '<div class="insight-line text-xs sm:text-sm">深度思考：' + (d.insight || '情报分析引擎持续运转中。') + '</div>' +
                 '</div>' +
             '</article>';
         }
@@ -459,18 +473,18 @@
             var s = buildStars(a.stars || '★★★');
             var b = BADGE_MAP[a.category] || BADGE_MAP['科技前沿'];
             var articleJson = JSON.stringify(a).replace(/"/g, '&quot;');
-            return '<article class="glow-border rounded-xl bg-slate-900/60 backdrop-blur-sm p-6 cursor-pointer group flex flex-col hover:-translate-y-1 hover:scale-[1.02] transition-all duration-300" data-category="' + (a.category || '科技前沿') + '">' +
-                '<div class="flex flex-wrap items-center gap-3 mb-4">' +
-                    '<span class="' + b.cls + ' text-xs font-medium px-3 py-1 rounded-full">' + (a.category || '未分类') + '</span>' +
+            return '<article class="glow-border rounded-xl bg-slate-900/60 backdrop-blur-sm p-4 sm:p-6 cursor-pointer group flex flex-col hover:-translate-y-1 transition-all duration-300" data-category="' + (a.category || '科技前沿') + '">' +
+                '<div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-3 sm:mb-4">' +
+                    '<span class="' + b.cls + ' text-xs font-medium px-2.5 py-0.5 rounded-full">' + (a.category || '未分类') + '</span>' +
                     '<span class="text-xs text-slate-400 font-mono">' + (a.date || '--') + '</span>' +
                 '</div>' +
-                '<h3 class="text-lg font-semibold text-white leading-snug mb-3 ' + b.hover + ' transition-colors duration-300">' + (a.title || '机密情报解析中...') + '</h3>' +
-                '<p class="text-sm text-slate-300 leading-relaxed mb-5 flex-1">' + (a.summary || '数据流暂未捕获详细摘要。') + '</p>' +
-                '<div class="flex items-center gap-2 mb-4">' +
+                '<h3 class="text-base sm:text-lg font-semibold text-white leading-snug mb-2 sm:mb-3 ' + b.hover + ' transition-colors duration-300">' + (a.title || '机密情报解析中...') + '</h3>' +
+                '<p class="text-xs sm:text-sm text-slate-300 leading-relaxed mb-3 sm:mb-5 flex-1 line-clamp-3 sm:line-clamp-none">' + (a.summary || '数据流暂未捕获详细摘要。') + '</p>' +
+                '<div class="flex items-center gap-2 mb-3 sm:mb-4">' +
                     '<span class="text-xs text-slate-400 mr-1">前瞻指数</span>' +
                     '<span class="inline-block" aria-label="' + s.label + '">' + s.svg + '</span>' +
                 '</div>' +
-                '<div class="insight-line text-xs mb-4">深度思考：' + (a.insight || '情报分析引擎持续运转中。') + '</div>' +
+                '<div class="insight-line text-xs mb-3 sm:mb-4">深度思考：' + (a.insight || '情报分析引擎持续运转中。') + '</div>' +
                 '<button class="view-source-btn text-emerald-400 hover:text-emerald-300 text-sm mt-auto flex items-center gap-1 transition-colors" data-article="' + articleJson + '">&#9654; 深度解析与源文</button>' +
             '</article>';
         }
@@ -508,7 +522,7 @@
             if (resetPage) currentPage = 1;
             var filtered = allArticles.filter(function (a) {
                 var matchCategory = (currentFilter === '全部') || (a.category === currentFilter);
-                var matchDate = (selectedDate === 'all') || (a.date === selectedDate);
+                var matchDate = (selectedDate === 'all') || ((a.date || '').indexOf(selectedDate) === 0);
                 var matchSearch = !searchQuery ||
                     (a.title || '').indexOf(searchQuery) !== -1 ||
                     (a.summary || '').indexOf(searchQuery) !== -1 ||
@@ -610,6 +624,17 @@
                 html += '<div class="insight-line text-sm">深度思考：' + data.insight + '</div>';
             }
 
+            // 原始出处链接
+            if (data.source_url) {
+                html += '<div class="pt-4 border-t border-white/10">';
+                html += '<a href="' + data.source_url + '" target="_blank" rel="noopener noreferrer" ' +
+                    'class="inline-flex items-center gap-2 px-5 py-3 rounded-xl border border-emerald-500/30 text-emerald-400 bg-emerald-500/5 hover:bg-emerald-500/15 hover:border-emerald-500/60 hover:shadow-[0_0_20px_rgba(16,185,129,0.15)] transition-all duration-300 text-sm font-medium">' +
+                    '<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg> 前往原始出处查阅' +
+                    (data.source_name ? ' <span class="text-slate-500">(' + data.source_name + ')</span>' : '') +
+                    '</a>';
+                html += '</div>';
+            }
+
             content.innerHTML = html;
 
             // 滑入
@@ -658,17 +683,20 @@
             });
         }
 
-        // 时间轴渲染
+        // 时间轴渲染（按日期去重，忽略小时分钟）
         function renderTimeline() {
             var dates = [];
             var seen = {};
             allArticles.forEach(function (a) {
-                var d = a.date || '';
+                var d = (a.date || '').split(' ')[0]; // 截取 "2026.06.03"
                 if (d && !seen[d]) { seen[d] = true; dates.push(d); }
             });
             dates.sort(function (a, b) { return b.localeCompare(a); });
 
             var container = document.getElementById('dateTimeline');
+            // 数据少于2个日期时隐藏时间轴，节省空间
+            if (dates.length < 2) { container.style.display = 'none'; return; }
+            container.style.display = '';
             var html = '<button class="date-btn active text-xs font-medium px-4 py-1.5 rounded-full border border-emerald-500/30 text-emerald-400 whitespace-nowrap transition-all duration-200" data-date="all">全部时间</button>';
             dates.forEach(function (d) {
                 html += '<button class="date-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-slate-400 whitespace-nowrap transition-all duration-200 hover:text-emerald-400 hover:border-emerald-500/30" data-date="' + d + '">' + d + '</button>';

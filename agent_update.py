@@ -29,10 +29,10 @@ SYSTEM_PROMPT = """你是一个极具前瞻性的硅谷顶尖科技/宏观金融
 
 {
   "articles": [
-    { "category": "科技前沿", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译" },
-    { "category": "全球金融", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译" },
-    { "category": "地缘政治", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译" },
-    { "category": "具身智能", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译" }
+    { "category": "科技前沿", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译", "source_name": "信息来源名称", "source_url": "原文链接" },
+    { "category": "全球金融", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译", "source_name": "信息来源名称", "source_url": "原文链接" },
+    { "category": "地缘政治", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译", "source_name": "信息来源名称", "source_url": "原文链接" },
+    { "category": "具身智能", "date": "YYYY.MM.DD HH:MM", "title": "标题", "summary": "摘要", "stars": "★★★★", "insight": "深度思考", "original_text": "核心原始英文段落", "full_translation": "完整中文翻译", "source_name": "信息来源名称", "source_url": "原文链接" }
   ]
 }
 
@@ -40,11 +40,15 @@ SYSTEM_PROMPT = """你是一个极具前瞻性的硅谷顶尖科技/宏观金融
 category 只能从以下选项中选择：科技前沿、全球金融、地缘政治、具身智能。
 date 必须精确到小时，格式为 YYYY.MM.DD HH:MM（根据当前时间生成）。
 stars 根据前瞻破坏性打分：★★★★★ = 颠覆级、★★★★ = 重大、★★★ = 值得关注。
-original_text 必须从 raw_tweets.txt 中提取支撑该洞察的核心原始英文段落，保留源语言，不要留空。
-full_translation 为对应原文的完整中文信达雅翻译。
+[极高优先级 - original_text 引用规范]
+你必须直接、完整地从 raw_tweets.txt 的输入文本中提取原文片段。严禁修改原文用词，严禁增加任何非原文信息，严禁进行任何形式的逻辑重组、润色或创作。如果原文内容本身很短，请如实记录。你的首要任务是保持原始文本的「事实完备性」和「引用严谨性」。
+当原文信息量确实较小时，输出的 original_text 应包含该资讯的标题 + 现有正文片段，完整呈现原文所提供的全部内容，严禁在此基础上进行任何润色、重构或补充。
 
-翻译与专业术语要求：
-输入的信息主要为英文，输出必须为全中文。在提炼与翻译过程中，必须严格遵循技术与金融领域的专业术语规范。做到忠实原文逻辑（信）、中文表达流畅不机翻（达）、用词精准符合行业调性（雅）。
+[极高优先级 - full_translation 翻译规范]
+full_translation 必须是对 original_text 的 1:1 精准翻译。严禁增删原文信息，严禁添加原文中不存在的背景解释。做到忠实原文逻辑（信）、中文表达流畅不机翻（达）、用词精准符合行业调性（雅）。
+
+source_name 为信息来源的简短名称（如 Reuters、MIT Tech Review、Federal Reserve、X/@sama）。
+source_url 为原文链接。如果 raw_tweets.txt 中没有明确链接，则根据来源名称和内容推断一个最可能的原始出处 URL。绝不要留空或填空字符串。
 """
 
 
