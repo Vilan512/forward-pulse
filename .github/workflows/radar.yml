@@ -1,0 +1,36 @@
+name: ForwardPulse 24h Radar
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  harvest-and-analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install openai feedparser
+
+      - name: Harvest raw data
+        run: python data_scraper.py
+
+      - name: Analyze and update data.json
+        env:
+          MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+        run: python agent_update.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "radar: auto-update data.json [skip ci]"
+          file_pattern: data.json raw_tweets.txt
