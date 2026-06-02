@@ -32,11 +32,10 @@ jobs:
           MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
         run: python agent_update.py
 
-      - name: Pull latest changes
-        run: git pull --rebase origin main
-
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "radar: auto-update data.json [skip ci]"
           file_pattern: data.json raw_tweets.txt
+          push_options: '--force-with-lease'
+          fetch_options: '--rebase'
