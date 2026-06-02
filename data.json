@@ -2,6 +2,54 @@
   "articles": [
     {
       "category": "科技前沿",
+      "date": "2026.06.02 21:55",
+      "title": "Sam Altman: AGI时间线正在加速",
+      "summary": "OpenAI CEO Sam Altman表示，内部基准测试显示，当前模型在复杂任务上与人类水平推理能力的差距，正以超出2024年预测的速度缩小，可能需要重新定义AGI。",
+      "stars": "★★★★",
+      "insight": "此信号表明AI能力的指数级增长可能比行业共识更快。对于未来6-18个月，这意味着AGI的讨论将从理论转向更具体的基准测试和安全治理争论。企业需要重新评估其AI战略的时间表和风险模型，因为突破性能力的提前到来将颠覆现有的技术部署和商业模式。重新定义AGI的提议本身就是一个强烈的预警，预示着现有监管和伦理框架可能迅速过时。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚看了一下我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力的差距，正比我们2024年的任何预测都要更快地缩小。我们可能需要在达到目标之前重新审视\"AGI\"究竟意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": "https://twitter.com/sama"
+    },
+    {
+      "category": "全球金融",
+      "date": "2026.06.02 21:55",
+      "title": "美国监管机构移除更多关于声誉风险的参考条款",
+      "summary": "美国联邦监管机构进一步移除了监管文件中与“声誉风险”相关的表述。",
+      "stars": "★★★",
+      "insight": "这是一个典型的金融监管放松信号。减少对银行“声誉风险”的审查，实质上降低了金融机构（尤其是在加密货币等争议领域）的合规压力和运营成本。这可能为传统金融机构更积极地涉足数字资产等新兴领域扫清障碍，预示着未来6-18个月监管环境可能对金融创新更加友好，但也可能积累系统性风险。",
+      "original_text": "Agencies remove additional references to reputation risk",
+      "full_translation": "监管机构移除了更多关于声誉风险的参考条款。",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/"
+    },
+    {
+      "category": "地缘政治",
+      "date": "2026.06.02 21:55",
+      "title": "欧盟可能将美国云巨头排除在关键合同之外",
+      "summary": "为减少对美国科技的依赖，欧盟正考虑将亚马逊、微软和谷歌等美国云服务商排除在关键基础设施合同之外，此举由地缘政治主权诉求推动。",
+      "stars": "★★★★★",
+      "insight": "这是数字主权运动升级为实质性经济脱钩的标志性事件。其破坏性影响将远超云计算市场本身：1）直接冲击美国科技巨头的欧洲收入核心；2）加速全球技术栈和供应链的区域化分裂；3）迫使跨国企业重新设计其全球IT架构，以应对“数据主权”墙。未来18个月，类似以国家安全和主权为名的市场准入壁垒将在全球更多领域（如AI、芯片）出现，重塑全球科技竞争格局。",
+      "original_text": "The EU may exclude US cloud giants from critical contracts The likes of Amazon, Microsoft, and Google could be shut out. (Reuters $)+ The EU aims to reduce its dependence on US tech. (FT $)+ Trump supercharged this sovereignty push. (Politico $)",
+      "full_translation": "欧盟可能将美国云巨头排除在关键合同之外 亚马逊、微软和谷歌等公司可能被拒之门外。(路透社 $)+ 欧盟旨在减少对美国科技的依赖。(英国《金融时报》 $)+ 特朗普加速了这一主权诉求。(Politico $)",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/"
+    },
+    {
+      "category": "具身智能",
+      "date": "2026.06.02 21:55",
+      "title": "Satya Nadella：下一个平台转移是具身智能",
+      "summary": "微软CEO Satya Nadella指出，AI正在从生成文本和图像转向操纵原子（物理世界），机器人基础模型处于2020年大语言模型的阶段，解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★★",
+      "insight": "此观点将AI的发展路径清晰地划分为“比特”与“原子”两个阶段，具身智能被定位为继LLM之后的核心平台。其破坏性在于：1）将AI的竞争从虚拟世界引入价值数万亿美元的实体制造业，颠覆生产函数；2）“模拟到现实迁移”问题一旦突破，将引发制造业自动化程度的质变，重塑全球供应链和劳动力结构；3）暗示了下一个万亿市值公司可能诞生于机器人基础模型领域，而非纯粹的软件公司。这是对未来6-18个月资本和技术投资方向的明确指南。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正进入一个AI不仅生成文本和图像——而是操纵原子的时代。机器人基础模型正处于2020年大语言模型所处的阶段。那些解决了模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": "https://twitter.com/elaboratepool"
+    },
+    {
+      "category": "科技前沿",
       "date": "2026.06.03 05:14",
       "title": "生成式AI加速侵入企业后台，自动化管理职能面临重构",
       "summary": "MIT技术评论指出，生成式AI正以惊人广度渗透企业运营，从会计、设计到市场研究，中小企业可借此获得过去只有大公司才具备的专家级能力，这预示着企业后台职能的自动化浪潮即将到来。",
