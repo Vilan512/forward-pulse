@@ -21,12 +21,8 @@ except ImportError:
 # 配置：RSS 数据源 (name → {url, category})
 # ════════════════════════════════════════════════════════
 RSS_FEEDS = {
-    "MIT_Tech_AI": {
-        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-        "category": "AI",
-    },
-    "VentureBeat_AI": {
-        "url": "https://venturebeat.com/category/ai/feed/",
+    "MIT_Tech": {
+        "url": "https://www.technologyreview.com/feed/",
         "category": "AI",
     },
     "HuggingFace": {
@@ -40,6 +36,10 @@ RSS_FEEDS = {
     "McKinsey": {
         "url": "https://www.mckinsey.com/insights/rss",
         "category": "智库与趋势预测",
+    },
+    "Federal_Reserve": {
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "category": "全球金融与地缘政治",
     },
 }
 
