@@ -452,6 +452,7 @@
         function renderFeatured(d) {
             var s = buildStars(d.stars || '★★★');
             var b = BADGE_MAP[d.category] || BADGE_MAP['科技前沿'];
+            var articleJson = JSON.stringify(d).replace(/"/g, '&quot;');
             return '<article class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-5 sm:p-8 lg:p-10 cursor-pointer group hover:-translate-y-1 transition-all duration-300">' +
                 '<div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-3 sm:mb-5">' +
                     '<span class="' + b.cls + ' text-xs font-medium px-3 py-1 rounded-full border border-emerald-accent/20">' + (d.category || '前沿动态') + '</span>' +
@@ -459,13 +460,14 @@
                 '</div>' +
                 '<h1 class="text-xl sm:text-2xl lg:text-4xl font-extrabold text-white leading-tight mb-3 sm:mb-5 tracking-tight ' + b.hover + ' transition-colors duration-300">' + (d.title || '机密情报解析中...') + '</h1>' +
                 '<p class="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed mb-4 sm:mb-6 max-w-2xl line-clamp-3 sm:line-clamp-none">' + (d.summary || '数据流暂未捕获详细摘要。') + '</p>' +
-                '<div class="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-8">' +
+                '<div class="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-8 mb-4 sm:mb-6">' +
                     '<div class="flex items-center gap-2">' +
                         '<span class="text-sm text-slate-400 mr-1">前瞻指数</span>' +
                         '<span class="inline-block" aria-label="' + s.label + '">' + s.svg + '</span>' +
                     '</div>' +
                     '<div class="insight-line text-xs sm:text-sm">深度思考：' + (d.insight || '情报分析引擎持续运转中。') + '</div>' +
                 '</div>' +
+                '<button class="view-source-btn text-emerald-400 hover:text-emerald-300 text-sm flex items-center gap-1 transition-colors" data-article="' + articleJson + '">&#9654; 深度解析与源文</button>' +
             '</article>';
         }
 
