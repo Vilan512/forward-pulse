@@ -18,11 +18,21 @@ except ImportError:
     sys.exit(1)
 
 # ════════════════════════════════════════════════════════
-# 配置：RSS 数据源
+# 配置：RSS 数据源 (name → {url, category})
 # ════════════════════════════════════════════════════════
 RSS_FEEDS = {
-    "MIT_Tech":        "https://www.technologyreview.com/feed/",
-    "Federal_Reserve": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "MIT_Tech_AI": {
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "category": "AI",
+    },
+    "Project_Syndicate": {
+        "url": "https://www.project-syndicate.org/rss",
+        "category": "全球金融与地缘政治",
+    },
+    "McKinsey": {
+        "url": "https://www.mckinsey.com/insights/rss",
+        "category": "智库与趋势预测",
+    },
 }
 
 # 抓取时间窗口（小时）
@@ -44,7 +54,9 @@ def fetch_rss_feeds() -> list[dict]:
     results = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
 
-    for name, url in RSS_FEEDS.items():
+    for name, config in RSS_FEEDS.items():
+        url = config["url"]
+        category = config["category"]
         print(f"[信息] 正在嗅探 {name}: {url}")
         try:
             feed = feedparser.parse(url)
@@ -77,6 +89,7 @@ def fetch_rss_feeds() -> list[dict]:
                 if title:
                     results.append({
                         'source': name,
+                        'category': category,
                         'title': title,
                         'body': body,
                         'url': link,
@@ -109,18 +122,21 @@ def fetch_twitter_whitelist(accounts: list[str]) -> list[dict]:
     mock_tweets = [
         {
             'source': 'X/@sama',
+            'category': 'AI',
             'title': 'Sam Altman: AGI timeline keeps accelerating',
             'summary': 'Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.',
             'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
         },
         {
             'source': 'X/@VitalikButerin',
+            'category': '全球金融与地缘政治',
             'title': 'Vitalik: Crypto needs to solve real problems or die',
             'summary': 'Spent the weekend talking to policymakers in 3 countries. The narrative that crypto is just speculation is becoming entrenched. If we dont ship killer apps for remittances, identity, and DAO governance in the next 18 months, the regulatory window slams shut permanently.',
             'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
         },
         {
             'source': 'X/@elaboratepool',
+            'category': 'AI',
             'title': 'Satya Nadella: The next platform shift is embodied AI',
             'summary': 'We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.',
             'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
@@ -149,7 +165,7 @@ def assemble_and_export(rss_data: list[dict], twitter_data: list[dict], output_p
     lines.append("")
 
     for item in all_items:
-        lines.append(f"[来源: {item['source']}] [时间: {item['time']}]")
+        lines.append(f"[来源: {item['source']}] [分类: {item.get('category', '未分类')}] [时间: {item['time']}]")
         lines.append(f"标题: {item['title']}")
         if item.get('url'):
             lines.append(f"链接: {item['url']}")
