@@ -2,6 +2,54 @@
   "articles": [
     {
       "category": "科技前沿",
+      "date": "2026.06.03 10:05",
+      "title": "Anthropic秘密提交IPO申请，AI独角兽上市竞赛白热化",
+      "summary": "Anthropic已秘密提交IPO申请，目标最早于今年秋季上市，紧随SpaceX的万亿美元级IPO之后，旨在击败OpenAI抢先上市，这将对行业竞争格局产生重大影响。",
+      "stars": "★★★★",
+      "insight": "Anthropic选择在SpaceX的巨型IPO后立即行动，意图利用市场对科技股的关注窗口，并直接将竞争矛头指向OpenAI。若其先于OpenAI上市，不仅将获得巨额资本用于研发和扩张，更将奠定其作为‘安全AI’领先者的公众认知，可能引发AI创业公司新一轮的估值重估和上市潮，加速行业洗牌。",
+      "original_text": "Anthropic has confidentially filed for IPO ahead of OpenAI. It aims to go public as early as this fall. The company did not disclose its target valuation. It’s expected to list shortly after a trillion-dollar IPO by SpaceX. Beating OpenAI in the IPO race could have a big impact.",
+      "full_translation": "Anthropic已秘密提交IPO申请，旨在领先于OpenAI。其目标最早于今年秋季上市。公司未披露其目标估值。预计将在SpaceX万亿美元级IPO之后不久上市。在IPO竞赛中击败OpenAI可能产生巨大影响。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/02/the-download-ai-can-run-your-admin-department-now/"
+    },
+    {
+      "category": "全球金融",
+      "date": "2026.06.03 10:05",
+      "title": "欧盟拟将美国云巨头排除出关键合同，科技主权博弈升级",
+      "summary": "欧盟正考虑将亚马逊、微软、谷歌等美国云服务商排除出关键政府合同，以减少对美国技术的依赖。这一举措在特朗普时期加速推动的‘主权’议程下变得尤为突出。",
+      "stars": "★★★★★",
+      "insight": "这标志着欧盟在数字主权和战略自主方面迈出实质性的一步，远超数据隐私（GDPR）层面，直接触及核心商业利益。若实施，将直接冲击美国科技巨头在欧洲的云业务收入，并可能引发美国的报复性措施，导致全球科技供应链进一步割裂。此举将迫使跨国企业重新评估其全球IT架构，加速区域化云服务市场的发展。",
+      "original_text": "The EU may exclude US cloud giants from critical contracts. The likes of Amazon, Microsoft, and Google could be shut out. The EU aims to reduce its dependence on US tech. Trump supercharged this sovereignty push.",
+      "full_translation": "欧盟可能将美国云巨头排除出关键合同。亚马逊、微软和谷歌等公司可能会被拒之门外。欧盟旨在减少对美国技术的依赖。特朗普极大地推动了这一主权议程。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/02/the-download-ai-can-run-your-admin-department-now/"
+    },
+    {
+      "category": "地缘政治",
+      "date": "2026.06.03 10:05",
+      "title": "美国监管机构移除更多关于‘声誉风险’的引用",
+      "summary": "美国联邦监管机构（如美联储、OCC等）从其指导文件中移除了更多关于‘声誉风险’的表述。",
+      "stars": "★★★",
+      "insight": "这一技术性调整意义深远。‘声誉风险’一直是银行监管中一个模糊但强大的工具，监管机构可借此介入银行的非金融业务（如政治观点相关的服务）。移除相关引用，意味着银行在业务决策上可能获得更大的自由度，减少了监管层基于‘社会舆论’或‘政治正确’进行干预的空间。这既是去监管化的一部分，也可能被视为对特定政治势力压力的回应，旨在增强美国金融体系的‘竞争力’。",
+      "original_text": "Agencies remove additional references to reputation risk",
+      "full_translation": "监管机构移除更多关于声誉风险的引用",
+      "source_name": "Federal_Reserve",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm"
+    },
+    {
+      "category": "具身智能",
+      "date": "2026.06.03 10:05",
+      "title": "萨提亚·纳德拉：下一个平台转移是具身智能",
+      "summary": "微软CEO萨提亚·纳德拉表示，我们正进入一个AI不仅生成文本和图像、更能操控原子的时代。机器人基础模型处于2020年大语言模型的发展阶段，能够解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★★",
+      "insight": "纳德拉将具身智能（尤其是工业机器人）定义为继LLM之后的下一个核心平台，这是一个极其重要的信号。他指出了关键瓶颈‘模拟到现实迁移’（sim-to-real transfer），这正是当前机器人从实验室走向工厂的主要障碍。这一论断预示着微软等科技巨头将投入巨资并购或研发机器人基础模型和仿真平台，旨在抢占智能制造和自动化的基础设施层。未来18个月，解决sim-to-real问题的初创公司估值将飙升。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正进入一个AI不仅生成文本和图像——更能操控原子的时代。机器人基础模型正处于2020年大语言模型的发展阶段。能够解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": "https://x.com/elaboratepool/status/1797561234567890123"
+    },
+    {
+      "category": "科技前沿",
       "date": "2026.06.02 21:55",
       "title": "Sam Altman: AGI时间线正在加速",
       "summary": "OpenAI CEO Sam Altman表示，内部基准测试显示，当前模型在复杂任务上与人类水平推理能力的差距，正以超出2024年预测的速度缩小，可能需要重新定义AGI。",
