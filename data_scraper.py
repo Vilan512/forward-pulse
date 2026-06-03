@@ -72,11 +72,14 @@ def fetch_rss_feeds() -> list[dict]:
                     raw_body = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
                 body = clean_html(raw_body)
 
+                link = getattr(entry, 'link', '') or ''
+
                 if title:
                     results.append({
                         'source': name,
                         'title': title,
                         'body': body,
+                        'url': link,
                         'time': published.strftime('%Y-%m-%d %H:%M') if published else '未知时间',
                     })
                     count += 1
@@ -148,6 +151,8 @@ def assemble_and_export(rss_data: list[dict], twitter_data: list[dict], output_p
     for item in all_items:
         lines.append(f"[来源: {item['source']}] [时间: {item['time']}]")
         lines.append(f"标题: {item['title']}")
+        if item.get('url'):
+            lines.append(f"链接: {item['url']}")
         body = item.get('body', '') or item.get('summary', '')
         if body:
             lines.append(f"正文: {body}")

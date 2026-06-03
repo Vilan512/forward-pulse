@@ -48,7 +48,7 @@ stars 根据前瞻破坏性打分：★★★★★ = 颠覆级、★★★★ =
 full_translation 必须是对 original_text 的 1:1 精准翻译。严禁增删原文信息，严禁添加原文中不存在的背景解释。做到忠实原文逻辑（信）、中文表达流畅不机翻（达）、用词精准符合行业调性（雅）。
 
 source_name 为信息来源的简短名称（如 Reuters、MIT Tech Review、Federal Reserve、X/@sama）。
-source_url 为原文链接。如果 raw_tweets.txt 中没有明确链接，则根据来源名称和内容推断一个最可能的原始出处 URL。绝不要留空或填空字符串。
+source_url 必须直接从 raw_tweets.txt 中对应条目的「链接:」字段提取。如果原文中没有提供链接字段，则填空字符串 ""。严禁编造或推断 URL。
 """
 
 
