@@ -15,6 +15,7 @@
                     },
                     fontFamily: {
                         sans: ['"Space Grotesk"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', '"Fira Code"', 'monospace'],
                     }
                 }
             }
@@ -22,7 +23,7 @@
     </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Space Grotesk', sans-serif; }
 
@@ -31,35 +32,7 @@
             inset: 0;
             z-index: -1;
             pointer-events: none;
-        }
-        .glow-border {
-            position: relative;
-            border: 1px solid rgba(16, 185, 129, 0.1);
-            background: linear-gradient(135deg, rgba(15, 23, 42, 0.85) 0%, rgba(30, 41, 59, 0.75) 100%);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.03);
-            transition: border-color 0.4s ease, box-shadow 0.4s ease, transform 0.3s ease;
-        }
-        .glow-border:hover {
-            border-color: rgba(16, 185, 129, 0.4);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 20px rgba(16, 185, 129, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.05);
-            transform: translateY(-4px);
-        }
-
-        .hero-glow {
-            position: relative;
-            border: 1px solid rgba(16, 185, 129, 0.15);
-            background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(30, 41, 59, 0.8) 100%);
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
-            box-shadow: 0 8px 40px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.04);
-            transition: border-color 0.5s ease, box-shadow 0.5s ease, transform 0.3s ease;
-        }
-        .hero-glow:hover {
-            border-color: rgba(16, 185, 129, 0.5);
-            box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5), 0 0 30px rgba(16, 185, 129, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.06);
-            transform: translateY(-3px);
+            opacity: 0.08;
         }
 
         .tab-btn {
@@ -93,33 +66,6 @@
         .tabs-scroll::-webkit-scrollbar { height: 0; }
         .tabs-scroll { -ms-overflow-style: none; scrollbar-width: none; }
 
-        .line-clamp-3 {
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        @media (min-width: 640px) {
-            .sm\:line-clamp-none { -webkit-line-clamp: unset; overflow: visible; }
-        }
-
-        .badge-tech { background-color: rgba(16, 185, 129, 0.15); color: #34d399; }
-        .badge-finance { background-color: rgba(168, 85, 247, 0.15); color: #c084fc; }
-        .badge-politics { background-color: rgba(59, 130, 246, 0.15); color: #60a5fa; }
-
-        .insight-line {
-            border-left: 3px solid #34d399;
-            padding: 12px 16px;
-            color: #d1fae5;
-            font-weight: 500;
-            line-height: 1.7;
-            background: linear-gradient(90deg, rgba(16, 185, 129, 0.08) 0%, transparent 100%);
-            border-radius: 0 8px 8px 0;
-        }
-
-        .star-filled { color: #fbbf24; }
-        .star-empty { color: #334155; }
-
         .pulse-dot {
             width: 8px;
             height: 8px;
@@ -132,22 +78,44 @@
             50% { opacity: 0.5; transform: scale(1.3); }
         }
 
+        /* Ticker item styles */
+        .ticker-item {
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            padding-bottom: 2rem;
+            margin-bottom: 2rem;
+            transition: background-color 0.2s ease;
+        }
+        .ticker-item:hover {
+            background-color: rgba(255,255,255,0.02);
+        }
+        .ticker-item:last-child {
+            border-bottom: none;
+        }
+
+        .ticker-featured {
+            border-bottom: 2px solid rgba(16, 185, 129, 0.2);
+            padding-bottom: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .meta-line {
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.8rem;
+            letter-spacing: 0.05em;
+        }
+
         .card-fade-out {
             opacity: 0;
-            transform: scale(0.95);
-            transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
         }
         .card-fade-in {
             opacity: 1;
-            transform: scale(1);
-            transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
         }
 
         @media (prefers-reduced-motion: reduce) {
             .pulse-dot { animation: none; opacity: 1; }
-            .glow-border, .hero-glow { transition: none; }
-            .glow-border:hover, .hero-glow:hover { transform: none; }
-            .card-fade-out, .card-fade-in { transition: none; transform: none; }
+            .card-fade-out, .card-fade-in { transition: none; }
         }
 
         ::selection {
@@ -155,57 +123,45 @@
             color: #fff;
         }
 
-        #drawer-overlay {
-            transition: opacity 0.3s ease-in-out;
-        }
-        #source-drawer {
-            transition: transform 0.3s ease-in-out;
-        }
+        #drawer-overlay { transition: opacity 0.3s ease-in-out; }
+        #source-drawer { transition: transform 0.3s ease-in-out; }
     </style>
 </head>
 <body class="bg-slate-background text-slate-100 font-sans relative min-h-screen">
 
     <canvas id="particle-canvas" aria-hidden="true"></canvas>
 
-    <header class="sticky top-0 z-50 bg-slate-background/60 backdrop-blur-2xl border-b border-white/5">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2">
+    <header class="sticky top-0 z-50 bg-slate-background/70 backdrop-blur-2xl border-b border-white/5">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2">
             <div class="flex items-center gap-2 sm:gap-3 min-w-0">
                 <div class="pulse-dot flex-shrink-0"></div>
                 <h1 class="text-lg sm:text-xl font-bold text-white tracking-tighter truncate">Forward<span class="text-emerald-accent">Pulse</span></h1>
             </div>
-            <p id="current-date" class="text-slate-400 font-mono text-xs sm:text-sm flex-shrink-0"></p>
+            <p id="current-date" class="text-slate-500 font-mono text-xs sm:text-sm flex-shrink-0"></p>
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 sm:py-10 relative z-10">
+    <main class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10 relative z-10">
 
-        <!-- Hero Section -->
-        <section class="mb-6 sm:mb-12">
-            <div class="flex items-center gap-2 mb-4">
+        <!-- Featured Ticker -->
+        <section class="mb-8">
+            <div class="flex items-center gap-2 mb-6">
                 <div class="pulse-dot"></div>
-                <h2 class="text-xs font-semibold uppercase tracking-[0.2em] text-emerald-accent/80">今日焦点</h2>
+                <h2 class="text-xs font-semibold uppercase tracking-[0.2em] text-emerald-accent/80">LATEST SIGNAL</h2>
             </div>
             <div id="featured-container">
-                <div class="hero-glow rounded-2xl bg-slate-900/60 backdrop-blur-md p-5 sm:p-8 lg:p-10 animate-pulse">
-                    <div class="flex flex-wrap items-center gap-3 mb-5">
-                        <div class="h-5 w-16 bg-slate-800 rounded-full"></div>
-                        <div class="h-4 w-24 bg-slate-800 rounded"></div>
-                    </div>
-                    <div class="h-8 w-3/4 bg-slate-800 rounded mb-3"></div>
-                    <div class="h-8 w-1/2 bg-slate-800 rounded mb-5"></div>
-                    <div class="h-4 w-full bg-slate-800 rounded mb-2"></div>
-                    <div class="h-4 w-5/6 bg-slate-800 rounded mb-6"></div>
-                    <div class="flex gap-8">
-                        <div class="h-5 w-32 bg-slate-800 rounded"></div>
-                        <div class="h-5 w-64 bg-slate-800 rounded"></div>
-                    </div>
+                <div class="animate-pulse space-y-4">
+                    <div class="h-4 w-48 bg-slate-800 rounded"></div>
+                    <div class="h-8 w-3/4 bg-slate-800 rounded"></div>
+                    <div class="h-4 w-full bg-slate-800 rounded"></div>
+                    <div class="h-4 w-5/6 bg-slate-800 rounded"></div>
+                    <div class="h-4 w-64 bg-slate-800 rounded mt-4"></div>
                 </div>
             </div>
         </section>
 
         <!-- Control Panel -->
-        <section class="mb-5 sm:mb-8 space-y-2 sm:space-y-4">
-            <!-- Search Bar -->
+        <section class="mb-8 space-y-3">
             <div class="relative max-w-md">
                 <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
                     <svg class="w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -214,49 +170,48 @@
                 </div>
                 <label for="searchInput" class="sr-only">搜索情报关键词</label>
                 <input id="searchInput" type="text" placeholder="搜索情报关键词..." aria-label="搜索情报关键词"
-                    class="search-input w-full pl-11 pr-4 py-2.5 bg-slate-900/50 border border-white/10 rounded-xl text-sm text-slate-200 placeholder-slate-500 backdrop-blur-sm">
+                    class="search-input w-full pl-11 pr-4 py-2.5 bg-slate-900/50 border border-white/10 rounded-lg text-sm text-slate-200 placeholder-slate-500">
             </div>
-            <!-- Tabs -->
             <div class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1" id="tabGroup" role="tablist">
-                <button class="tab-btn active text-sm font-medium px-5 py-2 rounded-full border border-emerald-500/30 whitespace-nowrap" role="tab" aria-selected="true" data-filter="全部">全部</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="科技前沿">科技前沿</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="全球金融">全球金融</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="地缘政治">地缘政治</button>
-                <button class="tab-btn text-sm font-medium px-5 py-2 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="人工智能">人工智能</button>
+                <button class="tab-btn active text-xs font-medium px-4 py-1.5 rounded-full border border-emerald-500/30 whitespace-nowrap" role="tab" aria-selected="true" data-filter="全部">全部</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="科技前沿">科技前沿</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="全球金融">全球金融</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="地缘政治">地缘政治</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="人工智能">人工智能</button>
             </div>
-            <!-- Date Timeline -->
             <div id="dateTimeline" class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1"></div>
         </section>
 
-        <!-- Grid -->
-        <section id="articles-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 sm:gap-7 mb-8 sm:mb-12"></section>
+        <!-- Ticker Feed -->
+        <section id="articles-grid" class="mb-12"></section>
+
         <!-- Load More -->
         <div class="flex justify-center mb-16">
             <button id="loadMoreBtn" style="display:none"
-                class="text-sm font-medium px-8 py-3 rounded-full border border-emerald-500/30 text-emerald-accent bg-slate-900/50 hover:bg-emerald-500/10 hover:border-emerald-500/60 hover:shadow-[0_0_20px_rgba(16,185,129,0.15)] transition-all duration-300 backdrop-blur-sm">
+                class="text-xs font-medium px-6 py-2.5 rounded-full border border-white/10 text-slate-400 hover:text-emerald-400 hover:border-emerald-500/30 transition-all duration-300">
                 加载更多历史情报
             </button>
         </div>
 
     </main>
 
-    <footer class="border-t border-white/10 py-5 sm:py-8 backdrop-blur-sm relative z-10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-4">
-            <span class="text-xs sm:text-sm text-slate-500">&copy; 2026 ForwardPulse &mdash; 洞见未来，先人一步</span>
-            <span class="text-xs text-slate-600">数据来源仅供演示，不代表真实事件</span>
+    <footer class="border-t border-white/5 py-6 relative z-10">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-4">
+            <span class="text-xs text-slate-600 font-mono">&copy; 2026 ForwardPulse</span>
+            <span class="text-xs text-slate-700">数据来源仅供演示，不代表真实事件</span>
         </div>
     </footer>
 
     <!-- Drawer Overlay -->
-    <div id="drawer-overlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-[60] opacity-0 pointer-events-none"></div>
+    <div id="drawer-overlay" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-[60] opacity-0 pointer-events-none"></div>
 
     <!-- Source Drawer -->
-    <aside id="source-drawer" class="fixed top-0 right-0 h-screen w-full md:w-[40%] z-[70] translate-x-full bg-slate-900/90 backdrop-blur-xl border-l-2 border-emerald-500/30 overflow-y-auto">
-        <div class="sticky top-0 flex items-center justify-between p-3 sm:p-4 border-b border-white/10 bg-slate-900/80 backdrop-blur-md">
-            <h3 class="text-base sm:text-lg font-bold text-white">深度解析与源文</h3>
-            <button id="drawer-close-btn" aria-label="关闭" class="w-8 h-8 flex items-center justify-center rounded-full border border-white/10 text-slate-400 hover:text-white hover:border-emerald-500/50 transition-all duration-200">&times;</button>
+    <aside id="source-drawer" class="fixed top-0 right-0 h-screen w-full md:w-[45%] z-[70] translate-x-full bg-slate-900/95 backdrop-blur-xl border-l border-white/10 overflow-y-auto">
+        <div class="sticky top-0 flex items-center justify-between p-4 border-b border-white/10 bg-slate-900/90 backdrop-blur-md">
+            <h3 class="text-base font-bold text-white font-mono">DEEP ANALYSIS</h3>
+            <button id="drawer-close-btn" aria-label="关闭" class="w-8 h-8 flex items-center justify-center rounded border border-white/10 text-slate-400 hover:text-white hover:border-emerald-500/50 transition-all duration-200 text-lg">&times;</button>
         </div>
-        <div id="drawer-content" class="p-4 sm:p-6 space-y-4 sm:space-y-6"></div>
+        <div id="drawer-content" class="p-5 sm:p-8 space-y-6"></div>
     </aside>
 
     <script>
@@ -265,247 +220,116 @@
         var now = new Date();
         var weekdays = ['日','一','二','三','四','五','六'];
         document.getElementById('current-date').textContent =
-            now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日 星期' + weekdays[now.getDay()];
+            now.getFullYear() + '.' + String(now.getMonth()+1).padStart(2,'0') + '.' + String(now.getDate()).padStart(2,'0') + ' ' + ['SUN','MON','TUE','WED','THU','FRI','SAT'][now.getDay()];
 
-        // ── 2. 高清粒子引擎 ─────────────────────────────
+        // ── 2. 粒子引擎 ─────────────────────────────────
         var canvas = document.getElementById('particle-canvas');
         var ctx = canvas.getContext('2d');
         var dpr = window.devicePixelRatio || 1;
         var W = window.innerWidth, H = window.innerHeight;
         var particles = [];
         var mouse = { x: -9999, y: -9999 };
-
-        // 粒子色彩共鸣（Lerp）
         var currentR = 52, currentG = 211, currentB = 153;
         var targetR  = 52, targetG  = 211, targetB  = 153;
         var LERP_SPEED = 0.05;
         var animFrameId = null;
-
-        var CONNECT_DIST = 180;
-        var MOUSE_DIST   = 200;
-        var REPEL_FORCE  = 0.8;
+        var CONNECT_DIST = 180, MOUSE_DIST = 200, REPEL_FORCE = 0.8;
 
         function resize() {
-            W = window.innerWidth;
-            H = window.innerHeight;
-            canvas.width  = W * dpr;
-            canvas.height = H * dpr;
-            canvas.style.width  = W + 'px';
-            canvas.style.height = H + 'px';
+            W = window.innerWidth; H = window.innerHeight;
+            canvas.width = W * dpr; canvas.height = H * dpr;
+            canvas.style.width = W + 'px'; canvas.style.height = H + 'px';
             ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
         }
-
         function makeParticle() {
-            return {
-                x:  Math.random() * W,
-                y:  Math.random() * H,
-                vx: (Math.random() - 0.5) * 0.7,
-                vy: (Math.random() - 0.5) * 0.7,
-                r:  Math.random() * 1.8 + 1.2,
-                white: Math.random() < 0.25
-            };
+            return { x: Math.random()*W, y: Math.random()*H, vx: (Math.random()-0.5)*0.7, vy: (Math.random()-0.5)*0.7, r: Math.random()*1.8+1.2, white: Math.random()<0.25 };
         }
-
         function initParticles() {
             particles = [];
-            var count = Math.max(40, Math.floor((W * H) / 10000));
-            for (var i = 0; i < count; i++) particles.push(makeParticle());
+            var count = Math.max(40, Math.floor((W*H)/10000));
+            for (var i=0;i<count;i++) particles.push(makeParticle());
         }
-
-        resize();
-        initParticles();
-
-        // 防抖 resize
+        resize(); initParticles();
         var resizeTimer;
-        window.addEventListener('resize', function () {
-            clearTimeout(resizeTimer);
-            resizeTimer = setTimeout(function () {
-                var oldW = W, oldH = H;
-                resize();
-                for (var i = 0; i < particles.length; i++) {
-                    particles[i].x *= W / oldW;
-                    particles[i].y *= H / oldH;
-                }
-                var target = Math.max(40, Math.floor((W * H) / 10000));
-                while (particles.length < target) particles.push(makeParticle());
-            }, 150);
-        });
-
-        document.addEventListener('mousemove', function (e) { mouse.x = e.clientX; mouse.y = e.clientY; });
-        document.addEventListener('mouseleave', function ()   { mouse.x = -9999;   mouse.y = -9999;   });
+        window.addEventListener('resize', function(){ clearTimeout(resizeTimer); resizeTimer=setTimeout(function(){ var oW=W,oH=H; resize(); for(var i=0;i<particles.length;i++){particles[i].x*=W/oW;particles[i].y*=H/oH;} var t=Math.max(40,Math.floor((W*H)/10000)); while(particles.length<t)particles.push(makeParticle()); },150); });
+        document.addEventListener('mousemove', function(e){ mouse.x=e.clientX;mouse.y=e.clientY; });
+        document.addEventListener('mouseleave', function(){ mouse.x=-9999;mouse.y=-9999; });
 
         function animate() {
-            ctx.clearRect(0, 0, W, H);
-
-            // Lerp 粒子色彩
-            currentR += (targetR - currentR) * LERP_SPEED;
-            currentG += (targetG - currentG) * LERP_SPEED;
-            currentB += (targetB - currentB) * LERP_SPEED;
-            var rgb = Math.round(currentR) + ',' + Math.round(currentG) + ',' + Math.round(currentB);
-
-            for (var i = 0; i < particles.length; i++) {
-                var p = particles[i];
-
-                // 鼠标排斥力
-                var mdx = p.x - mouse.x;
-                var mdy = p.y - mouse.y;
-                var mDist = Math.sqrt(mdx * mdx + mdy * mdy);
-                if (mDist < MOUSE_DIST && mDist > 0) {
-                    var f = (MOUSE_DIST - mDist) / MOUSE_DIST * REPEL_FORCE;
-                    p.vx += (mdx / mDist) * f;
-                    p.vy += (mdy / mDist) * f;
-                }
-
-                // 阻尼 + 移动
-                p.vx *= 0.98;
-                p.vy *= 0.98;
-                p.x += p.vx;
-                p.y += p.vy;
-
-                // 环绕边界
-                if (p.x < -10) p.x = W + 10;
-                if (p.x > W + 10) p.x = -10;
-                if (p.y < -10) p.y = H + 10;
-                if (p.y > H + 10) p.y = -10;
-
-                // 绘制粒子（降噪：透明度降至 ~15%）
-                ctx.beginPath();
-                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-                ctx.fillStyle = p.white
-                    ? 'rgba(255,255,255,' + (0.06 + Math.random() * 0.06) + ')'
-                    : 'rgba(' + rgb + ',' + (0.1 + Math.random() * 0.08) + ')';
-                ctx.fill();
-
-                // 粒子间连线（更细更淡）
-                for (var j = i + 1; j < particles.length; j++) {
-                    var p2 = particles[j];
-                    var ddx = p.x - p2.x;
-                    var ddy = p.y - p2.y;
-                    var d = Math.sqrt(ddx * ddx + ddy * ddy);
-                    if (d < CONNECT_DIST) {
-                        ctx.beginPath();
-                        ctx.moveTo(p.x, p.y);
-                        ctx.lineTo(p2.x, p2.y);
-                        ctx.strokeStyle = 'rgba(' + rgb + ',' + ((1 - d / CONNECT_DIST) * 0.08 + 0.02) + ')';
-                        ctx.lineWidth = 0.8;
-                        ctx.stroke();
-                    }
-                }
-
-                // 鼠标连线 + 发光增强（仅鼠标附近才明显）
-                if (mDist < MOUSE_DIST) {
-                    ctx.beginPath();
-                    ctx.moveTo(p.x, p.y);
-                    ctx.lineTo(mouse.x, mouse.y);
-                    ctx.strokeStyle = 'rgba(' + rgb + ',' + ((1 - mDist / MOUSE_DIST) * 0.25 + 0.05) + ')';
-                    ctx.lineWidth = 1.5;
-                    ctx.stroke();
-
-                    var glowR = p.r * (1 + (1 - mDist / MOUSE_DIST) * 1.5);
-                    ctx.beginPath();
-                    ctx.arc(p.x, p.y, glowR, 0, Math.PI * 2);
-                    ctx.fillStyle = 'rgba(' + rgb + ',' + (0.2 + (1 - mDist / MOUSE_DIST) * 0.2) + ')';
-                    ctx.fill();
-                }
+            ctx.clearRect(0,0,W,H);
+            currentR+=(targetR-currentR)*LERP_SPEED; currentG+=(targetG-currentG)*LERP_SPEED; currentB+=(targetB-currentB)*LERP_SPEED;
+            var rgb=Math.round(currentR)+','+Math.round(currentG)+','+Math.round(currentB);
+            for(var i=0;i<particles.length;i++){
+                var p=particles[i];
+                var mdx=p.x-mouse.x,mdy=p.y-mouse.y,mDist=Math.sqrt(mdx*mdx+mdy*mdy);
+                if(mDist<MOUSE_DIST&&mDist>0){var f=(MOUSE_DIST-mDist)/MOUSE_DIST*REPEL_FORCE;p.vx+=(mdx/mDist)*f;p.vy+=(mdy/mDist)*f;}
+                p.vx*=0.98;p.vy*=0.98;p.x+=p.vx;p.y+=p.vy;
+                if(p.x<-10)p.x=W+10;if(p.x>W+10)p.x=-10;if(p.y<-10)p.y=H+10;if(p.y>H+10)p.y=-10;
+                ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+                ctx.fillStyle=p.white?'rgba(255,255,255,'+(0.04+Math.random()*0.04)+')':'rgba('+rgb+','+(0.06+Math.random()*0.05)+')';ctx.fill();
+                for(var j=i+1;j<particles.length;j++){var p2=particles[j],ddx=p.x-p2.x,ddy=p.y-p2.y,d=Math.sqrt(ddx*ddx+ddy*ddy);if(d<CONNECT_DIST){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(p2.x,p2.y);ctx.strokeStyle='rgba('+rgb+','+((1-d/CONNECT_DIST)*0.05+0.01)+')';ctx.lineWidth=0.6;ctx.stroke();}}
+                if(mDist<MOUSE_DIST){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(mouse.x,mouse.y);ctx.strokeStyle='rgba('+rgb+','+((1-mDist/MOUSE_DIST)*0.15+0.03)+')';ctx.lineWidth=1;ctx.stroke();var glowR=p.r*(1+(1-mDist/MOUSE_DIST)*1.5);ctx.beginPath();ctx.arc(p.x,p.y,glowR,0,Math.PI*2);ctx.fillStyle='rgba('+rgb+','+(0.1+(1-mDist/MOUSE_DIST)*0.15)+')';ctx.fill();}
             }
-
-            animFrameId = requestAnimationFrame(animate);
+            animFrameId=requestAnimationFrame(animate);
         }
-
         animate();
-
-        // 标签页不可见时暂停粒子动画
-        document.addEventListener('visibilitychange', function () {
-            if (document.hidden) {
-                cancelAnimationFrame(animFrameId);
-            } else {
-                animate();
-            }
-        });
+        document.addEventListener('visibilitychange',function(){if(document.hidden)cancelAnimationFrame(animFrameId);else animate();});
 
         // ── 3. 数据引擎 ─────────────────────────────────
-        var BADGE_MAP = {
-            '科技前沿': { cls: 'badge-tech', hover: 'group-hover:text-emerald-300' },
-            '全球金融': { cls: 'badge-finance', hover: 'group-hover:text-purple-300' },
-            '地缘政治': { cls: 'badge-politics', hover: 'group-hover:text-blue-300' },
-            '具身智能': { cls: 'badge-tech', hover: 'group-hover:text-emerald-300' },
-            '人工智能': { cls: 'badge-tech', hover: 'group-hover:text-emerald-300' }
+        var CATEGORY_COLORS = {
+            '科技前沿': '#34d399',
+            '全球金融': '#c084fc',
+            '地缘政治': '#60a5fa',
+            '人工智能': '#22d3ee',
+            '具身智能': '#22d3ee'
         };
+        var DEFAULT_COLOR = '#34d399';
 
-        // 全局状态
         var allArticles = [];
         var currentFilter = '全部';
         var searchQuery = '';
         var currentPage = 1;
-        var itemsPerPage = 6;
+        var itemsPerPage = 10;
         var selectedDate = 'all';
 
-        function generateStarsSVG(count) {
-            var size = 18, gap = 3;
-            var w = count * size + (count - 1) * gap;
-            var svg = '<svg width="' + w + '" height="' + size + '" viewBox="0 0 ' + w + ' ' + size + '" fill="none" xmlns="http://www.w3.org/2000/svg">';
-            for (var i = 0; i < count; i++) {
-                var x = i * (size + gap) + size / 2;
-                var y = size / 2;
-                svg += '<polygon points="' + x + ',' + (y - 7) + ' ' + (x + 2.2) + ',' + (y - 2.2) + ' ' + (x + 7.4) + ',' + (y - 2.2) + ' ' + (x + 3.2) + ',' + (y + 1.2) + ' ' + (x + 4.8) + ',' + (y + 6.4) + ' ' + x + ',' + (y + 3.4) + ' ' + (x - 4.8) + ',' + (y + 6.4) + ' ' + (x - 3.2) + ',' + (y + 1.2) + ' ' + (x - 7.4) + ',' + (y - 2.2) + ' ' + (x - 2.2) + ',' + (y - 2.2) + '" fill="#fbbf24" opacity="0.95"/>';
-            }
-            svg += '</svg>';
-            return svg;
-        }
-
-        function buildStars(str) {
-            var filled = ((str || '').match(/★/g) || []).length;
-            if (filled === 0) filled = 3;
-            return { svg: generateStarsSVG(filled), label: '前瞻指数 ' + filled + '/5' };
-        }
+        function getCatColor(cat) { return CATEGORY_COLORS[cat] || DEFAULT_COLOR; }
 
         function renderFeatured(d) {
-            var s = buildStars(d.stars || '★★★');
-            var b = BADGE_MAP[d.category] || BADGE_MAP['科技前沿'];
+            var color = getCatColor(d.category);
+            var dateStr = d.date || '--';
+            var catStr = d.category || '未分类';
             var articleJson = JSON.stringify(d).replace(/"/g, '&quot;');
-            return '<article class="hero-glow rounded-2xl p-6 sm:p-8 lg:p-10 cursor-pointer group hover:-translate-y-1 transition-all duration-300">' +
-                '<div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-4 sm:mb-6">' +
-                    '<span class="' + b.cls + ' text-xs font-semibold px-3 py-1 rounded-full border border-emerald-accent/20">' + (d.category || '前沿动态') + '</span>' +
-                    '<span class="text-xs text-slate-500 font-mono">' + (d.date || '日期未知') + '</span>' +
+            return '<article class="ticker-item ticker-featured cursor-pointer" data-category="' + catStr + '">' +
+                '<div class="meta-line mb-3">' +
+                    '<span style="color:#06b6d4">' + dateStr + '</span>' +
+                    '<span class="mx-1 text-slate-600">|</span>' +
+                    '<span style="color:' + color + '">【' + catStr + '】</span>' +
                 '</div>' +
-                '<h1 class="text-xl sm:text-2xl lg:text-4xl font-extrabold text-white leading-tight mb-4 sm:mb-6 tracking-tight ' + b.hover + ' transition-colors duration-300">' + (d.title || '机密情报解析中...') + '</h1>' +
-                '<p class="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed mb-6 sm:mb-8 max-w-3xl line-clamp-3 sm:line-clamp-none">' + (d.summary || '数据流暂未捕获详细摘要。') + '</p>' +
-                '<div class="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-8 mb-6">' +
-                    '<div class="flex items-center gap-2 flex-shrink-0">' +
-                        '<span class="text-sm text-slate-400 mr-1">前瞻指数</span>' +
-                        '<span class="inline-block" aria-label="' + s.label + '">' + s.svg + '</span>' +
-                    '</div>' +
-                    '<div class="insight-line text-sm sm:text-base flex-1">' + (d.insight || '情报分析引擎持续运转中。') + '</div>' +
-                '</div>' +
-                '<button class="view-source-btn text-emerald-400 hover:text-emerald-300 text-sm flex items-center gap-2 transition-colors" data-article="' + articleJson + '">' +
-                    '<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg> 深度解析与源文' +
-                '</button>' +
+                '<h1 class="text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-snug mb-4">' + (d.title || '...') + '</h1>' +
+                '<p class="text-base text-slate-400 leading-relaxed mb-5 max-w-3xl">' + (d.summary || '') + '</p>' +
+                '<p class="text-sm leading-relaxed mb-4" style="color:#4ade80">&#9889; 战略研判：' + (d.insight || '') + '</p>' +
+                (d.source_url ? '<a href="' + d.source_url + '" target="_blank" rel="noopener noreferrer" class="inline-block meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 原文链接' + (d.source_name ? ' · ' + d.source_name : '') + ']</a>' : '<button class="meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 深度解析]</button>') +
             '</article>';
         }
 
         function renderCard(a) {
-            var s = buildStars(a.stars || '★★★');
-            var b = BADGE_MAP[a.category] || BADGE_MAP['科技前沿'];
+            var color = getCatColor(a.category);
+            var dateStr = a.date || '--';
+            var catStr = a.category || '未分类';
             var articleJson = JSON.stringify(a).replace(/"/g, '&quot;');
-            return '<article class="glow-border rounded-2xl p-5 sm:p-7 cursor-pointer group flex flex-col hover:-translate-y-1 transition-all duration-300" data-category="' + (a.category || '科技前沿') + '">' +
-                '<div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-4">' +
-                    '<span class="' + b.cls + ' text-xs font-medium px-3 py-1 rounded-full">' + (a.category || '未分类') + '</span>' +
-                    '<span class="text-xs text-slate-500 font-mono">' + (a.date || '--') + '</span>' +
+            return '<article class="ticker-item cursor-pointer" data-category="' + catStr + '">' +
+                '<div class="meta-line mb-2">' +
+                    '<span style="color:#06b6d4">' + dateStr + '</span>' +
+                    '<span class="mx-1 text-slate-600">|</span>' +
+                    '<span style="color:' + color + '">【' + catStr + '】</span>' +
                 '</div>' +
-                '<h3 class="text-base sm:text-lg font-semibold text-white leading-relaxed mb-3 ' + b.hover + ' transition-colors duration-300">' + (a.title || '机密情报解析中...') + '</h3>' +
-                '<p class="text-sm text-slate-400 leading-relaxed mb-5 flex-1 line-clamp-3 sm:line-clamp-none">' + (a.summary || '数据流暂未捕获详细摘要。') + '</p>' +
-                '<div class="flex items-center gap-2 mb-4">' +
-                    '<span class="text-xs text-slate-500 mr-1">前瞻指数</span>' +
-                    '<span class="inline-block" aria-label="' + s.label + '">' + s.svg + '</span>' +
-                '</div>' +
-                '<div class="insight-line text-sm mb-5">' + (a.insight || '情报分析引擎持续运转中。') + '</div>' +
-                '<button class="view-source-btn text-emerald-400 hover:text-emerald-300 text-sm mt-auto flex items-center gap-2 transition-colors" data-article="' + articleJson + '">' +
-                    '<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg> 深度解析与源文' +
-                '</button>' +
+                '<h3 class="text-lg sm:text-xl font-bold text-white leading-snug mb-3">' + (a.title || '...') + '</h3>' +
+                '<p class="text-sm text-slate-400 leading-relaxed mb-4 max-w-2xl">' + (a.summary || '') + '</p>' +
+                '<p class="text-sm leading-relaxed mb-3" style="color:#4ade80">&#9889; 战略研判：' + (a.insight || '') + '</p>' +
+                (a.source_url ? '<a href="' + a.source_url + '" target="_blank" rel="noopener noreferrer" class="inline-block meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 原文链接' + (a.source_name ? ' · ' + a.source_name : '') + ']</a>' : '<button class="meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 深度解析]</button>') +
             '</article>';
         }
 
-        // ── 过滤与渲染（含分页） ────────────────────────
         function renderArticles(articles) {
             var visible = articles.slice(0, currentPage * itemsPerPage);
             var html = '';
@@ -517,256 +341,119 @@
                 void grid.offsetWidth;
                 grid.classList.add('card-fade-in');
             } else {
-                grid.innerHTML = '<div class="col-span-full text-center py-12 text-slate-500">未找到匹配的情报数据</div>';
+                grid.innerHTML = '<div class="text-center py-16 text-slate-600 font-mono text-sm">NO MATCHING SIGNALS</div>';
             }
-
-            // 更新"加载更多"按钮状态
             var btn = document.getElementById('loadMoreBtn');
             if (btn) {
-                if (visible.length >= articles.length) {
-                    btn.style.display = 'none';
-                } else {
-                    btn.style.display = '';
-                    btn.textContent = '加载更多历史情报 (' + visible.length + '/' + articles.length + ')';
-                }
+                if (visible.length >= articles.length) { btn.style.display = 'none'; }
+                else { btn.style.display = ''; btn.textContent = '加载更多 (' + visible.length + '/' + articles.length + ')'; }
             }
-
             bindColorSync();
         }
 
         function applyFilters(resetPage) {
             if (resetPage) currentPage = 1;
             var filtered = allArticles.filter(function (a) {
-                var matchCategory = (currentFilter === '全部') || (a.category === currentFilter);
-                var matchDate = (selectedDate === 'all') || ((a.date || '').indexOf(selectedDate) === 0);
-                var matchSearch = !searchQuery ||
-                    (a.title || '').indexOf(searchQuery) !== -1 ||
-                    (a.summary || '').indexOf(searchQuery) !== -1 ||
-                    (a.insight || '').indexOf(searchQuery) !== -1 ||
-                    (a.category || '').indexOf(searchQuery) !== -1;
-                return matchCategory && matchDate && matchSearch;
+                var matchCat = (currentFilter === '全部') || (a.category === currentFilter);
+                var matchDate = (selectedDate === 'all') || ((a.date||'').indexOf(selectedDate) === 0);
+                var matchQ = !searchQuery || (a.title||'').indexOf(searchQuery)!==-1 || (a.summary||'').indexOf(searchQuery)!==-1 || (a.insight||'').indexOf(searchQuery)!==-1 || (a.category||'').indexOf(searchQuery)!==-1;
+                return matchCat && matchDate && matchQ;
             });
             renderArticles(filtered);
         }
 
-        // Tab 点击事件
         function initTabs() {
             var tabs = document.querySelectorAll('#tabGroup .tab-btn');
             tabs.forEach(function (tab) {
                 tab.addEventListener('click', function () {
-                    tabs.forEach(function (t) {
-                        t.classList.remove('active');
-                        t.classList.add('border-white/10', 'text-gray-400');
-                        t.classList.remove('border-emerald-500/30');
-                    });
-                    this.classList.add('active');
-                    this.classList.remove('border-white/10', 'text-gray-400');
-                    this.classList.add('border-emerald-500/30');
+                    tabs.forEach(function (t) { t.classList.remove('active'); t.classList.add('border-white/10','text-gray-400'); t.classList.remove('border-emerald-500/30'); });
+                    this.classList.add('active'); this.classList.remove('border-white/10','text-gray-400'); this.classList.add('border-emerald-500/30');
                     currentFilter = this.dataset.filter;
                     applyFilters(true);
                 });
             });
         }
 
-        // 搜索框事件
         function initSearch() {
-            var input = document.getElementById('searchInput');
-            var debounceTimer;
-            input.addEventListener('input', function () {
-                clearTimeout(debounceTimer);
-                debounceTimer = setTimeout(function () {
-                    searchQuery = input.value.trim();
-                    applyFilters(true);
-                }, 200);
-            });
+            var input = document.getElementById('searchInput'), dt;
+            input.addEventListener('input', function () { clearTimeout(dt); dt=setTimeout(function(){ searchQuery=input.value.trim(); applyFilters(true); },200); });
         }
 
-        // 粒子色彩共鸣绑定
-        var COLOR_MAP = {
-            '全球金融': [168, 85, 247],
-            '地缘政治': [59, 130, 246],
-            '科技前沿': [52, 211, 153],
-            '具身智能': [52, 211, 153],
-            '人工智能': [52, 211, 153]
-        };
-        var DEFAULT_COLOR = [52, 211, 153];
-
+        var COLOR_MAP = { '全球金融':[168,85,247], '地缘政治':[59,130,246], '科技前沿':[52,211,153], '具身智能':[52,211,153], '人工智能':[52,211,153] };
+        var DEFAULT_C = [52,211,153];
         function bindColorSync() {
-            var container = document.getElementById('articles-grid');
-            container.onmouseenter = function (e) {
-                var card = e.target.closest('[data-category]');
-                if (card) {
-                    var c = COLOR_MAP[card.dataset.category] || DEFAULT_COLOR;
-                    targetR = c[0]; targetG = c[1]; targetB = c[2];
-                }
-            };
-            container.onmouseleave = function (e) {
-                var card = e.target.closest('[data-category]');
-                if (card) {
-                    targetR = DEFAULT_COLOR[0]; targetG = DEFAULT_COLOR[1]; targetB = DEFAULT_COLOR[2];
-                }
-            };
+            var c = document.getElementById('articles-grid');
+            c.onmouseenter = function(e){ var el=e.target.closest('[data-category]'); if(el){var rgb=COLOR_MAP[el.dataset.category]||DEFAULT_C; targetR=rgb[0];targetG=rgb[1];targetB=rgb[2];} };
+            c.onmouseleave = function(e){ var el=e.target.closest('[data-category]'); if(el){targetR=DEFAULT_C[0];targetG=DEFAULT_C[1];targetB=DEFAULT_C[2];} };
         }
 
-        // 抽屉交互
+        // Drawer
         function openDrawer(data) {
             var content = document.getElementById('drawer-content');
+            var color = getCatColor(data.category);
             var html = '';
-
-            // 标题与元信息
-            html += '<div>';
-            html += '<span class="' + (BADGE_MAP[data.category] || BADGE_MAP['科技前沿']).cls + ' text-xs font-medium px-3 py-1 rounded-full">' + (data.category || '') + '</span>';
-            html += '<span class="text-xs text-slate-400 font-mono ml-2">' + (data.date || '') + '</span>';
-            html += '</div>';
-            html += '<h2 class="text-2xl font-bold text-white leading-snug">' + (data.title || '') + '</h2>';
-
-            // 中文翻译
-            if (data.full_translation) {
-                html += '<div>';
-                html += '<h4 class="text-sm font-semibold text-emerald-400 mb-2">完整中文翻译</h4>';
-                html += '<div class="bg-slate-800/50 rounded-lg p-4 text-sm text-slate-200 leading-relaxed whitespace-pre-wrap">' + data.full_translation + '</div>';
-                html += '</div>';
-            }
-
-            // 英文原文
-            if (data.original_text) {
-                html += '<div>';
-                html += '<h4 class="text-sm font-semibold text-slate-400 mb-2">Original Source Text</h4>';
-                html += '<div class="bg-slate-800/80 rounded-lg p-4 text-sm text-slate-300 leading-relaxed font-mono whitespace-pre-wrap border-l-2 border-emerald-500/20">' + data.original_text + '</div>';
-                html += '</div>';
-            }
-
-            // 深度思考
-            if (data.insight) {
-                html += '<div class="insight-line text-sm">深度思考：' + data.insight + '</div>';
-            }
-
-            // 原始出处链接
-            if (data.source_url) {
-                html += '<div class="pt-4 border-t border-white/10">';
-                html += '<a href="' + data.source_url + '" target="_blank" rel="noopener noreferrer" ' +
-                    'class="inline-flex items-center gap-2 px-5 py-3 rounded-xl border border-emerald-500/30 text-emerald-400 bg-emerald-500/5 hover:bg-emerald-500/15 hover:border-emerald-500/60 hover:shadow-[0_0_20px_rgba(16,185,129,0.15)] transition-all duration-300 text-sm font-medium">' +
-                    '<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg> 前往原始出处查阅' +
-                    (data.source_name ? ' <span class="text-slate-500">(' + data.source_name + ')</span>' : '') +
-                    '</a>';
-                html += '</div>';
-            }
-
+            html += '<div class="meta-line mb-4"><span style="color:#06b6d4">' + (data.date||'') + '</span><span class="mx-1 text-slate-600">|</span><span style="color:' + color + '">【' + (data.category||'') + '】</span></div>';
+            html += '<h2 class="text-2xl font-bold text-white leading-snug mb-6">' + (data.title||'') + '</h2>';
+            if(data.full_translation){ html += '<div class="mb-6"><h4 class="meta-line text-emerald-400 mb-3 uppercase tracking-wider">Translation</h4><div class="bg-slate-800/50 rounded-lg p-5 text-sm text-slate-200 leading-relaxed whitespace-pre-wrap font-mono">' + data.full_translation + '</div></div>'; }
+            if(data.original_text){ html += '<div class="mb-6"><h4 class="meta-line text-slate-500 mb-3 uppercase tracking-wider">Original Text</h4><div class="bg-slate-800/80 rounded-lg p-5 text-sm text-slate-300 leading-relaxed font-mono whitespace-pre-wrap border-l-2 border-emerald-500/20">' + data.original_text + '</div></div>'; }
+            if(data.insight){ html += '<div class="mb-6"><h4 class="meta-line text-slate-500 mb-3 uppercase tracking-wider">Strategic Insight</h4><p class="text-base leading-relaxed" style="color:#4ade80">&#9889; ' + data.insight + '</p></div>'; }
+            if(data.source_url){ html += '<div class="pt-4 border-t border-white/10"><a href="' + data.source_url + '" target="_blank" rel="noopener noreferrer" class="meta-line text-slate-400 hover:text-emerald-400 transition-colors">[&#128279; ' + (data.source_name||'原文链接') + ']</a></div>'; }
             content.innerHTML = html;
-
-            // 滑入
-            document.getElementById('drawer-overlay').classList.remove('opacity-0', 'pointer-events-none');
+            document.getElementById('drawer-overlay').classList.remove('opacity-0','pointer-events-none');
             document.getElementById('drawer-overlay').classList.add('opacity-100');
             document.getElementById('source-drawer').classList.remove('translate-x-full');
             document.body.style.overflow = 'hidden';
         }
-
         function closeDrawer() {
-            document.getElementById('drawer-overlay').classList.add('opacity-0', 'pointer-events-none');
+            document.getElementById('drawer-overlay').classList.add('opacity-0','pointer-events-none');
             document.getElementById('drawer-overlay').classList.remove('opacity-100');
             document.getElementById('source-drawer').classList.add('translate-x-full');
             document.body.style.overflow = '';
         }
-
-        // 统一事件代理：抽屉开/关 + 深度解析按钮
-        document.addEventListener('click', function (e) {
-            // 关闭：点击关闭按钮
-            if (e.target.closest('#drawer-close-btn')) { closeDrawer(); return; }
-            // 关闭：点击遮罩
-            if (e.target.id === 'drawer-overlay') { closeDrawer(); return; }
-            // 打开：点击深度解析按钮
-            var btn = e.target.closest('.view-source-btn');
-            if (btn) {
-                e.stopPropagation();
-                try {
-                    var data = JSON.parse(btn.dataset.article);
-                    openDrawer(data);
-                } catch (err) {
-                    console.error('解析文章数据失败:', err);
-                }
-            }
+        document.addEventListener('click', function(e){
+            if(e.target.closest('#drawer-close-btn')){closeDrawer();return;}
+            if(e.target.id==='drawer-overlay'){closeDrawer();return;}
+            var btn=e.target.closest('.view-source-btn');
+            if(btn){e.stopPropagation();try{openDrawer(JSON.parse(btn.dataset.article));}catch(err){console.error(err);}}
         });
-        // ESC 键关闭
-        document.addEventListener('keydown', function (e) {
-            if (e.key === 'Escape') closeDrawer();
-        });
+        document.addEventListener('keydown',function(e){if(e.key==='Escape')closeDrawer();});
 
-        // 加载更多按钮
         function initLoadMore() {
-            var btn = document.getElementById('loadMoreBtn');
-            btn.addEventListener('click', function () {
-                currentPage++;
-                applyFilters(false);
-            });
+            document.getElementById('loadMoreBtn').addEventListener('click',function(){currentPage++;applyFilters(false);});
         }
 
-        // 时间轴渲染（按日期去重，忽略小时分钟）
         function renderTimeline() {
-            var dates = [];
-            var seen = {};
-            allArticles.forEach(function (a) {
-                var d = (a.date || '').split(' ')[0]; // 截取 "2026.06.03"
-                if (d && !seen[d]) { seen[d] = true; dates.push(d); }
-            });
-            dates.sort(function (a, b) { return b.localeCompare(a); });
-
-            var container = document.getElementById('dateTimeline');
-            // 数据少于2个日期时隐藏时间轴，节省空间
-            if (dates.length < 2) { container.style.display = 'none'; return; }
-            container.style.display = '';
-            var html = '<button class="date-btn active text-xs font-medium px-4 py-1.5 rounded-full border border-emerald-500/30 text-emerald-400 whitespace-nowrap transition-all duration-200" data-date="all">全部时间</button>';
-            dates.forEach(function (d) {
-                html += '<button class="date-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-slate-400 whitespace-nowrap transition-all duration-200 hover:text-emerald-400 hover:border-emerald-500/30" data-date="' + d + '">' + d + '</button>';
-            });
-            container.innerHTML = html;
-
-            // 绑定事件
-            var btns = container.querySelectorAll('.date-btn');
-            btns.forEach(function (btn) {
-                btn.addEventListener('click', function () {
-                    btns.forEach(function (b) {
-                        b.classList.remove('active', 'text-emerald-400', 'border-emerald-500/30');
-                        b.classList.add('text-slate-400', 'border-white/10');
-                    });
-                    this.classList.add('active', 'text-emerald-400', 'border-emerald-500/30');
-                    this.classList.remove('text-slate-400', 'border-white/10');
-                    selectedDate = this.dataset.date;
-                    applyFilters(true);
-                });
-            });
+            var dates=[],seen={};
+            allArticles.forEach(function(a){var d=(a.date||'').split(' ')[0];if(d&&!seen[d]){seen[d]=true;dates.push(d);}});
+            dates.sort(function(a,b){return b.localeCompare(a);});
+            var c=document.getElementById('dateTimeline');
+            if(dates.length<2){c.style.display='none';return;}
+            c.style.display='';
+            var h='<button class="date-btn active text-xs font-medium px-4 py-1.5 rounded-full border border-emerald-500/30 text-emerald-400 whitespace-nowrap transition-all duration-200" data-date="all">全部时间</button>';
+            dates.forEach(function(d){h+='<button class="date-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-slate-400 whitespace-nowrap transition-all duration-200 hover:text-emerald-400 hover:border-emerald-500/30" data-date="'+d+'">'+d+'</button>';});
+            c.innerHTML=h;
+            var btns=c.querySelectorAll('.date-btn');
+            btns.forEach(function(btn){btn.addEventListener('click',function(){btns.forEach(function(b){b.classList.remove('active','text-emerald-400','border-emerald-500/30');b.classList.add('text-slate-400','border-white/10');});this.classList.add('active','text-emerald-400','border-emerald-500/30');this.classList.remove('text-slate-400','border-white/10');selectedDate=this.dataset.date;applyFilters(true);});});
         }
 
         // ── 启动 ───────────────────────────────────────
-        initTabs();
-        initSearch();
-        initLoadMore();
+        initTabs(); initSearch(); initLoadMore();
 
         function fetchAndRenderData() {
             fetch('data.json')
-                .then(function (res) {
-                    if (!res.ok) throw new Error('HTTP ' + res.status);
-                    return res.json();
-                })
-                .then(function (data) {
+                .then(function(res){if(!res.ok)throw new Error('HTTP '+res.status);return res.json();})
+                .then(function(data){
                     var articles = data.articles || [];
-
-                    // 第 1 条渲染为今日焦点（不参与过滤）
-                    if (articles.length > 0) {
-                        document.getElementById('featured-container').innerHTML = renderFeatured(articles[0]);
-                    }
-
-                    // 第 2 条起作为网格数据
+                    if(articles.length>0){document.getElementById('featured-container').innerHTML=renderFeatured(articles[0]);}
                     allArticles = articles.slice(1);
                     renderTimeline();
                     applyFilters(true);
                 })
-                .catch(function (err) {
-                    console.error('数据加载失败:', err);
-                    document.getElementById('featured-container').innerHTML =
-                        '<div class="text-red-400 bg-red-900/20 border border-red-500/30 rounded-xl p-6 text-center">数据加载失败：' + err.message + '</div>';
+                .catch(function(err){
+                    console.error('数据加载失败:',err);
+                    document.getElementById('featured-container').innerHTML='<div class="text-red-400 font-mono text-sm">ERROR: '+err.message+'</div>';
                 });
         }
-
         fetchAndRenderData();
     })();
     </script>
