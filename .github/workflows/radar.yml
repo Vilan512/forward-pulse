@@ -31,6 +31,7 @@ jobs:
         env:
           MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
         run: python agent_update.py
+        continue-on-error: true
 
       - name: Commit and push changes
         run: |
