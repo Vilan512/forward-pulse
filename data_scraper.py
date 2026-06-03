@@ -25,6 +25,14 @@ RSS_FEEDS = {
         "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
         "category": "AI",
     },
+    "VentureBeat_AI": {
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "category": "AI",
+    },
+    "HuggingFace": {
+        "url": "https://huggingface.co/blog/feed.xml",
+        "category": "AI",
+    },
     "Project_Syndicate": {
         "url": "https://www.project-syndicate.org/rss",
         "category": "全球金融与地缘政治",
