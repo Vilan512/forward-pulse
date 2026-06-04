@@ -134,21 +134,14 @@ def fetch_twitter_whitelist(accounts: list[str]) -> list[dict]:
     mock_tweets = [
         {
             'source': 'X/@sama',
-            'category': 'AI',
+            'category': '人工智能',
             'title': 'Sam Altman: AGI timeline keeps accelerating',
             'summary': 'Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.',
             'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
         },
         {
-            'source': 'X/@VitalikButerin',
-            'category': '全球金融与地缘政治',
-            'title': 'Vitalik: Crypto needs to solve real problems or die',
-            'summary': 'Spent the weekend talking to policymakers in 3 countries. The narrative that crypto is just speculation is becoming entrenched. If we dont ship killer apps for remittances, identity, and DAO governance in the next 18 months, the regulatory window slams shut permanently.',
-            'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
-        },
-        {
             'source': 'X/@elaboratepool',
-            'category': 'AI',
+            'category': '人工智能',
             'title': 'Satya Nadella: The next platform shift is embodied AI',
             'summary': 'We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.',
             'time': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
@@ -213,7 +206,6 @@ def main():
     # 模块 B（白名单账号列表，可扩展）
     whitelist = [
         "sama",
-        "VitalikButerin",
         "elaboratepool",
     ]
     twitter_data = fetch_twitter_whitelist(whitelist)
