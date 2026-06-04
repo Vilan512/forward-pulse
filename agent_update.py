@@ -106,16 +106,40 @@ def call_llm(raw_text: str) -> dict:
         sys.exit(1)
     
     content = response.choices[0].message.content.strip()
-    
-    # 清理可能残留的 Markdown 代码块标记
-    if content.startswith("```"):
-        content = content.split("\n", 1)[1] if "\n" in content else content[3:]
-    if content.endswith("```"):
-        content = content[:-3]
-    content = content.strip()
-    
-    print("[信息] 模型响应已接收，正在解析...")
-    return json.loads(content)
+    print(f"[信息] 模型响应已接收（{len(content)} 字符），正在解析...")
+
+    # 多策略提取 JSON
+    # 策略1: 去除 markdown 代码块
+    cleaned = content
+    if "```" in cleaned:
+        # 匹配 ```json ... ``` 或 ``` ... ```
+        import re
+        block = re.search(r'```(?:json)?\s*\n?([\s\S]*?)```', cleaned)
+        if block:
+            cleaned = block.group(1).strip()
+
+    # 策略2: 找到第一个 { 和最后一个 } 之间的内容
+    if not cleaned.startswith('{'):
+        start = cleaned.find('{')
+        end = cleaned.rfind('}')
+        if start != -1 and end != -1 and end > start:
+            cleaned = cleaned[start:end+1]
+
+    # 策略3: 尝试解析
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        # 打印原始响应用于调试
+        print(f"[警告] 第一次解析失败，原始响应前200字符: {content[:200]}")
+        # 最后尝试：逐行查找 JSON 对象
+        for line in content.split('\n'):
+            line = line.strip()
+            if line.startswith('{'):
+                try:
+                    return json.loads(line)
+                except:
+                    continue
+        raise
 
 
 def validate_and_merge(new_data: dict, output_path: str, max_articles: int = 200) -> None:
