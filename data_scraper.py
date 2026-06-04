@@ -23,27 +23,27 @@ except ImportError:
 RSS_FEEDS = {
     "MIT_Tech": {
         "url": "https://www.technologyreview.com/feed/",
-        "category": "AI",
+        "category": "科技前沿",
     },
     "HuggingFace": {
         "url": "https://huggingface.co/blog/feed.xml",
-        "category": "AI",
-    },
-    "Project_Syndicate": {
-        "url": "https://www.project-syndicate.org/rss",
-        "category": "全球金融与地缘政治",
-    },
-    "McKinsey": {
-        "url": "https://www.mckinsey.com/insights/rss",
-        "category": "智库与趋势预测",
-    },
-    "Federal_Reserve": {
-        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
-        "category": "全球金融与地缘政治",
+        "category": "人工智能",
     },
     "AI_HOT": {
         "url": "https://aihot.virxact.com/feed.xml",
-        "category": "AI",
+        "category": "人工智能",
+    },
+    "Yahoo_Finance": {
+        "url": "https://finance.yahoo.com/news/rssindex",
+        "category": "股票基金",
+    },
+    "CNBC_Markets": {
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+        "category": "股票基金",
+    },
+    "McKinsey": {
+        "url": "https://www.mckinsey.com/insights/rss",
+        "category": "科技前沿",
     },
 }
 

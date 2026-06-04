@@ -174,10 +174,9 @@
             </div>
             <div class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1" id="tabGroup" role="tablist">
                 <button class="tab-btn active text-xs font-medium px-4 py-1.5 rounded-full border border-emerald-500/30 whitespace-nowrap" role="tab" aria-selected="true" data-filter="全部">全部</button>
-                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="科技前沿">科技前沿</button>
-                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="全球金融">全球金融</button>
-                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="地缘政治">地缘政治</button>
                 <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="人工智能">人工智能</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="科技前沿">科技前沿</button>
+                <button class="tab-btn text-xs font-medium px-4 py-1.5 rounded-full border border-white/10 text-gray-400 whitespace-nowrap" role="tab" data-filter="股票基金">股票基金</button>
             </div>
             <div id="dateTimeline" class="flex gap-2 overflow-x-auto tabs-scroll pb-1 -mx-1 px-1"></div>
         </section>
@@ -277,11 +276,9 @@
 
         // ── 3. 数据引擎 ─────────────────────────────────
         var CATEGORY_COLORS = {
-            '科技前沿': '#34d399',
-            '全球金融': '#c084fc',
-            '地缘政治': '#60a5fa',
             '人工智能': '#22d3ee',
-            '具身智能': '#22d3ee'
+            '科技前沿': '#34d399',
+            '股票基金': '#c084fc'
         };
         var DEFAULT_COLOR = '#34d399';
 
@@ -379,7 +376,7 @@
             input.addEventListener('input', function () { clearTimeout(dt); dt=setTimeout(function(){ searchQuery=input.value.trim(); applyFilters(true); },200); });
         }
 
-        var COLOR_MAP = { '全球金融':[168,85,247], '地缘政治':[59,130,246], '科技前沿':[52,211,153], '具身智能':[52,211,153], '人工智能':[52,211,153] };
+        var COLOR_MAP = { '人工智能':[34,211,238], '科技前沿':[52,211,153], '股票基金':[168,85,247] };
         var DEFAULT_C = [52,211,153];
         function bindColorSync() {
             var c = document.getElementById('articles-grid');
