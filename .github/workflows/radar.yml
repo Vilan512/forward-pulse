@@ -24,21 +24,38 @@ jobs:
       - name: Install dependencies
         run: pip install openai feedparser
 
+      - name: Check API key
+        run: |
+          if [ -z "$MIMO_API_KEY" ]; then
+            echo "::warning::MIMO_API_KEY is not set! Agent step will be skipped."
+          else
+            echo "MIMO_API_KEY is set (length: ${#MIMO_API_KEY})"
+          fi
+        env:
+          MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+
       - name: Harvest raw data
         run: python data_scraper.py
 
       - name: Analyze and update data.json
+        id: agent
         env:
           MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
-        run: python agent_update.py
+        run: |
+          echo "Starting agent_update.py..."
+          python agent_update.py && echo "agent_status=success" >> $GITHUB_OUTPUT || echo "agent_status=failed" >> $GITHUB_OUTPUT
         continue-on-error: true
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json raw_tweets.txt
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "radar: auto-update data.json [skip ci]"
-          git pull --rebase origin main
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes detected - RSS feeds may have returned identical data"
+            exit 0
+          fi
+          git commit -m "radar: auto-update $(date -u '+%Y-%m-%d %H:%M') [skip ci]"
+          git pull --rebase origin main || true
           git push origin main
+          echo "Successfully pushed update"
