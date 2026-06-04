@@ -41,6 +41,10 @@ RSS_FEEDS = {
         "url": "https://www.federalreserve.gov/feeds/press_all.xml",
         "category": "全球金融与地缘政治",
     },
+    "AI_HOT": {
+        "url": "https://aihot.virxact.com/feed.xml",
+        "category": "AI",
+    },
 }
 
 # 抓取时间窗口（小时）
