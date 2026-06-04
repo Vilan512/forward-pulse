@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.04 08:01",
+      "title": "微软与OpenAI合作关系彻底破裂，正面竞争时代开启",
+      "summary": "前DeepMind高管、现任微软AI主管Mustafa Suleyman明确表示，微软与OpenAI的合作关系已彻底破裂，双方进入正面竞争态势。这标志着两家科技巨头从紧密合作伙伴转变为直接竞争对手，微软必须从头证明自己能独立完成所有必需的AI任务。",
+      "stars": "★★★★",
+      "insight": "这一转变是AI行业格局重塑的关键信号。微软作为最大的技术平台和投资者，选择从合作走向全面竞争，意味着AI模型层的竞争已进入白热化阶段，不再有稳定的联盟。这对所有AI初创公司和依赖OpenAI生态的开发者构成巨大的不确定性，可能迫使市场重新评估估值逻辑，并加速行业向多模型、多供应商架构转型。",
+      "original_text": "微软与OpenAI的合作关系已彻底破裂，双方进入正面竞争态势。前DeepMind高管、现任微软AI主管Mustafa Suleyman明确表示，微软现在必须从头证明自己能独立完成所有必需的任务。这标志着两家科技巨头从紧密合作伙伴转变为直接竞争对手。",
+      "full_translation": "Microsoft and OpenAI's partnership has completely broken down, and the two sides have entered a state of direct competition. Mustafa Suleyman, former DeepMind executive and current head of Microsoft AI, stated clearly that Microsoft must now prove from scratch that it can independently complete all necessary tasks. This marks the transition of the two tech giants from close partners to direct competitors.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.04 08:01",
+      "title": "设备端个人AI智能体框架OpenJarvis发布，性能逼近云端、成本降低800倍",
+      "summary": "斯坦福研究人员发布OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人AI系统分解为五个可组合原语，与最佳云端模型的性能差距在3.2%以内，但边际API成本降低约800倍。",
+      "stars": "★★★★",
+      "insight": "这是向“本地优先”AI范式迈出的重要一步。当性能差距缩小到可忽略范围，而成本和隐私优势变得压倒性时，核心AI能力将不可避免地从中心化云服务向边缘设备迁移。这将动摇以API调用计费的云AI商业模式的根基，迫使算力提供商重新思考价值定位，并可能催生新一代完全离线、高度个性化的个人AI应用生态。",
+      "original_text": "Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人 AI 系统分解为五个可组合原语：Intelligence、Engine、Agents、Tools & Memory 和 Learning。该框架与最佳云端模型的性能差距在 3.2 points 以内，边际 API 成本降低约 800 倍。",
+      "full_translation": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes personal AI systems into five composable primitives: Intelligence, Engine, Agents, Tools & Memory, and Learning. The performance gap between this framework and the best cloud-based models is within 3.2 points, while the marginal API cost is reduced by approximately 800 times.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.04 08:01",
+      "title": "AI浪潮冲击下，ChatGPT时代前的初创公司面临“颠覆或死亡”困境",
+      "summary": "AI热潮已向OpenAI和Anthropic等公司注入超过2500亿美元资金，但这却使得数百家在ChatGPT于2022年问世之前建立的初创公司陷入搁浅境地，面临被颠覆或消亡的生存危机。",
+      "stars": "★★★★",
+      "insight": "这揭示了AI投资狂潮的阴暗面：资本向少数头部模型公司极度集中，对旧有的技术栈和商业模式构成了毁灭性的降维打击。对于公开市场投资者而言，这意味着必须重新审视那些基于前AI时代逻辑构建的科技公司估值，警惕其护城河在AI原生解决方案面前迅速瓦解的风险。这不仅是技术迭代，更是一次残酷的市场出清。",
+      "original_text": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+      "full_translation": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.03 21:37",
       "title": "Sam Altman: AGI内部基准显示加速，需重新定义",
       "summary": "OpenAI首席执行官Sam Altman暗示，AGI（通用人工智能）的到来时间可能比预想更快，内部基准测试显示模型与人类在复杂任务上的差距正在迅速缩小，这可能迫使行业在实现AGI前就重新定义其概念。",
