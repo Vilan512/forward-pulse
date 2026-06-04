@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-04 18:38:08
-# 共计 47 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-04 22:58:23
+# 共计 51 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-04 12:10]
 标题: The Download: AI-generated lawsuits and virtual power plants for data centers
@@ -11,9 +11,9 @@
 链接: https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/
 正文: Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting it is to walk into the courtroom alone.&nbsp; Lately, like many judges across the US, she has seen a noticeable uptick in such filings. According to a new study that examined 4.5 million federal civil cases from 2005 to 2026, the share of lawsuits brought by self-represented people increased from 11% in 2022 to 16.8% in 2025. Within those cases, the number of filings made more than doubled from pre-2023 levels. Judge Braswell puts that jump down to AI.&nbsp; “I do correlate that to AI in part because I see AI use,” she says. As a tech-savvy judge who uses AI to vet court documents, she’s learned to recognize how large language models write. She can tell from the prose and at times, hallucinated cases and fabricated quotes. “I’m also actually seeing better-drafted pleadings,” she says.&nbsp; But while AI appears to be expanding access to justice, it doesn’t seem to be improving people’s chances of winning. Judges are also starting to question what kinds of rights and responsibilities large language models should bear as they step into lawyers’ shoes. For example, they ask whether a chatbot has a duty to provide good advice, as a human lawyer does. And a growing number of lawmakers across the US are starting to grapple with who should pay the price when chatbots dish out bad legal advice. AI supercharges lawsuits To test whether AI was driving the increase in lawsuits filed by people without a lawyer, the authors of the study, Anand Shah at MIT and Joshua Levy at the University of Southern California, ran 1,600 randomly sampled court documents through Pangram, a commercial AI-text detector. The share flagged as containing AI-generated writing rose from 1
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 12:59]
-标题: How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent
-链接: https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 18:57]
+标题: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
+链接: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 12:24]
 标题: EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios
@@ -22,6 +22,51 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 00:00]
 标题: Designing the hf CLI as an agent-optimized way to work with the Hub
 链接: https://huggingface.co/blog/hf-cli-for-agents
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:50]
+标题: NotebookLM 来源归属功能上线
+链接: https://x.com/NotebookLM/status/2062653124326863077
+正文: 今天，我们推出又一项呼声很高的功能：来源归属！🥳 无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点"迭代"，随心定制 💖
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:47]
+标题: Gemini macOS 双击 Command 附加活动窗口
+链接: https://x.com/GeminiApp/status/2062652523945836770
+正文: 使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻 只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:32]
+标题: Anthropic 开源 AI 驱动漏洞发现框架
+链接: https://github.com/anthropics/defending-code-reference-harness
+正文: Anthropic 将其用于 AI 驱动漏洞发现的开源框架代码托管在 GitHub 上。该框架借助 AI 技术进行漏洞发现，旨在帮助识别软件中的安全缺陷。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:28]
+标题: Nemotron Parakeet ASR 印尼语准确率达 97.7%
+链接: https://x.com/nvidia/status/2062647600424128773
+正文: 当法律和监督依赖于转录内容时，70-80% 是不够的。 http：//Rafiqspace.ai 通过微调 Nemotron Parakeet ASR 达到了 97.7% 的印尼语准确率（2.3% WER）-- 优于全球工具，同时每小时成本降低高达 90%。⚖️
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:13]
+标题: 共存与协同智能的终结
+链接: https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence
+正文: Ethan Mollick 在 One Useful Thing 博客中，以"共存与协同智能的终结"为题，并附带介绍了如何向 AI 推销一本书。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 20:25]
+标题: Google Research 发布被动心率监测系统 PHRM
+链接: https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera
+正文: Google Research 开发了一种被动心率监测系统（PHRM），利用智能手机前置摄像头在日常使用中（人脸解锁后数秒内）捕捉面部视频，通过深度学习估算心率，平均绝对百分比误差（MAPE）低于10%（对比心电图金标准），满足各肤色人群的行业精度标准。系统将全天心率测量整合为每日静息心率（RHR），平均绝对误差（MAE）低于5 bpm（对比可穿戴设备）。研究同时发布了迄今最大规模的公开智能手机视频数据集及预训练模型PHRM-mini，合格研究人员可申请访问。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 19:36]
+标题: OpenAI API 新增内容审核评分
+链接: https://x.com/OpenAIDevs/status/2062619558440267801
+正文: Moderation scores 现已在 Responses API 和 Completions API 中可用。 在与生成相同的请求流程中返回审核信号，然后由你的应用决定如何使用它们进行记录、路由、审核或拦截。 https：//developers.openai.com/api/docs/guides/moderation
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 18:57]
+标题: Nemotron 3.5 Content Safety：面向全球企业AI的可定制多模态安全
+链接: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+正文: Nemotron 3.5 Content Safety基于Gemma 3 4B IT，提供128K上下文窗口，支持用户提示、可选图像与助手响应的统一多模态安全评估。新增自定义策略执行，允许企业用自然语言定义专属安全规则；THINK模式可输出可审计的逐步推理痕迹。显式训练覆盖12种语言，并借助基座模型零样本泛化至约140种语言。输出提供低延迟二分类、带分类标签、THINK推理痕迹三种模式。安全分类遵循Aegis 2.0框架（13核心类别+10细分类别）。同步发布多模态、多语言安全数据集，可在8GB+ VRAM GPU上实时部署。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 18:32]
+标题: Google Magenta RealTime 2 （MRT2） 实时音乐模型发布
+链接: https://x.com/googleaidevs/status/2062603374789263646
+正文: Google AI for Developers 宣布推出开放权重的实时音乐模型 Magenta RealTime 2 （MRT2）。该模型可通过 MIDI 键盘、实时文本提示甚至手势进行演奏。MRT2 在 MacBook 上原生运行，延迟低于 200ms，提供开放权重、开源推理引擎以及配套应用和插件套件。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 18:16]
 标题: Codex 推出 iOS 应用构建插件
@@ -69,9 +114,9 @@
 正文: NVIDIA 发布 Nemotron 3 Ultra 模型，专为长时间运行的 AI 智能体设计。该模型能够在多轮对话中保持上下文、调用工具、调用子智能体，并高效处理复杂工作流。随着多智能体协作导致模型 token 数量快速增长，Nemotron 3 Ultra 通过优化推理流程显著提升速度并降低计算成本，使长期运行的智能体任务更加可行。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 12:59]
-标题: 如何在 Nemotron 3.5 ASR 上针对你的语言、领域或口音进行微调
+标题: Nemotron 3.5 ASR：为你的语言、领域或口音进行微调
 链接: https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr
-正文: NVIDIA 在 Hugging Face 发布博客，介绍如何针对特定语言、领域或口音微调 Nemotron 3.5 ASR 模型。
+正文: Nemotron 3.5 ASR 是一个 600M 参数的多语言流式语音识别模型，单个检查点覆盖 40 种语言-地区（含英、西、德、法、意、日、韩、中、阿拉伯等）。采用 Cache-Aware FastConformer 编码器与 RNNT 解码器，缓存内部状态避免重复计算，实现低延迟流式转录且不损失精度。模型原生输出带标点和大写的生产级文本，无需后处理。支持指定语言（target_lang=es-ES）或自动语言检测（target_lang=auto）。通过注意力上下文大小（att_context_size）可在推理时直接调节延迟-准确率权衡，范围从 80ms 到 1.12s，无需重新训练。模型以 NeMo 检查点形式发布，可用于微调以适配特定语言、领域或口音。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 12:51]
 标题: OpenAI称AI递归自我改进迹象初现
@@ -79,9 +124,14 @@
 正文: OpenAI刚刚写道："我们也看到了当今系统中递归自我改进（RSI）的早期迹象：AI开发本身正被AI加速。 我们预计这将加剧开发者与国家之间的竞争压力，并带来现有机构无法应对的治理挑战。 随着RSI的出现，社会将需要找到塑造AI发展轨迹的方法，确保其服务于人类利益。" 气氛变了，有事正在发生。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 12:24]
-标题: EVA-Bench Data 2.0：3 大领域、121 个工具、213 个场景
+标题: EVA-Bench Data 2.0 发布：覆盖三大领域、121 个工具、213 个场景
 链接: https://huggingface.co/blog/ServiceNow-AI/eva-bench-data
-正文: ServiceNow-AI 发布 EVA-Bench Data 2.0 数据集，覆盖 3 个领域、121 个工具和 213 个场景，用于评估 AI 智能体的工具使用能力。
+正文: EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客户服务管理（CSM）、企业 IT 服务管理（ITSM）和医疗 HR 服务交付（HRSD）三个领域，共涵盖 121 个工具、213 个场景，场景数较原始版本增长约 4 倍。每个场景均经 OpenAI GPT-5.4、Google Gemini 3.1 Pro 和 Anthropic Claude Opus 4.6 验证可解性。数据集遵循语音优先、真实性、多样性、认证流程和可复现性五项设计原则，包含单意图、多意图（最多 4 个意图）和对抗性呼叫类型。所有三个数据集已开源，可通过 `load_dataset` 从 Hugging Face 直接下载。后续将推出多语言扩展。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 12:00]
+标题: OpenRouter 翻遍 11 款 LLM 找最快的决策模型：Claude vs. Grok 领衔
+链接: https://openrouter.ai/announcements/royale-last-agent-standing
+正文: OpenRouter 用总价 482 美元的推理花费，让 11 款大语言模型在 30 轮实时决策的"大逃杀"挑战中正面竞争。实验结果表明，传统的静态 benchmark 排名无法反映模型在需要即时反应的智能体任务（如自主控制机器人）中的真实表现，Claude 和 Grok 系列模型在决策速度与任务成功率上表现突出，而多项高分模型的实时调度能力未达预期。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 11:24]
 标题: Nemotron 预训练的任务种子合成问答生成
@@ -119,29 +169,18 @@
 正文: 联合国大学水、环境与健康研究所报告指出，受AI需求驱动，去年全球数据中心耗电448太瓦时（AI占五分之一），耗水4.5万亿升，碳排放1.89亿吨。预计到2030年，年耗电量将翻倍至945太瓦时（AI占40%），耗水增至9.3万亿升，碳排放升至3.99亿吨，占地面积从6900平方公里扩展至14500平方公里。报告警告若忽视环境成本，AI落地还将加剧土地紧张与电子废弃物问题。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 00:00]
+标题: OpenAI 发布《智能时代的生物防御》行动计划，以 AI 驱动生物韧性
+链接: https://openai.com/index/biodefense-in-the-intelligence-age
+正文: OpenAI 提出一项名为"Biodefense in the Intelligence Age"的行动计划，旨在利用 AI 增强生物防御与韧性。该计划聚焦于构建 AI 驱动的生物安全能力，以应对未来可能出现的生物威胁。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 00:00]
 标题: Hugging Face 为编码智能体重塑 hf CLI 输出格式
 链接: https://huggingface.co/blog/hf-cli-for-agents
 正文: Hugging Face 重新设计 hf CLI，使其同时服务人类用户和编码智能体（Claude Code、Codex 等）。CLI 通过环境变量自动检测智能体驱动，输出紧凑无截断的 TSV 格式，避免 ANSI 和交互提示，大幅降低 token 消耗。复杂多步任务中，不使用 CLI 的智能体 token 消耗最高达 hf CLI 的 6 倍。2026 年 4 月起，Hugging Face 追踪 Hub 智能体流量，Claude Code 约 4 万用户、近 4900 万次请求，Codex 紧随其后。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-03 22:03]
-标题: Grok模型登陆Cloudflare AI Gateway
-链接: https://x.com/xai/status/2062294202625696081
-正文: 在 @Cloudflare 的 AI Gateway 上尝试 Grok 模型！
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-03 21:40]
-标题: OpenClaw 2026.6.1发布：新增Windows节点与技能工坊
-链接: https://x.com/openclaw/status/2062288421406785710
-正文: OpenClaw 2026.6.1 已上线 🦞 🪟 原生 Windows 节点主机 🛠️ 用于自主学习型智能体的技能工坊（Skill Workshop） 📋 工作板（Workboard）编排 🧠 支持 MiniMax M3 Windows 加入集群。无需企鹅服。 https：//github.com/openclaw/openclaw/releases/tag/v2026.6.1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-03 19:00]
-标题: 优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考
-链接: https://simonwillison.net/2026/Jun/3/uber-caps-usage
-正文: 优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-03 18:57]
-标题: 世界模型的功能分类
-链接: https://x.com/drfeifei/status/2062247238143996275
-正文: World Labs团队与李飞飞发文，梳理"世界模型"这一被滥用的术语。对比语言模型学习文本统计，世界模型学习空间与时间统计（如光照、物理规律）。基于部分可观马尔可夫决策过程（POMDP）框架，智能体通过动作影响世界状态，观测是部分视图。当前被称为"世界模型"的不同系统本质上是同一循环的不同投影：第一类为渲染器，输出给人眼看的像素，以视觉保真度为核心。文章着重于概念分层，未给出具体模型名、参数或基准分数。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 03:33]
+标题: Anthropic scales its most powerful AI a day after filing to IPO
+链接: https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 16:46]
 标题: Analyst Report: McKesson Corp
@@ -151,10 +190,6 @@
 标题: Market Update: MCK, AVGO
 链接: https://finance.yahoo.com/research/reports/ARGUS_47233_MarketUpdate_1780590686000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 03:33]
-标题: Anthropic scales its most powerful AI a day after filing to IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 11:18]
 标题: Daily Spotlight: Stock Market Valuation in "Normal" Range
 链接: https://finance.yahoo.com/research/reports/ARGUS_47230_MarketOutlook_1780571929000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -163,13 +198,10 @@
 标题: Analyst Report: Markel Group Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1780571362000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 11:09]
-标题: Analyst Report: Goodyear Tire & Rubber Co/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3022_AnalystReport_1780571362000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 11:09]
-标题: Analyst Report: Fiserv Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2972_AnalystReport_1780571362000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-04 22:54]
+标题: Stocks making the biggest moves after hours: Lululemon Athletica, ServiceTitan, Argan and more
+链接: https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-after-hours-lulu-agx-ttan.html
+正文: See which stocks are posting big moves after the bell.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-04 14:18]
 标题: Ark Invest owns SpaceX in its venture ETF. It says Starlink alone supports $2 trillion value at IPO
@@ -186,25 +218,15 @@
 链接: https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-03 22:51]
-标题: Stocks making the biggest moves after hours: Broadcom, CrowdStrike, PVH & more
-链接: https://www.cnbc.com/2026/06/03/stocks-making-the-biggest-moves-after-hours-avgo-crwd-pvh.html
-正文: See which stocks are posting big moves after the bell.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-03 20:06]
-标题: Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast
-链接: https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html
-正文: The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-03 20:48]
-标题: 'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT
-链接: https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html
-正文: The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
 标题: Latino economic mobility: Insights from five years of research
 链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/latino-economic-mobility-insights-from-five-years-of-research
 正文: This compendium brings together five years of McKinsey research on how Latinos are reshaping America’s economic future and why expanding opportunity for this dynamic community is essential to broader growth.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
+标题: How CEOs can navigate the new era of trade
+链接: https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade
+正文: AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
 标题: Preparing for agentic commerce: REWE’s AI transformation
@@ -216,10 +238,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/embracing-complexity-parloas-vision-for-next-gen-customer-experience
 正文: Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care, getting to success, and how he sees the future.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-04 18:38]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-04 22:58]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-04 18:38]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-04 22:58]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
