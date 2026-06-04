@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "category": "人工智能",
+      "date": "2026.06.04 10:47",
+      "title": "Sam Altman 宣称 AGI 时间线持续加速，内部基准显示差距正快速闭合",
+      "summary": "OpenAI 首席执行官 Sam Altman 在推文中表示，公司内部最新基准测试显示，当前模型在复杂任务上与人类水平推理能力的差距，比他们在 2024 年的任何预测闭合得都要快。他甚至提出，在达到 AGI（通用人工智能）之前，可能需要重新审视其定义。",
+      "stars": "★★★★",
+      "insight": "作为 OpenAI 的掌舵人，Altman 公开宣称 AGI 实现时间线超预期加速，这不仅是技术自信的宣示，更是对整个行业节奏和资本预期的重新校准。其言论暗示，现有技术路径可能比预想的更快逼近一个临界点，迫使产业界、投资界乃至学术界必须立即重新评估 AGI 的定义、影响范围及应对策略。这种来自行业领导者的前瞻性表态，往往预示着重大技术范式转变的临近，对前沿科技投资和人才流动具有极强的指引性。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚看了一下我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力之间的差距，正比我们 2024 年的任何预测闭合得都要快。在真正达到之前，我们可能需要重新审视 \"AGI\" 到底意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.04 10:47",
+      "title": "微软 CEO Satya Nadella：下一个平台转变是具身智能",
+      "summary": "微软首席执行官 Satya Nadella 在推文中指出，我们正进入一个 AI 不仅生成文本和图像，还能操控物质（原子）的时代。他认为机器人基础模型当前所处的阶段，相当于大语言模型在 2020 年的位置。那些能够解决从模拟到现实迁移（sim-to-real transfer）难题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★",
+      "insight": "Nadella 的此番论断明确将 AI 的下一个重大战场从数字领域（生成内容）推向物理世界（操控物质）。他将机器人基础模型类比为 2020 年的大语言模型，这是一个极其重要的信号，预示着具身智能（Embodied AI）和机器人学即将进入类似 LLM 在过去几年经历的爆发期。这不仅意味着巨额资本将涌入该赛道，也表明制造业、物流业等实体经济部门将面临由 AI 驱动的根本性重塑。解决 sim-to-real 问题将成为决定下一代工业巨头的关键。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个 AI 不仅仅生成文本和图像，而是操控原子的时代。机器人基础模型正处于大语言模型在 2020 年所处的位置。那些能够解决从模拟到现实迁移（sim-to-real transfer）问题的公司，将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.04 10:47",
+      "title": "CNBC 报道：AI 热潮重创 ChatGPT 时代前的创业公司，估值泡沫破裂",
+      "summary": "一篇 CNBC 文章指出，流入 OpenAI 和 Anthropic 等公司的超过 2500 亿美元的 AI 热潮，已导致数百家在 2022 年 ChatGPT 出现之前成立的创业公司陷入困境，被描述为‘被颠覆或死亡’。这表明市场资本正迅速向拥有最新 AI 能力的头部公司集中，而非前一代技术范式下的初创企业。",
+      "stars": "★★★",
+      "insight": "这篇报道揭示了当前科技投资市场的一个残酷现实：AI 热潮并非普惠式增长，而是呈现出强烈的‘赢家通吃’和‘代际更替’特征。资本正以前所未有的速度和规模涌向最前沿的 AI 模型公司，导致旧有的技术栈和商业模式价值急剧缩水。对于投资者而言，这意味着投资组合需要急剧向头部 AI 核心公司倾斜，同时必须对前代技术公司的生存能力进行残酷的压力测试。对于创业公司，这警示了技术代际跃迁带来的生存危机。",
+      "original_text": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+      "full_translation": "AI 热潮已将超过 2500 亿美元注入 OpenAI 和 Anthropic 等公司，这使得数百家在 2022 年 ChatGPT 出现之前成立的创业公司陷入困境。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html"
+    },
+    {
       "category": "科技前沿",
       "date": "2026.06.04 09:40",
       "title": "谷歌与Voltus签署协议，利用虚拟电厂为数据中心供电",
