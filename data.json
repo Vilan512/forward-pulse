@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.04 18:38",
+      "title": "OpenAI称AI递归自我改进迹象初现",
+      "summary": "OpenAI观察到其系统中出现AI递归自我改进（RSI）的早期迹象，表明AI开发本身正被AI加速，这预示着竞争加剧和治理挑战。",
+      "stars": "★★★★★",
+      "insight": "递归自我改进是AI能力可能出现指数级跃升的关键拐点。一旦AI能够自主、高效地改进自身，其进化速度将远超人类研发周期，可能在极短时间内产生颠覆性突破。这标志着AI发展正从‘人类驱动’转向‘机器驱动’，对技术竞争格局、安全研究和全球治理框架构成根本性挑战，迫使所有参与者重新评估时间线和风险模型。",
+      "original_text": "OpenAI刚刚写道：“我们也看到了当今系统中递归自我改进（RSI）的早期迹象：AI开发本身正被AI加速。 我们预计这将加剧开发者与国家之间的竞争压力，并带来现有机构无法应对的治理挑战。 随着RSI的出现，社会将需要找到塑造AI发展轨迹的方法，确保其服务于人类利益。” 气氛变了，有事正在发生。",
+      "full_translation": "OpenAI刚刚写道：“我们也看到了当今系统中递归自我改进（RSI）的早期迹象：AI开发本身正被AI加速。 我们预计这将加剧开发者与国家之间的竞争压力，并带来现有机构无法应对的治理挑战。 随着RSI的出现，社会将需要找到塑造AI发展轨迹的方法，确保其服务于人类利益。” 气氛变了，有事正在发生。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/kimmonismus/status/2062517474277675102"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.04 18:38",
+      "title": "Cloudflare Radar：机器人流量首次超过人类占比57.5%",
+      "summary": "Cloudflare数据显示，全球网络流量中机器人（包括AI抓取）占比首次超过人类，标志着互联网流量结构的根本性转变。",
+      "stars": "★★★★",
+      "insight": "这是互联网基础设施和数字生态的一个标志性转折点。流量主体从人类变为机器，意味着网络的核心功能正从‘信息展示’转向‘数据供给’，直接为AI训练和自动化流程服务。这将重塑内容创作、数据抓取法规、网络架构优化和反爬虫技术的竞争格局，所有依赖网络流量的商业模式都必须适应这一新的、以机器为中心的环境。",
+      "original_text": "Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。",
+      "full_translation": "Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/xiaohu/status/2062367357868355622"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.04 18:38",
+      "title": "CNBC报道：AI正在摧毁ChatGPT之前诞生的一代初创公司",
+      "summary": "AI热潮将大量资本引向头部公司，导致数百家在ChatGPT出现前成立的初创公司陷入困境，面临被颠覆或消亡的命运。",
+      "stars": "★★★",
+      "insight": "这揭示了技术范式转换期的典型资本和创新挤压效应。巨额资本集中涌入新一代AI原生公司，使得上一代技术路线的初创企业迅速失去估值支撑和生存空间。对于投资者而言，这凸显了识别技术代际更迭风险的重要性，许多看似稳固的‘前AI时代’商业模式可能在短期内失效。市场正在无情地为技术过时定价。",
+      "original_text": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+      "full_translation": "将超过2500亿美元资金引入OpenAI和Anthropic的AI热潮，已经让数百家在2022年ChatGPT到来之前建立的初创公司陷入困境。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.04 10:47",
       "title": "Sam Altman 宣称 AGI 时间线持续加速，内部基准显示差距正快速闭合",
       "summary": "OpenAI 首席执行官 Sam Altman 在推文中表示，公司内部最新基准测试显示，当前模型在复杂任务上与人类水平推理能力的差距，比他们在 2024 年的任何预测闭合得都要快。他甚至提出，在达到 AGI（通用人工智能）之前，可能需要重新审视其定义。",
