@@ -32,7 +32,7 @@
             inset: 0;
             z-index: -1;
             pointer-events: none;
-            opacity: 0.08;
+            opacity: 0.05;
         }
 
         .tab-btn {
@@ -78,30 +78,82 @@
             50% { opacity: 0.5; transform: scale(1.3); }
         }
 
-        /* Ticker item styles */
-        .ticker-item {
-            border-bottom: 1px solid rgba(255,255,255,0.08);
-            padding-bottom: 2rem;
-            margin-bottom: 2rem;
-            transition: background-color 0.2s ease;
-        }
-        .ticker-item:hover {
-            background-color: rgba(255,255,255,0.02);
-        }
-        .ticker-item:last-child {
-            border-bottom: none;
+        /* Timeline Layout */
+        .timeline-item {
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 1.5rem;
+            position: relative;
         }
 
-        .ticker-featured {
-            border-bottom: 2px solid rgba(16, 185, 129, 0.2);
-            padding-bottom: 2.5rem;
-            margin-bottom: 2.5rem;
+        .timeline-left {
+            width: 80px;
+            flex-shrink: 0;
+            position: relative;
+            border-right: 1px solid rgba(255,255,255,0.08);
+            padding-right: 16px;
+            text-align: right;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 6px;
+        }
+
+        .timeline-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: #06b6d4;
+            box-shadow: 0 0 8px rgba(6, 182, 212, 0.5);
+            position: absolute;
+            right: -4px;
+            top: 6px;
+            z-index: 2;
+        }
+
+        .timeline-time {
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.75rem;
+            color: #06b6d4;
+            margin-top: 2px;
+        }
+
+        .timeline-right {
+            flex-grow: 1;
+            min-width: 0;
+            background-color: rgba(255,255,255,0.03);
+            border-radius: 10px;
+            padding: 20px;
+            margin-left: 16px;
+            transition: background-color 0.2s ease;
+        }
+
+        .timeline-right:hover {
+            background-color: rgba(255,255,255,0.05);
+        }
+
+        .timeline-featured .timeline-left {
+            border-right-color: rgba(6, 182, 212, 0.2);
+        }
+
+        .timeline-featured .timeline-dot {
+            width: 10px;
+            height: 10px;
+            right: -5px;
+            top: 4px;
+            box-shadow: 0 0 12px rgba(6, 182, 212, 0.6);
         }
 
         .meta-line {
             font-family: 'JetBrains Mono', 'Fira Code', monospace;
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             letter-spacing: 0.05em;
+        }
+
+        @media (max-width: 640px) {
+            .timeline-left { width: 56px; padding-right: 12px; }
+            .timeline-right { margin-left: 12px; padding: 14px; }
+            .timeline-dot { right: -4px; }
         }
 
         .card-fade-out {
@@ -265,7 +317,7 @@
                 p.vx*=0.98;p.vy*=0.98;p.x+=p.vx;p.y+=p.vy;
                 if(p.x<-10)p.x=W+10;if(p.x>W+10)p.x=-10;if(p.y<-10)p.y=H+10;if(p.y>H+10)p.y=-10;
                 ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
-                ctx.fillStyle=p.white?'rgba(255,255,255,'+(0.04+Math.random()*0.04)+')':'rgba('+rgb+','+(0.06+Math.random()*0.05)+')';ctx.fill();
+                ctx.fillStyle=p.white?'rgba(255,255,255,'+(0.03+Math.random()*0.03)+')':'rgba('+rgb+','+(0.04+Math.random()*0.04)+')';ctx.fill();
                 for(var j=i+1;j<particles.length;j++){var p2=particles[j],ddx=p.x-p2.x,ddy=p.y-p2.y,d=Math.sqrt(ddx*ddx+ddy*ddy);if(d<CONNECT_DIST){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(p2.x,p2.y);ctx.strokeStyle='rgba('+rgb+','+((1-d/CONNECT_DIST)*0.05+0.01)+')';ctx.lineWidth=0.6;ctx.stroke();}}
                 if(mDist<MOUSE_DIST){ctx.beginPath();ctx.moveTo(p.x,p.y);ctx.lineTo(mouse.x,mouse.y);ctx.strokeStyle='rgba('+rgb+','+((1-mDist/MOUSE_DIST)*0.15+0.03)+')';ctx.lineWidth=1;ctx.stroke();var glowR=p.r*(1+(1-mDist/MOUSE_DIST)*1.5);ctx.beginPath();ctx.arc(p.x,p.y,glowR,0,Math.PI*2);ctx.fillStyle='rgba('+rgb+','+(0.1+(1-mDist/MOUSE_DIST)*0.15)+')';ctx.fill();}
             }
@@ -291,41 +343,53 @@
 
         function getCatColor(cat) { return CATEGORY_COLORS[cat] || DEFAULT_COLOR; }
 
-        function renderFeatured(d) {
-            var color = getCatColor(d.category);
-            var dateStr = d.date || '--';
-            var catStr = d.category || '未分类';
-            var articleJson = JSON.stringify(d).replace(/"/g, '&quot;');
-            return '<article class="ticker-item ticker-featured cursor-pointer" data-category="' + catStr + '">' +
-                '<div class="meta-line mb-3">' +
-                    '<span style="color:#06b6d4">' + dateStr + '</span>' +
-                    '<span class="mx-1 text-slate-600">|</span>' +
-                    '<span style="color:' + color + '">【' + catStr + '】</span>' +
-                '</div>' +
-                '<h1 class="text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-snug mb-4">' + (d.title || '...') + '</h1>' +
-                '<p class="text-base text-slate-400 leading-relaxed mb-5 max-w-3xl">' + (d.summary || '') + '</p>' +
-                '<p class="text-sm leading-relaxed mb-4" style="color:#4ade80">&#9889; 战略研判：' + (d.insight || '') + '</p>' +
-                (d.source_url ? '<a href="' + d.source_url + '" target="_blank" rel="noopener noreferrer" class="inline-block meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 原文链接' + (d.source_name ? ' · ' + d.source_name : '') + ']</a>' : '<button class="meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 深度解析]</button>') +
-            '</article>';
+        function formatTime(dateStr) {
+            if (!dateStr) return '--:--';
+            var parts = dateStr.split(' ');
+            if (parts.length >= 2) return parts[1].substring(0, 5);
+            var d = parts[0].split('.');
+            return d.length >= 3 ? d[1] + '-' + d[2] : dateStr;
         }
 
-        function renderCard(a) {
+        function buildTimelineItem(a, isFeatured) {
             var color = getCatColor(a.category);
-            var dateStr = a.date || '--';
             var catStr = a.category || '未分类';
+            var sourceStr = a.source_name || '';
             var articleJson = JSON.stringify(a).replace(/"/g, '&quot;');
-            return '<article class="ticker-item cursor-pointer" data-category="' + catStr + '">' +
-                '<div class="meta-line mb-2">' +
-                    '<span style="color:#06b6d4">' + dateStr + '</span>' +
-                    '<span class="mx-1 text-slate-600">|</span>' +
-                    '<span style="color:' + color + '">【' + catStr + '】</span>' +
-                '</div>' +
-                '<h3 class="text-lg sm:text-xl font-bold text-white leading-snug mb-3">' + (a.title || '...') + '</h3>' +
-                '<p class="text-sm text-slate-400 leading-relaxed mb-4 max-w-2xl">' + (a.summary || '') + '</p>' +
-                '<p class="text-sm leading-relaxed mb-3" style="color:#4ade80">&#9889; 战略研判：' + (a.insight || '') + '</p>' +
-                (a.source_url ? '<a href="' + a.source_url + '" target="_blank" rel="noopener noreferrer" class="inline-block meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 原文链接' + (a.source_name ? ' · ' + a.source_name : '') + ']</a>' : '<button class="meta-line text-slate-500 hover:text-emerald-400 transition-colors view-source-btn" data-article="' + articleJson + '">[&#128279; 深度解析]</button>') +
-            '</article>';
+            var cls = isFeatured ? 'timeline-item timeline-featured' : 'timeline-item';
+
+            var left = '<div class="timeline-left">' +
+                '<div class="timeline-dot"></div>' +
+                '<div class="timeline-time">' + formatTime(a.date) + '</div>' +
+            '</div>';
+
+            var header = '<div class="flex items-center gap-2 mb-2 flex-wrap">' +
+                (sourceStr ? '<span class="meta-line" style="color:#6b7280">' + sourceStr + '</span>' : '') +
+                '<span class="meta-line px-2 py-0.5 rounded" style="color:' + color + ';background:' + color + '15">' + catStr + '</span>' +
+            '</div>';
+
+            var titleTag = isFeatured ? 'h1' : 'h3';
+            var titleCls = isFeatured
+                ? 'text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-snug mb-3'
+                : 'text-lg font-bold text-white leading-snug mb-2';
+
+            var title = '<' + titleTag + ' class="' + titleCls + '">' + (a.title || '...') + '</' + titleTag + '>';
+
+            var summary = '<p class="text-sm leading-relaxed mb-3" style="color:#9ca3af">' + (a.summary || '') + '</p>';
+
+            var insight = '<p class="text-sm leading-relaxed mb-3" style="color:#4ade80">&#9889; 战略研判：' + (a.insight || '') + '</p>';
+
+            var link = a.source_url
+                ? '<a href="' + a.source_url + '" target="_blank" rel="noopener noreferrer" class="meta-line inline-block" style="color:#6b7280" data-article="' + articleJson + '">&#128279; 原文链接</a>'
+                : '<button class="meta-line" style="color:#6b7280;cursor:pointer;background:none;border:none" data-article="' + articleJson + '">&#128279; 深度解析</button>';
+
+            var right = '<div class="timeline-right view-source-btn">' + header + title + summary + insight + link + '</div>';
+
+            return '<article class="' + cls + '" data-category="' + catStr + '">' + left + right + '</article>';
         }
+
+        function renderFeatured(d) { return buildTimelineItem(d, true); }
+        function renderCard(a) { return buildTimelineItem(a, false); }
 
         function renderArticles(articles) {
             var visible = articles.slice(0, currentPage * itemsPerPage);
@@ -411,7 +475,7 @@
             if(e.target.closest('#drawer-close-btn')){closeDrawer();return;}
             if(e.target.id==='drawer-overlay'){closeDrawer();return;}
             var btn=e.target.closest('.view-source-btn');
-            if(btn){e.stopPropagation();try{openDrawer(JSON.parse(btn.dataset.article));}catch(err){console.error(err);}}
+            if(btn){e.stopPropagation();var el=btn.querySelector('[data-article]')||btn;try{openDrawer(JSON.parse(el.dataset.article));}catch(err){console.error(err);}}
         });
         document.addEventListener('keydown',function(e){if(e.key==='Escape')closeDrawer();});
 
