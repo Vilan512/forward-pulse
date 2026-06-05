@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-05 18:30:17
-# 共计 59 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-05 22:47:25
+# 共计 57 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 12:10]
 标题: The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains
@@ -16,9 +16,49 @@
 链接: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
 正文: On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran posts; others took over accounts with valuable, single-word handles, possibly in order to sell them. AI cybersecurity concerns are nothing new. Since Anthropic announced in April that its Mythos model was too good at hacking to be released to the general public, commentators, researchers, and federal officials alike have fixated on the idea that superpowered AI systems could lay waste to our computer infrastructure. That’s not quite what this Instagram hack was: There, AI was the target rather than the attacker, and the method was far simpler than anything Mythos would cook up. But as companies offload more work to AI, these comparatively unsophisticated attacks could wreak their own havoc. “As AI becomes more and more widely used—especially when AI is more and more widely used to automate our work flows, like account recovery—I think attackers are going to be more and more motivated to attack AI itself,” says Neil Gong, a professor of electrical and computer engineering at Duke University. Gong and other scholars have been issuing warnings about the security vulnerabilities of AI agents for a while. They publish papers and blog posts detailing exploits such as indirect prompt injection, which involves hijacking agents using commands hidden in websites, emails, or other seemingly anodyne data sources. Compared with these techniques, the Meta hack was practically mindless. The only complication that hackers had to overcome was using a VPN that matched the true account owner’s location; then they directly asked the support agent to change the account’s email address, and it complied. Meta has not commented publicly on how this vulnerabili
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 18:57]
-标题: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
-链接: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-05 22:18]
+标题: Thousand Token Wood: shipping a multi-agent economy on a 3B model
+链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 22:01]
+标题: Arena 发布真实世界 AI 智能体排行榜 Agent Arena
+链接: https://x.com/rohanpaul_ai/status/2063018358795300982
+正文: Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 21:02]
+标题: Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片
+链接: https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic
+正文: Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 20:51]
+标题: SpaceX与Google达成云计算新协议
+链接: https://x.com/rohanpaul_ai/status/2063000834045313314
+正文: SpaceX 刚刚披露了一份与 Google 的新云服务协议。 Google 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元），用于 xAI 数据中心的计算能力。 这再次表明，AI 算力正成为一种战略性商品，就像发射能力或能源一样，而那些能够为庞大的 GPU 集群提供资金、电力、冷却和运营的公司，可能会在其原有业务之外获得巨大的杠杆优势。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 20:30]
+标题: 谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架
+链接: https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag
+正文: Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 19:43]
+标题: 微软Project Mosaic：micro-LED光学互连技术
+链接: https://x.com/MSFTResearch/status/2062983588606320714
+正文: 微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 19:33]
+标题: Anthropic：让Claude成为化学家
+链接: https://www.anthropic.com/research/making-claude-a-chemist
+正文: Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）能力。所有化合物选自模型训练截止日期后发布的ChemRxiv预印本，以避免选择偏差。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 19:23]
+标题: 五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器
+链接: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon
+正文: 据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 19:07]
+标题: Claude 是否增加了 rsync 中的错误？
+链接: https://alexispurslane.github.io/rsync-analysis
+正文: 一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 17:50]
 标题: 智能体协作应如同事般对话和手势
@@ -169,46 +209,6 @@
 链接: https://x.com/cb_doge/status/2062681226633523250
 正文: 马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:50]
-标题: NotebookLM 来源归属功能上线
-链接: https://x.com/NotebookLM/status/2062653124326863077
-正文: 今天，我们推出又一项呼声很高的功能：来源归属！🥳 无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点"迭代"，随心定制 💖
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:47]
-标题: Gemini macOS 双击 Command 附加活动窗口
-链接: https://x.com/GeminiApp/status/2062652523945836770
-正文: 使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻 只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:32]
-标题: Anthropic 开源 AI 驱动漏洞发现框架
-链接: https://github.com/anthropics/defending-code-reference-harness
-正文: Anthropic 将其用于 AI 驱动漏洞发现的开源框架代码托管在 GitHub 上。该框架借助 AI 技术进行漏洞发现，旨在帮助识别软件中的安全缺陷。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:28]
-标题: Nemotron Parakeet ASR 印尼语准确率达 97.7%
-链接: https://x.com/nvidia/status/2062647600424128773
-正文: 当法律和监督依赖于转录内容时，70-80% 是不够的。 http：//Rafiqspace.ai 通过微调 Nemotron Parakeet ASR 达到了 97.7% 的印尼语准确率（2.3% WER）-- 优于全球工具，同时每小时成本降低高达 90%。⚖️
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:13]
-标题: 共存与协同智能的终结
-链接: https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence
-正文: Ethan Mollick 在 One Useful Thing 博客中，以"共存与协同智能的终结"为题，并附带介绍了如何向 AI 推销一本书。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 19:36]
-标题: OpenAI API 新增内容审核评分
-链接: https://x.com/OpenAIDevs/status/2062619558440267801
-正文: Moderation scores 现已在 Responses API 和 Completions API 中可用。 在与生成相同的请求流程中返回审核信号，然后由你的应用决定如何使用它们进行记录、路由、审核或拦截。 https：//developers.openai.com/api/docs/guides/moderation
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 18:57]
-标题: Nemotron 3.5 Content Safety：面向全球企业AI的可定制多模态安全
-链接: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
-正文: Nemotron 3.5 Content Safety基于Gemma 3 4B IT，提供128K上下文窗口，支持用户提示、可选图像与助手响应的统一多模态安全评估。新增自定义策略执行，允许企业用自然语言定义专属安全规则；THINK模式可输出可审计的逐步推理痕迹。显式训练覆盖12种语言，并借助基座模型零样本泛化至约140种语言。输出提供低延迟二分类、带分类标签、THINK推理痕迹三种模式。安全分类遵循Aegis 2.0框架（13核心类别+10细分类别）。同步发布多模态、多语言安全数据集，可在8GB+ VRAM GPU上实时部署。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 18:32]
-标题: Google Magenta RealTime 2 （MRT2） 实时音乐模型发布
-链接: https://x.com/googleaidevs/status/2062603374789263646
-正文: Google AI for Developers 宣布推出开放权重的实时音乐模型 Magenta RealTime 2 （MRT2）。该模型可通过 MIDI 键盘、实时文本提示甚至手势进行演奏。MRT2 在 MacBook 上原生运行，延迟低于 200ms，提供开放权重、开源推理引擎以及配套应用和插件套件。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 17:15]
 标题: Analyst Report: Crowdstrike Holdings Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_6164_AnalystReport_1780679739000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -233,15 +233,7 @@
 标题: Analyst Report: Clorox Co/The
 链接: https://finance.yahoo.com/research/reports/ARGUS_3607_AnalystReport_1780657761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 11:09]
-标题: Analyst Report: CMS Energy Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_2849_AnalystReport_1780657761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 11:09]
-标题: Analyst Report: Berkshire Hathaway Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3692_AnalystReport_1780657761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 17:44]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 19:09]
 标题: Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests
 链接: https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html
 正文: Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.
@@ -267,19 +259,19 @@
 正文: See which stocks are posting big moves after the bell.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
-标题: Author Talks: How to succeed when systems fail
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail
-正文: What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities for reinvention.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
 标题: Resetting cost competitiveness in pulp and paper packaging
 链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging
 正文: Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that target the total cost baseline of a mill.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-05 18:30]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
+标题: Author Talks: How to succeed when systems fail
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail
+正文: What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities for reinvention.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-05 22:47]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-05 18:30]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-05 22:47]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
