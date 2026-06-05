@@ -1,27 +1,70 @@
-# ForwardPulse 原始情报收割 — 2026-06-04 22:58:23
-# 共计 51 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-05 11:40:01
+# 共计 45 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 09:00]
+标题: Are AI chatbots making us lose control of our brains?
+链接: https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
+正文: This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early in her career, the biggest concerns were the potential impacts of internet and email use on our brains. We may laugh those concerns off today, but it’s true that as the technologies became more ubiquitous and ingrained in our daily lives, our attention spans began to shrink. Mark is worried that things are only getting worse. The title of our session was “Have we lost control of our brains?” Unfortunately, Mark told me, the answer is yes. Around two decades ago, Mark started wondering about how our use of devices might affect our attention spans. She set up what she calls “living laboratories,” using sensors and trackers to monitor adult volunteers’ attention, mood, and behavior when they were using devices. In 2003, she found that the average user had an attention span of around two and a half minutes. That’s how long people could spend focused on one thing before moving on to something else. “That surprised me at the time,” she told me during our session on Wednesday. “I thought: Wow, this is really short.” But when she repeated the experiment in 2012, she found that attention spans had shrunk—all the way down to around 75 seconds on average, she said. In research she conducted between 2014 and 2020, attention spans shrank further still—to a mere 47 seconds, on average. Yikes. And it’s not good for us. Mark told me that she’s found switching our attention so frequently is stressful. “We would have people wear heart rate monitors, and … we would see direct correlation between switching attention fast and stress going up,” she told me. All this distraction makes it harder for us to get stuff done, too. “It just takes longer to do any single task if you’re sw
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 09:00]
+标题: The Meta hack shows there’s more to AI security than Mythos
+链接: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
+正文: On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran posts; others took over accounts with valuable, single-word handles, possibly in order to sell them. AI cybersecurity concerns are nothing new. Since Anthropic announced in April that its Mythos model was too good at hacking to be released to the general public, commentators, researchers, and federal officials alike have fixated on the idea that superpowered AI systems could lay waste to our computer infrastructure. That’s not quite what this Instagram hack was: There, AI was the target rather than the attacker, and the method was far simpler than anything Mythos would cook up. But as companies offload more work to AI, these comparatively unsophisticated attacks could wreak their own havoc. “As AI becomes more and more widely used—especially when AI is more and more widely used to automate our work flows, like account recovery—I think attackers are going to be more and more motivated to attack AI itself,” says Neil Gong, a professor of electrical and computer engineering at Duke University. Gong and other scholars have been issuing warnings about the security vulnerabilities of AI agents for a while. They publish papers and blog posts detailing exploits such as indirect prompt injection, which involves hijacking agents using commands hidden in websites, emails, or other seemingly anodyne data sources. Compared with these techniques, the Meta hack was practically mindless. The only complication that hackers had to overcome was using a VPN that matched the true account owner’s location; then they directly asked the support agent to change the account’s email address, and it complied. Meta has not commented publicly on how this vulnerabili
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-04 12:10]
 标题: The Download: AI-generated lawsuits and virtual power plants for data centers
 链接: https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. The number of these filings has more than doubled compared to before 2023. She puts that jump down to AI.&nbsp; But while AI appears to be expanding access to justice, it doesn’t seem to be improving people’s chances of winning. Judges are starting to question what rights and duties chatbots should have as they stand in for lawyers. Lawmakers, meanwhile, are grappling with who should pay the price when chatbots produce bad legal advice. Read the full story on how AI is reshaping access to the law. —Michelle Kim How virtual power plants could provide energy for data centers Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? A new project backed by Google will put those questions to the test. The company has signed a deal to fund a virtual power plant in the largest power grid in the US. The system will group together devices like electric vehicles and smart thermostats, paying customers to adjust their usage when the grid is stretched. The project could free up capacity for Google’s data centers—but there’s a catch: people might not play along. Find out what the future holds for these virtual power plants. —Casey Crownhart This story is from The Spark, our weekly newsletter giving you the inside track on all things climate. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 The EU has proposed new legislation to end its Big Tech dependenceThe laws aim to boost domestic ​cloud, AI and semico
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-04 10:50]
-标题: How courts are coping with a flood of AI-generated lawsuits
-链接: https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/
-正文: Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting it is to walk into the courtroom alone.&nbsp; Lately, like many judges across the US, she has seen a noticeable uptick in such filings. According to a new study that examined 4.5 million federal civil cases from 2005 to 2026, the share of lawsuits brought by self-represented people increased from 11% in 2022 to 16.8% in 2025. Within those cases, the number of filings made more than doubled from pre-2023 levels. Judge Braswell puts that jump down to AI.&nbsp; “I do correlate that to AI in part because I see AI use,” she says. As a tech-savvy judge who uses AI to vet court documents, she’s learned to recognize how large language models write. She can tell from the prose and at times, hallucinated cases and fabricated quotes. “I’m also actually seeing better-drafted pleadings,” she says.&nbsp; But while AI appears to be expanding access to justice, it doesn’t seem to be improving people’s chances of winning. Judges are also starting to question what kinds of rights and responsibilities large language models should bear as they step into lawyers’ shoes. For example, they ask whether a chatbot has a duty to provide good advice, as a human lawyer does. And a growing number of lawmakers across the US are starting to grapple with who should pay the price when chatbots dish out bad legal advice. AI supercharges lawsuits To test whether AI was driving the increase in lawsuits filed by people without a lawyer, the authors of the study, Anand Shah at MIT and Joshua Levy at the University of Southern California, ran 1,600 randomly sampled court documents through Pangram, a commercial AI-text detector. The share flagged as containing AI-generated writing rose from 1
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 11:10]
+标题: 微软CEO Satya Nadella最新访谈上线
+链接: https://x.com/swyx/status/2062854555562565741
+正文: Satya Nadella 在 Latent Space 发布最新访谈，链接见原文。原推文仅评论"chat is he cooked"。
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 18:57]
-标题: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
-链接: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 07:46]
+标题: 腾讯混元联合人大开源PlanningBench评估框架
+链接: https://x.com/TencentHunyuan/status/2062803141314437391
+正文: 腾讯混元（Tencent Hunyuan）与中国人民大学高瓴人工智能学院合作，开源PlanningBench--一个可扩展、可验证的LLM规划能力评估与训练框架。该框架包含30+真实世界规划任务，支持自动验证和训练。PlanningBench旨在推动LLM从"说"到"做"的规划能力发展。资源已发布于arXiv、GitHub及HuggingFace。
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 12:24]
-标题: EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios
-链接: https://huggingface.co/blog/ServiceNow-AI/eva-bench-data
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 06:18]
+标题: PolarDB-X Zero 上线：30秒全分布式数据库
+链接: https://x.com/alibaba_cloud/status/2062781182417490310
+正文: PolarDB-X Zero 上线了！ 无需注册。无需配置。只需一次 API 调用。 30 秒内获得一个全分布式数据库。 原生 HNSW 向量索引--内置兼容 MySQL 的引擎。 关系型 + 语义搜索--一条 SQL 语句。 AI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qoder、Qodex 等） 立即尝试：https：//zero.polardbx.com #AlibabaCloud #PolarDB #ApsaraDB
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-04 00:00]
-标题: Designing the hf CLI as an agent-optimized way to work with the Hub
-链接: https://huggingface.co/blog/hf-cli-for-agents
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 06:04]
+标题: 阿里云发布SkillClaw与Nacos的Agent技能进化循环
+链接: https://x.com/alibaba_cloud/status/2062777684120244656
+正文: 阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的"生成-治理-分发"持续进化闭环。目标是将个人洞察转化为团队的AI资产。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:38]
+标题: NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来
+链接: https://blogs.nvidia.com/blog/korea-ecosystem-2026
+正文: NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并呼吁韩国投资 AI。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:16]
+标题: Open Code Review - 一款基于人工智能的代码审查命令行工具
+链接: https://github.com/alibaba/open-code-review
+正文: Open Code Review 是一个基于人工智能的代码审查命令行（CLI）工具，旨在帮助开发者通过自动化的方式提升代码审查效率。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:13]
+标题: 375个公众号RSS源优化Agent输入
+链接: https://x.com/hongming731/status/2062764845494317493
+正文: 你的 Agent 还在全网垃圾里捞内容？不如先喂它 375 个高质量微信公众号 RSS 源。 🔽
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 03:04]
+标题: 腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成
+链接: https://www.ithome.com/0/960/323.htm
+正文: 在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露，去年腾讯在 AI 新产品上投入 180 亿元，今年投入至少翻倍。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 01:16]
+标题: Anthropic 称其最新 AI 模型 Mythos 显现脱离人类控制迹象，呼吁全球暂缓先进 AI 研发
+链接: https://www.ithome.com/0/960/218.htm
+正文: Anthropic 发布报告称其最新 AI 模型已显现脱离人类控制迹象，呼吁全球暂缓前沿 AI 开发，以便社会制度建设和对齐研究跟上进展。该公司主张美国、中国等主要 AI 公司达成共识，发布可验证的规则，并类比"核武器不扩散条约"，但指出 AI 更难监管。该观点引发美国白宫部分官员不满，批评其夸大风险。Anthropic 计划未来数月召集各方探讨全球协调机制如何运作。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 23:41]
+标题: 马斯克谈SpaceX上市：正处大规模资本扩张期
+链接: https://x.com/cb_doge/status/2062681226633523250
+正文: 马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 21:50]
 标题: NotebookLM 来源归属功能上线
@@ -133,70 +176,19 @@
 链接: https://openrouter.ai/announcements/royale-last-agent-standing
 正文: OpenRouter 用总价 482 美元的推理花费，让 11 款大语言模型在 30 轮实时决策的"大逃杀"挑战中正面竞争。实验结果表明，传统的静态 benchmark 排名无法反映模型在需要即时反应的智能体任务（如自主控制机器人）中的真实表现，Claude 和 Grok 系列模型在决策速度与任务成功率上表现突出，而多项高分模型的实时调度能力未达预期。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 11:24]
-标题: Nemotron 预训练的任务种子合成问答生成
-链接: https://huggingface.co/blog/nvidia/task-seeded-sdg
-正文: 在 Nemotron-3 Nano 模型的 100B token 续训练实验中，任务种子合成数据生成（Task-Seeded SDG）使 MMLU-Pro 提升 1.8 分，平均代码提升 1.9 分，常识理解提升 1.6 分，GPQA 提升 11.1 分，数学成绩保持稳定。该流程利用 lm-eval-harness 中约 70 个公开任务（约 700 子任务）的训练集作为种子，生成新示例并补充推理和上下文，经过格式校验、去重和答案验证后得到精选合成数据集，用于 Nemotron Ultra 和 Super 训练。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 11:02]
-标题: 微软AI负责人：Anthropic模型太贵，正自研更便宜的替代模型
-链接: https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive
-正文: 微软AI部门负责人表示，Anthropic推出的模型成本过高，公司目前正在内部研发更廉价的替代模型，以降低成本。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 09:00]
-标题: Dreaming： ChatGPT 推出更强的记忆系统，更好记住用户偏好
-链接: https://openai.com/index/chatgpt-memory-dreaming
-正文: ChatGPT 推出名为 Dreaming 的新记忆系统，能够更有效地记住用户偏好，并在跨对话场景中保持上下文的新鲜感和相关性，从而提升助手的个性化体验。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 06:23]
-标题: Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习
-链接: https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning
-正文: Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人 AI 系统分解为五个可组合原语：Intelligence、Engine、Agents、Tools & Memory 和 Learning。该框架与最佳云端模型的性能差距在 3.2 points 以内，边际 API 成本降低约 800 倍。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 02:54]
-标题: Cloudflare Radar：机器人流量首次超过人类占比57.5%
-链接: https://x.com/xiaohu/status/2062367357868355622
-正文: Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 02:17]
-标题: NVIDIA PPISP：补偿光度变化提升3D重建
-链接: https://x.com/NVIDIAAI/status/2062358080222876041
-正文: 辐射场的质量取决于其背后的图像。 PPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。 🔗 项目：https：//nvda.ws/43JeJpk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 00:50]
-标题: 联合国报告：2030年AI数据中心水电消耗将翻倍
-链接: https://www.ithome.com/0/959/607.htm
-正文: 联合国大学水、环境与健康研究所报告指出，受AI需求驱动，去年全球数据中心耗电448太瓦时（AI占五分之一），耗水4.5万亿升，碳排放1.89亿吨。预计到2030年，年耗电量将翻倍至945太瓦时（AI占40%），耗水增至9.3万亿升，碳排放升至3.99亿吨，占地面积从6900平方公里扩展至14500平方公里。报告警告若忽视环境成本，AI落地还将加剧土地紧张与电子废弃物问题。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 00:00]
-标题: OpenAI 发布《智能时代的生物防御》行动计划，以 AI 驱动生物韧性
-链接: https://openai.com/index/biodefense-in-the-intelligence-age
-正文: OpenAI 提出一项名为"Biodefense in the Intelligence Age"的行动计划，旨在利用 AI 增强生物防御与韧性。该计划聚焦于构建 AI 驱动的生物安全能力，以应对未来可能出现的生物威胁。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 00:00]
-标题: Hugging Face 为编码智能体重塑 hf CLI 输出格式
-链接: https://huggingface.co/blog/hf-cli-for-agents
-正文: Hugging Face 重新设计 hf CLI，使其同时服务人类用户和编码智能体（Claude Code、Codex 等）。CLI 通过环境变量自动检测智能体驱动，输出紧凑无截断的 TSV 格式，避免 ANSI 和交互提示，大幅降低 token 消耗。复杂多步任务中，不使用 CLI 的智能体 token 消耗最高达 hf CLI 的 6 倍。2026 年 4 月起，Hugging Face 追踪 Hub 智能体流量，Claude Code 约 4 万用户、近 4900 万次请求，Codex 紧随其后。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 03:33]
-标题: Anthropic scales its most powerful AI a day after filing to IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 16:46]
 标题: Analyst Report: McKesson Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3176_AnalystReport_1780591586000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 16:31]
-标题: Market Update: MCK, AVGO
-链接: https://finance.yahoo.com/research/reports/ARGUS_47233_MarketUpdate_1780590686000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 11:25]
+标题: Stocks making the biggest moves premarket: Lululemon, Micron, ServiceTitan, Strategy & more
+链接: https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-premarket-lulu-mu-ttan.html
+正文: These are the stocks posting the largest moves premarket.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 11:18]
-标题: Daily Spotlight: Stock Market Valuation in "Normal" Range
-链接: https://finance.yahoo.com/research/reports/ARGUS_47230_MarketOutlook_1780571929000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-04 11:09]
-标题: Analyst Report: Markel Group Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1780571362000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 07:50]
+标题: China poaches more AI talent from the U.S. as it eyes the next 'super-app'
+链接: https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html
+正文: Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-04 22:54]
 标题: Stocks making the biggest moves after hours: Lululemon Athletica, ServiceTitan, Argan and more
@@ -218,30 +210,15 @@
 链接: https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
-标题: Latino economic mobility: Insights from five years of research
-链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/latino-economic-mobility-insights-from-five-years-of-research
-正文: This compendium brings together five years of McKinsey research on how Latinos are reshaping America’s economic future and why expanding opportunity for this dynamic community is essential to broader growth.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
+标题: Author Talks: How to succeed when systems fail
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail
+正文: What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities for reinvention.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
-标题: How CEOs can navigate the new era of trade
-链接: https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade
-正文: AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
-标题: Preparing for agentic commerce: REWE’s AI transformation
-链接: https://www.mckinsey.com/industries/retail/our-insights/preparing-for-agentic-commerce-rewes-ai-transformation
-正文: The German retail and tourism group’s chief digital and technology officer says AI is “the most fundamental change in the way we do business in 50 years.”
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-04 00:00]
-标题: Embracing complexity: Parloa’s vision for next-gen customer experience
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/embracing-complexity-parloas-vision-for-next-gen-customer-experience
-正文: Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care, getting to success, and how he sees the future.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-04 22:58]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-05 11:40]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-04 22:58]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-05 11:40]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
