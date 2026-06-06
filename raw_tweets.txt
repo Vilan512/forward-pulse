@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-05 22:47:25
-# 共计 57 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-06 08:17:28
+# 共计 39 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 12:10]
 标题: The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains
@@ -19,6 +19,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-05 22:18]
 标题: Thousand Token Wood: shipping a multi-agent economy on a 3B model
 链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 23:05]
+标题: PixelDiT入选CVPR2026最佳论文决赛
+链接: https://x.com/NVIDIAAI/status/2063034422698389625
+正文: 被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT 在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。 PixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 22:18]
+标题: 用Qwen2.5-3B构建多智能体经济体：工程报告
+链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+正文: 开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，蜜价从10跌至3、柴价从4涨至7、财富基尼系数从0.14扩至0.38。项目展示了小模型可靠格式化与不可靠推理之间的工程填补。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 22:01]
 标题: Arena 发布真实世界 AI 智能体排行榜 Agent Arena
@@ -159,80 +169,6 @@
 链接: https://x.com/swyx/status/2062854555562565741
 正文: Satya Nadella 在 Latent Space 发布最新访谈，链接见原文。原推文仅评论"chat is he cooked"。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 07:46]
-标题: 腾讯混元联合人大开源PlanningBench评估框架
-链接: https://x.com/TencentHunyuan/status/2062803141314437391
-正文: 腾讯混元（Tencent Hunyuan）与中国人民大学高瓴人工智能学院合作，开源PlanningBench--一个可扩展、可验证的LLM规划能力评估与训练框架。该框架包含30+真实世界规划任务，支持自动验证和训练。PlanningBench旨在推动LLM从"说"到"做"的规划能力发展。资源已发布于arXiv、GitHub及HuggingFace。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 06:18]
-标题: PolarDB-X Zero 上线：30秒全分布式数据库
-链接: https://x.com/alibaba_cloud/status/2062781182417490310
-正文: PolarDB-X Zero 上线了！ 无需注册。无需配置。只需一次 API 调用。 30 秒内获得一个全分布式数据库。 原生 HNSW 向量索引--内置兼容 MySQL 的引擎。 关系型 + 语义搜索--一条 SQL 语句。 AI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qoder、Qodex 等） 立即尝试：https：//zero.polardbx.com #AlibabaCloud #PolarDB #ApsaraDB
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 06:04]
-标题: 阿里云发布SkillClaw与Nacos的Agent技能进化循环
-链接: https://x.com/alibaba_cloud/status/2062777684120244656
-正文: 阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的"生成-治理-分发"持续进化闭环。目标是将个人洞察转化为团队的AI资产。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:38]
-标题: NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来
-链接: https://blogs.nvidia.com/blog/korea-ecosystem-2026
-正文: NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并呼吁韩国投资 AI。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:16]
-标题: Open Code Review - 一款基于人工智能的代码审查命令行工具
-链接: https://github.com/alibaba/open-code-review
-正文: Open Code Review 是一个基于人工智能的代码审查命令行（CLI）工具，旨在帮助开发者通过自动化的方式提升代码审查效率。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 05:13]
-标题: 375个公众号RSS源优化Agent输入
-链接: https://x.com/hongming731/status/2062764845494317493
-正文: 你的 Agent 还在全网垃圾里捞内容？不如先喂它 375 个高质量微信公众号 RSS 源。 🔽
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 03:04]
-标题: 腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成
-链接: https://www.ithome.com/0/960/323.htm
-正文: 在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露，去年腾讯在 AI 新产品上投入 180 亿元，今年投入至少翻倍。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 01:16]
-标题: Anthropic 称其最新 AI 模型 Mythos 显现脱离人类控制迹象，呼吁全球暂缓先进 AI 研发
-链接: https://www.ithome.com/0/960/218.htm
-正文: Anthropic 发布报告称其最新 AI 模型已显现脱离人类控制迹象，呼吁全球暂缓前沿 AI 开发，以便社会制度建设和对齐研究跟上进展。该公司主张美国、中国等主要 AI 公司达成共识，发布可验证的规则，并类比"核武器不扩散条约"，但指出 AI 更难监管。该观点引发美国白宫部分官员不满，批评其夸大风险。Anthropic 计划未来数月召集各方探讨全球协调机制如何运作。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 00:00]
-标题: AI的微型钢厂
-链接: https://www.tomtunguz.com/using-local-ai-to-work-faster
-正文: 作者通过技能蒸馏将78%的AI工作交由Mac本地模型处理，仅复杂任务发往云端。智能体自动分类任务：简单任务本地数秒完成，复杂任务路由至云端。过去一周本地处理峰值达88%。双车道设计使吞吐量提升约25%，平均任务时长从47秒降至19秒，队列等待时间从73秒降至4秒（降幅94%）。该模式类比Nucor小钢厂，每台能运行蒸馏模型的边缘设备都成为小型AI工厂，仅对那1/5困难任务支付云费用。未来几年，数以千万计的此类设备将在企业内部增殖，逐步取代现阶段云厂商账单上的大部分工作负载。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-04 23:41]
-标题: 马斯克谈SpaceX上市：正处大规模资本扩张期
-链接: https://x.com/cb_doge/status/2062681226633523250
-正文: 马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 17:15]
-标题: Analyst Report: Crowdstrike Holdings Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_6164_AnalystReport_1780679739000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 17:15]
-标题: Analyst Report: Lyft Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_5879_AnalystReport_1780679739000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 17:15]
-标题: Analyst Report: Palo Alto Networks Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3643_AnalystReport_1780679739000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 13:38]
-标题: Daily Spotlight: Payrolls Power Higher
-链接: https://finance.yahoo.com/research/reports/ARGUS_47246_MarketOutlook_1780666700000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 11:10]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47243_TechnicalAnalysis_1780657815000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-05 11:09]
-标题: Analyst Report: Clorox Co/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3607_AnalystReport_1780657761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 19:09]
 标题: Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests
 链接: https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html
@@ -248,30 +184,10 @@
 链接: https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-premarket-lulu-mu-ttan.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 07:50]
-标题: China poaches more AI talent from the U.S. as it eyes the next 'super-app'
-链接: https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html
-正文: Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-04 22:54]
-标题: Stocks making the biggest moves after hours: Lululemon Athletica, ServiceTitan, Argan and more
-链接: https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-after-hours-lulu-agx-ttan.html
-正文: See which stocks are posting big moves after the bell.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
-标题: Resetting cost competitiveness in pulp and paper packaging
-链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging
-正文: Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that target the total cost baseline of a mill.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-05 00:00]
-标题: Author Talks: How to succeed when systems fail
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail
-正文: What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities for reinvention.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-05 22:47]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-06 08:17]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-05 22:47]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-06 08:17]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
