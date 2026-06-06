@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.06 12:59",
+      "title": "AI基础设施投资激增，占美国GDP比重翻倍",
+      "summary": "据Epoch AI Research数据，AI热潮正推动计算基础设施投资在2026年第一季度占美国GDP比重达到约1.5%，其中AI相关投资占0.8%，相比此前水平翻倍。这表明AI已成为驱动实体经济增长的核心力量。",
+      "stars": "★★★★",
+      "insight": "这一数据揭示了AI从软件创新向实体经济基础设施扩张的明确拐点。当资本支出（CapEx）以GDP百分比衡量时，意味着AI不再仅仅是科技公司的内部竞赛，而是整个国家层面的产业升级。对投资者而言，这意味着数据中心、计算硬件和网络设备领域的增长将获得宏观层面的持续支撑。对劳动力市场而言，这预示着与这些基础设施相关的工程、维护和运营岗位需求将激增，可能重塑美国的制造业和基建格局。",
+      "original_text": "AI 热潮使计算基础设施占美国 GDP 比重翻倍。 2026 年第一季度，与 AI 相关的数据中心建设、计算硬件和网络设备投资约占美国 GDP 的 0.8%，推动整个计算基础设施占 GDP 比重达到约 1.5%。",
+      "full_translation": "AI热潮正使计算基础设施占美国GDP的比重翻倍。在2026年第一季度，与AI相关的数据中心建设、计算硬件和网络设备投资约占美国GDP的0.8%，这推动了整个计算基础设施占GDP的比重达到约1.5%。",
+      "source_name": "Epoch AI Research",
+      "source_url": "https://x.com/EpochAIResearch/status/2062933470373146828"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.06 12:59",
+      "title": "巨额资本涌入：Apollo为Anthropic敲定350亿美元AI芯片融资",
+      "summary": "Apollo Global Management和Blackstone为AI公司Anthropic敲定了一笔350亿美元的债务融资方案，专门用于采购AI芯片和扩充其基础设施。这是AI领域迄今为止规模最大的单笔融资交易之一，凸显了算力已成为这场竞赛中最核心、最昂贵的战略资源。",
+      "stars": "★★★★★",
+      "insight": "这笔交易标志着AI竞赛进入了一个全新的资本密集阶段。350亿美元的债务融资（而非股权）表明，传统金融巨头（如Apollo和Blackstone）已将AI基础设施视为具有稳定现金流和抵押价值的资产类别，类似于投资港口或电网。这为整个行业树立了一个新的融资范式和规模标杆，可能迫使所有头部AI公司（OpenAI、Google、xAI等）加速其资本支出计划。同时，这也意味着行业准入门槛急剧抬高，初创公司若无法接入此类资本，将在算力军备竞赛中迅速掉队。算力正从一种工具，演变为一种被金融化的生产要素。",
+      "original_text": "Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。",
+      "full_translation": "Apollo Global Management和Blackstone已为Anthropic敲定了一笔350亿美元的融资方案，用于扩充其AI基础设施。这是人工智能竞赛中最新的一笔巨额交易。",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.06 12:59",
+      "title": "基于真实任务的AI智能体排行榜出炉，GPT-5.5 High领先",
+      "summary": "Arena发布了一个基于30万+真实用户任务的AI智能体排行榜Agent Arena，评估模型在代码编写、应用构建等实际工作中的表现。排行榜显示，GPT-5.5 High以+10.7%的领先优势位居榜首，Claude Opus 4.7 Thinking和GPT-5.4 High紧随其后。",
+      "stars": "★★★★",
+      "insight": "这个排行榜的出现标志着AI评估从实验室基准测试向真实世界生产力的关键转变。它衡量的不是孤立的智力，而是综合任务成功、纠正遵从、错误恢复等与商业价值直接相关的指标。GPT-5.5 High的领先表明，OpenAI在将其模型转化为可靠的、可集成的‘工作者’智能体方面占据了先机。这将直接影响企业客户的采购决策，因为‘排行榜’正在成为新的‘权威认证’。同时，这也意味着AI开发的焦点正从‘更聪明的模型’转向‘更可靠、更可集成的智能体工作流’，这将催生对开发者工具、监控和调试平台的新需求。",
+      "original_text": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
+      "full_translation": "Arena推出了一个基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立的基准。该排行榜基于30万+任务、200万+工具调用和4000万行代码，综合了任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名是：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
+      "source_name": "Rohan Paul / X",
+      "source_url": "https://x.com/rohanpaul_ai/status/2063018358795300982"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.05 22:47",
       "title": "Anthropic敲定350亿美元债务融资，为AI芯片采购开辟新路径",
       "summary": "私募巨头Apollo与Blackstone为AI公司Anthropic敲定350亿美元债务融资方案，用于扩充其AI基础设施。此交易规模空前，标志着资本正以前所未有的规模和非股权形式涌入AI算力军备竞赛，可能重塑行业资本结构。",

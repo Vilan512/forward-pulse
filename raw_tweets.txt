@@ -1,24 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-06 08:17:28
-# 共计 39 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-06 12:59:08
+# 共计 36 条来自 5 个信息源
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 12:10]
-标题: The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains
-链接: https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: they asked the agent to link the accounts to email addresses they controlled, and it complied. Since Anthropic announced that its Mythos model was too good at hacking for a general release, cybersecurity concerns have focused on the risk of superpowered AI systems overwhelming computer infrastructure. But the Instagram hack shows that far simpler exploits can still cause damage. As companies offload more work to AI, these comparatively unsophisticated attacks are becoming harder to ignore. Read the full story to understand why. —Grace Huckins Are AI chatbots making us lose control of our brains? Gloria Mark, a psychologist at the University of California, Irvine, fears that digital technologies are weakening our cognitive abilities. Her research suggests attention spans have fallen sharply over time, leading to higher stress and lower performance. She now believes AI tools like ChatGPT and Claude may accelerate this shift. “You’re deferring your cognitive work to AI,” she said. “And it’s not good for us.” Mark argues this could weaken critical thinking and emotional intelligence. Luckily, she thinks we can course-correct by changing our relationship with these technologies. Find out how AI could reshape attention and thinking. —Jessica Hamzelou This story is from The Checkup, our weekly newsletter giving you the inside track on all things biotech. Sign up to receive it in your inbox every Thursday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Anthropic has called for a global slowdown in AI developmentIt flagged the risk of models “self-improvi
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 09:00]
-标题: Are AI chatbots making us lose control of our brains?
-链接: https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
-正文: This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early in her career, the biggest concerns were the potential impacts of internet and email use on our brains. We may laugh those concerns off today, but it’s true that as the technologies became more ubiquitous and ingrained in our daily lives, our attention spans began to shrink. Mark is worried that things are only getting worse. The title of our session was “Have we lost control of our brains?” Unfortunately, Mark told me, the answer is yes. Around two decades ago, Mark started wondering about how our use of devices might affect our attention spans. She set up what she calls “living laboratories,” using sensors and trackers to monitor adult volunteers’ attention, mood, and behavior when they were using devices. In 2003, she found that the average user had an attention span of around two and a half minutes. That’s how long people could spend focused on one thing before moving on to something else. “That surprised me at the time,” she told me during our session on Wednesday. “I thought: Wow, this is really short.” But when she repeated the experiment in 2012, she found that attention spans had shrunk—all the way down to around 75 seconds on average, she said. In research she conducted between 2014 and 2020, attention spans shrank further still—to a mere 47 seconds, on average. Yikes. And it’s not good for us. Mark told me that she’s found switching our attention so frequently is stressful. “We would have people wear heart rate monitors, and … we would see direct correlation between switching attention fast and stress going up,” she told me. All this distraction makes it harder for us to get stuff done, too. “It just takes longer to do any single task if you’re sw
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-05 09:00]
-标题: The Meta hack shows there’s more to AI security than Mythos
-链接: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
-正文: On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran posts; others took over accounts with valuable, single-word handles, possibly in order to sell them. AI cybersecurity concerns are nothing new. Since Anthropic announced in April that its Mythos model was too good at hacking to be released to the general public, commentators, researchers, and federal officials alike have fixated on the idea that superpowered AI systems could lay waste to our computer infrastructure. That’s not quite what this Instagram hack was: There, AI was the target rather than the attacker, and the method was far simpler than anything Mythos would cook up. But as companies offload more work to AI, these comparatively unsophisticated attacks could wreak their own havoc. “As AI becomes more and more widely used—especially when AI is more and more widely used to automate our work flows, like account recovery—I think attackers are going to be more and more motivated to attack AI itself,” says Neil Gong, a professor of electrical and computer engineering at Duke University. Gong and other scholars have been issuing warnings about the security vulnerabilities of AI agents for a while. They publish papers and blog posts detailing exploits such as indirect prompt injection, which involves hijacking agents using commands hidden in websites, emails, or other seemingly anodyne data sources. Compared with these techniques, the Meta hack was practically mindless. The only complication that hackers had to overcome was using a VPN that matched the true account owner’s location; then they directly asked the support agent to change the account’s email address, and it complied. Meta has not commented publicly on how this vulnerabili
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-05 22:18]
-标题: Thousand Token Wood: shipping a multi-agent economy on a 3B model
-链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 11:42]
+标题: Persona Atlas：Hugging Face 上的开源人物思维映射工具
+链接: https://huggingface.co/blog/build-small-hackathon/persona-atlas
+正文: Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 23:05]
 标题: PixelDiT入选CVPR2026最佳论文决赛
@@ -164,30 +150,27 @@
 链接: https://blog.cloudflare.com/ai-gateway-spend-limits
 正文: Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 11:10]
-标题: 微软CEO Satya Nadella最新访谈上线
-链接: https://x.com/swyx/status/2062854555562565741
-正文: Satya Nadella 在 Latent Space 发布最新访谈，链接见原文。原推文仅评论"chat is he cooked"。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 12:28]
+标题: U.S. Crude Oil Storage Levels Are Falling Toward This Critical Level. Here’s What Investors Need to Know
+链接: https://finance.yahoo.com/sectors/energy/articles/u-crude-oil-storage-levels-122838743.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 12:27]
+标题: Surprise! Millions of Americans Receive an Unexpected Bonus. Tax Refunds Just Surged 17%
+链接: https://finance.yahoo.com/economy/policy/articles/surprise-millions-americans-receive-unexpected-122706416.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 12:22]
+标题: Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 19:09]
 标题: Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests
 链接: https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html
 正文: Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 12:17]
-标题: Where investors may find the next 'big wave' for AI trade
-链接: https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html
-正文: Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-05 11:25]
-标题: Stocks making the biggest moves premarket: Lululemon, Micron, ServiceTitan, Strategy & more
-链接: https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-premarket-lulu-mu-ttan.html
-正文: These are the stocks posting the largest moves premarket.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-06 08:17]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-06 12:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-06 08:17]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-06 12:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
