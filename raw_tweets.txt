@@ -1,9 +1,29 @@
-# ForwardPulse 原始情报收割 — 2026-06-07 15:12:41
-# 共计 55 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-07 20:43:57
+# 共计 69 条来自 6 个信息源
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-07 11:38]
-标题: Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange
-链接: https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-07 19:44]
+标题: Amazing Digital Dentures (a failed project)
+链接: https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 18:14]
+标题: ChatGPT 要变 AgentGPT 了
+链接: https://x.com/dotey/status/2063686036895478162
+正文: OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称"聊天已死"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 16:41]
+标题: 特朗普政府与OpenAI讨论通过公共财富基金入股AI初创公司
+链接: https://x.com/rohanpaul_ai/status/2063662672835703126
+正文: 据FT报道，特朗普政府正与OpenAI探讨通过公共财富基金机制让政府入股AI初创公司。方案是AI企业捐赠小部分股权至该基金，基金通过账户或分红将收益返还美国公民，而非政府直接运营公司。这不同于特朗普去年对Intel的90亿美元直接持股。OpenAI此前已提出公共财富基金概念，持有长期资产，让公民分享AI增长红利。政治背景方面，选民担忧失业、数据中心成本与企业控制，而AI公司需要华盛顿在基建、采购和监管上的支持。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 16:23]
+标题: OpenAI 仍推进超级应用计划
+链接: https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app
+正文: OpenAI 一位高级员工表示"聊天已死"，同时公司仍在继续推进超级应用计划。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 15:31]
+标题: Slop、生产力，以及为何AI驱动的世界进展甚微
+链接: https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai
+正文: Gary Marcus在金融时报上看到John Burn-Murdoch的一张图表，认为它精准提炼了自己一直试图表达的观点。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 14:00]
 标题: 苹果秘密会议内幕：它终于认真对待AI
@@ -60,177 +80,215 @@
 链接: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04
 正文: 美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 19:02]
-标题: 五个实验室，五个心智：用小模型构建多模型金融剧情游戏
-链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
-正文: Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄露。小模型是可靠格式生成器但不可靠推理器，可通过结构化、提示词和微调弥补。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 16:24]
-标题: AI 的黑色星期五
-链接: https://garymarcus.substack.com/p/ais-black-friday
-正文: Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 15:36]
-标题: Job Searcher
-链接: https://huggingface.co/blog/build-small-hackathon/job-search-blog
-正文: Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face ZeroGPU Space，使用 llama.cpp 实现流式输出。项目开源。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
-标题: Is eBay Inc. (EBAY) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-good-stock-145946430.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
-标题: Is Exponent, Inc. (EXPO) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/exponent-inc-expo-good-stock-145931993.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
-标题: Is Innovative Industrial Properties, Inc. (IIPR) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-inc-iipr-145909896.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
-标题: Is Ouster, Inc. (OUST) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-good-stock-145849403.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
-标题: Is Everpure, Inc. (P) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/everpure-inc-p-good-stock-145834619.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
-标题: Is Pagaya Technologies Ltd. (PGY) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-good-145821931.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
-标题: Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-rivn-good-145808082.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:57]
-标题: Is Veeva Systems Inc. (VEEV) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/veeva-systems-inc-veev-good-145754705.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:53]
-标题: Is WEX Inc. (WEX) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/wex-inc-wex-good-stock-145344314.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:53]
-标题: Is Zoom Communications, Inc. (ZM) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/zoom-communications-inc-zm-good-145319929.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
-标题: Is Harmonic Inc. (HLIT) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/harmonic-inc-hlit-good-stock-145254183.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
-标题: Is Sensata Technologies Holding plc (ST) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/sensata-technologies-holding-plc-st-145233770.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
-标题: Is Hims & Hers Health, Inc. (HIMS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/hims-hers-health-inc-hims-145219185.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
-标题: Is Lindblad Expeditions Holdings, Inc. (LIND) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-holdings-inc-lind-145203691.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:51]
-标题: Is Netskope, Inc. (NTSK) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/netskope-inc-ntsk-good-stock-145143626.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:51]
-标题: Is SLB N.V. (SLB) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/slb-n-v-slb-good-145122444.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:50]
-标题: Is Nokia Oyj (NOK) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/nokia-oyj-nok-good-stock-145002052.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
-标题: Is Dell Technologies Inc. (DELL) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-good-144944391.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
-标题: Is Diodes Incorporated (DIOD) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/diodes-incorporated-diod-good-stock-144921344.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
-标题: Is UWM Holdings Corporation (UWMC) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-corporation-uwmc-good-144900847.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
-标题: Is Unity Software Inc. (U) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/unity-software-inc-u-good-144834904.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
-标题: Is Darling Ingredients Inc. (DAR) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-inc-dar-good-144819551.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
-标题: Is ADTRAN Holdings, Inc. (ADTN) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/adtran-holdings-inc-adtn-good-144802766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
-标题: Is Woodside Energy Group Ltd (WDS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/woodside-energy-group-ltd-wds-144745676.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
-标题: Is Columbia Banking System, Inc. (COLB) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/columbia-banking-system-inc-colb-144720551.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
-标题: Is Chevron Corporation (CVX) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-good-stock-144702653.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:46]
-标题: Is AECOM (ACM) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/aecom-acm-good-stock-buy-144643137.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:45]
-标题: Junior Silver Miners Just Showed Why They Move Twice the Metal, and Why That Matters When Silver Sells Off
-链接: https://finance.yahoo.com/markets/commodities/articles/junior-silver-miners-just-showed-144516174.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:40]
-标题: Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access
-链接: https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:59]
-标题: Dow Jones Futures Due Amid Market Rally's First Real Test; SpaceX IPO, Apple, Oracle Ahead
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:26]
+标题: Dow Jones Futures Due Amid Market Rally's First Real Test; Iran Fires Missiles At Israel
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:30]
-标题: A couple owes $220K at 2.75% — and a TikToker wants them to swap it for an 8% variable HELOC
-链接: https://finance.yahoo.com/markets/options/articles/couple-owes-220k-2-75-133000371.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:21]
+标题: Your Adult Child Has a Chronic Health Condition and Needs Your Help. What Retirees Should Know
+链接: https://finance.yahoo.com/sectors/healthcare/articles/adult-child-chronic-health-condition-202115735.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:40]
-标题: 1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle
-链接: https://finance.yahoo.com/markets/stocks/articles/1-cash-rich-industrial-titan-144019847.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
+标题: Is BBB Foods Inc. (TBBB) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/bbb-foods-inc-tbbb-good-201451661.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:37]
-标题: The S&P 500 Wiped Out $1.4 Trillion in Market Cap After Red-Hot Jobs Report. Here’s Why
-链接: https://finance.yahoo.com/markets/stocks/articles/p-500-wiped-1-4-143732042.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
+标题: Is UnitedHealth Group Incorporated (UNH) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-good-201437713.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:11]
-标题: Companies are cashing in on consumers' unwillingness to bargain shop
-链接: https://finance.yahoo.com/markets/article/companies-are-cashing-in-on-consumers-unwillingness-to-bargain-shop-131126071.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
+标题: Is Vir Biotechnology, Inc. (VIR) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/vir-biotechnology-inc-vir-good-201423806.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:37]
-标题: Citi has a message for Apple stock investors
-链接: https://finance.yahoo.com/markets/stocks/articles/citi-message-apple-stock-investors-143700145.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
+标题: Is Bristow Group Inc. (VTOL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/bristow-group-inc-vtol-good-201405157.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:35]
-标题: How to Turn Your 2025 Tax Return Into a Retirement Planning Checkup
-链接: https://finance.yahoo.com/markets/stocks/articles/turn-2025-tax-return-retirement-143500410.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
+标题: Is Arista Networks, Inc. (ANET) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-good-201352864.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 10:00]
-标题: HELOC and home equity loan rates Sunday, June 7, 2026: Truist stays Yahoo's top HELOC lender in June
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-7-2026-100000404.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
+标题: Is Bloom Energy Corporation (BE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-good-stock-201339430.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 10:00]
-标题: Best high-yield savings interest rates today, Sunday, June 7, 2026: Earn up to 4.1% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-7-2026-100000357.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
+标题: Is Chord Energy Corporation (CHRD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/chord-energy-corporation-chrd-good-201324415.html
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 15:12]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
+标题: Is Cisco Systems, Inc. (CSCO) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-good-201310196.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:12]
+标题: Is Fortinet, Inc. (FTNT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/fortinet-inc-ftnt-good-stock-201255001.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:12]
+标题: Is GE Aerospace (GE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-good-stock-201242126.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
+标题: Is Gilead Sciences, Inc. (GILD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-inc-gild-good-201132486.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
+标题: Is NIKE, Inc. (NKE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/nike-inc-nke-good-stock-201117082.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
+标题: Is Insperity, Inc. (NSP) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/insperity-inc-nsp-good-stock-201102151.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
+标题: Is PDD Holdings Inc. (PDD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-pdd-good-201049250.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
+标题: Is Planet Labs PBC (PL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-pl-good-201036993.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
+标题: Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-inc-pypl-good-201017819.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
+标题: Is Roblox Corporation (RBLX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/roblox-corporation-rblx-good-stock-200952371.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
+标题: Is Republic Services, Inc. (RSG) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/republic-services-inc-rsg-good-200936397.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
+标题: Is Vistance Networks, Inc. (VISN) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/vistance-networks-inc-visn-good-200921263.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:07]
+标题: TKO's strong earnings sent Wall Street a warning anyway
+链接: https://finance.yahoo.com/markets/stocks/articles/tkos-strong-earnings-sent-wall-200700857.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:46]
+标题: Cathie Wood’s ARK Buys Coinbase and Circle While Trimming Archer and Baidu
+链接: https://finance.yahoo.com/markets/crypto/articles/cathie-wood-ark-buys-coinbase-194600496.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:44]
+标题: Bybit Launches IPO Express With Tokenized SpaceX Access
+链接: https://finance.yahoo.com/markets/crypto/articles/bybit-launches-ipo-express-tokenized-194400932.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:45]
+标题: Mark Cuban says small businesses are desperate for AI talent — and it's where job seekers should look first
+链接: https://finance.yahoo.com/sectors/technology/articles/mark-cuban-says-small-businesses-184500292.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:00]
+标题: Is HIVE Digital Technologies Ltd. (HIVE) a Top Penny Stock to Buy on Robust Diversified Core Business?
+链接: https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-180043192.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:00]
+标题: PBW’s 34% Year-to-Date Gain Masks a Brutal Five-Year Pattern Every Rate Cycle Repeats
+链接: https://finance.yahoo.com/markets/stocks/articles/pbw-34-date-gain-masks-200048746.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:00]
+标题: indie Semiconductor, Inc. (INDI) A Top Penny Stock to Buy on $40 Billion Image Sensor Opportunities
+链接: https://finance.yahoo.com/markets/stocks/articles/indie-semiconductor-inc-indi-top-180033786.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
+标题: GoodRx Holdings, Inc. (GDRX) Strengthens Recurring Revenue Base with Companion
+链接: https://finance.yahoo.com/markets/stocks/articles/goodrx-holdings-inc-gdrx-strengthens-175929833.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
+标题: This is why Maravai Lifesciences Holdings Inc. (MRVI) is a Top penny Stock in the Top Investors Portfolio
+链接: https://finance.yahoo.com/markets/stocks/articles/why-maravai-lifesciences-holdings-inc-175916715.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
+标题: Aclaris Therapeutics, Inc. (ACRS): A Top Penny Stock in Investors Portfolio That Stifel is Bullish On
+链接: https://finance.yahoo.com/sectors/healthcare/articles/aclaris-therapeutics-inc-acrs-top-175905265.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:58]
+标题: Did Anthropic and Google Just Give Investors 2.2 Billion Reasons to Buy the SpaceX IPO?
+链接: https://finance.yahoo.com/markets/stocks/articles/did-anthropic-google-just-investors-195843785.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:58]
+标题: Cabaletta Bio Inc. (CABA) A Top Penny Stock Eyeing Rese-Cel Commercial Launch for Autoimmune Diseases
+链接: https://finance.yahoo.com/markets/stocks/articles/cabaletta-bio-inc-caba-top-175854899.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:58]
+标题: Uranium Production Milestone Underscores Why Denison Mines Corp. (DNN) Is a Top Penny Stock to Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/uranium-production-milestone-underscores-why-175843469.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
+标题: Allogene Therapeutics, Inc. (ALLO) A Top Penny Stock to Buy on Robust CAR T-Cell Portfolio
+链接: https://finance.yahoo.com/sectors/healthcare/articles/allogene-therapeutics-inc-allo-top-175743599.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
+标题: Iovance Biotherapeutics, Inc. (IOVA) a Top Penny Stock to Buy on Amtagvi Strong Adoption
+链接: https://finance.yahoo.com/sectors/healthcare/articles/iovance-biotherapeutics-inc-iova-top-175734159.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:35]
+标题: The SpaceX IPO is Coming Soon. What Does It Mean for Crypto?
+链接: https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-coming-soon-does-193500739.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
+标题: Atai Beckley N.V. (ATAI) A Top Penny Stock to Buy Poised to Build Sustained Clinical and Shareholder Value
+链接: https://finance.yahoo.com/markets/stocks/articles/atai-beckley-n-v-atai-175722971.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:48]
+标题: Is McDonald’s Corp (MCD) One of the Best Stocks to Buy According to Billionaire Bill Gates?
+链接: https://finance.yahoo.com/markets/stocks/articles/mcdonald-corp-mcd-one-best-174820587.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:48]
+标题: Wolfe Research Weighs on West Pharmaceutical Services Inc (WST) Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/wolfe-research-weighs-west-pharmaceutical-174809999.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
+标题: Why Bill to End Truck Tax Matters for Paccar Inc (PCAR) Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/why-bill-end-truck-tax-174752146.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:20]
+标题: Time Is Running Out to Lock In This Financial Stock's Sky-High Yield
+链接: https://finance.yahoo.com/markets/stocks/articles/time-running-lock-financial-stocks-192000918.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
+标题: Coupang Inc (CPNG) Finds Winning Formula in Japan
+链接: https://finance.yahoo.com/markets/stocks/articles/coupang-inc-cpng-finds-winning-174740943.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
+标题: FedEx Corp (FDX) Spins Off Freight Unit. Don’t Miss the Point
+链接: https://finance.yahoo.com/markets/stocks/articles/fedex-corp-fdx-spins-off-174730847.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
+标题: Walmart Inc (WMT) Stock Pulled Back in May. Analysts See Upside Ahead
+链接: https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-stock-pulled-174715327.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
+标题: Considering Ecolab Inc (ECL) Stock? See the Impact Report First
+链接: https://finance.yahoo.com/markets/stocks/articles/considering-ecolab-inc-ecl-stock-174659117.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:15]
+标题: NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape
+链接: https://finance.yahoo.com/markets/stocks/articles/nvdl-collapsed-12-single-day-191511769.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
+标题: Deere & Co (DE) Stock Is a Tariff Story. Here’s What to Know
+链接: https://finance.yahoo.com/economy/policy/articles/deere-co-stock-tariff-story-174642749.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
+标题: Waste Management Inc (WM) Picks Longtime Insider as Chief Operating Officer
+链接: https://finance.yahoo.com/markets/stocks/articles/waste-management-inc-wm-picks-174603848.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:45]
+标题: Berkshire Hathaway (BRK.B): A Bill Gates-Backed Stock Expanding Its Housing Bet With Taylor Morrison Deal
+链接: https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-bill-174548460.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-07 18:56]
+标题: Bitcoin is cratering, but a new Wall Street crypto hype is on the rise
+链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
+正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 20:43]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 15:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 20:43]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
