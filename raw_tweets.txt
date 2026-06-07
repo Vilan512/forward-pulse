@@ -1,9 +1,29 @@
-# ForwardPulse 原始情报收割 — 2026-06-07 08:38:40
-# 共计 22 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-07 15:12:41
+# 共计 55 条来自 5 个信息源
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-06 19:02]
-标题: Five labs, five minds: building a multi-model finance drama on small models
-链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-07 11:38]
+标题: Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange
+链接: https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 14:00]
+标题: 苹果秘密会议内幕：它终于认真对待AI
+链接: https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27
+正文: 苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 12:59]
+标题: Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统
+链接: https://symbolica.io/posts/symbolica_2_0_release
+正文: Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 10:48]
+标题: "我在田里雇了一名工程师，它叫 Codex" -- 北海道一个西兰花农的 8 个真实 AI 用法
+链接: https://x.com/AYi_AInotes/status/2063573709672104286
+正文: 日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，"如同身边有一位超级工程师"。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 10:13]
+标题: Her · हेर - Claude Code 会话分析工具
+链接: https://huggingface.co/blog/build-small-hackathon/her-blog
+正文: Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置"Ask Her"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Instruct 模型在 Hugging Face ZeroGPU 上运行，评估引擎完全确定，模型仅负责文本生成与建议。Her 内置 Homebrew、npm、PyPI 主流 CLI 工具数据库，自动识别会话中使用的工具，并对部署工具、数据库客户端等执行活动进行标记提醒。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 07:00]
 标题: NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布
@@ -55,50 +75,162 @@
 链接: https://huggingface.co/blog/build-small-hackathon/job-search-blog
 正文: Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face ZeroGPU Space，使用 llama.cpp 实现流式输出。项目开源。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 13:07]
-标题: GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码
-链接: https://x.com/rohanpaul_ai/status/2063246343842501091
-正文: GitHub 发布开源工具包 Spec Kit，旨在解决 "vibe coding" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 "让 AI 直接构建" 改为 "先写产品规范，再让 AI 根据规范实现"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor、Qwen 等 30+ agent 集成。项目已获 109K+ 星标。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
+标题: Is eBay Inc. (EBAY) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-good-stock-145946430.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 12:48]
-标题: OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型
-链接: https://www.ithome.com/0/960/969.htm
-正文: OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
+标题: Is Exponent, Inc. (EXPO) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/exponent-inc-expo-good-stock-145931993.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 11:42]
-标题: Persona Atlas：Hugging Face 上的开源人物思维映射工具
-链接: https://huggingface.co/blog/build-small-hackathon/persona-atlas
-正文: Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:59]
+标题: Is Innovative Industrial Properties, Inc. (IIPR) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-inc-iipr-145909896.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
-标题: HELOC and home equity loan rates Saturday, June 6, 2026: Don't wait for HELOC rates to rise
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-6-2026-100000254.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
+标题: Is Ouster, Inc. (OUST) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-good-stock-145849403.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
-标题: Mortgage and refinance interest rates today, Saturday, June 6, 2026: Fixed rates on the rise
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-june-6-2026-100000796.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
+标题: Is Everpure, Inc. (P) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/everpure-inc-p-good-stock-145834619.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
-标题: Best money market account rates today, Saturday, June 6, 2026: Best account provides 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-june-6-2026-100000975.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
+标题: Is Pagaya Technologies Ltd. (PGY) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-good-145821931.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
-标题: Best high-yield savings interest rates today, Saturday, June 6, 2026: Earn up to 4.1% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-6-2026-100000094.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:58]
+标题: Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-rivn-good-145808082.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
-标题: Best CD rates today, Saturday, June 6, 2026: Best account provides 4% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-6-2026-100000896.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:57]
+标题: Is Veeva Systems Inc. (VEEV) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/veeva-systems-inc-veev-good-145754705.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-06 13:28]
-标题: Bitcoin is cratering, but a new Wall Street crypto hype is on the rise
-链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
-正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:53]
+标题: Is WEX Inc. (WEX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/wex-inc-wex-good-stock-145344314.html
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 08:38]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:53]
+标题: Is Zoom Communications, Inc. (ZM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/zoom-communications-inc-zm-good-145319929.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
+标题: Is Harmonic Inc. (HLIT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/harmonic-inc-hlit-good-stock-145254183.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
+标题: Is Sensata Technologies Holding plc (ST) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sensata-technologies-holding-plc-st-145233770.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
+标题: Is Hims & Hers Health, Inc. (HIMS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/hims-hers-health-inc-hims-145219185.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:52]
+标题: Is Lindblad Expeditions Holdings, Inc. (LIND) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-holdings-inc-lind-145203691.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:51]
+标题: Is Netskope, Inc. (NTSK) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/netskope-inc-ntsk-good-stock-145143626.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:51]
+标题: Is SLB N.V. (SLB) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/slb-n-v-slb-good-145122444.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:50]
+标题: Is Nokia Oyj (NOK) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/nokia-oyj-nok-good-stock-145002052.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
+标题: Is Dell Technologies Inc. (DELL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-good-144944391.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
+标题: Is Diodes Incorporated (DIOD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/diodes-incorporated-diod-good-stock-144921344.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:49]
+标题: Is UWM Holdings Corporation (UWMC) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-corporation-uwmc-good-144900847.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
+标题: Is Unity Software Inc. (U) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/unity-software-inc-u-good-144834904.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
+标题: Is Darling Ingredients Inc. (DAR) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-inc-dar-good-144819551.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:48]
+标题: Is ADTRAN Holdings, Inc. (ADTN) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/adtran-holdings-inc-adtn-good-144802766.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
+标题: Is Woodside Energy Group Ltd (WDS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/woodside-energy-group-ltd-wds-144745676.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
+标题: Is Columbia Banking System, Inc. (COLB) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/columbia-banking-system-inc-colb-144720551.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:47]
+标题: Is Chevron Corporation (CVX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-good-stock-144702653.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:46]
+标题: Is AECOM (ACM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/aecom-acm-good-stock-buy-144643137.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:45]
+标题: Junior Silver Miners Just Showed Why They Move Twice the Metal, and Why That Matters When Silver Sells Off
+链接: https://finance.yahoo.com/markets/commodities/articles/junior-silver-miners-just-showed-144516174.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:40]
+标题: Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access
+链接: https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:59]
+标题: Dow Jones Futures Due Amid Market Rally's First Real Test; SpaceX IPO, Apple, Oracle Ahead
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:30]
+标题: A couple owes $220K at 2.75% — and a TikToker wants them to swap it for an 8% variable HELOC
+链接: https://finance.yahoo.com/markets/options/articles/couple-owes-220k-2-75-133000371.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:40]
+标题: 1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle
+链接: https://finance.yahoo.com/markets/stocks/articles/1-cash-rich-industrial-titan-144019847.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:37]
+标题: The S&P 500 Wiped Out $1.4 Trillion in Market Cap After Red-Hot Jobs Report. Here’s Why
+链接: https://finance.yahoo.com/markets/stocks/articles/p-500-wiped-1-4-143732042.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 13:11]
+标题: Companies are cashing in on consumers' unwillingness to bargain shop
+链接: https://finance.yahoo.com/markets/article/companies-are-cashing-in-on-consumers-unwillingness-to-bargain-shop-131126071.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:37]
+标题: Citi has a message for Apple stock investors
+链接: https://finance.yahoo.com/markets/stocks/articles/citi-message-apple-stock-investors-143700145.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 14:35]
+标题: How to Turn Your 2025 Tax Return Into a Retirement Planning Checkup
+链接: https://finance.yahoo.com/markets/stocks/articles/turn-2025-tax-return-retirement-143500410.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 10:00]
+标题: HELOC and home equity loan rates Sunday, June 7, 2026: Truist stays Yahoo's top HELOC lender in June
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-7-2026-100000404.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 10:00]
+标题: Best high-yield savings interest rates today, Sunday, June 7, 2026: Earn up to 4.1% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-7-2026-100000357.html
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 15:12]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 08:38]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 15:12]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.

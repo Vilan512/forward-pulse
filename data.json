@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.07 15:12",
+      "title": "苹果内部秘密会议决定全面转向AI，核心战略或于WWDC公布",
+      "summary": "据报道，苹果在一次内部秘密会议后，终于将AI确立为核心战略，相关进展预计将在即将到来的WWDC 2026上公布。",
+      "stars": "★★★★",
+      "insight": "这是苹果在AI竞赛中迟到的但至关重要的战略转向。此次‘秘密会议’的信号表明，苹果已经认识到AI不再是可选项，而是其整个生态系统（iOS、macOS、服务）未来的核心。预计WWDC将不再是渐进式更新，而是以AI为中心的系统性重构。这将在未来6-18个月内对移动设备、个人电脑和软件开发者的竞争格局产生重大影响，迫使竞争对手重新评估其AI集成深度。",
+      "original_text": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+      "full_translation": "After an internal secret meeting, Apple has finally decided to make AI its core strategy. This meeting prompted the company to fully pivot towards the AI field, with related progress expected to be announced at WWDC 2026.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.07 10:48",
+      "title": "北海道农民用ChatGPT和Codex实现低成本农业自动化",
+      "summary": "日本北海道一位西兰花农民详细分享了使用ChatGPT和Codex解决8个农场实际问题的案例，展示了AI如何让昂贵的自动化技术变得低成本、可及。",
+      "stars": "★★★",
+      "insight": "这个案例是AI‘民主化’和‘实用化’趋势的微观缩影。它表明，前沿AI工具（如Codex）正在从硅谷实验室渗透到传统、非技术密集型的行业（如农业）。关键不在于技术的复杂性，而在于它降低了专业自动化（如病害识别、环境控制、数据管理）的门槛。未来6-18个月，我们将看到更多类似的‘超级工程师’AI助手在中小企业和个体经营者中普及，这可能会重塑多个传统行业的运营效率和成本结构。",
+      "original_text": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
+      "full_translation": "Japanese farmer Hiroki Tomiyasu from Hokkaido uses ChatGPT and Codex to solve practical farm problems, covering 8 use cases: taking photos to identify broccoli diseases, obtaining NDVI data via satellite monitoring, using ESP32 and LINE bots to remotely control greenhouse shade curtains, developing a bot for farm group chats to manage temperature and scheduling, tracking sowing quantities from chat logs, learning the principles of RTK-GPS auto-steering and evaluating self-build costs, and designing a farm management database based on Airtable. He says AI has made traditionally expensive automation low-cost and accessible, \"like having a super engineer by your side\".",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/AYi_AInotes/status/2063573709672104286"
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.07 07:00",
+      "title": "NVIDIA发布RTX Spark超芯片，瞄准笔记本全天续航游戏与AI能力",
+      "summary": "NVIDIA CEO黄仁勋在韩国发布RTX Spark超芯片，该芯片集成30年技术，旨在为Windows笔记本提供全天续航和高性能游戏体验，并支持包括DLSS 4.5在内的全套RTX技术。",
+      "stars": "★★★★",
+      "insight": "RTX Spark并非简单的性能升级，而是NVIDIA对移动计算平台的一次战略级介入。它直接瞄准了Windows笔记本在续航和图形性能上的核心痛点，旨在打造一个能与苹果M系列芯片竞争的‘全能移动平台’。支持DLSS 4.5等AI驱动的图形技术，表明NVIDIA正在将AI推理能力深度集成到消费级硬件的每一个环节。未来12-18个月，这可能会催生一波高性能、长续航的Windows笔记本新品，并进一步巩固NVIDIA在移动计算和AI推理硬件领域的生态主导权。",
+      "original_text": "继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games 正合作将旗下游戏适配 RTX Spark。周五，Huang 在 T1 电竞场馆与 Faker 共同亮相，并突袭江南区网吧，演示《PUBG： BATTLEGROUNDS》及基于 NVIDIA ACE 的\"PUBG Ally\"AI 队友、《CINDER CITY》《AION 2》等作品。《CINDER CITY》首发支持 DLSS 4.5 动态多帧生成与超分辨率。已有超过 100 家 Windows 软件与游戏开发商采纳 RTX Spark。",
+      "full_translation": "Following the GTC Taipei launch last week, NVIDIA CEO Jensen Huang traveled to South Korea to officially introduce the RTX Spark super chip to the local gaming community. The chip integrates 30 years of NVIDIA technology, aims to deliver all-day battery life on Windows laptops, and run AAA games at 1440p resolution with over 100fps, supporting the full suite of RTX technologies including DLSS 4.5 Ray Reconstruction (based on the second-generation Transformer model). KRAFTON, NC, and Riot Games are collaborating to adapt their games for RTX Spark. On Friday, Huang appeared alongside Faker at the T1 esports venue and made a surprise visit to a Gangnam PC bang, demonstrating 'PUBG: BATTLEGROUNDS' and the NVIDIA ACE-powered 'PUBG Ally' AI teammate, 'CINDER CITY', and 'AION 2'. 'CINDER CITY' launched with support for DLSS 4.5 Dynamic Multi Frame Generation and Super Resolution. Over 100 Windows software and game developers have already adopted RTX Spark.",
+      "source_name": "AI_HOT",
+      "source_url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.07 08:38",
       "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
       "summary": "GitHub 发布开源工具包 Spec Kit，旨在解决 AI 编码中因模糊提示导致需求薄弱、边界遗漏和反复返工的问题。它将流程从“让 AI 直接构建”转变为“先写产品规范，再让 AI 根据规范实现”，规范成为可执行的开发合约，支持 30+ 主流 AI 编码智能体集成。",
