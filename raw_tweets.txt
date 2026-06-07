@@ -1,9 +1,44 @@
-# ForwardPulse 原始情报收割 — 2026-06-06 20:47:20
-# 共计 55 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-07 08:38:40
+# 共计 22 条来自 6 个信息源
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-06 19:02]
 标题: Five labs, five minds: building a multi-model finance drama on small models
 链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 07:00]
+标题: NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布
+链接: https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark
+正文: 继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games 正合作将旗下游戏适配 RTX Spark。周五，Huang 在 T1 电竞场馆与 Faker 共同亮相，并突袭江南区网吧，演示《PUBG： BATTLEGROUNDS》及基于 NVIDIA ACE 的"PUBG Ally"AI 队友、《CINDER CITY》《AION 2》等作品。《CINDER CITY》首发支持 DLSS 4.5 动态多帧生成与超分辨率。已有超过 100 家 Windows 软件与游戏开发商采纳 RTX Spark。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 06:25]
+标题: Harness-1：基于强化学习训练的有状态搜索20B检索子智能体
+链接: https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b
+正文: UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 06:14]
+标题: Opus 4.8 缓存命中率与有效价格可实时查看
+链接: https://x.com/OpenRouter/status/2063504950429147376
+正文: 不同模型提供商在缓存命中率和有效价格上有什么差异？ 现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 03:39]
+标题: Harness 工程：在智能体优先的世界中运用 Codex
+链接: https://openai.com/index/harness-engineering
+正文: Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 03:32]
+标题: 对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果
+链接: https://x.com/dotey/status/2063464057647075379
+正文: 宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 23:08]
+标题: M3与Opus代码审计13个bug：$0.07 vs $1.30
+链接: https://x.com/MiniMax_AI/status/2063397618034844135
+正文: 对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 21:47]
+标题: 美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规
+链接: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04
+正文: 美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 19:02]
 标题: 五个实验室，五个心智：用小模型构建多模型金融剧情游戏
@@ -35,200 +70,35 @@
 链接: https://huggingface.co/blog/build-small-hackathon/persona-atlas
 正文: Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 06:46]
-标题: 阶跃首席科学家张祥雨合著论文 ResNet 获 CVPR 2026 「时间检验奖」
-链接: https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
+标题: HELOC and home equity loan rates Saturday, June 6, 2026: Don't wait for HELOC rates to rise
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-6-2026-100000254.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 23:05]
-标题: PixelDiT入选CVPR2026最佳论文决赛
-链接: https://x.com/NVIDIAAI/status/2063034422698389625
-正文: 被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT 在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。 PixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
+标题: Mortgage and refinance interest rates today, Saturday, June 6, 2026: Fixed rates on the rise
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-june-6-2026-100000796.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 22:18]
-标题: 用Qwen2.5-3B构建多智能体经济体：工程报告
-链接: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
-正文: 开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，蜜价从10跌至3、柴价从4涨至7、财富基尼系数从0.14扩至0.38。项目展示了小模型可靠格式化与不可靠推理之间的工程填补。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 22:01]
-标题: Arena 发布真实世界 AI 智能体排行榜 Agent Arena
-链接: https://x.com/rohanpaul_ai/status/2063018358795300982
-正文: Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 21:02]
-标题: Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片
-链接: https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic
-正文: Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-05 20:51]
-标题: SpaceX与Google达成云计算新协议
-链接: https://x.com/rohanpaul_ai/status/2063000834045313314
-正文: SpaceX 刚刚披露了一份与 Google 的新云服务协议。 Google 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元），用于 xAI 数据中心的计算能力。 这再次表明，AI 算力正成为一种战略性商品，就像发射能力或能源一样，而那些能够为庞大的 GPU 集群提供资金、电力、冷却和运营的公司，可能会在其原有业务之外获得巨大的杠杆优势。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:31]
-标题: Bitcoin's Biggest Buyer Just Sold Some. Should Other Investors Follow Suit?
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoins-biggest-buyer-just-sold-203100290.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:25]
-标题: The Coca-Cola (KO) Explores Potential Listing in India of Hindustan Coca-Cola Holdings Pvt. Ltd.
-链接: https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-explores-potential-172531894.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:25]
-标题: UBS Lifts PT on Caterpillar (CAT) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/ubs-lifts-pt-caterpillar-cat-172522857.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:25]
-标题: Morgan Stanley Reiterates Buy Rating on Costco Wholesale (COST) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-reiterates-buy-rating-172516326.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:25]
-标题: Wells Fargo Raises PT on Intel (INTC) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-pt-intel-172508626.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:20]
-标题: Snowflake Has a Hot New Product
-链接: https://finance.yahoo.com/markets/stocks/articles/snowflake-hot-product-202001540.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:25]
-标题: TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-pt-advanced-172502621.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: Here’s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-one-best-172454230.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: Meta Platforms (META): One of the Best Big Company Stocks to Buy Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-one-best-172444243.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: Piper Sandler Raises PT on Alphabet (GOOGL) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/piper-sandler-raises-pt-alphabet-172437951.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:10]
-标题: SpaceX Announced an Important Detail About Its IPO. Here's What You Should Know.
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-announced-important-detail-ipo-201000585.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: Is NVIDIA (NVDA) One of the Best Big Company Stocks to Buy Right Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-one-best-big-172431089.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: Wells Fargo Raises PT on Microsoft (MSFT) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-pt-microsoft-172423737.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:24]
-标题: How Mohawk Industries Inc (MHK) Is Adapting to Market Pressures
-链接: https://finance.yahoo.com/markets/stocks/articles/mohawk-industries-inc-mhk-adapting-172415910.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:23]
-标题: How Is Rayonier Inc (RYN)’s Newly Formed Wood Products Segment Doing?
-链接: https://finance.yahoo.com/sectors/energy/articles/rayonier-inc-ryn-newly-formed-172335537.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:07]
-标题: Goldman Sachs aggressively resets CrowdStrike stock price target
-链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-aggressively-resets-crowdstrike-200700681.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:23]
-标题: Louisiana-Pacific Corp (LPX) Stock Is Down? Should You Buy the Dip?
-链接: https://finance.yahoo.com/markets/stocks/articles/louisiana-pacific-corp-lpx-stock-172325972.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:23]
-标题: What Is West Fraser Timber Co Ltd (WFG) Doing with Kodiak AI?
-链接: https://finance.yahoo.com/markets/stocks/articles/west-fraser-timber-co-ltd-172316379.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:23]
-标题: For Leggett & Platt Inc (LEG) Stock, the Future is Beyond Weak Q1
-链接: https://finance.yahoo.com/markets/stocks/articles/leggett-platt-inc-leg-stock-172308846.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:22]
-标题: Weyerhaeuser Co (WY) Stock Outlook: What Happened in Q1?
-链接: https://finance.yahoo.com/markets/stocks/articles/weyerhaeuser-co-wy-stock-outlook-172257106.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:05]
-标题: Micron Makes the $1 Trillion Club a Little More Crowded
-链接: https://finance.yahoo.com/markets/stocks/articles/micron-makes-1-trillion-club-200501186.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:22]
-标题: Are You Eying UFP Industries Inc (UFPI) Stock? Lessons From Q1
-链接: https://finance.yahoo.com/markets/stocks/articles/eying-ufp-industries-inc-ufpi-172246044.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:22]
-标题: What Does Boise Cascade Co (BCC)’s Q1 Report Reveal?
-链接: https://finance.yahoo.com/markets/stocks/articles/does-boise-cascade-co-bcc-172234400.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:17]
-标题: Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May
-链接: https://finance.yahoo.com/markets/stocks/articles/analyst-see-more-upside-despite-171738561.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:17]
-标题: Datadog (DDOG) Among the Best Performers of May 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-among-best-performers-171727260.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 20:02]
-标题: Bruker Signals Growth Pivot as Semiconductor and Overseas Orders Gain Steam
-链接: https://finance.yahoo.com/markets/stocks/articles/bruker-signals-growth-pivot-semiconductor-200225711.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:15]
-标题: Here’s Why Flex Ltd (FLEX) is Among the Best Performing Stocks in May
-链接: https://finance.yahoo.com/markets/stocks/articles/why-flex-ltd-flex-among-171530529.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:15]
-标题: Goldman Sachs Raises PT on ​Hewlett Packard Enterprise (HPE)
-链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-hewlett-171523009.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:15]
-标题: Wedbush Raises PT on Palo Alto Networks (PANW)
-链接: https://finance.yahoo.com/markets/stocks/articles/wedbush-raises-pt-palo-alto-171514256.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:15]
-标题: Fortinet (FTNT) Gains More than 70% in May, Here’s What Took the Stock Higher
-链接: https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-gains-more-70-171502157.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 19:53]
-标题: Billionaire Daniel Loeb Was Buying 3 of My Favorite AI Stocks in Q1. Here's Why It's Not Too Late to Buy Them.
-链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-daniel-loeb-buying-3-195300037.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 17:14]
-标题: CrowdStrike Holdings (CRWD) Reports FQ1 2027 Earnings, Here’s What’s Important to Note
-链接: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-reports-fq1-171454636.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 16:30]
-标题: They have $3M invested and 2 kids headed to college — retiring at 60 could still be within reach
-链接: https://finance.yahoo.com/markets/articles/3m-invested-2-kids-headed-163000517.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 16:00]
-标题: Dycom is building a 49-acre fake town to train unskilled workers for $62K data center jobs
-链接: https://finance.yahoo.com/sectors/technology/articles/dycom-building-49-acre-fake-160000988.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 15:47]
-标题: Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 19:45]
-标题: $10,000 in Asia’s Biggest 50 Stocks Became $15,267 in Five Months: Here’s Why
-链接: https://finance.yahoo.com/markets/stocks/articles/10-000-asia-biggest-50-194502580.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 15:44]
-标题: Alvotech (ALVO) Receives FDA Form 483 Following Routine Facility Inspection
-链接: https://finance.yahoo.com/sectors/healthcare/articles/alvotech-alvo-receives-fda-form-154459923.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 19:35]
-标题: Eli Lilly's $3.8 Billion Vaccine Bets: Here's the Big Story Many Investors Are Missing
-链接: https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-3-8-billion-193500831.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
+标题: Best money market account rates today, Saturday, June 6, 2026: Best account provides 4.01% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-june-6-2026-100000975.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
 标题: Best high-yield savings interest rates today, Saturday, June 6, 2026: Earn up to 4.1% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-6-2026-100000094.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-06 10:00]
+标题: Best CD rates today, Saturday, June 6, 2026: Best account provides 4% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-6-2026-100000896.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-06 13:28]
 标题: Bitcoin is cratering, but a new Wall Street crypto hype is on the rise
 链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
 正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-06 20:47]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 08:38]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-06 20:47]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 08:38]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
