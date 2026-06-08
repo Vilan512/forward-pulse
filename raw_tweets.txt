@@ -1,9 +1,88 @@
-# ForwardPulse 原始情报收割 — 2026-06-07 20:43:57
-# 共计 69 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-08 12:50:25
+# 共计 81 条来自 8 个信息源
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-07 19:44]
-标题: Amazing Digital Dentures (a failed project)
-链接: https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-08 12:10]
+标题: The Download: how the World Cup ball will fly and OpenAI’s “super app”
+链接: https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first to occur in three different host countries.&nbsp; And, like every World Cup for over half a century, it will employ a football with a brand-new design. Through wind-tunnel experiments, researchers found that long-distance kicks with Adidas’s new Trionda ball might not travel as far as they did in the past. The payoff is a more predictable flight path, something players have not always enjoyed from World Cup balls. Find out how a few grooves and seams can change the way the game is played. —Jenna Ahart The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 OpenAI plans to turn ChatGPT into a ‘super app’ before its IPOThe revamp would combine coding tools and AI agents. (Financial Times $)+ The super app ambitions first emerged last year. (Fast Company)+ OpenAI is also building a fully automated researcher. (MIT Technology Review) 2 Trump wants the US government to take a stake in AI companiesHe will meet AI leaders to discuss the plan. (BBC)+ Which would create “a partnership with the American public.” (Reuters $)+ He wants a slice of the AI boom. (Axios) 3 Google has agreed to pay SpaceX $30 billion for AI computing powerThe $920 million-a-month contract runs through June 2029. (NYT $)+ Google will use about 110,000 Nvidia GPUs owned by SpaceX. (CNBC)+ It comes days after Anthropic struck a SpaceX data center deal. (WSJ $) 4 AI is set to make everyday life more expensiveIts insatiable thirst for resources is likely to push up inflation. (WP $)+ We did the math on AI’s energy footprint. (MIT Technology Review) 5 Europe is accelerating its withdrawal from US Big TechNew analysis reveals dozens 
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-08 09:00]
+标题: Why this year’s World Cup ball may not fly as far
+链接: https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/
+正文: Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a brand-new design. One group of researchers that has been testing the physics of World Cup balls for the past 20 years recently studied this new entry, called the Trionda. Made by Adidas, the Trionda features four red, green, and blue panels textured with deep grooves and maple leaf, green eagle, and star emblems to represent the three host countries. Through wind-tunnel experiments, the research team found that this ball improves over previous versions in some ways, but long-distance kicks might not go as far as they did in the past.&nbsp; “The simple picture is that Trionda may very slightly punish extreme distance, but it should reward clean technique and predictable flight,” says team member John Eric Goff, who researches sports physics and is an incoming professor of engineering practice at Purdue University.&nbsp; “Goalkeepers, defenders hitting long passes, and long-range shooters are where I would look first for visible differences.”&nbsp; Researchers used a wind tunnel to study the Trionda ball at the University of Tsukuba. TAKESHI ASAI, SUNGCHAN HONG, AND RICHONG LIU Adidas has been designing new balls for each World Cup since the 1970s. Some of the design changes in the first few decades were aesthetic: The 1986 ball featured graphics inspired by Aztec temples for the Mexico tournament, and 1994’s had space graphics in honor of the moon landing’s 25th anniversary. There were some structural differences too, such as upgraded foam cores and improved water resistance. But by and large, the balls used the same design of 32 pentagonal panels stitched together.&nbsp; That changed in the 2006 World Cup in Germany, when Adidas introduced the +Teamgeist ball. It featur
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-08 11:46]
+标题: Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem
+链接: https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 11:46]
+标题: Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具
+链接: https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper
+正文: Pakistan Notice Helper 是一款安全工具，帮助巴基斯坦用户在点击链接、拨打电话、分享 OTP 或支付前识别可疑消息。它接受文本或截图输入，返回风险等级、简短解释、可见警示标志和安全下一步建议。工具支持英文和乌尔都语，乌尔都模式采用从右向左布局并全界面翻译。最终部署选用 Qwen3.5 4B Q8 模型（通过 llama.cpp + CUDA），在 10 个测试用例中通过了所有高风险诈骗和截图场景。此前曾测试 Qwen3.6 27B（质量高但成本高）和 MiniCPM-V 4.6 Q8（速度慢且不稳定），最终选择了精度、速度和成本平衡的 4B 模型。项目受限于 hackathon 的 32B 模型上限规则。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 09:59]
+标题: AgentScope Java 2.0 发布
+链接: https://x.com/alibaba_cloud/status/2063923881857945815
+正文: 阿里云发布AgentScope Java 2.0，面向企业级AI智能体开发。新版本主要特性：分布式无状态架构，支持K8s弹性扩缩容与会话恢复；多租户隔离，通过Workspace抽象实现安全数据分离；长期稳定性，HarnessAgent负责上下文管理与容错；安全执行，提供细粒度权限控制和Human-in-the-Loop支持。适用于JVM生产环境。开源地址见推文链接。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 09:54]
+标题: Agent 辅助开发，一站式打通 Qwen3-VL Android 端侧推理
+链接: https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247501437&idx=1&sn=d6c6dcb853adbed4ea946711d478779a
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 09:30]
+标题: 生数科技与华策集团达成战略合作，共建AIGC影视创制中心
+链接: https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247488842&idx=1&sn=3dab63189fa60b3b78c5ad72e3358791
+正文: 生数科技与华策集团达成战略合作，共建AIGC影视创制中心，推动AI与影视产业融合落地。合作聚焦于利用生数科技的AI视频生成能力（Vidu），结合华策集团的影视行业资源，探索AIGC在影视制作全流程中的应用，包括剧本生成、预可视化、特效制作等环节。双方将通过技术研发与场景验证，加速AI在影视行业的规模化落地。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 08:33]
+标题: 邵猛开源 Brand to DESIGN.md 技能，提醒复刻易生新"AI Slop"
+链接: https://x.com/shao__meng/status/2063902211978223678
+正文: 邵猛关注 Design Skill、Taste Skill、Anti-AI-slop design skill，并开源 Brand to DESIGN.md Skill（GitHub： shaom/brand-to-design-md-skill），让 Agent 学习设计品味后复刻网站。但他指出，这种复刻看多了反而从 Anti-AI-slop 衍生新"AI Slop"，缺少设计精髓，仅皮毛相仿。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 08:02]
+标题: 微信AI官宣内测：两种接入模式供开发者选择
+链接: https://www.ithome.com/0/961/480.htm
+正文: 微信开发者官方今日发布指引，确认微信AI正在内测阶段。开放平台提供两种接入模式：自动模式可授权平台读取小程序源码，无需额外开发即可让微信AI直接操作页面；开发模式下开发者可自主开发技能，审核后由微信AI调用。两种模式可同时开启。微信AI是微信内的AI助手，用户通过自然语言对话即可调用、访问和操作小程序。服务条款称"微信AI"可能非最终名称。接入与否不影响现有小程序服务。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 08:00]
+标题: CoreWeave 如何看待当前计算市场
+链接: https://www.bloomberg.com/news/articles/2026-06-08/how-coreweave-sees-the-market-for-compute-right-now
+正文: CoreWeave 对当前计算市场进行了分析，指出推动增长的因素和限制增长的因素。该公司的市场看法即围绕这两个维度展开。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 07:46]
+标题: PixVerse Creative Partner Program 2.0 上线
+链接: https://x.com/PixVerse_/status/2063890444413706442
+正文: PixVerse 宣布 Creative Partner Program （CPP） 2.0 正式上线，面向 AI 视频创作者。该计划围绕真实创作：发布、测试、教学、故事片及公开推广新想法。核心福利包括：合格帖子每周最高可获得 150，000 credits；每周 $2，500 现金奖池，单个创作者单周最高 $850；对大项目、教程、测试内容和电影节投稿提供特别支持。参与者还可获得更多曝光、项目机会及与 PixVerse 共创的可能。申请可通过官网进行。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 06:00]
+标题: 英国借助 NVIDIA 技术将主权 AI 雄心转化为行动
+链接: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements
+正文: 一年前英国宣布做"AI 制造者"，如今主权 AI 计划取得实质进展：AI 云提供商数量翻倍，Nebius 部署三套 NVIDIA AI 基础设施，预计 2027 年满负荷达 65 兆瓦；基于 5，400 个 NVIDIA GH200 的 Isambard-AI 超级计算机全由零碳电力驱动。主权 AI 基金资助四家 NVIDIA Inception 初创公司：Cosine 训练多模态 MoE 编码模型；Cursive 使用 Megatron-LM 开发自改进 AI 系统；Doubleword 基于 Dynamo 和 Nemotron 3 Super 120B 实现 70 倍冷启动加速、4 倍 KV 缓存压缩，推理成本降低 90-95%；Prima Mente 借助 Blackwell GPU 以近 3 倍训练加速开发生物基础模型。NVIDIA 对英国初创生态投资 20 亿英镑。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 05:54]
+标题: 腾讯混元联合多家机构发布首个音频编辑基准MMAE
+链接: https://x.com/TencentHunyuan/status/2063862263434613237
+正文: 腾讯混元联合上海交大、南洋理工等机构推出MMAE（Massive Multitask Audio Editing Benchmark），这是首个全面评估AI语音/音频编辑能力的基准。MMAE要求模型理解现有音频并按自然语言指令精确修改，而非简单生成。当前模型在该基准上的精确匹配率（EMR）低于5%，暴露了可靠音频编辑的短板。MMAE包含2000个真实场景高保真样本、17741条细粒度评估项，覆盖声音/音乐/语音及混合共7种模态、6种任务复杂度（基础修改到多跳推理及多轮编辑）、8种操作类型（局部到全局）。论文、代码、数据集和演示已公开。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 05:53]
+标题: 全球首个：高德发布3D原生城市世界模型ABot-Earth0.5
+链接: https://www.ithome.com/0/961/378.htm
+正文: 阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 03:00]
+标题: NVIDIA与LG集团合作建设AI工厂，加速物理AI与自动驾驶
+链接: https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory
+正文: NVIDIA与LG集团合作建设AI工厂，为LG的机器人、自动驾驶、数据中心和GPU云服务提供加速计算基础设施。双方整合NVIDIA AI工厂平台与LG的消费电子、机器人技术，连接AI模型开发、物理AI数据生成、机器人仿真训练、边缘部署和工厂数字孪生。LG电子将利用NVIDIA Isaac Sim和Isaac Lab仿真训练CLOiD家用机器人，探索采用Isaac GR00T模型，并开发物理AI数据工厂。LG Innotek提供针对NVIDIA GPU优化的机器人传感组件，LG CNS集成NVIDIA机器人技术。双方还将基于NVIDIA DSX平台建设下一代AI工厂，涵盖冷却、模块化设计和800V直流能源方案。LG电子将基于NVIDIA DRIVE平台开发ADAS和车载AI系统。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 23:26]
+标题: Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片
+链接: https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips
+正文: Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 23:00]
+标题: 英伟达与斗山集团合作推进物理AI及AI工厂基础设施
+链接: https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai
+正文: 英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 18:14]
 标题: ChatGPT 要变 AgentGPT 了
@@ -35,260 +114,240 @@
 链接: https://symbolica.io/posts/symbolica_2_0_release
 正文: Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 10:48]
-标题: "我在田里雇了一名工程师，它叫 Codex" -- 北海道一个西兰花农的 8 个真实 AI 用法
-链接: https://x.com/AYi_AInotes/status/2063573709672104286
-正文: 日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，"如同身边有一位超级工程师"。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 08:53]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes
+链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 10:13]
-标题: Her · हेर - Claude Code 会话分析工具
-链接: https://huggingface.co/blog/build-small-hackathon/her-blog
-正文: Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置"Ask Her"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Instruct 模型在 Hugging Face ZeroGPU 上运行，评估引擎完全确定，模型仅负责文本生成与建议。Her 内置 Homebrew、npm、PyPI 主流 CLI 工具数据库，自动识别会话中使用的工具，并对部署工具、数据库客户端等执行活动进行标记提醒。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:31]
+标题: Campbell's Q3 2026 earnings: sales fall 4%, guidance reaffirmed
+链接: https://finance.yahoo.com/markets/stocks/articles/campbells-q3-2026-earnings-sales-123112524.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 07:00]
-标题: NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布
-链接: https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark
-正文: 继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games 正合作将旗下游戏适配 RTX Spark。周五，Huang 在 T1 电竞场馆与 Faker 共同亮相，并突袭江南区网吧，演示《PUBG： BATTLEGROUNDS》及基于 NVIDIA ACE 的"PUBG Ally"AI 队友、《CINDER CITY》《AION 2》等作品。《CINDER CITY》首发支持 DLSS 4.5 动态多帧生成与超分辨率。已有超过 100 家 Windows 软件与游戏开发商采纳 RTX Spark。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:28]
+标题: Grid buildout sees Europe dominate top global construction deals in Q1
+链接: https://finance.yahoo.com/sectors/energy/articles/grid-buildout-sees-europe-dominate-122829643.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 06:25]
-标题: Harness-1：基于强化学习训练的有状态搜索20B检索子智能体
-链接: https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b
-正文: UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:25]
+标题: Tesla China Retail Sales Jump 22%. The Stock Is Bouncing.
+链接: https://www.investors.com/news/tesla-china-retail-sales-tesla-stock/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 06:14]
-标题: Opus 4.8 缓存命中率与有效价格可实时查看
-链接: https://x.com/OpenRouter/status/2063504950429147376
-正文: 不同模型提供商在缓存命中率和有效价格上有什么差异？ 现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:18]
+标题: Dollar eases slightly after Iran says attacks on Israel have ended
+链接: https://finance.yahoo.com/news/dollar-hits-two-month-peak-040907965.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 03:39]
-标题: Harness 工程：在智能体优先的世界中运用 Codex
-链接: https://openai.com/index/harness-engineering
-正文: Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:35]
+标题: Daily Spotlight: Equities Lead Asset-Class Returns
+链接: https://finance.yahoo.com/research/reports/ARGUS_47255_MarketOutlook_1780918524000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 03:32]
-标题: 对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果
-链接: https://x.com/dotey/status/2063464057647075379
-正文: 宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:04]
+标题: Tech stocks today: Chip stocks rebound after Nvidia's Jensen Huang says investors should be 'very happy'
+链接: https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-rebound-after-nvidias-jensen-huang-says-investors-should-be-very-happy-120420037.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 23:08]
-标题: M3与Opus代码审计13个bug：$0.07 vs $1.30
-链接: https://x.com/MiniMax_AI/status/2063397618034844135
-正文: 对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:30]
+标题: The Overlooked EM ETF (XCEM) Is Up 38% YTD — What the S&P 500 Took Five Years to Match in Just Five Months
+链接: https://finance.yahoo.com/markets/stocks/articles/overlooked-em-etf-xcem-38-123050975.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-06 21:47]
-标题: 美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规
-链接: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04
-正文: 美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:14]
+标题: Tumbling tech puts brakes on AI rally, Iran signals end to Israel attacks
+链接: https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:26]
-标题: Dow Jones Futures Due Amid Market Rally's First Real Test; Iran Fires Missiles At Israel
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:12]
+标题: Marvell stock surges on S&P 500 inclusion
+链接: https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-on-sp-500-inclusion-121242713.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:21]
-标题: Your Adult Child Has a Chronic Health Condition and Needs Your Help. What Retirees Should Know
-链接: https://finance.yahoo.com/sectors/healthcare/articles/adult-child-chronic-health-condition-202115735.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:08]
+标题: Stock Market Today: Dow Rises On Trump, Iran Comments; Marvell Surges On S&P 500 Addition (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
-标题: Is BBB Foods Inc. (TBBB) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/bbb-foods-inc-tbbb-good-201451661.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:34]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47254_TechnicalAnalysis_1780918495000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
-标题: Is UnitedHealth Group Incorporated (UNH) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-good-201437713.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:02]
+标题: This is Why Zebra Technologies Corporation (ZBRA) is a Cheap Robotics Stock to Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/why-zebra-technologies-corporation-zbra-120234623.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
-标题: Is Vir Biotechnology, Inc. (VIR) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/vir-biotechnology-inc-vir-good-201423806.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:23]
+标题: 3 Stocks That Can Bounce Back This Week After Falling More Than 10% on Friday
+链接: https://finance.yahoo.com/markets/stocks/articles/3-stocks-bounce-back-week-122300129.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:14]
-标题: Is Bristow Group Inc. (VTOL) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/bristow-group-inc-vtol-good-201405157.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:02]
+标题: UiPath Inc. (PATH) Strengthens Automation Suite Platform with New Tools
+链接: https://finance.yahoo.com/sectors/technology/articles/uipath-inc-path-strengthens-automation-120225085.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
-标题: Is Arista Networks, Inc. (ANET) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-good-201352864.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:02]
+标题: Emerson Electric Co. (EMR) Partners with SiMa.ai to Pursue $153.9 Billion Industrial AI Opportunities
+链接: https://finance.yahoo.com/sectors/technology/articles/emerson-electric-co-emr-partners-120219155.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
-标题: Is Bloom Energy Corporation (BE) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-good-stock-201339430.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:02]
+标题: Mazda Motor Settles on PTC Inc. (PTC)’s Codebeamer for Software-Defined Vehicle Development
+链接: https://finance.yahoo.com/markets/stocks/articles/mazda-motor-settles-ptc-inc-120211618.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
-标题: Is Chord Energy Corporation (CHRD) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/chord-energy-corporation-chrd-good-201324415.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:07]
+标题: Market Digest: CNP, KHC, DOCU
+链接: https://finance.yahoo.com/research/reports/ARGUS_47252_MarketSummary_1780916844000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:13]
-标题: Is Cisco Systems, Inc. (CSCO) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-good-201310196.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:02]
+标题: Globus Medical, Inc. (GMED) A Cheap Robotics Stock Firing on Earnings and Revenue Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/globus-medical-inc-gmed-cheap-120203626.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:12]
-标题: Is Fortinet, Inc. (FTNT) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/fortinet-inc-ftnt-good-stock-201255001.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:21]
+标题: Morning Minute: Bitcoin Recovers After Fall Below $60k
+链接: https://finance.yahoo.com/markets/crypto/articles/morning-minute-bitcoin-recovers-fall-122116051.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:12]
-标题: Is GE Aerospace (GE) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-good-stock-201242126.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:01]
+标题: Is Aptiv PLC (APTV) a Cheap Robotics Stock to Buy on Revenue and Earnings Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/aptiv-plc-aptv-cheap-robotics-120154446.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
-标题: Is Gilead Sciences, Inc. (GILD) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-inc-gild-good-201132486.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:01]
+标题: Medtronic plc (MDT) Acquires SPR Therapeutics to Enhance Pain Intervention Prospects
+链接: https://finance.yahoo.com/sectors/healthcare/articles/medtronic-plc-mdt-acquires-spr-120146086.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
-标题: Is NIKE, Inc. (NKE) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/nike-inc-nke-good-stock-201117082.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:01]
+标题: Stryker Corporation (SYK) Expands Trauma Portfolio with Pangea Plating System Platform in Europe
+链接: https://finance.yahoo.com/sectors/healthcare/articles/stryker-corporation-syk-expands-trauma-120137521.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:11]
-标题: Is Insperity, Inc. (NSP) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/insperity-inc-nsp-good-stock-201102151.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 10:58]
+标题: Daily – Vickers Top Buyers & Sellers for 06/08/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47251_TopBottomInsiderActivity_1780916305000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
-标题: Is PDD Holdings Inc. (PDD) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-pdd-good-201049250.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:01]
+标题: NVIDIA Corporation (NVDA) is a Cheap Robotics Stock to buy as the Vera CPU Tops on Autonomous Functions
+链接: https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-cheap-robotics-120120051.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
-标题: Is Planet Labs PBC (PL) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-pl-good-201036993.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:14]
+标题: Why ROM Holders Watched $10,000 Evaporate to $8,655 When NVIDIA and Broadcom Stumbled on Friday
+链接: https://finance.yahoo.com/markets/stocks/articles/why-rom-holders-watched-10-121457327.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:10]
-标题: Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-inc-pypl-good-201017819.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:01]
+标题: Red Cat Holdings Inc (RCAT) Expands Defense Portfolio With Drone and Maritime Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-inc-rcat-120108945.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
-标题: Is Roblox Corporation (RBLX) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/roblox-corporation-rblx-good-stock-200952371.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:00]
+标题: The Metals Company Inc (TMC) USA-B License Application Certified
+链接: https://finance.yahoo.com/markets/stocks/articles/metals-company-inc-tmc-usa-120059898.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
-标题: Is Republic Services, Inc. (RSG) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/republic-services-inc-rsg-good-200936397.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:00]
+标题: BigBear.ai Holdings Inc (BBAI) Secures Foundational Deal in Panama
+链接: https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-holdings-inc-bbai-120050689.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:09]
-标题: Is Vistance Networks, Inc. (VISN) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/vistance-networks-inc-visn-good-200921263.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:00]
+标题: Nio Inc (NIO) Deliveries Surge as Fresh Model Hits Market
+链接: https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-deliveries-surge-120042096.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:07]
-标题: TKO's strong earnings sent Wall Street a warning anyway
-链接: https://finance.yahoo.com/markets/stocks/articles/tkos-strong-earnings-sent-wall-200700857.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:14]
+标题: Bitcoin Steadies After $60,000 Breach as Saylor Adds to Hoard
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-steadies-60-000-breach-060839854.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:46]
-标题: Cathie Wood’s ARK Buys Coinbase and Circle While Trimming Archer and Baidu
-链接: https://finance.yahoo.com/markets/crypto/articles/cathie-wood-ark-buys-coinbase-194600496.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:00]
+标题: Jefferies Revises Energy Transfer LP Unit (ET) Stock Rating and Price Target
+链接: https://finance.yahoo.com/sectors/energy/articles/jefferies-revises-energy-transfer-lp-120010567.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:44]
-标题: Bybit Launches IPO Express With Tokenized SpaceX Access
-链接: https://finance.yahoo.com/markets/crypto/articles/bybit-launches-ipo-express-tokenized-194400932.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:59]
+标题: Look At Ondas Inc (ONDS) Stock After Record Q1 Results
+链接: https://finance.yahoo.com/markets/stocks/articles/look-ondas-inc-onds-stock-115947710.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:45]
-标题: Mark Cuban says small businesses are desperate for AI talent — and it's where job seekers should look first
-链接: https://finance.yahoo.com/sectors/technology/articles/mark-cuban-says-small-businesses-184500292.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:59]
+标题: Here’s What Rivian Automotive Inc (RIVN) Said About the NHTSA Probe
+链接: https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-rivn-said-115940251.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:00]
-标题: Is HIVE Digital Technologies Ltd. (HIVE) a Top Penny Stock to Buy on Robust Diversified Core Business?
-链接: https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-180043192.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:59]
+标题: Credit Rating Upgrade Strengthens Bull Case for Snap Inc. (SNAP)
+链接: https://finance.yahoo.com/markets/stocks/articles/credit-rating-upgrade-strengthens-bull-115931420.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 20:00]
-标题: PBW’s 34% Year-to-Date Gain Masks a Brutal Five-Year Pattern Every Rate Cycle Repeats
-链接: https://finance.yahoo.com/markets/stocks/articles/pbw-34-date-gain-masks-200048746.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:12]
+标题: The One Market That Could Make or Break Tilray Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/one-market-could-break-tilray-121200036.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 18:00]
-标题: indie Semiconductor, Inc. (INDI) A Top Penny Stock to Buy on $40 Billion Image Sensor Opportunities
-链接: https://finance.yahoo.com/markets/stocks/articles/indie-semiconductor-inc-indi-top-180033786.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:57]
+标题: What to Know About SoFi Technologies Inc (SOFI)’s Stablecoin
+链接: https://finance.yahoo.com/markets/crypto/articles/know-sofi-technologies-inc-sofi-115754307.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
-标题: GoodRx Holdings, Inc. (GDRX) Strengthens Recurring Revenue Base with Companion
-链接: https://finance.yahoo.com/markets/stocks/articles/goodrx-holdings-inc-gdrx-strengthens-175929833.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:57]
+标题: Here’s What Telsey Thinks About Peloton Interactive Inc (PTON) Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/telsey-thinks-peloton-interactive-inc-115749384.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
-标题: This is why Maravai Lifesciences Holdings Inc. (MRVI) is a Top penny Stock in the Top Investors Portfolio
-链接: https://finance.yahoo.com/markets/stocks/articles/why-maravai-lifesciences-holdings-inc-175916715.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:28]
+标题: Silver prices today, Monday, June 8, 2026: Much lower to start the week following Israel, Iran missile strikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-8-2026-much-lower-to-start-the-week-following-israel-iran-missile-strikes-112853793.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:59]
-标题: Aclaris Therapeutics, Inc. (ACRS): A Top Penny Stock in Investors Portfolio That Stifel is Bullish On
-链接: https://finance.yahoo.com/sectors/healthcare/articles/aclaris-therapeutics-inc-acrs-top-175905265.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:20]
+标题: Spacecraft developer Quantum Space to go public in $1.2 billion SPAC deal
+链接: https://finance.yahoo.com/markets/stocks/articles/spacecraft-developer-quantum-space-public-111346808.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:58]
-标题: Did Anthropic and Google Just Give Investors 2.2 Billion Reasons to Buy the SpaceX IPO?
-链接: https://finance.yahoo.com/markets/stocks/articles/did-anthropic-google-just-investors-195843785.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:10]
+标题: Bending Spoons, owner of AOL and Eventbrite, files for IPO
+链接: https://finance.yahoo.com/markets/stocks/articles/bending-spoons-owner-aol-eventbrite-121001456.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:58]
-标题: Cabaletta Bio Inc. (CABA) A Top Penny Stock Eyeing Rese-Cel Commercial Launch for Autoimmune Diseases
-链接: https://finance.yahoo.com/markets/stocks/articles/cabaletta-bio-inc-caba-top-175854899.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:09]
+标题: Gold prices today, Monday, June 8: Lower to start the week following Israel, Iran missile strikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-8-lower-to-start-the-week-following-israel-iran-missile-strikes-110937603.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:58]
-标题: Uranium Production Milestone Underscores Why Denison Mines Corp. (DNN) Is a Top Penny Stock to Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/uranium-production-milestone-underscores-why-175843469.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:07]
+标题: Microsoft (MSFT) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio
+链接: https://finance.yahoo.com/sectors/technology/articles/microsoft-msft-top-ai-stock-110741643.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
-标题: Allogene Therapeutics, Inc. (ALLO) A Top Penny Stock to Buy on Robust CAR T-Cell Portfolio
-链接: https://finance.yahoo.com/sectors/healthcare/articles/allogene-therapeutics-inc-allo-top-175743599.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:02]
+标题: FedEx, China Southern Airlines to explore cargo cooperation
+链接: https://finance.yahoo.com/economy/policy/articles/fedex-china-southern-airlines-explore-110246228.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
-标题: Iovance Biotherapeutics, Inc. (IOVA) a Top Penny Stock to Buy on Amtagvi Strong Adoption
-链接: https://finance.yahoo.com/sectors/healthcare/articles/iovance-biotherapeutics-inc-iova-top-175734159.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:00]
+标题: Veterans in Logistics names John Tozer as Chairman
+链接: https://finance.yahoo.com/sectors/technology/articles/veterans-logistics-names-john-tozer-110000797.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:35]
-标题: The SpaceX IPO is Coming Soon. What Does It Mean for Crypto?
-链接: https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-coming-soon-does-193500739.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 12:09]
+标题: Valio’s long-serving CEO Annikka Hurme to retire
+链接: https://finance.yahoo.com/sectors/healthcare/articles/valio-long-serving-ceo-annikka-120931709.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:57]
-标题: Atai Beckley N.V. (ATAI) A Top Penny Stock to Buy Poised to Build Sustained Clinical and Shareholder Value
-链接: https://finance.yahoo.com/markets/stocks/articles/atai-beckley-n-v-atai-175722971.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 10:57]
+标题: Should You Buy Exxon Mobil Corporation (XOM)?
+链接: https://finance.yahoo.com/sectors/energy/articles/buy-exxon-mobil-corporation-xom-105729204.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:48]
-标题: Is McDonald’s Corp (MCD) One of the Best Stocks to Buy According to Billionaire Bill Gates?
-链接: https://finance.yahoo.com/markets/stocks/articles/mcdonald-corp-mcd-one-best-174820587.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 10:56]
+标题: Should You Buy The Goldman Sachs Group (GS)?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-goldman-sachs-group-gs-105655815.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:48]
-标题: Wolfe Research Weighs on West Pharmaceutical Services Inc (WST) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/wolfe-research-weighs-west-pharmaceutical-174809999.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 10:00]
+标题: Best high-yield savings interest rates today, Monday, June 8, 2026: Earn up to 4.1% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-8-2026-100000195.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
-标题: Why Bill to End Truck Tax Matters for Paccar Inc (PCAR) Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/why-bill-end-truck-tax-174752146.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 10:00]
+标题: Best CD rates today, Monday, June 8, 2026: Lock in up to 4% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-8-2026-100000439.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:20]
-标题: Time Is Running Out to Lock In This Financial Stock's Sky-High Yield
-链接: https://finance.yahoo.com/markets/stocks/articles/time-running-lock-financial-stocks-192000918.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 12:31]
+标题: This startup wants to reduce payment friction on prediction markets
+链接: https://www.cnbc.com/2026/06/08/this-startup-wants-to-reduce-payment-friction-on-prediction-markets.html
+正文: EDGE Markets is announcing two new products to solve payment issues in prediction markets, the company shared exclusively with CNBC.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
-标题: Coupang Inc (CPNG) Finds Winning Formula in Japan
-链接: https://finance.yahoo.com/markets/stocks/articles/coupang-inc-cpng-finds-winning-174740943.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 12:00]
+标题: Stocks making the biggest moves premarket: Nvidia, Marvell, Flex and more
+链接: https://www.cnbc.com/2026/06/08/stocks-making-the-biggest-moves-premarket-nvidia-marvell-flex-and-more.html
+正文: These are the stocks posting the largest moves in early trading.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
-标题: FedEx Corp (FDX) Spins Off Freight Unit. Don’t Miss the Point
-链接: https://finance.yahoo.com/markets/stocks/articles/fedex-corp-fdx-spins-off-174730847.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:47]
-标题: Walmart Inc (WMT) Stock Pulled Back in May. Analysts See Upside Ahead
-链接: https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-stock-pulled-174715327.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
-标题: Considering Ecolab Inc (ECL) Stock? See the Impact Report First
-链接: https://finance.yahoo.com/markets/stocks/articles/considering-ecolab-inc-ecl-stock-174659117.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 19:15]
-标题: NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape
-链接: https://finance.yahoo.com/markets/stocks/articles/nvdl-collapsed-12-single-day-191511769.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
-标题: Deere & Co (DE) Stock Is a Tariff Story. Here’s What to Know
-链接: https://finance.yahoo.com/economy/policy/articles/deere-co-stock-tariff-story-174642749.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:46]
-标题: Waste Management Inc (WM) Picks Longtime Insider as Chief Operating Officer
-链接: https://finance.yahoo.com/markets/stocks/articles/waste-management-inc-wm-picks-174603848.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-07 17:45]
-标题: Berkshire Hathaway (BRK.B): A Bill Gates-Backed Stock Expanding Its Housing Bet With Taylor Morrison Deal
-链接: https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-bill-174548460.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 00:44]
+标题: Hong Kong's IPO boom is developing a performance problem
+链接: https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html
+正文: As Hong Kong vies with Wall Street to be the top IPO market, a growing number of pre-debut runups turn sour after their listing.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-07 18:56]
 标题: Bitcoin is cratering, but a new Wall Street crypto hype is on the rise
 链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
 正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-07 20:43]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
+标题: HR Monitor 2026: A turning point for the people function
+链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor
+正文: A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
+标题: Reimagining federal procurement in the digital and AI age
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age
+正文: Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s high-pressure environment.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-08 12:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-07 20:43]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-08 12:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
