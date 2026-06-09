@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-08 23:08:38
-# 共计 62 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-09 02:13:29
+# 共计 54 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-08 12:10]
 标题: The Download: how the World Cup ball will fly and OpenAI’s “super app”
@@ -11,14 +11,40 @@
 链接: https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/
 正文: Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a brand-new design. One group of researchers that has been testing the physics of World Cup balls for the past 20 years recently studied this new entry, called the Trionda. Made by Adidas, the Trionda features four red, green, and blue panels textured with deep grooves and maple leaf, green eagle, and star emblems to represent the three host countries. Through wind-tunnel experiments, the research team found that this ball improves over previous versions in some ways, but long-distance kicks might not go as far as they did in the past.&nbsp; “The simple picture is that Trionda may very slightly punish extreme distance, but it should reward clean technique and predictable flight,” says team member John Eric Goff, who researches sports physics and is an incoming professor of engineering practice at Purdue University. “Goalkeepers, defenders hitting long passes, and long-range shooters are where I would look first for visible differences.” Researchers used a wind tunnel to study the Trionda ball at the University of Tsukuba. TAKESHI ASAI, SUNGCHAN HONG, AND RICHONG LIU Adidas has been designing new balls for each World Cup since the 1970s. Some of the design changes in the first few decades were aesthetic: The 1986 ball featured graphics inspired by Aztec temples for the Mexico tournament, and 1994’s had space graphics in honor of the moon landing’s 25th anniversary. There were some structural differences too, such as upgraded foam cores and improved water resistance. But by and large, the balls used the same design of 32 pentagonal panels stitched together.&nbsp; That changed in the 2006 World Cup in Germany, when Adidas introduced the +Teamgeist ball. It featured just 14 c
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-08 00:00]
-标题: The Open Source Community is backing OpenEnv for Agentic RL
-链接: https://huggingface.co/blog/openenv-agentic-rl
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 01:19]
+标题: 开源工具 Tokei：在菜单栏实时监控 AI coding agent 的 token 用量与成本
+链接: https://x.com/berryxia/status/2064155452934639718
+正文: Berry Xia 推荐开源工具 Tokei，这是一个 macOS 菜单栏小工具，只读本地日志、零网络调用，30 秒自动刷新，实时监控 Claude Code、Grok CLI、Aider、OpenCode 等 8 个主流 AI coding agent 的 token 用量、实时成本与性能数据，并附每日图表、周热力图和年度 Wrapped。支持私人 Git 多设备同步、价格表本地覆盖，闲置过久会提醒休息。引用推文指出，token 消耗情况可作为深度使用 AI 的面试亮点，数据全程私有，零侵入，无需任何认证。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 22:49]
-标题: OpenAI 向美国证券交易委员会提交 S-1 草案
-链接: https://openai.com/index/openai-submits-confidential-s-1
-正文: OpenAI 向美国证券交易委员会（SEC）秘密提交了 S-1 草案，相关消息已在 OpenAI 官网公布。
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 01:15]
+标题: 两部门：到2026年底人形机器人等重点产品完成应用验证并常态部署
+链接: https://www.ithome.com/0/961/749.htm
+正文: 工信部、国资委6月8日联合发布通知，目标到2026年底，人形机器人等重点产品在代表性场景完成应用验证并开启常态部署，形成百个以上高价值场景，万台级规模落地。要求各省级地区选取不少于20个场景单元（覆盖两类领域），央企不少于10个。围绕打造实景实训空间、组建创新应用联合体、攻关作业技能、加强验证部署、强化要素保障、凝练经验等六大任务展开，鼓励"人形机器人即服务"等商业创新。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 00:44]
+标题: FrontierCode 基准测试：AI 编程评估新标准--维护者审核通过率最高仅 13.4%
+链接: https://x.com/AYi_AInotes/status/2064146694774595646
+正文: Cognition 发布 FrontierCode 基准测试，重新定义 AI 编程评估：由 20 多位顶级开源维护者手工制作 150 个任务（每个耗时 40+ 小时），依据 3000 多条规则判断维护者是否愿意合并代码。该基准指出 SWE-Bench 等超半数通过测试的代码实为不可维护的垃圾。结果中 Claude Opus 4.8 在最高难度档获 13.4%，GPT-5.5 为 6.3%，其余模型 1%-5%。这意味着即便最强模型，近九成代码仍无法通过有经验维护者审核。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 00:38]
+标题: GitHub 122K⭐的Skills推出新技能「Teach」：把工作目录变有状态学习空间
+链接: https://x.com/shao__meng/status/2064144978792878348
+正文: GitHub 122K⭐的Skills仓库推出新技能Teach，可将当前工作目录变为有状态学习空间。设计理念从Knowledge（概念事实）→Skills（动手操作）→Wisdom（真实判断）。工作区以文件即学习状态：MISSION.md定目标、lessons/提供课程、learning-records/记录已会内容、reference/生成速查手册。五个关键机制：Mission定方向、ZPD根据记录调整难度、Lesson一课一事+即时反馈、Learning Record记"会了什么"而非"讲了什么"、Reference形成长期可回看手册。可通过npx skills add mattpocock/skills --skill teach安装，适用于从魔方到软件基础等学习场景。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 00:14]
+标题: Claude 东京站活动开放注册
+链接: https://x.com/claudeai/status/2064139073590104402
+正文: 最终站：东京。 快来注册，直接聆听 Claude 团队分享：http：//claude.com/code-with-claude/tokyo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 23:05]
+标题: Apple Core AI 框架
+链接: https://developer.apple.com/documentation/coreai
+正文: 一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 22:50]
+标题: 奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全
+链接: https://www.ithome.com/0/961/721.htm
+正文: 本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 22:24]
 标题: Claude 支持 Apple Foundation Models 框架，推出新 Swift 包
@@ -200,26 +226,6 @@
 链接: https://www.ithome.com/0/961/378.htm
 正文: 阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 01:30]
-标题: OpenAI 公布让 AGI 造福所有人的计划
-链接: https://openai.com/index/built-to-benefit-everyone-our-plan
-正文: OpenAI 发布计划，阐述让 AGI 造福所有人的愿景。该计划聚焦于 AI 的可及性、安全性和共享繁荣，确保技术进步惠及每个人。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 00:00]
-标题: 苹果发布第三代 Apple Foundation Models（AFM）
-链接: https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models
-正文: 苹果推出第三代 Apple Foundation Models（AFM）基础模型家族，与 Google 合作定制，包含五个模型，覆盖从设备端到基于 Private Cloud Compute 的服务器端模型。这些模型旨在驱动 Apple Intelligence 功能，包括全新 Siri 和智能工具，以用户为中心深度融合操作系统，隐私为核心设计原则。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 00:00]
-标题: 开源社区支持 OpenEnv 用于智能体强化学习
-链接: https://huggingface.co/blog/openenv-agentic-rl
-正文: 今日，Hugging Face 宣布 OpenEnv 项目进一步开放，由 Meta-PyTorch、Reflection、Unsloth 等组成的委员会协调，并获得 PyTorch Foundation、vLLM、SkyRL（UCB）等机构支持。OpenEnv 是创建终端、浏览器等智能体执行环境的工具，定位为训练器与环境间的互操作层，标准化环境的发布、部署和消费，但不定义奖励或训练循环。它基于客户端/服务器架构提供 Gymnasium 风格 API（`reset（）`、`step（）`、`state（）`），支持 HTTP、WebSocket、Docker 打包，并将 MCP 作为一等公民，使环境在模拟和生产模式下行为一致。未来将聚焦任务集对接数据集、外部奖励、Harness 集成及自动验证，以推动开源智能体 RL 基础建设。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-07 23:26]
-标题: Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片
-链接: https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips
-正文: Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 18:34]
 标题: Analyst Report: Metlife Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3186_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -236,18 +242,6 @@
 标题: Analyst Report: PPG Industries Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3328_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 18:19]
-标题: Market Update: HSY, MET, PPG, SHEL, URI
-链接: https://finance.yahoo.com/research/reports/ARGUS_47262_MarketUpdate_1780942746000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:35]
-标题: Daily Spotlight: Equities Lead Asset-Class Returns
-链接: https://finance.yahoo.com/research/reports/ARGUS_47255_MarketOutlook_1780918524000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 11:34]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47254_TechnicalAnalysis_1780918495000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 12:31]
 标题: This startup wants to reduce payment friction on prediction markets
 链接: https://www.cnbc.com/2026/06/08/this-startup-wants-to-reduce-payment-friction-on-prediction-markets.html
@@ -258,45 +252,15 @@
 链接: https://www.cnbc.com/2026/06/08/stocks-making-the-biggest-moves-premarket-nvidia-marvell-flex-and-more.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 00:44]
-标题: Hong Kong's IPO boom is developing a performance problem
-链接: https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html
-正文: As Hong Kong vies with Wall Street to be the top IPO market, a growing number of pre-debut runups turn sour after their listing.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-08 15:11]
 标题: Bitcoin is cratering, but a new Wall Street crypto hype is on the rise
 链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
 正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
-标题: Banking and AI: When the tech starts doing the work, not just assisting it
-链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/banking-and-ai-when-the-tech-starts-doing-the-work-not-just-assisting-it
-正文: Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
-标题: The next wave of value in the materials supply chain
-链接: https://www.mckinsey.com/industries/energy-and-materials/our-insights/the-next-wave-of-value-in-the-materials-supply-chain
-正文: A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
-标题: Blackstone’s Legal & Compliance AI transformation started with technology. It succeeded because it put people first
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology
-正文: By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance group with technology at the core.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
-标题: HR Monitor 2026: A turning point for the people function
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor
-正文: A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-08 00:00]
-标题: Reimagining federal procurement in the digital and AI age
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age
-正文: Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s high-pressure environment.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-08 23:08]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-09 02:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-08 23:08]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-09 02:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
