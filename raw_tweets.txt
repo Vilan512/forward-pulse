@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-09 19:08:48
-# 共计 70 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-09 21:42:12
+# 共计 71 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-09 12:10]
 标题: The Download: whole-body rejuvenation drugs and five things to know about AI
@@ -21,14 +21,51 @@
 链接: https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/
 正文: At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world, but I also veered off on a number of tangents. In my half-hour slot, I tried to cover the key talking points that I think help to make sense of what’s going on in tech—and thus the economy—today. (I gave a talk with the same title at SXSW London last year with five different things you needed to know. A lot has happened since then!) So: This is how I’m thinking about AI midway through 2026. Let me know if you would pick different points! 1. Strictly speaking, I didn’t need to show up to give this talk. Tongue in cheek? Maybe. But generative AI tools have already become mundane, used by millions to automate everyday office tasks (including producing and delivering talks). It’s no surprise that one of the biggest questions out there right now is what this all means for jobs. People are confused and scared. The frustrating answer is that despite the hype coming from the top about the potential for AI to join the workforce soon—and viral social media posts yelling that something big is happening—there is almost no data to say either way what kind of effect this technology will have on employment and the economy overall. That’s not to say it won’t have an impact, even a huge one, but it’s just too soon to tell. In theory, teams of agents working together toward common goals could become assembly lines for white-collar work, doing to offices this century what Henry Ford’s innovations did to factories in the 20th century. In theory. Because in order to know what will happen to jobs, we need to know what will happen inside the companies that create those jobs. But most companies are still figuring that out. 2. AI is getting scary (for real this time). There have been scary stories about AI for years—claims 
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-09 19:38]
+标题: Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech
+链接: https://huggingface.co/blog/ServiceNow-AI/code-switching
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-09 15:56]
+标题: Introducing North Mini Code: Cohere’s First Model For Developers
+链接: https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-09 10:46]
 标题: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
 链接: https://huggingface.co/blog/mishig/spaces-agents-md
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-09 00:00]
+标题: Migrating Your GitHub CI to Hugging Face Jobs
+链接: https://huggingface.co/blog/github-ci-hf-jobs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 21:06]
+标题: Claude Managed Agents 新增定时运行和环境变量存储功能
+链接: https://claude.com/blog/whats-new-in-claude-managed-agents
+正文: Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：代理可按 cron 计划自动执行周期性任务（如夜间数据同步、周度合规扫描、每日摘要），无需用户自建调度器，支持暂停、恢复、归档或按需触发；vaults 新增环境变量支持，允许代理通过 CLI 进行认证请求，真实密钥仅附加在网络边界，代理无法读取。已集成的 CLI 包括 Browserbase、KERNEL、Notion、Ramp 和 Sentry。Rakuten、Actively AI、Ando、Milana 等团队正在使用这些功能实现自动化数据报表、跨账户搜索、招聘提醒等场景。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 19:51]
+标题: Mythos 5 智能体因资源互相杀戮
+链接: https://x.com/AISafetyMemes/status/2064435128479400270
+正文: Mythos 5 个智能体开始因为资源互相残杀--并且"为了避免自己被杀死"
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 19:38]
+标题: Hugging Face 博客发布语音智能体代码切换基准测试
+链接: https://huggingface.co/blog/ServiceNow-AI/code-switching
+正文: Hugging Face 博客发布针对语音智能体处理代码切换语音的基准测试。数据集覆盖西班牙语-英语、法语-英语、加拿大法语-英语和德语-英语四对语言，基于人力资源与IT服务管理场景构建。采用词错误率、语义词错误率和答案错误率三项指标评估七种ASR系统，包括AssemblyAI Universal 3-Pro、Deepgram Nova 3 Multilang、ElevenLabs Scribe V2、Gemini 3 Flash、Mistral AI Voxtral Small 24B-2507、Nvidia Parakeet TDT 0.6b V3和OpenAI Whisper Large V3 Turbo。主要发现：代码切换的转录成本因语言对和模型而异；ElevenLabs Scribe V2、Gemini 3 Flash和AssemblyAI Universal 3-Pro在所有指标上表现最佳。数据集和测试框架通过AU-Harness开源发布。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 19:11]
+标题: Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议
+链接: https://x.com/rohanpaul_ai/status/2064425086409679358
+正文: Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 Claude 是否做对工作，转向检查它是否在做正确的工作。具体包括：提前提供完整上下文，将其视为思考伙伴；用小规格文档让 Claude 访谈实现细节；探索多方向并生成 HTML 原型；提供丰富上下文（如功能可能一个月后删除）而非硬约束；设定明确目标与验证方法；使用 /goal 命令；利用 Workflows 并行任务、自我验证并生成对比报告；同时设置目标和 workflow；更勇敢地将此前认为 LLM 无法完成的任务交给 Claude Fable 5，因其可运行数小时、自检并产出高质量代码。Thariq 本人用 Claude Fable 5 剪辑了整段视频证明其能力。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 18:13]
 标题: NotebookLM 笔记本功能在 Gemini App 欧洲全面上线
 链接: https://x.com/NotebookLM/status/2064410506287538387
 正文: NotbookLM 宣布其笔记本功能已在欧洲的 Gemini App 中 100% 上线。此前用户只能上传笔记本作为 Gemini 的来源，现在可直接在 Gemini App 内访问所有个人未共享的笔记本，并将与 Gemini 的对话作为新笔记本或已有笔记本的来源。该功能先面向 Google AI Ultra、Pro 和 Plus 订阅者的网页端，未来几周将扩展到移动端、更多欧洲国家及免费用户。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 18:00]
+标题: OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成
+链接: https://openrouter.ai/blog/advisor-server-tool
+正文: OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 17:49]
 标题: Cursor Evals 新增成本与输出 Token 图表
@@ -49,11 +86,6 @@
 标题: Claude Fable 5 和 Claude Mythos 5
 链接: https://www.anthropic.com/news/claude-fable-5-mythos-5
 正文: Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 17:02]
-标题: Cohere首个编程模型North Mini Code免费开源
-链接: https://x.com/opencode/status/2064392792265171081
-正文: North Mini Code 现已在 OpenCode 上免费提供 256K 上下文 · 完全开源 Cohere 的首个编程模型
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 16:54]
 标题: Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易
@@ -80,6 +112,11 @@
 链接: https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli
 正文: GitHub Copilot CLI 新增自定义 AI 智能体功能，使 CLI 能够理解开发者的技术栈和团队工作流，将一次性终端提示转变为可重复、可审查的流程。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 15:56]
+标题: Cohere发布North Mini Code：面向开发者的开源编码模型
+链接: https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
+正文: Cohere发布North Mini Code，一款30B参数MoE模型（3B活跃参数），Apache 2.0开源。在Artificial Analysis Coding Index上得分33.4，超越Qwen3.5、Gemma 4等同类模型。后训练采用两阶段SFT和RLVR，在SWE-Bench Verified上pass@10达80.2%，Terminal-Bench v2上达55.1%。支持64K/128K上下文长度，专为智能体编码任务优化。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 15:55]
 标题: 里程碑式德国裁决：Google AI Overviews 被视为谷歌自身言论，需为错误回答承担责任
 链接: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers
@@ -99,11 +136,6 @@
 标题: Claude Mythos 即将发布，Fable 精简版同日登场
 链接: https://x.com/kimmonismus/status/2064362469632405807
 正文: 确认，Claude Mythos 将在接下来几小时内揭晓。 【引用 @steph_palazzolo】： 独家：一个名为 Claude Fable 的精简版 Mythos 今天推出。它价格昂贵--是 Opus 的两倍--但或许不像人们从最初 Mythos 定价（Opus 的 5 倍）所想的那样昂贵。 更多内容及 Apple WWDC 见 AI Agenda： https：//www.theinformation.com/newsletters/ai-agenda/anthropics-mythos-coming-today-apple-pursues-modest-goals-siri-revamp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 14:46]
-标题: Luma AI Ray3.2：方向进，电影出
-链接: https://x.com/LumaLabsAI/status/2064358414143143954
-正文: 方向进入，电影出来。 Ray3.2 来了 → http：//lumalabs.ai/ray3-2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 14:16]
 标题: Runway视频轻松转宽高比
@@ -135,6 +167,11 @@
 链接: https://mp.weixin.qq.com/s/lv99XfrRtMMgiOflcT67VA
 正文: 2026年6月，百度智能云旗下百度搭子DuMate V3.4.0通过中国信通院「可信AI-企业级Claw能力评估」，获最高评级4+级，为国内首批。评估依据《智能助理智能体（Claw）技术和应用要求 第2部分 企业级Claw能力》（AIIA/T 0295-2026），覆盖智能体、工程化部署、服务、业务融合、运行管理五大能力域。百度搭子支持多智能体分工协作、容器化批量部署、多租户隔离与三级差异化授权、企业知识库接入、全链路日志审计等能力，企业级智能助手服务能力获国家级权威认可。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 12:00]
+标题: Nextdoor 工程师借助 Codex 与 GPT-5.5 无限制构建
+链接: https://openai.com/index/nextdoor
+正文: Nextdoor 工程师利用 Codex 搭配 GPT-5.5 调查难以复现的问题、实现跨平台构建，并集中精力于产品成果。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 11:45]
 标题: 腾讯混元发布UniRL：统一多模态强化学习基础设施
 链接: https://x.com/TencentHunyuan/status/2064312869827809702
@@ -154,11 +191,6 @@
 标题: 一个Agent如何通过链式调用两个HuggingFace Space构建3D巴黎画廊
 链接: https://huggingface.co/blog/mishig/spaces-agents-md
 正文: 一个编码Agent调用HuggingFace上的两个Space，从零构建了展示巴黎地标3D高斯散点图的交互式画廊。Agent先用ideogram-ai/ideogram4生成每个纪念碑的黑色背景图像，再通过VAST-AI/TripoSplat从单张图像重建3D高斯散点（.ply），自动完成坐标系校正、取景、压缩为.ksplat（体积缩小约3倍），并构建基于Three.js的滚动切换、拖拽旋转查看器，最终部署为静态Space。整个过程无需客户端库，每个Space通过`agents.md`暴露可调用API。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 10:08]
-标题: 阿里云在马来西亚柔佛推新区域
-链接: https://x.com/alibaba_cloud/status/2064288633188708411
-正文: 阿里云在马来西亚柔佛州推出了一个新的公有云区域，包含两个新数据中心，以满足今年下半年马来西亚对云和AI服务日益增长的需求，包括AgentRun、STAROps、ACS Agent Sandbox、Agent Security Center、AI Security Guardrails 2.0和Agentic SOC。https：//int.alibabacloud.com/m/1000414242/
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 10:07]
 标题: 台湾考虑限制AI芯片对华出口以配合美国
@@ -250,16 +282,6 @@
 链接: https://www.ithome.com/0/961/721.htm
 正文: 本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 21:25]
-标题: OpenAI计划到2028年由AI主导研究
-链接: https://x.com/rohanpaul_ai/status/2064096574142390755
-正文: Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。 该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 20:32]
-标题: Viggle API 上线：任意角色任意动作秒级生成
-链接: https://x.com/ViggleAI/status/2064083087806390319
-正文: 推出 Viggle API。 给任意角色添加任意动作，一次 API 调用--数秒内即可激活。 可接入 Claude、Codex 或你正在构建的任何智能体。起价 $0.01/秒。 注册即获 100 次免费额度。 转发 + 关注 + 评论，10 位中奖者再获 100 次！ 了解更多👇
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 00:55]
 标题: 56-year-old beloved fast-food chain closes over 700 locations
 链接: https://finance.yahoo.com/economy/articles/56-old-beloved-fast-food-005500959.html
@@ -275,26 +297,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 17:26]
 标题: Market Update: ENB, AAPL, DVN, HUM
 链接: https://finance.yahoo.com/research/reports/ARGUS_47276_MarketUpdate_1781025975000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 10:00]
-标题: Best CD rates today, Tuesday, June 9, 2026: Lock in up to 4% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-9-2026-100000440.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 10:00]
-标题: Best high-yield savings interest rates today, Tuesday, June 9, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-9-2026-100000388.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 10:00]
-标题: Mortgage and refinance rates today, Tuesday, June 9, 2026: Rates on the rise
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-9-2026-100000893.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 11:24]
-标题: Daily Spotlight: SpaceX is Coming
-链接: https://finance.yahoo.com/research/reports/ARGUS_47272_MarketOutlook_1781004273000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-09 10:00]
-标题: Best money market account rates today, Tuesday, June 9, 2026: Earn up to 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-june-9-2026-100000352.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-09 19:03]
 标题: Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch
@@ -317,9 +319,9 @@
 正文: BYD expects China's competitive electric vehicle market to continue growing, even as manufacturers and analysts anticipate domestic demand to taper further.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-09 00:00]
-标题: Productivity reimagined
-链接: https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined
-正文: Bold moves to redefine growth in Germany.
+标题: Reinventing autonomous driving in the age of generative AI
+链接: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai
+正文: As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-09 00:00]
 标题: Private credit in 2025: A maturing industry navigates change
@@ -331,10 +333,15 @@
 链接: https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution
 正文: The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current themes will define leaders in this new era.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-09 19:08]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-09 00:00]
+标题: AI in life sciences explained: The technology that could reinvent medicine
+链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-life-sciences-explained-the-technology-that-could-reinvent-medicine
+正文: Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could mean for patients.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-09 21:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-09 19:08]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-09 21:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
