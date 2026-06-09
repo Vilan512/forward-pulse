@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.09 19:08",
+      "title": "Anthropic发布Claude Fable 5与Mythos 5，在软件工程与科学推理基准上取得SOTA",
+      "summary": "Anthropic推出两款新模型Claude Fable 5和Claude Mythos 5。Fable 5在软件工程、知识工作、科研等基准上达到SOTA，Stripe称其将数月工程压缩至数天，FrontierCode评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5在药物设计中实现约10倍加速，其分子生物学假说盲测获科学家偏好的概率约80%。",
+      "stars": "★★★★★",
+      "insight": "这两款模型的发布标志着AI在垂直专业领域能力的质的飞跃，尤其是Fable 5在代码工程上的表现，直接冲击了现有AI编程辅助工具的格局。这意味着，对软件工程师的需求结构将加速向AI系统设计、审查和高级架构方向转变，纯编码任务的价值将急剧下降。企业需要重新评估其技术团队的构成和技能培训方向。同时，Mythos 5在药物研发领域的突破性表现，预示着AI将深度介入并极大加速生物科技和制药行业的研发周期，可能重塑整个行业的竞争壁垒和投资逻辑。对于投资者而言，关注那些能有效整合此类前沿AI模型的生物科技公司或AI for Science平台变得至关重要。",
+      "original_text": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
+      "full_translation": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.09 19:08",
+      "title": "华尔街巨鳄联手：Apollo与Blackstone达成350亿美元AI基础设施融资交易",
+      "summary": "Apollo和Blackstone合作开展了一项350亿美元的AI融资交易，旨在为Anthropic和Broadcom等公司昂贵的AI芯片和基础设施创建新的融资模型。这笔交易可能标志着一个全新AI投资类别的开端，重塑人工智能基础设施的融资方式。",
+      "stars": "★★★★",
+      "insight": "这笔交易释放了一个关键信号：AI的军备竞赛已进入资本密集型阶段，传统的风投模式难以支撑其基础设施的巨额需求。华尔街顶级另类资产管理公司（Apollo, Blackstone）的深度介入，意味着AI基础设施正被“金融化”，成为类似商业地产、能源管道的新一代收益型资产类别。这将加速AI算力的扩张，但同时也可能抬高行业准入门槛，使资源进一步向头部公司集中。对于投资者而言，AI的投资逻辑正从“投资模型”扩展到“投资建模型所需的资产”。需要密切关注哪些公司能获得这类大规模、长期限的资本支持，以及这如何影响AI产业的竞争格局和估值体系。",
+      "original_text": "Apollo 和 Blackstone 合作开展 350 亿美元 AI 融资交易，可能重塑人工智能基础设施的融资方式。华尔街正为昂贵的 AI 芯片创建新的融资模型，Anthropic 和 Broadcom 参与其中。这笔交易可能标志着一个全新 AI 投资类别的开端。",
+      "full_translation": "Apollo 和 Blackstone 合作开展 350 亿美元 AI 融资交易，可能重塑人工智能基础设施的融资方式。华尔街正为昂贵的 AI 芯片创建新的融资模型，Anthropic 和 Broadcom 参与其中。这笔交易可能标志着一个全新 AI 投资类别的开端。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.09 19:08",
+      "title": "亚洲外包巨头塔塔咨询服务因AI智能体应用放缓招聘，行业面临结构性转折",
+      "summary": "亚洲最大外包商塔塔咨询服务（TCS）宣布将减少未来招聘规模，同时加大对AI智能体的使用。此举标志着印度劳动密集型外包产业正经历关键性转变，AI自动化正直接侵蚀其核心的业务模式和人力资源基础。",
+      "stars": "★★★★",
+      "insight": "TCS的决策是IT外包行业，乃至更广泛的白领知识工作领域的一个里程碑事件。它明确表示，AI智能体已经从“提升效率的工具”转变为“替代初级人力的生产单元”。这不仅仅是一家公司的调整，而是整个价值数百亿美元的离岸外包产业商业模式遭受根本性挑战的先兆。未来18个月，我们将看到更多同类公司跟进，全球IT服务市场的竞争焦点将从“人力成本套利”转向“AI解决方案的效能与创新”。对于投资者，需重新评估以人头计费的传统IT服务商的长期增长故事，而那些能成功转型为AI驱动的自动化服务提供商的企业将获得估值重塑。同时，这也加剧了关于技术性失业的社会讨论。",
+      "original_text": "亚洲最大外包商塔塔咨询服务（Tata Consultancy Services）将减少未来招聘规模，同时加大对AI智能体的使用。这一变化标志着印度劳动密集型外包产业正经历关键性转变。",
+      "full_translation": "亚洲最大外包商塔塔咨询服务（Tata Consultancy Services）将减少未来招聘规模，同时加大对AI智能体的使用。这一变化标志着印度劳动密集型外包产业正经历关键性转变。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.09 16:26",
       "title": "塔塔咨询服务因AI智能体放缓招聘，亚洲外包业迎来结构性转折",
       "summary": "亚洲最大外包商塔塔咨询服务（TCS）宣布将减少未来招聘规模，同时加大对AI智能体的使用。这一举措标志着印度长期依赖廉价劳动力的IT外包产业模式正经历根本性转变，预示着全球企业服务市场的生产要素配置将发生深刻变革。",
