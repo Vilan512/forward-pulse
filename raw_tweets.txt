@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-09 02:13:29
-# 共计 54 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-09 06:41:56
+# 共计 55 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-08 12:10]
 标题: The Download: how the World Cup ball will fly and OpenAI’s “super app”
@@ -10,6 +10,26 @@
 标题: Why this year’s World Cup ball may not fly as far
 链接: https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/
 正文: Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a brand-new design. One group of researchers that has been testing the physics of World Cup balls for the past 20 years recently studied this new entry, called the Trionda. Made by Adidas, the Trionda features four red, green, and blue panels textured with deep grooves and maple leaf, green eagle, and star emblems to represent the three host countries. Through wind-tunnel experiments, the research team found that this ball improves over previous versions in some ways, but long-distance kicks might not go as far as they did in the past.&nbsp; “The simple picture is that Trionda may very slightly punish extreme distance, but it should reward clean technique and predictable flight,” says team member John Eric Goff, who researches sports physics and is an incoming professor of engineering practice at Purdue University. “Goalkeepers, defenders hitting long passes, and long-range shooters are where I would look first for visible differences.” Researchers used a wind tunnel to study the Trionda ball at the University of Tsukuba. TAKESHI ASAI, SUNGCHAN HONG, AND RICHONG LIU Adidas has been designing new balls for each World Cup since the 1970s. Some of the design changes in the first few decades were aesthetic: The 1986 ball featured graphics inspired by Aztec temples for the Mexico tournament, and 1994’s had space graphics in honor of the moon landing’s 25th anniversary. There were some structural differences too, such as upgraded foam cores and improved water resistance. But by and large, the balls used the same design of 32 pentagonal panels stitched together.&nbsp; That changed in the 2006 World Cup in Germany, when Adidas introduced the +Teamgeist ball. It featured just 14 c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 05:53]
+标题: AI 编程独角兽 Cursor 欧洲总部落子伦敦，SpaceX 手握 600 亿美元收购选择权
+链接: https://www.ithome.com/0/961/868.htm
+正文: Cursor 将欧洲总部设在伦敦，计划招聘约 200 名员工，并在巴黎、慕尼黑等地开设小型办事处。SpaceX 拥有以 600 亿美元收购 Cursor 的选择权，或支付 100 亿美元开展全新合作。Cursor 目前 B2B 年化营收约 26 亿美元，客户包括英国航空、英国石油、诺基亚等。公司强调数据留存欧洲本地以满足监管合规，其平台支持用户用自然语言生成代码，主打模型中立，竞争对手包括 GitHub Copilot、OpenAI 和谷歌的同类产品。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 03:31]
+标题: 小米 MiMo 与 TileRT 联合发布 UltraSpeed 模式，1T 模型输出突破 1000 tokens/s
+链接: https://mp.weixin.qq.com/s/EZvmrx8xfM9MZNCMDwImFQ
+正文: 小米 MiMo 与 TileRT 联合发布 MiMo-V2.5-Pro-UltraSpeed 模式，使 1T 参数旗舰模型输出速度首次突破 1000 tokens/s。模型侧采用 FP4 混合量化（仅量化 MoE Expert）与 DFlash 块级 masked 并行推测解码（coding 场景平均接受长度 6.30 tokens）；系统侧 TileRT 引入常驻内核引擎与异构流水线协作。API 限时开放（2026 年 6 月 9 日至 23 日），定价为 MiMo-V2.5-Pro 的 3 倍，速度提升约 10 倍。FP4 权重与 DFlash 模型 checkpoint 已开源至 HuggingFace。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 02:19]
+标题: OpenAI 秘密提交 IPO 申请，奥特曼旗下 Tools for Humanity 裁员
+链接: https://www.ithome.com/0/961/792.htm
+正文: OpenAI 近日秘密提交 IPO 申请。其 CEO 山姆·奥特曼旗下的 Tools for Humanity 公司正裁员，该公司因虹膜扫描项目 World 及加密货币 Worldcoin 知名，投后估值 25 亿美元，获 Andreessen Horowitz 等投资。因营收困境，公司缩减规模。海外监管方面，肯尼亚以隐私和金融风险为由叫停运营，韩国因违反隐私法规罚款 83 万美元。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 02:01]
+标题: Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案
+链接: https://x.com/rohanpaul_ai/status/2064165951936094364
+正文: Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 01:19]
 标题: 开源工具 Tokei：在菜单栏实时监控 AI coding agent 的 token 用量与成本
@@ -136,11 +156,6 @@
 链接: https://x.com/kimmonismus/status/2064001045391462907
 正文: Hivemind发布面向AI编程智能体的持续学习功能，即日起开放。该工具收集团队运行的每个智能体（Claude Code、Codex、Cursor、Hermes、Pi）的轨迹，转化为可复用技能并推送到所有智能体，数据存储在用户自己的云存储中。内置SkillOpt使技能持续训练：Claude Code准确率提升+19.1分，Codex提升+24.8分，在全部52个测试设置中最佳或持平。开源，一行命令安装。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 14:37]
-标题: 小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型
-链接: https://x.com/XiaomiMiMo/status/2063993790587904362
-正文: 小米 MiMo 联合 TileRT_AI 发布 MiMo-V2.5-Pro-UltraSpeed，首次在 1 万亿参数 MoE 模型上实现超过 1，000 tokens/s 输出速度，仅用单台标准 8-GPGPU 节点（非 Cerebras 或 Groq 方案）。提供限时免费聊天体验，UltraSpeed API 价格为 3 倍，输出体验提升约 10 倍。申请时间为 6 月 8 日至 23 日（PDT），企业可邮件联系 business-mimo@xiaomi.com。
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 14:30]
 标题: VoxCPM2 技术报告发布
 链接: https://x.com/OpenBMB/status/2063991963133903317
@@ -216,16 +231,6 @@
 链接: https://x.com/PixVerse_/status/2063890444413706442
 正文: PixVerse 宣布 Creative Partner Program （CPP） 2.0 正式上线，面向 AI 视频创作者。该计划围绕真实创作：发布、测试、教学、故事片及公开推广新想法。核心福利包括：合格帖子每周最高可获得 150，000 credits；每周 $2，500 现金奖池，单个创作者单周最高 $850；对大项目、教程、测试内容和电影节投稿提供特别支持。参与者还可获得更多曝光、项目机会及与 PixVerse 共创的可能。申请可通过官网进行。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 05:54]
-标题: 腾讯混元联合多家机构发布首个音频编辑基准MMAE
-链接: https://x.com/TencentHunyuan/status/2063862263434613237
-正文: 腾讯混元联合上海交大、南洋理工等机构推出MMAE（Massive Multitask Audio Editing Benchmark），这是首个全面评估AI语音/音频编辑能力的基准。MMAE要求模型理解现有音频并按自然语言指令精确修改，而非简单生成。当前模型在该基准上的精确匹配率（EMR）低于5%，暴露了可靠音频编辑的短板。MMAE包含2000个真实场景高保真样本、17741条细粒度评估项，覆盖声音/音乐/语音及混合共7种模态、6种任务复杂度（基础修改到多跳推理及多轮编辑）、8种操作类型（局部到全局）。论文、代码、数据集和演示已公开。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-08 05:53]
-标题: 全球首个：高德发布3D原生城市世界模型ABot-Earth0.5
-链接: https://www.ithome.com/0/961/378.htm
-正文: 阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-08 18:34]
 标题: Analyst Report: Metlife Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3186_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -257,10 +262,10 @@
 链接: https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html
 正文: As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-09 02:13]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-09 06:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-09 02:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-09 06:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
