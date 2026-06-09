@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.09 23:13",
+      "title": "Anthropic发布安全版Mythos级模型Claude Fable 5，在多领域基准测试中几乎全线领先",
+      "summary": "Anthropic推出经过安全处理的Claude Fable 5模型，其在软件工程、知识工作、科研和视觉等多个基准测试中达到SOTA水平。该模型在处理复杂任务时优势明显，并内置安全机制，在高风险领域自动回退。此举被视为在AI能力与安全之间寻求平衡的关键一步。",
+      "stars": "★★★★",
+      "insight": "Anthropic通过发布能力强大但内置严格安全机制的模型，正在塑造下一代企业级AI的标准。Fable 5在编程等复杂任务上的表现，直接冲击现有AI编程助手市场（如GitHub Copilot、Cursor）的竞争格局。其安全回退机制为在高风险行业（如金融、医疗）的部署扫清了部分障碍，可能加速企业采用。这标志着模型竞争已从单纯追求能力上限，转向‘能力-安全-可控性’的综合比拼。",
+      "original_text": "Anthropic 发布 Claude Fable 5，这是经过安全处理的 Mythos 级模型，能力超越以往任何公开发布模型。它在软件工程、知识工作、科研和视觉等基准测试中几乎全线 SOTA，长任务越复杂领先越明显。在网络、生物化学、蒸馏等高风险领域，模型会自动回退至 Opus 4.8，平均每 20 次对话触发一次。同时，Anthropic 向少数可信的网络安全与关键基础设施团队开放完全版 Mythos 5，后续将扩大受信任访问。此举证明顶尖 AI 可在能力与安全之间同时达到极致。",
+      "full_translation": "Anthropic 发布 Claude Fable 5，这是经过安全处理的 Mythos 级模型，能力超越以往任何公开发布模型。它在软件工程、知识工作、科研和视觉等基准测试中几乎全线 SOTA，长任务越复杂领先越明显。在网络、生物化学、蒸馏等高风险领域，模型会自动回退至 Opus 4.8，平均每 20 次对话触发一次。同时，Anthropic 向少数可信的网络安全与关键基础设施团队开放完全版 Mythos 5，后续将扩大受信任访问。此举证明顶尖 AI 可在能力与安全之间同时达到极致。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.09 23:13",
+      "title": "摩根大通计划今年部署更强大的AI智能体，大型企业采用进入新阶段",
+      "summary": "摩根大通计划今年部署更强大的AI智能体，此举表明长期运行的AI智能体即将克服阻碍其在大公司内部采用的安全与治理障碍。",
+      "stars": "★★★★",
+      "insight": "摩根大通的动向是AI智能体从实验阶段迈向企业核心业务的关键信号。当金融巨头敢于在安全、合规要求极高的环境中部署长期自主运行的AI智能体时，意味着相关的治理框架和风险控制技术可能已取得突破性进展。这将为其他受严格监管的行业（如保险、资产管理）采用AI智能体铺平道路，并可能催生围绕‘AI治理’和‘合规自动化’的新服务市场。",
+      "original_text": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.",
+      "full_translation": "摩根大通的行动表明，长期运行的AI智能体即将克服阻碍其在大公司内部采用的安全与治理障碍。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.09 19:08",
       "title": "Anthropic发布Claude Fable 5与Mythos 5，在软件工程与科学推理基准上取得SOTA",
       "summary": "Anthropic推出两款新模型Claude Fable 5和Claude Mythos 5。Fable 5在软件工程、知识工作、科研等基准上达到SOTA，Stripe称其将数月工程压缩至数天，FrontierCode评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5在药物设计中实现约10倍加速，其分子生物学假说盲测获科学家偏好的概率约80%。",
