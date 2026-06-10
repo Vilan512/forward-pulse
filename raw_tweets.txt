@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-10 20:14:24
-# 共计 59 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-10 22:48:29
+# 共计 58 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-10 12:10]
 标题: The Download: the “steroid olympics” and a safer Mythos
@@ -10,6 +10,11 @@
 标题: The “steroid olympics” were a circus—and a window into our culture
 链接: https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/
 正文: Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes who could break world records and usher in the age of superhumanity. On Sunday, May 24, at a $50 million arena built in a casino parking lot in Las Vegas, I witnessed a libertarian thought experiment come to life. The inaugural Enhanced Games were the first sporting competition where participants were encouraged to take performance-enhancing drugs. The founders say they’re challenging dated sporting norms and helping to build a world where we can all live better, longer lives. Critics say the event is an embarrassment, that it glamorizes the use of dangerous substances and puts lives at risk.&nbsp; The open-air venue was compact and decked out in bright blue, with a six-lane, 100-meter track down one side, a four-lane Olympic-length swimming pool down the other, and a weightlifting platform and stage at the front. You could see the golden façade of the Trump Hotel looming in the background. The scene had all the trappings of an NFL game, with the too-loud music and crowd work on the big screen—a “flex cam”&nbsp; gave the well-muscled an excuse to unveil their biceps. Between events, adverts flashed up for the line of performance products sold by Enhanced, the company behind the event: injectable peptides that supposedly support cellular energy and skin elasticity, daily supplement powders with names like “Stronger” and “Longer.” SAEED RAHBARAN SAEED RAHBARAN Australian swimmer James Magnussen was the first athlete to sign up with Enhanced but hasn&#8217;t broken any world records. He finished last in his two events in Las Vegas. The day started with t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-10 20:00]
+标题: 通过 Oracle 云承诺访问 OpenAI 模型和 Codex
+链接: https://openai.com/index/openai-on-oracle-cloud
+正文: OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-10 19:28]
 标题: MiniMax M3 上链 0G，限时免费运行
@@ -101,6 +106,11 @@
 链接: https://www.bloomberg.com/news/videos/2026-06-10/inside-anthropic-the-965-billion-ai-juggernaut-video
 正文: Emily Chang 与 Anthropic 联合创始人 Dario 和 Daniela Amodei 进行罕见深度对话，探讨创业起源、与五角大楼的摩擦，以及该公司如何在激烈的 AI 竞赛中将安全置于首位。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-10 12:00]
+标题: Cursor Bugbot 更新：速度提升超 3 倍、成本降低 22%、发现更多 Bug
+链接: https://cursor.com/blog/bugbot-updates-june-2026
+正文: Cursor 的代码审查工具 Bugbot 迎来重大更新：运行速度提升超 3 倍，成本降低 22%，每轮审查多发现 10% 的 bug，90% 的运行在三分钟内完成。新增 `/review` 命令，可在推送代码前运行 Bugbot 和安全审查，并与 GitHub/GitLab 同步--若已通过 `/review` 审查过同一 diff，打开 PR 时 Bugbot 会自动跳过并备注。支持配置仅审查 PR 中新增内容。性能提升源于驱动 Bugbot 的 Composer 2.5 模型训练改进。Bugbot 遵循模型阻止列表，若组织禁用 Composer 2.5 则自动回退。该功能已在 Cursor 3.7+ 和 cursor.com/agents 上线，CLI 支持即将推出。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-10 09:43]
 标题: 百度百舸联合复旦提出LU-KV框架，被ICML 2026录用
 链接: https://mp.weixin.qq.com/s/oKhawmph49YYPR63T-ekaw
@@ -171,21 +181,6 @@
 链接: https://x.ai/news/grok-etoro
 正文: 6 月 10 日，eToro 宣布其 AI 智能体 Tori 集成来自 SpaceXAI 的文本模型，能够从 X 平台实时读取市场情绪变化、追踪信号并分析信息。Tori 现已在 eToro 的投资流程中嵌入该能力，支持用户以自然语言查询和解读市场情绪。eToro 拥有超过 4000 万注册用户，覆盖 75 个国家。该功能基于 SpaceXAI API 构建，其他开发团队也可通过 API 控制台在数分钟内搭建类似应用，如研究助手或情绪看板。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 21:48]
-标题: IBM CEO：AI不一定导致员工减少
-链接: https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video
-正文: IBM CEO Arvind Krishna表示AI不会必然导致员工数量减少。他透露IBM已在量子计算（一种更快形式的AI）上投资100亿美元，并指出联邦政府承诺投入10亿美元在纽约Albany建设芯片制造设施，体现了公私部门间的紧密合作。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 21:35]
-标题: 在 AgentsView 中为 Claude Fable 5 设置自定义价格
-链接: https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price
-正文: Wes McKinney 开发的 AgentsView 是一个用于追踪本地编码智能体 token 使用情况的工具。由于近日发布的 Claude Fable 5 尚未被收录进 AgentsView 的定价数据库，作者利用 Fable 逆向工程，找到了为该模型设置自定义价格的方法，并展示了 Fable 5 当天在不同本地项目中的使用量树状图。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-09 21:24]
-标题: Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购
-链接: https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment
-正文: Super Micro Computer Inc. 计划通过一揽子股权融资筹集 70 亿美元，用于购买客户订单所需的 AI 服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-10 11:18]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47283_TechnicalAnalysis_1781090326000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -210,9 +205,10 @@
 标题: Daily – Vickers Top Insider Picks for 06/10/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47279_InsiderActivity_1781087605000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-10 10:33]
-标题: Daily – Vickers Top Buyers & Sellers for 06/10/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47280_TopBottomInsiderActivity_1781087605000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-10 21:51]
+标题: Citigroup shares outperform down market after Trump endorsement
+链接: https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html
+正文: Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-10 16:59]
 标题: Stocks making the biggest moves midday: Super Micro, Cracker Barrel, Robinhood Markets, truckers & more
@@ -255,31 +251,31 @@
 正文: Bold moves to redefine growth in Germany.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?
-链接: https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn
+标题: Launch of China Auto Consumer Survey, 2026
+链接: https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
 标题: AI usage among white-collar workers and students in Hong Kong: survey findings
 链接: https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Launch of China Auto Consumer Survey, 2026
-链接: https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Europe’s new e‑commerce agenda: How AI is resetting growth and competition
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition
-正文: From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage.
+标题: Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?
+链接: https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
 标题: Rewiring retail in Europe: The AI imperative
 链接: https://www.mckinsey.com/industries/retail/our-insights/rewiring-retail-in-europe-the-ai-imperative
 正文: AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion to €320 billion opportunity at stake.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-10 20:14]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
+标题: Europe’s new e‑commerce agenda: How AI is resetting growth and competition
+链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition
+正文: From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-10 22:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-10 20:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-10 22:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
