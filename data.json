@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.10 14:55",
+      "title": "对冲基金Magnetar Capital以数百AI智能体替代人类分析师",
+      "summary": "管理着180亿美元资产的对冲基金Magnetar Capital宣布，在其最新产品中完全避免使用人类分析师，转而依靠数百个AI智能体进行股票研究。AI负责搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仅负责最终交易的批准。这标志着AI在金融投资核心决策环节的应用进入一个全新阶段。",
+      "stars": "★★★★",
+      "insight": "这不再是简单的自动化工具，而是AI智能体集群直接取代高价值、高认知负荷的分析师团队。它揭示了两个未来6-18个月的关键趋势：1) AI应用正从提升效率的‘助手’角色，转向自主执行复杂、多步骤的‘代理’角色，尤其在金融等数据密集型行业。2) 这将对传统金融业的人才结构和职业路径产生根本性冲击，可能引发其他大型资管机构的效仿，加速行业洗牌。",
+      "original_text": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。 这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
+      "full_translation": "Bloomberg：Magnetar Capital，这家180亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个AI智能体进行股票研究。这家180亿美元的对冲基金公司希望AI搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
+      "source_name": "Bloomberg",
+      "source_url": "https://x.com/rohanpaul_ai/status/2064524448582267047"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.10 14:55",
+      "title": "Anthropic发布Claude Fable 5与Mythos 5，定义AI智能体新能力边界",
+      "summary": "Anthropic正式推出Claude Fable 5（通用安全版）和Claude Mythos 5（受限安全版）。Fable 5在软件工程、知识工作等基准上达到SOTA，能仅凭截图重建网页应用源码，并被评价为像与一位资深工程师合作。Mythos 5在药物设计中实现约10倍加速。两者均大幅降价，且Fable 5在安全触发率上表现更优。",
+      "stars": "★★★★★",
+      "insight": "Fable 5的发布标志着AI编程助手从‘代码补全’向‘深度理解与复杂项目构建’的质变。其‘仅凭截图重建源码’的能力，将极大降低原型开发、逆向工程和遗产系统现代化的门槛。结合其降价和更优的安全记录，它将加速AI编码智能体在企业开发流程中的渗透。Mythos 5在科研领域的表现则预示着AI将在药物发现等硬科学领域产生更直接、更快速的商业价值，吸引跨行业资本投入。",
+      "original_text": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
+      "full_translation": "Anthropic今日推出Claude Fable 5（通用安全版）和Claude Mythos 5（受限安全版）。Fable 5在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到SOTA，Stripe称其将数月工程压缩至数天，FrontierCode评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5在药物设计中实现约10倍加速，其分子生物学假说盲测获科学家偏好的概率约80%。两模型售价均为$10/百万输入tokens、$50/百万输出tokens，较Claude Mythos Preview降价过半。Fable 5在部分敏感主题上回退至Claude Opus 4.8，安全触发率低于5%的会话。Mythos 5通过Project Glasswing向网络安全防御者开放。",
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.10 14:55",
+      "title": "Super Micro股价暴跌，70亿美元股权融资凸显AI硬件扩张的资本代价",
+      "summary": "AI服务器巨头Super Micro Computer股价大跌，此前公司宣布计划通过股权融资筹集70亿美元，用于购买客户订单所需的AI服务器组件。此举旨在扩大产能以满足激增的AI基础设施需求，但市场对巨额融资可能稀释股权以及公司资本密集度上升的担忧反应剧烈。",
+      "stars": "★★★",
+      "insight": "Super Micro的融资计划是当前AI投资热潮的一个关键压力测试。它暴露了产业链中游（硬件组装与集成）面临的巨大资本支出压力。尽管需求旺盛，但扩张所需的巨额现金可能侵蚀股东价值并增加财务风险。这预示着，未来6-18个月，AI硬件领域的竞争将不仅是技术竞赛，更是资本获取和财务稳健性的比拼。投资者需更加关注相关公司的现金流和融资能力，而非单纯的需求叙事。",
+      "original_text": "Super Micro Computer Inc. 计划通过一揽子股权融资筹集 70 亿美元，用于购买客户订单所需的 AI 服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。",
+      "full_translation": "Super Micro Computer Inc. 计划通过一揽子股权融资筹集70亿美元，用于购买客户订单所需的AI服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.10 11:31",
       "title": "Anthropic发布Claude Fable 5与Mythos 5，性能登顶并降价超半",
       "summary": "Anthropic发布Claude Fable 5（通用安全版）和Claude Mythos 5（受限安全版）。Fable 5在多项基准测试中达到SOTA，Mythos 5在药物设计等领域实现约10倍加速。两款模型售价较前代大幅降低。",
