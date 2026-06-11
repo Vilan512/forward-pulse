@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.11 21:16",
+      "title": "DeepMind 警告：百万AI智能体大规模交互将催生全新风险类别",
+      "summary": "谷歌DeepMind联合多方机构，投入1000万美元研究多智能体系统的潜在危险。随着AI智能体在无人监督下执行任务并相互指令，大规模交互可能触及临界点，将假设场景变为现实。",
+      "stars": "★★★★",
+      "insight": "这标志着AI安全研究的重大转向：从单个模型的对齐问题，扩展到复杂智能体社会的涌现行为。当AI代理开始大规模协作时，其交互产生的非预期后果可能远超单个代理的风险总和，类似于人类制度可以完成个体无法想象之事。这1000万美元的资助反映了行业对即将到来的、由海量自主代理构成的‘AI社会’的深层担忧。",
+      "original_text": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a whole new class of risk. ... The main issue is that there just isn’t really a field of research for multi-agent safety yet. And we would like there to be. ... We see this with humanity, too. Our institutions can accomplish things that no individual human can.",
+      "full_translation": "谷歌DeepMind正资助研究当数百万个不同AI智能体在线上交互时产生的潜在危险。该公司AGI安全与对齐研究负责人Rohin Shah表示，能够执行无人监督的任务并遵循其他智能体指令的代理大规模市场投放，催生了一个全新的风险类别。...主要问题在于，目前实际上还没有一个研究多智能体安全的领域。我们希望有这样一个领域。...我们在人类身上也能看到这一点。我们的制度可以完成任何个体人类无法完成的事情。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.11 21:16",
+      "title": "Sam Altman：AGI时间线正持续加速，需重新定义AGI",
+      "summary": "OpenAI首席执行官Sam Altman透露，其最新内部基准测试显示，当前模型在复杂任务上达到人类水平推理能力的差距正以超乎2024年预期的速度收窄。他提出，在真正达到AGI之前，可能需要重新审视其定义。",
+      "stars": "★★★★★",
+      "insight": "这是来自AGI前沿领导者的直接、坦率的技术评估。其言论蕴含两个关键颠覆性信号：第一，AGI（通用人工智能）的实现时间表比行业共识可能大幅提前，这将剧烈冲击现有科技公司的研发路线图、投资者估值模型乃至社会准备；第二，‘AGI’本身的定义可能正在失效，因为它预设了一个清晰的、以人类为基准的终点线，而AI能力的连续、指数级增长可能模糊这一界限，迫使我们以全新的范式来理解即将到来的智能形态。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚刚查看了我们最新的内部基准测试。当前模型在复杂任务上达到人类水平推理能力的差距，正以比我们2024年任何预测都更快的速度收窄。在真正达到那里之前，我们可能需要重新审视‘AGI’到底意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.11 21:16",
+      "title": "微软CEO纳德拉：下一平台转移是具身智能AI，决定未来十年制造业",
+      "summary": "微软CEO萨提亚·纳德拉指出，AI正在从生成文本和图像转向操控物理原子。他认为机器人基础模型正处于大语言模型（LLMs）在2020年的发展阶段，而攻克仿真到现实（sim-to-real）迁移问题的公司将定义未来十年的制造业。",
+      "stars": "★★★★",
+      "insight": "这明确指出了继生成式AI之后，下一个万亿级产业投资和技术竞争的核心战场：具身智能（Embodied AI）。纳德拉将机器人基础模型类比为2020年的LLMs，这暗示了该领域可能即将迎来类似GPT-3的突破性时刻，并开启指数级发展。其核心瓶颈‘仿真到现实迁移’的突破，将直接决定AI能否从数字领域大规模进入实体经济，重塑从物流、仓储到高端制造的全球产业链格局。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个AI不仅生成文本和图像，而且操控原子的时代。机器人基础模型正处于大语言模型在2020年所处的阶段。攻克仿真到现实迁移问题的公司将定义未来十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 18:08",
       "title": "Google DeepMind 警告：数百万 AI 智能体交互将带来全新风险",
       "summary": "Google DeepMind 担忧，当数百万个无需人类监督、可执行任务并遵循其他智能体指令的 AI 智能体大规模部署并交互时，可能引发全新的、无法预见的风险。为此，公司联合多家机构投入1000万美元，旨在启动学术界对“多智能体安全”这一新兴领域的系统研究。",
