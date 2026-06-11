@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.11 23:15",
+      "title": "谷歌 DeepMind 警告：数百万 AI 智能体大规模交互将引发全新安全风险",
+      "summary": "谷歌 DeepMind 担忧大规模 AI 智能体自主交互可能带来的系统性风险，联合多方设立 1000 万美元研究基金，旨在建立多智能体安全研究新领域。",
+      "stars": "★★★★★",
+      "insight": "这标志着 AI 安全议题从单个模型的对齐问题，跃迁至复杂动态系统的宏观风险管控。当数百万自主执行任务的智能体开始相互指令与协作时，其涌现出的行为可能完全超出设计者的预期，形成类似金融市场的系统性风险或不可控的群体智能。DeepMind 的联合资助行为，既是未雨绸缪，也暗示了行业对 AI 代理（Agent）规模化部署后失控可能性的真实焦虑。这可能是 AI 泡沫破裂后，监管和伦理审查的第一个实质性风暴眼。",
+      "original_text": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a whole new class of risk. In an effort to address this, Google DeepMind—which made agent-based tools a centerpiece of Google I/O last month—has teamed up with several other organizations to announce a $10 million funding pot for researchers to study the behavior of multi-agent systems and come up with ways to prevent unsafe scenarios.",
+      "full_translation": "谷歌 DeepMind 正在资助对数百万不同 AI 智能体在线上相互交互的潜在危险情况的研究。据该公司的 AGI 安全与对齐研究主管 Rohin Shah 介绍，能够执行任务而无需人类监督并遵循其他智能体指令的智能体的大规模市场出现，创造了一整类新的风险。为了解决这个问题，上个月在 Google I/O 上将基于智能体的工具作为核心内容的谷歌 DeepMind 已与多个其他组织合作，宣布了一项 1000 万美元的研究资助，用于研究人员研究多智能体系统的行为并提出防止不安全情况的方法。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.11 23:15",
+      "title": "Spacex IPO 预计估值 1.8 万亿美元，散户份额遭大幅压缩",
+      "summary": "埃隆·马斯克领导的 SpaceX 计划以近 1.8 万亿美元估值进行 IPO，但将散户配售比例大幅削减至 20% 出头。",
+      "stars": "★★★★",
+      "insight": "SpaceX 的天价估值 IPO 是 2026 年金融市场流动性与风险偏好的终极压力测试。将散户配售比例压低至 20% 左右，实际上是在为机构投资者“锁仓”，防止在天文数字估值下出现散户踩踏。这一操作预示着科技独角兽上市策略正在转向更保守、更机构化，同时也反映出当前市场对极端高估值资产的承接能力存在分歧。对于二级市场投资者而言，这意味着错过一级市场红利的散户可能面临更少的直接参与机会，只能通过二级市场交易溢价资产。",
+      "original_text": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
+      "full_translation": "据知情人士透露，这家由埃隆·马斯克领导的公司计划将发行中 20% 出头的比例分配给散户买家。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.11 23:15",
+      "title": "KKR 中期展望：AI 生产力繁荣将持续，但需警惕“19世纪级”极端分化",
+      "summary": "私募巨头 KKR 在中期展望中指出，AI 将在未来多年推动经济增长，但仅限于特定行业，且可能引发类似 19 世纪的极端社会经济分化。",
+      "stars": "★★★★",
+      "insight": "KKR 作为万亿资管巨头，其观点极具机构投资者风向标意义。将 AI 影响力类比为 19 世纪的工业革命，意味着本轮技术变革不仅是生产力的提升，更是财富与权力结构的重塑。报告中提到的“特定行业”受益，提示投资者应警惕无差别做多 AI 的策略，转而关注那些能切实将 AI 融入业务流程并实现降本增效的实体行业龙头，而非纯粹的 AI 概念股。同时，“极端分化”的预警暗示了未来资产价格的波动性将加剧，宏观对冲策略的重要性上升。",
+      "original_text": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to coming, but only in specific sectors.",
+      "full_translation": "KKR 在周四的年中展望中表示，人工智能将在未来几年推动经济增长，但仅限于特定行业。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 21:16",
       "title": "DeepMind 警告：百万AI智能体大规模交互将催生全新风险类别",
       "summary": "谷歌DeepMind联合多方机构，投入1000万美元研究多智能体系统的潜在危险。随着AI智能体在无人监督下执行任务并相互指令，大规模交互可能触及临界点，将假设场景变为现实。",
