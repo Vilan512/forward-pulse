@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-10 22:48:29
-# 共计 58 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-11 00:10:01
+# 共计 50 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-10 12:10]
 标题: The Download: the “steroid olympics” and a safer Mythos
@@ -176,11 +176,6 @@
 链接: https://x.com/shao__meng/status/2064508455051043008
 正文: 开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；支持通过 Skottie Slots + controls.json 调整颜色、尺寸；Agent 可用 URL 参数 `？frame=60&amp;paused=1` 精确定位帧截图。Prompt 指南包括：给具体素材、使用动效术语、pan/zoom/hold 模拟镜头、显式声明 Slots、锁定时间规格。适合单场景短时长 Motion Graphics、SVG→Lottie、数据可视化、透明背景矢量动效；不适合多镜头剪辑、复杂角色绑定、粒子、3D 或需 lottie-web 全特性的场景。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-10 00:00]
-标题: eToro AI 智能体 Tori 集成 SpaceXAI 文本模型实现实时市场情绪分析
-链接: https://x.ai/news/grok-etoro
-正文: 6 月 10 日，eToro 宣布其 AI 智能体 Tori 集成来自 SpaceXAI 的文本模型，能够从 X 平台实时读取市场情绪变化、追踪信号并分析信息。Tori 现已在 eToro 的投资流程中嵌入该能力，支持用户以自然语言查询和解读市场情绪。eToro 拥有超过 4000 万注册用户，覆盖 75 个国家。该功能基于 SpaceXAI API 构建，其他开发团队也可通过 API 控制台在数分钟内搭建类似应用，如研究助手或情绪看板。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-10 11:18]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47283_TechnicalAnalysis_1781090326000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -240,42 +235,10 @@
 链接: https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html
 正文: A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: The art, science, and technology of geopolitical scenario planning
-链接: https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-art-science-and-technology-of-geopolitical-scenario-planning
-正文: Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to select and apply five instruments of foresight.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Productivity reimagined
-链接: https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined
-正文: Bold moves to redefine growth in Germany.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Launch of China Auto Consumer Survey, 2026
-链接: https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: AI usage among white-collar workers and students in Hong Kong: survey findings
-链接: https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?
-链接: https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Rewiring retail in Europe: The AI imperative
-链接: https://www.mckinsey.com/industries/retail/our-insights/rewiring-retail-in-europe-the-ai-imperative
-正文: AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion to €320 billion opportunity at stake.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-10 00:00]
-标题: Europe’s new e‑commerce agenda: How AI is resetting growth and competition
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition
-正文: From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-10 22:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-11 00:10]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-10 22:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-11 00:10]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
