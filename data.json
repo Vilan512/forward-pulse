@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.11 18:08",
+      "title": "Google DeepMind 警告：数百万 AI 智能体交互将带来全新风险",
+      "summary": "Google DeepMind 担忧，当数百万个无需人类监督、可执行任务并遵循其他智能体指令的 AI 智能体大规模部署并交互时，可能引发全新的、无法预见的风险。为此，公司联合多家机构投入1000万美元，旨在启动学术界对“多智能体安全”这一新兴领域的系统研究。",
+      "stars": "★★★★",
+      "insight": "这是 AI 从单一对话工具迈向大规模自主行动体（Agentic AI）过程中的一个关键拐点。风险不再局限于单个模型的对齐或幻觉，而是涌现于复杂、无监督的智能体网络交互之中，类似于人类社会机构的不可预测性。DeepMind 的动作表明，顶尖实验室已将此视为比模型能力更紧迫的系统性挑战。这标志着“AI 安全”的研究范畴正在从模型层面扩展到系统生态层面，可能催生一个全新的研究与治理领域。对于依赖自动化工作流的企业，这意味着未来的“智能体集群”需要内置复杂的风险评估与隔离机制。",
+      "original_text": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a whole new class of risk. In an effort to address this, Google DeepMind—which made agent-based tools a centerpiece of Google I/O last month—has teamed up with several other organizations to announce a $10 million funding pot for researchers to study the behavior of multi-agent systems and come up with ways to prevent unsafe scenarios. Joining Google DeepMind are Schmidt Sciences, a philanthropic foundation set up by Eric and Wendy Schmidt; ARIA, the UK government’s moonshot agency; the Cooperative AI foundation, a UK-based nonprofit research outfit; and Google’s charitable arm, Google.org. I asked Shah and James Fox, who leads the Science of Trustworthy AI program at Schmidt Sciences, what they hope to achieve with that $10 million. It’s no small sum, but it’s dwarfed by the budgets commanded by Google DeepMind’s own research teams. The aim is to kick-start research outside tech companies, says Shah: “The strength of academia is that it can look really quite far into the future and do the kind of work that isn’t top of mind at industry labs.” “The main issue is that there just isn’t really a field of research for multi-agent safety yet,” he adds. “And we would like there to be.” The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real. “We see this with humanity, too,” says Shah. “Our institutions can accomplish things that no individual human can.” Shah thinks we have a few more months to go before agents are deployed throughout the economy in numbers that make potential risks a real concern.",
+      "full_translation": "谷歌 DeepMind 正在资助一项研究，针对数百万个不同的人工智能智能体在线相互交互的潜在危险。据该公司 AGI 安全与对齐研究主管 Rohin Shah 表示，那些无需人类监督即可执行任务并遵循其他智能体指令的智能体的大规模市场到来，创造了一类全新的风险。为了解决这个问题，谷歌 DeepMind——上个月在谷歌 I/O 大会上将基于智能体的工具作为核心——已联合其他几个组织宣布了一个 1000 万美元的资金池，供研究人员研究多智能体系统的行为，并想出防止不安全情况的方法。加入谷歌 DeepMind 的有施密特科学基金会（由埃里克和温迪·施密特设立的慈善基金会）、英国政府的登月机构 ARIA、总部位于英国的非营利研究机构合作人工智能基金会（Cooperative AI foundation），以及谷歌的慈善机构 Google.org。我询问了 Shah 和负责施密特科学基金会可信人工智能科学项目的 James Fox，他们希望通过这 1000 万美元实现什么。这不是一笔小数目，但与谷歌 DeepMind 自己研究团队所掌握的预算相比就相形见绌了。Shah 说，目标是在科技公司之外启动研究：“学术界的优势在于，它可以看得相当远，做那些在工业实验室里并不迫切的工作。”他补充道：“主要问题是，目前实际上还没有一个针对多智能体安全的研究领域。而我们希望有这样一个领域。”他们的担忧是，随着越来越多的人工智能智能体被部署并开始协同工作，我们可能会达到一个临界点，届时想象中的情景会成为现实。“我们在人类身上也看到了这一点，”Shah 说。“我们的机构可以完成任何单个人类都无法完成的事情。”Shah 认为，在智能体在整个经济中部署的数量达到使潜在风险成为真正令人担忧的问题之前，我们还有几个月的时间。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.11 18:08",
+      "title": "Anthropic CEO 警告：AI 可能造成结构性大规模失业，需政策干预",
+      "summary": "Anthropic CEO 达里奥·阿莫迪发出明确警告，认为 AI 造成的大规模、长期性岗位流失是技术的固有属性，而非偶然副作用。他提出了一套包含实时监测、薪资保障、培训补贴乃至“全民基本收入”的应对政策框架，并强调 Anthropic 的商业目标是帮企业创造新价值，而非削减人力成本。",
+      "stars": "★★★★",
+      "insight": "这标志着行业领袖从“AI 提效工具”的叙事，正式转向直面“AI 替代劳动力”的社会性破坏。阿莫迪的言论具有两面性：一方面，它为即将到来的结构性失业问题提前吹风、设置议程；另一方面，也试图为 Anthropic 塑造“负责任 AI 倡导者”的形象，将竞争从纯粹的技术军备竞赛，扩展到政策影响力与社会信任的层面。他的政策提案（尤其是全民基本收入）为政府干预提供了蓝图。对于投资者而言，这预示着未来围绕“AI 税”、“再培训基金”和“人机协作合规”的监管和商业机会将快速涌现。企业需提前评估其工作流程中哪些环节可能被完全自动化，并制定相应的人才转型计划。",
+      "original_text": "Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。",
+      "full_translation": "Anthropic CEO 达里奥・阿莫迪警告，AI 造成的大规模岗位流失是技术固有属性——AI 系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic 目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.ithome.com/0/962/854.htm"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 14:31",
       "title": "Google DeepMind 研究多智能体交互风险，投入千万美元设立基金",
       "summary": "Google DeepMind 担忧数百万 AI 智能体在线交互可能带来全新风险，联合多家机构设立 1000 万美元研究基金，旨在推动多智能体安全这一新兴领域的发展。",
