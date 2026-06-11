@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.11 14:31",
+      "title": "Google DeepMind 研究多智能体交互风险，投入千万美元设立基金",
+      "summary": "Google DeepMind 担忧数百万 AI 智能体在线交互可能带来全新风险，联合多家机构设立 1000 万美元研究基金，旨在推动多智能体安全这一新兴领域的发展。",
+      "stars": "★★★★",
+      "insight": "这标志着 AI 安全研究正从单个模型对齐扩展到复杂多智能体生态系统的对齐与安全。随着 AI 智能体在经济中的部署规模即将达到临界点，对不可预测涌现行为和系统性风险的研究变得至关重要。此举既是技术前瞻布局，也是为应对未来监管压力和公众担忧做准备。",
+      "original_text": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a whole new class of risk. In an effort to address this, Google DeepMind—which made agent-based tools a centerpiece of Google I/O last month—has teamed up with several other organizations to announce a $10 million funding pot for researchers to study the behavior of multi-agent systems and come up with ways to prevent unsafe scenarios.",
+      "full_translation": "Google DeepMind 正在资助关于数百万个不同 AI 智能体在线交互情境潜在危险的研究。该公司 AGI 安全与对齐研究负责人 Rohin Shah 表示，能够无需人工监督执行任务并遵循其他智能体指令的智能体的大规模市场出现，带来了一类全新的风险。为了解决这一问题，上个月在 Google I/O 上将智能体工具作为核心推出的 Google DeepMind，已与其他几个组织联合宣布了一项 1000 万美元的资金池，供研究人员研究多智能体系统的行为并提出防止不安全场景的方法。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.11 14:31",
+      "title": "Anthropic 研究显示 AI 可数小时内将安全补丁转化为漏洞利用",
+      "summary": "Anthropic 安全团队发现，其 AI 模型能在数小时内将安全补丁转化为可用的漏洞利用，成本低廉且无需专业知识，挑战了传统的补丁修复节奏。",
+      "stars": "★★★★★",
+      "insight": "这项研究颠覆了传统的网络安全防御模型。漏洞利用窗口从数周被压缩至数小时，这意味着依赖供应商发布补丁后手动修复的模式已彻底过时。它预示着自动化、AI 驱动的网络攻防将成为常态，并对关键基础设施、金融系统和企业安全构成迫在眉睫的威胁，将迫使整个行业重新思考零信任架构和实时威胁检测的边界。",
+      "original_text": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
+      "full_translation": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
+      "source_name": "AI_HOT",
+      "source_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.11 14:31",
+      "title": "KKR：AI 生产率繁荣将持续，但警告出现19世纪以来未见的“极端”趋势",
+      "summary": "私募巨头 KKR 在年中展望中表示，AI 将在未来数年推动经济增长，但仅限于特定行业，并警告出现了自19世纪以来未见的“极端”趋势。",
+      "stars": "★★★★",
+      "insight": "KKR 的观点揭示了 AI 投资的核心矛盾：宏观叙事（AI 驱动经济增长）与微观现实（仅特定行业受益）之间的差距。这暗示了市场可能出现分化，那些无法有效利用 AI 提升生产力的行业和公司可能被时代抛弃。所谓的“极端”趋势，很可能指向技术带来的生产率和利润分配的极端不平等，这将深刻影响未来的投资策略和资产定价逻辑。",
+      "original_text": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.",
+      "full_translation": "KKR 在其周四发布的年中展望中表示，人工智能将在未来数年推动经济增长，但仅限于特定行业。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 10:09",
       "title": "Anthropic 研究：AI 数小时内即可从安全补丁构建漏洞利用",
       "summary": "Anthropic 安全团队发现，其 AI 模型能在数小时内将公开的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。这表明传统的补丁分发和响应节奏可能已不适用于 AI 时代。",
