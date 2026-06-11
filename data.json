@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.11 05:22",
+      "title": "Anthropic 研究揭示 AI 数小时内即可从安全补丁构建漏洞利用",
+      "summary": "Anthropic 安全团队的研究表明，其 Mythos Preview AI 模型能在几小时内将公开的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。这挑战了传统的补丁更新节奏，并凸显了 AI 在网络安全攻防两端的破坏性潜力。",
+      "stars": "★★★★★",
+      "insight": "这项研究揭示了一个颠覆性的安全范式转变：攻击者利用AI自动化漏洞利用开发的周期从“周”被压缩到“小时”。传统的“补丁发布-用户更新”防御模型面临根本性挑战，因为攻击窗口期几乎消失。对于网络安全行业，这意味着防御方必须同样采用AI进行实时漏洞检测与自动修复，否则将处于永久性劣势。对于软件开发者而言，安全左移和自动化补丁验证的需求将空前迫切。",
+      "original_text": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
+      "full_translation": "Anthropic的安全团队发现，其Mythos Preview AI模型能在几小时内将Firefox和Windows内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成8条完整攻击链。Anthropic认为传统的补丁节奏已经过时。",
+      "source_name": "AI_HOT",
+      "source_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.11 05:22",
+      "title": "法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任",
+      "summary": "一项法律裁决首次判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。这一判决为全球范围内 AI 生成内容的责任归属树立了关键先例，可能迫使所有 AI 开发者重新评估其模型的可靠性、透明度和法律风险。",
+      "stars": "★★★★",
+      "insight": "这一裁决将“幻觉”从技术缺陷升级为可诉的法律风险，直接冲击所有生成式AI公司的商业模式和产品设计。短期内，企业将被迫投入更多资源用于事实核查、内容溯源和可控生成技术。长期看，AI产品的部署范围可能因潜在的无限责任而受到限制，特别是在医疗、法律、金融等高风险领域。这可能加速“可信AI”技术和相关保险市场的发展。",
+      "original_text": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
+      "full_translation": "一项法律裁决判定Google对其AI模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
+      "source_name": "AI_HOT",
+      "source_url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.11 05:22",
+      "title": "谷歌 DeepMind 发布开源文本扩散模型 DiffusionGemma，实现4倍速度提升",
+      "summary": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术突破自回归生成方式，实现4倍文本生成速度提升。其 26B MoE 架构仅激活 3.8B 参数，量化后适配消费级 GPU，面向本地交互式工作流，以 Apache 2.0 许可证开放。",
+      "stars": "★★★★",
+      "insight": "DiffusionGemma 标志着文本生成范式从自回归向并行扩散的重要探索。其核心价值不在于绝对性能超越顶尖自回归模型，而在于以极高的推理效率和在消费级硬件上的可部署性，为本地化、实时交互的AI应用（如代码补全、内联编辑）开辟了新路径。这可能催生一批专注于低延迟、隐私敏感场景的AI原生应用，并挑战当前由大型云端API主导的市场格局。",
+      "original_text": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术，突破自回归逐 token 生成方式，每次前向并行生成 256 个 token。该 26B MoE 模型推理时仅激活 3.8B 参数，量化后适配 18GB 显存消费级 GPU。在 H100 上达 1000+ tokens/s，RTX 5090 上 700+ tokens/s，速度提升 4 倍。具备双向注意力和自我修正能力，面向内联编辑、代码填充等本地交互工作流，以 Apache 2.0 许可证开放。",
+      "full_translation": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术，突破自回归逐 token 生成方式，每次前向并行生成 256 个 token。该 26B MoE 模型推理时仅激活 3.8B 参数，量化后适配 18GB 显存消费级 GPU。在 H100 上达 1000+ tokens/s，RTX 5090 上 700+ tokens/s，速度提升 4 倍。具备双向注意力和自我修正能力，面向内联编辑、代码填充等本地交互工作流，以 Apache 2.0 许可证开放。",
+      "source_name": "AI_HOT",
+      "source_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 00:10",
       "title": "Anthropic研究揭示AI模型可在数小时内将安全补丁转化为漏洞利用",
       "summary": "Anthropic安全团队发现，其最新AI模型Mythos Preview能在几小时内将安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。这一发现挑战了传统的软件安全补丁节奏，可能对网络安全行业产生颠覆性影响。",
