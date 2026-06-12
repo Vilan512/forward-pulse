@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.12 15:56",
+      "title": "MiniMax发布M3开源权重模型，融合编码、长上下文与多模态能力",
+      "summary": "MiniMax发布并开源了其最新的权重模型M3，该模型拥有约428B总参数和23B激活参数。它融合了三种前沿能力：在编码与智能体任务上取得领先成绩（如SWE-Bench Pro 59.0%），通过稀疏注意力技术将上下文窗口扩展至1M token，并具备原生多模态能力。模型权重和技术报告预计将在约10天后发布。",
+      "stars": "★★★★",
+      "insight": "MiniMax M3的发布标志着开源大模型竞赛进入了一个新的维度，不再仅仅追求参数规模，而是将编码智能体、超长上下文理解和原生多模态这三种对商业化落地至关重要的能力进行深度融合。这预示着未来6-18个月内，具备复杂任务执行、长文档处理和跨模态理解能力的“全能型”开源模型将成为主流，直接冲击专用工具链市场，并加速AI Agent从概念到生产环境的部署。",
+      "original_text": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
+      "full_translation": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/MiniMax_AI/status/2065436935188058208"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.12 17:05",
+      "title": "SpaceX IPO创纪录首日交易引发市场狂热，Robinhood流量创新高",
+      "summary": "SpaceX以150美元开盘，在创纪录的IPO首日交易中飙升超过24%，市值突破750亿美元。这一历史性事件导致股票交易平台Robinhood录得“创纪录”的流量。然而，市场呈现分化：特斯拉股票反应平淡，其他太空股在SpaceX飙升时反而下跌。值得注意的是，有神秘交易员在SpaceX上市前建立了巨额空头头寸。",
+      "stars": "★★★★★",
+      "insight": "SpaceX的IPO是2026年科技和金融市场的里程碑事件，其影响远超单一股票。它创造了新的万亿富翁，吸引了海量零售投资者（Robinhood流量创新高即为明证），并引发了市场对“太空经济”估值体系的重新审视。同时，SpaceX被S&P 500指数拒绝纳入，以及特斯拉股价的平淡反应，揭示了市场资金和注意力在“马斯克生态系统”内部的重新配置与潜在竞争。神秘的大额空头头寸暗示市场存在巨大分歧和对估值泡沫的警惕。这一事件将在未来数月持续扰动科技股板块和太空投资主题。",
+      "original_text": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+      "full_translation": "SpaceX股票首秀后，Robinhood录得‘创纪录’流量",
+      "source_name": "Yahoo_Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-sees-record-breaking-traffic-170506288.html"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.12 17:32",
+      "title": "Sam Altman内部基准显示AGI时间线加速，引发概念重定义",
+      "summary": "OpenAI首席执行官Sam Altman透露，根据公司最新的内部基准测试，当前模型在复杂任务上与人类水平推理的差距正以快于2024年预期的速度缩小。这一进展如此显著，以至于可能需要在实现通用人工智能（AGI）之前重新定义其概念。",
+      "stars": "★★★★★",
+      "insight": "Sam Altman此番言论是一个强烈的市场信号，表明头部AI实验室对AGI路径的乐观程度达到了新的高度，甚至可能超出他们自身的预期。这不仅仅是技术进展，更预示着行业将从“何时实现AGI”的讨论，迅速转向“如何为即将到来的AGI做准备”，包括伦理框架、安全协议、经济和社会结构的适应性调整。对于投资者和开发者而言，这意味着AI能力的“涌现”和“集成”速度可能超预期，需要提前布局那些能充分利用超强通用智能的应用场景和基础设施。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚刚看了一下我们最新的内部基准。当前模型与人类在复杂任务上的推理能力之间的差距，正以快于我们2024年任何预测的速度缩小。我们可能需要在实现AGI之前重新审视‘AGI’到底意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.12 14:37",
       "title": "MiniMax发布428B参数开源模型M3，编码与长上下文能力突出",
       "summary": "MiniMax公司发布了其开源权重模型M3，总参数量约428B，激活参数23B。该模型在编码和智能体任务基准测试中表现强劲，并采用稀疏注意力技术将上下文窗口扩展至100万token。模型权重与技术报告预计将在约10天后发布。",
