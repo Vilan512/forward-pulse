@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.12 02:42",
+      "title": "Google DeepMind 警告：数百万AI智能体互动将带来全新安全风险",
+      "summary": "Google DeepMind联合多家机构成立1000万美元研究基金，旨在应对未来数百万AI智能体大规模互动可能引发的失控风险。其AGI安全主管指出，当前尚缺乏针对多智能体系统的安全研究领域，而经济中的大规模部署可能在数月内使潜在风险成为现实。",
+      "stars": "★★★★",
+      "insight": "这标志着AI安全研究的重大转向。过去安全焦点是单个模型的可靠性，而DeepMind的担忧指向了一个更复杂的层面：当AI智能体作为独立行动者（agent）相互交互、遵循彼此指令时，系统可能会涌现出无法预测的“群体行为”，类似于人类社会的集体涌现。这暗示了AI能力正从工具属性快速转向具有自主性的实体，其复杂交互产生的非线性风险（如信任链条崩溃、级联错误）可能成为未来6-18个月最严峻的治理挑战。资金由学术界与产业界共同投入，表明业界已将多智能体安全视为一个尚未建立的、紧迫的研究前沿。",
+      "original_text": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a whole new class of risk. In an effort to address this, Google DeepMind—which made agent-based tools a centerpiece of Google I/O last month—has teamed up with several other organizations to announce a $10 million funding pot for researchers to study the behavior of multi-agent systems and come up with ways to prevent unsafe scenarios. The main issue is that there just isn’t really a field of research for multi-agent safety yet, he adds. And we would like there to be.",
+      "full_translation": "谷歌DeepMind正在资助研究数百万不同AI智能体在线互动的潜在危险。该公司AGI安全与对齐研究负责人Rohin Shah指出，无需人工监督即可执行任务并遵循其他智能体指令的智能体大规模涌入市场，会创造一个全新的风险类别。为应对这一问题，谷歌DeepMind——该公司在上月的Google I/O大会上将基于智能体的工具作为核心——已联合多家其他组织宣布设立1000万美元的研究基金，用于研究人员研究多智能体系统的行为并制定防止不安全情况的方法。他补充道：“主要问题在于，目前实际上并没有一个专门针对多智能体安全的研究领域。而我们希望有这样的领域。”",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.12 02:42",
+      "title": "中国正押注大型核反应堆，计划在2030年超越美国和欧盟的核电装机容量",
+      "summary": "自2016年以来，中国的核电舰队规模已扩大近一倍，总装机容量接近60吉瓦，2025和2026年持续有新机组开建。尽管大型核电项目投资巨大、设计复杂，中国仍以惊人速度推进，预计到2030年将在核电装机容量上超越美国和欧盟，这与西方普遍看好小型模块化反应堆的路线形成鲜明对比。",
+      "stars": "★★★",
+      "insight": "中国在核电领域的战略选择揭示了一个关键分歧：是押注经过验证、单机容量大但投资周期极长的大型反应堆，还是押注灵活性高、投资门槛低但尚需商业化验证的小型模块化反应堆。中国选择前者，体现了其强大的国家资本动员能力和长期能源战略定力。这种大规模基建能力若能持续，不仅将重塑全球清洁能源格局，更可能使中国在核电技术出口和标准制定上获得主导权，对西方能源科技公司构成系统性竞争压力。",
+      "original_text": "In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. Construction started on six new reactors in 2025, and two more have begun in 2026. It’s incredibly difficult to build the massive projects that dominate the nuclear industry today. Up-front investment can run well into the billions, and designs are complex. Yet China is moving ahead rapidly. By 2030, the country is on course to overtake both the US and the EU in installed nuclear capacity.",
+      "full_translation": "在中国，大型反应堆正以惊人的速度建成。该国自2016年以来已将其核电舰队规模扩大近一倍，总装机容量接近60吉瓦。2025年开始建设六座新反应堆，2026年又已有两座开建。建造当今核电行业主流的大型项目极其困难。前期投资可能高达数十亿美元，且设计复杂。然而中国正在迅速推进。到2030年，该国在核电装机容量上有望超越美国和欧盟。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.11 23:15",
       "title": "谷歌 DeepMind 警告：数百万 AI 智能体大规模交互将引发全新安全风险",
       "summary": "谷歌 DeepMind 担忧大规模 AI 智能体自主交互可能带来的系统性风险，联合多方设立 1000 万美元研究基金，旨在建立多智能体安全研究新领域。",

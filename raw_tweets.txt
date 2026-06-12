@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-11 23:15:50
-# 共计 59 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-12 02:42:55
+# 共计 48 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-11 12:10]
 标题: The Download: soccer’s data renaissance and China’s big nuclear plans
@@ -26,9 +26,25 @@
 链接: https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/
 正文: It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that time—Unit 3 and Unit 4 at Plant Vogtle in Georgia. Smaller reactors are attracting a lot of excitement and investment, though. A microreactor developer just saw its reactor reach criticality in a new Department of Energy pilot program. The world is racing to meet rising electricity demand, and many countries are interested in energy sources, like nuclear power, that don’t come with greenhouse-gas emissions. The key question: Which of these strategies will really pay off in terms of getting electrons on the grid quickly?&nbsp;&nbsp; Today, the US and France are known as leaders in the nuclear industry. The US has the world’s largest fleet, with France coming in second. France is heavily dependent on nuclear for its grid—about two-thirds of the country’s power comes from nuclear reactors. But they have hardly added any new reactors to their fleets in recent years. The US can point only to Vogtle, and France connected its latest reactor to the grid in December 2024—the first in over 20 years.&nbsp; It’s incredibly difficult to build the massive projects that dominate the nuclear industry today. Up-front investment can run well into the billions, so investors need to wait decades to break even. Designs are complex and can often change during the regulatory process, tacking on cost and time.&nbsp; Many are hoping that the key to turning things around in these countries could be smaller reactors. The idea is that shrinking the footprint of a reactor cuts down the initial investment needed to prove out the new technology. The reactors could even be put together in a factory rather than being built on-site, allowing for a lower pr
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-11 00:00]
-标题: Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
-链接: https://huggingface.co/blog/torch-mlp-fusion
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 02:06]
+标题: 苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪
+链接: https://www.ithome.com/0/963/302.htm
+正文: 苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:46]
+标题: Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环
+链接: https://x.com/shao__meng/status/2065234132431675439
+正文: 邵猛分享 Spec 驱动开发（SDD）方法，用三个 Skills（/write-product-spec、/write-tech-spec、/validate-changes-match-specs）覆盖 Spec→Implement→Verify 闭环。规格分两层：PRODUCT.md（用户故事、不变量）和 TECH.md（架构、实现策略），均放在 specs// 目录，随 PR 提交。五步流程：写产品规格、写技术规格、Agent 按规格实现、一致性校验、计算机操作端到端验证。Skills 可移植，不绑定 Warp。开源仓库 warpdotdev/common-skills，安装：npx skills add warpdotdev/common-skills。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:15]
+标题: Codex 推出浏览器开发者模式
+链接: https://x.com/OpenAIDevs/status/2065226355495895521
+正文: 为 Chrome 和 Codex 内置浏览器引入开发者模式。 Codex 可以使用 Chrome DevTools 协议（CDP）来调试浏览器问题，通过分析 JavaScript 性能、检查控制台输出、网络流量和页面状态。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:11]
+标题: OpenAI Codex 推出速率重置攒存功能
+链接: https://x.com/OpenAI/status/2065225362544726371
+正文: 我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。 从今天起，我们开始推出将速率限制重置保留到以后使用的功能。 我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 22:23]
 标题: 研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器
@@ -175,52 +191,10 @@
 链接: https://updates.midjourney.com/v8-1-is-now-the-default-model
 正文: Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 01:58]
-标题: 从0到1速通WorkBuddy：国内通用Agent产品教程
-链接: https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg
-正文: WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:59]
-标题: mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0
-链接: https://x.com/berryxia/status/2064875107278098769
-正文: mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可通过 `uv pip install -U mlx-vlm` 安装体验。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:05]
-标题: 在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration
-链接: https://x.com/oran_ge/status/2064861625883222114
-正文: 在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration 【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:00]
-标题: BBVA 将 AI 置于银行业务核心，与 OpenAI 合作
-链接: https://openai.com/index/bbva
-正文: BBVA 将 ChatGPT Enterprise 推广至 10 万名员工，并与 OpenAI 达成合作，加速全球银行业 AI 驱动的转型。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:00]
-标题: OpenAI 将收购 Ona
-链接: https://openai.com/index/openai-to-acquire-ona
-正文: OpenAI 计划收购 Ona，以拓展 Codex 的功能，提供安全、持久的云端环境，从而支持企业工作流中长时间运行的 AI 智能体。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:00]
-标题: xAI 推出 Grok Build Plugin Marketplace
-链接: https://x.ai/news/grok-plugin-marketplace
-正文: xAI 今日发布 Grok Build 内置插件市场。插件将技能、斜杠命令、AI 智能体、钩子、MCP 服务器和 LSP 打包为可安装包，用户无需离开终端即可浏览、安装和更新。首发合作伙伴包括 MongoDB、Vercel、Sentry、Chrome DevTools、Cloudflare 和 Superpowers。在 Grok Build 中输入 `/marketplace` 或使用 CLI 即可安装，每个远程插件均固定到特定 commit SHA 并经过验证。开发者可提交 PR 到 xai-org/plugin-marketplace 发布自己的插件。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 00:00]
-标题: OpenAI 支持欧洲构建可信 AI 生态系统
-链接: https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem
-正文: OpenAI 支持欧盟《AI 内容透明度行为准则》，推进内容溯源标准与工具，帮助用户识别 AI 生成内容。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-11 17:35]
-标题: Analyst Report: Lululemon Athletica Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3578_AnalystReport_1781199315000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-11 17:35]
-标题: Market Update: TECH, LULU
-链接: https://finance.yahoo.com/research/reports/ARGUS_47308_MarketUpdate_1781199315000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-11 11:57]
-标题: Room to Run
-链接: https://finance.yahoo.com/research/reports/ARGUS_47303_PortfolioIdeas_1781179068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 23:35]
+标题: SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits
+链接: https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html
+正文: SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 22:21]
 标题: SpaceX cuts retail IPO allocation to low 20% range, source says
@@ -257,35 +231,10 @@
 链接: https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html
 正文: Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-11 00:00]
-标题: The seven operating truths of AI-native companies
-链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-seven-operating-truths-of-ai-native-companies
-正文: Almost every company has AI tools, but few really know how to use them. Leaders at 15 AI-savvy companies say the difference comes down to seven operating truths—that most organizations still get wrong.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-11 00:00]
-标题: From risk to resilience: New approaches to navigating disruption in Asia
-链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/from-risk-to-resilience-new-approaches-to-navigating-disruption-in-asia
-正文: Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-11 00:00]
-标题: Prudential’s Charles Lowrey on finishing strong as CEO
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/prudentials-charles-lowrey-on-finishing-strong-as-ceo
-正文: Much has been written about a CEO’s first 100 days, but what about the other end of the journey?
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-11 00:00]
-标题: The world is changing. Can fashion keep up?
-链接: https://www.mckinsey.com/industries/retail/our-insights/the-world-is-changing-can-fashion-keep-up
-正文: Smart glasses. Preloved luxury. Style tips via chatbots. Tech, tariffs, and a temperamental economy are reshaping what consumers value—and how they discover, buy, and experience brands.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-11 00:00]
-标题: Elevating the customer experience: IKEA’s agentic AI journey
-链接: https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey
-正文: The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-11 23:15]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 02:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-11 23:15]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 02:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
