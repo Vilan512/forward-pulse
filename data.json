@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.12 14:37",
+      "title": "MiniMax发布428B参数开源模型M3，编码与长上下文能力突出",
+      "summary": "MiniMax公司发布了其开源权重模型M3，总参数量约428B，激活参数23B。该模型在编码和智能体任务基准测试中表现强劲，并采用稀疏注意力技术将上下文窗口扩展至100万token。模型权重与技术报告预计将在约10天后发布。",
+      "stars": "★★★★",
+      "insight": "这标志着中国AI实验室在开源大型模型领域持续发力。428B总参数与23B激活参数的组合，结合其在编码和超长上下文（1M token）上的专门优化，直接瞄准了当前企业级AI应用的两个核心痛点：代码生成/调试效率与处理超长文档的能力。这种“大参数、稀疏激活、专精场景”的开源模型策略，将对闭源的API服务构成直接竞争压力，迫使整个行业在性能和成本上做出权衡。未来6-18个月，围绕此类专精模型的开发工具链和应用生态将成为关键战场。",
+      "original_text": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
+      "full_translation": "MiniMax发布开源权重模型M3，约428B总参数、23B激活参数，已上传HuggingFace。该模型融合三种前沿能力：编码与智能体方面达59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用MiniMax稀疏注意力将上下文窗口扩展至1M token；原生多模态。同步上线MiniMax Code工具及API平台。权重与技术报告预计约10天后发布。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/MiniMax_AI/status/2065436935188058208"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.12 14:37",
+      "title": "Anthropic与DXC达成全球联盟，Claude将深度嵌入关键行业IT系统",
+      "summary": "AI公司Anthropic与IT服务巨头DXC Technology达成多年全球联盟。DXC计划培训数万名获得Claude认证的工程师，将Claude引入其为银行、航空、保险及政府机构运营的关键系统。内部数据显示，Claude已成为DXC OASIS平台的默认基础模型，平台超95%的代码由Claude编写，开发速度提升10倍。",
+      "stars": "★★★★",
+      "insight": "此事件是AI模型从“通用工具”向“关键任务基础设施”渗透的里程碑。Anthropic通过与顶级IT服务商结盟，绕过了漫长的客户教育和销售周期，直接将Claude注入全球企业数字化转型的核心脉络。DXC声称其平台95%代码由Claude编写，这不仅是效率提升，更预示着企业软件开发的范式转变——AI从辅助工具变成了主要生产者。未来12-18个月，此类深度集成将重塑企业IT服务的成本结构，并可能引发对传统软件开发者角色需求的剧烈变化。",
+      "original_text": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
+      "full_translation": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.12 14:37",
+      "title": "SpaceX创纪录IPO冲击现有太空股票，标普500指数排除其入列",
+      "summary": "SpaceX计划以750亿美元的融资规模进行史上最大IPO，估值近1.8万亿美元。消息引发现有太空概念股（如Virgin Galactic、Rocket Lab）股价暴跌。同时，标普500指数委员会决定不将其纳入指数，这对追踪该指数的庞大退休储蓄基金产生了直接影响。",
+      "stars": "★★★★",
+      "insight": "SpaceX的巨额IPO正在重塑太空投资板块的格局。它不仅是单一公司事件，更是一个“板块挤压”效应：资本和关注度向绝对龙头集中，导致同板块其他公司估值被压缩。标普500指数的排除决定则揭示了指数构建的保守性与明星科技公司流动性冲击之间的矛盾，迫使被动投资者重新思考如何暴露于非成分股的颠覆性科技资产。未来6-18个月，太空投资将更清晰地分为“SpaceX”和“其他”，板块内的马太效应会加剧。",
+      "original_text": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
+      "full_translation": "标普500指数——数万亿美元退休储蓄投资于此——对史上最大的IPO SpaceX说了‘不’。这对投资组合意味着什么。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.12 11:37",
       "title": "Anthropic与DXC达成全球联盟，将Claude深度嵌入企业关键系统",
       "summary": "IT服务巨头DXC Technology与Anthropic建立多年全球联盟，计划培训数万名Claude认证工程师，将Claude AI模型引入其服务的银行、航空、保险及政府等关键行业系统。Claude已成为DXC内部OASIS平台的默认基础模型，超95%代码由Claude生成，开发速度提升10倍。",
