@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-12 02:42:55
-# 共计 48 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-12 07:15:18
+# 共计 45 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-11 12:10]
 标题: The Download: soccer’s data renaissance and China’s big nuclear plans
@@ -25,6 +25,16 @@
 标题: Why China is betting on big nuclear reactors
 链接: https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/
 正文: It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that time—Unit 3 and Unit 4 at Plant Vogtle in Georgia. Smaller reactors are attracting a lot of excitement and investment, though. A microreactor developer just saw its reactor reach criticality in a new Department of Energy pilot program. The world is racing to meet rising electricity demand, and many countries are interested in energy sources, like nuclear power, that don’t come with greenhouse-gas emissions. The key question: Which of these strategies will really pay off in terms of getting electrons on the grid quickly?&nbsp;&nbsp; Today, the US and France are known as leaders in the nuclear industry. The US has the world’s largest fleet, with France coming in second. France is heavily dependent on nuclear for its grid—about two-thirds of the country’s power comes from nuclear reactors. But they have hardly added any new reactors to their fleets in recent years. The US can point only to Vogtle, and France connected its latest reactor to the grid in December 2024—the first in over 20 years.&nbsp; It’s incredibly difficult to build the massive projects that dominate the nuclear industry today. Up-front investment can run well into the billions, so investors need to wait decades to break even. Designs are complex and can often change during the regulatory process, tacking on cost and time.&nbsp; Many are hoping that the key to turning things around in these countries could be smaller reactors. The idea is that shrinking the footprint of a reactor cuts down the initial investment needed to prove out the new technology. The reactors could even be put together in a factory rather than being built on-site, allowing for a lower pr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 03:40]
+标题: 小互开源公众号自动排版技能组合
+链接: https://x.com/xiaohu/status/2065278092441268246
+正文: 小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 02:46]
+标题: qiaomu-ai-prd：面向AI的PRD生成Prompt
+链接: https://x.com/vista8/status/2065264509170876417
+正文: 推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 02:06]
 标题: 苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪
@@ -171,26 +181,6 @@
 链接: https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple
 正文: Deezer 将扫描用户在其它流媒体平台的播放列表，检测其中的 AI 生成音乐。Deezer 是最早标记 AI 生成音乐的大型流媒体服务之一，曾向其他平台提供该技术但少有采纳。Deezer CEO Alexis Lanternier 表示，由于没有其他公司跟进，他们决定让用户无论使用哪个平台，都能检查自己的播放列表中是否包含合成音乐。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 06:33]
-标题: baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统
-链接: https://x.com/dotey/status/2064959133535658144
-正文: baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add JimLiu/baoyu-design`。项目地址：https：//github.com/jimliu/baoyu-design。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 06:19]
-标题: AI浪潮引发中国担忧：官媒呼吁保护劳动者权益
-链接: https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights
-正文: 中国工作场所快速采用人工智能，引发官媒异常直白地呼吁保护劳工权利。北京正在考虑如何控制这项新技术带来的风险。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 05:53]
-标题: Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失
-链接: https://www.ithome.com/0/962/854.htm
-正文: Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 04:08]
-标题: Midjourney V8.1 已成为默认模型
-链接: https://updates.midjourney.com/v8-1-is-now-the-default-model
-正文: Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 23:35]
 标题: SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits
 链接: https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html
@@ -221,20 +211,15 @@
 链接: https://www.cnbc.com/2026/06/11/stocks-making-the-biggest-moves-premarket-oracle-intel-applied-materials-alcoa-and-more.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 05:39]
-标题: KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century
-链接: https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html
-正文: KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 14:49]
 标题: Citigroup shares outperform down market after Trump endorsement
 链接: https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html
 正文: Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 02:42]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 07:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 02:42]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 07:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
