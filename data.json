@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.12 23:08",
+      "title": "人工智能发展速度超出预期，高级通用智能定义面临重构",
+      "summary": "OpenAI首席执行官Sam Altman指出，当前AI模型在复杂任务上的推理能力与人类水平的差距，正以快于公司2024年预测的速度缩小，这可能意味着在实现目标前就需要重新定义“高级通用智能”（AGI）。",
+      "stars": "★★★★",
+      "insight": "这一内部基准的加速进展表明，AI能力的边界正在被迅速推向未知领域。如果AGI的传统定义（如通过图灵测试或实现通用人类智能）在技术实现之前就已过时，那么行业竞争的核心将从“谁能先实现”转变为“什么才是最有价值和最安全的最终形态”。这预示着未来6-18个月，关于AI伦理、安全和商业价值的讨论将更加激烈，可能重塑整个行业的投资逻辑和发展路径。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚刚查看了我们最新的内部基准测试。当前模型在复杂任务上的推理能力与人类水平之间的差距，正以快于我们2024年任何预测的速度缩小。我们可能需要在达到目标之前重新审视‘AGI’究竟意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.12 23:08",
+      "title": "微软CEO：下一个平台转移是具身智能，机器人基础模型处于2020年大语言模型阶段",
+      "summary": "微软首席执行官Satya Nadella认为，下一个平台转移将是具身智能，即AI不仅能生成文本和图像，还能操控物质世界。他指出，机器人基础模型目前的发展阶段相当于2020年的大语言模型，而解决模拟到现实世界迁移问题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★",
+      "insight": "Nadella的论断标志着科技巨头对未来技术主战场的明确押注。将机器人基础模型类比为2020年的LLM，意味着我们正处于该领域技术突破和商业化的前夜。未来6-18个月，解决“模拟到现实”（Sim-to-Real）迁移的进展将至关重要。这不仅能吸引巨额资本流入机器人学和先进制造，更可能催生全新的产业链，并对劳动力市场、自动化水平和全球供应链结构产生深远影响。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个AI不仅能生成文本和图像，还能操控原子的时代。机器人基础模型正处于大语言模型在2020年所处的阶段。那些能解决模拟到现实世界迁移问题的公司将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.12 23:08",
+      "title": "SpaceX创纪录IPO及S&P 500指数基金决策，揭示资本市场新格局",
+      "summary": "SpaceX以750亿美元融资额和约1.8万亿美元估值创历史最大IPO纪录，但将散户投资者配售比例压缩至20%出头。与此同时，S&P 500指数明确拒绝将此次IPO纳入其成分股，直接影响了数万亿美元退休储蓄的投资配置。",
+      "stars": "★★★★",
+      "insight": "这两条信息共同勾勒出一个关键转折点：即便是史上最大、最受瞩目的科技公司IPO，也正被主流指数基金和机构投资者拒之门外。这凸显了当前资本市场的深层矛盾：高增长但估值极高的科技企业与追求稳定、可预测回报的传统指数化投资策略之间的脱节。未来6-18个月，这可能导致资金进一步向非指数化的私募市场或主动管理基金分流，同时也对SpaceX等公司的长期流动性和估值稳定性构成挑战。",
+      "original_text": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.\n\nThe S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
+      "full_translation": "SpaceX以每股135美元的价格出售5.556亿股，在有史以来规模最大的首次公开募股中筹集了750亿美元。\n\n承载着数万亿美元退休储蓄的标普500指数，拒绝了史上最大的SpaceX IPO。这对投资组合意味着什么。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.12 21:26",
       "title": "字节豆包上线任务模式与专家模式，强化全链路Agent执行与深度推理",
       "summary": "字节跳动旗下AI应用豆包大规模上线“任务模式”，支持定时执行、网页/PPT生成等全链路Agent功能，同时将“思考模式”升级为强调深度推理的“专家模式”，并推出分层付费订阅服务。",

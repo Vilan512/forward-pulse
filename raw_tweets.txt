@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-12 21:26:05
-# 共计 32 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-12 23:08:44
+# 共计 29 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-12 12:10]
 标题: The Download: “reprogramming” aging, and the hidden sense of interoception
@@ -29,6 +29,11 @@
 标题: Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业
 链接: https://www.anthropic.com/news/anthropic-public-record
 正文: Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:00]
+标题: 如何在OpenRouter上获得最低成本的LLM推理
+链接: https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter
+正文: 在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 15:56]
 标题: olmo-eval：面向模型开发循环的评估工作台
@@ -85,21 +90,6 @@
 链接: https://x.com/OpenAI/status/2065225362544726371
 正文: 我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。 从今天起，我们开始推出将速率限制重置保留到以后使用的功能。 我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 22:23]
-标题: 研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器
-链接: https://www.kennethpayne.uk/p/shall-we-play-a-game
-正文: 一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 22:00]
-标题: Replit 专家级提示词技巧
-链接: https://x.com/Replit/status/2065192392718733327
-正文: 如何像专家一样使用 Replit 进行提示 🤖 模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。 🧵 展开线程 ↓
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-11 21:49]
-标题: Replit 与 Databricks 集成升级，公开预览开放
-链接: https://x.com/Replit/status/2065189762365813089
-正文: Replit 与 @databricks 集成刚刚升级了。 构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。 公开预览已开放注册！了解更多 → https：//replit.com/blog/databricksjune2026
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 19:43]
 标题: Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena
 链接: https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html
@@ -136,20 +126,15 @@
 链接: https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html
 正文: The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-11 21:44]
-标题: SpaceX to close above $2 trillion market cap on its debut, prediction market traders say
-链接: https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html
-正文: Traders on Polymarket think it's likely SpaceX will join a group of just six companies with a market value beyond $2 trillion.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 14:46]
 标题: From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards
 链接: https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html
 正文: With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 21:26]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 23:08]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 21:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 23:08]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
