@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.13 09:52",
+      "title": "SemiAnalysis 揭示巨额补贴：200 美元 AI 订阅可产生 70 倍 API 用量",
+      "summary": "SemiAnalysis 的深度测试显示，当前顶级 AI 订阅服务（如 Claude Max 和 ChatGPT Pro）提供的用量上限，按 API 价格换算可达订阅费的 40 至 70 倍。这种极度倾斜的价值交换模型在重度用户持续消耗上限的情况下，可能面临不可持续的商业压力。",
+      "stars": "★★★★",
+      "insight": "这份分析直指 AI 商业模式的核心矛盾：通过高额补贴换取用户粘性与市场份额。当前这种“倒贴式”定价策略在用户规模化和高频使用下是不可持续的。未来 12-18 个月，我们将看到主要 AI 提供商面临巨大的定价策略调整压力，可能伴随服务降级或价格大幅上涨，这将对整个应用生态和用户行为产生深远影响。",
+      "original_text": "SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。",
+      "full_translation": "SemiAnalysis purchased all subscription plans from Anthropic and OpenAI, simulating high-intensity coding tasks until reaching weekly limits. The $200 per month Claude Max 20x plan, when converted to API pricing, can consume tokens worth up to approximately $8,000; the ChatGPT Pro 20x plan corresponds to up to approximately $14,000 worth of tokens. Users can obtain 40 to 70 times the API value through subscriptions, and the institution points out that such a pricing system may be difficult to sustain in the long run after heavy users consistently max out the limits.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.ithome.com/0/963/834.htm"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.13 09:52",
+      "title": "OpenAI 面临多州总检察长联合调查，监管压力升级",
+      "summary": "OpenAI 正在一个由多州总检察长组成的联盟调查，该联盟已向公司索取涵盖广泛主题的信息。这表明针对大型 AI 公司的监管审查已从联邦层面扩展至州级，形成了多方围剿的态势。",
+      "stars": "★★★★",
+      "insight": "多州联合调查是 AI 行业监管进程中的一个关键转折点。它标志着监管压力不再局限于个别事件或单一联邦机构，而是演变为系统性、地域性的法律和政治挑战。这种分散但同步的施压模式将显著增加公司的合规成本、法律风险和运营不确定性，可能迫使 OpenAI 及其他头部公司调整其产品发布节奏、数据政策和商业实践。",
+      "original_text": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
+      "full_translation": "OpenAI is being probed by a coalition of state attorneys general, which has requested information from the AI company covering a broad range of topics.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.13 09:52",
+      "title": "SpaceX 历史性 IPO 将散户配售比例削减至约 20%",
+      "summary": "据消息人士透露，计划筹资 750 亿美元的 SpaceX IPO 将向散户投资者分配的股份比例削减至“低 20% 左右”，远低于通常水平。此举与 S&P 500 指数拒绝将其纳入的决定形成呼应，凸显了机构资本对这次巨额 IPO 的主导地位。",
+      "stars": "★★★★",
+      "insight": "SpaceX 作为人类历史上最大规模的 IPO，其配售结构本身就是一个强烈的市场信号。大幅压缩散户配额，表明承销商和公司方更倾向于构建一个由长期机构投资者主导、相对稳定的股东基础，以避免上市后的剧烈波动。这反映了成熟巨型科技公司进入公开市场时，对短期股价表现的谨慎态度，也可能预示着 IPO 定价将趋于保守，将更多上涨空间留给后市。",
+      "original_text": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
+      "full_translation": "据一位知情人士透露，这家由埃隆·马斯克领导的公司计划将发行量中“低 20% 左右”的比例分配给散户买家。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.13 06:51",
       "title": "Anthropic 因政府安全指令被迫禁用其最强大 AI 模型，引发行业震动",
       "summary": "美国政府以国家安全为由，指令 Anthropic 暂停所有外国国民对 Fable 5 和 Mythos 5 模型的访问。Anthropic 认为政府基于一个狭窄的潜在越狱发现就召回已部署的商业模型不合理，且该技术并非其所独有。这事件凸显了前沿 AI 模型在部署后可能面临的突发监管风险。",
