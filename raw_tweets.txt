@@ -1,163 +1,192 @@
-# ForwardPulse 原始情报收割 — 2026-06-13 13:28:39
-# 共计 36 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-13 15:26:51
+# 共计 47 条来自 5 个信息源
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-12 15:56]
 标题: olmo-eval: An evaluation workbench for the model development loop
 链接: https://huggingface.co/blog/allenai/olmo-eval
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 11:00]
-标题: Anthropic 秘密申请上市，估值 9650 亿美元
-链接: https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters
-正文: Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 08:40]
-标题: 谷歌Android安全负责人因反对军事AI合作辞职
-链接: https://www.ithome.com/0/963/888.htm
-正文: 谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司"丧失道德指针"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于"任何合法目的"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 06:49]
-标题: 扎克伯格承认 Meta AI 转型"脱轨"：裁员 10%、转岗 7000 人后组织调整过快
-链接: https://www.ithome.com/0/963/858.htm
-正文: 路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来"几乎肯定会犯更多错误"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 06:19]
-标题: 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源
-链接: https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w
-正文: GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 06:09]
-标题: SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量
-链接: https://www.ithome.com/0/963/834.htm
-正文: SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 02:26]
-标题: Anthropic的安全警告可能适得其反--政府已撤回其最强大AI
-链接: https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai
-正文: Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 00:27]
-标题: OpenAI 遭多州总检察长联合调查
-链接: https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general
-正文: OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 22:48]
-标题: Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味
-链接: https://x.com/oran_ge/status/2065566882774868125
-正文: Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺"人味儿"。他与 AI 讨论后得出结论：人写的文字背后有"存在感"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:14]
-标题: Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业
-链接: https://www.anthropic.com/news/anthropic-public-record
-正文: Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:00]
-标题: Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由
-链接: https://openrouter.ai/blog/tutorials/hermes-agent
-正文: Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:00]
-标题: 如何在OpenRouter上获得最低成本的LLM推理
-链接: https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter
-正文: 在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 15:56]
-标题: olmo-eval：面向模型开发循环的评估工作台
-链接: https://huggingface.co/blog/allenai/olmo-eval
-正文: olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 15:33]
-标题: 字节豆包上线"任务模式"：支持定时执行与文件生成，"思考模式"升级为"专家模式"
-链接: https://www.ithome.com/0/963/725.htm
-正文: 6月12日，字节跳动旗下AI应用豆包大范围上线"任务模式"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原"思考模式"升级为"专家模式"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为"快速、专家、任务"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 14:11]
-标题: MiniMax M3 开源权重模型发布，已上架 HuggingFace
-链接: https://x.com/MiniMax_AI/status/2065436935188058208
-正文: MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 19:43]
 标题: Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena
 链接: https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:16]
-标题: Dow Jones Futures: The Next Test For Market — And SpaceX; Five Stocks In Buy Areas
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-week-5-stocks-buy-areas-spacex-next-test/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:42]
+标题: Is Alphabet (GOOGL) Still Undervalued?
+链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-still-undervalued-144236757.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:45]
-标题: My dad lost $250K of my parents' retirement savings to a WhatsApp scam he never questioned or verified
-链接: https://finance.yahoo.com/markets/crypto/articles/dad-lost-250k-parents-retirement-124500165.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:30]
+标题: 51% of Americans are 'financially conflicted,' Gallup finds — how to tell which of the 3 money personalities fits you
+链接: https://finance.yahoo.com/markets/articles/51-americans-financially-conflicted-gallup-143000572.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:45]
-标题: Joe Rogan floored after Caleb Hammer says US boomers should have $2M-$5M saved — no sympathy if they don't. Is he right?
-链接: https://finance.yahoo.com/markets/stocks/articles/joe-rogan-floored-caleb-hammer-124500090.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:07]
+标题: Jim Cramer Is Surprised Starbucks (SBUX) Has Fallen Even Though Coffee Prices Have Eased
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-surprised-starbucks-sbux-140728497.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:05]
-标题: Alphabet Stock Is Up Nearly 100% Over the Past Year. Is It Still a Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-nearly-100-over-130500065.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:07]
+标题: Jim Cramer Thinks Cisco (CSCO) Can “Run Further”
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-cisco-csco-140721705.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:42]
-标题: Is Vistra (VST) Still The Best Data Center Energy Stock?
-链接: https://finance.yahoo.com/sectors/energy/articles/vistra-vst-still-best-data-124242532.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 15:00]
+标题: If You Have $10,000 And Want To Bet on AI and Robotics, These Are The Investments I’d Pick
+链接: https://finance.yahoo.com/markets/stocks/articles/10-000-want-bet-ai-150029394.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:01]
-标题: You can ignore AI giants like SpaceX, but your 401(k) won't
-链接: https://finance.yahoo.com/markets/stocks/articles/ignore-ai-giants-spacex-401-120140928.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:07]
+标题: Jim Cramer Reveals Big Trend For Palo Alto’s (PANW) Shares
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-big-trend-140713117.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:00]
-标题: Viking, Bloom Energy Lead Five Stocks Making Bullish Moves As Market Rebounds
-链接: https://www.investors.com/news/viking-cruises-bloom-energy-stocks/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:07]
+标题: Jim Cramer Returns To ConocoPhillips (COP) As Oil Prices Touch $96
+链接: https://finance.yahoo.com/sectors/energy/articles/jim-cramer-returns-conocophillips-cop-140706706.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:00]
-标题: CNBC anchor stunned by $107B US trade deficit drop: ‘Buckle up, this is unreal!’ Are Trump’s tariffs a triumph?
-链接: https://finance.yahoo.com/economy/policy/articles/cnbc-anchor-stunned-107b-us-120000399.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:06]
+标题: CrowdStrike Holdings, Inc. (CRWD) Dropped Because Of Panic & Fear, Says Jim Cramer
+链接: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-inc-crwd-dropped-140636080.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:03]
-标题: Morgan Stanley CEO floats bold $10T wealth opportunity
-链接: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ceo-floats-bold-130300818.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:06]
+标题: Jim Cramer Wasn’t Selling Eli Lilly (LLY)
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wasn-t-selling-140627420.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:00]
-标题: The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-move-nobody-saw-coming-130056039.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:37]
+标题: Zscaler CEO delivers a sharp take on AI agents
+链接: https://finance.yahoo.com/sectors/technology/articles/zscaler-ceo-delivers-sharp-ai-143700586.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:50]
-标题: My Plan Has Always Been to Wait Until Age 70 to Claim Social Security. Here's What Changed.
-链接: https://finance.yahoo.com/economy/policy/articles/plan-always-wait-until-age-125000553.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:56]
+标题: Is Symbotic Inc. (SYM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-good-stock-135613670.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:46]
-标题: SpaceX President Has Warning for Investors: Maybe You Shouldn’t Buy the Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-president-warning-investors-maybe-124610440.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:55]
+标题: Is SkyWater Technology, Inc. (SKYT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/skywater-technology-inc-skyt-good-135545662.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:35]
-标题: Did Berkshire Hathaway Just Make a $6.8 Billion Bet on a Housing Rebound?
-链接: https://finance.yahoo.com/markets/stocks/articles/did-berkshire-hathaway-just-6-123500368.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:55]
+标题: Stock Market Week Ahead: Keep An Eye On The Little Things
+链接: https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-keep-an-eye-on-the-little-things/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:30]
-标题: Reddit, Roku, and SoundHound AI: Which Cult Stock Is Takeover-Ready?
-链接: https://finance.yahoo.com/markets/stocks/articles/reddit-roku-soundhound-ai-cult-123049949.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:54]
+标题: Is NCR Atleos Corporation (NATL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ncr-atleos-corporation-natl-good-135430240.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 12:30]
-标题: 3 High Backlog Defense Stocks to Buy in June
-链接: https://finance.yahoo.com/markets/stocks/articles/3-high-backlog-defense-stocks-123010308.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:35]
+标题: This Stock Is Down 40% in 2026. Here's What the Next 3 Years Could Realistically Look Like.
+链接: https://finance.yahoo.com/markets/stocks/articles/stock-down-40-2026-heres-143500676.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:54]
+标题: Is Indivior Pharmaceuticals, Inc. (INDV) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/indivior-pharmaceuticals-inc-indv-good-135417860.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:54]
+标题: Is Hut 8 Corp. (HUT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/hut-8-corp-hut-good-135403945.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:53]
+标题: Is Globalstar, Inc. (GSAT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/globalstar-inc-gsat-good-stock-135343740.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:53]
+标题: Is Fluence Energy, Inc. (FLNC) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/fluence-energy-inc-flnc-good-135330374.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:30]
+标题: 3 Semiconductor Stocks to Buy While They Are Down in June
+链接: https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-while-143037327.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:53]
+标题: Is EPAM Systems, Inc. (EPAM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/epam-systems-inc-epam-good-135315623.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:49]
+标题: Forget SpaceX Hype: Billionaire Stanley Druckenmiller is Loading Up on This Unknown Healthcare Stock
+链接: https://finance.yahoo.com/sectors/healthcare/articles/forget-spacex-hype-billionaire-stanley-134950163.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:42]
+标题: Legendary Value Investor Seth Klarman’s Surprising AI Stock Pick
+链接: https://finance.yahoo.com/markets/stocks/articles/legendary-value-investor-seth-klarman-134234035.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:41]
+标题: Is Yelp Inc. (YELP) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/yelp-inc-yelp-good-stock-134126953.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:28]
+标题: Claiming Social Security in 2027? One Key Move Could Boost Your Benefits Before You File
+链接: https://finance.yahoo.com/economy/policy/articles/claiming-social-security-2027-one-142802243.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:41]
+标题: Is Vertiv Holdings Co (VRT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-good-134109611.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:41]
+标题: Harvard University Likes Meta (META) Stock Despite AI CapEx Fears
+链接: https://finance.yahoo.com/markets/stocks/articles/harvard-university-likes-meta-meta-134104742.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:40]
+标题: Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-134054313.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:40]
+标题: Is Rackspace Technology, Inc. (RXT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/rackspace-technology-inc-rxt-good-134040954.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:27]
+标题: Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.
+链接: https://finance.yahoo.com/markets/stocks/articles/apple-mostly-sitting-ai-spending-142700948.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:40]
+标题: Is Revolve Group, Inc. (RVLV) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/revolve-group-inc-rvlv-good-134024612.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:40]
+标题: Is Nucor Corporation (NUE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/nucor-corporation-nue-good-stock-134009838.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:39]
+标题: Is The Middleby Corporation (MIDD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/middleby-corporation-midd-good-stock-133951917.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:39]
+标题: Is LKQ Corporation (LKQ) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/lkq-corporation-lkq-good-stock-133937502.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:23]
+标题: Lemonade Is Betting Everything on AI Insurance. Should Investors Follow?
+链接: https://finance.yahoo.com/markets/stocks/articles/lemonade-betting-everything-ai-insurance-142300621.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:39]
+标题: Is Accelerant Holdings (ARX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/accelerant-holdings-arx-good-stock-133923579.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:39]
+标题: Is Atmus Filtration Technologies Inc. (ATMU) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-technologies-inc-atmu-133909558.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:38]
+标题: Is Birkenstock Holding plc (BIRK) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-good-133856510.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:38]
+标题: Is Brown & Brown, Inc. (BRO) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/brown-brown-inc-bro-good-133842144.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 14:22]
+标题: A $650,000 Portfolio That Could Send You to the Super Bowl Every Year
+链接: https://finance.yahoo.com/markets/stocks/articles/650-000-portfolio-could-send-142244564.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-13 13:38]
+标题: Harvard University Likes This Top AI Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/harvard-university-likes-top-ai-133817050.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-13 15:00]
+标题: Why TD Securities anticipates even bigger days ahead for SpaceX
+链接: https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html
+正文: Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 15:59]
 标题: The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it
 链接: https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html
 正文: The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 14:50]
-标题: SpaceX cuts retail IPO allocation to low 20% range, source says
-链接: https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html
-正文: The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 14:46]
-标题: From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards
-链接: https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html
-正文: With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-13 13:28]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-13 15:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-13 13:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-13 15:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
