@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-12 23:08:44
-# 共计 29 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-13 02:35:26
+# 共计 26 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-12 12:10]
 标题: The Download: “reprogramming” aging, and the hidden sense of interoception
@@ -25,10 +25,30 @@
 标题: olmo-eval: An evaluation workbench for the model development loop
 链接: https://huggingface.co/blog/allenai/olmo-eval
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 01:15]
+标题: 关于美国政府指令暂停访问Fable 5和Mythos 5的声明
+链接: https://www.anthropic.com/news/fable-mythos-access
+正文: 美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 00:27]
+标题: OpenAI 遭多州总检察长联合调查
+链接: https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general
+正文: OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 22:48]
+标题: Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味
+链接: https://x.com/oran_ge/status/2065566882774868125
+正文: Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺"人味儿"。他与 AI 讨论后得出结论：人写的文字背后有"存在感"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:14]
 标题: Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业
 链接: https://www.anthropic.com/news/anthropic-public-record
 正文: Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:00]
+标题: Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由
+链接: https://openrouter.ai/blog/tutorials/hermes-agent
+正文: Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 16:00]
 标题: 如何在OpenRouter上获得最低成本的LLM推理
@@ -70,41 +90,9 @@
 链接: https://x.com/vista8/status/2065264509170876417
 正文: 推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 02:06]
-标题: 苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪
-链接: https://www.ithome.com/0/963/302.htm
-正文: 苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:46]
-标题: Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环
-链接: https://x.com/shao__meng/status/2065234132431675439
-正文: 邵猛分享 Spec 驱动开发（SDD）方法，用三个 Skills（/write-product-spec、/write-tech-spec、/validate-changes-match-specs）覆盖 Spec→Implement→Verify 闭环。规格分两层：PRODUCT.md（用户故事、不变量）和 TECH.md（架构、实现策略），均放在 specs// 目录，随 PR 提交。五步流程：写产品规格、写技术规格、Agent 按规格实现、一致性校验、计算机操作端到端验证。Skills 可移植，不绑定 Warp。开源仓库 warpdotdev/common-skills，安装：npx skills add warpdotdev/common-skills。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:15]
-标题: Codex 推出浏览器开发者模式
-链接: https://x.com/OpenAIDevs/status/2065226355495895521
-正文: 为 Chrome 和 Codex 内置浏览器引入开发者模式。 Codex 可以使用 Chrome DevTools 协议（CDP）来调试浏览器问题，通过分析 JavaScript 性能、检查控制台输出、网络流量和页面状态。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 00:11]
-标题: OpenAI Codex 推出速率重置攒存功能
-链接: https://x.com/OpenAI/status/2065225362544726371
-正文: 我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。 从今天起，我们开始推出将速率限制重置保留到以后使用的功能。 我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 19:43]
 标题: Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena
 链接: https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 18:00]
-标题: Analyst Report: Vulcan Materials Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_3499_AnalystReport_1781287230000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 18:00]
-标题: Analyst Report: MarketAxess Holdings Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3197_AnalystReport_1781287230000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 17:45]
-标题: Market Update: MKTX, VMC
-链接: https://finance.yahoo.com/research/reports/ARGUS_47319_MarketUpdate_1781286330000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 15:59]
 标题: The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it
@@ -131,10 +119,10 @@
 链接: https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html
 正文: With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-12 23:08]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-13 02:35]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-12 23:08]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-13 02:35]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.

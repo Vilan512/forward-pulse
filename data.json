@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.13 02:35",
+      "title": "美国政府以国安为由指令Anthropic暂停两款模型的外部访问",
+      "summary": "美国政府指令Anthropic暂停所有外国国民对其Fable 5和Mythos 5模型的访问，声称发现了越狱方法。Anthropic评估后认为该越狱技术适用范围有限，与其他公开模型能力相当，但正在配合政府工作以尽快恢复服务。",
+      "stars": "★★★★",
+      "insight": "该事件凸显了前沿AI模型在全球化应用中面临日益增长的国家安全审查压力。尽管Anthropic认为该漏洞并不普遍，但政府直接干预模型访问权限，为AI行业的全球服务和安全协作树立了一个强硬的先例，预示着未来AI部署将更紧密地与地缘政治风险评估绑定。",
+      "original_text": "美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。",
+      "full_translation": "美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/news/fable-mythos-access"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.13 02:35",
+      "title": "OpenAI遭多州总检察长联合调查",
+      "summary": "由多州总检察长组成的联盟已开始对OpenAI进行调查，并已向该公司索取涵盖广泛主题的信息。这标志着针对大型AI公司的监管审查正式升级为跨州联合行动。",
+      "stars": "★★★★",
+      "insight": "多州总检察长的联合调查通常预示着潜在的广泛法律风险和合规压力。此举表明，美国州一级的监管力量正在形成合力，对AI行业的领导者进行深入审查。这可能导致OpenAI在数据隐私、安全实践和商业行为方面面临更严格的披露要求，并可能迫使整个行业重新评估其运营标准。",
+      "original_text": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
+      "full_translation": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.13 02:35",
+      "title": "S&P 500指数拒绝纳入SpaceX，影响万亿退休储蓄配置",
+      "summary": "S&P 500指数委员会决定不将刚完成史上最大IPO的SpaceX公司纳入该指数。这直接影响了投资于追踪该指数基金的数万亿美元退休储蓄的资金配置方向。",
+      "stars": "★★★★",
+      "insight": "这一决定具有里程碑意义。S&P 500作为全球最重要的基准指数之一，其纳入标准本身是一种市场力量。拒绝纳入一家估值高达1.8万亿美元的巨型企业，表明委员会可能对公司的治理结构、盈利稳定性或行业代表性持有保留态度。这迫使指数基金投资者无法自动分享这家太空巨头的成长红利，同时也可能引发市场对指数构建方法论的广泛讨论。",
+      "original_text": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
+      "full_translation": "投资了数万亿美元退休储蓄的S&P 500指数拒绝了史上最大的SpaceX IPO。以下是这对投资组合意味着什么。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.12 23:08",
       "title": "人工智能发展速度超出预期，高级通用智能定义面临重构",
       "summary": "OpenAI首席执行官Sam Altman指出，当前AI模型在复杂任务上的推理能力与人类水平的差距，正以快于公司2024年预测的速度缩小，这可能意味着在实现目标前就需要重新定义“高级通用智能”（AGI）。",
