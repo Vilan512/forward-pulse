@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-13 02:35:26
-# 共计 26 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-13 06:51:48
+# 共计 30 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-12 12:10]
 标题: The Download: “reprogramming” aging, and the hidden sense of interoception
@@ -24,6 +24,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-12 15:56]
 标题: olmo-eval: An evaluation workbench for the model development loop
 链接: https://huggingface.co/blog/allenai/olmo-eval
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 06:09]
+标题: SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量
+链接: https://www.ithome.com/0/963/834.htm
+正文: SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 02:26]
+标题: Anthropic的安全警告可能适得其反--政府已撤回其最强大AI
+链接: https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai
+正文: Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-13 01:15]
 标题: 关于美国政府指令暂停访问Fable 5和Mythos 5的声明
@@ -80,19 +90,26 @@
 链接: https://openai.com/index/academy-courses-applying-ai-at-work
 正文: OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 03:40]
-标题: 小互开源公众号自动排版技能组合
-链接: https://x.com/xiaohu/status/2065278092441268246
-正文: 小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 02:46]
-标题: qiaomu-ai-prd：面向AI的PRD生成Prompt
-链接: https://x.com/vista8/status/2065264509170876417
-正文: 推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-12 08:59]
+标题: inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型
+链接: https://huggingface.co/inclusionAI/VISTA-4B
+正文: VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWorld-G 得分 61.2（提升 1.3），OSWorld-G-R 得分 69.7（提升 0.5）。模型已开源在 HuggingFace，推荐使用提示词并返回 【x，y】 格式坐标。
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 19:43]
 标题: Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena
 链接: https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 10:00]
+标题: HELOC and home equity loan rates today, June 12, 2026: With rates rising, understand how equity rates work
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-june-12-2026-100000455.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 10:00]
+标题: Mortgage and refinance rates today, Friday, June 12, 2026: Rates move lower today
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-june-12-2026-100000214.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-12 10:00]
+标题: Best money market account rates today, Friday, June 12, 2026: Up to 4.01% APY return
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-june-12-2026-100000306.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-12 15:59]
 标题: The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it
@@ -119,10 +136,10 @@
 链接: https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html
 正文: With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-13 02:35]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-13 06:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-13 02:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-13 06:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
