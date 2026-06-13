@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.13 19:10",
+      "title": "Anthropic面临监管与资本双重压力：政府撤回模型，秘密申请IPO估值近万亿",
+      "summary": "AI巨头Anthropic正同时经历来自政府的监管压力和资本市场的巨大期待。一方面，美国政府基于安全警告撤回了其最强大的AI模型，引发公司不满；另一方面，公司已秘密提交IPO申请，估值高达9650亿美元。这两股力量的碰撞预示着AI行业即将进入一个监管与资本深度博弈的新阶段。",
+      "stars": "★★★★★",
+      "insight": "Anthropic的处境揭示了顶尖AI公司面临的核心矛盾：追求模型能力的极限（导致安全问题）与追求商业化的极限（天价估值）之间的不可调和。政府的干预并非偶然，而是对AI能力过快增长的直接反应。此次IPO若成功，将把AI行业推入更严苛的公共审视和资本对赌阶段，其‘安全第一’的品牌形象将承受前所未有的压力。",
+      "original_text": "Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。",
+      "full_translation": "Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.13 19:10",
+      "title": "AI基础设施军备竞赛：CoreWeave首发部署NVIDIA最强机柜级GPU，Alphabet向Intel下达巨量TPU订单",
+      "summary": "AI算力竞争进入白热化阶段。云计算服务商CoreWeave率先在机柜规模验证并部署了NVIDIA最新的Vera Rubin NVL72系统，抢占下一代AI算力高地。与此同时，科技巨头Alphabet已向Intel下达订单，计划在2028年生产超过三百万个张量处理单元。这些动向表明，为支撑未来更庞大的AI模型，对底层硬件基础设施的投资正在以史无前例的规模进行。",
+      "stars": "★★★★",
+      "insight": "这两条新闻共同描绘了AI产业链上游正在发生的深刻变革。CoreWeave的部署标志着超大规模AI训练和推理所需的硬件复杂度（从芯片到机柜）正在成为新的竞争壁垒。Alphabet向Intel的巨额订单则显示，巨头们正在积极寻求NVIDIA之外的供应链多元化，以保障自身AI战略的弹性和自主性。未来的AI竞争，将是模型算法与底层硬件供应链掌控力的双重较量。",
+      "original_text": "CoreWeave (CRWV) Deploys NVIDIA (NVDA) Vera Rubin NVL72, First to Validate at Rack Scale",
+      "full_translation": "CoreWeave (CRWV) 部署 NVIDIA (NVDA) Vera Rubin NVL72，首次在机柜规模完成验证",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-deploys-nvidia-nvda-183752004.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.13 17:13",
       "title": "Anthropic 秘密申请 IPO，估值达 9650 亿美元",
       "summary": "AI 巨头 Anthropic 在秘密提交 IPO 申请后，其 9650 亿美元的估值创下记录。这标志着这家史上增长最快的初创公司之一正式踏上公开市场之路。",
