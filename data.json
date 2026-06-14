@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.14 21:01",
+      "title": "Sam Altman：AGI时间线持续加速，需重新定义‘通用人工智能’",
+      "summary": "OpenAI首席执行官Sam Altman表示，根据公司内部最新基准测试，当前模型在复杂任务上与人类水平推理能力的差距，正以超出2024年所有预测的速度缩小，可能需要在真正实现AGI之前重新定义其含义。",
+      "stars": "★★★★★",
+      "insight": "这篇来自行业领导者的直接声明是AGI进展的关键风向标。‘加速’和‘重新定义’这两个词暗示，技术突破可能正在以超出线性预测的指数速度发生。对于投资者而言，这意味着专注于基础模型和AI基础设施的公司，其长期估值逻辑可能需要根本性重估。同时，这也可能引发关于AI能力对齐、安全和治理的更紧迫讨论，这些讨论本身将创造新的市场需求和投资机会。",
+      "original_text": "Sam Altman: AGI timeline keeps accelerating\n正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "Sam Altman：AGI时间线持续加速\n正文：刚刚查看了我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力的差距，正以超出我们2024年所有预测的速度缩小。我们可能需要在真正实现AGI之前，重新审视‘通用人工智能’的含义。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.14 21:01",
+      "title": "微软CEO纳德拉：下一个平台转变是具身智能",
+      "summary": "微软CEO萨提亚·纳德拉指出，AI正进入操纵原子而不仅仅是生成文本和图像的时代。他将机器人基础模型比作2020年的大语言模型，并认为攻克‘模拟到现实’迁移问题的公司将定义未来十年的制造业。",
+      "stars": "★★★★",
+      "insight": "纳德拉的言论标志着AI投资叙事的一次重要演进，从纯软件的‘生成式AI’阶段，转向与物理世界深度交互的‘具身AI’阶段。这为工业自动化、先进制造、机器人学和传感器技术等领域描绘了清晰的增长蓝图。攻克‘模拟到现实’难题将成为核心竞争壁垒，相关仿真平台、高质量训练数据以及拥有强大工业场景的公司将获得先发优势。这不仅是技术趋势，更是全球制造业格局重构的信号。",
+      "original_text": "Satya Nadella: The next platform shift is embodied AI\n正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "萨提亚·纳德拉：下一个平台转变是具身智能\n正文：我们正在进入一个AI不仅仅是生成文本和图像——而是操纵原子的时代。机器人基础模型正处于2020年时大语言模型的位置。那些攻克了模拟到现实迁移问题的公司将定义未来十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.14 19:30",
+      "title": "Anthropic转向谷歌以支持其大规模数据中心扩张",
+      "summary": "AI安全公司Anthropic据报道已转向谷歌，以支持其大规模数据中心扩张计划。此举凸显了开发尖端AI模型所需的惊人计算资源和资本投入，以及大型科技云平台与顶尖AI研究公司之间日益加深的依赖关系。",
+      "stars": "★★★★",
+      "insight": "这条新闻揭示了AI竞赛的‘资本密度’本质。即使是以安全和责任AI著称的Anthropic，也需要依赖超大规模云服务商（谷歌）来支撑其扩张，这证明了‘AI工厂’已成为基础设施级别的投资。这对云计算巨头（谷歌、亚马逊、微软）的商业模式是强利好，因为它们提供了AI竞赛的‘铲子’。同时，这也意味着AI领域的进入门槛和垄断性正在迅速提高，独立训练大型模型可能很快将只有少数几家巨头能够承担。",
+      "original_text": "Anthropic Turns To Google To Back Massive Data Center Push",
+      "full_translation": "Anthropic转向谷歌以支持其大规模数据中心扩张",
+      "source_name": "Yahoo_Finance",
+      "source_url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-turns-google-back-massive-193024074.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.14 19:11",
       "title": "白宫AI监管决定被指偏袒OpenAI与亚马逊，引发对公平性与全球AI竞争的担忧",
       "summary": "专家批评白宫针对Anthropic的AI监管决定缺乏透明度和事实依据，过程闭门且迅速，存在偏袒OpenAI和亚马逊等企业的嫌疑。此举可能促使其他国家加速发展主权AI，加剧人才流失，并凸显了建立独立、基于证据的AI监管机构的迫切性。",
@@ -2361,36 +2397,6 @@
       "insight": "这标志着AGI从理论探讨进入工程冲刺阶段。时间表的加速将颠覆现有的AI治理、伦理和商业模型框架。当“超级智能”的实现从“如果”变为“何时”，所有依赖AI能力的行业——从软件开发到金融建模——都必须提前进行颠覆性调整，否则将面临被淘汰的风险。",
       "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
       "full_translation": "刚看了我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力之间的差距，其缩小速度比我们2024年的任何预测都要快。在实现通用人工智能之前，我们可能需要重新审视其定义。"
-    },
-    {
-      "category": "全球金融",
-      "date": "2026.06.03 04:56",
-      "title": "Vitalik Buterin发出最后通牒：加密货币18个月内必须落地杀手级应用，否则将遭监管封杀",
-      "summary": "以太坊创始人Vitalik Buterin警告，加密货币“纯属投机”的叙事在政策制定者中日益固化。他认为，若未来18个月内无法在汇款、身份认证和DAO治理等领域推出具有实际价值的应用，监管窗口将永久关闭。",
-      "stars": "★★★★",
-      "insight": "这标志着加密行业从“叙事驱动”向“实用价值驱动”的生死转型。监管机构已对金融稳定和消费者保护失去耐心。未来18个月是行业证明自身价值的最后窗口期，无法解决跨境支付、数字身份等现实痛点的项目将被视为金融噪音，面临严厉的政策打击，可能导致大规模出清。",
-      "original_text": "Spent the weekend talking to policymakers in 3 countries. The narrative that crypto is just speculation is becoming entrenched. If we dont ship killer apps for remittances, identity, and DAO governance in the next 18 months, the regulatory window slams shut permanently.",
-      "full_translation": "上周末与三个国家的政策制定者进行了交谈。‘加密货币纯属投机’的叙事正在固化。如果我们不能在未来18个月内推出针对汇款、身份认证和DAO治理的杀手级应用，监管窗口将永久关闭。"
-    },
-    {
-      "category": "地缘政治",
-      "date": "2026.06.03 04:56",
-      "title": "美国监管机构淡化“声誉风险”，或为加密货币与银行合作松绑",
-      "summary": "美国多家金融监管机构发布声明，移除了文件中更多关于“声誉风险”的引用。此举被市场解读为银行业与加密货币等新兴行业合作的关键政策障碍正在被清除，旨在提升美国金融体系的竞争力。",
-      "stars": "★★★",
-      "insight": "在数字资产与传统金融体系加速融合的背景下，监管层面的模糊地带是主要障碍。“声誉风险”条款曾导致银行因惧怕监管不确定性而拒绝为加密企业提供服务。淡化这一概念，是美国在不直接立法的情况下，为金融科技和加密产业提供“监管安全港”的实质性举措，意在巩固其全球金融中心地位，应对他国竞争。",
-      "original_text": "Agencies remove additional references to reputation risk",
-      "full_translation": "（监管）机构移除了更多关于声誉风险的引用。"
-    },
-    {
-      "category": "具身智能",
-      "date": "2026.06.03 04:56",
-      "title": "微软CEO Satya Nadella：下一个平台转移是具身智能，将重塑制造业",
-      "summary": "微软CEO Satya Nadella指出，AI正从生成文本和图像转向操纵原子，即具身智能时代。他认为机器人基础模型的发展阶段相当于2020年的大语言模型，而攻克仿真到现实迁移问题的公司将定义未来十年的制造业。",
-      "stars": "★★★★★",
-      "insight": "Nadella的断言将“具身智能”提升至平台级革命的高度。核心瓶颈在于“仿真到现实迁移”——如何让在虚拟环境中训练的机器人模型在复杂物理世界中可靠工作。一旦突破，将不仅引发制造业自动化革命，更将催生机器人操作系统、专用传感器和工业元宇宙等全新生态，其影响将远超当前的生成式AI。",
-      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
-      "full_translation": "我们正进入一个AI不仅能生成文本和图像——更能操纵原子的时代。机器人基础模型正处于大语言模型在2020年的发展阶段。那些能攻克仿真到现实迁移问题的公司将定义未来十年的制造业。"
     }
   ]
 }
