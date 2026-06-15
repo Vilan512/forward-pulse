@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-15 17:59:43
-# 共计 63 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-15 20:47:13
+# 共计 32 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-15 18:46]
+标题: Why do South Koreans love AI so much?
+链接: https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home, people were glued to their phones (powered by flawless 5G even underground), as we raced past platforms lined with LED screens of ads celebrating K-pop idols’ birthdays. When I got off the station in Gangnam, a cartoon-eyed robot on wheels was waiting patiently at a crosswalk to deliver someone’s dinner. Internet cafés dotted the sidewalks, crammed with teenagers playing computer games, maybe hoping to become the next legendary pro gamer. I stood at a bus stop with interactive touch screens showing real-time bus schedule updates. It will soon become an “AI bus stop,” the Gangnam district announced in June, with a kiosk that answers riders’ questions in multiple languages. The news didn’t surprise me. Having grown up in the city, I’ve watched Seoul transform from a scrappy boomtown into the gleaming tech capital it is today. South Korea loves AI. While a public backlash against AI is brewing across the US, South Koreans are optimistic. Only 16% say they are more concerned than excited about AI—the lowest of any of the 25 countries surveyed by the Pew Research Center—while 50% of Americans were more worried than excited. A majority of Koreans use AI every day, either as a sort of personal assistant or to do tasks at work, according to surveys by the Ministry of Culture, Sports, and Tourism and Korea Chamber of Commerce and Industry. One of the most wired countries in the world, South Korea loves to street-test every new technology on the block—AI webcomics, virtual K-pop idols, and humanoid monks. And the appetite for experimentation doesn’t stop with ordinary citizens. Government agencies are early adopters too, deploying AI textbooks in sch
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-15 15:12]
 标题: This man with ALS is “the first power user” of a brain implant that lets him speak
@@ -15,6 +20,16 @@
 标题: These new solid-state ACs promise a cool future. Scientists aren’t so sure.
 链接: https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/
 正文: After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet. Artificial chill already accounts for 7% of global electricity use and 3% of greenhouse-gas emissions, and if improperly disposed of, the units can leak refrigerants with more global-­warming potential than carbon dioxide. Feeling the heat, a number of scientists and startups are hoping to amp up solid-­state cooling, which is currently used at a small scale for things like mini fridges, EV batteries, and some high-end gaming computers. Traditional ACs transfer heat by using a compressor and a fan to circulate a refrigerant and turn it from liquid to gas. Solid-state systems, on the other hand, move heat through conductive materials like gadolinium and bismuth telluride—which could theoretically cool spaces and surfaces with fewer messy side effects. The catch is whether they can match the efficiency of conventional AC. “One of the key questions that remain is why are the solid-state coolers not as efficient as typical thermodynamic cycles?” says Pramod Reddy, a professor of mechanical engineering at the University of Michigan who studies heat transfer.&nbsp; Research and pilot programs are underway to test a range of approaches. Brooklyn-based Mimic Systems uses thermo­electric cooling, which passes a current through semiconductive materials to shift heat from one side to another. Its room-scale climate control system is being piloted in an apartment in Vancouver. The German company Magnotherm is set to test its system, which relies on a magneto­caloric setup that transfers heat by magnetizing and demagnetizing materials, in a chain of supermarkets. A team in Hong Kong has announced that its elastocaloric device, whos
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 18:30]
+标题: Meta 在 Facebook 上线"AI Mode"，基于平台公开信息合成答案
+链接: https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms
+正文: Meta 宣布在 Facebook 推出"AI Mode"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击"AI Edit"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 18:16]
+标题: OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B
+链接: https://x.com/OpenRouter/status/2066585705581797616
+正文: OpenRouter 上新增免费容量，由 @eigenlabs 的 Darkbloom 提供：gpt-oss-20b 和 Gemma 4 26B。 今天就开始使用这些模型吧 ↓
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 17:25]
 标题: 下一代投机解码：DFlash 与 Spec V2
@@ -66,166 +81,34 @@
 链接: https://x.ai/news/agent-dashboard
 正文: xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\` 打开，关闭后会话继续运行，重新打开即可恢复。
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-14 20:07]
-标题: Oil executives send a blunt message to Americans on gas prices
-链接: https://finance.yahoo.com/sectors/energy/articles/oil-executives-send-blunt-message-200700286.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 13:33]
 标题: Cathie Wood buys $529.7 million of popular new stock
 链接: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-529-7-133300502.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:32]
-标题: Market Rallies On Peace Plan Hopes; These Stocks Set To Break Out
-链接: https://www.investors.com/news/iran-ceasefire-trump-stocks-sp-500-airlines-mining-companies/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:24]
-标题: Boeing Stock Jumps And Regains Key Support Levels
-链接: https://www.investors.com/news/boeing-stock-iran-us-ceasefire-sp-500-dow-jones-airbus-embraer/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:50]
-标题: Weekly Stock List
-链接: https://finance.yahoo.com/research/reports/ARGUS_47331_StockPicks_1781524221000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:28]
-标题: Roku Is Being Acquired. Here's What Investors Need to Know.
-链接: https://finance.yahoo.com/markets/stocks/articles/roku-being-acquired-heres-investors-172816911.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:22]
-标题: Dow Jones Stocks: Honeywell Aerospace Looms As GE Stock Breaks Out
-链接: https://www.investors.com/news/dow-jones-stocks-honeywell-aerospace-looms-ge-stock-breaks-out/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-14 22:47]
-标题: Stock market today: Dow, S&P 500, Nasdaq soar on US-Iran pact to reopen Hormuz
-链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:12]
-标题: Corning, IBD Stock Of The Day, Boosted By AI Data Center Play
-链接: https://www.investors.com/research/ibd-stock-of-the-day/corning-stock-artificial-intelligence-data-centers-photonics/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:12]
-标题: Analyst Report: Adobe Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2675_AnalystReport_1781521963000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:27]
-标题: 1 Top ETF to Buy for the $1 Trillion AI Infrastructure Boom
-链接: https://finance.yahoo.com/markets/stocks/articles/1-top-etf-buy-1-172700584.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 13:12]
-标题: Bitcoin recovers to $66,000, but one analyst warns of a 'dead-cat bounce'
-链接: https://finance.yahoo.com/markets/crypto/article/bitcoin-recovers-to-66000-but-one-analyst-warns-of-a-dead-cat-bounce-131244858.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:02]
-标题: Bullish Spread Targets Citigroup Stock Momentum With Limited Risk
-链接: https://www.investors.com/research/options/citigroup-citi-bank-c-stock-options-trading-financials-markets/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:00]
-标题: Newly minted SpaceX millionaires are preparing for their first big purchases — and luxury real estate is top of mind
-链接: https://finance.yahoo.com/markets/stocks/articles/newly-minted-spacex-millionaires-preparing-170000981.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:50]
-标题: Kiyosaki warns Americans are victims of a ‘slow, invisible heist’ they won’t notice until too late. Protect yourself now
-链接: https://finance.yahoo.com/economy/policy/articles/kiyosaki-warns-americans-victims-slow-165000195.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:12]
-标题: Analyst Report: Monster Beverage Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1781521963000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:25]
-标题: Which Is the Better Tech ETF for Artificial Intelligence (AI) Stocks, State Street's XLK or Vanguard's VGT?
-链接: https://finance.yahoo.com/markets/stocks/articles/better-tech-etf-artificial-intelligence-172547461.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:38]
-标题: Stock Market Today: Dow Jumps As Trump Makes This Iran Move; AI Player, Airline Fly Past Entries (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:32]
-标题: Nvidia joins Wall Street's AI funding wave
-链接: https://finance.yahoo.com/markets/article/nvidia-joins-wall-streets-ai-funding-wave-163231887.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:28]
-标题: Cass report: Freight volume recovery set for second half
-链接: https://finance.yahoo.com/economy/articles/cass-report-freight-volume-recovery-162802757.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:26]
-标题: Enhanced Raises $50M to Fuel Next Phase, Backed by Major Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/enhanced-raises-50m-fuel-next-162635975.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:59]
-标题: Daily Spotlight: Prices Keep Climbing
-链接: https://finance.yahoo.com/research/reports/ARGUS_47327_MarketOutlook_1781521154000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 16:14]
-标题: This Financial Bellwether Bankrolls A Breakout
-链接: https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/kre-etf-state-street-spdr-sp-regional-banking-etf/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:54]
-标题: OpenAI wins dismissal of trade secret lawsuit by Musk's xAI
-链接: https://finance.yahoo.com/sectors/technology/articles/openai-wins-dismissal-trade-secret-155436782.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:58]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47326_TechnicalAnalysis_1781521099000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:21]
-标题: Is American Superconductor a Sell After a Director Sells $151,000 in Stock?
-链接: https://finance.yahoo.com/markets/stocks/articles/american-superconductor-sell-director-sells-172105620.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:53]
-标题: SpaceX just took Palantir's top spot with one of the most excessive valuation multiples in megacap tech
-链接: https://finance.yahoo.com/markets/article/spacex-just-took-palantirs-top-spot-with-one-of-the-most-excessive-valuation-multiples-in-megacap-tech-155303264.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:52]
-标题: Fuel Up Your Portfolio with Suja Life’s Farm-to-Bottle Growth Strategy
-链接: https://finance.yahoo.com/markets/stocks/articles/fuel-portfolio-suja-life-farm-155218322.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:06]
+标题: Market Update: MDT
+链接: https://finance.yahoo.com/research/reports/ARGUS_47333_MarketUpdate_1781543167000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
-标题: Mortgage and refinance interest rates today, Monday, June 15, 2026: Purchase and refinance rates stay close
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-june-15-2026-100000353.html
+标题: HELOC and home equity loan rates, Monday, June 15, 2026: A 61-basis-point spread between HELOC and HEL rates - but why?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-june-15-2026-100000857.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:45]
-标题: Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal
-链接: https://www.investors.com/news/technology/chip-stocks-record-high-sox-amd-micron-soxx/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
+标题: Best high-yield savings interest rates today, Monday, June 15, 2026: Earn up to 4.1% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-15-2026-100000214.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:57]
-标题: Market Digest: ADBE, MNST, HLT, KVUE, COIN
-链接: https://finance.yahoo.com/research/reports/ARGUS_47324_MarketSummary_1781521063000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
+标题: Best money market account rates today, Monday, June 15, 2026: Earn up to 4.01% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-june-15-2026-100000811.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:20]
-标题: Should You Buy The Dip In Adobe Stock?
-链接: https://finance.yahoo.com/markets/stocks/articles/buy-dip-adobe-stock-172048417.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
+标题: Best CD rates today, Monday, June 15, 2026: Lock in up to 4% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-15-2026-100000920.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:44]
-标题: What is the average interest rate for savings accounts?
-链接: https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 15:33]
-标题: Microsoft sued by shareholders over expenses, cloud business, AI
-链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-sued-shareholders-over-expenses-153306669.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:46]
-标题: Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-15-2026-prices-rising-after-us-iran-agree-to-ceasefire-deal-114616600.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:25]
-标题: Silver prices today, Monday, June 15, 2026: Silver prices moving up following U.S., Iran ceasefire deal
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-15-2026-silver-prices-moving-up-following-us-iran-ceasefire-deal-112535606.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:25]
-标题: Daily – Vickers Top Insider Picks for 06/15/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47322_InsiderActivity_1781519144000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:20]
-标题: Here's When Pfizer's CEO Says the Company Might Get Back to Generating High-Single-Digit Growth
-链接: https://finance.yahoo.com/markets/stocks/articles/heres-pfizers-ceo-says-company-172000069.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:00]
-标题: Gold prices today, Monday, June 15: Gold moves higher following U.S., Iran ceasefire agreement
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-15-gold-moves-higher-following-us-iran-ceasefire-agreement-110001139.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-15 17:24]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-15 19:17]
 标题: SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision
 链接: https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html
-正文: Those who did receive stock are taking different approaches, with some selling into the company's market debut while others are holding for the long haul.
+正文: Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-15 17:48]
 标题: Stocks making the biggest moves midday: SpaceX, Roku, Tripadvisor, Ferrari & more
@@ -247,11 +130,6 @@
 链接: https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-premarket-spcx-ual-foxa.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-14 20:29]
-标题: Charlie Javice reportedly seeking a pardon from Trump
-链接: https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html
-正文: Javice founded a startup called Frank that JPMorgan acquired in 2021 for $175 million.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-15 00:00]
 标题: Phil Ozuah on enhancing ambulatory care and accessibility
 链接: https://www.mckinsey.com/industries/healthcare/our-insights/phil-ozuah-on-enhancing-ambulatory-care-and-accessibility
@@ -267,10 +145,10 @@
 链接: https://www.mckinsey.com/capabilities/transformation/our-insights/collective-action-collective-success-a-ceos-role-in-transformations
 正文: Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address collective-action problems.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-15 17:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-15 20:47]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-15 17:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-15 20:47]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
