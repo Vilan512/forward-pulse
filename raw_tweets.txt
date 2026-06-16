@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-15 22:57:42
-# 共计 39 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-16 00:28:48
+# 共计 34 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-15 18:46]
 标题: Why do South Koreans love AI so much?
@@ -20,6 +20,11 @@
 标题: These new solid-state ACs promise a cool future. Scientists aren’t so sure.
 链接: https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/
 正文: After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet. Artificial chill already accounts for 7% of global electricity use and 3% of greenhouse-gas emissions, and if improperly disposed of, the units can leak refrigerants with more global-­warming potential than carbon dioxide. Feeling the heat, a number of scientists and startups are hoping to amp up solid-­state cooling, which is currently used at a small scale for things like mini fridges, EV batteries, and some high-end gaming computers. Traditional ACs transfer heat by using a compressor and a fan to circulate a refrigerant and turn it from liquid to gas. Solid-state systems, on the other hand, move heat through conductive materials like gadolinium and bismuth telluride—which could theoretically cool spaces and surfaces with fewer messy side effects. The catch is whether they can match the efficiency of conventional AC. “One of the key questions that remain is why are the solid-state coolers not as efficient as typical thermodynamic cycles?” says Pramod Reddy, a professor of mechanical engineering at the University of Michigan who studies heat transfer.&nbsp; Research and pilot programs are underway to test a range of approaches. Brooklyn-based Mimic Systems uses thermo­electric cooling, which passes a current through semiconductive materials to shift heat from one side to another. Its room-scale climate control system is being piloted in an apartment in Vancouver. The German company Magnotherm is set to test its system, which relies on a magneto­caloric setup that transfers heat by magnetizing and demagnetizing materials, in a chain of supermarkets. A team in Hong Kong has announced that its elastocaloric device, whos
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 23:16]
+标题: 项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构
+链接: https://www.ithome.com/0/964/620.htm
+正文: 苹果AI版Siri迟迟未上线，项目负责人迈克·罗克韦尔在WWDC技术分享会上透露，去年团队曾做出在原有Siri基础上小幅改良、新增工具调用的可运行版本，但因无法达到产品愿景，最终选择推倒重来，完整从零重构系统，依托全新大模型搭建。重构后的Siri拥有独立应用程序，原生支持多模态交互，隐私保护贯穿底层架构，并覆盖iPhone、iPad、Mac、Apple Watch、Vision Pro、CarPlay、AirPods等全平台，提供统一连贯体验。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 20:15]
 标题: GitHub Copilot CLI 初学者指南：常用斜杠命令概览
@@ -76,16 +81,6 @@
 链接: https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg
 正文: 今年科技公司已累计裁员约15万人，日均974人，速度比去年快44%；上月裁员近4万创两年新高，AI连续三个月被列为裁员首要原因。Block近半数员工被裁后，CEO Jack Dorsey否认AI是根源，Marc Andreessen则称AI只是"银弹借口"。Uber裁撤23%人事部门，但此前CTO透露AI编码预算四个月内耗尽。与此同时，AI芯片商Cerebras上市首日市值达670亿美元，SpaceX上市市值2.1万亿美元，Anthropic和OpenAI估值均约1万亿美元。Meta在扎克伯格购入1.7亿美元豪宅后宣布裁员8000人。民调显示65%选民认为中产阶级生活遥不可及，76%美国人将生活成本列为首要经济问题。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 00:00]
-标题: AI 应用黄金时代已至：Fable 被禁、Nadella 的护城河论点与 Salesforce 收购 Fin
-链接: https://www.tomtunguz.com/golden-age-of-applications
-正文: 美国政府关闭 Anthropic 的 Fable 访问，开源和本地模型成必备；Satya Nadella 主张 AI 生态护城河应是人类专业知识和模型外围系统；Salesforce 以 36 亿美元收购 Fin（前 Intercom），Fin 利用开源模型实现性价比。这三件事标志 AI 应用进入黄金时代。构建 AI 应用的难点：在 Kimi K2.6、Qwen 3.6 27b、GLM 5.1 等不同特性模型中选择；设计智能体系统的 hill-climbing 循环；持续评估模型+循环性能以最大化 token 预算中的智能。掌握这三项技能的公司将主导这一时代。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 00:00]
-标题: Grok Build 推出 Agent Dashboard 管理多个编码会话
-链接: https://x.ai/news/agent-dashboard
-正文: xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\` 打开，关闭后会话继续运行，重新打开即可恢复。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 13:33]
 标题: Cathie Wood buys $529.7 million of popular new stock
 链接: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-529-7-133300502.html
@@ -93,10 +88,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 17:06]
 标题: Market Update: MDT
 链接: https://finance.yahoo.com/research/reports/ARGUS_47333_MarketUpdate_1781543167000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
-标题: HELOC and home equity loan rates, Monday, June 15, 2026: A 61-basis-point spread between HELOC and HEL rates - but why?
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-june-15-2026-100000857.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
 标题: Best high-yield savings interest rates today, Monday, June 15, 2026: Earn up to 4.1% APY
@@ -110,6 +101,10 @@
 标题: Best CD rates today, Monday, June 15, 2026: Lock in up to 4% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-15-2026-100000920.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
+标题: HELOC and home equity loan rates, Monday, June 15, 2026: A 61-basis-point spread between HELOC and HEL rates - but why?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-june-15-2026-100000857.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 11:00]
 标题: Gold prices today, Monday, June 15: Gold moves higher following U.S., Iran ceasefire agreement
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-15-gold-moves-higher-following-us-iran-ceasefire-agreement-110001139.html
@@ -122,13 +117,10 @@
 标题: Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-15-2026-prices-rising-after-us-iran-agree-to-ceasefire-deal-114616600.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 10:00]
-标题: Mortgage and refinance interest rates today, Monday, June 15, 2026: Purchase and refinance rates stay close
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-june-15-2026-100000353.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-15 20:19]
-标题: Money market fund vs. CD: Which option is better for keeping cash safe?
-链接: https://finance.yahoo.com/personal-finance/banking/article/money-market-fund-vs-cd-201943976.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-15 23:25]
+标题: People in China are watching the World Cup differently this time
+链接: https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html
+正文: A 12-hour-plus time difference and various streaming options are influencing how people in China watch the World Cup.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-15 22:39]
 标题: CFTC chair Selig defends decision to approve ‘perps’ in U.S.
@@ -160,25 +152,10 @@
 链接: https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-premarket-spcx-ual-foxa.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-15 00:00]
-标题: Phil Ozuah on enhancing ambulatory care and accessibility
-链接: https://www.mckinsey.com/industries/healthcare/our-insights/phil-ozuah-on-enhancing-ambulatory-care-and-accessibility
-正文: The president and CEO of Montefiore Einstein talks about technology in healthcare, opportunities to close gaps in patient access, and his own path to leadership.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-15 00:00]
-标题: The health system CEO imperative: Turning AI’s promise into performance
-链接: https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance
-正文: Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care and operations run.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-15 00:00]
-标题: Collective action, collective success: A CEO’s role in transformations
-链接: https://www.mckinsey.com/capabilities/transformation/our-insights/collective-action-collective-success-a-ceos-role-in-transformations
-正文: Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address collective-action problems.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-15 22:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-16 00:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-15 22:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-16 00:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
