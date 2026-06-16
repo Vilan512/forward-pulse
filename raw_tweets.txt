@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-16 17:56:03
-# 共计 75 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-16 20:42:20
+# 共计 48 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-16 20:35]
+标题: Exclusive eBook: How AI is becoming the next military advisor
+链接: https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+正文: A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to download this eBook: Download PDF Download ePub Related Stories: 10 Things That Matter in AI Right Now: The new war room Generative AI is learning to spy for the US military Phase two of military AI has arrived A defense official reveals how AI chatbots could be used for targeting decisions The Pentagon is planning for AI companies to train on classified data, defense official says How AI is turning the Iran conflict into theater
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-16 12:10]
 标题: The Download: the first brain implant power user and South Korea’s AI obsession
@@ -11,10 +16,30 @@
 链接: https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/
 正文: At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different kind of stress: a huge and sudden increase in demand for electricity. But National Grid, which operates the local transmission network, was ready. Just as those kettles started heating up, an AI program sent instructions to a data center in London to slow down some of the facility’s power-hungry chips. This reduction helped make sure there was enough supply to match demand, staving off potential blackouts or damage to electrical hardware. For data centers, which normally guzzle power without consideration for anyone or anything else’s needs, it was a radical departure. It was also a simulation. In December 2025, engineers sought to test a new breed of data center built to be flexible about its electricity needs, so they re-created the energy demand facing the UK’s grid during a match from the 2020 Euro tournament. They wanted to see how their software, called Conductor, would have responded had it been online at the time. Conductor is the signature product of Emerald AI, a firm based in Washington, DC, that’s part of a wave of companies trying to figure out whether data centers can work within the confines of the existing electric grid. This year, Emerald is set to deploy Conductor in a new facility in the part of Virginia known as Data Center Alley, this time connected to the live grid. When overall demand spikes, Conductor will turn down the power used by the data center, while making sure its servers still carry out their timeliest and most important jobs. Emerald’s partners on the project—which include Nvidia and the giant data-center operator Digital Realty—bill it as one of the world’s first “power-flexible AI factories.” Demonstrating that data centers can participate
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-15 18:46]
-标题: Why do South Koreans love AI so much?
-链接: https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home, people were glued to their phones (powered by flawless 5G even underground), as we raced past platforms lined with LED screens of ads celebrating K-pop idols’ birthdays. When I got off the station in Gangnam, a cartoon-eyed robot on wheels was waiting patiently at a crosswalk to deliver someone’s dinner. Internet cafés dotted the sidewalks, crammed with teenagers playing computer games, maybe hoping to become the next legendary pro gamer. I stood at a bus stop with interactive touch screens showing real-time bus schedule updates. It will soon become an “AI bus stop,” the Gangnam district announced in June, with a kiosk that answers riders’ questions in multiple languages. The news didn’t surprise me. Having grown up in the city, I’ve watched Seoul transform from a scrappy boomtown into the gleaming tech capital it is today. South Korea loves AI. While a public backlash against AI is brewing across the US, South Koreans are optimistic. Only 16% say they are more concerned than excited about AI—the lowest of any of the 25 countries surveyed by the Pew Research Center—while 50% of Americans were more worried than excited. A majority of Koreans use AI every day, either as a sort of personal assistant or to do tasks at work, according to surveys by the Ministry of Culture, Sports, and Tourism and Korea Chamber of Commerce and Industry. One of the most wired countries in the world, South Korea loves to street-test every new technology on the block—AI webcomics, virtual K-pop idols, and humanoid monks. And the appetite for experimentation doesn’t stop with ordinary citizens. Government agencies are early adopters too, deploying AI textbooks i
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 19:35]
+标题: Anthropic：智能体编码中专业知识回报持续存在
+链接: https://www.anthropic.com/research/claude-code-expertise
+正文: Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:37]
+标题: Meta 解散工程部门引发热议
+链接: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
+正文: 6月16日，一篇标题为"Why is Meta destroying its engineering organization？"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:08]
+标题: 微软考虑为 Copilot Cowork 集成 DeepSeek V4
+链接: https://x.com/kimmonismus/status/2066946013026263110
+正文: 微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:00]
+标题: 公开聊天数据能否预测真实世界AI失调？
+链接: https://alignment.openai.com/validating-public-evals
+正文: OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 16:45]
+标题: Fable 遭美国政府封禁，TechCrunch 质疑真正原因并非模型越狱
+链接: https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak
+正文: 美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的"模型越狱"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 15:50]
 标题: Copilot Cowork 全球正式可用，支持多模型
@@ -66,6 +91,11 @@
 链接: https://x.com/testingcatalog/status/2066773392527655252
 正文: Cartesia 推出 Sonic 3.5 和 Ink 2 两个模型，作为单一实时语音栈，分别负责文本转语音和语音转文本。Ink 2 在 Artificial Analysis 的流式语音转文字排行榜上排名第一。Sonic 3.5 在实时文本转语音中位列榜首，首音频延迟约 82ms。Cartesia 成为目前唯一同时拥有 #1 听与说模型的提供商。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 04:29]
+标题: 微软旗下GitHub遭遇AI算力短缺，转而向AWS寻求支持
+链接: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch
+正文: 微软旗下GitHub面临AI算力短缺，微软因此转向亚马逊AWS寻求计算资源支持。原文来自Hacker News热门讨论，标题为"Microsoft turns to AWS as GitHub faces AI capacity crunch"。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 02:39]
 标题: AI 版支付宝官宣开启邀测：右滑打开"阿宝"，官方放出 100 个邀请码
 链接: https://www.ithome.com/0/964/691.htm
@@ -92,6 +122,11 @@
 正文: 五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为"供应链风险"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 00:00]
+标题: OpenAI 发布 Deployment Simulation 方法：通过模拟部署预测模型发布前行为
+链接: https://openai.com/index/deployment-simulation
+正文: OpenAI 近日发布 Deployment Simulation 方法，通过在隐私保护下重放历史对话、用新候选模型重新生成回复，模拟模型上线后的实际表现。在多个 GPT-5-series Thinking 部署中，该方法比传统评估更准确地估计了不良行为频率，发现新型对齐问题，并降低模型识别测试的风险。它还能扩展至涉及工具使用的智能体场景。传统评估存在覆盖不足、选择偏差和模型可识别测试等局限，而 Deployment Simulation 使用真实对话分布缓解了这些问题，但无法测量频率低于每 20 万条消息 1 次的行为。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 00:00]
 标题: Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片
 链接: https://x.ai/news/introducing-powerpoint-addin
 正文: xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插件上线。用户无需离开应用即可利用 Grok 将大纲转为完整幻灯片，进行内容研究、撰写、排版，并支持添加单张幻灯片、调整样式主题、重构章节。插件还能调用 Grok 连接器，从邮件或 SharePoint 中获取信息。该插件同样适用于 Word 和 Excel。
@@ -116,183 +151,46 @@
 链接: https://www.ithome.com/0/964/620.htm
 正文: 苹果AI版Siri迟迟未上线，项目负责人迈克·罗克韦尔在WWDC技术分享会上透露，去年团队曾做出在原有Siri基础上小幅改良、新增工具调用的可运行版本，但因无法达到产品愿景，最终选择推倒重来，完整从零重构系统，依托全新大模型搭建。重构后的Siri拥有独立应用程序，原生支持多模态交互，隐私保护贯穿底层架构，并覆盖iPhone、iPad、Mac、Apple Watch、Vision Pro、CarPlay、AirPods等全平台，提供统一连贯体验。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 20:15]
-标题: GitHub Copilot CLI 初学者指南：常用斜杠命令概览
-链接: https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands
-正文: GitHub Copilot CLI 为初学者提供了常用斜杠命令的概述，帮助用户通过命令控制终端中的 AI 智能体。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 18:30]
-标题: Meta 在 Facebook 上线"AI Mode"，基于平台公开信息合成答案
-链接: https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms
-正文: Meta 宣布在 Facebook 推出"AI Mode"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击"AI Edit"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-15 18:16]
-标题: OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B
-链接: https://x.com/OpenRouter/status/2066585705581797616
-正文: OpenRouter 上新增免费容量，由 @eigenlabs 的 Darkbloom 提供：gpt-oss-20b 和 Gemma 4 26B。 今天就开始使用这些模型吧 ↓
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:26]
-标题: CarMax Earnings Due; Carvana Makes 'Most Disruptive' Move
-链接: https://www.investors.com/news/carmax-earnings-carmax-stock-kmx-stock-buy-zone-carvana-move/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:00]
-标题: Mortgage and refinance rates today, Tuesday, June 16, 2026: 30- and 15-year rates falling while other rates rising
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-16-2026-100000747.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:17]
-标题: Dow Jones Tech Titan Apple Rebounds From Support; AI Leader Teradyne Breaks Out
-链接: https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-teradyne-breaks-out/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:01]
+标题: Market Update: TEVA, APD, DG
+链接: https://finance.yahoo.com/research/reports/ARGUS_47346_MarketUpdate_1781629272000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 11:09]
 标题: Daily Spotlight: Raising GDP Estimates
 链接: https://finance.yahoo.com/research/reports/ARGUS_47343_MarketOutlook_1781608155000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:35]
-标题: Is Microsoft a Deep Value Stock?
-链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-deep-value-stock-173500055.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:07]
-标题: Anthropic IPO: What to know before you buy the stock
-链接: https://finance.yahoo.com/personal-finance/investing/article/anthropic-ipo-what-to-know-before-you-buy-the-stock-170741665.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:01]
-标题: IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone
-链接: https://www.investors.com/research/ibd-stock-of-the-day/quanta-services-pwr-stock-of-the-day-ai-data-centers/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:53]
-标题: Snap CEO Spiegel defends Specs as long-term bet, pushes back against activist pressure
-链接: https://finance.yahoo.com/technology/articles/snap-ceo-spiegel-defends-specs-165336776.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 11:08]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47342_TechnicalAnalysis_1781608094000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:34]
-标题: CoreWeave Is Up 10% Today: Is It Outperforming Other AI Cloud Stocks Like Cloudflare and Snowflake?
-链接: https://finance.yahoo.com/markets/stocks/articles/coreweave-10-today-outperforming-other-173448476.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:53]
-标题: Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open
-链接: https://finance.yahoo.com/energy/articles/oil-prices-fall-5-3-165301960.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:49]
-标题: SpaceX rockets past Amazon, eyes Microsoft in sprint toward $3 trillion
-链接: https://finance.yahoo.com/markets/article/spacex-rockets-past-amazon-eyes-microsoft-in-sprint-toward-3-trillion-164918333.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:49]
-标题: Global stock index near flat; SpaceX shares jump
-链接: https://finance.yahoo.com/news/asia-markets-temper-iran-deal-011441660.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:44]
-标题: US single-family housing starts slide to eight-month low; imported inflation increases sharply
-链接: https://finance.yahoo.com/real-estate/articles/us-single-family-housing-starts-130631825.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:51]
-标题: Market Digest: CP, BBWI
-链接: https://finance.yahoo.com/research/reports/ARGUS_47340_MarketSummary_1781607084000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:33]
-标题: Prediction: This is Where DraftKings Will End The Year
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-where-draftkings-end-173308001.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:43]
-标题: John Wiley & Sons, Inc. Q4 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/john-wiley-sons-inc-q4-164353086.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:42]
-标题: A Trillion-Dollar Prediction Markets Boom Is Great For Wall Street. For Retail Investors? Not So Much.
-链接: https://www.investors.com/news/a-trillion-dollar-prediction-markets-boom-is-great-for-wall-street-for-retail-investors-not-so-much/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:35]
-标题: Elon Musk could lose nearly $1 trillion and still be the world's richest person
-链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-could-lose-nearly-163500207.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:30]
-标题: Regret taking Social Security at 70? Here’s what to do if it haunts you (and why younger Boomers must take notice)
-链接: https://finance.yahoo.com/markets/articles/regret-taking-social-security-70-163000837.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:51]
 标题: Analyst Report: Bath & Body Works Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1781607084000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:33]
-标题: Nvidia's $25B bond deal sends investors a clear signal
-链接: https://finance.yahoo.com/markets/stocks/articles/nvidias-25b-bond-deal-sends-173300745.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:29]
-标题: Fortinet Stock: Aim For A 28% Return With This Strategy On The Cybersecurity Firm
-链接: https://www.investors.com/research/options/fortinet-stock-ftnt-cybersecurity-options-trade-investing-markets/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:25]
-标题: Gold IRA vs. Gold ETF in 2026: A 28% tax difference most investors miss
-链接: https://finance.yahoo.com/markets/commodities/articles/gold-ira-vs-gold-etf-162500197.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:18]
-标题: Stock Market Today: Dow Hits A High, Nasdaq Lags; SpaceX Surges, Aerospace Play Breaks Out (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 14:13]
-标题: Fed meeting live: Kevin Warsh faces challenging inflation backdrop in his first meeting as Fed chairman
-链接: https://finance.yahoo.com/economy/live/fed-meeting-live-kevin-warsh-faces-challenging-inflation-backdrop-in-his-first-meeting-as-fed-chairman-141312780.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:51]
+标题: Market Digest: CP, BBWI
+链接: https://finance.yahoo.com/research/reports/ARGUS_47340_MarketSummary_1781607084000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:49]
 标题: Daily – Vickers Top Insider Picks for 06/16/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47338_InsiderActivity_1781606969000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:30]
-标题: This Is Exactly How the IRS Determines Your RMD
-链接: https://finance.yahoo.com/markets/currencies/articles/exactly-irs-determines-rmd-173059958.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 20:19]
+标题: Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options
+链接: https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html
+正文: Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 16:10]
-标题: CBRE Stock: How To Find & Own America's Greatest Opportunities
-链接: https://www.investors.com/how-to-invest/cbre-stock-cb-richard-ellis-americas-greatest-opportunities/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:49]
-标题: Daily – Vickers Top Buyers & Sellers for 06/16/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47339_TopBottomInsiderActivity_1781606969000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:30]
-标题: AbbVie Stock Will Hit $300 on This Date
-链接: https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-hit-300-date-173018903.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 11:33]
-标题: Bitcoin and ethereum prices today, Tuesday, June 16, 2026: Highest opening values in two weeks
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-june-16-2026-highest-opening-values-in-two-weeks-113313567.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:28]
-标题: Tripadvisor sale of TheFork seen as accretive to valuation not outlook, says Jefferies
-链接: https://finance.yahoo.com/markets/stocks/articles/tripadvisor-sale-thefork-seen-accretive-172800089.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 11:05]
-标题: Silver prices today, Tuesday, June 16: Best opening price in over a week ahead of Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-june-16-best-opening-price-in-over-a-week-ahead-of-fed-meeting-110523343.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:53]
-标题: Gold prices today, Tuesday, June 16: Prices firming ahead of Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-16-prices-firming-ahead-of-fed-meeting-105335448.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:00]
-标题: Best high-yield savings interest rates today, Tuesday, June 16, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-16-2026-100000949.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:00]
-标题: HELOC and home equity loan rates today, Tuesday, June 16, 2026: Home equity helping owners navigate 'lock-in effect'
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-june-16-2026-100000957.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 17:27]
-标题: Here Is the 1 Unstoppable $70 Billion Growth Machine I Keep Buying Hand Over Fist
-链接: https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-70-billion-growth-172737469.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 10:00]
-标题: Best CD rates today, Tuesday, June 16, 2026: Lock in up to 4% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-16-2026-100000254.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 19:12]
+标题: Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook
+链接: https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html
+正文: The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 15:44]
 标题: Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach
 链接: https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html
 正文: Traders think it's more likely than not that access is restored by July 1.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 17:20]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 18:42]
 标题: The new oil? Inside the effort to turn AI computing power into a tradeable commodity
 链接: https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html
 正文: AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.
@@ -327,10 +225,10 @@
 链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action
 正文: As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-16 17:56]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-16 20:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-16 17:56]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-16 20:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
