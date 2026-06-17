@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-17 17:46:04
-# 共计 94 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-17 20:01:44
+# 共计 59 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-17 12:10]
 标题: The Download: a reality check for geoengineering and the science of interoception
@@ -36,6 +36,26 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-17 00:00]
 标题: Agentic Resource Discovery: Let agents search
 链接: https://huggingface.co/blog/agentic-resource-discovery-launch
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:28]
+标题: Claude Design与Replit联动，设计变应用
+链接: https://x.com/Replit/status/2067328501003497684
+正文: 在Claude中设计。在Replit中构建。 你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:17]
+标题: Claude Design 新特性：跨项目品牌统一、画布编辑、同步Code
+链接: https://x.com/claudeai/status/2067325887909884315
+正文: Claude Design 新功能：它在跨项目时与你的设计系统保持品牌一致，支持直接在画布上编辑，与 Claude Code 同步，并连接到更多你已经在使用的工具。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 18:16]
+标题: Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国
+链接: https://x.com/kimmonismus/status/2067310431669223425
+正文: Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 17:53]
+标题: 用SGLang-JAX在TPU上优化Ling-2.6-1T：一个Pallas核将MoE数据移动隐藏在计算中
+链接: https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu
+正文: SGLang-JAX现已支持inclusionAI的Ling-2.6-1T（1T稀疏MoE，63B激活参数，256路由专家，top-8路由加共享专家）在TPU v7x上高效推理。团队开发了Fused MoE V2--一个融合scatter、专家FFN和gather的Pallas核，通过将MoE数据移动隐藏在计算中，使MoE预填充延迟从5.16ms降至2.42ms（降幅53%），解码核延迟从0.249ms降至0.211ms（降幅约15%）。仅替换MoE核即提升预填充吞吐量24.8%，解码吞吐量18.5%-35.3%。在SGLang解码基准测试中，16块TPU v7x芯片输出吞吐量达16块H200 GPU的1.29倍（mc=128）至1.77倍（mc=512）。完整上线还包含混合KV/循环内存池、GLA线性注意力和单控制器数据并行支持。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 17:22]
 标题: Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录
@@ -112,6 +132,11 @@
 链接: https://x.com/dotey/status/2067039941960327204
 正文: baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以 2 倍 DPR（3840×2160）再缩回 1080p，保证细节清晰。95 秒 30fps 动画需 2850 次截图循环，帧帧精确。项目已开源（MIT），获 1.2K star。此前 baoyu-design 已支持 PPT 本地生成和导出可编辑 PPTX。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 00:00]
+标题: Grok 4.3 在 Amazon Bedrock 正式可用
+链接: https://x.ai/news/grok-amazon-bedrock
+正文: 6 月 17 日，xAI 宣布 Grok 4.3 在 Amazon Bedrock 上全面可用。该模型在前沿模型中达成最低幻觉率，支持 100 万 token 上下文窗口，并提供可配置推理努力（none/low/medium/high）。在 Artificial Analysis Omniscience 基准排名第一，在 Tau2 Telecom 基准评估客服智能体真实工具调用性能排名第一，在 Vals AI Case Law 和 Corporate Finance 基准的复杂文档理解任务排名第一。定价为输入每百万 token 1.25 美元、输出每百万 token 2.50 美元，每美元智能度是其他前沿模型的 2-10 倍。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 23:09]
 标题: 人工智能是否已经让自助类非虚构书籍销声匿迹了？
 链接: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction
@@ -132,214 +157,59 @@
 链接: https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast
 正文: 评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:37]
-标题: Meta 解散工程部门引发热议
-链接: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
-正文: 6月16日，一篇标题为"Why is Meta destroying its engineering organization？"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:08]
-标题: 微软考虑为 Copilot Cowork 集成 DeepSeek V4
-链接: https://x.com/kimmonismus/status/2066946013026263110
-正文: 微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 18:00]
-标题: 公开聊天数据能否预测真实世界AI失调？
-链接: https://alignment.openai.com/validating-public-evals
-正文: OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 21:58]
 标题: Mark Cuban has a blunt response to Coinbase CEO
 链接: https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 22:56]
-标题: Stock market today: Dow rises, S&P 500 and Nasdaq slip ahead of Fed rate decision
-链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-and-nasdaq-slip-ahead-of-fed-rate-decision-225641465.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:19]
-标题: The price of trust: How a cargo theft changed one shipper
-链接: https://finance.yahoo.com/small-business/articles/price-trust-cargo-theft-changed-171945075.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:14]
-标题: Satellite Play Woodward Stock Powers Past A Buy Zone
-链接: https://www.investors.com/research/woodward-stock-wwd-power-control-satellite-aerospace/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:13]
-标题: Applied Materials, ASML, Lam Hit Record Highs, Lead Chip Gear Stocks Rally
-链接: https://www.investors.com/news/technology/asml-stock-chip-gear-stocks-hit-record-highs/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:24]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47353_TechnicalAnalysis_1781695482000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:28]
-标题: WeRide, Uber plan Swiss robotaxi debut in Greater Zurich
-链接: https://finance.yahoo.com/technology/articles/weride-uber-plan-swiss-robotaxi-172852232.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:08]
-标题: SpaceX is sucking the oxygen out of the new space trade
-链接: https://finance.yahoo.com/markets/article/spacex-is-sucking-the-oxygen-out-of-the-new-space-trade-170815543.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:07]
-标题: Transportation deal values up as buyers seek specialization, scarcity
-链接: https://finance.yahoo.com/small-business/articles/transportation-deal-values-buyers-seek-170708208.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:05]
-标题: Cummins, Stock Of The Day, Breaks Out On Massive AI Data-Center Deal
-链接: https://www.investors.com/research/ibd-stock-of-the-day/cummins-stock-breaks-out-massive-ai-data-center-deal/?src=A00220&yptr=yahoo
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
 标题: Analyst Report: Robinhood Markets Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_6740_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:18]
-标题: Nvidia Is Down Over 10% From Its Record High. Is This the Ultimate "Buy the Dip" Moment of 2026?
-链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-down-over-10-record-171800728.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:02]
-标题: MBAs Have The People-Skills Edge. Employers Still Struggle To Measure It
-链接: https://finance.yahoo.com/small-business/articles/mbas-people-skills-edge-employers-170256375.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:02]
-标题: Nippon Steel sees strong American market lifting US Steel earnings
-链接: https://finance.yahoo.com/economy/policy/articles/nippon-steel-sees-strong-american-170213781.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:01]
-标题: Checking account vs. cash management account: Which one is better for holding cash?
-链接: https://finance.yahoo.com/personal-finance/banking/article/checking-account-vs-cash-management-account-170107209.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:00]
-标题: Analysis-SPACs are back, thanks to Wall Street's mega-IPO frenzy
-链接: https://finance.yahoo.com/markets/stocks/articles/analysis-spacs-back-thanks-wall-170058150.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
 标题: Analyst Report: Kimco Realty Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3120_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:17]
-标题: How to Watch the Fed Meeting and Kevin Warsh’s Speech
-链接: https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026/card/how-to-watch-the-fed-meeting-and-kevin-warsh-s-speech-ewdUY4oag3MeYcBDN64F?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:00]
-标题: We're debt-free and have $750K saved for retirement — but I can’t stop growing our emergency fund. How much is enough?
-链接: https://finance.yahoo.com/markets/articles/were-debt-free-750k-saved-170000051.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:59]
-标题: Stock Market Today: Dow, Small Caps Lead Gains But SpaceX Dives; Enlight Renewable Hits Sell Rule (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-spacex-stock-spcx/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:54]
-标题: Jim Cramer on fuboTV: “This Is an Industry That’s in Secular Decline”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fubotv-industry-secular-165400376.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on Adobe: “I Don’t Want You in It”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-adobe-don-t-165358452.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
 标题: Analyst Report: Host Hotels & Resorts Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3063_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:17]
-标题: Biopharma bounces back as M&A impetus fuels recovery
-链接: https://finance.yahoo.com/healthcare/articles/biopharma-bounces-back-m-impetus-171720317.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on Cadence: “If It Comes Down, It’s a Buy”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cadence-comes-down-165357391.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on Perrigo Comapny: “This Is a Value Trap”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-perrigo-comapny-value-165355205.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on ManpowerGroup: “It’s Never Really Been a Great Win for Me”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-manpowergroup-never-really-165354322.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer Recommends Buying Constellation Energy
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-buying-constellation-165351023.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:52]
 标题: Market Digest: CNI, HST, KIM, HOOD
 链接: https://finance.yahoo.com/research/reports/ARGUS_47351_MarketSummary_1781693542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:14]
-标题: What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain
-链接: https://finance.yahoo.com/markets/crypto/articles/hyperliquid-decentralized-exchange-own-blockchain-150103036.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer Says “Credo’s Just so Good”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-credo-just-165352815.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on Cerebras: “Even After the Pullback, This One’s Too Rich for Me”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cerebras-even-pullback-165349608.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:53]
-标题: Jim Cramer on HawkEye 360: “This Is Another One That Blew Up in My Face”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hawkeye-360-another-165347614.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:52]
-标题: Mexico’s truck factories find footing after rough start to 2026
-链接: https://finance.yahoo.com/economy/articles/mexico-truck-factories-footing-rough-165224720.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
 标题: Daily – Vickers Top Buyers & Sellers for 06/17/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47350_TopBottomInsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:08]
-标题: The Number That Could Test Johnson & Johnson Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/number-could-test-johnson-johnson-170811692.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:50]
-标题: Stocks, dollar edge up ahead of Warsh debut; oil higher after recent losses
-链接: https://finance.yahoo.com/energy/articles/oil-slides-iran-supply-prospects-015051067.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer on X-Energy: “I’ll Bless It, You Can Buy Some”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-x-energy-ll-163842508.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer on AEVEX: “I Still Think the Fundamental Story Here is Terrific”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-aevex-still-think-163840488.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer Shows Bullish Sentiment Toward Madison Air
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-bullish-sentiment-163838742.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
 标题: Daily – Vickers Top Insider Picks for 06/17/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47349_InsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:07]
-标题: Boring, quiet & crushing the market for the last 5 years
-链接: https://finance.yahoo.com/markets/stocks/articles/boring-quiet-crushing-market-last-170700686.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 20:00]
+标题: Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for
+链接: https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html
+正文: Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer on Swarmer: “I Still Find It Really Hard to Recommend This Stock Right Here”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-swarmer-still-really-163836688.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:27]
+标题: Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026
+链接: https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html
+正文: The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer Notes “Forgent Became an Incredible Performer”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-forgent-became-163834966.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:25]
+标题: Chairman Warsh drastically alters Fed rate statement. Here's what's changed
+链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
+正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer Explains Why He Is “Inclined to Stick” With EquipmentShare
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-inclined-163832390.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:30]
+标题: Fed holds rates steady, pares down statement to remove cutting bias
+链接: https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html
+正文: The Federal Reserve on Wednesday released its interest rate decision.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer Says His Favorite Is NVIDIA “But AMD Is Fantastic”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-favorite-nvidia-163831268.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:03]
-标题: Bitcoin, XRP brace for Kevin Warsh's first FOMC
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-brace-kevin-warshs-170337960.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 16:38]
-标题: Jim Cramer Says “It’s an Easy Call to Say to Buy Dell and to Believe in Michael Dell”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-easy-call-163829621.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 16:42]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:55]
 标题: Stocks making the biggest moves midday: SpaceX, JPMorgan, UniQure, Intel, Figma, Nano Nuclear & more
 链接: https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html
 正文: These are some of the stocks posting the largest moves midday.
@@ -379,16 +249,6 @@
 链接: https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html
 正文: Traders think it's more likely than not that access is restored by July 1.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 18:42]
-标题: The new oil? Inside the effort to turn AI computing power into a tradeable commodity
-链接: https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html
-正文: AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
-标题: What could rising fuel costs mean for airlines?
-链接: https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines
-正文: Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
 标题: The future of Ohio: Playing to win in the next economy
 链接: https://www.mckinsey.com/industries/social-sector/our-insights/the-future-of-ohio-playing-to-win-in-the-next-economy
@@ -400,6 +260,11 @@
 正文: As the second-generation leader of UOB, Wee Ee Cheong has devoted his career to the bank, guiding it steadily through change to safeguard the institution’s future for customers.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: What could rising fuel costs mean for airlines?
+链接: https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines
+正文: Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
 标题: The State of Grocery North America 2026
 链接: https://www.mckinsey.com/industries/retail/our-insights/the-state-of-grocery-north-america
 正文: North American grocery is opening new battlegrounds—and the game is getting more sophisticated, with winners building hard-to-copy models they can own.
@@ -409,10 +274,10 @@
 链接: https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel
 正文: Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 17:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 20:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 17:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 20:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
