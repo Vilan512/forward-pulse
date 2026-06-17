@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-06-17 20:01:44
+# ForwardPulse 原始情报收割 — 2026-06-17 22:30:11
 # 共计 59 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-17 12:10]
@@ -16,11 +16,6 @@
 链接: https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/
 正文: Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth. It’s precisely the type of aircraft one would need to begin artificially cooling the planet. Those outsize wings would keep the plane and its payload aloft in the stratosphere, about a dozen miles (or 20 kilometers) above the surface, where the air is much thinner—as little as 5% the density near the ground. Once at altitude, the plane would release materials that could, after a few steps of chemistry, reflect sunlight back into space. “If you want to get to 20 kilometers in the near term, this is probably the best bet,” says Franke, a research assistant professor at the University of Chicago. Franke is one of a small but growing cohort of scientists focused on the engineering challenges associated with solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming. The concept came from volcanoes. Massive eruptions in the past have reduced temperatures worldwide by blasting sulfur dioxide and other compounds into the stratosphere, where they convert into sunlight-scattering particles. Hundreds of studies in recent decades have suggested that a human attempt to mimic this mechanism would work quickly and efficiently—at least within the confines of climate models. But these computer simulations are approximations of how the real world works. They gloss over numerous challenges. Like the fact that aircraft capable of carrying the necessary loads to the necessary altitudes don’t exist. Or that we don’t know for sure how to release material so that most of it turns into tiny reflective aerosols instead of, say, clumping together and falling out of the sky. Or even what spe
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-16 20:35]
-标题: Exclusive eBook: How AI is becoming the next military advisor
-链接: https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
-正文: A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories written by James O&#8217;Donnel by James O&#8217;Donnell Choose which file format to download this eBook: Download PDF Download ePub Related Stories: 10 Things That Matter in AI Right Now: The new war room Generative AI is learning to spy for the US military Phase two of military AI has arrived A defense official reveals how AI chatbots could be used for targeting decisions The Pentagon is planning for AI companies to train on classified data, defense official says How AI is turning the Iran conflict into theater
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-17 15:26]
 标题: MolmoMotion: Language-guided 3D motion forecasting
 链接: https://huggingface.co/blog/allenai/molmomotion
@@ -37,15 +32,35 @@
 标题: Agentic Resource Discovery: Let agents search
 链接: https://huggingface.co/blog/agentic-resource-discovery-launch
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 21:13]
+标题: Google 分享 A2UI 与 MCP Apps 三种集成架构模式
+链接: https://developers.googleblog.com/a2ui-and-mcp-apps
+正文: Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现"一次编写，原生渲染"的跨平台能力；以及静态与动态交付方案。Google 正考虑扩展 MCP 以原生支持 A2UI。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 20:44]
+标题: 借助 Workload Identity Federation 安全访问 Claude Platform
+链接: https://claude.com/blog/workload-identity-federation
+正文: Workload Identity Federation （WIF） 已在 Claude Platform 上全面可用。WIF 兼容任何 OIDC 身份提供者，覆盖所有 Claude API 端点（包括第一方 SDK 和 Claude Code）。WIF 用短生命期凭证替代静态 API 密钥，并引入服务账户，每个工作负载拥有独立身份、角色和审计日志。Claude Console 提供引导设置流程，支持 Admin API 进行组织管理。API 密钥可并行使用以便逐步迁移。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 20:44]
+标题: Claude Design 更新：跨项目保持品牌一致，与Claude Code协同
+链接: https://claude.com/blog/claude-design-stays-on-brand-for-daily-work
+正文: 6月17日，Claude Design 更新，支持跨项目使用统一设计系统，并与Claude Code同步工作流。用户可直接拖拽、对齐和缩放画布元素，编辑器稳定性大幅提升。设计系统可从GitHub、设计文件或原始上传导入，团队管理员可锁定标准系统防止篡改。新增桌面端侧边栏入口及独立网页端claude.ai/design。使用限制与聊天、Claude Cowork、Claude Code共享，每次任务消耗更少token，错误率下降。支持导出PDF、PPT，集成Adobe、Canva、Gamma等工具。发布首周用户超一百万。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:41]
+标题: GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR
+链接: https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing
+正文: GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在帮助研究人员和开发者发现跨 README、Issue 和 Pull Request 的多语言开发者内容，加速多语言 AI 开发。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:28]
 标题: Claude Design与Replit联动，设计变应用
 链接: https://x.com/Replit/status/2067328501003497684
 正文: 在Claude中设计。在Replit中构建。 你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:17]
-标题: Claude Design 新特性：跨项目品牌统一、画布编辑、同步Code
-链接: https://x.com/claudeai/status/2067325887909884315
-正文: Claude Design 新功能：它在跨项目时与你的设计系统保持品牌一致，支持直接在画布上编辑，与 Claude Code 同步，并连接到更多你已经在使用的工具。
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:22]
+标题: Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%
+链接: https://x.com/AYi_AInotes/status/2067327021005656135
+正文: Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 18:16]
 标题: Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国
@@ -133,6 +148,11 @@
 正文: baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以 2 倍 DPR（3840×2160）再缩回 1080p，保证细节清晰。95 秒 30fps 动画需 2850 次截图循环，帧帧精确。项目已开源（MIT），获 1.2K star。此前 baoyu-design 已支持 PPT 本地生成和导出可编辑 PPTX。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 00:00]
+标题: LifeSciBench 发布
+链接: https://openai.com/index/introducing-life-sci-bench
+正文: 2026 年 6 月，OpenAI 联合 173 位博士级生命科学家发布 LifeSciBench 评测基准，涵盖 750 个真实研究任务，覆盖证据处理、分析、设计优化等七个工作流及七个生物领域。每项任务配有约 25 条细化评分标准（共 19，020 条），评估模型的科学正确性与实用价值。79% 的任务需多步推理，53% 要求解读图表、PDF 等附件数据，旨在衡量 AI 在复杂、不确定的研究任务中的实际能力，而非仅回答结构化问题。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 00:00]
 标题: Grok 4.3 在 Amazon Bedrock 正式可用
 链接: https://x.ai/news/grok-amazon-bedrock
 正文: 6 月 17 日，xAI 宣布 Grok 4.3 在 Amazon Bedrock 上全面可用。该模型在前沿模型中达成最低幻觉率，支持 100 万 token 上下文窗口，并提供可配置推理努力（none/low/medium/high）。在 Artificial Analysis Omniscience 基准排名第一，在 Tau2 Telecom 基准评估客服智能体真实工具调用性能排名第一，在 Vals AI Case Law 和 Corporate Finance 基准的复杂文档理解任务排名第一。定价为输入每百万 token 1.25 美元、输出每百万 token 2.50 美元，每美元智能度是其他前沿模型的 2-10 倍。
@@ -147,19 +167,17 @@
 链接: https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests
 正文: Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）。公司刚完成650亿美元融资、估值9650亿美元，并因首次盈利季度秘密提交IPO。特朗普政府以出口管制为由要求Anthropic禁止非美国人访问最新模型Mythos 5及Fable 5，导致两款模型下架。Ramp首席经济学家指出，类似争议（如3月被国防部列为供应链风险）反而推动Anthropic企业采用量创纪录。Ramp数据显示，企业支出主要流向Claude Opus模型（最新为Opus 4.8）。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 22:04]
-标题: Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览
-链接: https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews
-正文: Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 "Vary"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 18:14]
+标题: Analyst Report: Rocket Cos Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_5979_AnalystReport_1781720090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 21:54]
-标题: OpenAI 的领先优势正在快速缩小
-链接: https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast
-正文: 评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 18:14]
+标题: Analyst Report: Old Dominion Freight Line Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3754_AnalystReport_1781720090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 21:58]
-标题: Mark Cuban has a blunt response to Coinbase CEO
-链接: https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 17:59]
+标题: Market Update: ODFL, RKT
+链接: https://finance.yahoo.com/research/reports/ARGUS_47358_MarketUpdate_1781719190000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:24]
 标题: Technical Assessment: Bullish in the Intermediate-Term
@@ -173,23 +191,7 @@
 标题: Analyst Report: Kimco Realty Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3120_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
-标题: Analyst Report: Host Hotels & Resorts Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3063_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:52]
-标题: Market Digest: CNI, HST, KIM, HOOD
-链接: https://finance.yahoo.com/research/reports/ARGUS_47351_MarketSummary_1781693542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
-标题: Daily – Vickers Top Buyers & Sellers for 06/17/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47350_TopBottomInsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
-标题: Daily – Vickers Top Insider Picks for 06/17/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47349_InsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 20:00]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 20:26]
 标题: Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for
 链接: https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html
 正文: Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.
@@ -204,7 +206,7 @@
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
 正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:30]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 21:42]
 标题: Fed holds rates steady, pares down statement to remove cutting bias
 链接: https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html
 正文: The Federal Reserve on Wednesday released its interest rate decision.
@@ -233,11 +235,6 @@
 标题: China pushes for AI safety as G7 summit wraps up without Beijing
 链接: https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html
 正文: China included artificial intelligence in its global governance whitepaper published Wednesday, and said Beijing was speeding up cooperation efforts.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 20:55]
-标题: Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options
-链接: https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html
-正文: Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 15:23]
 标题: Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook
@@ -274,10 +271,15 @@
 链接: https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel
 正文: Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 20:01]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: The turning point for real-world robotics
+链接: https://www.mckinsey.com/industries/industrials/our-insights/the-turning-point-for-real-world-robotics
+正文: Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and fit naturally into our lives.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 22:30]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 20:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 22:30]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
