@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-17 11:29:07
-# 共计 70 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-17 14:53:46
+# 共计 85 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-17 12:10]
+标题: The Download: a reality check for geoengineering and the science of interoception
+链接: https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations and into the practical engineering challenges required to make it real. Researchers are now working on aircraft, materials, and other systems for solar geoengineering. But as they delve into these details, they’re finding that even early deployment would require significant new infrastructure, time, and investment. Find out what happens when solar geoengineering encounters the realities of trying to cool the planet. —James Temple MIT Technology Review Narrated: inside interoception, the hidden sense of how you feel inside Scientists have a word for how we sense ourselves from the inside: interoception. Today, thanks to a 2021 Nobel Prize and new tools that can map internal signaling across the body, research into interoception is taking off. As researchers decode how signals move between body and brain, a clearer picture is starting to take shape—with implications for how we treat conditions from obesity to anxiety. —Katherine W. Isaacs This is our latest story to be turned into an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 SpaceX is now valued higher than Amazon Its market value hit $2.659 trillion yesterday. (Axios)+ A post-IPO stock surge also briefly pushed it above Microsoft’s. (Quartz)+ It&#8217;s now the world’s fifth most valuable company. (Guardian)+ SpaceX is acquiring AI coding s
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-17 09:00]
 标题: Entrepreneurs in Nairobi make the case for going solar
@@ -16,11 +21,6 @@
 链接: https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
 正文: A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to download this eBook: Download PDF Download ePub Related Stories: 10 Things That Matter in AI Right Now: The new war room Generative AI is learning to spy for the US military Phase two of military AI has arrived A defense official reveals how AI chatbots could be used for targeting decisions The Pentagon is planning for AI companies to train on classified data, defense official says How AI is turning the Iran conflict into theater
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-16 12:10]
-标题: The Download: the first brain implant power user and South Korea’s AI obsession
-链接: https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has ALS and is paralyzed, first used his brain-computer interface (BCI) to “speak” in 2023. Since then, he’s clocked thousands of hours of use.&nbsp; Harrell can now use the device largely independently. His team has added new features to it, and he also uses it to surf the web and perform his job. “Living with a disease like ALS, you are supposed to have diminished dreams. I do not,” Harrell told MIT Technology Review.&nbsp; The team behind the device call Harrell “the first power user of a speech BCI.” They now plan to add further enhancements to the device. Dive into the groundbreaking impact of Casey Harrell’s BCI. —Jessica Hamzelou Why do South Koreans love AI so much? While a public backlash against AI brews across the US, South Koreans are optimistic. Only 16% say they are more concerned than excited about AI—the lowest of the 25 countries surveyed by the Pew Research Center—while 50% of Americans were more worried than excited.&nbsp; South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order. Their fascination with AI is just the latest incarnation of that ethos—and it’s making them anxious to stay ahead. Read the full story on South Korea’s AI fervour. —Michelle Kim This story is from The Algorithm, our weekly newsletter giving you the inside track on all things AI. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 The US says it restricted Anthropic AI over foreign intelligence risksCommerce chief Lutnick said he acted 
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-17 10:18]
 标题: From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot
 链接: https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
@@ -28,6 +28,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-17 09:01]
 标题: GLM-5.2: Built for Long-Horizon Tasks
 链接: https://huggingface.co/blog/zai-org/glm-52-blog
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 13:00]
+标题: Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集
+链接: https://blog.cloudflare.com/cloudflare-one-stack
+正文: 6月17日，Cloudflare 推出 Cloudflare One stack，一组可直接赋予 AI 智能体的技能文件，用于自动配置、部署和管理 Zero Trust 环境。工具集包含两个轻量级 skill：`cloudflare-one` 负责通用产品指导（VPN 替换、网络连接、安全策略等），`cloudflare-one-migration` 提供从 Zscaler、Palo Alto Networks 等厂商迁移的明确引导。技能内置决策树与结构化知识，智能体可自动执行云环境评估、网络拓扑生成及 Digital Experience Monitoring 排障。该 stack 基于 Cloudflare 员工数万小时客户经验提炼，降低学习与迁移门槛。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 12:46]
+标题: 阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界
+链接: https://www.ithome.com/0/965/652.htm
+正文: 6月17日，阿里云发布开放式世界模型HappyOyster 1.0（快乐生蚝）。该产品基于原生多模态架构，支持多模态输入与音视频联合生成，可在生成过程中持续接收用户指令并实时响应画面。它深度学习物理世界状态转移规律，保持人物和环境长程一致性。官网开放"实时导演"与"世界探索"两种玩法：前者可随时叫停改写故事、与虚拟男友实时互动等；后者支持自由漫游、滑板冲刺、翼装滑翔、骑马奔驰、攻击打怪等交互。该产品已于今年4月16日开放内测，即日起至7月17日官网不定期掉落体验积分。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 10:18]
 标题: Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人
@@ -114,161 +124,204 @@
 链接: https://x.com/satyanadella/status/2066911399494963335
 正文: Copilot Cowork 现已全球正式可用，并支持多模型！ 每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 13:47]
-标题: 马斯克：AI将达Stockfish级编码
-链接: https://x.com/elonmusk/status/2066880262668247091
-正文: AI 将实现 Stockfish 级别的编码和通用计算机使用
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 13:32]
-标题: 小米 MiMo Claw 正式版发布：旗舰模型+金山办公，全新订阅服务上线
-链接: https://mp.weixin.qq.com/s/N5ac768a8LkhEjOVpkR1dQ
-正文: 小米推出云端轻量化 Claw 类产品 MiMo Claw 正式版，搭载与 OpenClaw 框架深度适配的 MiMo-V2.5-Pro 旗舰模型。该模型原生兼容 MCP 工具调用协议，内置百万级超长上下文，支持单会话千次以上连续工具调用；依托 MTP 三层解码架构，在 OpenClaw 标准 Agent 工作流中吞吐效率提升约 3 倍。ClawEval 测试中任务达标率（Pass3）达 63.8%，Token 消耗较同类产品降低 40%-60%。联动金山办公生态，提供 Word、Excel、PPT、PDF 等格式的 AI 生成、预览与在线编辑一站式服务。免费用户每日单次体验时长从1小时升级至4小时，面向高频用户推出 TokenPlan 分层订阅（Lite/Standard/Pro/Max），支持灵活叠加，限时定价14.9元/月、19.9元/月、233.8元/年。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 13:23]
-标题: 美国司法部援引国家安全为xAI未经许可的燃气轮机辩护
-链接: https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit
-正文: 美国司法部在一份驳回诉讼的动议中称，xAI的聊天机器人Grok对军事行动至关重要，以此为其在密西西比州Southaven的Colossus 2设施运行未经许可的燃气轮机辩护。NAACP已提起诉讼，指控xAI的燃气轮机数量从4月的27台增至57台，导致氮氧化物排放飙升111%。国防部首席数字与人工智能官Cameron Stanley表示，Grok是支持机密和绝密网络军事任务的四款AI模型之一，包括近期针对伊朗的打击。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-16 12:42]
-标题: WorkBuddy日活飙升至行业第二的3-4倍，非技术用户涌入
-链接: https://mp.weixin.qq.com/s/iAgbUzPrsbpqvu4s2XiH0g
-正文: 从3月至今，WorkBuddy日活用户数已达行业第二名的3-4倍，用户不再限于开发者，大量HR、运营、行政等非技术岗位也在使用。其企业版和项目功能进一步扩展了Agent办公场景。同期，Trae Work、QoderWork、Kimi Work等产品纷纷改名或出新，争夺市场。腾讯云认为这可能是十年一遇的机遇。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 21:58]
 标题: Mark Cuban has a blunt response to Coinbase CEO
 链接: https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 14:13]
-标题: Fed meeting live: Kevin Warsh faces challenging inflation backdrop in his first meeting as Fed chairman
-链接: https://finance.yahoo.com/economy/live/fed-meeting-live-kevin-warsh-faces-challenging-inflation-backdrop-in-his-first-meeting-as-fed-chairman-141312780.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:27]
+标题: Billionaire Dan Loeb is Buying This AI Stock Everyone’s Ignoring
+链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-ai-142704610.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:56]
-标题: Gold prices today, Wednesday, June 17: Prices hold ahead of Fed decision day
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-june-17-prices-hold-ahead-of-fed-decision-day-105627164.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:26]
+标题: Strong Results Lifted Comfort Systems USA (FIX) in Q1
+链接: https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-comfort-systems-142631408.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:24]
+标题: Stock Market Today: Dow Rises Before Fed Decision; SpaceX Turns Lower; Biotechs Gain (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-spacex-stock-spcx/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:24]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47353_TechnicalAnalysis_1781695482000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:40]
+标题: Yum! Brands to sell Pizza Hut business for $2.7bn
+链接: https://finance.yahoo.com/markets/stocks/articles/yum-brands-sell-pizza-hut-144021219.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:17]
+标题: Got SpaceX stock? Here's what to do next.
+链接: https://finance.yahoo.com/personal-finance/investing/article/got-spacex-stock-heres-what-to-do-next-141704338.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:16]
+标题: What Makes Zoetis (ZTS) an Attractive Bet?
+链接: https://finance.yahoo.com/healthcare/articles/makes-zoetis-zts-attractive-bet-141651812.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:14]
+标题: Do You Believe in the Growth Trajectory of The TJX Companies (TJX)?
+链接: https://finance.yahoo.com/markets/stocks/articles/believe-growth-trajectory-tjx-companies-141443827.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-16 22:56]
-标题: Stock market today: S&P 500, Nasdaq futures climb as Wall Street braces for Fed rate decision
-链接: https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-climb-as-wall-street-braces-for-fed-rate-decision-225641465.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:55]
-标题: The US government quietly changed these 3 retirement rules with no public fanfare — what every American senior must know
-链接: https://finance.yahoo.com/economy/policy/articles/us-government-quietly-changed-3-105500980.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:18]
-标题: Is MercadoLibre Stock a Buy After an Insider Purchased Company Shares for $200,000?
-链接: https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-buy-insider-purchased-111801812.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:51]
-标题: Oil prices steady as investors weigh peace deal, IEA glut forecasts
-链接: https://finance.yahoo.com/news/oil-prices-stabilise-investors-weigh-010900838.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:40]
-标题: Morning Bid: Welcome to the Warsh era
-链接: https://finance.yahoo.com/news/morning-bid-welcome-warsh-era-104017836.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:28]
-标题: China to support IPOs by 'future industry' startups, large model companies
-链接: https://finance.yahoo.com/technology/ai/articles/china-support-ipos-future-industry-102808019.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:10]
-标题: US SEC poised to allow stock token trading in potential market shakeup
-链接: https://finance.yahoo.com/markets/stocks/articles/us-sec-poised-allow-stock-100533707.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:13]
-标题: Carter’s Shares Rise After Wells Fargo Lifts Rating and Target Price
-链接: https://finance.yahoo.com/markets/stocks/articles/carter-shares-rise-wells-fargo-111307501.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:05]
-标题: Mark Cuban slams critics of Elon Musk, says there's usually 1 way Americans get 'insanely rich.' Ditch your envy now
-链接: https://finance.yahoo.com/markets/stocks/articles/mark-cuban-slams-critics-elon-100500353.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:04]
-标题: Technical tidal wave drives European loan spreads to nine-year tights
-链接: https://finance.yahoo.com/markets/stocks/articles/technical-tidal-wave-drives-european-100400888.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: Best high-yield savings interest rates today, Wednesday, June 17, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-june-17-2026-100000506.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: Aurora Innovation (AUR) Gets Buy Rating From Craig-Hallum
-链接: https://finance.yahoo.com/markets/stocks/articles/aurora-innovation-aur-gets-buy-100000124.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:10]
-标题: The key to post-Iran conflict energy security lies in natural gas tech
-链接: https://finance.yahoo.com/energy/articles/key-post-iran-conflict-energy-111006301.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: Mortgage and refinance interest rates today, Wednesday, June 17, 2026: Fixed rates continue to fall
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-june-17-2026-100000509.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: HELOC and home equity loan interest rates today, Wednesday, June 17, 2026: Rate shopping is key, no matter if rates are rising or falling
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-june-17-2026-100000764.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: Best money market account rates today, Wednesday, June 17, 2026: Secure up to 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-june-17-2026-100000224.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:00]
-标题: Best CD rates today, Wednesday, June 17, 2026: Earn up to 4% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-june-17-2026-100000867.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:09]
-标题: Binance’s EU MiCA licence bid set for rejection- report
-链接: https://finance.yahoo.com/markets/crypto/articles/binance-eu-mica-licence-bid-110950583.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: ADT Introduces ADT Blu Home Security System
-链接: https://finance.yahoo.com/markets/stocks/articles/adt-introduces-adt-blu-home-095953191.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: Berenberg Downgrades Mobileye (MBLY) to Hold
-链接: https://finance.yahoo.com/markets/stocks/articles/berenberg-downgrades-mobileye-mbly-hold-095946653.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: B2Gold (BTG) Announces Annual General and Special Meeting Results
-链接: https://finance.yahoo.com/markets/stocks/articles/b2gold-btg-announces-annual-general-095938197.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: UBS Reiterates Neutral Rating on Blue Owl Capital (OWL)
-链接: https://finance.yahoo.com/markets/stocks/articles/ubs-reiterates-neutral-rating-blue-095931234.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:08]
-标题: Aurelia Metals completes PFS for New Occidental Tailings in NSW
-链接: https://finance.yahoo.com/markets/commodities/articles/aurelia-metals-completes-pfs-occidental-110857787.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: Avantor (AVTR) Gets Underperform Rating From Wolfe Research
-链接: https://finance.yahoo.com/markets/stocks/articles/avantor-avtr-gets-underperform-rating-095915074.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:59]
-标题: GRAB Ranks Among the Best Stocks to Buy Under $10
-链接: https://finance.yahoo.com/markets/stocks/articles/grab-ranks-among-best-stocks-095907911.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:58]
-标题: Is Compass (COMP) One of the Best Stocks to Buy Under $10?
-链接: https://finance.yahoo.com/markets/stocks/articles/compass-comp-one-best-stocks-095857784.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:58]
-标题: Transocean (RIG): One of the Best Stocks Under $10 to Invest In
-链接: https://finance.yahoo.com/markets/stocks/articles/transocean-rig-one-best-stocks-095845967.html
+标题: Stock market today: Dow, S&P 500, Nasdaq rise ahead of Fed rate decision
+链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-ahead-of-fed-rate-decision-225641465.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
-标题: WeRide and Uber Target Zurich Robotaxi Launch as European Expansion Accelerates
-链接: https://finance.yahoo.com/technology/articles/weride-uber-target-zurich-robotaxi-110755679.html
+标题: Analyst Report: Robinhood Markets Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_6740_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 09:47]
-标题: 10 Best Growth Stocks to Buy According to Billionaire Ray Dalio’s Bridgewater Associates
-链接: https://finance.yahoo.com/markets/stocks/articles/10-best-growth-stocks-buy-094707977.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:34]
+标题: 1 Reason to Buy NuScale Power Stock, and 2 Reasons to Sell
+链接: https://finance.yahoo.com/energy/articles/1-reason-buy-nuscale-power-143400371.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:06]
-标题: Italy opens first DMA probe into Apple over iCloud access
-链接: https://finance.yahoo.com/technology/articles/italy-opens-first-dma-probe-110620591.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:12]
+标题: Below Expected Outlook Pressured Boston Scientific (BSX) in Q1
+链接: https://finance.yahoo.com/markets/stocks/articles/below-expected-outlook-pressured-boston-141212143.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:05]
-标题: Could Buying Nike Today Set You Up for Life?
-链接: https://finance.yahoo.com/markets/stocks/articles/could-buying-nike-today-set-110500674.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:11]
+标题: FedEx slowly recovers from operational meltdown in Vietnam
+链接: https://finance.yahoo.com/small-business/articles/fedex-slowly-recovers-operational-meltdown-141121646.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:10]
+标题: AppLovin (APP) Slid Amid Competitive Threat and AI Disruption Risks
+链接: https://finance.yahoo.com/markets/stocks/articles/applovin-app-slid-amid-competitive-141017736.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:05]
+标题: Microsoft Corporation (MSFT) Fell as Azure Growth Fell Short of Expectations
+链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-fell-azure-140550026.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
+标题: Analyst Report: Kimco Realty Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_3120_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:34]
+标题: CarMax shares drop as margin pressure overshadows strong quarterly results
+链接: https://finance.yahoo.com/markets/stocks/articles/carmax-shares-drop-margin-pressure-143400079.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:05]
+标题: Scott Bessent clearly shaken after getting confronted on Trump’s ‘A+++’ economy as Americans struggle
+链接: https://finance.yahoo.com/economy/articles/scott-bessent-clearly-shaken-getting-140500013.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:04]
+标题: More homes went under contract in 'late spring buyer rush'
+链接: https://finance.yahoo.com/economy/article/more-homes-went-under-contract-in-late-spring-buyer-rush-140417090.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:04]
+标题: Here’s Why Renaissance Investment Management Sold Copart (CPRT)
+链接: https://finance.yahoo.com/markets/stocks/articles/why-renaissance-investment-management-sold-140414173.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 11:07]
+标题: Analyst Report: Host Hotels & Resorts Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3063_AnalystReport_1781694442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:30]
+标题: EY US joins Bloomberg Tax implementer network
+链接: https://finance.yahoo.com/technology/articles/ey-us-joins-bloomberg-tax-143002477.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:02]
+标题: Renaissance Investment Management Exited Gartner (IT) Amid Reduced Demand and Disappointing Operating Results
+链接: https://finance.yahoo.com/markets/stocks/articles/renaissance-investment-management-exited-gartner-140229809.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:58]
+标题: Here’s Why Oracle Traded (ORCL) Lower in Q1
+链接: https://finance.yahoo.com/markets/stocks/articles/why-oracle-traded-orcl-lower-135859241.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:58]
+标题: BBC to cut 550 jobs in cost-saving drive, including news division layoffs
+链接: https://finance.yahoo.com/news/bbc-cut-550-jobs-cost-125049484.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:57]
+标题: Strategy's Dividend-Paying Stock Crashes
+链接: https://finance.yahoo.com/markets/stocks/articles/strategys-dividend-paying-stock-crashes-135700956.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:52]
+标题: Market Digest: CNI, HST, KIM, HOOD
+链接: https://finance.yahoo.com/research/reports/ARGUS_47351_MarketSummary_1781693542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:30]
+标题: From 9% to 90%: How West Virginia Saved Its Pensions and Rewrote Retirement Rules
+链接: https://finance.yahoo.com/healthcare/articles/9-90-west-virginia-saved-143000075.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:56]
+标题: Janus Henderson Forty Fund Holds Firm on DraftKings’ (DKNG) Long-Term Opportunity
+链接: https://finance.yahoo.com/markets/stocks/articles/janus-henderson-forty-fund-holds-135650942.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:50]
+标题: Eaton (ETN) Surged on Accelerated Demand for Data Centre Power Solutions
+链接: https://finance.yahoo.com/markets/stocks/articles/eaton-etn-surged-accelerated-demand-135055504.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:47]
+标题: Fortinet (FTNT) Partners with NVIDIA (NVDA) to Accelerate GPU-Powered AI Security
+链接: https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-partners-nvidia-nvda-134708335.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:46]
+标题: US Foods (USFD) Reports Q1 2026 Net Sales Growth of 2.8% to $9.6B
+链接: https://finance.yahoo.com/markets/stocks/articles/us-foods-usfd-reports-q1-134642921.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
+标题: Daily – Vickers Top Buyers & Sellers for 06/17/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47350_TopBottomInsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:28]
+标题: SpaceX stock passes Amazon in market cap after record IPO
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-passes-amazon-market-142806982.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:46]
+标题: Falling Murban and Dubai Prices Open Arbitrage to U.S. and Europe
+链接: https://finance.yahoo.com/energy/articles/falling-murban-dubai-prices-open-134625736.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:46]
+标题: Zoom Communications (ZM) Launches ZoomMate Agentic AI Platform for Integrated Workflow Execution
+链接: https://finance.yahoo.com/technology/ai/articles/zoom-communications-zm-launches-zoommate-134613516.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:46]
+标题: Here is Why Roivant (ROIV) is One of the Best Growth Stocks Trading in Oversold Territory
+链接: https://finance.yahoo.com/healthcare/articles/why-roivant-roiv-one-best-134606353.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:45]
+标题: Natera (NTRA), CytoDyn Announce Strategic Collaboration for ctDNA-Guided mCRC Clinical Trials
+链接: https://finance.yahoo.com/healthcare/articles/natera-ntra-cytodyn-announce-strategic-134559530.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 10:39]
+标题: Daily – Vickers Top Insider Picks for 06/17/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47349_InsiderActivity_1781692745000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 14:27]
+标题: AB InBev names Mondelez CEO new chairman
+链接: https://finance.yahoo.com/markets/stocks/articles/ab-inbev-names-mondelez-ceo-090553604.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:45]
+标题: Howmet Aerospace (HWM): Best Growth Stock Trading in Oversold Territory
+链接: https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-best-growth-134548794.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:45]
+标题: Is TransDigm Group (TDG) One of the Best Growth Stocks Trading in Oversold Territory?
+链接: https://finance.yahoo.com/markets/stocks/articles/transdigm-group-tdg-one-best-134541561.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:45]
+标题: OQC, JPMorganChase, and Advanced Micro Devices (AMD) Partner to Launch Quantum-AI Research Platform in London
+链接: https://finance.yahoo.com/technology/ai/articles/oqc-jpmorganchase-advanced-micro-devices-134527778.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:35]
+标题: Binance To Lose European Operating License: Reports
+链接: https://finance.yahoo.com/markets/crypto/articles/binance-lose-european-operating-license-133500635.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 13:34]
+标题: AI Strategy, Double-Digit Growth Put BofA Stock In Focus
+链接: https://www.investors.com/research/breakout-stocks-technical-analysis/bofa-stock-bank-of-america-agentic-ai-erica/?src=A00220&yptr=yahoo
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 14:25]
+标题: More united Fed board seen at Warsh's first meeting, according to Kalshi traders
+链接: https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html
+正文: Traders on prediction market platform Kalshi largely forecast a unanimous decision among FOMC members at Wednesday's meeting, after April's divided vote.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 14:29]
+标题: CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO
+链接: https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html
+正文: Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 13:34]
+标题: Stocks making the biggest moves premarket: CarMax, AST SpaceMobile, Lionsgate & more
+链接: https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-premarket-kmx-asts-lion.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 08:04]
 标题: China pushes for AI safety as G7 summit wraps up without Beijing
@@ -280,12 +333,12 @@
 链接: https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html
 正文: Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 19:12]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 14:24]
 标题: Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook
 链接: https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html
 正文: The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 15:44]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 13:27]
 标题: Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach
 链接: https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html
 正文: Traders think it's more likely than not that access is restored by July 1.
@@ -295,20 +348,30 @@
 链接: https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html
 正文: AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 12:55]
-标题: Stocks making the biggest moves premarket: SpaceX, Robinhood, Huntsman & more
-链接: https://www.cnbc.com/2026/06/16/stocks-making-the-biggest-moves-premarket-spcx-hood-hun.html
-正文: These are the stocks posting the largest moves premarket.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: The future of Ohio: Playing to win in the next economy
+链接: https://www.mckinsey.com/industries/social-sector/our-insights/the-future-of-ohio-playing-to-win-in-the-next-economy
+正文: Ohio has a proud legacy as a strong builder economy, but playing to win in the new arenas of competition requires a fresh and more diverse approach.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-16 12:51]
-标题: SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision
-链接: https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html
-正文: Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: Wee Ee Cheong: Calm steward playing the long game for UOB
+链接: https://www.mckinsey.com/featured-insights/future-of-asia/wee-ee-cheong-calm-steward-playing-the-long-game-for-uob
+正文: As the second-generation leader of UOB, Wee Ee Cheong has devoted his career to the bank, guiding it steadily through change to safeguard the institution’s future for customers.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 11:29]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: What could rising fuel costs mean for airlines?
+链接: https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines
+正文: Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-17 00:00]
+标题: How conflict in the Gulf is remapping global travel
+链接: https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel
+正文: Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-17 14:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 11:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-17 14:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
