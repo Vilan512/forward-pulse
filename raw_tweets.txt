@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-18 19:22:17
-# 共计 63 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-18 21:58:39
+# 共计 57 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-18 12:10]
 标题: The Download: a new hunt for dark matter and Kenya’s case for going solar
@@ -27,6 +27,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-18 00:00]
 标题: Is it agentic enough? Benchmarking open models on your own tooling
 链接: https://huggingface.co/blog/is-it-agentic-enough
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:59]
+标题: OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员
+链接: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo
+正文: OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthropic因美国政府出口管制禁令被迫下架Fable 5和Mythos 5模型。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:54]
 标题: Claude Code 现已支持 artifacts
@@ -164,6 +169,11 @@
 正文: 两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。 对 Gemini 来说是个残酷的消息。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:00]
+标题: xAI 发布 Grok for Word 插件
+链接: https://x.ai/news/introducing-word-addin
+正文: xAI 将 Grok 引入 Microsoft Word，推出免费 365 插件。用户可将笔记转为结构化文档、重写文本以提升清晰度与简洁性，也能通过插件搜索网页、X 平台或生成图表。插件支持连接 SharePoint 和 Google Drive 等外部来源，还可用于 PowerPoint 和 Excel。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:00]
 标题: 超越 LoRA：如何选择最佳参数高效微调技术？
 链接: https://huggingface.co/blog/peft-beyond-lora
 正文: 参数高效微调（PEFT）技术中，LoRA 占据绝对主导：Hugging Face Hub 上 20，834 张提及单一 PEFT 技术的模型卡中 20，509 张指向 LoRA（98.4%）；外部站点 10，000 个检查点中 95.0% 是 LoRA；GitHub 搜索 `from peft import` 代码片段的 71.3% 结果为 LoRA。但研究者宣称其他技术超越 LoRA 的论文结果具备偏向性--调整学习率即可让 LoRA 匹配更优技术。Hugging Face 的 PEFT 库提供统一 API 实现 40 余种 PEFT 技术，并开始建立基准测试：在数学数据集上对 LLM 进行思维链推理微调，以帮助用户做出更优选择。
@@ -188,38 +198,19 @@
 链接: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
 正文: Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了提示缓存读取、Write/Edit 在网络驱动器产生 0 字节文件、启动性能回归（约 120ms）、启动阻塞（最长 15 秒）、macOS TUI 冻结、子 agent 时长显示错误、API 重试指示器残留、AWS 凭证刷新等问题。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:41]
-标题: GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR
-链接: https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing
-正文: GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在帮助研究人员和开发者发现跨 README、Issue 和 Pull Request 的多语言开发者内容，加速多语言 AI 开发。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:28]
-标题: Claude Design与Replit联动，设计变应用
-链接: https://x.com/Replit/status/2067328501003497684
-正文: 在Claude中设计。在Replit中构建。 你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-17 19:22]
-标题: Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%
-链接: https://x.com/AYi_AInotes/status/2067327021005656135
-正文: Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-17 23:17]
 标题: Grocery chain pays massive fine, accused of inflated price reporting
 链接: https://finance.yahoo.com/healthcare/articles/grocery-chain-pays-massive-fine-231700048.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 01:03]
+标题: Fox stock gets sobering BofA call amid Roku deal
+链接: https://finance.yahoo.com/markets/stocks/articles/fox-stock-gets-sobering-bofa-010300545.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 17:07]
 标题: Analyst Report: Illumina Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3660_AnalystReport_1781802466000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 11:05]
-标题: Analyst Report: Jabil Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3100_AnalystReport_1781780741000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 11:05]
-标题: Market Digest: IART, JBL, ULTA
-链接: https://finance.yahoo.com/research/reports/ARGUS_47364_MarketSummary_1781780741000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 19:00]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 20:10]
 标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
 链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
 正文: Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.
@@ -233,31 +224,6 @@
 标题: Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival & more
 链接: https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 20:26]
-标题: Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for
-链接: https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html
-正文: Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:27]
-标题: Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026
-链接: https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html
-正文: The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:25]
-标题: Chairman Warsh drastically alters Fed rate statement. Here's what's changed
-链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
-正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 21:42]
-标题: Fed holds rates steady, pares down statement to remove cutting bias
-链接: https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html
-正文: The Federal Reserve on Wednesday released its interest rate decision.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-17 19:55]
-标题: Stocks making the biggest moves midday: SpaceX, JPMorgan, UniQure, Intel, Figma, Nano Nuclear & more
-链接: https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html
-正文: These are some of the stocks posting the largest moves midday.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
 标题: What corporate leaders can learn from start-up founders
@@ -290,19 +256,24 @@
 正文: FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: Rewiring Talent to Value in the age of AI
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai
-正文: As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started.
+标题: The symbiotic enterprise
+链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise
+正文: Advances in cognitive and physical AI are reinventing enterprise execution—ushering in a new organizational model built around human–AI collaboration.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
 标题: AI is turning every company into a software company
 链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company
 正文: As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-18 19:22]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
+标题: Rewiring Talent to Value in the age of AI
+链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai
+正文: As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-18 21:58]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-18 19:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-18 21:58]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
