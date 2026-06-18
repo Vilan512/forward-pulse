@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.18 19:22",
+      "title": "AI智能体在深度研究任务中存在严重隐私泄露风险",
+      "summary": "一项针对深度研究智能体的新研究表明，当智能体结合本地私有文档与外部网页检索时，存在显著的隐私泄露风险。为应对此问题，研究人员提出了新的评估任务和隐私感知强化学习训练方法。",
+      "stars": "★★★★",
+      "insight": "随着AI智能体能力增强，其在企业知识管理、研究辅助等场景的应用将快速普及。然而，当前架构在处理混合数据源时的固有隐私泄露缺陷，将成为大规模企业部署的关键障碍。对隐私保护技术的需求将催生新的安全层和评估标准，影响整个AI工具链的发展方向。",
+      "original_text": "深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。",
+      "full_translation": "深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1,001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。",
+      "source_name": "AI_HOT",
+      "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.18 19:22",
+      "title": "Anthropic实验证实通用AI模型可自主操控机器人，任务完成速度超越人类20倍",
+      "summary": "Anthropic公布的Project Fetch第二阶段实验结果显示，其通用AI模型Claude Opus 4.7无需人类协助即可自主完成机器人操控任务，速度比人类团队快约20倍，且编码量大幅减少。这标志着通用大模型在物理世界交互能力上的重大突破。",
+      "stars": "★★★★★",
+      "insight": "这一结果颠覆了“机器人需要专用模型”的传统认知。通用模型在复杂物理任务中展现出的超强泛化能力和效率，预示着机器人自动化进程可能跳过漫长的垂直领域优化阶段，直接进入由通用AI驱动的“具身智能”爆发期。制造业、物流等领域的自动化范式可能因此加速重构，对相关产业链产生深远影响。",
+      "original_text": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+      "full_translation": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/research/project-fetch-phase-two"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.18 16:55",
       "title": "Anthropic实验：Claude Opus 4.7自主操控机器人，效率远超人类团队",
       "summary": "Anthropic发布Project Fetch第二阶段实验结果，显示其最新模型Claude Opus 4.7已能独立完成四足机器人操控任务，速度比人类团队快约20倍，且无需人类协助。这表明通用大模型在机器人领域的应用正取得显著进展。",
@@ -2375,30 +2399,6 @@
       "full_translation": "Japanese farmer Hiroki Tomiyasu from Hokkaido uses ChatGPT and Codex to solve practical farm problems, covering 8 use cases: taking photos to identify broccoli diseases, obtaining NDVI data via satellite monitoring, using ESP32 and LINE bots to remotely control greenhouse shade curtains, developing a bot for farm group chats to manage temperature and scheduling, tracking sowing quantities from chat logs, learning the principles of RTK-GPS auto-steering and evaluating self-build costs, and designing a farm management database based on Airtable. He says AI has made traditionally expensive automation low-cost and accessible, \"like having a super engineer by your side\".",
       "source_name": "AI_HOT",
       "source_url": "https://x.com/AYi_AInotes/status/2063573709672104286"
-    },
-    {
-      "category": "科技前沿",
-      "date": "2026.06.07 07:00",
-      "title": "NVIDIA发布RTX Spark超芯片，瞄准笔记本全天续航游戏与AI能力",
-      "summary": "NVIDIA CEO黄仁勋在韩国发布RTX Spark超芯片，该芯片集成30年技术，旨在为Windows笔记本提供全天续航和高性能游戏体验，并支持包括DLSS 4.5在内的全套RTX技术。",
-      "stars": "★★★★",
-      "insight": "RTX Spark并非简单的性能升级，而是NVIDIA对移动计算平台的一次战略级介入。它直接瞄准了Windows笔记本在续航和图形性能上的核心痛点，旨在打造一个能与苹果M系列芯片竞争的‘全能移动平台’。支持DLSS 4.5等AI驱动的图形技术，表明NVIDIA正在将AI推理能力深度集成到消费级硬件的每一个环节。未来12-18个月，这可能会催生一波高性能、长续航的Windows笔记本新品，并进一步巩固NVIDIA在移动计算和AI推理硬件领域的生态主导权。",
-      "original_text": "继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games 正合作将旗下游戏适配 RTX Spark。周五，Huang 在 T1 电竞场馆与 Faker 共同亮相，并突袭江南区网吧，演示《PUBG： BATTLEGROUNDS》及基于 NVIDIA ACE 的\"PUBG Ally\"AI 队友、《CINDER CITY》《AION 2》等作品。《CINDER CITY》首发支持 DLSS 4.5 动态多帧生成与超分辨率。已有超过 100 家 Windows 软件与游戏开发商采纳 RTX Spark。",
-      "full_translation": "Following the GTC Taipei launch last week, NVIDIA CEO Jensen Huang traveled to South Korea to officially introduce the RTX Spark super chip to the local gaming community. The chip integrates 30 years of NVIDIA technology, aims to deliver all-day battery life on Windows laptops, and run AAA games at 1440p resolution with over 100fps, supporting the full suite of RTX technologies including DLSS 4.5 Ray Reconstruction (based on the second-generation Transformer model). KRAFTON, NC, and Riot Games are collaborating to adapt their games for RTX Spark. On Friday, Huang appeared alongside Faker at the T1 esports venue and made a surprise visit to a Gangnam PC bang, demonstrating 'PUBG: BATTLEGROUNDS' and the NVIDIA ACE-powered 'PUBG Ally' AI teammate, 'CINDER CITY', and 'AION 2'. 'CINDER CITY' launched with support for DLSS 4.5 Dynamic Multi Frame Generation and Super Resolution. Over 100 Windows software and game developers have already adopted RTX Spark.",
-      "source_name": "AI_HOT",
-      "source_url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.07 08:38",
-      "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
-      "summary": "GitHub 发布开源工具包 Spec Kit，旨在解决 AI 编码中因模糊提示导致需求薄弱、边界遗漏和反复返工的问题。它将流程从“让 AI 直接构建”转变为“先写产品规范，再让 AI 根据规范实现”，规范成为可执行的开发合约，支持 30+ 主流 AI 编码智能体集成。",
-      "stars": "★★★★",
-      "insight": "Spec Kit 的推出标志着 AI 辅助开发从“随意生成”向“结构化工程”的范式转变。通过强制将人类对产品的清晰定义前置，它解决了当前“Vibe Coding”模式下 AI 输出质量不稳定、难以维护的核心痛点。这预示着未来 AI 编码工具竞争的关键将从单纯的模型能力转向对开发流程和规范的深度整合与理解。",
-      "original_text": "GitHub 发布开源工具包 Spec Kit，旨在解决 \"vibe coding\" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 \"让 AI 直接构建\" 改为 \"先写产品规范，再让 AI 根据规范实现\"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor、Qwen 等 30+ agent 集成。项目已获 109K+ 星标。",
-      "full_translation": "GitHub 发布开源工具包 Spec Kit，旨在解决 \"vibe coding\" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 \"让 AI 直接构建\" 改为 \"先写产品规范，再让 AI 根据规范实现\"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor、Qwen 等 30+ agent 集成。项目已获 109K+ 星标。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/rohanpaul_ai/status/2063246343842501091"
     }
   ]
 }
