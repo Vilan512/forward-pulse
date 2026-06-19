@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-18 23:46:08
-# 共计 56 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 03:29:58
+# 共计 38 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-18 12:10]
 标题: The Download: a new hunt for dark matter and Kenya’s case for going solar
@@ -20,18 +20,30 @@
 标题: MosaicLeaks: Can your research agent keep a secret?
 链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-18 00:00]
-标题: Beyond LoRA: Can you beat the most popular fine-tuning technique?
-链接: https://huggingface.co/blog/peft-beyond-lora
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 02:44]
+标题: Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）
+链接: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks
+正文: 本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-18 00:00]
-标题: Is it agentic enough? Benchmarking open models on your own tooling
-链接: https://huggingface.co/blog/is-it-agentic-enough
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 01:33]
+标题: 这家韩国电信巨头是Anthropic"Mythos"争议的焦点
+链接: https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls
+正文: 美国政府对Anthropic最强大的AI模型Claude Mythos实施出口管制，导火索是该公司将访问权限授予韩国电信巨头SK Telecom，美方担忧SK Telecom与中国存在关联。随后亚马逊向白宫报告Mythos的公开版本Fable 5存在可被绕过的防护漏洞，加剧不信任。白宫命令Anthropic撤销所有外国国民（包括美国境内移民）对Mythos和Fable 5的访问权限，Anthropic因此完全禁用这两个模型。Mythos此前通过Project Glasswing向约150家组织开放，SK Telecom于本月早些时候获得访问权，其曾向Anthropic投资1亿美元。SK Telecom在2024年中国营收仅约190万美元，但其所属SK集团在华业务广泛，且与中国联通有过合资历史，引发审查。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 23:45]
+标题: AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元
+链接: https://x.com/rohanpaul_ai/status/2067755504613613699
+正文: AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:59]
 标题: OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员
 链接: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo
 正文: OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthropic因美国政府出口管制禁令被迫下架Fable 5和Mythos 5模型。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:00]
+标题: OpenClaw 接入 OpenRouter
+链接: https://openrouter.ai/blog/tutorials/openclaw-openrouter
+正文: OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:54]
 标题: Claude Code 现已支持 artifacts
@@ -88,6 +100,11 @@
 链接: https://www.anthropic.com/research/project-fetch-phase-two
 正文: Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 15:00]
+标题: 如何将 SillyTavern 连接到 OpenRouter（2026 指南）
+链接: https://openrouter.ai/blog/tutorials/sillytavern-openrouter
+正文: 一个 OpenRouter API 密钥即可在 SillyTavern 的下拉菜单中解锁 300 多个模型，其中许多免费。指南包含五步连接流程、推荐尝试的角色扮演模型以及常见错误的修复方法。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 14:57]
 标题: 我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施
 链接: https://www.ithome.com/0/966/272.htm
@@ -143,63 +160,6 @@
 链接: https://x.com/vista8/status/2067513484364140994
 正文: 乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 03:09]
-标题: cuTile Rust：安全无数据竞争的 GPU 内核系统
-链接: https://github.com/nvlabs/cutile-rs
-正文: cuTile Rust 是一个基于 tile 的 GPU 编程系统，允许用 Rust 编写内存安全、无数据竞争的内核。它通过 `#【cutile：：module】` 宏将内核 AST 嵌入主机二进制，在运行时经 CUDA Tile IR JIT 编译为 GPU cubin。可变张量在启动前分割，不可变张量共享，启动器在 GPU 工作期间保持所有权。在 NVIDIA B200 上，逐元素操作达 7 TB/s（约 91% 峰值带宽），GEMM 达 2 PFlop/s（约 92% 密集 f16 峰值）。基于 cuTile Rust 构建的 Grout 推理引擎在 RTX 5090 上解码 Qwen3-4B 达 171 tokens/s，在 B200 上解码 Qwen3-32B 达 82 tokens/s。项目处于早期研究阶段。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 02:31]
-标题: 首个统一科学大模型 LOGOS 正式开源
-链接: https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg
-正文: LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一"科学语法"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列预测。预训练与下游任务形式与目标一致，跨领域知识迁移经实验验证有效。已完整开源模型权重、推理代码与技术报告。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 01:43]
-标题: 深入解析 Midjourney Scanner 技术内幕
-链接: https://x.com/midjourney/status/2067422898407837797
-正文: 我们全新"Midjourney Scanner"的技术深潜。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:49]
-标题: 上交所发布指引：AI大模型企业可适用科创板第五套上市标准
-链接: https://www.ithome.com/0/965/735.htm
-正文: 上海证券交易所6月17日发布指引，支持尚未形成稳定收入的优质人工智能大模型企业通过科创板第五套上市标准发行上市。申报企业需在行业地位、产业链优势、目标市场需求、研发进度及关键指标方面具备突出竞争力。指引明确，申报时至少有一个大模型产品已完成上线发布并实现规模化应用，以验证商业模式可行性。下一步，上交所将在中国证监会指导下推进符合标准的企业上市。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:43]
-标题: 苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App
-链接: https://www.ithome.com/0/965/734.htm
-正文: 在 2026 年 WWDC 期间，苹果发布 Xcode 27，其核心组件首次整合 AI 智能体，能理解 Swift 语言并通过多轮自然语言对话辅助开发。AI 可跨多个文件修改整个代码库，也能根据提示与资源生成应用设计并独立构建完整应用，建成后仍可通过对话添加特效、动画等。Xcode 27 支持接入 Anthropic、OpenAI 和 Google 等第三方 AI 模型，同时引入 Core AI 框架提供现代 Swift API 调用端侧模型，并升级开源框架 MLX。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:19]
-标题: Noam Shazeer 离开 Google 加入 OpenAI
-链接: https://x.com/Yuchenj_UW/status/2067401895178817999
-正文: 两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。 对 Gemini 来说是个残酷的消息。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:00]
-标题: xAI 发布 Grok for Word 插件
-链接: https://x.ai/news/introducing-word-addin
-正文: xAI 将 Grok 引入 Microsoft Word，推出免费 365 插件。用户可将笔记转为结构化文档、重写文本以提升清晰度与简洁性，也能通过插件搜索网页、X 平台或生成图表。插件支持连接 SharePoint 和 Google Drive 等外部来源，还可用于 PowerPoint 和 Excel。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:00]
-标题: 超越 LoRA：如何选择最佳参数高效微调技术？
-链接: https://huggingface.co/blog/peft-beyond-lora
-正文: 参数高效微调（PEFT）技术中，LoRA 占据绝对主导：Hugging Face Hub 上 20，834 张提及单一 PEFT 技术的模型卡中 20，509 张指向 LoRA（98.4%）；外部站点 10，000 个检查点中 95.0% 是 LoRA；GitHub 搜索 `from peft import` 代码片段的 71.3% 结果为 LoRA。但研究者宣称其他技术超越 LoRA 的论文结果具备偏向性--调整学习率即可让 LoRA 匹配更优技术。Hugging Face 的 PEFT 库提供统一 API 实现 40 余种 PEFT 技术，并开始建立基准测试：在数学数据集上对 LLM 进行思维链推理微调，以帮助用户做出更优选择。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 00:00]
-标题: AI 智能体够格吗？在自有工具上评测开源模型
-链接: https://huggingface.co/blog/is-it-agentic-enough
-正文: Hugging Face 发布面向 AI 智能体使用场景的基准测试框架，以 transformers 库为案例评估库的智能体友好度。框架使用 pi coding agent 与开源模型驱动，通过 Hugging Face Jobs 分散任务确保硬件一致。评估关注 agent 完成任务的成本、延迟、token 使用量和失败率，而非仅最终结果。此前 hf CLI 经优化后 agent token 使用量减少 1.3-1.8 倍（最高 6 倍），该框架旨在验证类似优化对 transformers 的效果。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 01:03]
-标题: Fox stock gets sobering BofA call amid Roku deal
-链接: https://finance.yahoo.com/markets/stocks/articles/fox-stock-gets-sobering-bofa-010300545.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 04:37]
-标题: Fed Warsh era kicks off with big surprise no one saw coming
-链接: https://finance.yahoo.com/economy/policy/articles/fed-warsh-era-kicks-off-043700459.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-18 17:07]
-标题: Analyst Report: Illumina Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3660_AnalystReport_1781802466000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 20:10]
 标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
 链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
@@ -220,55 +180,10 @@
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
 正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: What corporate leaders can learn from start-up founders
-链接: https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders
-正文: Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to transform their companies with AI.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty
-正文: The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: An update on Asia–Pacific consumer sentiment: Outlooks diverge and spending is more selective
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-consumer-sentiment-in-asia-pacific
-正文: Concerns about inflation, job security, and geopolitics weighed on consumers across the region. Here’s the latest research from our ConsumerWise team.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: Europe’s skilling dividend: Turning talent into growth
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/europes-skilling-dividend-turning-talent-into-growth
-正文: Europe’s workforce is a source of strength, but limited mobility holds people back. Organizations that make it easier for workers to move across roles, regions, and sectors can help accelerate growth.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: The rise of the agentic shopper: ASOS’s AI investment
-链接: https://www.mckinsey.com/industries/retail/our-insights/the-rise-of-the-agentic-shopper-asoss-ai-investment
-正文: The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla
-正文: FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: Rewiring Talent to Value in the age of AI
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai
-正文: As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: The symbiotic enterprise
-链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise
-正文: Advances in cognitive and physical AI are reinventing enterprise execution—ushering in a new organizational model built around human–AI collaboration.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-18 00:00]
-标题: AI is turning every company into a software company
-链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company
-正文: As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-18 23:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 03:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-18 23:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 03:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.

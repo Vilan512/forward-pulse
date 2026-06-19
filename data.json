@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.19 03:29",
+      "title": "OpenAI 遭遇出口管制风暴：最强模型 Mythos 被迫禁用",
+      "summary": "美国政府对 Anthropic 最强大的 AI 模型 Claude Mythos 实施出口管制，原因是其将访问权授予与中国存在关联的韩国电信巨头 SK Telecom。此事件已引发连锁反应，白宫命令 Anthropic 撤销所有外国国民的访问权限，导致 Mythos 及公开版本 Fable 5 被完全禁用。",
+      "stars": "★★★★",
+      "insight": "这一事件标志着 AI 模型的地缘政治风险已从理论走向现实。它不仅暴露了前沿 AI 模型作为战略资产所面临的严格审查，更直接冲击了全球 AI 研究与应用的协作网络。对于任何依赖全球顶尖模型进行开发的企业而言，供应链的单一性和地缘政治依赖性已成为一个必须正视的重大风险。模型的获取可能不再是一个纯粹的技术或商业问题，而是一个需要纳入国家安全考量的复杂议题。",
+      "original_text": "美国政府对Anthropic最强大的AI模型Claude Mythos实施出口管制，导火索是该公司将访问权限授予韩国电信巨头SK Telecom，美方担忧SK Telecom与中国存在关联。随后亚马逊向白宫报告Mythos的公开版本Fable 5存在可被绕过的防护漏洞，加剧不信任。白宫命令Anthropic撤销所有外国国民（包括美国境内移民）对Mythos和Fable 5的访问权限，Anthropic因此完全禁用这两个模型。Mythos此前通过Project Glasswing向约150家组织开放，SK Telecom于本月早些时候获得访问权，其曾向Anthropic投资1亿美元。SK Telecom在2024年中国营收仅约190万美元，但其所属SK集团在华业务广泛，且与中国联通有过合资历史，引发审查。",
+      "full_translation": "The US government has imposed export controls on Anthropic's most powerful AI model, Claude Mythos. The trigger was the company granting access to South Korean telecom giant SK Telecom, which US officials worry has ties to China. Subsequently, Amazon reported to the White House that Mythos' public version, Fable 5, had security vulnerabilities that could be bypassed, exacerbating distrust. The White House ordered Anthropic to revoke access for all foreign nationals (including immigrants within the US) to Mythos and Fable 5, leading Anthropic to completely disable both models. Mythos was previously open to about 150 organizations through Project Glasswing, with SK Telecom gaining access earlier this month after investing $100 million in Anthropic. SK Telecom's revenue in China in 2024 was only about $1.9 million, but its parent SK Group has extensive business in China and a historical joint venture with China Unicom, which triggered the review.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.19 03:29",
+      "title": "机器人智能体实现自主：Anthropic Claude Opus 4.7 速度超人类团队20倍",
+      "summary": "Anthropic 在 Project Fetch 实验第二阶段中展示，其最新模型 Claude Opus 4.7 能够在无需人类协助的情况下，自主完成所有操控四足机器人的任务，速度比最快人类团队快约20倍。该进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+      "stars": "★★★★★",
+      "insight": "这不仅是机器人学的进步，更是通用人工智能（AGI）能力边界的一次关键拓展。它证明了一个在语言和代码领域训练出来的通用模型，可以通过规模化涌现出在物理世界中进行感知、规划和执行复杂任务的能力。这打破了“AI 仅处理数字信息”的旧范式，指向了一个由通用智能体驱动物理实体的新纪元。制造业、物流和危险环境作业等领域的生产效率可能因此发生根本性变革，同时也对机器人安全与伦理提出了前所未有的挑战。",
+      "original_text": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+      "full_translation": "Anthropic released the results of the second phase of Project Fetch. In the original experiment in August 2024, human teams equipped with Claude Opus 4.1 significantly outperformed teams without AI in operating quadruped robots. In the new experiment, Claude Opus 4.7 completed all tasks without human assistance, approximately 20 times faster than the fastest human team, and over 37 times faster than teams without Claude, with nearly 10 times less code. The model performed well in areas like sensor connection and path planning, but still faced difficulties in closed-loop control tasks like precisely moving a beach ball. These advances stem from scaling general models, rather than specialized optimization for the robotics field.",
+      "source_name": "AI_HOT",
+      "source_url": "https://www.anthropic.com/research/project-fetch-phase-two"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.19 03:29",
+      "title": "SpaceX 上市后股价连续下跌，普通投资者已近成本线",
+      "summary": "SpaceX 股价在周四盘中一度下跌 7% 至 178 美元，使其交易价格接近其上市后成交量加权平均成本价 180 美元。这意味着大多数在 IPO 后买入的普通投资者目前处于亏损或盈亏平衡边缘。",
+      "stars": "★★★",
+      "insight": "高估值科技股在 IPO 后的股价表现是市场情绪和基本面博弈的晴雨表。SpaceX 股价快速回调至成本线附近，反映了在宏观环境不确定性下，市场对即便是最具光环的私营航天公司也变得更加挑剔和现实。这对于后续的大型科技公司 IPO（如可能的 OpenAI）具有警示意义：市场对增长故事的买单意愿正在变得谨慎，投资者会更加关注实际的盈利路径和现金流状况，而非纯粹的愿景。",
+      "original_text": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
+      "full_translation": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.18 19:22",
       "title": "AI智能体在深度研究任务中存在严重隐私泄露风险",
       "summary": "一项针对深度研究智能体的新研究表明，当智能体结合本地私有文档与外部网页检索时，存在显著的隐私泄露风险。为应对此问题，研究人员提出了新的评估任务和隐私感知强化学习训练方法。",
@@ -2363,42 +2399,6 @@
       "full_translation": "今日科技股：芯片股在英伟达首席执行官黄仁勋表示投资者应‘非常高兴’后反弹。",
       "source_name": "Yahoo_Finance",
       "source_url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-rebound-after-nvidias-jensen-huang-says-investors-should-be-very-happy-120420037.html"
-    },
-    {
-      "category": "科技前沿",
-      "date": "2026.06.08 12:50",
-      "title": "高德发布全球首个3D原生城市世界模型，大幅降低数字孪生构建成本",
-      "summary": "阿里巴巴旗下高德地图发布全球首个3D原生城市世界模型 ABot-Earth 0.5。该模型能根据卫星图或文字描述，在消费级GPU上10分钟内生成公里级的可编辑3D城市。这使制图成本降至传统的百分之一，效率提升约千倍，为具身智能、低空经济和应急救援等应用提供了关键的数字底座。",
-      "stars": "★★★★",
-      "insight": "这不仅仅是地图技术的升级，而是基础设施层面的范式变革。将高保真3D城市的生成成本与时间门槛降低三个数量级，实质上是为物理世界的数字化（数字孪生）和智能化（具身智能）铺设了大规模、低成本的‘原材料’生产线。其破坏性在于，它将原本由少数专业公司垄断的昂贵服务，转变为可大规模供给的基础能力，从而可能催生全新的应用生态，例如大规模机器人仿真训练、低成本城市规划模拟以及沉浸式虚拟现实体验。",
-      "original_text": "阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。",
-      "full_translation": "阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。",
-      "source_name": "AI_HOT",
-      "source_url": "https://www.ithome.com/0/961/378.htm"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.07 15:12",
-      "title": "苹果内部秘密会议决定全面转向AI，核心战略或于WWDC公布",
-      "summary": "据报道，苹果在一次内部秘密会议后，终于将AI确立为核心战略，相关进展预计将在即将到来的WWDC 2026上公布。",
-      "stars": "★★★★",
-      "insight": "这是苹果在AI竞赛中迟到的但至关重要的战略转向。此次‘秘密会议’的信号表明，苹果已经认识到AI不再是可选项，而是其整个生态系统（iOS、macOS、服务）未来的核心。预计WWDC将不再是渐进式更新，而是以AI为中心的系统性重构。这将在未来6-18个月内对移动设备、个人电脑和软件开发者的竞争格局产生重大影响，迫使竞争对手重新评估其AI集成深度。",
-      "original_text": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
-      "full_translation": "After an internal secret meeting, Apple has finally decided to make AI its core strategy. This meeting prompted the company to fully pivot towards the AI field, with related progress expected to be announced at WWDC 2026.",
-      "source_name": "AI_HOT",
-      "source_url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.07 10:48",
-      "title": "北海道农民用ChatGPT和Codex实现低成本农业自动化",
-      "summary": "日本北海道一位西兰花农民详细分享了使用ChatGPT和Codex解决8个农场实际问题的案例，展示了AI如何让昂贵的自动化技术变得低成本、可及。",
-      "stars": "★★★",
-      "insight": "这个案例是AI‘民主化’和‘实用化’趋势的微观缩影。它表明，前沿AI工具（如Codex）正在从硅谷实验室渗透到传统、非技术密集型的行业（如农业）。关键不在于技术的复杂性，而在于它降低了专业自动化（如病害识别、环境控制、数据管理）的门槛。未来6-18个月，我们将看到更多类似的‘超级工程师’AI助手在中小企业和个体经营者中普及，这可能会重塑多个传统行业的运营效率和成本结构。",
-      "original_text": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
-      "full_translation": "Japanese farmer Hiroki Tomiyasu from Hokkaido uses ChatGPT and Codex to solve practical farm problems, covering 8 use cases: taking photos to identify broccoli diseases, obtaining NDVI data via satellite monitoring, using ESP32 and LINE bots to remotely control greenhouse shade curtains, developing a bot for farm group chats to manage temperature and scheduling, tracking sowing quantities from chat logs, learning the principles of RTK-GPS auto-steering and evaluating self-build costs, and designing a farm management database based on Airtable. He says AI has made traditionally expensive automation low-cost and accessible, \"like having a super engineer by your side\".",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/AYi_AInotes/status/2063573709672104286"
     }
   ]
 }
