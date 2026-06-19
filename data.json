@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.19 08:59",
+      "title": "美国政府关闭Fable模型，AI安全管控时代来临",
+      "summary": "美国政府短暂关闭了Anthropic的Fable模型，标志着AI模型已越过危险门槛。分析预测，类似核武器的AI管控即将到来，大多数企业将无法访问前沿模型。",
+      "stars": "★★★★★",
+      "insight": "这起事件是AI发展史上的一个分水岭。它标志着国家力量对最强AI模型的直接干预和封锁。未来前沿AI模型的访问权将不再是商业问题，而是国家安全问题。这将迫使行业格局重组，推动基于开源和可控模型的替代方案，但也将创造一个前沿AI能力被严格限制的“双轨制”市场。",
+      "original_text": "美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。",
+      "full_translation": "美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。",
+      "source_name": "AI_HOT",
+      "source_url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.19 08:59",
+      "title": "DeepSeek开源AutoResearch，AI智能体首次完全自主完成285B模型RL研究闭环",
+      "summary": "DeepSeek研究员开源AutoResearch协议，其AI智能体首次在285B模型上完全自主地完成了从实验设计到结论总结的完整强化学习研究闭环，全程零人工干预。",
+      "stars": "★★★★",
+      "insight": "这是AI for AI研究（AI驱动的AI研究）的一个重要里程碑。它证明了大型AI模型不仅能执行任务，还能自主设计和执行复杂的科学实验流程。这将极大加速AI算法的迭代速度，可能导致AI能力在短期内呈指数级跃升，并开启“持续学习”和“自我改进”的研究范式。",
+      "original_text": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+      "full_translation": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/AYi_AInotes/status/2067819352926150953"
+    },
+    {
+      "category": "股票基金",
+      "date": "2026.06.19 08:59",
+      "title": "SpaceX股价两日暴跌，IPO后买入的投资者濒临亏损",
+      "summary": "SpaceX股价在两天内大幅下跌，跌幅达7%，使其交易价格几乎与IPO后的成交量加权平均成本持平，意味着大多数在上市后买入的投资者已接近盈亏平衡点。",
+      "stars": "★★★",
+      "insight": "这反映了在当前高利率和市场不确定性下，投资者对高估值科技股的耐心正在消退。SpaceX作为明星公司的破发边缘，可能对整体科技股，尤其是“硬科技”和航天领域的IPO及二级市场情绪产生连锁抑制效应。",
+      "original_text": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
+      "full_translation": "SpaceX股价在周四一度下跌7%至178美元，使其交易价格几乎与略低于180美元的成交量加权平均价格持平。",
+      "source_name": "CNBC_Markets",
+      "source_url": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.19 03:29",
       "title": "OpenAI 遭遇出口管制风暴：最强模型 Mythos 被迫禁用",
       "summary": "美国政府对 Anthropic 最强大的 AI 模型 Claude Mythos 实施出口管制，原因是其将访问权授予与中国存在关联的韩国电信巨头 SK Telecom。此事件已引发连锁反应，白宫命令 Anthropic 撤销所有外国国民的访问权限，导致 Mythos 及公开版本 Fable 5 被完全禁用。",
@@ -2363,42 +2399,6 @@
       "full_translation": "我们与哈佛大学发表新研究，关于从聊天界面转向像Computer这样的自主智能体的转变。 超过3个月的研究结果表明，使用Computer的工人在完成任务上比仅使用搜索快87%，成本低94%，且满意度更高。",
       "source_name": "AI_HOT",
       "source_url": "https://x.com/perplexity_ai/status/2064023455453110286"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.08 21:15",
-      "title": "微信AI内测启动：内嵌代理调用小程序，构建‘代理式交易’雏形",
-      "summary": "腾讯开始测试嵌入微信的AI代理，用户可通过自然语言指令调用数百万小程序完成任务，并与多家手机厂商合作推出A2A助手能力，发布官方接入指引。",
-      "stars": "★★★★",
-      "insight": "微信此举标志着中国最大的社交与生活服务平台正率先将‘代理式交易’从概念推向大规模应用。通过将AI代理能力深度集成至其庞大的小程序生态和移动操作系统层面，微信旨在成为下一代人机交互的中心节点。这不仅是对现有App使用模式的颠覆，更可能创造出一个由AI代理驱动的、无缝连接的消费与服务市场，对全球移动生态的商业模式构成深远影响。",
-      "original_text": "腾讯正测试嵌入微信的AI Agent，用户右滑唤出对话窗口，通过自然语言指令调用数百万小程序完成点咖啡等任务。微信还与华为、荣耀、小米、OPPO、vivo合作推出A2A助手能力，可通过手机语音助理发起微信音视频通话或发送消息。6月8日，微信官方发布《关于开发者接入微信AI生态的指引》，提供自动接入模式，利用微信沙箱全自动改造小程序，使其可被AI直接调用。这一布局被视为Agentic Commerce（代理式交易）的雏形。",
-      "full_translation": "腾讯正测试嵌入微信的AI Agent，用户右滑唤出对话窗口，通过自然语言指令调用数百万小程序完成点咖啡等任务。微信还与华为、荣耀、小米、OPPO、vivo合作推出A2A助手能力，可通过手机语音助理发起微信音视频通话或发送消息。6月8日，微信官方发布《关于开发者接入微信AI生态的指引》，提供自动接入模式，利用微信沙箱全自动改造小程序，使其可被AI直接调用。这一布局被视为Agentic Commerce（代理式交易）的雏形。",
-      "source_name": "AI_HOT",
-      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683054&idx=1&sn=dcaa25bd4fdfc9bd5c0211532021bf7c"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.08 12:50",
-      "title": "OpenAI 将 ChatGPT 改造为 Agent 平台，开启超级应用时代",
-      "summary": "OpenAI 正进行 ChatGPT 上线以来最大规模改版，旨在将其从聊天机器人转变为集编程工具、图像生成和第三方应用于一体的超级应用/Agent 平台。高管宣称‘聊天已死’，目标是打造跨平台的个人 AI 助手，此举意在拓展商业边界，应对激烈的市场竞争。",
-      "stars": "★★★★★",
-      "insight": "这是一个明确的战略转向信号，标志着主流 AI 应用正从被动响应式的对话工具，进化为主动执行任务的通用代理（Agent）平台。这一转变将彻底改变用户与软件的交互范式，模糊操作系统与应用程序的边界。对于软件产业而言，这预示着一个以 AI Agent 为核心的新分发渠道和用户入口的诞生，其破坏性在于可能重构现有的应用生态和商业模式。OpenAI 此举旨在抓住 IPO 前的关键窗口期，通过平台化巩固其市场领导地位并提升估值故事。",
-      "original_text": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
-      "full_translation": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/dotey/status/2063686036895478162"
-    },
-    {
-      "category": "股票基金",
-      "date": "2026.06.08 12:50",
-      "title": "芯片股因英伟达 CEO 积极言论反弹，Marvell 因纳入标普500指数股价飙升",
-      "summary": "科技股，特别是芯片板块，在英伟达首席执行官黄仁勋发表投资者应‘非常高兴’的乐观评论后出现反弹。同时，芯片制造商 Marvell 的股价因其被纳入标普500指数的消息而大幅飙升。这反映了市场对AI硬件需求的持续关注以及指数调整带来的结构性资金流动。",
-      "stars": "★★★★",
-      "insight": "黄仁勋的言论具有市场风向标作用，其对投资者情绪的直接影响凸显了英伟达在当前AI资本叙事中的核心地位。芯片股的反弹表明，在经历了前一交易日的下跌后，市场对AI算力基础设施的长期需求前景依然抱有信心。Marvell 被纳入标普500指数是重要的市场事件，通常会引发被动指数基金和ETF的强制性买入，从而在短期内推动股价上涨，并提升其流动性和市场关注度。这两则消息共同描绘了AI产业链从核心（英伟达）到外围（Marvell等）的市场动态。",
-      "original_text": "Tech stocks today: Chip stocks rebound after Nvidia's Jensen Huang says investors should be 'very happy'",
-      "full_translation": "今日科技股：芯片股在英伟达首席执行官黄仁勋表示投资者应‘非常高兴’后反弹。",
-      "source_name": "Yahoo_Finance",
-      "source_url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-rebound-after-nvidias-jensen-huang-says-investors-should-be-very-happy-120420037.html"
     }
   ]
 }

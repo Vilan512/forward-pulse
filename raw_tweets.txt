@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-19 03:29:58
-# 共计 38 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 08:59:57
+# 共计 40 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-18 12:10]
 标题: The Download: a new hunt for dark matter and Kenya’s case for going solar
@@ -20,6 +20,26 @@
 标题: MosaicLeaks: Can your research agent keep a secret?
 链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 05:01]
+标题: 我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89
+链接: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
+正文: Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 04:49]
+标题: 阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式
+链接: https://x.com/AYi_AInotes/status/2067832098816250346
+正文: 阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 03:58]
+标题: DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环
+链接: https://x.com/AYi_AInotes/status/2067819352926150953
+正文: DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 03:31]
+标题: Fable模型被美国临时关闭，AI安全管控时代来临
+链接: https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b
+正文: 美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。人类的"辨别地平线"使许多人感觉模型进步停止，但实际指数增长未停--只是用户缺少足够困难的问题。Fable类已能解决此前Opus 4.8无法完成的复杂任务（如React客户端），AI将彻底改变编程和知识工作，但多数人只能使用当前等级模型。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 02:44]
 标题: Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）
 链接: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks
@@ -35,6 +55,11 @@
 链接: https://x.com/rohanpaul_ai/status/2067755504613613699
 正文: AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 20:29]
+标题: 诺姆·沙齐尔加入OpenAI
+链接: https://twitter.com/NoamShazeer/status/2067400851438932297
+正文: 前Google研究员、Transformer架构共同作者诺姆·沙齐尔在X上宣布，他将加入OpenAI，并期待与那里的卓越团队合作。沙齐尔表示这是一个艰难的决定，同时对Google团队及其共同取得的成果感到无比自豪。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:59]
 标题: OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员
 链接: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo
@@ -49,11 +74,6 @@
 标题: Claude Code 现已支持 artifacts
 链接: https://claude.com/blog/artifacts-in-claude-code
 正文: 从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再"走过场式汇报"。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:25]
-标题: OpenAI 联合多国医生：GPT-5.5 Instant 健康问答能力追平前沿 Thinking 模型
-链接: https://x.com/gdb/status/2067675030335668270
-正文: OpenAI 与全球 60 个国家、49 种语言、26 个专科的数百名医生合作，通过医生主导的评估大幅提升了 GPT-5.5 Instant 在健康相关问题的智能水平，现已能与公司前沿 Thinking 模型（推理模型）相当。该模型每周为超过 2.3 亿 ChatGPT 用户服务，能更好识别紧急医疗需求、询问相关上下文、解释不确定性并简化复杂信息。由于面向所有 ChatGPT 免费用户开放，这些改进可惠及更多人。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:13]
 标题: MosaicLeaks： 你的研究智能体能保守秘密吗？
@@ -110,6 +130,11 @@
 链接: https://www.ithome.com/0/966/272.htm
 正文: 工信部6月16日就《智能网联汽车自动驾驶系统安全要求》等2项强制性国标公开征求意见，公示至6月24日，建议2027年7月1日起实施。该标准系我国首部针对L3/L4的强制性国标，要求系统安全水平至少达到"合格且专注驾驶人"，引入Safety Case机制。L3重点规范人机交接，L4强调自身风险处置、不得依赖远程协助。新申请车型实施日起执行，已获批车型有约一年过渡期。
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 14:37]
+标题: Nature两篇研究：MIRA和AMIE诊断与治疗计划媲美甚至超越医生
+链接: https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well
+正文: 德国团队开发的MIRA智能体在模拟电子病历中操作85，000种选项，500余例急诊诊断准确率88.9%，对比测试（311例）得分87.8%，高于资深专科医生（78.1%）和混合团队（71.1%）。MIRA在阑尾炎（98.6%）和胰腺炎（92.3%）最佳，未发现危险药物交互或剂量错误，性能不受语言影响，代码已公开。谷歌AMIE采用双智能体架构，在100个多访视病例中治疗计划适切率95%（初级保健医生72%），并在药物知识基准RxQA上超过医生。两项研究均警告模拟环境与现实存在差距，实际性能可能更低。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 12:59]
 标题: Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体
 链接: https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps
@@ -145,21 +170,6 @@
 链接: https://www.ithome.com/0/966/154.htm
 正文: 商务部等八部门6月18日发布关于加快"人工智能+消费"发展的实施意见。其中提到加大财政资金支持，落实数码和智能产品购新政策，鼓励地方在消费品以旧换新框架内自主制定补贴，重点支持新一代智能终端消费。增加AI手机、智能电脑、智能电视、智能家居、AI眼镜、智能网联汽车、人形机器人等产品供给，培育智能穿戴消费市场。同时加快AI在居家服务、养老服务、文化旅游、住宿餐饮、教育教学等领域的应用，建设AI商品首发平台，举办"人工智能进万家"活动。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 08:00]
-标题: OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%
-链接: https://openai.com/index/diagnose-rare-childhood-diseases
-正文: 波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 07:48]
-标题: DeepSeek 识图模式正式上线 App 和网页端
-链接: https://www.ithome.com/0/966/066.htm
-正文: DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示"图片理解功能内测中"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为"Thinking with Visual Primitives（以视觉原语思考）"。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 07:43]
-标题: 免费开源乔木画布：AI生图+抠图，一键部署Vercel
-链接: https://x.com/vista8/status/2067513484364140994
-正文: 乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 20:10]
 标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
 链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
@@ -180,10 +190,10 @@
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
 正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 03:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 08:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 03:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 08:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
