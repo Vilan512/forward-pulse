@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-19 19:27:33
-# 共计 24 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 21:02:09
+# 共计 26 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-19 12:10]
 标题: The Download: AI bottleneck debates, and BCI trials take off
@@ -21,6 +21,16 @@
 链接: https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
 正文: This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables him to “speak,” surf the web, and perform his job as a climate activist, largely independently. Since Harrell was implanted with the device, in July 2023, a team at the University of California, Davis, has worked with him to adjust and improve its offerings. They’ve refined its accuracy, for example. And they’ve introduced settings including a privacy mode and a “profanity filter” that lets Harrell talk to his daughter without risking accidental swearing. Harrell told me that, for him, the device is “nothing short of revolutionary!” It has enabled him to maintain an income, reconnect with friends and family, and read to his daughter. The team that developed his BCI is one of several working on ways to use technology to allow people with paralysis to communicate, engage with the online world, and regain some independence. And Harrell is one of a growing number of people volunteering their brains to, as he puts it, “pay it forward and do the scientific research … [and] get some personal benefit.” Over the past couple of years, the number of BCI trial volunteers has soared. This year, China became the first country to approve a BCI for medical use. Advances in technology are allowing engineers to provide more features than ever. BCI research is properly taking off. I should first point out that BCIs come in different forms. Harrell’s device includes a set of electrodes embedded in his brain that pick up the electrical activity associated with speech. Those electrodes are connected to two docking ports on top of his head that can be plugged into a computer. That computer is loaded with software trained to decode his brain signals into phonemes (units of
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 19:41]
+标题: JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案
+链接: https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech
+正文: 上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 19:00]
+标题: OpenRouter vs Portkey：你的团队该选哪个LLM网关？
+链接: https://openrouter.ai/blog/insights/openrouter-vs-portkey
+正文: OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO、私有部署。两者均可组合使用。
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 18:43]
 标题: baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX
 链接: https://x.com/dotey/status/2068042001895809420
@@ -35,6 +45,11 @@
 标题: AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic
 链接: https://x.com/demishassabis/status/2068002732250640603
 正文: AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 15:00]
+标题: OpenRouter vs LiteLLM：如何选择 LLM 网关
+链接: https://openrouter.ai/blog/insights/openrouter-vs-litellm
+正文: OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 13:02]
 标题: 禁止开源AI将是一个错误
@@ -95,11 +110,6 @@
 链接: https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html
 正文: SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 20:10]
-标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
-链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
-正文: Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 22:03]
 标题: Chairman Warsh drastically alters Fed rate statement. Here's what's changed
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
@@ -110,10 +120,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative
 正文: Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 19:27]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 21:02]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 19:27]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 21:02]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
