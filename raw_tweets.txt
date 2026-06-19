@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-19 15:56:53
-# 共计 73 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 17:52:55
+# 共计 69 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-19 12:10]
 标题: The Download: AI bottleneck debates, and BCI trials take off
@@ -24,6 +24,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-18 18:13]
 标题: MosaicLeaks: Can your research agent keep a secret?
 链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 16:45]
+标题: AI中心的数据黑洞
+链接: https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2
+正文: 智能的一种定义是样本效率，但近年AI进步主要靠扩充数据分布和增加算力。强化学习本质是合成数据生成--投入大量算力通过验证器筛选"好"数据，再训练模型预测正确输出。这一过程需要每个领域和技能的海量人类专家示例，数据行业年收入已达数十亿美元。近日Epoch报告，开源模型仅落后前沿闭源模型4个月，原因在于数据可从公开API蒸馏，而超参数等不易复制。人类一生接触约2亿token，前沿模型训练在数十到数百T token之间，相差近百万倍--机器人、自动驾驶等领域同样存在巨大效率差距。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 16:07]
+标题: AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic
+链接: https://x.com/demishassabis/status/2068002732250640603
+正文: AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 13:02]
 标题: 禁止开源AI将是一个错误
@@ -80,11 +90,6 @@
 链接: https://openrouter.ai/blog/tutorials/openclaw-openrouter
 正文: OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:54]
-标题: Claude Code 现已支持 artifacts
-链接: https://claude.com/blog/artifacts-in-claude-code
-正文: 从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再"走过场式汇报"。
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:13]
 标题: MosaicLeaks： 你的研究智能体能保守秘密吗？
 链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
@@ -95,194 +100,173 @@
 链接: https://alignment.openai.com/beneficial-rl
 正文: OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:51]
-标题: Claude Enterprise 推出企业托管 MCP 连接器授权管理
-链接: https://claude.com/blog/enterprise-managed-auth
-正文: Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:51]
-标题: 驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等
-链接: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
-正文: Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:49]
-标题: AI数据中心获政府强制电网快车道
-链接: https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid
-正文: 美国联邦能源监管委员会（FERC）命令六大电网运营商为数据中心等大型用户提供快速并网通道，数据中心需承担并网费用。FERC同时要求运营商考虑"替代输电技术"，并在30天内报告剩余发电容量、60天内审查本区域电价。指令并未解决发电容量短缺问题。数据中心电力需求预计到2035年增长近三倍，而电网运营商此前长期应对近乎零的需求增长。据Bloomberg，部分地区批发电价较五年前上涨了267%。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:00]
-标题: 企业版新用量分析与更新的支出控制
-链接: https://openai.com/index/chatgpt-enterprise-spend-controls
-正文: OpenAI 为 ChatGPT Enterprise 推出信用额度用量分析与更新的支出控制功能。全局管理控制台（Global Admin Console）统一展示 ChatGPT 和 Codex 的信用消耗，支持按时间、用户、产品、模型追踪用量趋势。管理员可为整个工作区设置默认限额，按群组配置额度，并为个人设置叠加限制。员工可查看个人用量并申请增加额度（附工作上下文）。这些功能即日起可用。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 16:22]
-标题: Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍
-链接: https://www.anthropic.com/research/project-fetch-phase-two
-正文: Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 02:47]
 标题: Jim Cramer sends a stern message to SpaceX buyers
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:29]
-标题: Is Titan America SA (TTAM) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/titan-america-sa-ttam-good-152936112.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:19]
+标题: Why Planet Labs (PL) Is Building a Higher-Value Space Data Story Around NGA Demand
+链接: https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-building-171904673.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:04]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
+标题: How Firefly Aerospace (FLY) Is Turning Lunar and Defense Programs Into a Broader Growth Base
+链接: https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-turning-lunar-171857003.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
+标题: How Karman Holdings (KRMN) Is Using Space and Defense Demand to Build a Larger Backlog Story
+链接: https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-using-space-171849057.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
+标题: Why Redwire (RDW) Is Becoming More Than a Space Infrastructure Contractor Through Microgravity Research
+链接: https://finance.yahoo.com/markets/stocks/articles/why-redwire-rdw-becoming-more-171841607.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:33]
+标题: Nvidia's $6.9 billion side bet just paid off in a big way
+链接: https://finance.yahoo.com/technology/articles/nvidias-6-9-billion-side-173300881.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
+标题: How Rocket Lab (RKLB) Is Pairing Repeat Launch Demand With a Larger Space Systems Platform
+链接: https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-pairing-repeat-171835630.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:17]
+标题: Why Satellogic (SATL) Is Building Its Growth Case Around Merlin and Daily Earth Intelligence
+链接: https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-building-growth-171710367.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
+标题: How SES (SGBAF) Is Turning Multi-Orbit Aviation Connectivity Into a Mobility Growth Driver
+链接: https://finance.yahoo.com/technology/articles/ses-sgbaf-turning-multi-orbit-171547535.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
+标题: Why Intuitive Machines (LUNR) Is Building Its Lunar Business Around Data Services, Not Just Landers
+链接: https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-lunr-building-171538110.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:26]
+标题: Procter & Gamble vs. Colgate-Palmolive: One Dividend Giant Stands Above the Rest
+链接: https://finance.yahoo.com/markets/stocks/articles/procter-gamble-vs-colgate-palmolive-172628773.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
+标题: How Astroscale (ASRHF) Is Using New Funding and Operator Partnerships to Scale On-Orbit Servicing
+链接: https://finance.yahoo.com/markets/stocks/articles/astroscale-asrhf-using-funding-operator-171531682.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
+标题: Why AST SpaceMobile’s (ASTS) BlueBird Launch Matters for Its Direct-to-Device Growth Test
+链接: https://finance.yahoo.com/markets/stocks/articles/why-ast-spacemobile-asts-bluebird-171522628.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:12]
 标题: Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:01]
-标题: Is DXP Enterprises, Inc. (DXPE) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/dxp-enterprises-inc-dxpe-good-150111135.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Aegon (AEG) Announces Governance Agreement to Support Corporate Relocation to the US
+链接: https://finance.yahoo.com/markets/stocks/articles/aegon-aeg-announces-governance-agreement-165255887.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:00]
-标题: Is EZCORP, Inc. (EZPW) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ezcorp-inc-ezpw-good-stock-150059680.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:25]
+标题: Headed Into Earnings, Nike Stock Is Trading Lower Than It Was a Decade Ago. But Is the Turnaround Finally Working?
+链接: https://finance.yahoo.com/markets/stocks/articles/headed-earnings-nike-stock-trading-172537076.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:00]
-标题: Is AST SpaceMobile, Inc. (ASTS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-good-150008750.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Nomura (NMR) Subsidiary Laser Digital Receives Conditional Approval for US National Trust Bank Charter
+链接: https://finance.yahoo.com/markets/crypto/articles/nomura-nmr-subsidiary-laser-digital-165243512.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
-标题: Is Blue Bird Corporation (BLBD) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/blue-bird-corporation-blbd-good-145953748.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Melco Resorts & Entertainment (MLCO) Extends Credit Facility Maturity and Increases Total Commitment
+链接: https://finance.yahoo.com/markets/stocks/articles/melco-resorts-entertainment-mlco-extends-165237344.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
-标题: Is Caris Life Sciences, Inc. (CAI) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/caris-life-sciences-inc-cai-145940123.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Grifols (GRFS) Launches FESILTY in the U.S. for Congenital Fibrinogen Deficiency Treatment
+链接: https://finance.yahoo.com/healthcare/articles/grifols-grfs-launches-fesilty-u-165231770.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
-标题: Is CoStar Group, Inc. (CSGP) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/costar-group-inc-csgp-good-145925932.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Haleon (HLN) Issues Voluntary Nationwide Recall for Specific Gas-X Extra Strength Softgels
+链接: https://finance.yahoo.com/healthcare/articles/haleon-hln-issues-voluntary-nationwide-165224414.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:25]
-标题: Why Fox Corp Stock Sank 24.9% This Week
-链接: https://finance.yahoo.com/markets/stocks/articles/why-fox-corp-stock-sank-152504593.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:21]
+标题: Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-backlog-may-172139829.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:58]
-标题: Is Flutter Entertainment plc (FLUT) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/flutter-entertainment-plc-flut-good-145806193.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Mizuho Financial Group (MFG): Top Value Stocks to Buy Under $10
+链接: https://finance.yahoo.com/markets/stocks/articles/mizuho-financial-group-mfg-top-165219045.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
-标题: Is Grindr Inc. (GRND) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/grindr-inc-grnd-good-stock-145751337.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers
+链接: https://finance.yahoo.com/markets/stocks/articles/lloyds-lyg-launches-lloyds-rewards-165213150.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
-标题: Is LandBridge Company LLC (LB) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/landbridge-company-llc-lb-good-145738580.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Here is Why Tencent Music (TME) is One of the Top Value Stocks to Buy Under $10
+链接: https://finance.yahoo.com/markets/stocks/articles/why-tencent-music-tme-one-165206107.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
-标题: Is Lincoln Educational Services Corporation (LINC) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/lincoln-educational-services-corporation-linc-145725311.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
+标题: Fortuna Mining (FSM) Secures Environmental Approval for Diamba Sud Gold Project in Senegal
+链接: https://finance.yahoo.com/markets/stocks/articles/fortuna-mining-fsm-secures-environmental-165201476.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:25]
-标题: UniCredit to Lift Commerzbank Stake to 42.5% After Initial Offer Period
-链接: https://www.wsj.com/business/deals/unicredit-to-lift-commerzbank-stake-to-42-5-after-initial-offer-period-eab1cff0?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:20]
+标题: Planet Labs Stock Has Quickly Fallen 40%. Time to Buy the Dip?
+链接: https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-quickly-fallen-172000206.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
-标题: Is The Mosaic Company (MOS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/mosaic-company-mos-good-stock-145707930.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:51]
+标题: Is Rithm Capital (RITM) One of the Top Value Stocks to Buy Under $10?
+链接: https://finance.yahoo.com/markets/stocks/articles/rithm-capital-ritm-one-top-165155148.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
-标题: Is Sanofi (SNY) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/sanofi-sny-good-stock-buy-145651611.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:50]
+标题: Most Americans are open to age-gap dating — but few know about the retirement risk it can create
+链接: https://finance.yahoo.com/small-business/articles/most-americans-open-age-gap-165000129.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
-标题: Is Sterling Infrastructure, Inc. (STRL) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/sterling-infrastructure-inc-strl-good-145636099.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:26]
+标题: Is Cipher Digital Inc. (CIFR) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/cipher-digital-inc-cifr-good-162628975.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
-标题: Is Tutor Perini Corporation (TPC) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/tutor-perini-corporation-tpc-good-145621895.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:26]
+标题: Is Constellium SE (CSTM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/constellium-se-cstm-good-stock-162614113.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:22]
-标题: Vanguard Global ETFs Face-Off: Is the Total International Stock ETF or the Emerging Markets ETF the Better Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-global-etfs-face-off-152230899.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
+标题: Amazon’s CEO: AI Growth Is Dwarfing Everything We’ve Seen Before.
+链接: https://finance.yahoo.com/technology/ai/articles/amazon-ceo-ai-growth-dwarfing-171853149.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
-标题: Is Trex Company, Inc. (TREX) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/trex-company-inc-trex-good-145609637.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
+标题: Is Extreme Networks, Inc. (EXTR) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/extreme-networks-inc-extr-good-162536552.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:55]
-标题: Is Ulta Beauty, Inc. (ULTA) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-inc-ulta-good-145557131.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
+标题: Is FirstCash Holdings, Inc. (FCFS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/firstcash-holdings-inc-fcfs-good-162521969.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:37]
-标题: Why Amphenol (APH) Is Becoming a Core Picks-and-Shovels Supplier for AI Data Centers
-链接: https://finance.yahoo.com/technology/ai/articles/why-amphenol-aph-becoming-core-143737968.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
+标题: Is Granite Construction Incorporated (GVA) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/granite-construction-incorporated-gva-good-162506497.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: Why Dell Technologies (DELL) Is Turning Rack-Scale AI Systems Into a Major Growth Driver
-链接: https://finance.yahoo.com/technology/ai/articles/why-dell-technologies-dell-turning-143451614.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
+标题: Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/veradermics-incorporated-mane-good-stock-162451041.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:21]
-标题: Is SpaceX Stock a Buy at a $2.8 Trillion Valuation? The Math Might Blow Your Mind.
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-2-8-152100885.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:17]
+标题: 95-year-old beloved supermarket chain closes longtime stores
+链接: https://finance.yahoo.com/economy/articles/95-old-beloved-supermarket-chain-171700234.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: How NVIDIA (NVDA) Is Extending Its AI Infrastructure Reach Into XR and Physical AI
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-extending-ai-infrastructure-143444073.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
+标题: Is ONE Gas, Inc. (OGS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/one-gas-inc-ogs-good-162437042.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers
-链接: https://finance.yahoo.com/markets/stocks/articles/why-lumentum-lite-remains-tied-143429339.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
+标题: Is Pebblebrook Hotel Trust (PEB) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/pebblebrook-hotel-trust-peb-good-162424092.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment
-链接: https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-using-taiwan-143418833.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
+标题: Is SunocoCorp LLC (SUNC) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sunococorp-llc-sunc-good-stock-162409101.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: Why Super Micro Computer (SMCI) Needs Fresh Capital to Support Its AI Server Order Surge
-链接: https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-smci-143412898.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:22]
+标题: Is TG Therapeutics, Inc. (TGTX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/tg-therapeutics-inc-tgtx-good-162200486.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:17]
-标题: Kroger shares slide after earnings as investors await more detail on strategy
-链接: https://finance.yahoo.com/markets/stocks/articles/kroger-shares-slide-earnings-investors-151700720.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:16]
+标题: Berkshire’s New CEO Makes Something Crystal Clear About Shareholder Capital
+链接: https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-makes-something-crystal-171650713.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
-标题: How Credo Technology (CRDO) Is Using DustPhotonics to Build a Deeper AI Optical Connectivity Stack
-链接: https://finance.yahoo.com/technology/ai/articles/credo-technology-crdo-using-dustphotonics-143405843.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:33]
-标题: Why Micron Technology (MU) Is Expanding U.S. Memory Capacity as AI Turns DRAM Into Strategic Infrastructure
-链接: https://finance.yahoo.com/technology/ai/articles/why-micron-technology-mu-expanding-143343380.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:33]
-标题: How SanDisk (SNDK) Is Tackling AI Storage Bottlenecks With Faster SSD Qualification
-链接: https://finance.yahoo.com/technology/ai/articles/sandisk-sndk-tackling-ai-storage-143314931.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:32]
-标题: Why Nebius Group (NBIS) Is Scaling UK AI Cloud Capacity to Support Its Compute Growth Story
-链接: https://finance.yahoo.com/technology/ai/articles/why-nebius-group-nbis-scaling-143254379.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:12]
-标题: Charles Schwab Breaks Into the Prediction Market Business
-链接: https://www.wsj.com/finance/charles-schwab-breaks-into-the-prediction-market-business-61f6b9c2?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:23]
-标题: Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows
-链接: https://finance.yahoo.com/markets/world-indices/articles/stocks-set-records-japan-south-034723062.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:10]
-标题: Yen teeters on cusp of 40-year low, pound firms
-链接: https://finance.yahoo.com/markets/currencies/articles/yen-nears-weakest-40-years-005016486.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:52]
-标题: Strategy’s Michael Saylor Comments On Preferred Stock’s Selloff
-链接: https://finance.yahoo.com/markets/stocks/articles/strategy-michael-saylor-comments-preferred-135200595.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:49]
-标题: Options Traders Bet That Bitcoin’s Price Will Fall To $52,000
-链接: https://finance.yahoo.com/markets/crypto/articles/options-traders-bet-bitcoin-price-134900127.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:02]
-标题: How to Calculate Whether You Can Afford to Retire in 2028
-链接: https://finance.yahoo.com/markets/articles/calculate-whether-afford-retire-2028-150200507.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:38]
-标题: EZCORP (EZPW) Gains from Consumer Stress and Elevated Gold Prices
-链接: https://finance.yahoo.com/markets/stocks/articles/ezcorp-ezpw-gains-consumer-stress-133840569.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:21]
+标题: Is Trinity Industries, Inc. (TRN) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/trinity-industries-inc-trn-good-162147200.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-19 15:53]
 标题: The riskiest SpaceX stock trade of all had a big first week
@@ -299,11 +283,6 @@
 链接: https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html
 正文: Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 16:35]
-标题: Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival & more
-链接: https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html
-正文: These are the stocks posting the largest moves in the premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 22:03]
 标题: Chairman Warsh drastically alters Fed rate statement. Here's what's changed
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
@@ -314,10 +293,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative
 正文: Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 15:56]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 17:52]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 15:56]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 17:52]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
