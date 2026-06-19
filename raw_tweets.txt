@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-19 17:52:55
-# 共计 69 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 19:27:33
+# 共计 24 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-19 12:10]
 标题: The Download: AI bottleneck debates, and BCI trials take off
@@ -21,9 +21,10 @@
 链接: https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
 正文: This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables him to “speak,” surf the web, and perform his job as a climate activist, largely independently. Since Harrell was implanted with the device, in July 2023, a team at the University of California, Davis, has worked with him to adjust and improve its offerings. They’ve refined its accuracy, for example. And they’ve introduced settings including a privacy mode and a “profanity filter” that lets Harrell talk to his daughter without risking accidental swearing. Harrell told me that, for him, the device is “nothing short of revolutionary!” It has enabled him to maintain an income, reconnect with friends and family, and read to his daughter. The team that developed his BCI is one of several working on ways to use technology to allow people with paralysis to communicate, engage with the online world, and regain some independence. And Harrell is one of a growing number of people volunteering their brains to, as he puts it, “pay it forward and do the scientific research … [and] get some personal benefit.” Over the past couple of years, the number of BCI trial volunteers has soared. This year, China became the first country to approve a BCI for medical use. Advances in technology are allowing engineers to provide more features than ever. BCI research is properly taking off. I should first point out that BCIs come in different forms. Harrell’s device includes a set of electrodes embedded in his brain that pick up the electrical activity associated with speech. Those electrodes are connected to two docking ports on top of his head that can be plugged into a computer. That computer is loaded with software trained to decode his brain signals into phonemes (units of
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-18 18:13]
-标题: MosaicLeaks: Can your research agent keep a secret?
-链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 18:43]
+标题: baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX
+链接: https://x.com/dotey/status/2068042001895809420
+正文: 宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 分析 → 出方案 → 确认 → 更新 Skill。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 16:45]
 标题: AI中心的数据黑洞
@@ -85,188 +86,9 @@
 链接: https://x.com/rohanpaul_ai/status/2067755504613613699
 正文: AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:00]
-标题: OpenClaw 接入 OpenRouter
-链接: https://openrouter.ai/blog/tutorials/openclaw-openrouter
-正文: OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:13]
-标题: MosaicLeaks： 你的研究智能体能保守秘密吗？
-链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
-正文: 深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:00]
-标题: OpenAI 强化学习实现广泛且持久的有益模型
-链接: https://alignment.openai.com/beneficial-rl
-正文: OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 02:47]
 标题: Jim Cramer sends a stern message to SpaceX buyers
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:19]
-标题: Why Planet Labs (PL) Is Building a Higher-Value Space Data Story Around NGA Demand
-链接: https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-building-171904673.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
-标题: How Firefly Aerospace (FLY) Is Turning Lunar and Defense Programs Into a Broader Growth Base
-链接: https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-turning-lunar-171857003.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
-标题: How Karman Holdings (KRMN) Is Using Space and Defense Demand to Build a Larger Backlog Story
-链接: https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-using-space-171849057.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
-标题: Why Redwire (RDW) Is Becoming More Than a Space Infrastructure Contractor Through Microgravity Research
-链接: https://finance.yahoo.com/markets/stocks/articles/why-redwire-rdw-becoming-more-171841607.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:33]
-标题: Nvidia's $6.9 billion side bet just paid off in a big way
-链接: https://finance.yahoo.com/technology/articles/nvidias-6-9-billion-side-173300881.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
-标题: How Rocket Lab (RKLB) Is Pairing Repeat Launch Demand With a Larger Space Systems Platform
-链接: https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-pairing-repeat-171835630.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:17]
-标题: Why Satellogic (SATL) Is Building Its Growth Case Around Merlin and Daily Earth Intelligence
-链接: https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-building-growth-171710367.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
-标题: How SES (SGBAF) Is Turning Multi-Orbit Aviation Connectivity Into a Mobility Growth Driver
-链接: https://finance.yahoo.com/technology/articles/ses-sgbaf-turning-multi-orbit-171547535.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
-标题: Why Intuitive Machines (LUNR) Is Building Its Lunar Business Around Data Services, Not Just Landers
-链接: https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-lunr-building-171538110.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:26]
-标题: Procter & Gamble vs. Colgate-Palmolive: One Dividend Giant Stands Above the Rest
-链接: https://finance.yahoo.com/markets/stocks/articles/procter-gamble-vs-colgate-palmolive-172628773.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
-标题: How Astroscale (ASRHF) Is Using New Funding and Operator Partnerships to Scale On-Orbit Servicing
-链接: https://finance.yahoo.com/markets/stocks/articles/astroscale-asrhf-using-funding-operator-171531682.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:15]
-标题: Why AST SpaceMobile’s (ASTS) BlueBird Launch Matters for Its Direct-to-Device Growth Test
-链接: https://finance.yahoo.com/markets/stocks/articles/why-ast-spacemobile-asts-bluebird-171522628.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:12]
-标题: Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Aegon (AEG) Announces Governance Agreement to Support Corporate Relocation to the US
-链接: https://finance.yahoo.com/markets/stocks/articles/aegon-aeg-announces-governance-agreement-165255887.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:25]
-标题: Headed Into Earnings, Nike Stock Is Trading Lower Than It Was a Decade Ago. But Is the Turnaround Finally Working?
-链接: https://finance.yahoo.com/markets/stocks/articles/headed-earnings-nike-stock-trading-172537076.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Nomura (NMR) Subsidiary Laser Digital Receives Conditional Approval for US National Trust Bank Charter
-链接: https://finance.yahoo.com/markets/crypto/articles/nomura-nmr-subsidiary-laser-digital-165243512.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Melco Resorts & Entertainment (MLCO) Extends Credit Facility Maturity and Increases Total Commitment
-链接: https://finance.yahoo.com/markets/stocks/articles/melco-resorts-entertainment-mlco-extends-165237344.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Grifols (GRFS) Launches FESILTY in the U.S. for Congenital Fibrinogen Deficiency Treatment
-链接: https://finance.yahoo.com/healthcare/articles/grifols-grfs-launches-fesilty-u-165231770.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Haleon (HLN) Issues Voluntary Nationwide Recall for Specific Gas-X Extra Strength Softgels
-链接: https://finance.yahoo.com/healthcare/articles/haleon-hln-issues-voluntary-nationwide-165224414.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:21]
-标题: Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-backlog-may-172139829.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Mizuho Financial Group (MFG): Top Value Stocks to Buy Under $10
-链接: https://finance.yahoo.com/markets/stocks/articles/mizuho-financial-group-mfg-top-165219045.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers
-链接: https://finance.yahoo.com/markets/stocks/articles/lloyds-lyg-launches-lloyds-rewards-165213150.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Here is Why Tencent Music (TME) is One of the Top Value Stocks to Buy Under $10
-链接: https://finance.yahoo.com/markets/stocks/articles/why-tencent-music-tme-one-165206107.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:52]
-标题: Fortuna Mining (FSM) Secures Environmental Approval for Diamba Sud Gold Project in Senegal
-链接: https://finance.yahoo.com/markets/stocks/articles/fortuna-mining-fsm-secures-environmental-165201476.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:20]
-标题: Planet Labs Stock Has Quickly Fallen 40%. Time to Buy the Dip?
-链接: https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-quickly-fallen-172000206.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:51]
-标题: Is Rithm Capital (RITM) One of the Top Value Stocks to Buy Under $10?
-链接: https://finance.yahoo.com/markets/stocks/articles/rithm-capital-ritm-one-top-165155148.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:50]
-标题: Most Americans are open to age-gap dating — but few know about the retirement risk it can create
-链接: https://finance.yahoo.com/small-business/articles/most-americans-open-age-gap-165000129.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:26]
-标题: Is Cipher Digital Inc. (CIFR) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/cipher-digital-inc-cifr-good-162628975.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:26]
-标题: Is Constellium SE (CSTM) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/constellium-se-cstm-good-stock-162614113.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:18]
-标题: Amazon’s CEO: AI Growth Is Dwarfing Everything We’ve Seen Before.
-链接: https://finance.yahoo.com/technology/ai/articles/amazon-ceo-ai-growth-dwarfing-171853149.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
-标题: Is Extreme Networks, Inc. (EXTR) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/extreme-networks-inc-extr-good-162536552.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
-标题: Is FirstCash Holdings, Inc. (FCFS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/firstcash-holdings-inc-fcfs-good-162521969.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:25]
-标题: Is Granite Construction Incorporated (GVA) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/granite-construction-incorporated-gva-good-162506497.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
-标题: Is Veradermics, Incorporated (MANE) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/veradermics-incorporated-mane-good-stock-162451041.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:17]
-标题: 95-year-old beloved supermarket chain closes longtime stores
-链接: https://finance.yahoo.com/economy/articles/95-old-beloved-supermarket-chain-171700234.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
-标题: Is ONE Gas, Inc. (OGS) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/one-gas-inc-ogs-good-162437042.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
-标题: Is Pebblebrook Hotel Trust (PEB) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/pebblebrook-hotel-trust-peb-good-162424092.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:24]
-标题: Is SunocoCorp LLC (SUNC) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/sunococorp-llc-sunc-good-stock-162409101.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:22]
-标题: Is TG Therapeutics, Inc. (TGTX) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/tg-therapeutics-inc-tgtx-good-162200486.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 17:16]
-标题: Berkshire’s New CEO Makes Something Crystal Clear About Shareholder Capital
-链接: https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-makes-something-crystal-171650713.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 16:21]
-标题: Is Trinity Industries, Inc. (TRN) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/trinity-industries-inc-trn-good-162147200.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-19 15:53]
 标题: The riskiest SpaceX stock trade of all had a big first week
@@ -278,11 +100,6 @@
 链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
 正文: Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 18:04]
-标题: Markets are set for a much more hawkish Warsh Fed than expected
-链接: https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html
-正文: Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 22:03]
 标题: Chairman Warsh drastically alters Fed rate statement. Here's what's changed
 链接: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
@@ -293,10 +110,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative
 正文: Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 17:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 19:27]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 17:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 19:27]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.

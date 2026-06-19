@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.19 19:27",
+      "title": "AI人才流向变迁：AlphaFold负责人离开DeepMind加入Anthropic",
+      "summary": "人工智能领域的关键人才正在发生战略性流动。领导了突破性AlphaFold项目的John Jumper宣布离开工作了近9年的Google DeepMind，即将加入竞争对手Anthropic。这一变动发生在AI安全与开源辩论加剧的背景下。",
+      "stars": "★★★★",
+      "insight": "顶尖AI科学家的流向是行业技术焦点和权力格局的先行指标。John Jumper从DeepMind转向Anthropic，可能标志着行业重心正从纯粹的科学突破（如AlphaFold）转向更侧重于可解释性、安全和与人类对齐的下一代AI架构。这不仅是人才的流动，更是研究范式和商业价值的转移，预示着未来6-18个月AI竞赛的焦点将更加多元化。",
+      "original_text": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。",
+      "full_translation": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/demishassabis/status/2068002732250640603"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.19 19:27",
+      "title": "AI自主研究突破：智能体首次在285B模型上完成完整RL研究闭环",
+      "summary": "DeepSeek研究员开源了一个名为AutoResearch的协议，其AI智能体首次完全自主地在DeepSeek 285B大模型上完成了从实验设计、编码、提交GPU任务到总结结论的完整强化学习（RL）研究闭环，全程零人工干预。",
+      "stars": "★★★★★",
+      "insight": "这不仅仅是一个技术演示，而是AI研发范式可能被颠覆的早期信号。当AI智能体能够自主进行AI研究时，AI进步的速度可能进入超指数增长阶段。该系统在285B规模的模型上实现，证明了其处理复杂任务的能力。这将导致AI模型研发的效率急剧提升，并可能在未来18个月内重塑顶尖AI实验室的人力结构，将人类研究员的角色从“执行者”转向“指导者”和“架构师”。",
+      "original_text": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+      "full_translation": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/AYi_AInotes/status/2067819352926150953"
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.19 19:27",
+      "title": "脑机接口（BCI）临床试验激增，正从实验室走向市场",
+      "summary": "脑机接口（BCI）研究正在加速发展。患者志愿者数量激增，中国成为首个批准BCI用于医疗的国家，技术进步使工程师能提供更多功能。案例研究显示，一名ALS患者已成为BCI的“首位高级用户”，设备帮助他恢复了沟通和工作能力。",
+      "stars": "★★★★",
+      "insight": "BCI领域正跨越关键的商业化门槛。临床试验规模的扩大和首个国家级医疗批准，表明该技术已解决了可靠性和可重复性的基础问题，进入了临床验证和市场准入阶段。未来6-18个月，我们将看到更多BCI公司获得监管批准，并针对运动障碍、神经退行性疾病等开辟细分市场。这不仅是医疗技术的突破，更将催生一个围绕神经信号处理、植入设备和软件生态的全新产业。",
+      "original_text": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables him to “speak,” surf the web, and perform his job as a climate activist, largely independently. Since Harrell was implanted with the device, in July 2023, a team at the University of California, Davis, has worked with him to adjust and improve its offerings. They’ve refined its accuracy, for example. And they’ve introduced settings including a privacy mode and a “profanity filter” that lets Harrell talk to his daughter without risking accidental swearing. Harrell told me that, for him, the device is “nothing short of revolutionary!” It has enabled him to maintain an income, reconnect with friends and family, and read to his daughter. The team that developed his BCI is one of several working on ways to use technology to allow people with paralysis to communicate, engage with the online world, and regain some independence. And Harrell is one of a growing number of people volunteering their brains to, as he puts it, “pay it forward and do the scientific research … [and] get some personal benefit.” Over the past couple of years, the number of BCI trial volunteers has soared. This year, China became the first country to approve a BCI for medical use. Advances in technology are allowing engineers to provide more features than ever. BCI research is properly taking off.",
+      "full_translation": "本周，我报道了Casey Harrell的故事——根据与他合作的研究人员的说法，他是一名ALS患者，是“第一位高级用户”脑植入物的使用者。Harrell瘫痪且无法在没有设备的情况下连贯说话。他现在使用脑机接口（BCI）近三年，使他能够“说话”、上网，并几乎独立地从事他的气候活动家工作。自2023年7月Harrell植入该设备以来，加州大学戴维斯分校的一个团队一直与他合作，调整和改进其功能。例如，他们提高了其准确性。并且他们引入了隐私模式和“脏话过滤器”等设置，让Harrell可以和女儿交谈而不会有意外骂人的风险。Harrell告诉我，对他来说，该设备“简直是革命性的！”它使他能够维持收入，与朋友和家人重新建立联系，并给女儿读书。开发他的BCI的团队是众多致力于使用技术让瘫痪患者能够沟通、与网络世界互动并重获一些独立性的团队之一。而Harrell是越来越多志愿将大脑贡献出来的人之一，用他的话说，是为了“回馈并进行科学研究……[并]获得一些个人利益。”在过去的几年里，BCI试验志愿者的数量激增。今年，中国成为首个批准BCI用于医疗的国家。技术的进步使工程师能够提供比以往更多的功能。BCI研究正在真正起飞。",
+      "source_name": "MIT_Tech",
+      "source_url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.19 15:56",
       "title": "AI员工Viktor实现零销售团队年化收入2000万美元，并登陆Microsoft Teams",
       "summary": "AI员工Viktor在Slack上通过零销售团队、零大规模推广的方式实现了2000万美元的年化收入。其产品定位为零门槛AI，用户无需学习或使用提示词，像@同事一样提及即可获得完整工作成果。该产品现已正式进驻Microsoft Teams，面向其3.2亿用户，旨在助力企业内部运营和管理人员零学习成本使用AI。",
@@ -2363,42 +2399,6 @@
       "full_translation": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
       "source_name": "AI_HOT",
       "source_url": ""
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.09 02:13",
-      "title": "FrontierCode基准测试揭示：AI生成代码维护者审核通过率最高仅13.4%",
-      "summary": "Cognition公司发布的FrontierCode基准测试由顶级开源维护者手工制作任务，结果显示即使是最强大的AI模型（如Claude Opus 4.8），其生成的代码中近九成无法通过有经验维护者的审核，暴露了当前AI在生成可维护、高质量代码方面的严重局限。",
-      "stars": "★★★★",
-      "insight": "该基准测试颠覆了以SWE-Bench等为代表的传统评估体系，它直指AI编码能力的核心痛点：从‘能运行’到‘可维护’的巨大鸿沟。这预示着AI编码工具的未来竞争将不再仅仅是解决任务，而是生成人类开发者愿意接受并长期维护的代码。对于AI公司而言，这意味着需要从模型架构、训练数据到评估标准进行根本性重构；对于企业用户，则需警惕‘AI代码垃圾’的潜在技术债务风险。",
-      "original_text": "Cognition 发布 FrontierCode 基准测试，重新定义 AI 编程评估：由 20 多位顶级开源维护者手工制作 150 个任务（每个耗时 40+ 小时），依据 3000 多条规则判断维护者是否愿意合并代码。该基准指出 SWE-Bench 等超半数通过测试的代码实为不可维护的垃圾。结果中 Claude Opus 4.8 在最高难度档获 13.4%，GPT-5.5 为 6.3%，其余模型 1%-5%。这意味着即便最强模型，近九成代码仍无法通过有经验维护者审核。",
-      "full_translation": "Cognition 发布了 FrontierCode 基准测试，重新定义了 AI 编程评估：它由 20 多位顶级开源维护者手工制作了 150 个任务（每个任务耗时超过 40 小时），并依据 3000 多条规则来判断维护者是否愿意合并代码。该基准指出，SWE-Bench 等测试中超过半数通过的代码实际上是不可维护的垃圾。在结果中，Claude Opus 4.8 在最高难度档获得了 13.4% 的通过率，GPT-5.5 为 6.3%，其余模型在 1%-5% 之间。这意味着即使是最强的模型，近九成代码仍然无法通过有经验维护者的审核。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/AYi_AInotes/status/2064146694774595646"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.09 02:13",
-      "title": "Anthropic研究揭示：生物学数据库基础设施缺陷阻碍AI智能体发展",
-      "summary": "Anthropic的最新研究表明，当前生物学数据基础设施的碎片化、格式特殊和接口不统一，严重阻碍了AI智能体在科研领域的可靠应用。实验发现，即使是顶级模型也无法稳定完成数据检索任务，而引入确定性检索层后准确率接近100%，指明了构建可靠生物AI智能体的关键路径。",
-      "stars": "★★★★",
-      "insight": "这项研究精准地指出了AI在科学领域应用的核心瓶颈：不是模型智能不足，而是底层数据环境不友好。这相当于在自动驾驶汽车尚未成熟的年代，发现道路系统混乱不堪。其启示在于，AI for Science的下一阶段突破，将高度依赖于科学数据基础设施的‘智能化改造’。能够率先解决‘数据最后一公里’问题的公司或研究机构，将在生物、医药等高价值领域建立起强大的技术壁垒和先发优势。",
-      "original_text": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？ 对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。 我们如何构建智能体可以使用的基础设施？ https：//www.anthropic.com/research/agents-in-biology",
-      "full_translation": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？ 对智能体而言，生物数据库就像汽车发明前建造的城市——开进去会让人抓狂，因为它们是针对不同的交通流量设计的。 我们如何构建智能体可以使用的基础设施？",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/AnthropicAI/status/2064054837294354677"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.09 02:13",
-      "title": "Perplexity与哈佛研究：自主AI智能体提效87%、降本94%",
-      "summary": "Perplexity与哈佛大学联合发布一项为期三个月的研究，结果表明，使用名为Computer的自主AI智能体完成知识工作任务，比仅使用传统搜索快87%，成本低94%，且用户满意度更高。",
-      "stars": "★★★",
-      "insight": "这份来自顶尖学术与产业联合研究的量化数据，为‘AI智能体将重塑知识工作’的叙事提供了迄今最有力的实证支持。‘87%效率提升和94%成本下降’的数字极具冲击力，它不仅是技术里程碑，更是商业模式的变革信号。这将加速企业从‘对话式AI’向‘任务执行型AI’的转型，并可能催生以智能体为核心生产力工具的新一代SaaS服务。对于资本市场而言，这强化了AI作为生产效率倍增器而非成本中心的投资逻辑。",
-      "original_text": "我们与哈佛大学发表新研究，关于从聊天界面转向像Computer这样的自主智能体的转变。 超过3个月的研究结果表明，使用Computer的工人在完成任务上比仅使用搜索快87%，成本低94%，且满意度更高。 https：//research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
-      "full_translation": "我们与哈佛大学发表了一项新研究，关于从聊天界面转向像Computer这样的自主智能体的转变。 超过3个月的研究结果表明，使用Computer的工人在完成任务上比仅使用搜索快87%，成本低94%，且满意度更高。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/perplexity_ai/status/2064023455453110286"
     }
   ]
 }
