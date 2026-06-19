@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-19 12:50:50
-# 共计 13 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-19 15:56:53
+# 共计 73 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-19 12:10]
 标题: The Download: AI bottleneck debates, and BCI trials take off
@@ -25,9 +25,269 @@
 标题: MosaicLeaks: Can your research agent keep a secret?
 链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 13:02]
+标题: 禁止开源AI将是一个错误
+链接: https://www.interconnects.ai/p/banning-open-source-ai-would-be-a
+正文: 近期行政命令、国会提案及对Anthropic最先进模型的境外访问限制，可能开启新一轮AI监管。开源软件已支撑全球90%以上软件并创造8万亿美元经济价值，在教育、创新和竞争三方面持续赋能。Anthropic与OpenAI的封闭模型加剧市场集中，开源（尤其开放权重）是初创公司、教育机构和企业获得替代方案的唯一平衡力量。开源透明性使其更安全，更多工程师可剔除不需要的模型行为或修复漏洞。以中国竞争为由监管开源将适得其反，美国初创公司正依赖包括中国在内的开源模型提升效率。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 13:00]
+标题: Cloudflare 为 AI 智能体推出临时账户
+链接: https://blog.cloudflare.com/temporary-accounts
+正文: Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 12:48]
+标题: /youtube-notetaker：YT 视频转 Artifacts
+链接: https://x.com/omarsar0/status/2067952726282031411
+正文: YT 视频 -> Artifacts 看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。 捕获幻灯片、笔记、转录内容…… 快去试试 ↓
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 09:48]
+标题: Humanize PPT v0.9：为演讲而生的开源PPT Skill
+链接: https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg
+正文: Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡尔 & yc星辰开发。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 05:01]
+标题: 我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89
+链接: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
+正文: Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 04:49]
+标题: 阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式
+链接: https://x.com/AYi_AInotes/status/2067832098816250346
+正文: 阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 03:58]
+标题: DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环
+链接: https://x.com/AYi_AInotes/status/2067819352926150953
+正文: DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 02:44]
+标题: Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）
+链接: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks
+正文: 本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 23:56]
+标题: 八部门联合发文力推"人工智能 + 消费"，扩大 AI 手机电脑及智能网联汽车消费
+链接: https://www.ithome.com/0/966/295.htm
+正文: 商务部等8部门近日印发《关于加快"人工智能 + 消费"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 23:45]
+标题: AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元
+链接: https://x.com/rohanpaul_ai/status/2067755504613613699
+正文: AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 19:00]
+标题: OpenClaw 接入 OpenRouter
+链接: https://openrouter.ai/blog/tutorials/openclaw-openrouter
+正文: OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:54]
+标题: Claude Code 现已支持 artifacts
+链接: https://claude.com/blog/artifacts-in-claude-code
+正文: 从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再"走过场式汇报"。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:13]
+标题: MosaicLeaks： 你的研究智能体能保守秘密吗？
+链接: https://huggingface.co/blog/ServiceNow/mosaicleaks
+正文: 深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 18:00]
+标题: OpenAI 强化学习实现广泛且持久的有益模型
+链接: https://alignment.openai.com/beneficial-rl
+正文: OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:51]
+标题: Claude Enterprise 推出企业托管 MCP 连接器授权管理
+链接: https://claude.com/blog/enterprise-managed-auth
+正文: Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:51]
+标题: 驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等
+链接: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
+正文: Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:49]
+标题: AI数据中心获政府强制电网快车道
+链接: https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid
+正文: 美国联邦能源监管委员会（FERC）命令六大电网运营商为数据中心等大型用户提供快速并网通道，数据中心需承担并网费用。FERC同时要求运营商考虑"替代输电技术"，并在30天内报告剩余发电容量、60天内审查本区域电价。指令并未解决发电容量短缺问题。数据中心电力需求预计到2035年增长近三倍，而电网运营商此前长期应对近乎零的需求增长。据Bloomberg，部分地区批发电价较五年前上涨了267%。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 17:00]
+标题: 企业版新用量分析与更新的支出控制
+链接: https://openai.com/index/chatgpt-enterprise-spend-controls
+正文: OpenAI 为 ChatGPT Enterprise 推出信用额度用量分析与更新的支出控制功能。全局管理控制台（Global Admin Console）统一展示 ChatGPT 和 Codex 的信用消耗，支持按时间、用户、产品、模型追踪用量趋势。管理员可为整个工作区设置默认限额，按群组配置额度，并为个人设置叠加限制。员工可查看个人用量并申请增加额度（附工作上下文）。这些功能即日起可用。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-18 16:22]
+标题: Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍
+链接: https://www.anthropic.com/research/project-fetch-phase-two
+正文: Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 02:47]
 标题: Jim Cramer sends a stern message to SpaceX buyers
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:29]
+标题: Is Titan America SA (TTAM) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/titan-america-sa-ttam-good-152936112.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:04]
+标题: Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:01]
+标题: Is DXP Enterprises, Inc. (DXPE) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/dxp-enterprises-inc-dxpe-good-150111135.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:00]
+标题: Is EZCORP, Inc. (EZPW) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ezcorp-inc-ezpw-good-stock-150059680.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:00]
+标题: Is AST SpaceMobile, Inc. (ASTS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-good-150008750.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
+标题: Is Blue Bird Corporation (BLBD) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/blue-bird-corporation-blbd-good-145953748.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
+标题: Is Caris Life Sciences, Inc. (CAI) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/caris-life-sciences-inc-cai-145940123.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:59]
+标题: Is CoStar Group, Inc. (CSGP) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/costar-group-inc-csgp-good-145925932.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:25]
+标题: Why Fox Corp Stock Sank 24.9% This Week
+链接: https://finance.yahoo.com/markets/stocks/articles/why-fox-corp-stock-sank-152504593.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:58]
+标题: Is Flutter Entertainment plc (FLUT) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/flutter-entertainment-plc-flut-good-145806193.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
+标题: Is Grindr Inc. (GRND) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/grindr-inc-grnd-good-stock-145751337.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
+标题: Is LandBridge Company LLC (LB) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/landbridge-company-llc-lb-good-145738580.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
+标题: Is Lincoln Educational Services Corporation (LINC) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/lincoln-educational-services-corporation-linc-145725311.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:25]
+标题: UniCredit to Lift Commerzbank Stake to 42.5% After Initial Offer Period
+链接: https://www.wsj.com/business/deals/unicredit-to-lift-commerzbank-stake-to-42-5-after-initial-offer-period-eab1cff0?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:57]
+标题: Is The Mosaic Company (MOS) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/mosaic-company-mos-good-stock-145707930.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
+标题: Is Sanofi (SNY) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sanofi-sny-good-stock-buy-145651611.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
+标题: Is Sterling Infrastructure, Inc. (STRL) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sterling-infrastructure-inc-strl-good-145636099.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
+标题: Is Tutor Perini Corporation (TPC) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/tutor-perini-corporation-tpc-good-145621895.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:22]
+标题: Vanguard Global ETFs Face-Off: Is the Total International Stock ETF or the Emerging Markets ETF the Better Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-global-etfs-face-off-152230899.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:56]
+标题: Is Trex Company, Inc. (TREX) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/trex-company-inc-trex-good-145609637.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:55]
+标题: Is Ulta Beauty, Inc. (ULTA) A Good Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-inc-ulta-good-145557131.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:37]
+标题: Why Amphenol (APH) Is Becoming a Core Picks-and-Shovels Supplier for AI Data Centers
+链接: https://finance.yahoo.com/technology/ai/articles/why-amphenol-aph-becoming-core-143737968.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: Why Dell Technologies (DELL) Is Turning Rack-Scale AI Systems Into a Major Growth Driver
+链接: https://finance.yahoo.com/technology/ai/articles/why-dell-technologies-dell-turning-143451614.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:21]
+标题: Is SpaceX Stock a Buy at a $2.8 Trillion Valuation? The Math Might Blow Your Mind.
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-2-8-152100885.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: How NVIDIA (NVDA) Is Extending Its AI Infrastructure Reach Into XR and Physical AI
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-extending-ai-infrastructure-143444073.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers
+链接: https://finance.yahoo.com/markets/stocks/articles/why-lumentum-lite-remains-tied-143429339.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment
+链接: https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-using-taiwan-143418833.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: Why Super Micro Computer (SMCI) Needs Fresh Capital to Support Its AI Server Order Surge
+链接: https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-smci-143412898.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:17]
+标题: Kroger shares slide after earnings as investors await more detail on strategy
+链接: https://finance.yahoo.com/markets/stocks/articles/kroger-shares-slide-earnings-investors-151700720.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:34]
+标题: How Credo Technology (CRDO) Is Using DustPhotonics to Build a Deeper AI Optical Connectivity Stack
+链接: https://finance.yahoo.com/technology/ai/articles/credo-technology-crdo-using-dustphotonics-143405843.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:33]
+标题: Why Micron Technology (MU) Is Expanding U.S. Memory Capacity as AI Turns DRAM Into Strategic Infrastructure
+链接: https://finance.yahoo.com/technology/ai/articles/why-micron-technology-mu-expanding-143343380.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:33]
+标题: How SanDisk (SNDK) Is Tackling AI Storage Bottlenecks With Faster SSD Qualification
+链接: https://finance.yahoo.com/technology/ai/articles/sandisk-sndk-tackling-ai-storage-143314931.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:32]
+标题: Why Nebius Group (NBIS) Is Scaling UK AI Cloud Capacity to Support Its Compute Growth Story
+链接: https://finance.yahoo.com/technology/ai/articles/why-nebius-group-nbis-scaling-143254379.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:12]
+标题: Charles Schwab Breaks Into the Prediction Market Business
+链接: https://www.wsj.com/finance/charles-schwab-breaks-into-the-prediction-market-business-61f6b9c2?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:23]
+标题: Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows
+链接: https://finance.yahoo.com/markets/world-indices/articles/stocks-set-records-japan-south-034723062.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 14:10]
+标题: Yen teeters on cusp of 40-year low, pound firms
+链接: https://finance.yahoo.com/markets/currencies/articles/yen-nears-weakest-40-years-005016486.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:52]
+标题: Strategy’s Michael Saylor Comments On Preferred Stock’s Selloff
+链接: https://finance.yahoo.com/markets/stocks/articles/strategy-michael-saylor-comments-preferred-135200595.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:49]
+标题: Options Traders Bet That Bitcoin’s Price Will Fall To $52,000
+链接: https://finance.yahoo.com/markets/crypto/articles/options-traders-bet-bitcoin-price-134900127.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 15:02]
+标题: How to Calculate Whether You Can Afford to Retire in 2028
+链接: https://finance.yahoo.com/markets/articles/calculate-whether-afford-retire-2028-150200507.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 13:38]
+标题: EZCORP (EZPW) Gains from Consumer Stress and Elevated Gold Prices
+链接: https://finance.yahoo.com/markets/stocks/articles/ezcorp-ezpw-gains-consumer-stress-133840569.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-19 15:53]
+标题: The riskiest SpaceX stock trade of all had a big first week
+链接: https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html
+正文: SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-18 20:10]
 标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
@@ -54,10 +314,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative
 正文: Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 12:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-19 15:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 12:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-19 15:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
