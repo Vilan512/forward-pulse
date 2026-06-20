@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-20 00:01:56
-# 共计 24 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-20 05:04:51
+# 共计 20 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-19 12:10]
 标题: The Download: AI bottleneck debates, and BCI trials take off
@@ -81,39 +81,19 @@
 链接: https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg
 正文: Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡尔 & yc星辰开发。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 05:01]
-标题: 我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89
-链接: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
-正文: Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 04:49]
-标题: 阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式
-链接: https://x.com/AYi_AInotes/status/2067832098816250346
-正文: 阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 03:58]
-标题: DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环
-链接: https://x.com/AYi_AInotes/status/2067819352926150953
-正文: DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 02:44]
-标题: Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）
-链接: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks
-正文: 本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 02:47]
-标题: Jim Cramer sends a stern message to SpaceX buyers
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 22:33]
+标题: Cathie Wood dumps nearly $60 million in popular growth stocks
+链接: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-19 15:53]
 标题: The riskiest SpaceX stock trade of all had a big first week
 链接: https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html
 正文: SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-20 00:01]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-20 05:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-20 00:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-20 05:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
