@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-20 17:17:00
-# 共计 57 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-20 19:11:32
+# 共计 47 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-20 12:16]
 标题: 开源教程《Deep Agents 实战》发布
@@ -26,27 +26,69 @@
 链接: https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech
 正文: 上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 19:00]
-标题: OpenRouter vs Portkey：你的团队该选哪个LLM网关？
-链接: https://openrouter.ai/blog/insights/openrouter-vs-portkey
-正文: OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO、私有部署。两者均可组合使用。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-19 18:43]
-标题: baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX
-链接: https://x.com/dotey/status/2068042001895809420
-正文: 宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 分析 → 出方案 → 确认 → 更新 Skill。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-19 22:33]
 标题: Cathie Wood dumps nearly $60 million in popular growth stocks
 链接: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:47]
+标题: BeOne Medicines (ONC) Presents Updated BRUKINSA Phase 3 Data at EHA
+链接: https://finance.yahoo.com/healthcare/articles/beone-medicines-onc-presents-updated-184727497.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:51]
+标题: Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:28]
+标题: Enhanced Group (ENHA) Secures $50M in Strategic Equity Financing
+链接: https://finance.yahoo.com/markets/stocks/articles/enhanced-group-enha-secures-50m-172836382.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:28]
+标题: Precigen (PGEN) Secures FDA Orphan Drug Exclusivity for PAPZIMEOS
+链接: https://finance.yahoo.com/healthcare/articles/precigen-pgen-secures-fda-orphan-172827430.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:50]
+标题: Joby Aviation: Could This $9 Stock Help Make You a Millionaire?
+链接: https://finance.yahoo.com/markets/stocks/articles/joby-aviation-could-9-stock-185000850.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:28]
+标题: Here is Why Vinfast (VFS) is One of the Penny Stocks With Explosive Growth Potential
+链接: https://finance.yahoo.com/markets/stocks/articles/why-vinfast-vfs-one-penny-172817524.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:28]
+标题: Grab (GRAB) to Consolidate Superbank Following Increased Shareholding in Indonesia
+链接: https://finance.yahoo.com/markets/stocks/articles/grab-grab-consolidate-superbank-following-172807475.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:28]
+标题: HIVE’s (HIVE) BUZZ HPC Secures $220M GPU Cloud Contract for Sovereign AI Infrastructure
+链接: https://finance.yahoo.com/technology/ai/articles/hive-hive-buzz-hpc-secures-172800619.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:27]
+标题: Is Cosan (CSAN) One of the Penny Stocks With Explosive Growth Potential?
+链接: https://finance.yahoo.com/markets/stocks/articles/cosan-csan-one-penny-stocks-172751565.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:35]
+标题: This is My Favorite Nuclear Energy Stock to Capitalize on the AI Power Boom
+链接: https://finance.yahoo.com/energy/articles/favorite-nuclear-energy-stock-capitalize-183500199.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:27]
+标题: Alvotech (ALVO): 10 Penny Stocks With Explosive Growth Potential
+链接: https://finance.yahoo.com/markets/stocks/articles/alvotech-alvo-10-penny-stocks-172742710.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:27]
+标题: Vizsla Silver (VZLA) Secures $10M Working Capital Facility from FIFOMI for Panuco Project
+链接: https://finance.yahoo.com/markets/commodities/articles/vizsla-silver-vzla-secures-10m-172734007.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:27]
+标题: Mitsubishi Fuso Truck and Bus Corporation Selects Clarivate (CLVT) IPfolio for IP Management
+链接: https://finance.yahoo.com/technology/articles/mitsubishi-fuso-truck-bus-corporation-172724157.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:20]
 标题: I spent $200K upgrading my elderly parents' home — here's what the IRS actually lets me deduct
 链接: https://finance.yahoo.com/real-estate/articles/spent-200k-upgrading-elderly-parents-162004631.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 15:48]
-标题: Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:33]
+标题: Popular sporting goods store chain files Chapter 11 bankruptcy
+链接: https://finance.yahoo.com/small-business/articles/popular-sporting-goods-store-chain-183351860.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 15:31]
 标题: Forget SpaceX: See This Overlooked AI Stock in Donald Trump’s Portfolio
@@ -56,10 +98,6 @@
 标题: The Department of Education just quadrupled a key discount for student loan borrowers — but the clock is ticking
 链接: https://finance.yahoo.com/economy/policy/articles/department-education-just-quadrupled-key-140500732.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 17:01]
-标题: Fresh Off IPO, A Director Buys $474,000 of Parabilis Medicines Stock. Is PBLS a Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/fresh-off-ipo-director-buys-170150420.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 14:00]
 标题: Robinhood backs push to scrap a market rule most traders don't know exists
 链接: https://finance.yahoo.com/markets/article/robinhood-backs-push-to-scrap-a-market-rule-most-traders-dont-know-exists-140000083.html
@@ -67,6 +105,10 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:40]
 标题: Jim Cramer Says Banks Like JPMorgan “Are Still Inexpensive”
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-banks-jpmorgan-134006156.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:28]
+标题: Which Short-Term Bond ETF Is the Better Buy: iShares' IGSB or Schwab's SCHO?
+链接: https://finance.yahoo.com/markets/options/articles/short-term-bond-etf-better-182801710.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:40]
 标题: Jim Cramer Calls for Bank Mergers and Praises Banco Santander
@@ -76,10 +118,6 @@
 标题: Jim Cramer Highlights Goldman Sachs as Investment Banking Activity Explodes
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-goldman-sachs-134003398.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:50]
-标题: TJX Is a Reliable Off-Price Retailer, But for Investors, Is the Premium Too High?
-链接: https://finance.yahoo.com/markets/stocks/articles/tjx-reliable-off-price-retailer-165000181.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:40]
 标题: Jim Cramer Says Stryker and Its Orthopedic Peers Are Facing a Real Tough Run
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stryker-orthopedic-134002842.html
@@ -87,6 +125,10 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:40]
 标题: Jim Cramer on Vistra: “It’s Just Fallen Enough”
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vistra-just-fallen-134000588.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:20]
+标题: Buying Bonds? This International Bond ETF Has Outperformed U.S. Bonds for 10 Years
+链接: https://finance.yahoo.com/markets/options/articles/buying-bonds-international-bond-etf-182000189.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:39]
 标题: Jim Cramer Says Clover Health Was a Good Speculative Pick But Still Prefers UnitedHealth and CVS
@@ -96,131 +138,47 @@
 标题: Jim Cramer on Fair Isaac: “I Like the Company, But I’m Not Going to Go There”
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fair-isaac-company-133957485.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:47]
-标题: Wells Fargo new S&P 500 target sends investors clear signal
-链接: https://finance.yahoo.com/markets/stocks/articles/wells-fargo-p-500-target-164700713.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:31]
 标题: Why Does Donald Trump Like Marvell Technology (MRVL)?
 链接: https://finance.yahoo.com/technology/ai/articles/why-does-donald-trump-marvell-133141323.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Highlights Oracle’s Heavy Debt Load
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-oracle-heavy-132824568.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Notes That He Loves “What Ford Is Doing With the Battery Business”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-loves-ford-132822328.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer on SLB: “It Is By Far the Best There Is”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-slb-far-best-132821279.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:37]
-标题: When You Play Defense With Consumer Staples, Which ETF Should You Own? Funds From State Street and First Trust Offer a Stark Choice.
-链接: https://finance.yahoo.com/markets/stocks/articles/play-defense-consumer-staples-etf-163707718.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Calls Marriott “The Best” Among Hotel Companies
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-marriott-best-132819918.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Explains the Reason Capital One Became a “Virtual Trampoline”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Highlights How CEO Lip-Bu Tan Solved Intel Foundry Issues
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ceo-lip-132817505.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Says Ingredion Will Become an Ingredient Powerhouse After Tate & Lyle Deal
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ingredion-become-132812181.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:37]
-标题: Target makes its smartest $1 billion investment yet
-链接: https://finance.yahoo.com/markets/stocks/articles/target-makes-smartest-1-billion-163700703.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:28]
-标题: Jim Cramer Says He Likes Archer-Daniels-Midland and Tyson Foods Now
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-archer-132814304.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:26]
-标题: Here is Why Chime Financial (CHYM) is One of the Best Payment Processing Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/why-chime-financial-chym-one-132603631.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:26]
-标题: PayPay’s (PAYP) Subsidiary to Acquire 70% Stake in T&D Financial Life Insurance
-链接: https://finance.yahoo.com/markets/stocks/articles/paypay-payp-subsidiary-acquire-70-132602610.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:26]
-标题: Shift4 Payments (FOUR) is One of the Best Payment Processing Stocks to Buy Now
-链接: https://finance.yahoo.com/markets/stocks/articles/shift4-payments-four-one-best-132600010.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:35]
-标题: Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock?
-链接: https://finance.yahoo.com/healthcare/articles/novo-nordisks-wegovy-pill-just-163500105.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:25]
-标题: Fidelity National Information Services (FIS) Forms Strategic Alliance With Fuse
-链接: https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-132559945.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:25]
-标题: Jack Henry & Associates (JKHY) Appears Attractive With its Embedded Payments Technology
-链接: https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-jkhy-appears-132557647.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:25]
-标题: What Makes StoneCo (STNE) Amongst the Best Names in Payment Processing
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-stoneco-stne-amongst-best-132555027.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:25]
-标题: Susquehanna Maintains Positive Rating on Global Payments (GPN)
-链接: https://finance.yahoo.com/markets/stocks/articles/susquehanna-maintains-positive-rating-global-132552090.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:30]
-标题: State Street or Fidelity: Which Financial ETF Stands Out in 2026?
-链接: https://finance.yahoo.com/markets/stocks/articles/state-street-fidelity-financial-etf-163001860.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:25]
-标题: Optimism Prevails Around Remitly Global (RELY) Amid Strategic Integrations
-链接: https://finance.yahoo.com/markets/stocks/articles/optimism-prevails-around-remitly-global-132549818.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 13:05]
-标题: This 23-year-old put his entire $450K inheritance in a CD. Dave Ramsey's advice: 'Pretend like you don't have it'
-链接: https://finance.yahoo.com/markets/stocks/articles/23-old-put-entire-450k-130500619.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 12:45]
-标题: Each $1 gain in SpaceX stock adds $4.76B to Elon Musk’s net worth. Here’s what $1K, $7K or $15K invested could earn you
-链接: https://finance.yahoo.com/markets/stocks/articles/1-gain-spacex-stock-adds-124500506.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:25]
-标题: If I Had to Start Over With $1,000 in Stocks Today, Here's Exactly What I'd Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/had-start-over-1-000-162500092.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:15]
+标题: Dana-co Acquires Lunya, Expanding Footprint in Premium Sleepwear and Lifestyle Market
+链接: https://finance.yahoo.com/small-business/articles/dana-co-acquires-lunya-expanding-181500955.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
 标题: Mortgage and refinance interest rates today, Saturday, June 20, 2026: Rates mixed today
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-june-20-2026-100000527.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
-标题: HELOC and home equity loan rates Saturday, June 20, 2026: Fed signals higher rates are likely
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-20-2026-100000980.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
-标题: Best high-yield savings interest rates today, Saturday, June 20, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-20-2026-100000714.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 16:12]
-标题: IEA Cuts 2026 Oil Demand Outlook Amid Gulf Disruptions, Sees Recovery Taking Shape in 2027
-链接: https://finance.yahoo.com/energy/articles/iea-cuts-2026-oil-demand-161200158.html
+标题: Best money market account rates today, Saturday, June 20, 2026: Best account provides 4.01% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-june-20-2026-100000565.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
 标题: Best CD rates today, Saturday, June 20, 2026: Best account provides 4% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-20-2026-100000056.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
-标题: Best money market account rates today, Saturday, June 20, 2026: Best account provides 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-june-20-2026-100000565.html
+标题: Best high-yield savings interest rates today, Saturday, June 20, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-20-2026-100000714.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-20 17:06]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:13]
+标题: SpaceX Surpassed Amazon in Market Cap This Week. What's Next for the Red-Hot Space Stock?
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-surpassed-amazon-market-cap-181300330.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 10:00]
+标题: HELOC and home equity loan rates Saturday, June 20, 2026: Fed signals higher rates are likely
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-june-20-2026-100000980.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:05]
+标题: Gold Is on the Rise Again. 2 Mining Stocks to Buy Now.
+链接: https://finance.yahoo.com/markets/commodities/articles/gold-rise-again-2-mining-180500193.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-20 18:04]
+标题: Will XRP (Ripple) Hit $20 Before the End of This Cycle?
+链接: https://finance.yahoo.com/markets/crypto/articles/xrp-ripple-hit-20-end-180413800.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-20 17:28]
 标题: Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks
 链接: https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html
 正文: Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.
@@ -230,10 +188,10 @@
 链接: https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html
 正文: CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-20 17:17]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-20 19:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-20 17:17]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-20 19:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
