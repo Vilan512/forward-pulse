@@ -2,6 +2,30 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.21 09:37",
+      "title": "OpenAI CEO 称 AGI 时间线正在加速，可能需要重新定义目标",
+      "summary": "Sam Altman 表示，内部最新基准测试显示，当前模型在复杂任务上达到人类水平推理能力的速度，正快于 2024 年的所有预测。他指出，在达成 AGI 之前，可能需要重新审视其定义。",
+      "stars": "★★★★★",
+      "insight": "来自 OpenAI 掌门人的信号表明，实现高级人工智能（AGI）的进程比业界最乐观的预期还要快。这不仅仅是技术进展的加速，更预示着 AGI 的实现路径可能与最初设想不同，甚至其定义本身都需要颠覆。对于依赖 AI 技术路线图的所有公司和投资者而言，这是一个需要立即重新评估的‘破坏性’变量。它可能意味着未来 6-18 个月内，围绕 AGI 的竞争格局、技术瓶颈（如推理、规划）和商业应用时间表都将发生剧烈变化。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚看了一下我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力之间的差距，正在比我们 2024 年的任何预测都要更快地缩小。我们可能需要在实现 AGI 之前，重新审视它的含义。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.21 09:37",
+      "title": "微软 CEO：下一个平台转移是具身智能，机器人基础模型处于 2020 年大语言模型阶段",
+      "summary": "Satya Nadella 指出，AI 正从生成文本和图像转向操纵物理世界的原子。他认为机器人基础模型正处于大语言模型在 2020 年的发展阶段，能够解决模拟到现实迁移问题的公司将定义下一个十年的制造业。",
+      "stars": "★★★★",
+      "insight": "这一判断将科技巨头的战略焦点从数字世界的 AI 生成，明确引向物理世界的 AI 执行。Nadella 将机器人基础模型的状态类比为 2020 年的 LLMs，这是一个极具前瞻性的信号：它预示着未来 3-5 年，具身智能（Embodied AI）领域将经历类似 LLM 过去几年那样的快速突破和资本涌入。核心瓶颈‘模拟到现实迁移’的突破将成为关键投资主题，这直接关联到自动化、先进制造和机器人产业链的全面重构。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个 AI 不仅能生成文本和图像——还能操纵原子的时代。机器人基础模型正处于大语言模型在 2020 年所处的阶段。能够破解模拟到现实迁移问题的公司，将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.21 05:54",
       "title": "微软成全球最大AI模型中转站，双向转售GPT与DeepSeek",
       "summary": "据彭博社报道，微软正在构建一个跨中美AI模型的双向贸易网络，既将ChatGPT卖给中国企业，也计划将中国模型DeepSeek-R1和DeepSeek-V4提供给西方客户，使其成为全球最大的AI模型中间商。",
@@ -2375,30 +2399,6 @@
       "full_translation": "北卡罗来纳州已大量投资AI初创公司OpenAI和Anthropic，同时避免了直接入股SpaceX。",
       "source_name": "CNBC_Markets",
       "source_url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.10 22:48",
-      "title": "Anthropic安全研究：AI模型可在数小时内将安全补丁转化为可工作的漏洞利用",
-      "summary": "Anthropic安全团队的研究表明，其AI模型Mythos Preview能在数小时内将Firefox和Windows内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成8条完整攻击链，凸显传统补丁节奏的滞后性。",
-      "stars": "★★★★★",
-      "insight": "这项研究标志着AI在网络安全领域的能力实现了从理论威胁到实际可用的质变。它揭示了一个严峻的现实：攻击者利用AI进行漏洞利用的速度已超越传统防御者（如软件厂商发布补丁）的响应速度。这种‘攻击速度超越防御’的局面将迫使整个软件安全行业重塑漏洞披露、补丁开发和部署的流程，并可能催生对AI驱动的自动化防御工具的巨大需求。对于依赖传统‘发现-修补’周期的企业，这是一个迫在眉睫的生存威胁。",
-      "original_text": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
-      "full_translation": "Anthropic安全团队发现，其Mythos Preview AI模型能在几小时内将Firefox和Windows内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成8条完整攻击链。Anthropic认为传统的补丁节奏已经过时。",
-      "source_name": "AI_HOT",
-      "source_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.10 22:48",
-      "title": "对冲基金Magnetar Capital用数百AI智能体替代人类分析师",
-      "summary": "管理资产达180亿美元的对冲基金Magnetar Capital，在其最新产品中将避免使用人类分析师，转而依靠数百个AI智能体进行股票研究、搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "stars": "★★★★",
-      "insight": "这并非AI辅助，而是AI主导的范式转移。Magnetar的实践是金融行业‘AI原生’运营模式的早期样本，它直接冲击了初级和中级金融分析师的岗位，将人类角色从‘执行者’推向上层的‘决策审批者’。这一趋势若在大型机构中蔓延，将重塑金融人才的需求结构，对传统金融教育体系和职业路径构成根本性挑战。它也预示着，AI在资本市场的渗透正从量化交易等狭窄领域，扩展至基本面研究等传统‘人类智慧’的核心地带。",
-      "original_text": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。 这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "full_translation": "Bloomberg：Magnetar Capital，这家180亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个AI智能体进行股票研究。这家180亿美元的对冲基金公司希望AI搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/rohanpaul_ai/status/2064524448582267047"
     }
   ]
 }
