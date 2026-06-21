@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "category": "人工智能",
+      "date": "2026.06.21 15:07",
+      "title": "Sam Altman称AGI时间线持续加速，或需重新定义AGI",
+      "summary": "OpenAI首席执行官Sam Altman透露，其内部基准测试显示，当前模型在复杂任务上达到人类水平推理能力的速度，快于公司2024年的预测。这表明通用人工智能（AGI）的实现时间线可能正在缩短，并引发对AGI本身定义的重新思考。",
+      "stars": "★★★★",
+      "insight": "这一声明暗示着AGI竞争已进入加速冲刺阶段。如果内部基准的提升速度持续超越预期，将迫使整个行业重新评估技术路线图和投资节奏。更关键的是，对AGI定义的讨论从理论转向实践，可能引发新一轮的伦理、安全和商业化策略的密集探讨，对所有AI相关公司的估值逻辑构成根本性挑战。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚看了一下我们最新的内部基准测试。当前模型在复杂任务上达到人类水平推理能力的差距，正在以快于我们2024年任何预测的速度缩小。在我们达到AGI之前，可能就需要重新审视‘AGI’本身意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.21 15:07",
+      "title": "微软CEO Satya Nadella：下一个平台转移是具身智能",
+      "summary": "微软CEO Satya Nadella表示，人工智能正进入一个新阶段——从生成文本和图像发展到操纵原子。他认为，机器人基础模型正处于大语言模型（LLMs）在2020年的发展阶段。能够解决从模拟到现实转移（sim-to-real transfer）问题的公司将定义未来十年的制造业。",
+      "stars": "★★★★★",
+      "insight": "Nadella的判断标志着科技巨头对AI下一战场的战略聚焦：从虚拟的比特世界转向物理的原子世界。具身智能（Embodied AI）被提升到与LLMs同等重要的平台转移高度。谁能在机器人基础模型和sim-to-real transfer上取得突破，谁就可能掌握未来工业和消费市场的控制权，这将引发在传感器、执行器、仿真平台和专用芯片等领域的新一轮巨额投资和人才争夺战。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个时代，人工智能不仅生成文本和图像——它开始操纵原子。机器人基础模型正处于大语言模型在2020年的发展阶段。能够解决从模拟到现实转移问题的公司将定义未来十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.21 10:11",
+      "title": "美团tabbit国际版免费集成GPT-5.5、Claude Opus 4.8等旗舰AI模型",
+      "summary": "美团旗下tabbit国际版应用上线，免费集成了多家顶级AI模型，包括OpenAI的GPT-5.5、Anthropic的Claude Opus 4.8、谷歌的Gemini 3.5 Flash，以及国内的Kimi-2.6、GLM-5.1、MiniMax-M3等模型。用户无需单独订阅即可使用。此举旨在抢占AI应用入口，目前处于免费推广阶段。",
+      "stars": "★★★",
+      "insight": "这标志着大型平台公司通过‘模型聚合器’策略，将AI能力作为基础服务免费提供的趋势加速。美团此举旨在通过降低用户的模型使用门槛和成本，快速获取流量和数据，以巩固其生态系统的护城河。这种模式可能迫使其他平台效仿，并对独立的AI模型提供商构成定价压力，长期来看可能改变AI应用的商业模式格局。",
+      "original_text": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+      "full_translation": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+      "source_name": "AI_HOT",
+      "source_url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1"
+    },
+    {
       "category": "股票基金",
       "date": "2026.06.21 12:08",
       "title": "顶级投行普遍下调评级，多家蓝筹科技股被列为「最佳下跌买入标的」",
@@ -2363,42 +2399,6 @@
       "full_translation": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.11 05:22",
-      "title": "Anthropic 研究揭示 AI 数小时内即可从安全补丁构建漏洞利用",
-      "summary": "Anthropic 安全团队的研究表明，其 Mythos Preview AI 模型能在几小时内将公开的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。这挑战了传统的补丁更新节奏，并凸显了 AI 在网络安全攻防两端的破坏性潜力。",
-      "stars": "★★★★★",
-      "insight": "这项研究揭示了一个颠覆性的安全范式转变：攻击者利用AI自动化漏洞利用开发的周期从“周”被压缩到“小时”。传统的“补丁发布-用户更新”防御模型面临根本性挑战，因为攻击窗口期几乎消失。对于网络安全行业，这意味着防御方必须同样采用AI进行实时漏洞检测与自动修复，否则将处于永久性劣势。对于软件开发者而言，安全左移和自动化补丁验证的需求将空前迫切。",
-      "original_text": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
-      "full_translation": "Anthropic的安全团队发现，其Mythos Preview AI模型能在几小时内将Firefox和Windows内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成8条完整攻击链。Anthropic认为传统的补丁节奏已经过时。",
-      "source_name": "AI_HOT",
-      "source_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.11 05:22",
-      "title": "法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任",
-      "summary": "一项法律裁决首次判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。这一判决为全球范围内 AI 生成内容的责任归属树立了关键先例，可能迫使所有 AI 开发者重新评估其模型的可靠性、透明度和法律风险。",
-      "stars": "★★★★",
-      "insight": "这一裁决将“幻觉”从技术缺陷升级为可诉的法律风险，直接冲击所有生成式AI公司的商业模式和产品设计。短期内，企业将被迫投入更多资源用于事实核查、内容溯源和可控生成技术。长期看，AI产品的部署范围可能因潜在的无限责任而受到限制，特别是在医疗、法律、金融等高风险领域。这可能加速“可信AI”技术和相关保险市场的发展。",
-      "original_text": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "full_translation": "一项法律裁决判定Google对其AI模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "source_name": "AI_HOT",
-      "source_url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.11 05:22",
-      "title": "谷歌 DeepMind 发布开源文本扩散模型 DiffusionGemma，实现4倍速度提升",
-      "summary": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术突破自回归生成方式，实现4倍文本生成速度提升。其 26B MoE 架构仅激活 3.8B 参数，量化后适配消费级 GPU，面向本地交互式工作流，以 Apache 2.0 许可证开放。",
-      "stars": "★★★★",
-      "insight": "DiffusionGemma 标志着文本生成范式从自回归向并行扩散的重要探索。其核心价值不在于绝对性能超越顶尖自回归模型，而在于以极高的推理效率和在消费级硬件上的可部署性，为本地化、实时交互的AI应用（如代码补全、内联编辑）开辟了新路径。这可能催生一批专注于低延迟、隐私敏感场景的AI原生应用，并挑战当前由大型云端API主导的市场格局。",
-      "original_text": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术，突破自回归逐 token 生成方式，每次前向并行生成 256 个 token。该 26B MoE 模型推理时仅激活 3.8B 参数，量化后适配 18GB 显存消费级 GPU。在 H100 上达 1000+ tokens/s，RTX 5090 上 700+ tokens/s，速度提升 4 倍。具备双向注意力和自我修正能力，面向内联编辑、代码填充等本地交互工作流，以 Apache 2.0 许可证开放。",
-      "full_translation": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术，突破自回归逐 token 生成方式，每次前向并行生成 256 个 token。该 26B MoE 模型推理时仅激活 3.8B 参数，量化后适配 18GB 显存消费级 GPU。在 H100 上达 1000+ tokens/s，RTX 5090 上 700+ tokens/s，速度提升 4 倍。具备双向注意力和自我修正能力，面向内联编辑、代码填充等本地交互工作流，以 Apache 2.0 许可证开放。",
-      "source_name": "AI_HOT",
-      "source_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation"
     }
   ]
 }
