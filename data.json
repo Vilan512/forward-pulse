@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.21 00:09",
+      "title": "Sam Altman 称 AGI 时间线正在加速，可能需重新定义 AGI",
+      "summary": "OpenAI 首席执行官 Sam Altman 表示，内部基准测试显示，当前模型在复杂任务上与人类水平推理的差距正以超过 2024 年预期的速度缩小。他提出，在达成 AGI 之前可能需要重新定义 AGI 的含义。",
+      "stars": "★★★★★",
+      "insight": "这一声明来自 AGI 最前沿的探索者，其信号意义重大。它不仅暗示了模型能力曲线的陡峭化超出了业界共识，更关键的是，它提出了一个前瞻性问题：当能力逼近时，'AGI' 这个目标本身的定义可能会因技术突破而变得模糊或需要迭代。这预示着未来 12-18 个月，围绕 AGI 标准、评估和商业化的讨论与竞争将进入白热化阶段，可能颠覆现有的技术路线图和投资逻辑。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚看了一下我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理之间的差距，正以超过我们 2024 年任何预测的速度缩小。在达成 AGI 之前，我们可能需要重新审视 'AGI' 究竟意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.21 00:09",
+      "title": "Satya Nadella: 下一个平台转移是具身智能，机器人基础模型处于 2020 年 LLMs 阶段",
+      "summary": "微软 CEO Satya Nadella 认为，下一个平台转移是具身智能，即 AI 从生成文本和图像转向操纵原子。他将当前的机器人基础模型比作 2020 年的大语言模型，并指出解决模拟到现实迁移问题的公司将定义未来十年的制造业。",
+      "stars": "★★★★",
+      "insight": "Nadella 的判断为 AI 发展的下一个爆发点提供了明确的路线图：物理世界。他将机器人基础模型类比为 2020 年的 LLMs，这暗示了该领域正处于大规模突破和投资涌入的前夜。'解决 sim-to-real transfer 问题将定义下一个十年' 这一论断，精准地指出了从实验室走向产业化最关键的瓶颈与机遇，预示着未来 1-2 年，围绕仿真平台、高质量物理数据集和机器人专用算力的竞争将成为 AI 领域的核心战场之一。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个 AI 不仅生成文本和图像，而且能操纵原子的时代。机器人基础模型正处于大语言模型在 2020 年的位置。那些能解决模拟到现实迁移问题的公司将定义制造业的下一个十年。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.21 00:09",
+      "title": "开源教程《Deep Agents 实战》发布，聚焦 Agent 应用的上下文工程与技能复用",
+      "summary": "LangChain 官方认证大使推出开源教程《Deep Agents 实战》，基于 LangChain/LangGraph 生态，讲解如何使用 Deep Agents Harness 框架构建真实 Agent 应用。教程核心是'三层架构'和上下文工程，通过虚拟文件系统实现高效数据管理，并涵盖子 Agent 委派与在 Claude Code、Cursor 等 30+ 工具中的 Skills 复用。",
+      "stars": "★★★",
+      "insight": "此教程的发布反映了 Agent 开发范式正从理论探索走向工程实践和标准化。其强调的'上下文工程'和跨工具的'Skills 复用'，直击当前 Agent 开发中数据管理效率低和工具互操作性差的核心痛点。这预示着未来 6-12 个月，围绕高效 Agent 工具链、模块化 Skill 以及能够处理复杂工作流的运行时框架，将出现一轮密集的创新和生态整合，加速 Agent 应用的落地。",
+      "original_text": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
+      "full_translation": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
+      "source_name": "AI_HOT",
+      "source_url": "https://x.com/shao__meng/status/2068306942184034471"
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.20 22:59",
       "title": "Sam Altman: AGI timeline持续加速，定义或需重估",
       "summary": "OpenAI首席执行官Sam Altman表示，根据内部最新基准测试，当前模型在复杂任务上达到人类水平推理能力的差距正在以超过2024年预期的速度缩小，可能需要在实现AGI之前重新定义其含义。",
@@ -2363,42 +2399,6 @@
       "full_translation": "北卡罗来纳州在 AI 初创公司 OpenAI 和 Anthropic 上投入了巨资，同时避免直接入股 SpaceX。",
       "source_name": "CNBC_Markets",
       "source_url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.10 17:54",
-      "title": "对冲基金Magnetar Capital用数百AI智能体替代人类分析师",
-      "summary": "一家管理180亿美元的对冲基金公司Magnetar Capital宣布，在其最新产品中将避免使用人类分析师，转而依靠数百个AI智能体进行股票研究、推荐头寸和预测趋势，人类交易员仅负责最终批准。",
-      "stars": "★★★★",
-      "insight": "这标志着AI在金融核心决策领域从辅助工具向替代性生产要素的质变。Magnetar的实践若成功，将颠覆传统对冲基金的人力密集型研究模式，迫使整个行业重新评估知识工作的价值与边界。AI智能体集群执行复杂金融分析任务的能力，预示着未来6-18个月内，金融分析、风险评估和初级投资决策等领域可能面临结构性岗位压缩。",
-      "original_text": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。 这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "full_translation": "彭博社：Magnetar Capital，这家管理180亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个AI智能体进行股票研究。这家180亿美元的对冲基金公司希望AI搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "source_name": "AI_HOT",
-      "source_url": "https://x.com/rohanpaul_ai/status/2064524448582267047"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.10 17:54",
-      "title": "Google因AI模型幻觉被判承担法律责任，或开启全球先例",
-      "summary": "一项法律裁决判定Google对其AI模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "stars": "★★★★★",
-      "insight": "这是AI治理和商业化进程中的一个颠覆性转折点。它直接挑战了当前“AI即工具，责任由用户承担”的行业默认框架，将法律责任的矛头指向模型提供方。此判决若形成全球性趋势，将彻底改变AI公司的风险评估模型、产品设计（需引入更强的安全护栏和不确定性标识）以及保险与合规成本，可能迫使AI应用开发速度放缓，并加速“可解释AI”和“事实核查”技术成为标配。",
-      "original_text": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "full_translation": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "source_name": "AI_HOT",
-      "source_url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations"
-    },
-    {
-      "category": "股票基金",
-      "date": "2026.06.10 17:54",
-      "title": "软银试图以其OpenAI股份抵押借款60亿美元后股价暴跌9.7%",
-      "summary": "软银集团尝试以其持有的OpenAI股份作为抵押，借款60亿美元。此举导致其股价大幅下跌9.7%，市场质疑当前的AI投资热潮是否正在遭遇现实考验。",
-      "stars": "★★★★",
-      "insight": "此事件是观察AI资本周期的关键信号。当领先投资者试图将巨额、流动性未知的AI初创公司股权进行债务化融资时，市场的负面反应表明，投资者对AI资产的估值可持续性、流动性以及软银自身的财务杠杆产生了深度怀疑。这不仅是对单一公司的警示，更可能预示着AI投资从狂热追逐概念向审慎评估现金流和实质回报的理性阶段过渡，对整个AI相关股票和风险资本市场的估值体系构成压力测试。",
-      "original_text": "SoftBank tried to borrow $6B against its OpenAI stake — then shares plunged 9.7%. Is the AI boom running into reality?",
-      "full_translation": "软银试图以其OpenAI股份抵押借款60亿美元——随后股价暴跌9.7%。人工智能的繁荣正在遭遇现实吗？",
-      "source_name": "Yahoo_Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tried-borrow-6b-against-172000100.html"
     }
   ]
 }
