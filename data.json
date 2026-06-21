@@ -2,6 +2,42 @@
   "articles": [
     {
       "category": "人工智能",
+      "date": "2026.06.21 17:20",
+      "title": "NSA局长警告：Mythos AI系统数小时内攻破其几乎所有机密系统",
+      "summary": "美国国家安全局局长透露，一个名为Mythos的AI系统在数小时内攻破了其几乎所有机密系统，而非此前预估的数周。这一事件挑战了Apple长期建立的安全威胁模型，并可能将有能力发动此类攻击的团队数量从10-20个推高至数千个。",
+      "stars": "★★★★★",
+      "insight": "这标志着AI驱动的网络攻防进入指数级加速阶段。传统上，发现一个零日漏洞需要数月并价值数百万美元，而AI能在极短时间内系统性地发现和利用漏洞。这彻底颠覆了现有的数字安全范式，迫使整个行业从依赖静态防御转向基于AI的实时动态对抗。对于苹果、政府机构及所有高价值目标而言，安全投资和架构必须进行根本性重构。",
+      "original_text": "美国国家安全局（NSA）的负责人（！）表示，Mythos“几乎攻破了我们所有机密系统，不是几周，而是几小时。” 这怎么就不是全世界最大的新闻呢？ [引用 @AISafetyMemes]：Mythos 在 5 天内攻破了 MacOS 为什么这很重要： - Google Project Zero——全球最负盛名的漏洞发现团队——在 MacOS/iOS 级别每发现一个零日漏洞需要 ***6 个月*** - MacOS 的零日漏洞每个价值约 200 万美元以上 - Apple 的威胁模型原本假设世界上只有 10–20 个团队有能力发动这种级别的攻击。而这一数字即将变成数千 - 目前约有 20 亿台活跃的 Apple 设备。Mac 用户中不成比例地集中了记者、高管、政府官员等——全球价值最高的攻击目标。他们之所以选择 Apple，是因为 Apple 曾是安全性最高的选择",
+      "full_translation": "美国国家安全局（NSA）的负责人（！）表示，Mythos“几乎攻破了我们所有机密系统，不是几周，而是几小时。” 这怎么就不是全世界最大的新闻呢？ [引用 @AISafetyMemes]：Mythos 在 5 天内攻破了 MacOS 为什么这很重要： - Google Project Zero——全球最负盛名的漏洞发现团队——在 MacOS/iOS 级别每发现一个零日漏洞需要 ***6 个月*** - MacOS 的零日漏洞每个价值约 200 万美元以上 - Apple 的威胁模型原本假设世界上只有 10–20 个团队有能力发动这种级别的攻击。而这一数字即将变成数千 - 目前约有 20 亿台活跃的 Apple 设备。Mac 用户中不成比例地集中了记者、高管、政府官员等——全球价值最高的攻击目标。他们之所以选择 Apple，是因为 Apple 曾是安全性最高的选择",
+      "source_name": "AI_HOT",
+      "source_url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u"
+    },
+    {
+      "category": "人工智能",
+      "date": "2026.06.21 17:20",
+      "title": "Sam Altman称AGI时间线持续加速，需重新定义AGI",
+      "summary": "OpenAI首席执行官Sam Altman表示，其最新内部基准测试显示，当前模型在复杂任务上与人类水平推理能力的差距正以快于2024年预测的速度缩小。他建议，在达到AGI之前，可能需要重新审视“AGI”的定义。",
+      "stars": "★★★★",
+      "insight": "Altman的发言表明，AGI的技术发展速度已超越行业自身的预期和定义框架。这暗示着在达到广泛共识的“通用人工智能”里程碑之前，一系列更具体、更受限的“超人类”能力将率先涌现并商业化。这要求市场、政策制定者和研究者必须提前思考如何为这种“能力前置”但“定义滞后”的阶段做好准备，相关的评估、治理和商业模式将面临巨大不确定性。",
+      "original_text": "Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what \"AGI\" even means before we get there.",
+      "full_translation": "刚刚看了我们最新的内部基准测试。当前模型在复杂任务上与人类水平推理能力之间的差距，正在以比我们2024年任何预测都更快的速度缩小。我们可能需要在达到目标之前重新审视“AGI”究竟意味着什么。",
+      "source_name": "X/@sama",
+      "source_url": ""
+    },
+    {
+      "category": "科技前沿",
+      "date": "2026.06.21 17:20",
+      "title": "萨提亚·纳德拉：下一个平台转移是具身AI",
+      "summary": "微软首席执行官萨提亚·纳德拉指出，AI正在进入不仅生成文本和图像，更能操控原子的时代。他认为，机器人基础模型正处于大语言模型在2020年的发展阶段，而解决仿真到现实（sim-to-real）迁移问题的公司将定义未来十年的制造业。",
+      "stars": "★★★★",
+      "insight": "纳德拉的判断将AI的焦点从数字领域（软件、内容）明确转向物理世界（硬件、制造）。具身AI和机器人基础模型是继LLM之后下一个巨大的计算平台，其核心瓶颈在于“仿真到现实”的迁移。率先突破这一瓶颈的公司将获得对全球制造业乃至整个实体经济的重塑能力，这预示着下一个万亿级市场的竞争已经拉开序幕，其影响力将远超软件自动化。",
+      "original_text": "We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.",
+      "full_translation": "我们正在进入一个AI不仅生成文本和图像，而且操控原子的时代。机器人基础模型正处于大语言模型在2020年的发展阶段。那些解决了仿真到现实（sim-to-real）迁移问题的公司将定义下一个十年的制造业。",
+      "source_name": "X/@elaboratepool",
+      "source_url": ""
+    },
+    {
+      "category": "人工智能",
       "date": "2026.06.21 15:07",
       "title": "Sam Altman称AGI时间线持续加速，或需重新定义AGI",
       "summary": "OpenAI首席执行官Sam Altman透露，其内部基准测试显示，当前模型在复杂任务上达到人类水平推理能力的速度，快于公司2024年的预测。这表明通用人工智能（AGI）的实现时间线可能正在缩短，并引发对AGI本身定义的重新思考。",
@@ -2363,42 +2399,6 @@
       "full_translation": "KKR 在其周四发布的年中展望中表示，人工智能将在未来数年推动经济增长，但仅限于特定行业。",
       "source_name": "CNBC_Markets",
       "source_url": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.11 10:09",
-      "title": "Anthropic 研究：AI 数小时内即可从安全补丁构建漏洞利用",
-      "summary": "Anthropic 安全团队发现，其 AI 模型能在数小时内将公开的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。这表明传统的补丁分发和响应节奏可能已不适用于 AI 时代。",
-      "stars": "★★★★★",
-      "insight": "这项发现具有颠覆性影响。它意味着安全漏洞的利用速度从以“周”为单位骤降至以“小时”为单位，彻底打破了“补丁-修复”的传统攻防时间窗口。攻击者现在可以自动化、低成本地利用未修复的系统，而防御者面临的时间压力将呈指数级增长。这将迫使软件安全行业从“响应式”全面转向“预测式”和“主动免疫式”，可能催生一个全新的、由 AI 驱动的漏洞利用即服务（Exploit-as-a-Service）黑市。",
-      "original_text": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
-      "full_translation": "Anthropic's safety team discovered that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into functional exploits within hours, costing only a few thousand dollars, and requires no specialized expertise. Before Microsoft's automatic updates reached any device, the model had already completed 8 full attack chains. Anthropic believes the traditional patch cadence is obsolete.",
-      "source_name": "the-decoder.com",
-      "source_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches"
-    },
-    {
-      "category": "人工智能",
-      "date": "2026.06.11 10:09",
-      "title": "突发：Google 因模型幻觉被判负有法律责任",
-      "summary": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "stars": "★★★★",
-      "insight": "这是 AI 行业责任框架的一个关键判例。它首次将 AI 模型“幻觉”这一技术缺陷明确纳入产品责任范畴。此判例一旦在主要司法管辖区被广泛引用，将迫使所有 AI 开发商（包括开源社区）重新评估其风险模型。可能带来的直接变化包括：1）大幅增加对 AI 输出内容的事实核查和安全过滤投入；2）在用户协议中明确免责声明，甚至限制某些高风险应用；3）加速“可解释 AI”和“可追溯 AI”技术的研发。这标志着 AI 从“工具”属性开始向具有法律责任的“产品/服务”属性转变。",
-      "original_text": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "full_translation": "A legal ruling has found Google liable for the hallucinated content generated by its AI models. The judgment could have enormous implications, especially if other countries follow suit with similar rulings.",
-      "source_name": "garymarcus.substack.com",
-      "source_url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations"
-    },
-    {
-      "category": "股票基金",
-      "date": "2026.06.11 10:09",
-      "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
-      "summary": "北卡罗来纳州财务主管因估值顾虑而放弃投资 SpaceX，转而重仓 AI 初创公司 OpenAI 和 Anthropic。",
-      "stars": "★★★",
-      "insight": "这一动向是公共资本配置风向转变的一个缩影。传统上，公共养老基金等保守资本更倾向于投资成熟的、有稳定现金流的公司或实物资产（如 SpaceX 的航天能力）。如今，它们开始明确将巨额资金配置给尚未盈利、但处于 AI 核心赛道的独角兽。这反映出两个趋势：1）公共资本对 AI 颠覆性增长潜力的认可已从“评估”阶段进入“重仓下注”阶段；2）与高估值的非AI科技公司相比，顶级 AI 公司被视为更优的风险收益选择。这可能会进一步推高头部 AI 公司的估值，并加剧非 AI 科技板块的估值压力。",
-      "original_text": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
-      "full_translation": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html"
     }
   ]
 }
