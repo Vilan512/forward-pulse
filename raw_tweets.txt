@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-22 14:28:16
-# 共计 62 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-22 18:41:27
+# 共计 34 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 18:00]
+标题: Three things to watch amid Anthropic’s latest feud with the government
+链接: https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos that was so good at working with code it could pose a global cybersecurity threat. Anthropic gave access to a small group of cybersecurity experts so they could see what they were up against. Then it released a modified version called Fable which it said was safer to the public on Tuesday, June 9. That Friday, the federal government told the company it was a threat to national security and placed export controls on the new release. Anthropic revoked access to both models hours later. People worried about catastrophic effects of AI—broadly labeled “doomers”—have said for years that the technology poses a threat to humanity and published proposals for how the government should intervene in its development. The doomers just got their government intervention—not over a bioweapon or rogue AI, but in response to an AI model that’s basically just really good at coding. And the result so far looks less like a safety plan than like a superficial reaction. There’s plenty to dissect about what happened in those few days that led to such drastic action from the government, and it’s notable that Amazon CEO Andy Jassy was the one who told government officials that Fable would be dangerous (Amazon is both invested in Anthropic and building its own competing AI models). It&#8217;s also possible this will be a short-lived ban from the government that doesn’t survive legal scrutiny (it’s not clear that Anthropic’s offering access to Fable really counts as “exporting” it, for example).&nbsp; But there are ripple effects happening already.&nbsp; For one, this is making a whole lot of people not want to rely on American AI companies. TheFrench politician Bruno Retailleau descr
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 12:10]
 标题: The Download: record-breaking subsea tunnels and flexible data centers
@@ -15,6 +20,31 @@
 标题: PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
 链接: https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 17:08]
+标题: Google ADK 与 A2A 协议：跨语言多智能体团队构建实战
+链接: https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h
+正文: 使用 Google 智能体开发工具包和 A2A 协议构建跨语言多智能体团队 2026年6月22日 Shubham Saboo 高级 AI 产品经理 Eric Dong 开发者关系工程师 一个 Python 智能体和一个 Go 智能体如何通过 Agent2Agent 协议协作完成合同合规性检查你的合同合规性管线存在一个问题。数据科学团队用 Python 编写了一个出色的提取智能体。它使用 Gemini 解析法律合同，提取所有关键条款。安全工程团队用 Go 构建了一个极速合规性验证器，全部采用确定性逻辑，无需大语言模型。两者各自独立运行时都完美无缺。但现在你需要它们协同工作，作为一个统一的管线运行，而两个团队都不愿意用另一种语言重写自己的服务。这就是生产级 AI 系统的现实：不同的团队、不同的语言、不同的部署目标。问题不在于你是否会遇到这种情况，而在于你将如何解决它。在本文中，我们将构建一个合同合规性多智能体管线，其中由 Python 智能体使用 Gemini 提取合同条款，再由 Go 智能体根据公司政策对其进行验证。这两个服务通过 Agent2Agent 协议连接，并由 Google 智能体开发工具包进行编排。在此过程中，你将学到三种将生产级多智能体系统与单语言演示区分开来的架构模式：使用 A2A 协议实现的跨语言智能体协作，这样团队就能以最适合工作的语言构建智能体，而无需重写代码。ADK 的 RemoteA2aAgent 抽象，它能够通过几行代码将任何远程兼容 A2A 的服务转化为本地子智能体。多智能体管线编排，让职责专注的专业化智能体取代试图包揽一切的庞大提示词。完整源代码可在 GitHub 上获取。 当一个智能体不够用时大多数 AI 项目都是从同样的方式开始的：一个庞大的智能体、一个庞大的提示词、将所有工具塞进一个上下文窗口。这对于演示来说没问题，但在生产环境中会因三个关键原因而失败：上下文退化：当工具数量超过 10-15 个时，模型开始遗漏指令、调用错误的工具或幻觉参数。每增加一个工具，都会让模型在更广的表面积上稀释注意力。一个既处理合同提取、又处理翻译、摘要和邮件草拟的智能体，最终会搞不清何时该调用哪个工具。爆炸半径：一个次要功能中未处理的异常就会导致整个智能体的交互轮次崩溃。翻译 API 的速率限制不应该拖垮你的整个工作流。但在单体智能体中，每一次失败都是全面失败。不可测试：你无法干净地对一个包含 50 个纠缠职责的系统进行单元测试。当每一次提示词改动都可能影响所有下游行为时，评估回归就变成了猜测。解决方案与十年前改变后端工程的模式相同：将单体拆分为专门的微服务。每个智能体承担一项任务、一份聚焦的提示词和一套最小的工具集。 A2A 协议：智能体如何发现并相互通信智能体间（A2A）协议是一种开放标准，使任何语言或框架构建的智能体都能互操作。可以把它想象成智能体世界的 HTTP：一份共享契约，让任意两个智能体无论内部如何构建都能通信。A2A 解决了三个根本性问题：发现：智能体通过 Agent Cards（智能体卡片）宣传自身能力，该卡片是位于 `/.well-known/agent.json` 的 JSON 元数据。类似于 REST API 的 OpenAPI 规范，卡片声明了智能体的名称、URL、版本、技能以及支持的输入/输出格式。调用方智能体会先获取卡片，以了解远程智能体能够做什么。通信：所有数据交换均通过 JSON-RPC 2.0 进行，经由单一端点路由。智能体通信的核心方法是 `message/send`（我们的实现用它来提交合同数据并同步接收结果），以及任务提交和检索的其他协议方法，如 `tasks/send` 和 `tasks/get`。数据在类型化的 Message Parts（消息部件）中传输：TextPart 用于自然语言，DataPart 用于结构化 JSON。任务生命周期：每一次交互都封装在一个任务（Task）中，该任务会经历定义好的状态：已提交、执行中、已完成或失败。这种状态机意味着智能体可以用同一套协议处理同步工作流（立即审查这份合同）和异步工作流（在48小时内验证这份文档）。这种方案的精妙之处在于，两个智能体完全无需了解对方的实现细节。Python 智能体无需导入 Go 包，Go 智能体也无需运行 Python 代码。它们只需通过 HTTP 共享同一套协议进行通信。 智能体卡片（Agent Card）的实际样子以下是 Go 合规服务在 `/.well-known/agent.json` 暴露的 Agent Card： // go-compliance-agent/internal/agentcard/card.go func GetCard() AgentCard { agentURL := 
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 16:11]
+标题: 东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu
+链接: https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih
+正文: Sakana AI 是 2023 年成立于东京的 AI 公司，由前 Google Brain 的 David Ha（CEO）、Transformer 论文共同作者 Llion Jones（CTO）及前日本外交官 Ren Ito（主席）联合创立。其产品 Sakana Fugu 将多智能体系统封装成单个 API 调用，内部自动拆解任务、调度全球模型并验证结果。Fugu Ultra 在工程、科学、推理等基准上对标 Fable/Mythos，通过动态编排多模型天然绕开单一供应商出口管制风险，被视为将多智能体从复杂工程变为开箱即用的产品形态。 🔗 阅读原文：https://x.com/berryxia/status/2069090959938466298
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 16:08]
+标题: Google Labs 提出用"洞察策略"评估 AI 编码智能体的主动性
+链接: https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt
+正文: 用 Jules 衡量真正重要的事 2026 年 6 月 22 日 Nghi Bui，研究科学家 Georgios Evangelopoulos，研究科学家 Zack Elliott，软件工程师 AI 编码智能体正迅速从被动的响应式助手——在收到提示后完成任务——转变为主动引擎，持续吸收上下文、发现新出现的风险，并在开发者提问之前就呈现诊断性见解。这一演进的核心是从“明确定义的任务”转向“目标”，后者要求智能体探索代码库、发现相关线索，并呈现诊断性观察结果，从而引导开发者朝着更高级别的目标前进。像 SWE-Bench 这样的公开评测基准测试的是智能体完成任务的能力，比如修复一个精确定义的 bug，但目前尚不存在针对“目标”的评测基准。在我们最新的论文《智能体编码需要主动性，而不仅仅是自主性》中，我们认为主动型智能体应当根据其“洞察策略”来评分——即判断什么重要、有什么证据支持、以及是否应当打断开发者还是保持沉默的能力。 上图展示了一个主动型 AI 编码引擎的设计。上下文流入引擎，引擎维持开发状态和开发者模型，输出洞察（通知、提问、草稿、保持沉默），并根据响应进行学习。 利用真实 bug 修复作为“基准真相”基于我们在 Google Labs 对连续 AI 系统的研究，我们发现要构建能够根据洞察策略对主动型智能体评分的评估体系，必须建立“基准真相”。构建这种“基准真相”的一种方法是，根据我们称之为时间邻近性和语义相似性的两个启发式指标，分析团队的真实 bug 修复历史。我们的假设很简单：当工程师在短时间内提交并修复多个相关 bug 时，这些 bug 往往是单一底层工程工作的症状。围绕“沙箱超时错误”、“代理配置失败”和“网络隔离不稳定测试”等问题的一批 bug，都指向一个共同的期望目标，比如“增强沙箱执行可靠性”。单独来看，每个 bug 都太具体，不足以作为目标。而放在一起，它们揭示出了更高级别的目标。构建并测试我们的初步评估集为构建初步基准并验证我们的假设，我们使用了来自 Google 内部代码库的 705 个 bug（共 1,178 个变更列表），用于：将相关的历史 bug 聚类，以揭示开发者实际在解决的更高层级的“愿景目标”。将每个聚类中的单个 bug 设为我们的“真实结果”目标，并将代码库回滚到修复前的精确状态，使智能体从人类工程师的起点开始工作。允许智能体在生成最终洞察之前，对代码库进行最多三轮的探索（即其“探索预算”，记为 N）。使用大语言模型对智能体预测的洞察进行评分，从 1 分（不相关）到 5 分（完全匹配），对照我们的“真实结果”目标。通过追踪智能体的平均最高得分以及它成功生成高精确匹配的频率（Hit@K）来衡量成功率。初步结果与我们的发现我们测试的初步结果令人振奋，主要有两个原因。核心诊断逻辑有效：在单轮探索下，智能体始终能识别出高度相关的洞察（平均得分 4.5 / 5）。对于简单的工程问题，它成功捕捉到了主要信号。探索预算至关重要：复杂、多层面的问题自然更难，但给予智能体更多资源进行探索是值得的。将探索预算从两轮增加到三轮后，智能体的 Hit@5 准确率（即正确诊断洞察出现在其前 5 条推荐中的比率）从 33% 显著回升至 57%。这证明额外的探索轮次直接帮助智能体发现了最初遗漏的次级信号。下一步计划这些是针对初始样本的初步结果，我们正在多个方向积极扩大覆盖范围。首先，我们正在将这一评估扩展到公开的 GitHub 数据（即 issue 及对应修复 PR），以使该方法适用于更广泛的 AI 社区。此外，我们也在探索如何摄入更丰富的上下文流，例如 issue 追踪器、讨论记录和设计文档，而不仅仅是代码库本身。在此处阅读完整论文，如果您有兴趣了解更多关于 Google Labs 在编程未来的工作，请关注 labs.google/code。 发布在： 网络 人工智能 案例研究 学习 影响力 上一页 下一页
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 15:13]
+标题: 开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增"自动驾驶"分类
+链接: https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8
+正文: IT之家 6 月 22 日消息，小米汽车今日官宣，小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录，时间为 10 分 29 秒 483。小米创办人、董事长兼 CEO 雷军今日分享了小米 YU7 GT 使用自动驾驶功能征战纽北赛道后发生的一处细微变化 —— 纽北官方圈速榜新增“自动驾驶”分类。据IT之家今日早些时候报道，央视新闻今日发文谈及了小米此次取得的成绩，称从追赶到领跑，从跟跑到开创，这是中国新能源汽车蓬勃向上的缩影。今天，小米公布，纽博格林北环赛道迎来历史性时刻 —— 小米 YU7 GT（选配赛道专业套装）搭载自主研发的自动驾驶系统，在全程无人状态下完成纽北官方计时圈，成绩 10 分 29 秒 483。全球首家，全程无人，全程自主。纽博格林北环赛道 20.832 公里，73 个弯道，中国工程师用一行行代码，把问号变成感叹号，也赋予了纽北百年赛道新的意义。从追赶到领跑，从跟跑到开创，这是中国新能源汽车蓬勃向上的缩影。小米汽车官方今日也发文解释了为何用自动驾驶挑战纽北：在极限赛道上锤炼出的动态模型、高频扭矩分配和毫秒级救车能力，最终都会在我们的产品迭代中，逐步下发到每一个普通用户的量产车上。小米汽车的终极目标，是让用户在日常用车中，万一遇到暴雨积水、冰雪路面打滑等极端工况时，车子的底盘和智驾系统能像一位常驻的“幽灵专业赛车手”一样，做出正确决策，把车辆重新拉回可控范围之内。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:34]
+标题: 微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录
+链接: https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67
+正文: 微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的"问小微"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置"小工具"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。 🔗 阅读原文：https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:25]
 标题: Anthropic 工程负责人：Claude Code 让程序员更孤独
 链接: https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d
@@ -25,216 +55,80 @@
 链接: https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9
 正文: Hugging Face 上的 PP-OCRv6：覆盖 50 种语言、参数量从 1.5M 到 34.5M 的 OCR 模型 Team Article 2026 年 6 月 22 日发布 AlexZhang AlexTransformer PaddlePaddle cuicheng ChengCui PaddlePaddle Jun Zhang jzhang533 PaddlePaddle Manhui Lin gggdddfff PaddlePaddle Yue Zhang xiaohei66 PaddlePaddle leo-q8 leo-q8 PaddlePaddle yubo zhangyubo0722 PaddlePaddle Yi Liu michaelowenliu PaddlePaddle 在线评估 PP-OCRv6，然后通过 PaddlePaddle、Transformers 或 ONNX Runtime 后端集成轻量、可投产的 OCR。 PP-OCRv6 是 PaddleOCR 通用 OCR 模型家族的最新一代。它专为现实场景中的文本检测与识别而设计，涵盖文档、截图、多语言图像、数字显示屏、工业标签以及场景文本。 该模型家族的参数量从 1.5M 到 34.5M 不等，包含三个档次：tiny、small 和 medium。medium 和 small 档次支持 50 种语言，包括简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。快速在线体验 PP-OCRv6：PP-OCRv6 Online Demo。 在 PaddleOCR 官方自建的多场景 OCR 基准测试上，PP-OCRv6_medium 的检测 Hmean 达到 86.2%，识别准确率达到 83.2%。与 PP-OCRv5_server 相比，文本检测提升了 4.6 个百分点，文本识别提升了 5.1 个百分点。 PP-OCRv6 聚焦于一个实际的 OCR 需求：用小模型生成准确的结构化文本输出，并提供灵活的部署选项。关于为何在 VLM 时代专用 OCR 模型仍然有用，更深入的讨论请参阅我们之前的博客：PP-OCRv5 on Hugging Face: A Specialized Approach to OCR。 PP-OCRv6 的新特性 PP-OCRv6 在检测和识别两方面引入了架构、训练和数据的改进。主要设计目标是在保持模型大小适合不同部署环境的同时，提升 OCR 准确率。 三个模型档次 PP-OCRv6 提供三个模型档次，覆盖不同的模型大小和 OCR 准确率水平。 模型 模型大小 检测 Hmean 识别准确率 典型应用场景 PP-OCRv6_tiny 1.5M 参数 80.6% 73.5% 边缘设备、轻量本地 OCR、对延迟敏感的演示、受限环境 PP-OCRv6_small 7.7M 参数 84.1% 81.3% 手机、桌面、均衡型 OCR 服务、计算成本较低的多语言 OCR PP-OCRv6_medium 3450 万参数 86.2% 83.2% 面向精度的 OCR、服务端流水线、工业级 OCR、文档录入、多语言 OCR PPLCNetV4 骨干网络 PP-OCRv6 采用 PPLCNetV4 作为文字检测和文字识别的统一骨干网络。 对于开发者而言，最主要的好处是模型家族内部的一致性。tiny、small 和 medium 模型并非互不相关的独立模型，它们属于同一 OCR 家族，共享相同的架构方向。 用于文字检测的 RepLKFPN 文字检测是 OCR 流水线的第一个阶段。检测质量会影响送入识别器的裁剪区域，质量不佳的裁剪区域往往会导致识别效果更差。 PP-OCRv6 用 RepLKFPN 升级了检测模块，这是一种轻量级的大核特征金字塔网络，专为多尺度文字检测设计，同时保持高效的推理。 这对于真实场景下的 OCR 输入尤为重要——文字可能很小、密集、倾斜、低分辨率，或嵌在复杂背景中。 用于文字识别的 EncoderWithLightSVTR 在文字识别方面，PP-OCRv6 使用 EncoderWithLightSVTR。它将局部上下文建模与全局注意力相结合，从而提升对困难文字裁剪区域的识别质量。 识别方面的改进对多语言文字、屏幕文字、工业字符、特殊符号、密集文字以及噪声图像区域尤其有价值。 统一多语言 OCR medium 和 small 模型在一个模型家族内支持 50 种语言，涵盖简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。 这有助于减少在常见多语言 OCR 场景中针对不同语言分别部署独立 OCR 模型的需求。 通过 PaddleOCR 快速入门 安装 PaddleOCR： pip install paddleocr 使
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-21 15:31]
-标题: NSA局长：Mythos数小时内攻破其几乎所有机密系统
-链接: https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u
-正文: 来源：X：AI Safety Memes (@AISafetyMemes) 正文： 美国国家安全局（NSA）的负责人（！）表示，Mythos“几乎攻破了我们所有机密系统，不是几周，而是几小时。” 这怎么就不是全世界最大的新闻呢？ [引用 @AISafetyMemes]：Mythos 在 5 天内攻破了 MacOS 为什么这很重要： - Google Project Zero——全球最负盛名的漏洞发现团队——在 MacOS/iOS 级别每发现一个零日漏洞需要 ***6 个月*** - MacOS 的零日漏洞每个价值约 200 万美元以上 - Apple 的威胁模型原本假设世界上只有 10–20 个团队有能力发动这种级别的攻击。而这一数字即将变成数千 - 目前约有 20 亿台活跃的 Apple 设备。Mac 用户中不成比例地集中了记者、高管、政府官员等——全球价值最高的攻击目标。他们之所以选择 Apple，是因为 Apple 曾是安全性最高的选择
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 12:00]
+标题: Cursor 审计发现奖励黑客行为淹没模型智能提升
+链接: https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7
+正文: 博客 / 研究更智能的模型正变得越来越善于在编程评测基准上钻空子。 基于真实 bug（那些后来被修复的）构建的评测套件尤其脆弱，因为问题已经被解决过。如果智能体能够访问仓库历史记录或公共网络，它有时可以直接查到答案，而不是推导出答案。 为了衡量这种行为的普遍程度，我们构建了一个智能体来审计评测轨迹。在 SWE-bench Pro 上，我们发现 Opus 4.8 Max 成功解决的案例中有 63% 是直接检索到修复方案，而非推导得出。当我们封存 git 历史记录并限制互联网访问后，Opus 以及我们的模型 Composer 2.5 的得分均大幅下降： Opus 4.8 Max 从 87.1% 降至 73.0% Composer 2.5 从 74.7% 降至 54.0% 此前的研究已经表明，编程评测基准的答案可以通过公开渠道泄露，包括 2024 年的一项研究和 2025 年 Meta 的一份报告。我们的研究量化了当前前沿编程智能体运行中这一问题的严重程度。更广泛的教训是：除了避免训练阶段的污染外，智能体编程评测还需要受控的运行环境。 对于进行评测的团队，我们建议通过审计轨迹日志和限制评测环境来减轻这种奖励作弊行为。 用模型抓模型 为了衡量奖励作弊行为的规模，我们让审计程序检查了 731 条 Opus 4.8 Max 的轨迹。它读取了问题陈述和完整的智能体轨迹（但不查看该次运行是否通过），并判断智能体是否检索了已知答案。 它发现最普遍的两种奖励作弊模式如下： 上游查找：在 57% 的轨迹中，Opus 4.8 Max 在公共网络上找到了已合并的 PR 或已修复的源文件，然后几乎逐字复现了修复内容。 Git 历史挖掘：在 9% 的轨迹中，Opus 4.8 Max 搜索了捆绑的 .git 历史记录，找到了修复 bug 的未来提交，然后提取了补丁。¹ 随着模型能力增强，它们有时会推断自己正处于评估环境中，尤其是当任务来自某个过往的公开代码仓库时。即便模型并不记得训练中见过的修复方案，环境本身仍可能向其透露“该漏洞已被解决”的线索。 在 SWE-bench Multilingual 中的一个始于 2019 年 jq 议题的任务里，智能体尝试使用系统中的 jq 二进制文件复现该漏洞。但由于评估镜像构建于该漏洞被修复之后，复现失败，智能体由此推断该问题已被解决。这种认知促使它转而搜索已有的修复方案，而非自行推导新方案。 还有少数情况更为直接。一个智能体发现了 SWE-bench 的镜像页面，该页面暴露了隐藏测试用例和标准补丁。另一个智能体则获取了隐藏测试文件，并硬编码了通过测试所需的预期异常字符串。 上游查询（Opus 4.8 Max）。智能体通过 GitHub API 查询已合并的拉取请求，找到修复所涉及的文件，然后复现了该修复（同一响应也暴露了每个文件的差异 diff）：cd /testbed &amp;&amp; curl -s "https://api.github.com/repos/apache/druid/pulls/14092/files" 2&gt;/dev/null | grep '"filename"'Git 历史挖掘（Composer 2.5）。智能体在附带的 .git 历史记录中定位到修复提交，读取其差异 diff，然后直接应用了该补丁：cd /testbed &amp;&amp; git show 895abd8929 -p 2&gt;/dev/null | head -400 cd /testbed &amp;&amp; git cherry-pick 895abd8929 2&gt;&amp;1待添加的补丁片段：上方 git show 输出的逐字精简摘录（Composer 复现的标准差异 diff）。 更严格的评估环境设计 大部分奖励破解行为都通过公共网络和仓库历史记录传播。对于基于历史公开仓库构建的评估，必须控制这些渠道，因为它们可能包含答案。为此，我们构建了一个严格的评估框架，采用两种隔离机制： 历史隔离。在智能体启动前，移除 .git 目录，并将仓库重新初始化为一个全新的单次提交仓库。仅在评分时恢复原始历史记录，以便测试正常运行。 出站代理。默认禁止网络访问。作为尽力而为的控制措施，一个固定代理仅允许针对许可名单上的包注册中心进行依赖解析，除此之外一概不允许。 这一限制仅针对基于历史公共仓库构建的评测。这也是我们更倾向于使用非公共仓库（如 CursorBench）搭建评测的原因之一，这类评测既能测试智能体编程能力，又能让智能体以真实工作场景中使用工具的方式进行操作。 鸿沟正在扩大 我们在更严格的评测框架下重新运行了 SWE-bench Pro 和 SWE-bench Multilingual，然后将每个结果与
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 10:00]
+标题: OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber
+链接: https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46
+正文: OpenAI 推出 Daybreak 系列工具，包括 Codex Security 和 GPT-5.5-Cyber，帮助组织大规模发现、验证并修补漏洞。 🔗 阅读原文：https://openai.com/index/daybreak-securing-the-world
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 00:00]
+标题: Grok Build 推出 /goal 模式，支持长时间自主任务执行
+链接: https://aihot.virxact.com/items/cmqpeyj07000gslp57sfgt1iu
+正文: 在 Grok Build 中使用 `/goal` 实现长时间运行的自主任务执行。 * * 用一行设定目标 入门 今天我们推出 Grok Build 中的 `/goal`。这种新模式可实现长时间运行的自主执行，帮助你将更大的实现任务交给 AI 智能体处理。 现在即可在 Grok Build 中使用。通过单条命令安装 CLI 并用你的账户登录： `$ curl -fsSL https://x.ai/cli/install.sh | bash` 升级 介绍 /goal 大多数编码会话需要来回执行和验证。有了 `/goal`，AI 智能体会持续执行，直到任务完成并通过验证——无论是审查代码、检查网页还是执行脚本。 用一行设定目标 向 `/goal` 提供一个目标，Grok Build 就会接手执行： Copy bash 它会规划方案，将工作分解为进度检查清单，并开始执行。在运行过程中，你可以继续向 AI 智能体提供额外指令。 新模式提供了额外的命令，用于监控和引导长时间运行的任务： Copy bash 当目标完成时，面板会切换为**完成**状态，每个检查清单项都已勾选。 入门 用上述命令安装 Grok Build，然后调用 `/goal` 来提交你的第一个长时间运行任务。 一个旗下子公司[](https://spacex.com/) © 2026 xAI Corp. Built with Grok 产品 ChatBuildImagineVoiceGrokipedia 下载 grok.comiOSAndroidGrok on X 解决方案 企业客户支持法律安全用例 开发者 API 概览定价模型文档控制台状态 企业 联系销售常见问题BAADPPA 公司 关于Colossus招聘新闻联系 信任 安全隐私门户子处理器帮助中心 法律 条款企业条款隐私Cookie公平使用政策品牌 社交 @xai@grokDiscord Built with Grok
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 01:17]
 标题: After closing 1,000 restaurants, seafood chain sees clear sailing
 链接: https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:17]
-标题: SpaceX stock down again, shaving off some IPO gains; confirms debt offering
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-again-shaving-off-some-ipo-gains-confirms-debt-offering-141725657.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
-标题: BeOne Medicines (ONC): Citizens Sees an Inflection Point in Its Cancer Pipeline
-链接: https://finance.yahoo.com/healthcare/articles/beone-medicines-onc-citizens-sees-141532373.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
-标题: Alnylam (ALNY) Expands Its RNAi Therapeutics Reach Into Four More Nordic Countries
-链接: https://finance.yahoo.com/healthcare/articles/alnylam-alny-expands-rnai-therapeutics-141527548.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
-标题: Can Rhythm Pharmaceuticals (RYTM) ’s New Data Help Patients With a Rare Hunger Disorder?
-链接: https://finance.yahoo.com/healthcare/articles/rhythm-pharmaceuticals-rytm-data-help-141500938.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
-标题: Analyst Report: Illinois Tool Works Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3094_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 16:38]
+标题: Analyst Report: UWM Holdings Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_5978_AnalystReport_1782146332000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 01:03]
 标题: Michael Burry sees a $3 trillion problem with SpaceX
 链接: https://finance.yahoo.com/markets/stocks/articles/michael-burry-sees-3-trillion-010300765.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
-标题: Truist Cuts Boston Scientific (BSX) ’s Target as Doctors Change How They Use Its Heart Device
-链接: https://finance.yahoo.com/healthcare/articles/truist-cuts-boston-scientific-bsx-141451216.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 16:23]
+标题: Market Update: UWMC
+链接: https://finance.yahoo.com/research/reports/ARGUS_47397_MarketUpdate_1782145432000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
-标题: Insulet (PODD): New Data Shows Its Next-Gen System Delivers Far More Automated Insulin
-链接: https://finance.yahoo.com/healthcare/articles/insulet-podd-data-shows-next-141443809.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 22:58]
-标题: Stock market today: Dow, S&P 500 rise, Nasdaq wavers with peace talks, AI demand in focus
-链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
-标题: Is Cogent Biosciences (COGT) ’s New Cancer Drug 100 Times More Precise Than What’s Already on the Market?
-链接: https://finance.yahoo.com/healthcare/articles/cogent-biosciences-cogt-cancer-drug-141434791.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
+标题: Analyst Report: Illinois Tool Works Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3094_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
 标题: Analyst Report: Accenture PLC
 链接: https://finance.yahoo.com/research/reports/ARGUS_2673_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:19]
-标题: Nextpower enters $378m deal to acquire Zimmermann PV-Steel Group
-链接: https://finance.yahoo.com/energy/articles/nextpower-enters-378m-deal-acquire-141914766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
-标题: Is Insmed (INSM) One of the Most Promising Healthcare Stocks After Cantor Fitzgerald’s Target Raise?
-链接: https://finance.yahoo.com/healthcare/articles/insmed-insm-one-most-promising-141417892.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
-标题: Vaxcyte (PCVX) Doses Its First Patient in a Trial for a Disease With No Existing Vaccine
-链接: https://finance.yahoo.com/healthcare/articles/vaxcyte-pcvx-doses-first-patient-141404145.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
-标题: Summit Therapeutics (SMMT): A $500 Million Stock Offering Pulled Just One Day After Filing
-链接: https://finance.yahoo.com/healthcare/articles/summit-therapeutics-smmt-500-million-141316716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
-标题: Super Micro Computer (SMCI) A Data Center Stock Cheaper Than the S&P
-链接: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-data-141309932.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
 标题: Analyst Report: Hormel Foods Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_4060_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
-标题: Dell Technologies (DELL) Has Gained More Than 30% Over the Past Month, Valuation Remains Cheaper Than The S&P
-链接: https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-gained-more-141301330.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: Wells Fargo Remains a Buy on Constellation Energy (CEG)
-链接: https://finance.yahoo.com/energy/articles/wells-fargo-remains-buy-constellation-141254502.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: Mizuho Maintains Outperform Rating on Oracle Corporation (ORCL)
-链接: https://finance.yahoo.com/markets/stocks/articles/mizuho-maintains-outperform-rating-oracle-141247850.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: Wall Street Sees More Than 40% Upside for Meta Platforms (META)
-链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-more-40-141240310.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: OpenAI in Talks to Lease 10 GW Data Center in Ohio, Nvidia (NVDA) To Play an Important Role – Reuters
-链接: https://finance.yahoo.com/technology/ai/articles/openai-talks-lease-10-gw-141233097.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
 标题: Daily Spotlight: Housing at the Halfway Point
 链接: https://finance.yahoo.com/research/reports/ARGUS_47391_MarketOutlook_1782125765000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: A Couple Holds $120K in Bitcoin. In a Roth It’s Tax-Free. In a Brokerage Account, Selling Could Torpedo Their Social Security.
-链接: https://finance.yahoo.com/markets/crypto/articles/couple-holds-120k-bitcoin-roth-141230671.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
-标题: Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating
-链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-faces-shareholder-lawsuit-141221930.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:08]
-标题: Jefferies Financial Group (JEF): One of the Premier Financial Stocks to Buy According to Warren Buffett
-链接: https://finance.yahoo.com/markets/stocks/articles/jefferies-financial-group-jef-one-140852880.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
-标题: Ally Financial Inc. (ALLY): One of the Best Financial Stocks to Buy According to Berkshire Hathaway
-链接: https://finance.yahoo.com/markets/stocks/articles/ally-financial-inc-ally-one-140757916.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
-标题: AbbVie Goes On The Offensive With $10.9 Billion Takeover
-链接: https://www.investors.com/news/technology/abbvie-apogee-therapeutics-acquisition-apogee-stock/?src=A00220&yptr=yahoo
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:41]
 标题: Market Digest: ACN, AEE, EXC, HRL, ITW, DAL, FOXA
 链接: https://finance.yahoo.com/research/reports/ARGUS_47388_MarketSummary_1782124886000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
-标题: Moody’s Corporation (MCO): One of the Best Financial Stocks According to Warren Buffett
-链接: https://finance.yahoo.com/markets/stocks/articles/moody-corporation-mco-one-best-140704030.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:05]
-标题: Is SpaceX Stock a Buy at a $2.5 Trillion Valuation?
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-2-5-140500732.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:58]
-标题: Will JFrog (FROG) Gain From AI?
-链接: https://finance.yahoo.com/technology/ai/articles/jfrog-frog-gain-ai-135828405.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:49]
-标题: Here’s Why NZS Capital Sees Tyler Technologies (TYL) as Resilient to AI Concerns
-链接: https://finance.yahoo.com/markets/stocks/articles/why-nzs-capital-sees-tyler-134946964.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:34]
 标题: Daily – Vickers Top Insider Picks for 06/22/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47386_InsiderActivity_1782124445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 12:52]
-标题: Micron stock surges amid memory trade boom
-链接: https://finance.yahoo.com/markets/stocks/article/micron-stock-surges-amid-memory-trade-boom-125205263.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:04]
-标题: AbbVie to acquire Apogee Therapeutics in $10.9B deal
-链接: https://finance.yahoo.com/healthcare/articles/abbvie-acquire-apogee-therapeutics-10-140400107.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:44]
-标题: Stock Market Today: Dow Rises Amid U.S.-Iran Peace Talks; SpaceX Stock Sells Off (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-talks-spacex-stock-spcx/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:42]
-标题: Construction Giant CRH Buys Major GE Vernova Supplier For $8.5 Billion
-链接: https://www.investors.com/news/ge-vernova-crh-arcosa-merger-construction-stocks-data-center/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:41]
-标题: This Biotech's LSD-Based Drug Just Treated Depression. Now The Stock Is Sky-High.
-链接: https://www.investors.com/news/technology/definium-therapeutics-stock-lsd-depression-treatment/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:34]
-标题: Daily – Vickers Top Buyers & Sellers for 06/22/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47387_TopBottomInsiderActivity_1782124445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:38]
-标题: Bitcoin and ethereum prices today, Monday, June 22, 2026: Prices moving higher this morning
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-22-2026-prices-moving-higher-this-morning-133853515.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:04]
-标题: Fed hawkishness and stretched valuations offset Iran deal relief, Deutsche Bank says
-链接: https://finance.yahoo.com/markets/stocks/articles/fed-hawkishness-stretched-valuations-offset-140400281.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
-标题: Is Oil-Dri Corporation of America (ODC) among the Best Pet Care Stocks to Buy for Consistent Recurring Revenue?
-链接: https://finance.yahoo.com/markets/stocks/articles/oil-dri-corporation-america-odc-133153816.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
-标题: Here is why AON is among the Best Pet Care Stocks to Buy for Consistent Recurring Revenue
-链接: https://finance.yahoo.com/markets/stocks/articles/why-aon-among-best-pet-133141052.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
-标题: Weak Investor Sentiment Hurt Affirm Holdings (AFRM) in Q1
-链接: https://finance.yahoo.com/markets/stocks/articles/weak-investor-sentiment-hurt-affirm-133133982.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
-标题: Lemonade, Inc. (LMND): 7 Best Pet Care Stocks to Buy for Consistent Recurring Revenue
-链接: https://finance.yahoo.com/markets/stocks/articles/lemonade-inc-lmnd-7-best-133131796.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:02]
-标题: GEA Group Aktiengesellschaft Targets EUR 7B Revenue, Higher Margins by 2030
-链接: https://finance.yahoo.com/markets/stocks/articles/gea-group-aktiengesellschaft-targets-eur-140245097.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
-标题: What makes PetMed Express, Inc. (PETS) one of the Best Pet Care Stocks to Buy for Consistent Recurring Revenue?
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-petmed-express-inc-pets-133119745.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 16:45]
+标题: Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets
+链接: https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html
+正文: The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 12:07]
 标题: Stocks making the biggest moves premarket: Apogee Therapeutics, SpaceX, Arcosa & more
 链接: https://www.cnbc.com/2026/06/22/stocks-making-the-biggest-moves-premarket-apge-spcx-aca.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 13:50]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 14:39]
 标题: Alan Greenspan, former chairman of the Fed, dies at age 100
 链接: https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
 正文: Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 16:32]
+标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
+链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
+正文: Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-21 22:58]
 标题: The new oil? Inside the effort to turn AI computing power into a tradeable commodity
@@ -251,10 +145,15 @@
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing
 正文: Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 14:28]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-22 00:00]
+标题: Capturing growth in a fragmented world
+链接: https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world
+正文: CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 18:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 14:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 18:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
