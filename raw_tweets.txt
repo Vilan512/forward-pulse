@@ -1,92 +1,260 @@
-# ForwardPulse 原始情报收割 — 2026-06-22 08:51:04
-# 共计 21 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-22 14:28:16
+# 共计 62 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 12:10]
+标题: The Download: record-breaking subsea tunnels and flexible data centers
+链接: https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly aware of the pressure from millions of tons of seawater just above my head. I’m under the iconic fjords of Norway to visit what will soon become the world’s longest and deepest subsea road tunnel—an exceptional engineering feat that will carry drivers deep beneath the North Sea. I’m here to understand how you make a 16.6-mile highway that sits 1,280 feet below the sea at its deepest point. And also—at a time when it can feel hard to get anything done—to reassure myself that ambitious engineering is still possible. That we can still make things.&nbsp; Step inside Norway’s Rogfast tunnel and see how engineers are making it happen. This story is from the next edition of our magazine, which is all about engineering. Subscribe now to get a copy when it lands on Wednesday! Want to get a data center online quickly? Give it some flex. The AI boom is putting unprecedented pressure on the electric grid. But rather than rushing to build new power plants, companies could find part of the solution right under our noses—or, more precisely, in the transmission lines under our feet and above our heads. If data centers can limit the power they draw during high-demand stretches, they won’t need to wait for big infrastructure upgrades or build their own off-grid generation. The idea of flexibility isn’t entirely foreign to grid operators. But a new generation of software could make the process faster, smarter, and more precise for the AI era. Find out how the challenge of powering AI could lead to a smarter, more flexible grid. —Amos Zeeberg The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about tech
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 08:00]
 标题: Inside the world’s deepest and longest subsea road tunnel
 链接: https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/
 正文: It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my head, pushing down with a force of more than 500 pounds per square inch. Picture a baby rhino standing on a postage stamp.&nbsp; Only fabulous engineering is keeping me from being crushed, drowned, disappeared. My safety goggles are foggy. Just a few hundred meters away, someone is about to blow up a giant rock wall. Luckily, earlier that day I was given a full safety briefing, and I’ve got a special hard hat on. “Don’t worry—if you don’t make it, we’ll have your stuff sent back to your office,” geologist Anne-Merete Gilje tells me, straight-faced. Ah, Norwegian humor. “It’s kind of a lifestyle. You have to be a little bit crazy to work underground all the time.” Niclas Brusehed, tunnel foreman, Implenia I’m in this odd situation under the iconic fjords of Norway to visit what will soon become the world’s longest and deepest subsea road tunnel, called Rogfast (short for “Rogaland Fixed Link”). I want to understand how you make something as audacious as a 26.7-kilometer (16.6-mile) highway that sits 390 meters (1,280 feet) below the sea at its deepest point. And also—at a time when it can feel hard to get anything done, especially in the US—to reassure myself that ambitious engineering is still possible. That we can still make things.&nbsp; The Norwegians already have the world’s longest subsea tunnel, the 14.4-kilometer Ryfylke, though Rogfast will dwarf it. Their expertise has attracted attention from Japan, Spain, Morocco, and even a number of US states, whose representatives were due to visit the site in May, just weeks after I went. They, too, want to know how Norway does it.&nbsp; The answer: tons of explosives.&nbsp; The entire endeavor feels like an obstinate 
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-22 13:18]
+标题: PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
+链接: https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:25]
+标题: Anthropic 工程负责人：Claude Code 让程序员更孤独
+链接: https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d
+正文: IT之家 6 月 22 日消息，编程向来是一项容易让人感到孤独的工作，AI 智能体的普及反而加剧了这种孤立感。据《商业内幕》22 日（今天）报道，负责 Claude Code 和 Claude Cowork 团队的 Anthropic 工程负责人 Fiona Fung 表示，团队发现，工程师越依赖 AI 智能体，彼此之间的交流就越少。Fung 坦言：“我们注意到，时间一长，这种工作方式可能会让人感到孤独，因为大家都把太多时间花在和自己的智能体一起工作上。”据IT之家了解，为了缓解这个问题，团队开始重新创造面对面交流的机会。团队组织编程午餐、黑客松和共同开发时段，让工程师坐在一起工作，并互相学习不同的 AI 工作流程。“每个人都在用 Claude Cowork，但使用方式差别很大。进行结对编程时，我们能从彼此身上学到很多东西。”Claude Code 已迅速成为软件开发领域最常用的产品之一。针对 20 多名创业公司创始人和风险投资人进行的调查发现，Claude Code 已成为创业公司使用最多的 AI 编程工具。部分创始人表示，遇到复杂工程任务时，自己通常会优先使用 Claude Code。工程师也开始把更多时间用于安排智能体工作、检查生成结果和协调多个并行任务。与此同时，能够通过自然语言指令开发软件“氛围编程”正迅速走红。即使没有技术背景，创业者也能在不组建传统工程团队的情况下制作定制工具，“单人创业者”因此越来越常见。然而，单枪匹马完成所有工作同样容易陷入孤独，许多创业者仍然认为协作不可或缺。Fung 表示，即使团队成员使用 AI 的方式不同，Anthropic 仍在努力为工程师创造更多并肩工作的机会。“每次观察别人怎么工作，我自己也会有所收获。”
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:18]
+标题: PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M
+链接: https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9
+正文: Hugging Face 上的 PP-OCRv6：覆盖 50 种语言、参数量从 1.5M 到 34.5M 的 OCR 模型 Team Article 2026 年 6 月 22 日发布 AlexZhang AlexTransformer PaddlePaddle cuicheng ChengCui PaddlePaddle Jun Zhang jzhang533 PaddlePaddle Manhui Lin gggdddfff PaddlePaddle Yue Zhang xiaohei66 PaddlePaddle leo-q8 leo-q8 PaddlePaddle yubo zhangyubo0722 PaddlePaddle Yi Liu michaelowenliu PaddlePaddle 在线评估 PP-OCRv6，然后通过 PaddlePaddle、Transformers 或 ONNX Runtime 后端集成轻量、可投产的 OCR。 PP-OCRv6 是 PaddleOCR 通用 OCR 模型家族的最新一代。它专为现实场景中的文本检测与识别而设计，涵盖文档、截图、多语言图像、数字显示屏、工业标签以及场景文本。 该模型家族的参数量从 1.5M 到 34.5M 不等，包含三个档次：tiny、small 和 medium。medium 和 small 档次支持 50 种语言，包括简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。快速在线体验 PP-OCRv6：PP-OCRv6 Online Demo。 在 PaddleOCR 官方自建的多场景 OCR 基准测试上，PP-OCRv6_medium 的检测 Hmean 达到 86.2%，识别准确率达到 83.2%。与 PP-OCRv5_server 相比，文本检测提升了 4.6 个百分点，文本识别提升了 5.1 个百分点。 PP-OCRv6 聚焦于一个实际的 OCR 需求：用小模型生成准确的结构化文本输出，并提供灵活的部署选项。关于为何在 VLM 时代专用 OCR 模型仍然有用，更深入的讨论请参阅我们之前的博客：PP-OCRv5 on Hugging Face: A Specialized Approach to OCR。 PP-OCRv6 的新特性 PP-OCRv6 在检测和识别两方面引入了架构、训练和数据的改进。主要设计目标是在保持模型大小适合不同部署环境的同时，提升 OCR 准确率。 三个模型档次 PP-OCRv6 提供三个模型档次，覆盖不同的模型大小和 OCR 准确率水平。 模型 模型大小 检测 Hmean 识别准确率 典型应用场景 PP-OCRv6_tiny 1.5M 参数 80.6% 73.5% 边缘设备、轻量本地 OCR、对延迟敏感的演示、受限环境 PP-OCRv6_small 7.7M 参数 84.1% 81.3% 手机、桌面、均衡型 OCR 服务、计算成本较低的多语言 OCR PP-OCRv6_medium 3450 万参数 86.2% 83.2% 面向精度的 OCR、服务端流水线、工业级 OCR、文档录入、多语言 OCR PPLCNetV4 骨干网络 PP-OCRv6 采用 PPLCNetV4 作为文字检测和文字识别的统一骨干网络。 对于开发者而言，最主要的好处是模型家族内部的一致性。tiny、small 和 medium 模型并非互不相关的独立模型，它们属于同一 OCR 家族，共享相同的架构方向。 用于文字检测的 RepLKFPN 文字检测是 OCR 流水线的第一个阶段。检测质量会影响送入识别器的裁剪区域，质量不佳的裁剪区域往往会导致识别效果更差。 PP-OCRv6 用 RepLKFPN 升级了检测模块，这是一种轻量级的大核特征金字塔网络，专为多尺度文字检测设计，同时保持高效的推理。 这对于真实场景下的 OCR 输入尤为重要——文字可能很小、密集、倾斜、低分辨率，或嵌在复杂背景中。 用于文字识别的 EncoderWithLightSVTR 在文字识别方面，PP-OCRv6 使用 EncoderWithLightSVTR。它将局部上下文建模与全局注意力相结合，从而提升对困难文字裁剪区域的识别质量。 识别方面的改进对多语言文字、屏幕文字、工业字符、特殊符号、密集文字以及噪声图像区域尤其有价值。 统一多语言 OCR medium 和 small 模型在一个模型家族内支持 50 种语言，涵盖简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。 这有助于减少在常见多语言 OCR 场景中针对不同语言分别部署独立 OCR 模型的需求。 通过 PaddleOCR 快速入门 安装 PaddleOCR： pip install paddleocr 使
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-21 15:31]
 标题: NSA局长：Mythos数小时内攻破其几乎所有机密系统
 链接: https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u
 正文: 来源：X：AI Safety Memes (@AISafetyMemes) 正文： 美国国家安全局（NSA）的负责人（！）表示，Mythos“几乎攻破了我们所有机密系统，不是几周，而是几小时。” 这怎么就不是全世界最大的新闻呢？ [引用 @AISafetyMemes]：Mythos 在 5 天内攻破了 MacOS 为什么这很重要： - Google Project Zero——全球最负盛名的漏洞发现团队——在 MacOS/iOS 级别每发现一个零日漏洞需要 ***6 个月*** - MacOS 的零日漏洞每个价值约 200 万美元以上 - Apple 的威胁模型原本假设世界上只有 10–20 个团队有能力发动这种级别的攻击。而这一数字即将变成数千 - 目前约有 20 亿台活跃的 Apple 设备。Mac 用户中不成比例地集中了记者、高管、政府官员等——全球价值最高的攻击目标。他们之所以选择 Apple，是因为 Apple 曾是安全性最高的选择
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-21 10:11]
-标题: 美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型
-链接: https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1
-正文: 美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2068637890247016607
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 01:17]
 标题: After closing 1,000 restaurants, seafood chain sees clear sailing
 链接: https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:17]
+标题: SpaceX stock down again, shaving off some IPO gains; confirms debt offering
+链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-again-shaving-off-some-ipo-gains-confirms-debt-offering-141725657.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
+标题: BeOne Medicines (ONC): Citizens Sees an Inflection Point in Its Cancer Pipeline
+链接: https://finance.yahoo.com/healthcare/articles/beone-medicines-onc-citizens-sees-141532373.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
+标题: Alnylam (ALNY) Expands Its RNAi Therapeutics Reach Into Four More Nordic Countries
+链接: https://finance.yahoo.com/healthcare/articles/alnylam-alny-expands-rnai-therapeutics-141527548.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:15]
+标题: Can Rhythm Pharmaceuticals (RYTM) ’s New Data Help Patients With a Rare Hunger Disorder?
+链接: https://finance.yahoo.com/healthcare/articles/rhythm-pharmaceuticals-rytm-data-help-141500938.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
+标题: Analyst Report: Illinois Tool Works Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3094_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 01:03]
 标题: Michael Burry sees a $3 trillion problem with SpaceX
 链接: https://finance.yahoo.com/markets/stocks/articles/michael-burry-sees-3-trillion-010300765.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:00]
-标题: Best high-yield savings interest rates today, Sunday, June 21, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-21-2026-100000731.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
+标题: Truist Cuts Boston Scientific (BSX) ’s Target as Doctors Change How They Use Its Heart Device
+链接: https://finance.yahoo.com/healthcare/articles/truist-cuts-boston-scientific-bsx-141451216.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:00]
-标题: Best CD rates today, Sunday, June 21, 2026: Lock in up to 4% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-21-2026-100000246.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
+标题: Insulet (PODD): New Data Shows Its Next-Gen System Delivers Far More Automated Insulin
+链接: https://finance.yahoo.com/healthcare/articles/insulet-podd-data-shows-next-141443809.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:00]
-标题: Mortgage and refinance interest rates today, Sunday, June 21, 2026: Rates higher compared to last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-june-21-2026-100000082.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 22:58]
+标题: Stock market today: Dow, S&P 500 rise, Nasdaq wavers with peace talks, AI demand in focus
+链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:00]
-标题: HELOC and home equity loan rates Sunday, June 21, 2026: See Yahoo's top HELOC and HEL lenders for June '26
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-21-2026-100000525.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
+标题: Is Cogent Biosciences (COGT) ’s New Cancer Drug 100 Times More Precise Than What’s Already on the Market?
+链接: https://finance.yahoo.com/healthcare/articles/cogent-biosciences-cogt-cancer-drug-141434791.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:00]
-标题: Best money market account rates today, Sunday, June 21, 2026: Best account provides 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-june-21-2026-100000959.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
+标题: Analyst Report: Accenture PLC
+链接: https://finance.yahoo.com/research/reports/ARGUS_2673_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:25]
-标题: No one’s talking about this new bipartisan Social Security rule that changes when US seniors claim. Do this now
-链接: https://finance.yahoo.com/economy/policy/articles/no-one-talking-bipartisan-social-102500002.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:19]
+标题: Nextpower enters $378m deal to acquire Zimmermann PV-Steel Group
+链接: https://finance.yahoo.com/energy/articles/nextpower-enters-378m-deal-acquire-141914766.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:45]
-标题: Thieves are using nail polish remover to wash stolen checks — and it's a $1 billion problem
-链接: https://finance.yahoo.com/economy/articles/thieves-using-nail-polish-remover-104500589.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
+标题: Is Insmed (INSM) One of the Most Promising Healthcare Stocks After Cantor Fitzgerald’s Target Raise?
+链接: https://finance.yahoo.com/healthcare/articles/insmed-insm-one-most-promising-141417892.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:52]
-标题: HelleniQ Energy to Grant Chevron (CVX) 70% Interest in Block 10 Offshore Concession
-链接: https://finance.yahoo.com/energy/articles/helleniq-energy-grant-chevron-cvx-105232000.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:14]
+标题: Vaxcyte (PCVX) Doses Its First Patient in a Trial for a Disease With No Existing Vaccine
+链接: https://finance.yahoo.com/healthcare/articles/vaxcyte-pcvx-doses-first-patient-141404145.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:52]
-标题: Capital One Software of Capital One Financial (COF) Launches Databolt Connect on Databricks Marketplace
-链接: https://finance.yahoo.com/technology/ai/articles/capital-one-software-capital-one-105239068.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
+标题: Summit Therapeutics (SMMT): A $500 Million Stock Offering Pulled Just One Day After Filing
+链接: https://finance.yahoo.com/healthcare/articles/summit-therapeutics-smmt-500-million-141316716.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:52]
-标题: ExxonMobil (XOM) to Develop South Africa’s First LNG Import Terminal at Port of Richards Bay
-链接: https://finance.yahoo.com/energy/articles/exxonmobil-xom-develop-south-africa-105246386.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
+标题: Super Micro Computer (SMCI) A Data Center Stock Cheaper Than the S&P
+链接: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-data-141309932.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-21 10:52]
-标题: Pfizer (PFE) CFO Dave Denton to Step Down Effective August 15
-链接: https://finance.yahoo.com/markets/stocks/articles/pfizer-pfe-cfo-dave-denton-105251135.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
+标题: Analyst Report: Hormel Foods Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_4060_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-21 11:14]
-标题: 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed
-链接: https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html
-正文: The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:13]
+标题: Dell Technologies (DELL) Has Gained More Than 30% Over the Past Month, Valuation Remains Cheaper Than The S&P
+链接: https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-gained-more-141301330.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-21 12:16]
-标题: U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz
-链接: https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html
-正文: Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: Wells Fargo Remains a Buy on Constellation Energy (CEG)
+链接: https://finance.yahoo.com/energy/articles/wells-fargo-remains-buy-constellation-141254502.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: Mizuho Maintains Outperform Rating on Oracle Corporation (ORCL)
+链接: https://finance.yahoo.com/markets/stocks/articles/mizuho-maintains-outperform-rating-oracle-141247850.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: Wall Street Sees More Than 40% Upside for Meta Platforms (META)
+链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-more-40-141240310.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: OpenAI in Talks to Lease 10 GW Data Center in Ohio, Nvidia (NVDA) To Play an Important Role – Reuters
+链接: https://finance.yahoo.com/technology/ai/articles/openai-talks-lease-10-gw-141233097.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:56]
+标题: Daily Spotlight: Housing at the Halfway Point
+链接: https://finance.yahoo.com/research/reports/ARGUS_47391_MarketOutlook_1782125765000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: A Couple Holds $120K in Bitcoin. In a Roth It’s Tax-Free. In a Brokerage Account, Selling Could Torpedo Their Social Security.
+链接: https://finance.yahoo.com/markets/crypto/articles/couple-holds-120k-bitcoin-roth-141230671.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:12]
+标题: Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-faces-shareholder-lawsuit-141221930.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:08]
+标题: Jefferies Financial Group (JEF): One of the Premier Financial Stocks to Buy According to Warren Buffett
+链接: https://finance.yahoo.com/markets/stocks/articles/jefferies-financial-group-jef-one-140852880.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
+标题: Ally Financial Inc. (ALLY): One of the Best Financial Stocks to Buy According to Berkshire Hathaway
+链接: https://finance.yahoo.com/markets/stocks/articles/ally-financial-inc-ally-one-140757916.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
+标题: AbbVie Goes On The Offensive With $10.9 Billion Takeover
+链接: https://www.investors.com/news/technology/abbvie-apogee-therapeutics-acquisition-apogee-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:41]
+标题: Market Digest: ACN, AEE, EXC, HRL, ITW, DAL, FOXA
+链接: https://finance.yahoo.com/research/reports/ARGUS_47388_MarketSummary_1782124886000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:07]
+标题: Moody’s Corporation (MCO): One of the Best Financial Stocks According to Warren Buffett
+链接: https://finance.yahoo.com/markets/stocks/articles/moody-corporation-mco-one-best-140704030.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:05]
+标题: Is SpaceX Stock a Buy at a $2.5 Trillion Valuation?
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-2-5-140500732.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:58]
+标题: Will JFrog (FROG) Gain From AI?
+链接: https://finance.yahoo.com/technology/ai/articles/jfrog-frog-gain-ai-135828405.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:49]
+标题: Here’s Why NZS Capital Sees Tyler Technologies (TYL) as Resilient to AI Concerns
+链接: https://finance.yahoo.com/markets/stocks/articles/why-nzs-capital-sees-tyler-134946964.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:34]
+标题: Daily – Vickers Top Insider Picks for 06/22/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47386_InsiderActivity_1782124445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 12:52]
+标题: Micron stock surges amid memory trade boom
+链接: https://finance.yahoo.com/markets/stocks/article/micron-stock-surges-amid-memory-trade-boom-125205263.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:04]
+标题: AbbVie to acquire Apogee Therapeutics in $10.9B deal
+链接: https://finance.yahoo.com/healthcare/articles/abbvie-acquire-apogee-therapeutics-10-140400107.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:44]
+标题: Stock Market Today: Dow Rises Amid U.S.-Iran Peace Talks; SpaceX Stock Sells Off (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-talks-spacex-stock-spcx/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:42]
+标题: Construction Giant CRH Buys Major GE Vernova Supplier For $8.5 Billion
+链接: https://www.investors.com/news/ge-vernova-crh-arcosa-merger-construction-stocks-data-center/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:41]
+标题: This Biotech's LSD-Based Drug Just Treated Depression. Now The Stock Is Sky-High.
+链接: https://www.investors.com/news/technology/definium-therapeutics-stock-lsd-depression-treatment/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 10:34]
+标题: Daily – Vickers Top Buyers & Sellers for 06/22/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47387_TopBottomInsiderActivity_1782124445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:38]
+标题: Bitcoin and ethereum prices today, Monday, June 22, 2026: Prices moving higher this morning
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-22-2026-prices-moving-higher-this-morning-133853515.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:04]
+标题: Fed hawkishness and stretched valuations offset Iran deal relief, Deutsche Bank says
+链接: https://finance.yahoo.com/markets/stocks/articles/fed-hawkishness-stretched-valuations-offset-140400281.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
+标题: Is Oil-Dri Corporation of America (ODC) among the Best Pet Care Stocks to Buy for Consistent Recurring Revenue?
+链接: https://finance.yahoo.com/markets/stocks/articles/oil-dri-corporation-america-odc-133153816.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
+标题: Here is why AON is among the Best Pet Care Stocks to Buy for Consistent Recurring Revenue
+链接: https://finance.yahoo.com/markets/stocks/articles/why-aon-among-best-pet-133141052.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
+标题: Weak Investor Sentiment Hurt Affirm Holdings (AFRM) in Q1
+链接: https://finance.yahoo.com/markets/stocks/articles/weak-investor-sentiment-hurt-affirm-133133982.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
+标题: Lemonade, Inc. (LMND): 7 Best Pet Care Stocks to Buy for Consistent Recurring Revenue
+链接: https://finance.yahoo.com/markets/stocks/articles/lemonade-inc-lmnd-7-best-133131796.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:02]
+标题: GEA Group Aktiengesellschaft Targets EUR 7B Revenue, Higher Margins by 2030
+链接: https://finance.yahoo.com/markets/stocks/articles/gea-group-aktiengesellschaft-targets-eur-140245097.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 13:31]
+标题: What makes PetMed Express, Inc. (PETS) one of the Best Pet Care Stocks to Buy for Consistent Recurring Revenue?
+链接: https://finance.yahoo.com/markets/stocks/articles/makes-petmed-express-inc-pets-133119745.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 12:07]
+标题: Stocks making the biggest moves premarket: Apogee Therapeutics, SpaceX, Arcosa & more
+链接: https://www.cnbc.com/2026/06/22/stocks-making-the-biggest-moves-premarket-apge-spcx-aca.html
+正文: These are the stocks posting the largest moves premarket.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 13:50]
+标题: Alan Greenspan, former chairman of the Fed, dies at age 100
+链接: https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
+正文: Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-21 22:58]
 标题: The new oil? Inside the effort to turn AI computing power into a tradeable commodity
 链接: https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html
 正文: AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 08:51]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-22 00:00]
+标题: From anxiety to advantage: A marketing organization that thrives with AI
+链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai
+正文: Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-22 00:00]
+标题: From campaigns to continuous growth: AI capabilities shaping marketing
+链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing
+正文: Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 14:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 08:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 14:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
