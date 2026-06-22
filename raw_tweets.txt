@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-22 18:41:27
-# 共计 34 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-22 21:28:43
+# 共计 40 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 18:00]
 标题: Three things to watch amid Anthropic’s latest feud with the government
@@ -19,6 +19,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-22 13:18]
 标题: PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
 链接: https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 21:19]
+标题: 在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop
+链接: https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr
+正文: 在 AWS、Google Cloud 和 Microsoft Foundry 上享受完整的 Claude 桌面端体验分类企业级 AI产品Claude Enterprise日期2026 年 6 月 22 日阅读时长5分钟https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude 桌面版的机构，现在可以享受到完整的桌面端体验——聊天、Claude Cowork 和 Claude Code，全部集成在一个应用中。现在 IT 团队可以在自身环境内跨产品使用推理功能，并通过每位用户的 SSO、MDM 策略模板、离线安装程序选项以及可完全在设备上运行的 M365 连接器，在整个机构范围内部署 Claude 桌面版。推理在你配置的云区域内运行，对话历史记录存储在本地。你可以控制数据连接器可触及的端点，以及 Anthropic 接收的聚合遥测数据。覆盖整个机构的统一界面在此之前，通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude 桌面版的客户只能访问 Claude Cowork 和 Claude Code。现在，一次部署即可覆盖所有角色，且每个界面都有各自的策略密钥，让你决定谁在何时可以访问什么。聊天：用于快速获取答案和思考问题。Claude Cowork：用于处理你的团队更愿意交给 AI 的工作——Claude 在经批准的来源中进行研究，处理设备上已有的文件并构建可交付成果，完成后呈现结果。Claude Code：供希望在终端之外进行智能体编码的工程师使用。部署管控在机构范围内部署 Claude 桌面版，意味着要在你已有的系统内运作。像任何工作应用一样登录。员工使用与日常工作相同的账户登录：IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或任何 OIDC 提供商（如 Okta）。无需轮换共享密钥，最终用户机器上无需存放云凭证。像管理任何已有应用一样进行部署。从设置界面导出策略模板，并通过 Intune、GPO 或 Jamf 推送。离线安装程序可覆盖隔离环境。在任何人看到之前就确保它能正常工作。测试每一个连接器，确认你的供应商提供哪些 Claude 模型，并验证连接是否畅通——所有这些都在上线前完成。模型保护机制确保路由始终留在 Claude 上（包括 GovCloud 环境），即使某处配置有误也不受影响。从小处着手，随着采用率增长逐步扩展。Chat、Claude Cowork 和 Claude Code 各自拥有独立的策略密钥，因此你可以为非技术团队配置 Chat 和 Claude Cowork，为工程团队配置 Claude Code，然后随着各团队熟悉相应界面再逐步扩大权限。你的硬性拒绝规则适用于所有选项卡。让 Claude 融入工作场景。Microsoft 365 连接器能让 Claude 通过你自己的 Entra 应用访问邮件和文档，支持租户白名单，并对 GCC High/DoD 端点提供测试版支持。对于最严格的数据驻留要求，请使用我们本地的连接器，这样连接仅在设备与微软之间进行。“我们通过现有的云环境快速部署了 Claude Desktop，无需单独签订供应商合同。我们自己的 LLM 网关让一个团队就能将它部署给全球数百名用户，无需投入大量基础设施。”——韩华解决方案分析/AI 团队负责人 Sarang Oh快速入门对于管理员，部署指南详细介绍了 SSO、策略模板以及上线前验证。你也可以联系你的客户团队，我们会帮助你规划部署方案。未找到任何内容。上一页0/5下一页电子书常见问题未找到任何内容。利用 Claude 改变你的组织运作方式查看定价联系销售获取开发者简报产品更新、操作指南、社区精选内容等。每月发送到你的邮箱。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 21:00]
+标题: Show HN：Oak--专为代理设计的 Git 替代方案
+链接: https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b
+正文: /oak oak oak README.md 95行 · 3.9 KB Oak 这个仓库是 Oak 的开源核心：专为智能体速度设计的版本控制系统。它以 Cargo workspace 的形式开发，包含一个可复用的 VCS 库以及供智能体驱动的 oak 命令行客户端。 自带你的智能体（Claude Code、Codex、Cursor 等）；Oak 是它们读取、写入、分支和协作的基础。底层架构围绕智能体的实际工作方式设计——以每个会话一个分支作为工作单元，用分支描述替代每次提交的消息，以及内容寻址的懒加载挂载，让智能体在数秒内即可编辑任何仓库。由于采用内容寻址并按需加载，它在智能体工作负载上远比 git 快得多——但速度是设计的结果，而非卖点。 Crate路径crates.io它是什么 oakvcs-corecore/oakvcs-coreVCS 基础：BLAKE3 内容哈希、内容分块、差异/合并、Blob/Manifest/Commit/Tree 数据模型，以及可选的客户端本地仓库（SQLite + git 后端）。 oakvcs-clicli/oakvcs-cli基于 oakvcs-core 构建的 oak 二进制程序。 在自己的项目中使用该库 oakvcs-core 可以独立使用——例如，将 Oak 集成到另一个工具或引擎中。只需关闭默认特性，引入内容寻址数据模型和哈希（无需 SQLite/git）： [dependencies] oakvcs-core = { version = "0.99.0", default-features = false } 该 crate 以 oakvcs-core 发布，但以 oak_core 导入。 当你还需要磁盘上 Repository（SQLite + 只读 git）后端时，请添加默认的 local-repo 特性。 安装 CLI Oak 正处于公开测试阶段（v0.99.0）。最快的使用方式是预编译的 oak 二进制程序： curl -fsSL oak.space/install | sh 安装程序支持 macOS（Apple Silicon）和 Linux（x86_64）。安装后，运行 oak upgrade 可原地更新二进制程序。 Windows (x86_64) curl … | sh 安装程序仅适用于 Unix。在 Windows 上，请从最新的 GitHub 发布版中获取预编译的 oak-windows-x86_64.exe（将其重命名为 oak.exe 并放入 PATH），或通过 cargo install oakvcs-cli 从 crates.io 构建。之后 oak upgrade 可原地更新。 oak mount 在 Windows 上使用 Projected File System（ProjFS），这是一个可选的 Windows 功能。请在提升权限的 PowerShell 中，每台机器启用一次： Enable-WindowsOptionalFeature -Online -FeatureName Client-ProjFS -NoRestart 或者（设置 → 应用 → 可选功能 → "Windows Projected File System"）。其他一切操作——clone、push、pull、commit——无需它即可正常工作。 更倾向于从 crates.io 构建？改用 Cargo 安装（适用于 macOS、Linux 和 Windows——TLS 栈使用 rustls + ring，因此无需 C/NASM 构建工具链）： cargo install oakvcs-cli # builds and installs the `oak` binary 从源代码构建 cargo build --workspace # builds oak-core + the oak binary cargo test -p oakvcs-cli # CLI tests (incl. wiremock HTTP tests) make build # release build + the CLI release tooling make release-proof # non-mutating launch/release readiness proof CLI 通过工作区内的本地路径依赖 oak-core，因此直接执行 `cargo build` 即可基于本地的 `core/` 检出进行构建，无需额外设置。关于发布验证和 crates.io 发布顺序检查，请参阅 `docs/release-readiness.md`。 许可证 Apache-2.0。详见 LICENSE。 
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 18:49]
+标题: Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具
+链接: https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn
+正文: In Brief 发布时间： 2026年6月22日 · 太平洋夏令时上午11:49 图片来源：Dia Dipasupil / Staff / Getty Images Dominic-Madori Davis Google DeepMind 与 A24 达成合作，押注 7500 万美元于 AI 在好莱坞的未来 一家好莱坞制片厂与一家科技巨头之间形成了一种新的联盟。 本周一，Google DeepMind 宣布向热门独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》报道）。A24 以《至尊·马蒂》、《瞬息全宇宙》以及最新大片《后室》等热门影片而闻名。Google DeepMind 将此投资定位为一种合作伙伴关系，称其是“首开先河”的举措，双方将共同为电影制作打造 AI 工具，而 Google DeepMind 将获得“顶尖艺术家的反馈和指导”。A24 近期在多个项目中与蒂莫西·柴勒梅德和安妮·海瑟薇等大牌明星有过合作。 “我们相信，开发能够赋能艺术家的工具的最佳方式就是与他们直接合作，”Google DeepMind 联合创始人兼首席执行官戴密斯·哈萨比斯在一份新闻稿中表示。“通过与 A24 等电影制作人和行业领袖从一开始就进行协作，我们可以打造新的 AI 功能，以支持艺术家进行真实、有意义的叙事，从而助力实现他们的创作愿景。” 尽管围绕 AI 在电影中的使用在好莱坞引发了争议，但 A24 远非首个探索将 AI 融入创作过程的制片厂。Netflix 在今年早些时候宣布收购本·阿弗莱克的公司 Interpositive，后者为电影制作人开发 AI 工具。与此同时，亚马逊旗下的米高梅影业去年成立了一个 AI 部门，专注于开发电视和电影制作工具。 相关 媒体与娱乐最新消息
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 17:08]
 标题: Google ADK 与 A2A 协议：跨语言多智能体团队构建实战
@@ -71,8 +86,16 @@
 正文: 在 Grok Build 中使用 `/goal` 实现长时间运行的自主任务执行。 * * 用一行设定目标 入门 今天我们推出 Grok Build 中的 `/goal`。这种新模式可实现长时间运行的自主执行，帮助你将更大的实现任务交给 AI 智能体处理。 现在即可在 Grok Build 中使用。通过单条命令安装 CLI 并用你的账户登录： `$ curl -fsSL https://x.ai/cli/install.sh | bash` 升级 介绍 /goal 大多数编码会话需要来回执行和验证。有了 `/goal`，AI 智能体会持续执行，直到任务完成并通过验证——无论是审查代码、检查网页还是执行脚本。 用一行设定目标 向 `/goal` 提供一个目标，Grok Build 就会接手执行： Copy bash 它会规划方案，将工作分解为进度检查清单，并开始执行。在运行过程中，你可以继续向 AI 智能体提供额外指令。 新模式提供了额外的命令，用于监控和引导长时间运行的任务： Copy bash 当目标完成时，面板会切换为**完成**状态，每个检查清单项都已勾选。 入门 用上述命令安装 Grok Build，然后调用 `/goal` 来提交你的第一个长时间运行任务。 一个旗下子公司[](https://spacex.com/) © 2026 xAI Corp. Built with Grok 产品 ChatBuildImagineVoiceGrokipedia 下载 grok.comiOSAndroidGrok on X 解决方案 企业客户支持法律安全用例 开发者 API 概览定价模型文档控制台状态 企业 联系销售常见问题BAADPPA 公司 关于Colossus招聘新闻联系 信任 安全隐私门户子处理器帮助中心 法律 条款企业条款隐私Cookie公平使用政策品牌 社交 @xai@grokDiscord Built with Grok
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 01:17]
-标题: After closing 1,000 restaurants, seafood chain sees clear sailing
+标题: Fast-food seafood chain closed over 900 stores, mounts comeback
 链接: https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:07]
+标题: Chubb CEO flags threat disrupting global oil supply
+链接: https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:16]
+标题: Ex-Trump advisor makes bold 5-point case for Bitcoin
+链接: https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 16:38]
 标题: Analyst Report: UWM Holdings Corp
@@ -150,10 +173,15 @@
 链接: https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world
 正文: CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 18:41]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-22 00:00]
+标题: State of the Consumer 2026: When tech acceleration and cost pressures collide
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer
+正文: The consumer is changing fast. Four trends—the tech-driven path to purchase, the health revolution, the experience economy, and the resourceful consumer—will redefine the sector. Will brands keep up?
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-22 21:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 18:41]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-22 21:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
