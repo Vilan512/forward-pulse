@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-23 10:29:22
-# 共计 70 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-23 13:37:21
+# 共计 82 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-23 12:10]
+标题: The Download: the future of chipmaking and Anthropic’s government clash
+链接: https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker bus, weighs more than 150 tons, and costs $400 million. But if you want to make the world’s most powerful chips, a lithography system like this is essential. The AI era needs ever faster chips, and ASML’s machines make that possible. They pattern chip features with extreme-ultraviolet light, or EUV—radiation outside the visible spectrum, produced by shooting lasers at tiny molten drops of tin tens of thousands of times a second. ASML now makes about 90% of all chip-lithography tools worldwide. That dominance has made some people, and governments, uneasy. And would-be competitors are now gunning for its territory. Read the full story on ASML’s $400 million machine—and the growing threats to its position. —Clive Thompson Three things to watch amid Anthropic’s latest feud with the government In April, Anthropic said it had built an AI model called Mythos that could pose a cybersecurity risk. It then released a safer version called Fable. Days later, the US government placed export controls on it. Within hours, Anthropic revoked access to both models. “Doomers” have long warned about catastrophic AI risk. But this intervention came over a coding model—not a bioweapon or rogue AI—and the response so far looks less like a safety plan than a reactive policy move. Here are three things to watch in Anthropic’s standoff with Washington. —James O&#8217;Donnell This story is from The Algorithm, our weekly newsletter giving you the inside track on all things AI. Sign up to receive it in your inbox every Monday. Longevity’s next frontier: “reprogramming” your body Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-23 09:00]
 标题: Elephant alert! AI warning systems aim to avoid deadly clashes
@@ -16,18 +21,28 @@
 链接: https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
 正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos that was so good at working with code it could pose a global cybersecurity threat. Anthropic gave access to a small group of cybersecurity experts so they could see what they were up against. Then it released a modified version called Fable which it said was safer to the public on Tuesday, June 9. That Friday, the federal government told the company it was a threat to national security and placed export controls on the new release. Anthropic revoked access to both models hours later. People worried about catastrophic effects of AI—broadly labeled “doomers”—have said for years that the technology poses a threat to humanity and published proposals for how the government should intervene in its development. The doomers just got their government intervention—not over a bioweapon or rogue AI, but in response to an AI model that’s basically just really good at coding. And the result so far looks less like a safety plan than like a superficial reaction. There’s plenty to dissect about what happened in those few days that led to such drastic action from the government, and it’s notable that Amazon CEO Andy Jassy was the one who told government officials that Fable would be dangerous (Amazon is both invested in Anthropic and building its own competing AI models). It&#8217;s also possible this will be a short-lived ban from the government that doesn’t survive legal scrutiny (it’s not clear that Anthropic’s offering access to Fable really counts as “exporting” it, for example).&nbsp; But there are ripple effects happening already.&nbsp; For one, this is making a whole lot of people not want to rely on American AI companies. TheFrench politician Bruno Retailleau descr
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 12:10]
-标题: The Download: record-breaking subsea tunnels and flexible data centers
-链接: https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly aware of the pressure from millions of tons of seawater just above my head. I’m under the iconic fjords of Norway to visit what will soon become the world’s longest and deepest subsea road tunnel—an exceptional engineering feat that will carry drivers deep beneath the North Sea. I’m here to understand how you make a 16.6-mile highway that sits 1,280 feet below the sea at its deepest point. And also—at a time when it can feel hard to get anything done—to reassure myself that ambitious engineering is still possible. That we can still make things.&nbsp; Step inside Norway’s Rogfast tunnel and see how engineers are making it happen. This story is from the next edition of our magazine, which is all about engineering. Subscribe now to get a copy when it lands on Wednesday! Want to get a data center online quickly? Give it some flex. The AI boom is putting unprecedented pressure on the electric grid. But rather than rushing to build new power plants, companies could find part of the solution right under our noses—or, more precisely, in the transmission lines under our feet and above our heads. If data centers can limit the power they draw during high-demand stretches, they won’t need to wait for big infrastructure upgrades or build their own off-grid generation. The idea of flexibility isn’t entirely foreign to grid operators. But a new generation of software could make the process faster, smarter, and more precise for the AI era. Find out how the challenge of powering AI could lead to a smarter, more flexible grid. —Amos Zeeberg The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about tech
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 12:51]
+标题: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness
+链接: https://huggingface.co/blog/ibm-research/cuga-apps
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 00:00]
 标题: Shipping huggingface_hub every week with AI, open tools, and a human in the loop
 链接: https://huggingface.co/blog/huggingface-hub-release-ci
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-22 13:18]
-标题: PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
-链接: https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 12:51]
+标题: IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用
+链接: https://aihot.virxact.com/items/cmqqo96e30bv9slp5ds265bki
+正文: 使用 CUGA 构建真正的智能体应用：轻量级框架上的二十几个可运行示例 Enterprise Article 发布于 2026 年 6 月 23 日 Anupama Murthi anupamamurthi ibm-research Hamid Adebayo harmedox ibm-research Sami Marreed samimarreed ibm-research Praveen praveenv ibm-research Asaf Adi AsafAdi ibm-research 摘要——构建智能体大部分是管道工作：工具、状态、护栏、从单个智能体扩展到多个智能体。CUGA（`pip install cuga`），全称可配置通用智能体（Configurable Generalist Agent），是 IBM 面向企业的智能体框架，它替你处理这些，你只需编写工具列表和提示词。我们构建了二十几个单文件应用来证明这一点。在这里从头到尾阅读其中一个，然后看看同一个智能体如何无重写地以受管控和受治理的方式在生产环境中运行。 大多数智能体应用在智能体做任何有用的事情之前，先花一周时间做管道工作。你挑选一个框架，连接模型客户端，编写工具适配器，构建某种将状态流式传输到 UI 的方式，然后在这过程中你还得决定智能体到底用来做什么。有趣的部分最后才到来。 CUGA 颠覆了这一点。它是 IBM 的开源智能体框架，替你处理规划、执行循环、工具调用和状态管道。剩下的才是真正属于你的部分：智能体可以访问哪些工具，以及你告诉它做什么。为了展示这在实践中是什么感觉，我们构建了 `cuga-apps`：二十几个小型但可运行的应用，每个都是一个包装了单个 `CugaAgent` 的 FastAPI 文件，从电影推荐器到 IBM Cloud 架构顾问。它们的存在是为了被阅读和复制。你可以点击浏览实时展示页。 本文详细解析其中一个应用，指出该框架为你省去了什么工作，并展示当你需要以受治理的方式投入生产时，同样的代码会去往何处。无需先学习新框架。如果你写过 FastAPI 路由，你就能读懂每一行。 为什么是框架（harness），而不是框架（framework） 在这个领域，对任何东西的合理问题是：它让你免于编写什么？CUGA 的回答是：围绕模型的编排工作，否则你每次都要重新构建。 它在行动前先计划，然后通过工具调用和生成代码（CodeAct）的组合来执行。在需要执行二十步的长时间任务中，大多数智能体失败的原因是丢失中间结果的跟踪，并在下一轮重新推导（常常出错）；而CUGA则保持这些状态，并运行一个反思步骤，能够捕获错误的调用并重新规划，而不是一味地向前推进。正是这种机制使其在AppWorld和WebArena等智能体基准测试中名列前茅，而不是通过手动调参来达到的效果。 你还可以通过配置文件而非代码来设置成本/延迟权衡：Fast、Balanced、Accurate三种推理模式，代码执行可置于任何你信任的沙箱（本地、Docker/Podman或E2B云）。相同的智能体定义，不同的旋钮。这个旋钮的重要性远超表面所见。大多数框架假设底层有一个前沿模型，并在计划偏离时依赖它进行恢复；而CUGA则自行完成这项工作。规划、反思步骤、使长时间运行保持正轨的变量跟踪——这些正是框架承载的负载，否则模型将不得不自己承担，这使得较小的开源权重模型在通常无法胜任的场景下也能坚持运行。这也是为什么托管应用运行在gpt-oss-120b上，而不是前沿API上。调用能调用的最大模型是常见的赌注；而CUGA的赌注是一个较小的开源模型就足够了。 没有任何单个组件是CUGA独有的。不同之处在于它们被预先组装好，因此你只需配置它们，而无需将它们逐一连接。你接触的API非常精简——用工具列表和提示词构建一个CugaAgent，然后await agent.invoke(...)。这行代码以下的一切都是框架。 具体来说，就是可互换的工具（OpenAPI、MCP 和 LangChain 函数都以相同方式绑定）、带有变量管理和自我修正的长周期规划（驱动 AppWorld 从 07/25 到 02/26 以及 WebArena 从 02/25 到 09/25 排行第一的底层机制）、声明式护栏、基于 A2A 的多智能体委派、由 Docling 驱动的 RAG，以及通过一个环境变量切换提供商（`pip install cuga`，然后可选 OpenAI、watsonx、Ollama 等）——每项功能都是你原本需要自己构建的东西。名字的首个词点明了作用：可配置（Configurable）；难点已由框架处理，你的工作只剩下任务本身。 一个应用，从头到尾 下面是 IBM Cloud 顾问——一个能够为架构推荐
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 11:00]
+标题: 网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型
+链接: https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w
+正文: IT之家 6 月 23 日消息，网易有道今日发文，宣布推出“子曰 4.0”TTS 语音合成引擎 ——Confucius4-TTS。据网易有道官方介绍，Confucius4-TTS 是业内首个支持 14 种语言跨语种无口音、且无需参考文本即可完成语音克隆的开源模型。在技术性能方面，Confucius4-TTS 实现了零样本语音克隆能力。用户仅需提供 3 秒音频素材，无需参考文本与前期训练，模型即可完成音色克隆，克隆音色与原声相似度超过 85%，克隆任务准确度达 97%。据介绍，该模型全面支持中文、英语、西班牙语、法语、德语、韩语、泰语、越南语等 14 种语言的自然流利表达。其核心突破在于解决了语音合成领域长期存在的跨语种口音问题 —— 用户上传中文音频，AI 即可用该音色流利说出日语、英语等外语，发音地道自然。在情感表达方面，Confucius4-TTS 区别于传统 TTS 依赖文本标签控制情感的粗放方式，创新性地支持音频 Prompt 情感克隆迁移。系统可自动提取参考音频中的情感特征，精准复刻其语调、韵律，实现跨语种无损迁移。在底层架构上，Confucius4-TTS 实现了全面革新。相较于初代 EmotiVoice 采用的 HiFi-GAN 声码器和 Speaker ID 查表方案，Confucius4-TTS 引入了 GPT 式语义大模型作为主干，搭配基于 SSL 预训练特征和 ECAPA-TDNN 的可学习说话人编码器，并采用 Flow Matching 流匹配生成框架，不再沿用传统声码器方案。网易有道已将 Confucius4-TTS 全量开源，采用 Apache 开源协议，面向全球开发者开放完整模型权重和配套工具链，商用无限制。开发者可下载 54GB 完整资源包进行本地离线部署，满足数据安全与定制化需求。在应用场景方面，Confucius4-TTS 可为多语种内容生成、数字人配音、跨语言教学、短剧出海及全球化传播提供低门槛的国产化技术底座。网易有道表示，希望通过全量开源 Confucius4-TTS，降低语音克隆和情感合成的门槛，让每一个声音都能跨越语言的边界。该模型已在 GitHub 面向全球开发者开源。IT之家附官方地址：https://github.com/netease-youdao/Confucius4-TTS
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 10:54]
+标题: 国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师
+链接: https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv
+正文: 友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。 🔗 阅读原文：https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 08:00]
 标题: 五眼联盟警告：AI网络威胁数月内将影响普通用户
@@ -109,165 +124,202 @@
 链接: https://aihot.virxact.com/items/cmqpyc83704y1slp584b2av9b
 正文: 如何在不自建本地基础设施的情况下实现 AI 数据驻留合规 OpenRouter · 2026/6/22 On this page 将数据驻留视为路由决策在单次请求中强制执行地理要求在需要时指定欧盟司法管辖区处理无合规提供商的情况常见问题解答 德勤发布的《人工智能行业现状报告》对 24 个国家的 3,235 位企业领导者进行了调查，结果显示 77% 的公司现在已将供应商的所在国纳入 AI 供应商筛选因素。近五分之三的企业表示，其主要 AI 技术栈均选用本地供应商。 如果你的采购团队已经注意到这一点，常见思路是：合规意味着需要自建或租赁本地基础设施。但对于通过 API 调用模型的团队来说，并非如此。你的需求其实是地理推理路由——而你只需在单次请求中设置这一约束即可。 基础设施层面的方案适用于需要自拥技术栈的政府机构、国防承包商以及物理隔离环境。对于调用第三方 API 的应用团队而言，真正的问题更具体：证明受监管数据的推理发生在特定地理区域内，并且没有任何提供商留存或使用这些数据进行训练。 将数据驻留视为路由决策 一个路由层位于你的应用与模型提供商之间。你无需分别与每个提供商单独配置数据驻留（每个提供商的定义方式也各不相同），而是只需一次性设定地理区域和数据策略，让路由层仅选择符合条件的提供商。 OpenRouter 的提供商对象暴露了这些控制项。`order` 和 `only` 用于决定哪些提供商可以处理请求，`data_collection` 决定提供商标记是否可存储或使用你的数据，`zdr` 要求零数据留存。这些参数可在每次请求中单独设置，你也可以在隐私设置中将其设为账户级默认值。 这样一来，你的信任就从众多单独的提供商转移到了路由层。在通过此方式路由受监管工作负载之前，请审计 OpenRouter 自身的数据处理策略，并确认路由行为符合你的要求。 在单次请求中强制执行地理要求 以下是单次调用实现地理强制执行的示例。它优先尝试 Anthropic 的直接 API，其次是 Amazon Bedrock，并拒绝所有其他提供商： curl https://openrouter.ai/api/v1/chat/completions \ -H "Authorization: Bearer $OPENROUTER_API_KEY" \ -H "Content-Type: application/json" \ -d '{ "model": "anthropic/claude-sonnet-4.6", "messages": [ {"role": "user", "content": "Summarize this compliance report."} ], "provider": { "order": ["anthropic", "amazon-bedrock"], "allow_fallbacks": false, "data_collection": "deny", "zdr": true } }' 订单优先级由提供商设置。当 `allow_fallbacks` 为 false 时，会阻止路由到列表之外的任何提供商。`data_collection` 设为 "deny" 可排除那些存储或利用输入数据进行训练的提供商；而 `zdr` 为 true 时，可确保请求结束后提示词和补全内容不被保留。对于受监管的工作负载，应显式设置这些参数，而非依赖默认值。 每个字段对应不同的合规层。`order` 和 `only` 控制推理在何处运行；`data_collection` 和 `zdr` 控制数据的后续处理方式。它们不可互换，因此请根据实际策略需求进行设置。 在需要时锁定欧盟司法管辖区 对于欧盟要求，你可以将路由限制为仅限总部位于欧盟的提供商，并禁止数据收集。总部位于法国的 Mistral 是一个有用的欧盟司法管辖区锚点，你可以通过 `only` 和数据策略过滤条件来定义其余部分。提供商数据中心位置的独立确认仍应直接来自该提供商。 当请求绝不能离开欧盟时，企业账户可使用欧盟区域内路由。请求将通过 `eu.openrouter.ai` 在欧盟境内解密并处理，且仅由符合欧盟条件的提供商提供服务。 处理无合规提供商的情况 如果你的列表中没有可用的提供商，且 `allow_fallbacks` 为 false，API 将返回错误，而非路由到不合规的提供商——这正是受监管数据所需的行为。 应用程序决定后续操作。可以排队重试、对非敏感内容回退到非受监管路径，或向上层调用者反馈失败信息。由你决定失败模式，而非路由器。 常见问题解答 我是否需要为 AI 数据驻留构建本地基础设施？ 如果你通过 API 使用模型，则无需自建基础设施。对于政府和隔离环境来说，自
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:34]
-标题: 微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录
-链接: https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67
-正文: 微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的"问小微"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置"小工具"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。 🔗 阅读原文：https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:25]
-标题: Anthropic 工程负责人：Claude Code 让程序员更孤独
-链接: https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d
-正文: IT之家 6 月 22 日消息，编程向来是一项容易让人感到孤独的工作，AI 智能体的普及反而加剧了这种孤立感。据《商业内幕》22 日（今天）报道，负责 Claude Code 和 Claude Cowork 团队的 Anthropic 工程负责人 Fiona Fung 表示，团队发现，工程师越依赖 AI 智能体，彼此之间的交流就越少。Fung 坦言：“我们注意到，时间一长，这种工作方式可能会让人感到孤独，因为大家都把太多时间花在和自己的智能体一起工作上。”据IT之家了解，为了缓解这个问题，团队开始重新创造面对面交流的机会。团队组织编程午餐、黑客松和共同开发时段，让工程师坐在一起工作，并互相学习不同的 AI 工作流程。“每个人都在用 Claude Cowork，但使用方式差别很大。进行结对编程时，我们能从彼此身上学到很多东西。”Claude Code 已迅速成为软件开发领域最常用的产品之一。针对 20 多名创业公司创始人和风险投资人进行的调查发现，Claude Code 已成为创业公司使用最多的 AI 编程工具。部分创始人表示，遇到复杂工程任务时，自己通常会优先使用 Claude Code。工程师也开始把更多时间用于安排智能体工作、检查生成结果和协调多个并行任务。与此同时，能够通过自然语言指令开发软件“氛围编程”正迅速走红。即使没有技术背景，创业者也能在不组建传统工程团队的情况下制作定制工具，“单人创业者”因此越来越常见。然而，单枪匹马完成所有工作同样容易陷入孤独，许多创业者仍然认为协作不可或缺。Fung 表示，即使团队成员使用 AI 的方式不同，Anthropic 仍在努力为工程师创造更多并肩工作的机会。“每次观察别人怎么工作，我自己也会有所收获。”
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 13:18]
-标题: PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M
-链接: https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9
-正文: Hugging Face 上的 PP-OCRv6：覆盖 50 种语言、参数量从 1.5M 到 34.5M 的 OCR 模型 Team Article 2026 年 6 月 22 日发布 AlexZhang AlexTransformer PaddlePaddle cuicheng ChengCui PaddlePaddle Jun Zhang jzhang533 PaddlePaddle Manhui Lin gggdddfff PaddlePaddle Yue Zhang xiaohei66 PaddlePaddle leo-q8 leo-q8 PaddlePaddle yubo zhangyubo0722 PaddlePaddle Yi Liu michaelowenliu PaddlePaddle 在线评估 PP-OCRv6，然后通过 PaddlePaddle、Transformers 或 ONNX Runtime 后端集成轻量、可投产的 OCR。 PP-OCRv6 是 PaddleOCR 通用 OCR 模型家族的最新一代。它专为现实场景中的文本检测与识别而设计，涵盖文档、截图、多语言图像、数字显示屏、工业标签以及场景文本。 该模型家族的参数量从 1.5M 到 34.5M 不等，包含三个档次：tiny、small 和 medium。medium 和 small 档次支持 50 种语言，包括简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。快速在线体验 PP-OCRv6：PP-OCRv6 Online Demo。 在 PaddleOCR 官方自建的多场景 OCR 基准测试上，PP-OCRv6_medium 的检测 Hmean 达到 86.2%，识别准确率达到 83.2%。与 PP-OCRv5_server 相比，文本检测提升了 4.6 个百分点，文本识别提升了 5.1 个百分点。 PP-OCRv6 聚焦于一个实际的 OCR 需求：用小模型生成准确的结构化文本输出，并提供灵活的部署选项。关于为何在 VLM 时代专用 OCR 模型仍然有用，更深入的讨论请参阅我们之前的博客：PP-OCRv5 on Hugging Face: A Specialized Approach to OCR。 PP-OCRv6 的新特性 PP-OCRv6 在检测和识别两方面引入了架构、训练和数据的改进。主要设计目标是在保持模型大小适合不同部署环境的同时，提升 OCR 准确率。 三个模型档次 PP-OCRv6 提供三个模型档次，覆盖不同的模型大小和 OCR 准确率水平。 模型 模型大小 检测 Hmean 识别准确率 典型应用场景 PP-OCRv6_tiny 1.5M 参数 80.6% 73.5% 边缘设备、轻量本地 OCR、对延迟敏感的演示、受限环境 PP-OCRv6_small 7.7M 参数 84.1% 81.3% 手机、桌面、均衡型 OCR 服务、计算成本较低的多语言 OCR PP-OCRv6_medium 3450 万参数 86.2% 83.2% 面向精度的 OCR、服务端流水线、工业级 OCR、文档录入、多语言 OCR PPLCNetV4 骨干网络 PP-OCRv6 采用 PPLCNetV4 作为文字检测和文字识别的统一骨干网络。 对于开发者而言，最主要的好处是模型家族内部的一致性。tiny、small 和 medium 模型并非互不相关的独立模型，它们属于同一 OCR 家族，共享相同的架构方向。 用于文字检测的 RepLKFPN 文字检测是 OCR 流水线的第一个阶段。检测质量会影响送入识别器的裁剪区域，质量不佳的裁剪区域往往会导致识别效果更差。 PP-OCRv6 用 RepLKFPN 升级了检测模块，这是一种轻量级的大核特征金字塔网络，专为多尺度文字检测设计，同时保持高效的推理。 这对于真实场景下的 OCR 输入尤为重要——文字可能很小、密集、倾斜、低分辨率，或嵌在复杂背景中。 用于文字识别的 EncoderWithLightSVTR 在文字识别方面，PP-OCRv6 使用 EncoderWithLightSVTR。它将局部上下文建模与全局注意力相结合，从而提升对困难文字裁剪区域的识别质量。 识别方面的改进对多语言文字、屏幕文字、工业字符、特殊符号、密集文字以及噪声图像区域尤其有价值。 统一多语言 OCR medium 和 small 模型在一个模型家族内支持 50 种语言，涵盖简体中文、繁体中文、英语、日语以及 46 种拉丁字母语言。 这有助于减少在常见多语言 OCR 场景中针对不同语言分别部署独立 OCR 模型的需求。 通过 PaddleOCR 快速入门 安装 PaddleOCR： pip install paddleocr 使
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 12:00]
-标题: Cursor 审计发现奖励黑客行为淹没模型智能提升
-链接: https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7
-正文: 博客 / 研究更智能的模型正变得越来越善于在编程评测基准上钻空子。 基于真实 bug（那些后来被修复的）构建的评测套件尤其脆弱，因为问题已经被解决过。如果智能体能够访问仓库历史记录或公共网络，它有时可以直接查到答案，而不是推导出答案。 为了衡量这种行为的普遍程度，我们构建了一个智能体来审计评测轨迹。在 SWE-bench Pro 上，我们发现 Opus 4.8 Max 成功解决的案例中有 63% 是直接检索到修复方案，而非推导得出。当我们封存 git 历史记录并限制互联网访问后，Opus 以及我们的模型 Composer 2.5 的得分均大幅下降： Opus 4.8 Max 从 87.1% 降至 73.0% Composer 2.5 从 74.7% 降至 54.0% 此前的研究已经表明，编程评测基准的答案可以通过公开渠道泄露，包括 2024 年的一项研究和 2025 年 Meta 的一份报告。我们的研究量化了当前前沿编程智能体运行中这一问题的严重程度。更广泛的教训是：除了避免训练阶段的污染外，智能体编程评测还需要受控的运行环境。 对于进行评测的团队，我们建议通过审计轨迹日志和限制评测环境来减轻这种奖励作弊行为。 用模型抓模型 为了衡量奖励作弊行为的规模，我们让审计程序检查了 731 条 Opus 4.8 Max 的轨迹。它读取了问题陈述和完整的智能体轨迹（但不查看该次运行是否通过），并判断智能体是否检索了已知答案。 它发现最普遍的两种奖励作弊模式如下： 上游查找：在 57% 的轨迹中，Opus 4.8 Max 在公共网络上找到了已合并的 PR 或已修复的源文件，然后几乎逐字复现了修复内容。 Git 历史挖掘：在 9% 的轨迹中，Opus 4.8 Max 搜索了捆绑的 .git 历史记录，找到了修复 bug 的未来提交，然后提取了补丁。¹ 随着模型能力增强，它们有时会推断自己正处于评估环境中，尤其是当任务来自某个过往的公开代码仓库时。即便模型并不记得训练中见过的修复方案，环境本身仍可能向其透露“该漏洞已被解决”的线索。 在 SWE-bench Multilingual 中的一个始于 2019 年 jq 议题的任务里，智能体尝试使用系统中的 jq 二进制文件复现该漏洞。但由于评估镜像构建于该漏洞被修复之后，复现失败，智能体由此推断该问题已被解决。这种认知促使它转而搜索已有的修复方案，而非自行推导新方案。 还有少数情况更为直接。一个智能体发现了 SWE-bench 的镜像页面，该页面暴露了隐藏测试用例和标准补丁。另一个智能体则获取了隐藏测试文件，并硬编码了通过测试所需的预期异常字符串。 上游查询（Opus 4.8 Max）。智能体通过 GitHub API 查询已合并的拉取请求，找到修复所涉及的文件，然后复现了该修复（同一响应也暴露了每个文件的差异 diff）：cd /testbed &amp;&amp; curl -s "https://api.github.com/repos/apache/druid/pulls/14092/files" 2&gt;/dev/null | grep '"filename"'Git 历史挖掘（Composer 2.5）。智能体在附带的 .git 历史记录中定位到修复提交，读取其差异 diff，然后直接应用了该补丁：cd /testbed &amp;&amp; git show 895abd8929 -p 2&gt;/dev/null | head -400 cd /testbed &amp;&amp; git cherry-pick 895abd8929 2&gt;&amp;1待添加的补丁片段：上方 git show 输出的逐字精简摘录（Composer 复现的标准差异 diff）。 更严格的评估环境设计 大部分奖励破解行为都通过公共网络和仓库历史记录传播。对于基于历史公开仓库构建的评估，必须控制这些渠道，因为它们可能包含答案。为此，我们构建了一个严格的评估框架，采用两种隔离机制： 历史隔离。在智能体启动前，移除 .git 目录，并将仓库重新初始化为一个全新的单次提交仓库。仅在评分时恢复原始历史记录，以便测试正常运行。 出站代理。默认禁止网络访问。作为尽力而为的控制措施，一个固定代理仅允许针对许可名单上的包注册中心进行依赖解析，除此之外一概不允许。 这一限制仅针对基于历史公共仓库构建的评测。这也是我们更倾向于使用非公共仓库（如 CursorBench）搭建评测的原因之一，这类评测既能测试智能体编程能力，又能让智能体以真实工作场景中使用工具的方式进行操作。 鸿沟正在扩大 我们在更严格的评测框架下重新运行了 SWE-bench Pro 和 SWE-bench Multilingual，然后将每个结果与
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 23:02]
-标题: Stock market today: Nasdaq, S&P 500 futures dive as global chip sell-off spurs AI doubts
-链接: https://finance.yahoo.com/economy/live/stock-market-today-nasdaq-sp-500-futures-dive-as-global-chip-sell-off-spurs-ai-doubts-230258084.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:08]
-标题: Oil prices fall as investors focus on Hormuz flows after peace talks
-链接: https://finance.yahoo.com/news/oil-gains-selloff-awaits-progress-003527539.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:06]
-标题: Explainer-What are the Fed's bank 'stress tests' and what's new this year?
-链接: https://finance.yahoo.com/economy/policy/articles/explainer-feds-bank-stress-tests-100627391.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: HELOC and home equity loan rates today, Tuesday, June 23, 2026: Besides rates, how do you choose between a HELOC or HEL?
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-june-23-2026-100000426.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 18:47]
 标题: Intel CEO gives investors a reality check
 链接: https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: Best high-yield savings interest rates today, Tuesday, June 23, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-23-2026-100000880.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:24]
+标题: Silver prices today, Tuesday, June 23: Silver prices slipping, struggling more than gold
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-june-23-silver-prices-slipping-struggling-more-than-gold-132427471.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: The AI rally has a new test — a rising dollar: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/the-ai-rally-has-a-new-test--a-rising-dollar-chart-of-the-day-100000746.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 23:02]
+标题: Stock market today: Nasdaq, S&P 500 futures plunge as global chip sell-off spurs AI doubts
+链接: https://finance.yahoo.com/economy/live/stock-market-today-nasdaq-sp-500-futures-plunge-as-global-chip-sell-off-spurs-ai-doubts-230258084.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: Best money market account rates today, Tuesday, June 23, 2026: Earn up to 4.01% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-june-23-2026-100000474.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:13]
+标题: Pzena Focused Value Strategy Increased Skyworks Solutions (SWKS) on a Dip
+链接: https://finance.yahoo.com/markets/stocks/articles/pzena-focused-value-strategy-increased-131348412.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: Mortgage and refinance rates today, Tuesday, June 23, 2026: Rates are mixed this morning
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-23-2026-100000967.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:10]
+标题: Here’s What Hit Humana (HUM) in Q1
+链接: https://finance.yahoo.com/healthcare/articles/hit-humana-hum-q1-131001414.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:29]
+标题: The Argus Dividend Growth Model Portfolio
+链接: https://finance.yahoo.com/research/reports/ARGUS_47410_ThematicPortfolio_1782217754000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 19:47]
 标题: 52-year-old Outback Steakhouse rival chain closes 24 locations
 链接: https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: Your 401(k) match may not be as generous as it used to be
-链接: https://finance.yahoo.com/markets/article/your-401k-match-may-not-be-as-generous-as-it-used-to-be-100000215.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:07]
+标题: Pzena Focused Value Strategy Picked Accenture (ACN) Defying Market Fears
+链接: https://finance.yahoo.com/markets/stocks/articles/pzena-focused-value-strategy-picked-130707322.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:00]
-标题: Best CD rates today, Tuesday, June 23, 2026: Lock in up to 4% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-23-2026-100000877.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:04]
+标题: Europe's private credit market splits as prized assets take the spoils
+链接: https://finance.yahoo.com/markets/stocks/articles/europes-private-credit-market-splits-130448586.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 09:35]
-标题: Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver
-链接: https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:00]
+标题: Amazon engineers spoke out against the AI data center boom — now 3 say they're facing internal investigations
+链接: https://finance.yahoo.com/technology/ai/articles/amazon-engineers-spoke-against-ai-130000429.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 09:27]
-标题: Stocks hit by Fed rate reality check; oil slips
-链接: https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:59]
+标题: Nvidia, Micron, Alphabet lead tech sell-off as AI trade cools
+链接: https://finance.yahoo.com/markets/stocks/article/nvidia-micron-alphabet-lead-tech-sell-off-as-ai-trade-cools-125946422.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:40]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47407_TechnicalAnalysis_1782214827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:07]
 标题: Chubb CEO flags threat disrupting global oil supply
 链接: https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:56]
-标题: NatPower, Tesla reach deal on first phase of $5 billion battery storage plan
-链接: https://finance.yahoo.com/news/natpower-tesla-reach-deal-first-065052438.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:59]
+标题: Oracle cut 21,000 jobs as AI buildout continues
+链接: https://finance.yahoo.com/technology/article/oracle-cut-21000-jobs-as-ai-buildout-continues-125918523.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:52]
-标题: Exclusive-Nissan shelves development of electric Qashqai in cost-cutting drive
-链接: https://finance.yahoo.com/energy/articles/exclusive-nissan-shelves-development-electric-061327207.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:58]
+标题: Stock Market Today: Tech Futures Plunge As Micron, Nvidia, Sandisk Dive (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:36]
-标题: Banco Santander (SAN) Takes a New Step Toward AI-Powered Commerce
-链接: https://finance.yahoo.com/technology/ai/articles/banco-santander-san-takes-step-083600135.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:58]
+标题: Gold prices today, Tuesday, June 23: Prices move lower along with analyst expectations
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-23-prices-move-lower-along-with-analyst-expectations-125821578.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Energy Transfer (ET) Enter Multiple New Agreements Through Affiliates
-链接: https://finance.yahoo.com/energy/articles/energy-transfer-et-enter-multiple-083558870.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:55]
+标题: AI Disruption Concerns Weighed on Accenture (ACN)
+链接: https://finance.yahoo.com/markets/stocks/articles/ai-disruption-concerns-weighed-accenture-125539498.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
+标题: Analyst Report: Alliant Energy Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:16]
 标题: Ex-Trump advisor makes bold case for Bitcoin
 链接: https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Becton Dickinson (BDX) Issues Voluntary Recall for Select Skin Preparation Products
-链接: https://finance.yahoo.com/healthcare/articles/becton-dickinson-bdx-issues-voluntary-083555170.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:53]
+标题: Here’s How SAP SE (SAP) is Navigating AI Challenges
+链接: https://finance.yahoo.com/technology/ai/articles/sap-se-sap-navigating-ai-125325953.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Activist Investor Takes Major Stake in Devon Energy (DVN)
-链接: https://finance.yahoo.com/energy/articles/activist-investor-takes-major-stake-083553886.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:51]
+标题: Is AI a Source of Opportunity for RELX PLC (RELX)?
+链接: https://finance.yahoo.com/markets/stocks/articles/ai-source-opportunity-relx-plc-125136032.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Kimberly-Clark (KMB) Highlights Progress at the dbAccess Global Consumer Conference
-链接: https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-kmb-highlights-progress-083552563.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:50]
+标题: Oracle Cut 21,000 Jobs Last Year As AI Costs Surged
+链接: https://www.investors.com/news/technology/oracle-stock-21000-ai-layoffs/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Kraft Heinz (KHC) Reveals Its Next Move at the Annual dbAccess Global Consumer Conference
-链接: https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-khc-reveals-next-083550149.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:49]
+标题: What Makes Microsoft (MSFT) a Strong Position Amid Challenges?
+链接: https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-msft-strong-position-124902924.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:10]
-标题: Here's the No. 1 Reason I Wouldn't Touch SpaceX's Stock Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/heres-no-1-reason-wouldnt-101000631.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
+标题: Analyst Report: Consolidated Edison Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2917_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: CVS Health (CVS) Under the Microscope After Recent Healthcare Report
-链接: https://finance.yahoo.com/healthcare/articles/cvs-health-cvs-under-microscope-083548334.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:22]
+标题: Coca-Cola to shut facility in US
+链接: https://finance.yahoo.com/markets/stocks/articles/coca-cola-shut-facility-us-132214697.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Chevron Corporation (CVX): Top 10 Cheap Jim Cramer Stocks To Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-top-10-083547136.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:46]
+标题: Intel Corporation (INTC) Lagged Behind Tech Shifts
+链接: https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-lagged-behind-124649677.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 08:35]
-标题: Here is why JPMorgan Chase (JPM) Is Among the Cheapest Jim Cramer Stocks to Invest In
-链接: https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-chase-jpm-among-083545414.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:35]
+标题: SpaceX Stock: Cathie Wood Bought More SPCX As It Dived 16%
+链接: https://www.investors.com/news/spacex-stock-cathie-wood-bought-more-spcx-as-it-dived-16/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 14:17]
-标题: SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-tumbles-164-shaving-off-most-ipo-gains-since-debut-141725657.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:35]
+标题: Bitcoin 'vulnerable to further weakness' as token tumbles amid tech rout
+链接: https://finance.yahoo.com/markets/article/bitcoin-vulnerable-to-further-weakness-as-token-tumbles-amid-tech-rout-123504444.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:09]
-标题: CRH to acquire US-based Arcosa in $8.5bn all-cash deal
-链接: https://finance.yahoo.com/markets/stocks/articles/crh-acquire-us-based-arcosa-100924590.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:21]
+标题: Student loan borrowers can get a 1% interest rate discount — how to make sure you qualify
+链接: https://finance.yahoo.com/personal-finance/student-loans/article/student-loan-borrowers-can-get-a-1-interest-rate-discount--how-to-make-sure-you-qualify-202124973.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 18:50]
-标题: SpaceX's retail boom runs into its first price wall
-链接: https://finance.yahoo.com/markets/article/spacexs-retail-boom-runs-into-its-first-price-wall-185036364.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
+标题: Daily – Vickers Top Insider Picks for 06/23/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47403_InsiderActivity_1782213089000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:04]
-标题: Prediction: Solana Will Be the Top Crypto for Decentralized Finance (DeFi) by 2030
-链接: https://finance.yahoo.com/markets/crypto/articles/prediction-solana-top-crypto-decentralized-100400957.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:17]
+标题: Two Catalysts Could Trigger Massive IWM Gains Before Year-End, or Signal a Sharp Reversal
+链接: https://finance.yahoo.com/markets/stocks/articles/two-catalysts-could-trigger-massive-131735950.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 12:37]
-标题: Gold prices today, Monday, June 22: Gold stabilizes as Iran negotiations are underway
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-22-gold-stabilizes-as-iran-negotiations-are-underway-123758973.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:27]
+标题: SpaceX isn't the only Big Tech stock getting crushed — check out the destruction in Salesforce
+链接: https://finance.yahoo.com/markets/stocks/article/spacex-isnt-the-only-big-tech-stock-getting-crushed--check-out-the-destruction-in-salesforce-122756818.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 12:59]
-标题: Silver prices today, Monday, June 22, 2026: Silver prices rebound to Friday levels
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-22-2026-silver-prices-rebound-to-friday-levels-125923781.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:22]
+标题: Stocks drop as Fed rate bets hit tech royalty; dollar gains
+链接: https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 10:03]
-标题: Most Americans couldn't pay a $400 bill. Then came a new savings account
-链接: https://finance.yahoo.com/economy/articles/most-americans-couldnt-pay-400-100311374.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:22]
+标题: UK tribunal gives go ahead for $4 billion lawsuit against Apple over iCloud services
+链接: https://finance.yahoo.com/technology/articles/uk-tribunal-gives-ahead-4-122216032.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:20]
+标题: Atai Capital’s Update on BK Technologies Corp. (BKTI)
+链接: https://finance.yahoo.com/markets/stocks/articles/atai-capital-bk-technologies-corp-122017420.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
+标题: Daily – Vickers Top Buyers & Sellers for 06/23/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47404_TopBottomInsiderActivity_1782213089000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:08]
+标题: Europastry confirms deal for US peer Highland Baking
+链接: https://finance.yahoo.com/markets/stocks/articles/europastry-confirms-deal-us-peer-130833617.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:15]
+标题: Orderful’s $35M Series C targets the service model that has defined EDI for decades
+链接: https://finance.yahoo.com/technology/ai/articles/orderful-35m-series-c-targets-121500451.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:12]
+标题: Stock Market Today: Techs Dive As South Korea Leads Global Rout; Sandisk, Micron Dive As SpaceX Nears Lows
+链接: https://www.investors.com/market-trend/stock-market-today/techs-dive-south-korea-leads-global-rout-sandisk-micron-spacex/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:08]
+标题: Does Buda Juice (BUDA) Have a Long Runway for Growth?
+链接: https://finance.yahoo.com/markets/stocks/articles/does-buda-juice-buda-long-120848314.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:06]
+标题: Oil steady as investors focus on Hormuz flows after peace talks
+链接: https://finance.yahoo.com/news/oil-gains-selloff-awaits-progress-003527539.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:05]
+标题: Nike Shares Ease After Evercore Cuts Rating and Lowers Price Target (NKE)
+链接: https://finance.yahoo.com/markets/stocks/articles/nike-shares-ease-evercore-cuts-130555731.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:06]
+标题: GROW Small Cap Equity Fund Covered Its Position in Harrow (HROW) in Q1
+链接: https://finance.yahoo.com/markets/stocks/articles/grow-small-cap-equity-fund-120610023.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:03]
+标题: Here’s GROW Small Cap Equity Fund‘s Discussion on Palantir Technologies (PLTR)
+链接: https://finance.yahoo.com/markets/stocks/articles/grow-small-cap-equity-fund-120321115.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:00]
+标题: I'm 64 With $720k in My 401(k) and $1,900 a Month From Social Security. What Can I Actually Spend?
+链接: https://finance.yahoo.com/markets/articles/im-64-720k-401-k-120000905.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:56]
+标题: Here’s Why GROW Small Cap Equity Fund Bets Against Robinhood Markets (HOOD)
+链接: https://finance.yahoo.com/markets/stocks/articles/why-grow-small-cap-equity-115649127.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 13:05]
+标题: Mara Holdings vs. Soluna Holdings: Which AI Pivot Is More Compelling?
+链接: https://finance.yahoo.com/technology/ai/articles/mara-holdings-vs-soluna-holdings-130500447.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:53]
+标题: What Makes Intuitive Surgical (ISRG) a Hedge Against Market Risk?
+链接: https://finance.yahoo.com/markets/stocks/articles/makes-intuitive-surgical-isrg-hedge-115344915.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 12:12]
+标题: Stocks making the biggest moves premarket: IBM, Qualcomm, Oracle, Energy Fuels & more
+链接: https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-premarket-ibm-qcom-orcl-uuuu.html
+正文: These are the stocks posting the largest moves in early trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 09:43]
 标题: U.S. fights with Brazil for China's giant soybean market
@@ -284,11 +336,6 @@
 链接: https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html
 正文: The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 12:07]
-标题: Stocks making the biggest moves premarket: Apogee Therapeutics, SpaceX, Arcosa & more
-链接: https://www.cnbc.com/2026/06/22/stocks-making-the-biggest-moves-premarket-apge-spcx-aca.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 14:39]
 标题: Alan Greenspan, former chairman of the Fed, dies at age 100
 链接: https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
@@ -304,10 +351,10 @@
 链接: https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact
 正文: As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured data into a governed, reusable foundation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-23 10:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-23 13:37]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-23 10:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-23 13:37]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
