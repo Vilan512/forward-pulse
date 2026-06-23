@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-23 16:22:24
-# 共计 75 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-23 19:04:29
+# 共计 44 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-23 12:10]
 标题: The Download: the future of chipmaking and Anthropic’s government clash
@@ -16,11 +16,6 @@
 链接: https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/
 正文: Jos Benschop is climbing a ladder to get to the top of his newest machine.&nbsp; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a futuristic V8 engine. When I reach the top with Benschop we’re looking down from about 15 feet in the air, with bunny-suited technicians scurrying around below. It’s more than 200 cubic meters of tech—“mechatronic devices that hold a few mirrors in a position with atomic precision,” he says, gesturing at the gargantuan apparatus. Benschop, a tall and grizzled 66-year-old, has spent over a decade working with his engineers to design this thing, but even so, he’ll sometimes look at it and go: Oh my God. Benschop is the executive vice president of technology for ASML, a Dutch company that is the linchpin of the microchip industry. If you want to make powerful chips to power phones or AI, a lithography machine like the one we’re standing on is what you need to create increasingly tiny circuitry. Lithography is the art and science of shining light on a silicon wafer to pattern out the transistors, wiring, and other components of the microchips that will be cut from it. The chipmaking field is essentially controlled by only two big players: ASML, which creates the lithography machines, and TSMC, the chipmaking giant. Nine years ago, ASML began selling machines that use a daring new way of patterning chip features. These machines employ extreme-ultraviolet light, or EUV—radiation well outside the visible spectrum that they produce by shooting lasers at tiny molten drops of tin, tens of thousands of times a second. Those first machines—the result of an R&amp;D moonshot that lasted 16 years and cost about $10 billion—can craft transistor features with a resolution of 13 nanometers. This new machine can do even better: It has a resolution of just eight nanom
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-22 18:00]
-标题: Three things to watch amid Anthropic’s latest feud with the government
-链接: https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos that was so good at working with code it could pose a global cybersecurity threat. Anthropic gave access to a small group of cybersecurity experts so they could see what they were up against. Then it released a modified version called Fable which it said was safer to the public on Tuesday, June 9. That Friday, the federal government told the company it was a threat to national security and placed export controls on the new release. Anthropic revoked access to both models hours later. People worried about catastrophic effects of AI—broadly labeled “doomers”—have said for years that the technology poses a threat to humanity and published proposals for how the government should intervene in its development. The doomers just got their government intervention—not over a bioweapon or rogue AI, but in response to an AI model that’s basically just really good at coding. And the result so far looks less like a safety plan than like a superficial reaction. There’s plenty to dissect about what happened in those few days that led to such drastic action from the government, and it’s notable that Amazon CEO Andy Jassy was the one who told government officials that Fable would be dangerous (Amazon is both invested in Anthropic and building its own competing AI models). It&#8217;s also possible this will be a short-lived ban from the government that doesn’t survive legal scrutiny (it’s not clear that Anthropic’s offering access to Fable really counts as “exporting” it, for example).&nbsp; But there are ripple effects happening already.&nbsp; For one, this is making a whole lot of people not want to rely on American AI companies. TheFrench politician Bruno Retailleau descr
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 12:51]
 标题: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness
 链接: https://huggingface.co/blog/ibm-research/cuga-apps
@@ -28,6 +23,20 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 00:00]
 标题: Shipping huggingface_hub every week with AI, open tools, and a human in the loop
 链接: https://huggingface.co/blog/huggingface-hub-release-ci
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 00:00]
+标题: Experimenting with the proposed Cross-Origin Storage API in Transformers.js
+链接: https://huggingface.co/blog/cross-origin-storage
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 17:31]
+标题: Krea 2 技术报告正式发布
+链接: https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0
+正文: 我们的技术报告已经发布。 深入探讨了用于创建 Krea 2 的数据、架构和训练技术。 https://www.krea.ai/blog/krea-2-technical-report 今天，我们开放了 Krea 2 的模型权重。 欢迎 Krea 2 Raw 和 Krea 2 Turbo——前者是一个来自中期训练的非蒸馏模型，适合进行微调；后者是一个快速蒸馏版本，具有广泛的审美多样性。 详情请见下文 👇
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 17:09]
+标题: Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作
+链接: https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27
+正文: 产品推出 Claude Tag2026 年 6 月 23 日Claude Tag 是一种让团队与 Claude 协作的新方式。我们先从 Slack 开始，Claude 可以以团队成员身份加入其中。授权 Claude 访问特定频道，并将其连接到你选择的任何工具、数据——甚至是代码库。然后，频道中的任何人都可以 @Claude，并在专注于其他工作时把任务委派给它。Claude 通过记住所在频道中的相关信息来建立上下文，并能够规划未来完成的任务。我们将 Claude Tag 视为 Claude Code 演进的开端：它让模型变得更加主动，并且能够更好地与整个团队协作。在 Anthropic，@Claude 现在已成为我们完成工作的主要方式之一。目前，我们产品团队 65% 的代码是由我们内部的 Claude Tag 版本创建的。同样的模式现在已远远超出工程领域——我们使用 @Claude 来追踪产品指标和数据、处理支持工单，甚至帮助查找棘手 Bug 的根本原因。我们在 Slack 上推出 Claude Tag，因为它是团队与 AI 之间协作的自然场所，也是 Anthropic 大部分日常工作已在进行的地方。该功能目前以 Beta 版形式提供给 Claude Enterprise 和 Team 客户。我们的目标是将其扩展到更广泛的使用场景，让团队能够在他们工作的其他许多地方也能 @Claude。与 @Claude 协作如果你之前用过 Claude Code 或 Cowork，那么 Claude Tag 会让你倍感熟悉。用简单语言 @Claude 提出请求，它会将任务拆解为多个阶段，然后利用其可访问的工具依次完成。任务完成后，它会在 Slack 的对话线程中回复所创建的内容。但 @Claude 还带来了一些新优势：@Claude 支持多人协作。在给定的 Slack 频道中，只有一个 Claude 与所有人交互。这意味着任何人都能看到它正在做什么，并且可以接续上一个人留下的对话。这使得 @Claude 与单次聊天或单次任务中的工作方式截然不同——它更像与一位队友进行协作式互动。@Claude 会随着时间推移不断学习。当 Claude 跟随其所在频道时，它会积累更多关于工作的上下文。这意味着用户无需反复从头向它解释事情。而且，如果获得授权，Claude 还能自动从其他 Slack 频道和数据源中学习（它不会从私密频道获取信息）。这让它具备提供最佳工作成果所需的隐性知识。@Claude 会主动采取行动。如果启用了“环境感知”行为，Claude 会主动向你更新它认为你可能需要了解的任何信息。它会从它所在的各个频道以及它连接的工具中标记出相关情报，并跟进那些已经沉寂但尚未解决的讨论串或任务。@Claude 可以异步工作。交给 Claude 一个任务，你就可以专注于其他优先事项，而它在一旁工作。它还能为自己安排任务，自主地花数小时甚至数天推进项目。我们在 Anthropic 内部发现这一点特别有用：现在我们将更多时间用于并行地向多个 Claude 委派任务。你也可以向 Claude 发送私信：它将使用你已设置的个人工具和连接器，私下进行回复。快速上手我们设计 Claude Tag 时充分考虑到了团队和组织的需求：@Claude 对敏感数据和任务特定工具的访问权限可以得到非常严格的控制。要启动并运行，系统管理员需要指定模型应有权访问哪些工具和信息，以及在哪些频道中。可以把它看作是为不同用途创建独立的 Claude 身份：包括记忆在内的所有内容都将限定在管理员定义的频道范围内。例如，为销售工作设置的模型不会将其记忆传递给为工程工作设置的模型；也不会让工程师访问任何销售数据或工具。关于设置访问权限的更多信息，可在此处获取。权限设置完成后，每个人可以立即开始使用 @ 提及功能。管理员可以为 token 消耗设置限额（既适用于整个组织，也适用于单个频道），并且可以查看 @Claude 所做的一切操作日志，以及每个任务的请求者是谁。如果你是 Claude Enterprise 或 Team 客户，从今天起你可以试用 Claude Tag（测试版）。要开始使用，请访问此处并按照以下四个步骤操作：将 Claude Tag 绑定到你的 Slack 工作区授予 Claude 访问你的工具的权限为你的组织设置每月支出上限在私密频道中测试 Claude，确认其正常运行Claude Tag 将取代原先 Slack 中的 Claude 应用。如需迁移，管理员可在 30 天内选择启用。我们为符合条件的 Enterprise 和 Team 组织提供首次启动积分，以便整个公司都能试用。Claude Tag 与 Opus 4.8 配合使用。你可以查看我们的文档和产品页面。Anthrop
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 14:24]
 标题: Mistral OCR 4
@@ -75,14 +84,19 @@
 正文: 字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线，API通过火山方舟提供。 🔗 阅读原文：https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
+标题: 九位评委，两个有效投票：相关错误削弱LLM评审面板
+链接: https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu
+正文: 研究领域：数据科学与标注，研究领域：语音与自然语言处理内容类型：论文，发表于 2026 年 6 月九位评委，两张有效票：相关误差削弱大语言模型评估专家组作者：Guneet Kohli查看论文大语言模型作为评委的专家组汇总多个模型的投票，期望通过多样化的模型获得更可靠的评估结果。我们建立了一个框架来衡量此类专家组的真实信息价值，并量化其可靠性距离独立投票理想值有多远。我们在三个自然语言推理数据集（每个数据项有 100 个人工标注）上测试了一个由来自 7 个模型家族的 9 个前沿大语言模型组成的专家组，发现这 9 位评委实际上只提供了大约 2 票独立投票的信息量。专家组标称独立性的约四分之三因模型在同一数据项上犯相同错误而丧失。后果十分显著：专家组的实际准确率比独立投票所能达到的准确率低 8 到 22 个百分点，而最好的单一评委在所有条件下都匹配或超越了整个专家组的表现。增加更多评委或使用更聪明的聚合算法均无济于事——即使能拿到正确答案，现有方法最多也只能弥补这一差距的 11%。我们使用 Kish 有效样本量（n_eff）和孔多塞零模型量化了这些发现，并证明该缺陷在提示词变体、温度参数、链式推理以及一项成对偏好任务（RewardBench）中均稳健存在。瓶颈在于评委之间的相关性，而非聚合算法本身，这意味着扩大专家组规模无法替代真正独立的评估。相关阅读和更新。识别物品到物品推荐中的争议对2023 年 11 月 3 日，研究领域：方法与算法，会议：RecSys*同等贡献者 大型在线市场中的推荐系统对帮助用户发现新内容至关重要。然而，用于物品到物品推荐任务的最先进系统往往基于浅层的上下文相关性，这可能使得系统在处理物品关系更为微妙的场景时力不从心。上下文相关的物品对有时可能存在有问题的关系，这些关系会……Read more基于张量分解的协同过滤一致性方法2023年8月16日，研究领域：知识库与搜索，研究领域：方法与算法协同过滤是分析用户活动和构建物品推荐系统的事实标准。在这项工作中，我们开发了切片反对称分解（SAD），一种基于隐式反馈的新型协同过滤模型。与估算用户潜在表示（用户向量）和物品潜在表示（物品向量）的传统方法不同，SAD 为每个用户和物品引入了一个额外的潜在向量……Read more在机器学习领域发现机遇。我们的机器学习研究每天都在突破新领域。加入我们。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
+标题: 在 Transformers.js 中实验提议的跨源存储 API
+链接: https://aihot.virxact.com/items/cmqqz7cqg0ezbslp5zr85m87l
+正文: 实验性：在 Transformers.js 中使用提议的跨源存储 API 发布于 2026 年 6 月 23 日 Thomas Steiner tomayac google (This is a guest post by Developer Relations Engineer Thomas Steiner from the Chrome team at Google.) Transformers.js 为 Web 开发者提供了一种简单的方法，通过特定任务的流水线（pipeline）在其 Web 应用中使用 Transformer 架构的强大能力。为了在浏览器中运行推理，开发者创建 pipeline() 的实例并指定他们想要使用的任务。作为一个具体示例，以下代码片段展示了如何设置自动语音识别（ASR）流水线。 import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.2.0'; const asr = await pipeline( 'automatic-speech-recognition', 'Xenova/whisper-tiny.en', { device: 'webgpu' }, ); const result = await asr('jfk.wav'); console.log(result); 缓存挑战 你会注意到在源代码中，我指定了 Xenova/whisper-tiny.en 作为模型，这对于常见的英语自动语音识别任务来说是一个非常合适的选择。事实上，根据引用的片段，按照 Transformers.js 默认模型解析规则，它甚至是默认模型。 模型资源 当你在浏览器中运行这个示例时，Transformers.js 会自动下载并缓存相关的模型资源和 Wasm 文件。以下截图显示了访问该应用后的 Chrome DevTools 缓存存储部分。当你重新加载页面时，资源会从 Cache API 中提供，模型几乎立即返回结果。 然而，Xenova/whisper-tiny.en 是一个流行的模型（并且如前所述，甚至是 Transformers.js 中的 ASR 默认模型），你可以想象不止一个你访问的应用会使用它。为了模拟这种情况，这里提供了与之前相同的示例应用，但通过不同的源（origin）提供服务。当你访问这个不同源的应用时，浏览器无法几乎立即使用它，而是必须重新下载并缓存所有模型资源，即使这些资源与之前的逐字节完全相同。即使在这个玩具示例中，这也会导致 177 MB 的重复下载和存储，你可以在 Chrome DevTools Application 面板的 Storage 部分中查看。你可以想象这很快就会累积起来。 Wasm 运行时资源 但情况更糟。让我们给这个玩具示例添加第二条管道：情感分析。情感分析默认使用 Xenova/distilbert-base-uncased-finetuned-sst-2-english 模型。由于没有指定模型，Transformers.js 的默认模型解析机制会自动为你选择它。 const classifier = await pipeline('sentiment-analysis'); const sentiment = await classifier(result.text); pre.append('\n\n' + JSON.stringify(sentiment, null, 2)); 两个完全不同的 AI 模型，但它们都依赖同一个 4,733 kB 的 ort-wasm-simd-threaded.asyncify.wasm 文件——这是来自 Transformers.js 底层 ONNX Runtime 库的 WebAssembly（Wasm）运行时文件。在另一个源（origin）上打开扩展演示时，你会在“网络”标签页中注意到 Wasm 运行时也会被重新下载并再次缓存。 因此，即使你运行的应用不共享相同的 AI 模型，浏览器仍会对你已拥有的共享 Wasm 资源发出冗余请求，而且还会再次缓存它们，从而占用你硬盘上的空间。 缓存隔离 AI 模型资源分发 默认情况下，AI 模型资源来自 Hugging Face Hub，最终来自 Hugging Face CDN。浏览器会请求像 `https://huggingface.co/Xenova/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/config.json` 这样的资源，然后该请求会被重定向到最终的 CDN URL，例如本例中的 `ht
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
 标题: huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环
 链接: https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa
 正文: 每周以 AI、开源工具和人工审核为环节，发布一次 huggingface_hub 发布于 2026 年 6 月 23 日 Lucain Pouget Wauplin Célina Hanouti celinah huggingface_hub is the Python client at the base of the Hugging Face ecosystem. transformers, datasets, diffusers, sentence-transformers and dozens of other libraries depend on it to talk to the Hub. Every week we don't ship a new release is a week of fixes and features stuck on main. 过去很长一段时间，我们每 4 到 6 周发布一次。现在我们改为每周发布一次，全部通过一个 GitHub Actions 工作流完成。我们使用开源工具和开放权重的模型构建了这个工作流，并在唯一需要判断力的环节保留了人工审核。这篇文章中没有任何内容需要供应商合同、闭源模型，或你无法自行运行的基础设施。这从一开始就是设计目标，因为我们希望这个工作流能被其他维护者直接拿来并加以改造。 读完这篇文章后，你将掌握构建自己工作流所需的一切。 我们的起点 旧的流程部分自动化，大部分手动操作。 已经在持续集成（CI）中的部分： 标签推送后自动发布到 PyPI。 在下游库中打开测试分支，并固定发布候选版本（release candidate）。 每次仍需手动完成的操作： 创建发布分支，在 __init__.py 中更新版本号，提交、打标签、推送。 观察下游 CI 运行并分类排查失败原因。 逐一审阅上次发布以来合并的所有合并请求（PR），并手动编写发布说明：按主题分组，附上上下文，语气不像 git 日志转储。 在发布候选期结束后，推出稳定版发布。 起草内部的 Slack 公告和社交媒体帖子。 打开发布后的 PR，将主分支版本提升到下一个 dev0。 为新版撰写高质量的说明是最费力的部分，需要汇总数十个不同主题的 PR。技术上没什么难点，但需要几个小时的专注时间。再加上公告工作，一个小版本发布往往要分散在好几天内完成，总共花半天时间。 两种工作类型 所以我们决定简化整个流程。看那张清单，工作可以分为两类。 有些步骤纯粹是机械性的，可以自动化：更新版本号、提交、打标签、推送、打开下游测试分支、打开发布后的 PR。这些步骤不需要任何人思考，只需要每次都按正确的顺序发生，而这正是 CI 工作流擅长的事情。 剩下的部分则截然不同。撰写发布说明、决定突出哪些内容、构思面向人类读者的公告措辞——这些是脑力活。正是这类判断力让发布手册多年来一直沿用。这正是 AI 的用武之地，它能在几秒钟内把一张空白页变成扎实的初稿。但这也是我们必须小心的地方，因为一篇看起来信心十足却暗藏细微错误的初稿，比压根没有初稿更糟糕。 设计原则：开放组件，任何人都可复用 当我们决定修复这个问题时，我们事先设定了一个约束条件：每一个可动部件都必须能够被任何维护者自行运行。没有 API 背后我们无法替换的闭源模型，没有专有发布平台，没有秘制配方。 以下是完整的技术栈： 组件 功能 GitHub Actions 编排整个发布流程 OpenCode 驱动模型的智能体运行时 开放权重模型（目前使用 Z.ai 的 GLM-5.2） 草拟发布说明和 Slack 公告 HF Inference Providers 提供模型服务 PyPI Trusted Publishing 发布包 第二个原则：模型草拟，人类决策。语言模型擅长把三十条简洁的 PR 标题变成可读的发布说明，但它们不擅长被盲目信任。因此，工作流是人工监督的：模型完成第一轮处理，确定性脚本检查其输出，然后在任何内容发布之前由人工审核和编辑（下文有更多细节）。 流水线概览 整个工作流是一个文件 `.github/workflows/release.yml`，通过 Actions 界面手动触发。它只接受一个输入： on: workflow_dispatch: inputs: release_type: type: choice options: - minor-prerelease - minor-release - patch-release 从那里开始，任务大致按以下顺序运行： 准备。计算下一个版本，创建或复用发布分支，更新 `__version__`，提交，打标签，推送。 发布到 PyPI。构建并上传 `huggingface_hub`。同时，构建并上传 hf CLI 作为
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 23:18]
-标题: Aleph 2.0 现已集成到 Figma Weave
-链接: https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw
-正文: Aleph 2.0 现已登陆 Figma Weave 2026年6月22日 作者：Runway Runway 升级版旗舰视频编辑模型 Aleph 2.0 现已登陆 Figma Weave，让您直接在创意画布上实现帧级编辑控制。 Runway 升级版旗舰视频编辑模型 Aleph 2.0 现已登陆 Figma Weave，让您直接在创意画布上实现帧级编辑控制。 编辑一帧，更新整段视频。 Aleph 2.0 是一款上下文内视频编辑模型。它接收您已有的素材，并按需编辑其中的特定部分。 在 Figma Weave 中，这一过程通过关键帧实现。从视频中提取一帧，重新设计样式，再将其连同时间戳连接回 Aleph 2.0 节点。Aleph 2.0 会将这一编辑效果延续到该对象出现的每一帧，同时保持其余部分完全不变。 您可以使用最长 30 秒、1080p 的片段，并在多镜头序列中应用编辑，无需逐镜头操作。 在 Weave 中的工作方式 Aleph 2.0 节点位于 Weave 画布上，与您的图像生成、合成和编辑工具并排摆放。它是您构建和控制的流程中的一个步骤。将其拖入工作流，连接您已重新设计样式的帧并附上时间戳，它就能像其他节点一样融入更大的管线。 制作您需要的每一个版本 您已有的素材可以变成您需要的每一个版本。替换产品、更改背景或重新设计整个场景。在生成前以帧形式预览每次编辑，并在您做出修改的同一个工作流中调整画面风格。无需重拍，无需切换上下文。 Aleph 2.0 只改变您指定的部分，其余画面保持不变。 立即在 Figma Weave 中试用 Aleph 2.0 → 了解更多 新闻 Runway 与狮门影业达成合作 客户故事 “大卫王”如何借助 Runway 成为亚马逊最新热播剧 新闻 探索电影制作未来：Runway 与 2024 年翠贝卡电影节的节目合作 产品 探索案例 角色 GWM-1 通用世界模型 机器人 Gen-4.5 Aleph 2.0 Act-Two API 计划 AI 峰会 2026 ↗ 工作室 AI 电影节 ↗ Gen:48 学院 ↗ 资源 创意合作伙伴计划 Runway Builders 公司 我们的研究 出版物 职业 关于我们 客户故事 新闻 人才网络 ↗ 安全 开始使用 企业版 教育版 登录 定价 帮助中心 ↗ 数据安全 更新日志 连接 新闻 合作伙伴 品牌指南 社区活动 ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. / 使用条款 / 隐私政策 / 加州声明 / 您的隐私选择 行为准则 / 系统状态
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 21:32]
 标题: 美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认"最常见滥用"
@@ -94,200 +108,69 @@
 链接: https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b
 正文: /oak oak oak README.md 95行 · 3.9 KB Oak 这个仓库是 Oak 的开源核心：专为智能体速度设计的版本控制系统。它以 Cargo workspace 的形式开发，包含一个可复用的 VCS 库以及供智能体驱动的 oak 命令行客户端。 自带你的智能体（Claude Code、Codex、Cursor 等）；Oak 是它们读取、写入、分支和协作的基础。底层架构围绕智能体的实际工作方式设计——以每个会话一个分支作为工作单元，用分支描述替代每次提交的消息，以及内容寻址的懒加载挂载，让智能体在数秒内即可编辑任何仓库。由于采用内容寻址并按需加载，它在智能体工作负载上远比 git 快得多——但速度是设计的结果，而非卖点。 Crate路径crates.io它是什么 oakvcs-corecore/oakvcs-coreVCS 基础：BLAKE3 内容哈希、内容分块、差异/合并、Blob/Manifest/Commit/Tree 数据模型，以及可选的客户端本地仓库（SQLite + git 后端）。 oakvcs-clicli/oakvcs-cli基于 oakvcs-core 构建的 oak 二进制程序。 在自己的项目中使用该库 oakvcs-core 可以独立使用——例如，将 Oak 集成到另一个工具或引擎中。只需关闭默认特性，引入内容寻址数据模型和哈希（无需 SQLite/git）： [dependencies] oakvcs-core = { version = "0.99.0", default-features = false } 该 crate 以 oakvcs-core 发布，但以 oak_core 导入。 当你还需要磁盘上 Repository（SQLite + 只读 git）后端时，请添加默认的 local-repo 特性。 安装 CLI Oak 正处于公开测试阶段（v0.99.0）。最快的使用方式是预编译的 oak 二进制程序： curl -fsSL oak.space/install | sh 安装程序支持 macOS（Apple Silicon）和 Linux（x86_64）。安装后，运行 oak upgrade 可原地更新二进制程序。 Windows (x86_64) curl … | sh 安装程序仅适用于 Unix。在 Windows 上，请从最新的 GitHub 发布版中获取预编译的 oak-windows-x86_64.exe（将其重命名为 oak.exe 并放入 PATH），或通过 cargo install oakvcs-cli 从 crates.io 构建。之后 oak upgrade 可原地更新。 oak mount 在 Windows 上使用 Projected File System（ProjFS），这是一个可选的 Windows 功能。请在提升权限的 PowerShell 中，每台机器启用一次： Enable-WindowsOptionalFeature -Online -FeatureName Client-ProjFS -NoRestart 或者（设置 → 应用 → 可选功能 → "Windows Projected File System"）。其他一切操作——clone、push、pull、commit——无需它即可正常工作。 更倾向于从 crates.io 构建？改用 Cargo 安装（适用于 macOS、Linux 和 Windows——TLS 栈使用 rustls + ring，因此无需 C/NASM 构建工具链）： cargo install oakvcs-cli # builds and installs the `oak` binary 从源代码构建 cargo build --workspace # builds oak-core + the oak binary cargo test -p oakvcs-cli # CLI tests (incl. wiremock HTTP tests) make build # release build + the CLI release tooling make release-proof # non-mutating launch/release readiness proof CLI 通过工作区内的本地路径依赖 oak-core，因此直接执行 `cargo build` 即可基于本地的 `core/` 检出进行构建，无需额外设置。关于发布验证和 crates.io 发布顺序检查，请参阅 `docs/release-readiness.md`。 许可证 Apache-2.0。详见 LICENSE。 
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 19:00]
-标题: AI 治理清单：LLM 架构先行
-链接: https://aihot.virxact.com/items/cmqpyc83704y0slp54f6dv3w7
-正文: AI治理清单：你的大语言模型架构是首要考虑 OpenRouter · 2026年6月22日 On this page 治理差距变得具体之处你的路由架构是第一个治理层一份映射到你技术栈的治理清单托管网关能给你什么，以及不能给什么自托管与托管治理的对比后续步骤 德勤报告称，AI雄心与AI治理成熟度之间存在53个百分点的差距。74%的企业计划在两年内部署AI智能体，而只有21%的企业拥有成熟的模型来治理自主智能体。 对于工程团队而言，AI治理清单只有映射到架构时才变得有用，因为政策语言无法显示谁调用了哪个模型、哪个提供商处理了请求，或者审计跟踪存在于何处。 三种路由模式——托管网关、自托管网关和直接API——在映射到你的大语言模型技术栈实际能够满足的治理要求时表现不同。 治理差距变得具体之处 治理差距在AI智能体离开试点项目进入生产工作流时显现。对于工程主管而言，当模型调用触及客户上下文、通过外部提供商路由、并产生技术栈无法回答的审计问题时，这一差距变得具体。 德勤还发现，数据隐私和安全位列领导者对AI最关心的问题之中。这使得工程主管处于尴尬境地。你的团队可能已经在将模型调用路由到生产工作流，而治理仍然存在于电子表格、政策文件或会议议程中。 为什么53个百分点的差距很重要 这一差距之所以重要，是因为AI智能体不会停留在演示阶段。它会调用工具、触及客户上下文、触发下游工作流，并产生最终必须有人解释的开支。 你的技术栈必须能够回答：谁调用了哪个模型，哪个提供商处理了请求，花费了多少，以及审计跟踪存在于何处。 为什么治理清单不会产生审计日志 OWASP 为合规负责人提供了一个有用的起点。OWASP 大语言模型应用十大网络安全与治理清单的受众是“高管层、技术、网络安全、隐私、合规及法务领域负责人，以及 DevSecOps、MLSecOps 和网络安全团队与防御者”。当涉及风险评估、供应商管理、指导委员会以及政策归属时，这个范围是合理的。 检查治理领域会生成一份 PDF，而不是开支可见性、供应商归属或一个可审计的端点。这份 PDF 可以指导治理项目，但它无法显示内部工具是否在高风险用例中使用了经批准的模型，也无法生成你的团队在周一所需的审计追踪。 你的清单可能是正确的，但你的技术栈仍然无法证明发生了什么。 你的路由架构是第一层治理。 大语言模型治理的第一步，是通过一个能够记录使用情况、供应商、成本和访问决策的架构来路由模型流量。这正是 API 治理从政策口号变成工程实体的关键点。如果请求路径无法捕获证据，治理项目从一开始就存在盲区。 三种架构姿态 托管网关通过第三方路由层发送模型调用，以获取供应商访问、使用记录和路由控制。 自托管网关将该层置于你的基础设施内部，以更多的控制换取更多的运维责任。 直接 API 访问让每个服务直接连接模型供应商，将治理原语留给各个团队。 每种姿态默认提供的能力 以下是在你的团队添加自定义控制之前，每种路由姿态能够证明的实际基线。 姿态开支可见性供应商归属数据主权RBAC审计追踪托管网关（OpenRouter、Portkey）是。OpenRouter 活动仪表盘，按 API 密钥区分是。每次请求的供应商归属是。零数据保留路由控制按密钥和工作区控制；Portkey 提供完整 RBAC使用记录和供应商记录；Portkey 提供完整审计日志自托管网关（LiteLLM）是。通过虚拟密钥跟踪开支是。记录每条路由的供应商是。基础设施和日志仍由你掌控。是。LiteLLM 企业版。是。LiteLLM 企业版审计日志加 Prometheus。直接 API。否。否。无共享控制平面。否。否。 该表展示了哪些治理证据默认存在，以及你的团队仍需构建哪些。 为什么直接 API 访问会留下缺口 直接 API 访问不会提供任何治理原语。六个供应商密钥分散在十二个微服务中，你无法在一个地方检查支出、供应商归属、访问控制或审计历史。一旦使用范围超出单个团队，你的路由架构就成了报表与清理项目之间的分水岭。 下一步是把该架构基线转换为一份你的技术栈能够实际响应的治理清单。 一份映射到你的技术栈的治理清单 一份有用的治理清单区分了路由层能够证明的控制措施与组织仍需自行负责的控制措施。请将清单视为五大支柱： 资产清单：正在使用的 AI 系统、模型和供应商 问责制：每个系统、工具和审批路径的负责人 访问权限：哪些团队可以为高风险用例使用已批准的工具 证据：哪些日志支持审计追踪、数据驻留和支出查询 合规性：哪些控制措施需要政策审查、偏见评估、事件响应计划或欧盟 AI 法案文档 工程问题在于：你当前的技术栈中哪些部分无需仓促准备就能证明其有效性。 AI 资产清单与模型追踪 你的 AI 资产清单始于请求路径。如果每次模型调用都经过同一个端点，你就能看到哪些应用在使用
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 18:49]
-标题: Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具
-链接: https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn
-正文: In Brief 发布时间： 2026年6月22日 · 太平洋夏令时上午11:49 图片来源：Dia Dipasupil / Staff / Getty Images Dominic-Madori Davis Google DeepMind 与 A24 达成合作，押注 7500 万美元于 AI 在好莱坞的未来 一家好莱坞制片厂与一家科技巨头之间形成了一种新的联盟。 本周一，Google DeepMind 宣布向热门独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》报道）。A24 以《至尊·马蒂》、《瞬息全宇宙》以及最新大片《后室》等热门影片而闻名。Google DeepMind 将此投资定位为一种合作伙伴关系，称其是“首开先河”的举措，双方将共同为电影制作打造 AI 工具，而 Google DeepMind 将获得“顶尖艺术家的反馈和指导”。A24 近期在多个项目中与蒂莫西·柴勒梅德和安妮·海瑟薇等大牌明星有过合作。 “我们相信，开发能够赋能艺术家的工具的最佳方式就是与他们直接合作，”Google DeepMind 联合创始人兼首席执行官戴密斯·哈萨比斯在一份新闻稿中表示。“通过与 A24 等电影制作人和行业领袖从一开始就进行协作，我们可以打造新的 AI 功能，以支持艺术家进行真实、有意义的叙事，从而助力实现他们的创作愿景。” 尽管围绕 AI 在电影中的使用在好莱坞引发了争议，但 A24 远非首个探索将 AI 融入创作过程的制片厂。Netflix 在今年早些时候宣布收购本·阿弗莱克的公司 Interpositive，后者为电影制作人开发 AI 工具。与此同时，亚马逊旗下的米高梅影业去年成立了一个 AI 部门，专注于开发电视和电影制作工具。 相关 媒体与娱乐最新消息
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-22 17:08]
-标题: Google ADK 与 A2A 协议：跨语言多智能体团队构建实战
-链接: https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h
-正文: 使用 Google 智能体开发工具包和 A2A 协议构建跨语言多智能体团队 2026年6月22日 Shubham Saboo 高级 AI 产品经理 Eric Dong 开发者关系工程师 一个 Python 智能体和一个 Go 智能体如何通过 Agent2Agent 协议协作完成合同合规性检查你的合同合规性管线存在一个问题。数据科学团队用 Python 编写了一个出色的提取智能体。它使用 Gemini 解析法律合同，提取所有关键条款。安全工程团队用 Go 构建了一个极速合规性验证器，全部采用确定性逻辑，无需大语言模型。两者各自独立运行时都完美无缺。但现在你需要它们协同工作，作为一个统一的管线运行，而两个团队都不愿意用另一种语言重写自己的服务。这就是生产级 AI 系统的现实：不同的团队、不同的语言、不同的部署目标。问题不在于你是否会遇到这种情况，而在于你将如何解决它。在本文中，我们将构建一个合同合规性多智能体管线，其中由 Python 智能体使用 Gemini 提取合同条款，再由 Go 智能体根据公司政策对其进行验证。这两个服务通过 Agent2Agent 协议连接，并由 Google 智能体开发工具包进行编排。在此过程中，你将学到三种将生产级多智能体系统与单语言演示区分开来的架构模式：使用 A2A 协议实现的跨语言智能体协作，这样团队就能以最适合工作的语言构建智能体，而无需重写代码。ADK 的 RemoteA2aAgent 抽象，它能够通过几行代码将任何远程兼容 A2A 的服务转化为本地子智能体。多智能体管线编排，让职责专注的专业化智能体取代试图包揽一切的庞大提示词。完整源代码可在 GitHub 上获取。 当一个智能体不够用时大多数 AI 项目都是从同样的方式开始的：一个庞大的智能体、一个庞大的提示词、将所有工具塞进一个上下文窗口。这对于演示来说没问题，但在生产环境中会因三个关键原因而失败：上下文退化：当工具数量超过 10-15 个时，模型开始遗漏指令、调用错误的工具或幻觉参数。每增加一个工具，都会让模型在更广的表面积上稀释注意力。一个既处理合同提取、又处理翻译、摘要和邮件草拟的智能体，最终会搞不清何时该调用哪个工具。爆炸半径：一个次要功能中未处理的异常就会导致整个智能体的交互轮次崩溃。翻译 API 的速率限制不应该拖垮你的整个工作流。但在单体智能体中，每一次失败都是全面失败。不可测试：你无法干净地对一个包含 50 个纠缠职责的系统进行单元测试。当每一次提示词改动都可能影响所有下游行为时，评估回归就变成了猜测。解决方案与十年前改变后端工程的模式相同：将单体拆分为专门的微服务。每个智能体承担一项任务、一份聚焦的提示词和一套最小的工具集。 A2A 协议：智能体如何发现并相互通信智能体间（A2A）协议是一种开放标准，使任何语言或框架构建的智能体都能互操作。可以把它想象成智能体世界的 HTTP：一份共享契约，让任意两个智能体无论内部如何构建都能通信。A2A 解决了三个根本性问题：发现：智能体通过 Agent Cards（智能体卡片）宣传自身能力，该卡片是位于 `/.well-known/agent.json` 的 JSON 元数据。类似于 REST API 的 OpenAPI 规范，卡片声明了智能体的名称、URL、版本、技能以及支持的输入/输出格式。调用方智能体会先获取卡片，以了解远程智能体能够做什么。通信：所有数据交换均通过 JSON-RPC 2.0 进行，经由单一端点路由。智能体通信的核心方法是 `message/send`（我们的实现用它来提交合同数据并同步接收结果），以及任务提交和检索的其他协议方法，如 `tasks/send` 和 `tasks/get`。数据在类型化的 Message Parts（消息部件）中传输：TextPart 用于自然语言，DataPart 用于结构化 JSON。任务生命周期：每一次交互都封装在一个任务（Task）中，该任务会经历定义好的状态：已提交、执行中、已完成或失败。这种状态机意味着智能体可以用同一套协议处理同步工作流（立即审查这份合同）和异步工作流（在48小时内验证这份文档）。这种方案的精妙之处在于，两个智能体完全无需了解对方的实现细节。Python 智能体无需导入 Go 包，Go 智能体也无需运行 Python 代码。它们只需通过 HTTP 共享同一套协议进行通信。 智能体卡片（Agent Card）的实际样子以下是 Go 合规服务在 `/.well-known/agent.json` 暴露的 Agent Card： // go-compliance-agent/internal/agentcard/card.go func GetCard() AgentCard { agentURL := 
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 18:47]
-标题: Intel CEO gives investors a reality check
-链接: https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:52]
-标题: US Supreme Court boosts Exxon's bid to get compensation from Cuba
-链接: https://finance.yahoo.com/energy/articles/us-supreme-court-boosts-exxons-141556047.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:50]
-标题: US Supreme Court ends suit alleging Cisco helped China pursue Falun Gong
-链接: https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:29]
-标题: The Argus Dividend Growth Model Portfolio
-链接: https://finance.yahoo.com/research/reports/ARGUS_47410_ThematicPortfolio_1782217754000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 19:47]
 标题: 52-year-old Outback Steakhouse rival chain closes 24 locations
 链接: https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:50]
-标题: Tim Cook issues chilling warning as ‘hundred-year-flood’ strikes US tech giants like Apple, Dell, HP. Get protection now
-链接: https://finance.yahoo.com/technology/articles/tim-cook-issues-chilling-warning-155000396.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:48]
-标题: Stock Market Today: Nasdaq Falls As Micron Sinks Ahead Of Earnings; Trump Helps Quantum Stocks (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: Why PAR Technology Corporation (PAR) Is Back on JPMorgan’s Radar
-链接: https://finance.yahoo.com/markets/stocks/articles/why-par-technology-corporation-par-153655966.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: DA Davidson Takes a Wait-and-See Approach on Columbus McKinnon Corporation (CMCO)
-链接: https://finance.yahoo.com/markets/stocks/articles/da-davidson-takes-wait-see-153654295.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:40]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47407_TechnicalAnalysis_1782214827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:56]
+标题: Analyst Report: Campbell's Company/The
+链接: https://finance.yahoo.com/research/reports/ARGUS_2862_AnalystReport_1782237365000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:07]
 标题: Chubb CEO flags threat disrupting global oil supply
 链接: https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: BMO Lowers Expectations After Dave & Buster’s Entertainment, Inc. (PLAY)’s EBITDA Miss
-链接: https://finance.yahoo.com/markets/stocks/articles/bmo-lowers-expectations-dave-buster-153657437.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: TD Cowen Calls Netskope, Inc. (NTSK)’s Valuation “Compelling” at Current Levels
-链接: https://finance.yahoo.com/markets/stocks/articles/td-cowen-calls-netskope-inc-153658668.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: A Tougher Rate Environment Weighs on UWM Holdings Corporation (UWMC) Outlook
-链接: https://finance.yahoo.com/markets/stocks/articles/tougher-rate-environment-weighs-uwm-153652388.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: Strong Results, Lower Target: What’s Happening at PowerFleet, Inc. (AIOT)
-链接: https://finance.yahoo.com/markets/stocks/articles/strong-results-lower-target-happening-153650780.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
-标题: Analyst Report: Alliant Energy Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:56]
+标题: Analyst Report: Smurfit WestRock plc
+链接: https://finance.yahoo.com/research/reports/ARGUS_6347_AnalystReport_1782237365000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 20:16]
 标题: Ex-Trump advisor makes bold case for Bitcoin
 链接: https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: Here’s Why Black Rock Coffee Bar, Inc. (BRCB) Is Among the Best Low Priced Stocks to Get Rich
-链接: https://finance.yahoo.com/markets/stocks/articles/why-black-rock-coffee-bar-153649731.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:41]
+标题: Market Update: CPB, ROK, SW
+链接: https://finance.yahoo.com/research/reports/ARGUS_47412_MarketUpdate_1782236465000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: What’s Fueling Optimism Around Ardelyx, Inc. (ARDX)’s Sales and Pipeline?
-链接: https://finance.yahoo.com/markets/stocks/articles/fueling-optimism-around-ardelyx-inc-153647344.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:29]
+标题: The Argus Dividend Growth Model Portfolio
+链接: https://finance.yahoo.com/research/reports/ARGUS_47410_ThematicPortfolio_1782217754000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: Why Avalo Therapeutics, Inc. (AVTX) Is Among the Best Low Priced Stocks to Get Rich in 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/why-avalo-therapeutics-inc-avtx-153645730.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:36]
-标题: Is Upstream Bio, Inc. (UPB) the Best Low Priced Stocks to Get Rich in 2026?
-链接: https://finance.yahoo.com/markets/stocks/articles/upstream-bio-inc-upb-best-153643443.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:40]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47407_TechnicalAnalysis_1782214827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
 标题: Analyst Report: Consolidated Edison Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_2917_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:55]
-标题: Sporting Goods Chain 303 Files for Bankruptcy
-链接: https://finance.yahoo.com/small-business/articles/sporting-goods-chain-303-files-155508545.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-22 23:02]
-标题: Stock market today: Nasdaq, S&P 500 fall as global chip sell-off spurs AI doubts
-链接: https://finance.yahoo.com/economy/live/stock-market-today-nasdaq-sp-500-fall-as-global-chip-sell-off-spurs-ai-doubts-230258084.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:23]
-标题: Dollar rises to 13-month high on Fed hike bets, safe-haven bid
-链接: https://finance.yahoo.com/markets/currencies/articles/dollar-firms-hawkish-fed-bets-014832057.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:20]
-标题: Elon Musk says Americans ‘get the living daylights taxed out of us.’ Here's how he avoids taxes to hold onto his wealth
-链接: https://finance.yahoo.com/economy/policy/articles/elon-musk-says-americans-living-152000601.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Comcast Corp.’s (CMCSA) Xfinity Brand Targets New Internet Subscribers
-链接: https://finance.yahoo.com/technology/articles/comcast-corp-cmcsa-xfinity-brand-150654383.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
-标题: Daily – Vickers Top Insider Picks for 06/23/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47403_InsiderActivity_1782213089000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:54]
-标题: SpaceX shares tick higher after two-day slump erases $600B
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-shares-tick-higher-two-155400086.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Citizens Upholds its Market Perform Rating for Netflix (NFLX)
-链接: https://finance.yahoo.com/markets/stocks/articles/citizens-upholds-market-perform-rating-150652441.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Leidos Holdings (LDOS) is One of the Oversold Stocks Offering Attractive Upside
-链接: https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-one-oversold-150650087.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Autodesk (ADSK) Raises Borrowing Capacity Through Revolving Credit Facility Adjustments
-链接: https://finance.yahoo.com/markets/stocks/articles/autodesk-adsk-raises-borrowing-capacity-150649447.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Piper Sandler Maintains Overweight Rating for Boston Scientific (BSX)
-链接: https://finance.yahoo.com/markets/stocks/articles/piper-sandler-maintains-overweight-rating-150647528.html
+标题: Analyst Report: Alliant Energy Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
 标题: Daily – Vickers Top Buyers & Sellers for 06/23/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47404_TopBottomInsiderActivity_1782213089000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:50]
-标题: This Nvidia-Backed Company Just Entered the $154 Billion AI Photonics Market. Does This Make the $13 Stock a No-Brainer Buy?
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-backed-company-just-entered-155000177.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 18:56]
+标题: Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect
+链接: https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html
+正文: Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Trimble Inc.’s (TRMB) Subsidiary Launches Advanced Risk Intelligence Platform
-链接: https://finance.yahoo.com/technology/ai/articles/trimble-inc-trmb-subsidiary-launches-150646943.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 18:54]
+标题: SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk
+链接: https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html
+正文: About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: XPeng (XPEV) is Amongst the 10 Oversold Stocks That Look Attractive
-链接: https://finance.yahoo.com/markets/stocks/articles/xpeng-xpev-amongst-10-oversold-150644000.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 18:42]
+标题: Meta is building a prediction markets app. These stocks are falling in response
+链接: https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html
+正文: The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as "Arena."
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Citi Maintains Buy Rating for Chewy Inc. (CHWY)
-链接: https://finance.yahoo.com/markets/stocks/articles/citi-maintains-buy-rating-chewy-150642951.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:06]
-标题: Here is What Drives a Favorable Sentiment Towards Bullish (BLSH)
-链接: https://finance.yahoo.com/markets/stocks/articles/drives-favorable-sentiment-towards-bullish-150639663.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:00]
-标题: China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next
-链接: https://finance.yahoo.com/energy/articles/china-antimony-ban-sent-prices-150000191.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 14:49]
-标题: Palantir Hits 52-Week Low Amid AI Retreat, Rising Interest Rates
-链接: https://www.investors.com/news/technology/palantir-stock-pltr-hits-52-week-low-software-pressured/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 14:41]
-标题: Jim Cramer on McGraw Hill: “I Think It Could Go Down a Few More Bucks”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-mcgraw-hill-think-144128168.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 14:41]
-标题: Jim Cramer on Boston Scientific: “This Whole Cohort Is Just Too Hard to Own”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-boston-scientific-whole-144126301.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 15:39]
-标题: Wendy's names Steve Cirulis CFO and Chief Strategy Officer
-链接: https://finance.yahoo.com/markets/stocks/articles/wendys-names-steve-cirulis-cfo-153904870.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 14:41]
-标题: Jim Cramer on SoundHound: “I Just Think It’s a $4 Stock Masquerading as a $7 Stock”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-soundhound-just-think-144124385.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 18:04]
+标题: Stocks making the biggest moves midday: Micron Technology, SpaceX, IBM, Flex & more
+链接: https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-midday-mu-spcx-ibm-flex.html
+正文: These are the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 12:12]
 标题: Stocks making the biggest moves premarket: IBM, Qualcomm, Oracle, Energy Fuels & more
@@ -304,25 +187,20 @@
 链接: https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html
 正文: The latest consumer data reinforce how consumption in China remains subdued.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 16:45]
-标题: Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets
-链接: https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html
-正文: The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-22 16:32]
-标题: The average SpaceX buyer post-IPO is almost under water after two-day slide
-链接: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
-正文: Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-23 00:00]
+标题: Beyond productivity: How AI creates value in private equity
+链接: https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity
+正文: Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity initiatives.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-23 00:00]
 标题: AI data readiness: The key to scaling impact
 链接: https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact
 正文: As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured data into a governed, reusable foundation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-23 16:22]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-23 19:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-23 16:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-23 19:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
