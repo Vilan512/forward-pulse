@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-24 02:29:44
-# 共计 38 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-24 06:37:59
+# 共计 37 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-23 21:00]
 标题: Heads in the game
@@ -54,6 +54,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 12:51]
 标题: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness
 链接: https://huggingface.co/blog/ibm-research/cuga-apps
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 04:34]
+标题: OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试
+链接: https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi
+正文: IT之家 6 月 24 日消息，科技媒体 testingcatalog 昨日（6 月 23 日）发布博文，报道称部分用户反馈在网页版、App 版 ChatGPT 应用中，发现了双向 AI 语音模型 Bidi 1 踪迹。在发布日期方面，OpenAI 官方暂未官宣，不过该媒体认为 OpenAI 有望本周启动更大范围测试。从界面上看，Bidi 1 位于设置中的模型选择器内，与标准语音和高级语音并列。用户选中后，语音气泡会变成黄色。在功能方面，Bidi 1 语音模型最大的亮点在于双向并行，根据测试视频，ChatGPT 可在说话时继续听用户讲话，也能对话中途响应用户新指令。在实际测试案例中，用户要求 Bidi 1 从 1 数到 10，在中途打断并要求它倒数，该模型会立即执行。IT之家附上相关视频如下：Bidi 1 语音模型让交流更接近真实口语对谈，支持边回应边监听，不必等一轮对话彻底结束后再进入下一步。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 03:32]
+标题: Qwen-AgentWorld 开源：让 Agent 学会"先预测，再行动"
+链接: https://aihot.virxact.com/items/cmqrizuey0kmcslp5zt7bajh0
+正文: 通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实环境 RL（F1 50.3% vs 45.6%）；作为智能体基础模型，LWM 预热可迁移至七个基准（三个完全未出现在训练集中）。模型与评测基准已开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 01:00]
 标题: 今天，豆包正式推出专业版
@@ -125,16 +135,6 @@
 链接: https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt
 正文: AI 与我们顶级间谍机构警告：AI 网络威胁将在数月内影响你。原因如下Dashveenjit Kaur2026 年 6 月 23 日分享这个故事：标签：AI 网络威胁 网络安全 五眼联盟警告 在线安全 网络钓鱼诈骗 科技新闻分类：AI 与我们 AI 在行动 AI 市场趋势 人工智能 网络安全 AI 信任、偏见与公平全球范围内 AI 网络威胁的激增，对于企业数据中心而言，已不再是一个遥远的问题。世界上最强大的情报联盟发出紧急公开警告称，2026 年 6 月 22 日，五眼联盟——包括美国、英国、加拿大、澳大利亚和新西兰——的网络安全负责人发布了一份罕见的联合情报简报。简报指出，即将推出的人工智能模型将在数月（而非数年）的时间尺度上大幅增强攻击性黑客能力。虽然该建议特别要求企业高管全面整顿其网络防御体系，但这些工具的快速演进意味着普通互联网用户即将面临一个更加诡谲多变的数字环境。AI 网络威胁的巨大转变这份情报简报强调了一个迫在眉睫的危险：即将推出的先进模型，如 OpenAI 的“GPT-5.5-Cyber”和 Anthropic 的“Mythos”，正在积极降低数字犯罪的技术门槛。恶意行为者不再需要顶尖的编码技能来构建复杂且具有毁灭性的软件漏洞利用程序。相反，自动化数字智能体可以全天候扫描连接到互联网的基础设施，以便在人类工程师修补漏洞之前找到软件漏洞。这极大地缩短了技术公司赖以保持用户应用程序安全的“安全窗口期”。这对普通用户有何切身影响？当犯罪网络使用自动化工具攻破大型数据库时，其直接后果就是普通消费者数据的被盗。你的个人信息、已保存的密码和云备份，正是这些加速进行的企业入侵行为的最终目标。此外，恶意行为者正利用对话式模型在工业规模上生成高度个性化的钓鱼诈骗。这一趋势对亚太地区打击尤为严重，由于人工智能辅助的目标锁定，印度等国家在2026年初的勒索软件事件激增了惊人的165%。自动系统不再依靠容易被识别的、拙劣的垃圾邮件，而是可以扫描你的公开社交媒体资料，生成完美且极具说服力的消息，旨在窃取你的登录凭证。用同样的技术进行反击网络安全防御者面临的主要挑战是，机器驱动的攻击自然比人类主导的检测速度更快。根据世界经济论坛的《全球网络安全展望》，高达94%的企业高管将人工智能视为最大的威胁向量，然而三分之二的组织报告称存在中度到严重的网络安全人才短缺。当恶意AI智能体能在几分钟内发现并利用软件漏洞时，网络管理员发现手动审查和部署传统安全补丁已变得不可能。五眼联盟强调，抵御这些不断加速的AI网络威胁最有效的方法是部署自动化防御。安全团队正在积极集成防御型人工智能模型，以监控异常行为并隔离网络入侵。对于个人用户而言，互联网安全的基本规则正变得强制性。开启多因素认证并删除旧的、不再使用的在线账户，仍然是打破AI驱动攻击自动链条的最有效方法。另请参阅：AI网页搜索风险：减轻企业数据准确性威胁想从行业领袖那里了解更多关于AI和大数据的信息？请关注即将在阿姆斯特丹、加利福尼亚和伦敦举办的AI与大数据博览会。这一综合性活动是TechEx的一部分，并与网络安全与云博览会等其他领先技术活动同期举行。点击此处了解更多信息。AI News由TechForge Media提供技术支持。在此探索更多即将举办的企业技术活动与网络研讨会。相关 利用Sakana AI的Fugu多智能体模型降低供应商锁定风险2026年6月22日欧莱雅将美宝莲虚拟试妆功能引入ChatGPT2026年6月22日SAP与Google Cloud部署智能体商务架构2026年6月19日e2e-assure推出Cumulo，英国唯一主权级、AI驱动、零日SOC平台，保障IT与OT环境安全2026年6月19日加入我们的社区立即订阅，将我们所有高级内容和最新科技新闻直接送达您的收件箱点击此处热门 物理AIAsylon与Thrive Logic将物理AI引入企业周界安全7831次浏览AI商业战略、人工智能、特色、金融AI、职场世界摩根大通开始追踪员工在工作中如何使用AI7308次浏览AI实战、AI市场趋势、人工智能、人机关系、AI内幕、制造与工程AI、物理AIGoogle正式官宣工业机器人AI战略——这次是认真的6336次浏览多模态AI公民开发者如今有了自己的Wingman6309次浏览查看全部 最新查看所有最新内容 零售与物流AI2026年6月19日SAP与Google Cloud部署智能体商务架构 赞助内容2026年6月19日e2e-assure推出Cumulo，英国唯一主权级、AI驱动、零日SOC平台，保障IT与OT环境安全 物理AI2026年6月18日计算机视觉部署助力零售业生产力提升 管理Cookie同意我们使用cookie等技术来存储和/或访问设备信息。我们这样做是为了改善浏览体验并展示
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 06:04]
-标题: 京东全栈开源JoyAI-VL-Interaction，从"一问一答"走向"边看边说"
-链接: https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z
-正文: 京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率。开源内容包括模型权重、交互数据集、训练方案及完整可部署系统，支持摄像头、直播流等视频输入及语音交互、长期记忆、vLLM部署，适用于安防监控、老人看护、直播讲解等实时场景。 🔗 阅读原文：https://mp.weixin.qq.com/s/IY6XGp4k6VgD9ZPH6YprCA
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 05:41]
-标题: 豆包音频生成模型1.0发布，重新定义AI音频创作
-链接: https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq
-正文: 火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及"一声多角"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。 🔗 阅读原文：https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 22:52]
 标题: Stocks making the biggest moves after hours: FedEx, Cerebras, KB Home & more
 链接: https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-after-hours-fdx-cbrs-kbh.html
@@ -175,15 +175,10 @@
 链接: https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html
 正文: The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 03:19]
-标题: China's 618 shopping festival growth slows sharply as consumer spending malaise persists
-链接: https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html
-正文: The latest consumer data reinforce how consumption in China remains subdued.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-24 02:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-24 06:37]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-24 02:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-24 06:37]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
