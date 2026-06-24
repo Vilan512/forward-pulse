@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-06-24 18:28:17
+# ForwardPulse 原始情报收割 — 2026-06-24 20:28:34
 # 共计 46 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-24 15:25]
@@ -59,10 +59,15 @@
 标题: Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World
 链接: https://huggingface.co/blog/ffasr-leaderboard
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 18:18]
-标题: Anthropic Fable 5 被美商务部出口管制，谈判代表更换为联合创始人 Tom Brown
-链接: https://aihot.virxact.com/items/cmqsedztv02dyslfu8e8c4lrj
-正文: 美国商务部6月12日以国家安全为由对 Anthropic 的 Fable 5 及 Mythos 5 模型发出出口管制令，禁止外国公民访问，迫使 Anthropic 对全球用户关闭。导火索是亚马逊研究团队声称找到绕过 Fable 5 安全护栏的方法。这是美国政府首次用出口管制下架 AI 模型。白宫与 Anthropic 谈判中，因 CEO Amodei 沟通困难，改由联合创始人 Tom Brown 及公共政策负责人 Sarah Heck 主导。国会两党四名众议员联名致信商务部长要求解释法律依据及恢复标准，回复截止6月26日。Fable 5 重新上线暂无时间表。 🔗 阅读原文：https://x.com/dotey/status/2069847686992314492
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 19:34]
+标题: Perplexity推出Computer for Counsel
+链接: https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984
+正文: 推出 Computer for Counsel。 Computer 现在能够连接律师日常使用的研究数据库、文档工具和案件管理系统。可从中检索可引用的来源，包括 @midpageAI、@LegalZoom、@Docusign、@netdocuments 等。 面向所有 Pro 和 Max 订阅用户开放。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 19:08]
+标题: 在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限
+链接: https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs
+正文: 美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。 🔗 阅读原文：https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 18:00]
 标题: GPT-5.5 Instant 新版本，对话更有趣
@@ -83,6 +88,11 @@
 标题: NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调
 链接: https://aihot.virxact.com/items/cmqs9yjcy0187slfupnhipvhf
 正文: 使用 NVIDIA NeMo AutoModel 加速 Transformer 架构微调 Enterprise + Article 发布于 2026 年 6 月 24 日 Adil Asif adil-asif nvidia Alexandros Koumparoulis akoumpa nvidia Wenwen Gao wgao2021 nvidia Sylendran Arunagiri Sylendran95 nvidia David Messina davidsalmessina70 nvidia Bernard Nguyen bernardwin nvidia HuggingFace Transformers has become the foundation of the open-source AI ecosystem, and the recent Transformers v5 release strengthened it with first-class support for Mixture-of-Experts (MoE) models, now the dominant architecture for frontier models. v5 ships the MoE foundations: expert backends, dynamic weight loading, and distributed execution that make MoE extensible and easy to build on. NVIDIA NeMo AutoModel 是 NVIDIA NeMo 框架中的一个开源库，用于大规模构建定制化生成式 AI 模型。NeMo AutoModel 直接构建在 Transformers v5 之上，新增了专家并行（Expert Parallelism）、DeepEP 融合全对全（all-to-all）调度以及 TransformerEngine 内核，并利用 v5 的动态权重加载，将这些优化推广到越来越广泛的模型族。其成果是：在对 MoE 模型进行微调时，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，且使用相同的 `from_pretrained()` API——只需修改一行导入代码，无需其他改动。 本篇博客详细介绍了这种组合的工作原理，以及用户如何在无需更改 API 的情况下更快地微调 MoE 模型。 背景 MoE 模型的兴起给高效训练带来了新挑战：跨数百个专家路由 token、将专家矩阵乘法融合到单个内核中、在 GPU 间对权重进行分片，以及将通信与计算重叠——所有这些都需要超越通用库原生能力的基础设施。 Transformers v5（“v5”）引入了原生的 MoE 支持，例如专家后端、动态权重加载，以及用于分布式执行的张量并行方案。此外，v5 通过将 PyTorch 的 DeviceMesh 直接集成到 `from_pretrained()` 中，使分布式训练成为一等公民。 NeMo AutoModel 通过继承 `AutoModelForCausalLM`，并在其上添加专家并行（EP）、DeepEP 融合全对全调度以及 TransformerEngine 内核，构建于 v5 之上。DeepEP 是 v5 尚不具备的组件：它将通信与专家计算重叠。由于 NeMo AutoModel 利用 v5 的可逆权重转换来加载每个模型，因此可以将工程精力集中在这些可复用的核心操作上，而无需为每个模型单独处理检查点管道的细节；同时，`save_pretrained()` 仍然输出标准的 HF 检查点，vLLM 和 SGLang 等工具可以直接加载。 下一节将介绍两者如何协同工作，以及我们测量的性能提升——从跨16个节点全量微调NVIDIA Nemotron 3 Ultra 550B A55B，到单节点模型（如Qwen3-30B-A3B和Nemotron 3 Nano 30B A3B）。 NeMo AutoModel：相同API，更强性能 NeMo AutoModel的目标之一是与HuggingFace Transformers实现API兼容，以支持开源社区。NeMoAutoModelForCausalLM继承了AutoModelForCausalLM，因此任何能与HF模型配合使用的代码，也能与AutoModel协同工作。 以下是两种方式加载模型的对比示例。唯一的变化在于导入语句： 单靠这条导入语句就完成了大量工作。对于Qwen3、NVIDIA Nemotron、GPT-OSS和DeepSeek V3等主流MoE架构，NeMo AutoModel内置了经过
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 16:00]
+标题: OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半
+链接: https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241
+正文: 当零意味着零Afzal Jasani · 2026年6月24日On this pageOpenRouter 如何处理 ZDR过去一周，“零数据留存”（Zero Data Retention，ZDR）被提及了大约 15 次。第一次是当我和妻子在找电视节目看的时候。她建议我们看新剧《公鸡》。但我们已经看完了前三集！这才叫真正的零数据留存。 接下来的 14 次同样令人兴奋，因为我意识到每个人对零数据留存及其实际含义的看法都不太一样。这让我回想起以前人们要求“实时”数据，当我问他们实时是什么意思时，他们回答说“哦，每 15 分钟一次就很好”。呵，这哪算什么实时。 ZDR 通常意味着保证你的数据在处理后不会被存储。其中的细微差别在于“数据”包含哪些内容。这种对“数据”定义的混淆正是造成隐私和安全风险的原因。 例如，你有提示词和响应。提示词是你发送给大语言模型的内容。根据提供商和套餐的不同，你发送的内容可能会被存储、访问或用于训练未来的模型。因此，企业担心它们实际的提示词是合理的，因为提示词中可能包含专有信息。 举个例子，假设工程团队中的某个人向大语言模型提示词：“调试我们产品中的这个认证问题”。在没有 ZDR 的情况下，这条提示词可能会被存储，在某些情况下还会被用作训练数据，从而超出你的控制范围暴露你内部系统的细节。虽然你的认证问题可能得到了解决，但这风险实在不值得冒。在医疗和金融服务等高度监管的行业中，这种风险会进一步放大。 在响应方面，模型的输出同样敏感。继续上一个例子，大语言模型可能回复说：“除了你的认证问题，我还发现了这些其他漏洞”。如果该响应被保留，那么你的未修复漏洞记录就会存在于第三方日志中，一旦发生泄露或配置错误，这些漏洞就可能被暴露。 然后再加上缓存技术——随着大家都在追求模型 token 优化，缓存已成为重中之重。部分服务商会自动处理对提示词的隐式缓存。具体做法是：将提示词中重复出现的部分存入内存缓存，从而避免重复处理，这能带来显著的成本节省。不过，缓存并不被视为数据留存，因为没有任何内容存入长期存储。你也可以设置显式缓存，但这需要你标记出哪些内容块需要缓存。 因此，“数据”本质上就是提示词和响应。元数据（时间戳、模型版本、延迟、吞吐量、成本等）算是一个例外，但通常认为存储这些数据是安全的，因为它们不包含敏感内容。 在 OpenRouter，我们每天都处理关于零数据留存（ZDR）的问题。事实上，自今年年初以来，我们提供的支持 ZDR 的模型阵容已经变得更加强大。在许多场景下，ZDR 正从“锦上添花”演变为“刚性需求”。 自 1 月以来，我们新增了 97 个支持 ZDR 的模型。虽然可用性很重要，但我们也观察到，ZDR 模型在整个平台上的模型 token 用量始终保持稳定。 可用性说明我们拥有充足的供给，而用量则证明用户正在有意义地使用这些模型。这通常转化为实际的生产工作流。我服务过许多 AI 原生公司，它们既能在前沿模型上使用 ZDR 模型，也能在开放权重模型上使用。这种灵活性如今已成为硬性要求。 自 1 月以来，我们支持 ZDR 的模型月度模型 token 用量增长了 4.3 倍。ZDR 不应以牺牲模型选择为代价。其他服务商无法支持我们所能支持的众多模型，因此如果没有 OpenRouter，你可能会被锁定在单一供应商上，而无法拥有我们默认提供的可选择性。 不过这一切都说得通。我上一篇文章强调了模型可选择性以及企业为何需要它。你不可能从一家供应商那里得到所有你需要的东西，而标准化于一家供应商可能意味着自取灭亡。 在 OpenRouter 路由的全部流量中，大约一半已经是 ZDR。在我们的企业级业务中，我们看到许多组织希望深入了解如何实际执行和启用这一点。 OpenRouter 如何处理 ZDR 那么，OpenRouter 是如何处理 ZDR 的呢？我们在三个层面实施，你可以根据自身需求选择控制程度。 账户层面。在整个账户中，为某个完整提供商（Anthropic、OpenAI、Google 或非前沿模型）开启 ZDR。只需设置一次，后续所有请求都会继承该设置。 防护栏层面。按每个 API 密钥或每个组织成员限定实施范围。这样，生产环境密钥可以要求 ZDR，而沙盒密钥则不要求。团队借此既能执行严格策略，又不妨碍实验探索。 单次请求层面。在单个调用中传入 `"provider": {"zdr": true}`。OpenRouter 随后仅将该请求路由至符合 ZDR 条件的端点，跳过任何无法满足该策略的模型或提供商，并继续尝试列表中下一个符合条件的选项。 请记住，“数据”所涵盖的三项内容：提示词、响应以及中间的元数据。无论你实际关注的是其中哪一项，都可以根据团队的工作方式，在相应的层面实施管控。 这正是受监管团队一直向我们要求
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 15:59]
 标题: Mistral AI 为 Connectors 推出多项安全与可控新能力
@@ -149,27 +159,26 @@
 链接: https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm
 正文: Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。全球顶尖模型，尽在一处。 使用优惠码 30RUNWAY，首三个月享 30% 折扣。 点击下方链接开始使用。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 20:17]
-标题: Oracle因AI应用裁员21000人，债务驱动云基础设施投资
-链接: https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r
-正文: 文章正文 * 仅限订阅用户，了解更多 根据周一美国证券交易委员会（SEC）的一份申报文件，AI使用量的增长导致甲骨文（Oracle）一年内裁减了21,000名员工。 在截至5月31日的财年年度监管申报文件中，Oracle表示其拥有141,000名全职员工。在其2025年的申报文件中，Oracle称拥有162,000名员工。此次报告的12.9%裁员幅度，此前3月已有报道称这家数据库管理软件公司进行了大规模裁员。 申报文件称：“AI技术在我们业务中的采用和部署已经导致，并可能继续导致员工规模的缩减。” 然而，此次裁员也与建设Oracle数据中心基础设施以支持AI工作负载所需的大额资本支出有关。 本周的申报文件称：“2026年重组计划所采取的大部分举措，都是为了落实我们对开发、营销、销售和交付云服务产品的持续重视。” Oracle在2月表示，计划在2026年筹集450亿至500亿美元，以扩大其Oracle云基础设施，服务于OpenAI、xAI、AMD、Nvidia和Meta等客户。其中约一半资金将通过债务筹集，其余来自股权。当Oracle宣布这一计划时，投资者早已对Oracle因推动AI而不断增加的债务感到担忧。根据其2026财年财报，Oracle总债务超过1200亿美元。 路透社报道，2月份债券持有人起诉Oracle，声称他们蒙受损失，因为Oracle隐瞒了其需要增加债务以建设AI基础设施的事实。 投资者还对Oracle依赖OpenAI表示担忧，OpenAI是一家尚未盈利的客户，据报道每年亏损数十亿美元。 分析师指出，Oracle的裁员将有助于公司的现金流。据CNBC当时报道，3月份巴克莱银行（Barclays）表示，Oracle每位员工的利润低于其竞争对手。 Oracle在SEC申报文件中表示，其本财年重组成本支出为18亿美元，较上一财年的3.74亿美元增长了481%。 甲骨文也指出了大规模裁员常伴随的弊端，包括可能导致“生产力下降”、“某些岗位合格员工短缺、宝贵机构知识流失，以及对员工士气和留存率造成损害”。 甲骨文在给 CNBC 的一份声明中表示：“随着我们的云和 AI 业务不断增长，我们将持续平衡资源并重组研发团队，以确保我们拥有合适的人才，为全球客户提供最佳的云和 AI 产品。” 虽然生成式 AI 重新引发了人们对 AI 取代工作的担忧，但甲骨文展示了一种 AI 导致失业的方式，其方式超越了直接替代人类。话虽如此，企业在裁员时引用 AI 正变得越来越普遍。 职业过渡服务公司 Challenger, Gray &amp; Christmas 的首席营收官 Andy Challenger 在 2026 年 5 月（报告于 6 月发布）的一份报告中表示：“AI 如今是公司裁员时给出的首要原因，而引用这一原因最多的行业是科技行业。科技行业已经是今年裁员最多的行业，其裁员幅度创下 2023 年初以来的最高水平，尽管它仍然是今年招聘计划最多的行业。” 这家职业过渡服务公司 1 月份报告称，从 2023 年到 2025 年，AI 被列为 71,825 项“裁员公告”的原因。 Scharon Harding 资深科技记者 Scharon 是 Ars Technica 的资深科技记者，负责撰写消费电子设备及服务的新闻、评论和分析。她从事科技报道已超过 10 年，文章曾发表于 Tom’s Hardware、Channelnomics 和 CRN UK。 上一篇报道 下一篇报道 1. 男子用按摩枪按摩疲劳的眼球。结果和你预想的一样糟。 2. 特朗普或成 79 岁老人接受实验性减肥药奇特病例中的神秘患者 3. 报告：肯尼迪航天中心尚未为超重型火箭时代做好准备 4. 通用汽车在裁减 1300 名员工后，在其旗舰电动汽车工厂安装机器人 5. 如何戳破 AI 泡沫：从根源入手
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 18:08]
+标题: Analyst Report: NiSource Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3241_AnalystReport_1782324493000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 18:52]
-标题: FastWan-QAD：单卡5090上1.8秒生成5秒视频
-链接: https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw
-正文: (1/5) 5 秒视频。1.8 秒生成。一块搭载 FastVideo 的 NVIDIA GeForce RTX 5090。🤯🚀 - FastWan-QAD，全新一代视频生成模型家族 - 采用 FastVideo 的量化感知蒸馏（QAD）方案进行训练。 - 在 FastVideo 的驱动下，我们将单块 NVIDIA GeForce RTX 5090 推向极限：端到端生成一段 5 秒 480P 视频仅需 1.8 秒！ 📜 博客：https://haoailab.com/blogs/fastwan-qad/ 💻 代码：https://github.com/hao-ai-lab/FastVideo 💽 模型：https://huggingface.co/FastVideo/FastWan-QAD-1.3B
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 17:53]
+标题: Market Update: COR, ADM, NI
+链接: https://finance.yahoo.com/research/reports/ARGUS_47424_MarketUpdate_1782323593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 11:40]
-标题: Daily Spotlight: Fed's Favorite Inflation Indicator Due Thursday
-链接: https://finance.yahoo.com/research/reports/ARGUS_47420_MarketOutlook_1782301231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 20:00]
+标题: Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules
+链接: https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html
+正文: The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 13:42]
 标题: Kalshi CEO says prediction market thinking about IPO, but not for this year
 链接: https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html
 正文: Tarek Mansour said to CNBC's "Squawk Box" it made sense for the company at the stage to think about a debut on public markets.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 15:22]
-标题: New meme stock Wendy's soars 30% with trading halted at one point
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 20:27]
+标题: New meme stock Wendy's soars more than 25% with trading halted at one point
 链接: https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html
 正文: While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.
 
@@ -193,15 +202,10 @@
 链接: https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html
 正文: Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 19:33]
-标题: SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk
-链接: https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html
-正文: About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 20:09]
-标题: Meta is building a prediction markets app. These stocks fell in response
-链接: https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html
-正文: The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as "Arena."
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-24 00:00]
+标题: AI-powered software development: How technology is rewriting the rules
+链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules
+正文: From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what separates the companies capturing value.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-24 00:00]
 标题: Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems
@@ -209,19 +213,14 @@
 正文: Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-24 00:00]
-标题: AI-powered software development: How technology is rewriting the rules
-链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules
-正文: From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what separates the companies capturing value.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-24 00:00]
 标题: How KPN is building an agentic AI engine for customer care
 链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/how-kpn-is-building-an-agentic-ai-engine-for-customer-care
 正文: By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI capabilities for long-term competitiveness.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-24 18:28]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-24 20:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-24 18:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-24 20:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
