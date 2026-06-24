@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-23 23:02:37
-# 共计 54 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-24 02:29:44
+# 共计 38 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-23 21:00]
 标题: Heads in the game
@@ -55,13 +55,10 @@
 标题: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness
 链接: https://huggingface.co/blog/ibm-research/cuga-apps
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 00:00]
-标题: Shipping huggingface_hub every week with AI, open tools, and a human in the loop
-链接: https://huggingface.co/blog/huggingface-hub-release-ci
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-23 00:00]
-标题: Experimenting with the proposed Cross-Origin Storage API in Transformers.js
-链接: https://huggingface.co/blog/cross-origin-storage
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 01:00]
+标题: 今天，豆包正式推出专业版
+链接: https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq
+正文: 豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。 🔗 阅读原文：https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 21:48]
 标题: AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%
@@ -138,58 +135,6 @@
 链接: https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq
 正文: 火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及"一声多角"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。 🔗 阅读原文：https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:02]
-标题: Seed2.1 正式发布，深入 AI 生产力
-链接: https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux
-正文: 字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线，API通过火山方舟提供。 🔗 阅读原文：https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
-标题: 九位评委，两个有效投票：相关错误削弱LLM评审面板
-链接: https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu
-正文: 研究领域：数据科学与标注，研究领域：语音与自然语言处理内容类型：论文，发表于 2026 年 6 月九位评委，两张有效票：相关误差削弱大语言模型评估专家组作者：Guneet Kohli查看论文大语言模型作为评委的专家组汇总多个模型的投票，期望通过多样化的模型获得更可靠的评估结果。我们建立了一个框架来衡量此类专家组的真实信息价值，并量化其可靠性距离独立投票理想值有多远。我们在三个自然语言推理数据集（每个数据项有 100 个人工标注）上测试了一个由来自 7 个模型家族的 9 个前沿大语言模型组成的专家组，发现这 9 位评委实际上只提供了大约 2 票独立投票的信息量。专家组标称独立性的约四分之三因模型在同一数据项上犯相同错误而丧失。后果十分显著：专家组的实际准确率比独立投票所能达到的准确率低 8 到 22 个百分点，而最好的单一评委在所有条件下都匹配或超越了整个专家组的表现。增加更多评委或使用更聪明的聚合算法均无济于事——即使能拿到正确答案，现有方法最多也只能弥补这一差距的 11%。我们使用 Kish 有效样本量（n_eff）和孔多塞零模型量化了这些发现，并证明该缺陷在提示词变体、温度参数、链式推理以及一项成对偏好任务（RewardBench）中均稳健存在。瓶颈在于评委之间的相关性，而非聚合算法本身，这意味着扩大专家组规模无法替代真正独立的评估。相关阅读和更新。识别物品到物品推荐中的争议对2023 年 11 月 3 日，研究领域：方法与算法，会议：RecSys*同等贡献者 大型在线市场中的推荐系统对帮助用户发现新内容至关重要。然而，用于物品到物品推荐任务的最先进系统往往基于浅层的上下文相关性，这可能使得系统在处理物品关系更为微妙的场景时力不从心。上下文相关的物品对有时可能存在有问题的关系，这些关系会……Read more基于张量分解的协同过滤一致性方法2023年8月16日，研究领域：知识库与搜索，研究领域：方法与算法协同过滤是分析用户活动和构建物品推荐系统的事实标准。在这项工作中，我们开发了切片反对称分解（SAD），一种基于隐式反馈的新型协同过滤模型。与估算用户潜在表示（用户向量）和物品潜在表示（物品向量）的传统方法不同，SAD 为每个用户和物品引入了一个额外的潜在向量……Read more在机器学习领域发现机遇。我们的机器学习研究每天都在突破新领域。加入我们。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
-标题: 在 Transformers.js 中实验提议的跨源存储 API
-链接: https://aihot.virxact.com/items/cmqqz7cqg0ezbslp5zr85m87l
-正文: 实验性：在 Transformers.js 中使用提议的跨源存储 API 发布于 2026 年 6 月 23 日 Thomas Steiner tomayac google (This is a guest post by Developer Relations Engineer Thomas Steiner from the Chrome team at Google.) Transformers.js 为 Web 开发者提供了一种简单的方法，通过特定任务的流水线（pipeline）在其 Web 应用中使用 Transformer 架构的强大能力。为了在浏览器中运行推理，开发者创建 pipeline() 的实例并指定他们想要使用的任务。作为一个具体示例，以下代码片段展示了如何设置自动语音识别（ASR）流水线。 import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.2.0'; const asr = await pipeline( 'automatic-speech-recognition', 'Xenova/whisper-tiny.en', { device: 'webgpu' }, ); const result = await asr('jfk.wav'); console.log(result); 缓存挑战 你会注意到在源代码中，我指定了 Xenova/whisper-tiny.en 作为模型，这对于常见的英语自动语音识别任务来说是一个非常合适的选择。事实上，根据引用的片段，按照 Transformers.js 默认模型解析规则，它甚至是默认模型。 模型资源 当你在浏览器中运行这个示例时，Transformers.js 会自动下载并缓存相关的模型资源和 Wasm 文件。以下截图显示了访问该应用后的 Chrome DevTools 缓存存储部分。当你重新加载页面时，资源会从 Cache API 中提供，模型几乎立即返回结果。 然而，Xenova/whisper-tiny.en 是一个流行的模型（并且如前所述，甚至是 Transformers.js 中的 ASR 默认模型），你可以想象不止一个你访问的应用会使用它。为了模拟这种情况，这里提供了与之前相同的示例应用，但通过不同的源（origin）提供服务。当你访问这个不同源的应用时，浏览器无法几乎立即使用它，而是必须重新下载并缓存所有模型资源，即使这些资源与之前的逐字节完全相同。即使在这个玩具示例中，这也会导致 177 MB 的重复下载和存储，你可以在 Chrome DevTools Application 面板的 Storage 部分中查看。你可以想象这很快就会累积起来。 Wasm 运行时资源 但情况更糟。让我们给这个玩具示例添加第二条管道：情感分析。情感分析默认使用 Xenova/distilbert-base-uncased-finetuned-sst-2-english 模型。由于没有指定模型，Transformers.js 的默认模型解析机制会自动为你选择它。 const classifier = await pipeline('sentiment-analysis'); const sentiment = await classifier(result.text); pre.append('\n\n' + JSON.stringify(sentiment, null, 2)); 两个完全不同的 AI 模型，但它们都依赖同一个 4,733 kB 的 ort-wasm-simd-threaded.asyncify.wasm 文件——这是来自 Transformers.js 底层 ONNX Runtime 库的 WebAssembly（Wasm）运行时文件。在另一个源（origin）上打开扩展演示时，你会在“网络”标签页中注意到 Wasm 运行时也会被重新下载并再次缓存。 因此，即使你运行的应用不共享相同的 AI 模型，浏览器仍会对你已拥有的共享 Wasm 资源发出冗余请求，而且还会再次缓存它们，从而占用你硬盘上的空间。 缓存隔离 AI 模型资源分发 默认情况下，AI 模型资源来自 Hugging Face Hub，最终来自 Hugging Face CDN。浏览器会请求像 `https://huggingface.co/Xenova/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/config.json` 这样的资源，然后该请求会被重定向到最终的 CDN URL，例如本例中的 `ht
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-23 00:00]
-标题: huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环
-链接: https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa
-正文: 每周以 AI、开源工具和人工审核为环节，发布一次 huggingface_hub 发布于 2026 年 6 月 23 日 Lucain Pouget Wauplin Célina Hanouti celinah huggingface_hub is the Python client at the base of the Hugging Face ecosystem. transformers, datasets, diffusers, sentence-transformers and dozens of other libraries depend on it to talk to the Hub. Every week we don't ship a new release is a week of fixes and features stuck on main. 过去很长一段时间，我们每 4 到 6 周发布一次。现在我们改为每周发布一次，全部通过一个 GitHub Actions 工作流完成。我们使用开源工具和开放权重的模型构建了这个工作流，并在唯一需要判断力的环节保留了人工审核。这篇文章中没有任何内容需要供应商合同、闭源模型，或你无法自行运行的基础设施。这从一开始就是设计目标，因为我们希望这个工作流能被其他维护者直接拿来并加以改造。 读完这篇文章后，你将掌握构建自己工作流所需的一切。 我们的起点 旧的流程部分自动化，大部分手动操作。 已经在持续集成（CI）中的部分： 标签推送后自动发布到 PyPI。 在下游库中打开测试分支，并固定发布候选版本（release candidate）。 每次仍需手动完成的操作： 创建发布分支，在 __init__.py 中更新版本号，提交、打标签、推送。 观察下游 CI 运行并分类排查失败原因。 逐一审阅上次发布以来合并的所有合并请求（PR），并手动编写发布说明：按主题分组，附上上下文，语气不像 git 日志转储。 在发布候选期结束后，推出稳定版发布。 起草内部的 Slack 公告和社交媒体帖子。 打开发布后的 PR，将主分支版本提升到下一个 dev0。 为新版撰写高质量的说明是最费力的部分，需要汇总数十个不同主题的 PR。技术上没什么难点，但需要几个小时的专注时间。再加上公告工作，一个小版本发布往往要分散在好几天内完成，总共花半天时间。 两种工作类型 所以我们决定简化整个流程。看那张清单，工作可以分为两类。 有些步骤纯粹是机械性的，可以自动化：更新版本号、提交、打标签、推送、打开下游测试分支、打开发布后的 PR。这些步骤不需要任何人思考，只需要每次都按正确的顺序发生，而这正是 CI 工作流擅长的事情。 剩下的部分则截然不同。撰写发布说明、决定突出哪些内容、构思面向人类读者的公告措辞——这些是脑力活。正是这类判断力让发布手册多年来一直沿用。这正是 AI 的用武之地，它能在几秒钟内把一张空白页变成扎实的初稿。但这也是我们必须小心的地方，因为一篇看起来信心十足却暗藏细微错误的初稿，比压根没有初稿更糟糕。 设计原则：开放组件，任何人都可复用 当我们决定修复这个问题时，我们事先设定了一个约束条件：每一个可动部件都必须能够被任何维护者自行运行。没有 API 背后我们无法替换的闭源模型，没有专有发布平台，没有秘制配方。 以下是完整的技术栈： 组件 功能 GitHub Actions 编排整个发布流程 OpenCode 驱动模型的智能体运行时 开放权重模型（目前使用 Z.ai 的 GLM-5.2） 草拟发布说明和 Slack 公告 HF Inference Providers 提供模型服务 PyPI Trusted Publishing 发布包 第二个原则：模型草拟，人类决策。语言模型擅长把三十条简洁的 PR 标题变成可读的发布说明，但它们不擅长被盲目信任。因此，工作流是人工监督的：模型完成第一轮处理，确定性脚本检查其输出，然后在任何内容发布之前由人工审核和编辑（下文有更多细节）。 流水线概览 整个工作流是一个文件 `.github/workflows/release.yml`，通过 Actions 界面手动触发。它只接受一个输入： on: workflow_dispatch: inputs: release_type: type: choice options: - minor-prerelease - minor-release - patch-release 从那里开始，任务大致按以下顺序运行： 准备。计算下一个版本，创建或复用发布分支，更新 `__version__`，提交，打标签，推送。 发布到 PyPI。构建并上传 `huggingface_hub`。同时，构建并上传 hf CLI 作为
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:56]
-标题: Analyst Report: Campbell's Company/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_2862_AnalystReport_1782237365000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:56]
-标题: Analyst Report: Smurfit WestRock plc
-链接: https://finance.yahoo.com/research/reports/ARGUS_6347_AnalystReport_1782237365000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 17:41]
-标题: Market Update: CPB, ROK, SW
-链接: https://finance.yahoo.com/research/reports/ARGUS_47412_MarketUpdate_1782236465000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 12:29]
-标题: The Argus Dividend Growth Model Portfolio
-链接: https://finance.yahoo.com/research/reports/ARGUS_47410_ThematicPortfolio_1782217754000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:40]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47407_TechnicalAnalysis_1782214827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
-标题: Analyst Report: Alliant Energy Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
-标题: Analyst Report: Consolidated Edison Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2917_AnalystReport_1782213090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-23 11:11]
-标题: Daily – Vickers Top Buyers & Sellers for 06/23/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47404_TopBottomInsiderActivity_1782213089000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-23 22:52]
 标题: Stocks making the biggest moves after hours: FedEx, Cerebras, KB Home & more
 链接: https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-after-hours-fdx-cbrs-kbh.html
@@ -235,25 +180,10 @@
 链接: https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html
 正文: The latest consumer data reinforce how consumption in China remains subdued.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-23 00:00]
-标题: Five client-led shifts reshaping European wealth management
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/five-client-led-shifts-reshaping-european-wealth-management
-正文: Survey results point to changing consumer preferences that are disrupting and transforming the industry in Europe—and highlight the need for a new set of strategic imperatives.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-23 00:00]
-标题: Beyond productivity: How AI creates value in private equity
-链接: https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity
-正文: Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity initiatives.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-23 00:00]
-标题: AI data readiness: The key to scaling impact
-链接: https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact
-正文: As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured data into a governed, reusable foundation.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-23 23:02]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-24 02:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-23 23:02]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-24 02:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
