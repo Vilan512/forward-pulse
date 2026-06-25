@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-25 03:58:27
-# 共计 37 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-25 07:42:25
+# 共计 34 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-24 15:25]
 标题: Europe’s extreme heat is shutting down power plants
@@ -34,6 +34,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-24 16:00]
 标题: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel
 链接: https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 07:28]
+标题: 豆包Seed-2.1实测：编程可用，识鱼封神！
+链接: https://aihot.virxact.com/items/cmqt6wmb300xgsl0elqeglozh
+正文: 火山引擎发布豆包Seed-2.1系列（Pro、Turbo）。实测Seed-2.1 Pro显示：Agent和Coding能力达到生产级可用线，能完成SVG动画、网页开发、CMS系统等任务；配合开源Skill可生成标题、调研报告、信息卡片及电子书。多模态识别惊喜，拍照识鱼准确识别鱼种和数量，优于Gemini 3.1 Flash。价格实惠，API已通过火山方舟全量开放。 🔗 阅读原文：https://x.com/vista8/status/2070046399077466574
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 03:07]
 标题: Anthropic称阿里巴巴非法获取了Claude AI模型的功能
@@ -115,26 +120,6 @@
 链接: https://aihot.virxact.com/items/cmqrxnmqg0p2zslp51p8cc1ln
 正文: 火山引擎在FORCE大会推出面向企业智能应用的Agent Ready基础设施，构建AI云与Agent三层架构。AgentKit升级提供Identity、Runtime、Sandbox、Evaluation等模块，实现Agent可靠、可控、可衡量。Identity已接入数千家身份体系，Runtime支持长程任务和分钟级12万沙箱并发。ArkClaw企业版集成Agent广场、技能中心与企业知识库，支持IDP/SSO/OAuth及飞书、钉钉等IM入口统一管控。实践案例：海底捞门店经营Agent将小时级工作压缩到分钟级，人工跟进时长缩减70%，巡检满意度提升50%；创维酷开借助ArkClaw终端版打造AIOS，Token消耗节省50%，支撑百万级终端。 🔗 阅读原文：https://mp.weixin.qq.com/s/83mrPAPgQRKhxLkoSvRgBQ
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 07:21]
-标题: DFlash：块扩散草稿模型实现最高15倍吞吐量提升
-链接: https://aihot.virxact.com/items/cmqrrgnay0n08slp5phvdk394
-正文: 自回归大语言模型逐个模型 token 生成文本。每个模型 token 都要等待前一个 token 生成完毕。这种串行循环导致现代 GPU 利用率不足，推理速度缓慢。对于长链式推理模型，这一问题更加严重；它们的长篇幅输出使得延迟成为生成过程的主要瓶颈。 投机解码是标准的解决方案。一个小型草稿模型预测后续模型 token，大型目标模型并行验证这些 token。被接受的模型 token 保留下来，因此输出是无损的。但大多数方法（包括最先进的 EAGLE-3）仍然采用自回归方式生成草稿。这种串行草稿机制将实际加速比限制在 2–3 倍左右。 由加州大学圣迭戈分校团队（z-lab）推出的 DFlash 另辟蹊径。它是一个专为草稿生成设计的轻量级块扩散模型。不同于逐 token 生成草稿，它只需一次前向传播就能提出整个块。然后目标模型并行验证该块。 研究团队报告称，在各种模型和任务上实现了超过 6 倍的无损加速，比 EAGLE-3 最高快 2.5 倍。在 NVIDIA Blackwell 上，NVIDIA 工程团队报告称，gpt-oss-120b 的吞吐量在相同的用户交互性目标下提升了高达 15 倍。 https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/ 块扩散草稿生成带来的变化 块扩散模型一次性对一整个被遮蔽的模型 token 块进行去噪。它们将并行生成与自回归块结构相结合。DFlash 仅将这一思想应用于草稿生成阶段，验证环节仍由可信的自回归目标模型完成。 这种拆分对质量至关重要。独立的扩散大语言模型在准确性上通常不如自回归模型，而且需要多次去噪步骤，这拖慢了原始推理速度。DFlash 同时规避了这两个问题：草稿只需足够好以被接受即可，目标模型的并行验证保证了最终输出的分布。 第二个优势是草稿生成成本。自回归草稿模型的成本随投机 token 数量线性增长。而扩散草稿模型通过一次并行前向传播即可生成所有 token。因此，随着块大小的增加，草稿生成延迟基本保持恒定。这使得 DFlash 能够使用更深、表达能力更强的草稿模型，而不会增加延迟。 这使 DFlash 与早期的扩散草稿模型工作区分开来。DiffuSpec 和 SpecDiff-2 等方法使用了庞大的 7B 草稿模型，加速比最多只能达到 3–4 倍。而 DFlash 则使用了一个小型五层草稿模型（针对 Qwen3-Coder 为八层）。 “目标模型最了解”的洞察 DFlash 的核心思想很简单：目标模型最了解。大型自回归模型的隐藏特征编码了关于多个未来 token 的信息。DFlash 从目标模型的多个层中提取隐藏状态，将它们融合成一个紧凑的“目标上下文特征”。然后，该特征用于条件控制草稿模型。 DFlash 注入该特征的方式与 EAGLE-3 不同。EAGLE-3 仅将目标特征融合到草稿模型的输入嵌入中。随着草稿深度增加，该信号会被稀释。而 DFlash 则将特征注入到每一草稿层的 Key 和 Value 投影中。这些投影后的特征位于草稿模型的 KV 缓存中，并在多次草稿迭代中持续存在。 这种 KV 注入使得接受长度能够随草稿深度扩展。一个五层 DFlash 草稿模型生成 16 个 token，效果优于 EAGLE-3 生成 8 个 token。在论文测试中，它同时实现了更低的延迟和更高的接受率。草稿模型实际上变成了一个附着在目标模型之上的扩散适配器。 两个加速比指标，测量方式不同 DFlash 研究中的 6 倍是指单流无损加速。在 Qwen3-8B 上使用贪婪解码（Transformers 后端），DFlash 平均达到 4.86 倍加速。EAGLE-3 在树大小为 16 时平均为 1.76 倍，在树大小为 60 时平均为 2.02 倍。DFlash 在 MATH-500 上达到峰值 6.08 倍（τ = 7.87），在所有任务上平均 τ = 6.49。 NVIDIA 在固定交互性目标下的吞吐量提升为 15 倍。这适用于基于 DGX B300 系统中八块 NVIDIA Blackwell GPU、使用 TensorRT-LLM 的 gpt-oss-120b 模型。在每用户 500–600 tokens/秒范围内，DFlash 提供的吞吐量是自回归解码的 15 倍以上。这比相同条件下的 EAGLE-3 高出约 1.5 倍。 下表展示了论文中温度设为 0 时（Transformers 后端）Qwen3-8B 各任务的加速比。 任务（Qwen3-8B, temp=0）基线EAGLE-3 
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 06:57]
-标题: MiniCPM-V 4.6 在 Apple Core AI 上高速运行
-链接: https://aihot.virxact.com/items/cmqrqhlvx0mr7slp5atv7dptr
-正文: 🥳感谢分享，@MLBoy_DaisukeMajima 🚀 MiniCPM-V 4.6 在设备端以这样的速度运行真是令人印象深刻——尤其是在 Apple Core AI 上参数量不到 2B 的情况下。 在推动高效多模态 AI 发展方面做得非常出色。🫡 [引用 @JackdeS11]：📸 MiniCPM-V 4.6 —— 参数量不到 2B 的最强视觉模型之一 —— 现在通过 Apple Core AI 在 iPhone 17 Pro 上以约 51 tok/s 的速度运行。 🤗 http://huggingface.co/mlboydaisuke/MiniCPM-V-4.6-CoreAI 🛠️ http://github.com/john-rocky/coreai-model-zoo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 06:00]
-标题: OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño
-链接: https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q
-正文: OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。 🔗 阅读原文：https://openai.com/index/openai-broadcom-jalapeno-inference-chip
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 04:34]
-标题: OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试
-链接: https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi
-正文: IT之家 6 月 24 日消息，科技媒体 testingcatalog 昨日（6 月 23 日）发布博文，报道称部分用户反馈在网页版、App 版 ChatGPT 应用中，发现了双向 AI 语音模型 Bidi 1 踪迹。在发布日期方面，OpenAI 官方暂未官宣，不过该媒体认为 OpenAI 有望本周启动更大范围测试。从界面上看，Bidi 1 位于设置中的模型选择器内，与标准语音和高级语音并列。用户选中后，语音气泡会变成黄色。在功能方面，Bidi 1 语音模型最大的亮点在于双向并行，根据测试视频，ChatGPT 可在说话时继续听用户讲话，也能对话中途响应用户新指令。在实际测试案例中，用户要求 Bidi 1 从 1 数到 10，在中途打断并要求它倒数，该模型会立即执行。IT之家附上相关视频如下：Bidi 1 语音模型让交流更接近真实口语对谈，支持边回应边监听，不必等一轮对话彻底结束后再进入下一步。
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 03:22]
 标题: Investors still seek a human touch even with AI tools at hand: HSBC
 链接: https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html
@@ -175,10 +160,10 @@
 链接: https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html
 正文: Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 03:58]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 07:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 03:58]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 07:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
