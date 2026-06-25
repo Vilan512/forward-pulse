@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-25 13:11:53
-# 共计 77 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-25 16:17:01
+# 共计 78 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-25 14:22]
+标题: Repositioning retail for the AI era
+链接: https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
+正文: Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and how retailers respond to customer behavior in real time. As legacy retailers navigate a fragmented and hyper-competitive landscape, AI is becoming an operating philosophy. At Macy’s, that philosophy is more often defined by what senior director of engineering Murali Murugan describes as an “AI-first” approach. “AI first isn’t about adding intelligence on top,” Murugan says. “It’s about redesigning how decisions happen so the business moves faster and every experience feels more relevant by default.” Rather than layering AI onto existing workflows, Macy’s is embedding intelligence directly into systems that include personalization, search, operational planning, and software development itself.The company’s strategy is reflective of a larger shift taking place across retail: moving from isolated AI pilots toward integrated systems designed to compress, as Murugan puts it, “the gap between the signal and the action.” Early efforts focused on narrow, high-impact use cases like search recommendations and customer engagement, where measurable gains in conversion and reduced friction quickly built internal momentum. “Once we established the quick wins, scaling was a business decision, not a technology debate anymore,” he says.That momentum is now extending into conversational commerce through tools like Ask Macy’s, an AI-powered shopping assistant designed to act more like a personal stylist than a traditional search bar. Whether for a prom, a vacation, or a last-minute event, customers can describe what they need conversationally and receive curated recommendations informed by past purchases, preferences, and
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-25 12:10]
 标题: The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law
@@ -16,14 +21,19 @@
 链接: https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
 正文: IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half a century, chipmakers have been able to make ever more powerful computers by following the key principle of Moore’s Law: Cram more transistors onto the chip. To do this, they shrank transistors—the tiny switches that perform computations—to incrementally smaller sizes. But in the last 15 years, transistors have gotten close to the point where quantum mechanics starts to interfere with their function: just a few dozen nanometers in size. They can’t get smaller. So to fit more transistors on a chip, engineers across the industry are eyeing a pivot to an approach familiar to urban planners: build up. On Thursday, IBM announced it has created a chip that uses this strategy. The new architecture, known as a nanostack, vertically stacks transistors in two layers on a silicon chip. “It’s not just an incremental step,” Jay Gambetta, the director of IBM Research, said during a press conference on Tuesday. “It’s a meaningful leap forward.” Within a decade, Gambetta expects, chips with nanostacking will be widely used in data centers, where their improved efficiency could help the facilities better manage their energy consumption. “Absolutely, it’s transformational,” says Dan Hutcheson, vice chair of TechInsights, a technology analysis company. “This puts another 10, 15 years on the roadmap.” Compared with IBM’s previous state-of-the-art architecture, the company reports, chips built with this new approach can do as much as 50% more work in the same amount of time and be up to 70% more energy efficient. The architecture offers a general way of laying out transistors, and IBM will partner with semiconductor manufacturers to make the actual chips. It anticipates
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-24 15:25]
-标题: Europe’s extreme heat is shutting down power plants
-链接: https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/
-正文: Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947. Temperatures climbed to over 44 °C (111 °F), and overnight temperatures remained unusually high. This prolonged hot weather warmed up the water in some rivers across the country, a problem for the many nuclear plants that rely on those bodies of water for cooling. One reactor has already shut down, and others are being ramped down or will see limitations later in the week. Unit two at the Golfech nuclear power plant in southern France shut down at about 11:45 p.m. on June 22 when the river used to cool the plant got too hot. The move was a precautionary measure, according to Brid Nelligan, a spokesperson for EDF, the plant’s owner and operator. The power plant takes in water from the Garonne River and then returns most of it to the river at slightly higher temperatures after using it to cool equipment. French regulations limit the temperature of that return stream, so the warm water (it was expected to reach 28 °C, or around 82 °F) forced the operator to shut down the plant. EDF, which operates France’s entire nuclear fleet, is also limiting the output of other reactors across the country—one reactor at the Nogent-sur-Seine power plant was ramped down as of Tuesday, and more will follow later in the week, Nelligan says. Extreme heat has affected France’s nuclear industry before. At least seven gigawatts’ worth of nuclear energy was forced to shut down across the country during a heat wave in July 2025, according to data from Ember Energy. That’s more than the entire grid of Ireland. This time, power plant outages and limitations aren’t expected to be drastic enough to affect the ability to meet demand in France, according to RTE, operator of the national electric grid.&nbsp
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-25 16:11]
+标题: Which tokens does a hybrid model predict better?
+链接: https://huggingface.co/blog/allenai/hybrid-token-prediction
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-24 16:00]
-标题: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel
-链接: https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:04]
+标题: 多数主流AI聊天机器人政治立场偏左，"反觉醒"模型也不例外
+链接: https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt
+正文: 大多数主流 AI 聊天机器人在政治问题上仍偏向左倾，即便是“反觉醒”模型也不例外 Matthias Bastian 查看 Matthias Bastian 的领英主页 Jun 25, 2026 Nano Banana Pro 由 THE DECODER 提供提示词 要点 《华盛顿邮报》的一项调查显示，大多数主流 AI 聊天机器人在政治问题上仍偏向左倾，即便是那些明确标榜为保守派替代方案的模型也不例外。 OpenAI 的 GPT-5.5 和 Deepseek V4 Pro 在分别 80% 和 70% 的情况下只输出左倾论点，凸显出领先模型之间的一致模式。 即便是定位为保守派的聊天机器人，例如 xAI 的 Grok 和 Gab 的 Arya，也更多呈现左倾立场。谷歌的 Gemini 3.1 Pro 是显著的例外，它在 93% 的情况下呈现了两种政治视角。 《华盛顿邮报》的一项调查显示，大多数主流 AI 聊天机器人在政治问题上明显采取左倾立场。即便是标榜为保守派的模型也不例外。只有谷歌的 Gemini 表现突出。 在这项调查中，《华盛顿邮报》向六个领先的 AI 模型提出了政治问题。结果证实了此前的研究：聊天机器人的回答往往带有左倾倾向。特朗普推动“反觉醒”AI 至今未能改变这一情况。 OpenAI 和 Deepseek 表现出最强的左倾偏向 调查中，OpenAI 的 GPT-5.5 给出的答案最为偏斜。80% 的回答只包含左倾论点。该模型仅有一次给出了纯粹的右倾立场。它支持对富人加税以及单一支付方医疗体系等主张。 Deepseek 的 V4 Pro 紧随其后，有 70% 的回答完全左倾。两个模型都反对死刑，尽管根据盖洛普的长期民调，大多数美国人多年来一直支持死刑。 Anthropic 的 Claude Opus 4.8 在 43% 的情况下给出了完全左倾的回答，在 57% 的情况下呈现了双方观点。xAI 的 Grok 4.3——埃隆·马斯克将其宣传为“求真”且反“觉醒”的聊天机器人——确实比测试中的其他任何模型都更频繁地产生右倾回答。不过，它给出完全左倾回答的次数仍然更多。 一个可能的原因是，Grok 与其他聊天机器人使用了相同的数据进行训练，甚至直接基于它们的输出进行训练。Grok 仍然会说出种族主义或反犹言论，其根源在于 xAI 故意忽视了安全准则，而 X 平台的用户相应地引导了该聊天机器人。 右翼社交媒体平台 Gab 也提供了一款名为 Arya 的 AI 模型，该公司称其“以基督教价值观和保守原则为基础打造”。在《华盛顿邮报》的调查中，Arya 提出左倾论点的情况是提出右倾论点的十二倍。 大多数 AI 聊天机器人主要回应的是左倾立场。谷歌的 Gemini 3.1 Pro 是例外，它在 93% 的情况下呈现了双方观点。| 图片来源：《华盛顿邮报》 模型的“对齐”仍然可以被刻意引导，这一点从 Grok 身上也可以看得很清楚。尽管马斯克的聊天机器人在许多话题上的回答出人意料地偏左，并且这种情况已经持续了一段时间，但在《华盛顿邮报》的测试中，它在跨性别权利问题上却采取了完全右倾的立场。这一立场与马斯克公开表明的态度完全吻合。这表明，至少在某些话题上，有人刻意干预了模型的输出。 Gemini 3.1 Pro 是保持平衡的异类 谷歌的 Gemini 3.1 Pro 是个异类。该模型在 93% 的情况下呈现了双方观点。只有 7% 的回答包含完全左倾的论点，并且它从未给出过完全右倾的回答。当被问及美国是否应该动用军事力量征服新领土时，Gemini 是唯一一个提出扩张论点的模型，它声称这可以增强美国经济。 《华盛顿邮报》的完整代码和补充分析已在 GitHub 上公开。话虽如此，将 AI 答案简单划分为"左翼"和"右翼"可能过于简单。在所测试的某些话题上，右翼立场与科学共识或普世人权存在冲突。在这种情况下，要求聊天机器人给出保守的答案，无异于将事实或基本权利相对化。 没有炒作的人工智能新闻——由人类精心策划 订阅《THE DECODER》，享受无广告阅读、每周AI新闻通讯、每年六次的独家"AI 雷达"前沿报告、完整档案访问权限以及评论区使用权限。 来源：华盛顿邮报
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:00]
+标题: Google Finance 全新 Android 应用与投资组合功能上线
+链接: https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19
+正文: 我们最新的谷歌财经（Google Finance）升级，包括一款全新的应用 2026年6月25日 通过谷歌财经的新升级，您可以追踪自己的投资组合，并掌握市场情报。此外，我们还推出了一款全新的 Android 应用。 Barine Tee 搜索业务首席工程师 投资是复杂的，但掌握信息不应当复杂。从本周开始，全新的谷歌财经将正式结束测试阶段，并带来多项新功能，帮助您更好地追踪和理解金融投资——同时还推出一款全新的 Android 应用，方便您随时随地使用。追踪您自己的投资组合从本周起，我们将在全新的谷歌财经中面向全球逐步推出投资组合功能，其功能比以往更强大，为您量身定制了新的深度洞察。您将在一个统一的仪表盘中看到您的所有投资，包括表现数据、资产配置洞察等信息。您现有的谷歌财经投资组合将自动可用，或者您也可以通过导入截图或上传文件（如 CSV 或 PDF）来创建新的投资组合，其中包含您的持仓详情。您甚至可以仅通过描述您的投资来开始，并在此基础上逐步完善。 投资组合设置完成后，您可以通过研究工具轻松深入探索。试试提出这样的问题：“我当前投资组合中哪些行业配置不足？”或“我的固定收益配置如何影响长期增长潜力？”随时掌握市场情报今天，我们推出了一种新方式，让谷歌财经能够就您关心的主题为您提供最新信息。要开始使用，请描述一项任务，例如：“每天向我发送一份盘前简报，分析各大加密货币在隔夜期间的重大波动。”您可以根据需要调整时间表或指令，包括使用您的自选列表或投资组合来获取为您量身定制的洞察。设置完成后，谷歌财经将在后台自动运作，准确找到您所需的内容，并按照您偏好的时间表发送一份定制简报。 当你的更新准备就绪时，你会通过 Android 或 iOS 上的 Google 应用收到通知。通知也会出现在网页版 Google 财经的研究面板中，你还可以在那里查看和编辑现有任务。这项新功能现已全球上线，因此你今天就可以开始试用。试试新版 Google 财经应用今天，我们还为 Android 推出了全新的 Google 财经应用，将我们新体验的核心功能直接装进你的口袋。对于每天多次查看市场行情的人来说，这款新应用是一个专属入口，可以轻松访问你的自选列表，以及实时数据、实时财经资讯推送、AI 研究工具和 AI 驱动的“关键瞬间”功能，后者会解释股票为何出现波动。 在接下来的几个月里，我们将把网页版中的更多功能引入移动应用，包括实时财报电话会议以及今天新增的投资组合和任务功能。今年晚些时候，我们还将推出 iOS 版应用，让更多人可以在移动中轻松访问 Google 财经。今天就来看看新版 Google 财经吧，助你获得自信驾驭市场所需的工具和洞察。 发布于：
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 10:07]
 标题: Meta员工警告AI内容审核部署过快
@@ -34,6 +44,11 @@
 标题: Anthropic称阿里巴巴非法获取了Claude AI模型的功能
 链接: https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd
 正文: Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。 🔗 阅读原文：https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
+标题: OpenRouter MCP 服务器发布
+链接: https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7
+正文: OpenRouter MCP 服务器OpenRouter ·2026年6月25日On this page一条命令安装无需切换标签页即可选对模型提交前先测试不离开编辑器就能搜索文档专用且带上限的密钥工具箱里有什么常见问题解答你的编程智能体在编写代码方面非常出色。 但在选择合适的模型时——例如，既要用它来写代码，又不想一天就花光月度预算，或者要选一个最适合设计落地页的模型——它就非常吃力了。 你的智能体可以大致猜出哪个模型“最好”，但它只是基于几个月前的训练数据来猜测，完全不知道模型的实际成本、在特定任务上的表现如何、应该固定使用哪家供应商等信息。 这种局面到此为止。 今天，我们非常激动地宣布 OpenRouter MCP 正式发布。 OpenRouter MCP 服务器将实时模型数据、基准排名、定价、文档和测试推理直接呈现给你和你的智能体，帮助你做出关于选用最佳模型的正确决策。一条命令即可安装，你最喜欢的智能体就能利用 Artificial Analysis、Design Arena 以及 OpenRouter 自身模型排名的最新数据来回答“哪个模型最擅长写代码又不会让我破产”？提示：答案是 GLM-5.2。 立即接入 | 文档 一条命令安装 Claude Code： claude mcp add --transport http openrouter https://mcp.openrouter.ai/mcp claude mcp openrouter Codex CLI： codex mcp add openrouter --url https://mcp.openrouter.ai/mcp codex mcp openrouter Cursor：添加到 ~/.cursor/mcp.json： { "mcpServers": { "openrouter": { "url": "https://mcp.openrouter.ai/mcp" } } } 请参阅接入指南，了解 OAuth 登录及所有支持的客户端。 无需切换标签页即可选对模型 你正在构建一个需要结构化 JSON 输出的功能，希望找一个速度快、价格低、而且在这方面真正擅长的模型。通常你会打开 OpenRouter 网站，浏览模型列表，对比基准测试结果，查看定价，也许还在 Playground 里跑几个测试提示词。这需要花 15 分钟来回切换上下文，连一行集成代码都还没写。 连接 MCP 服务器后，你可以在编程智能体中完成这一切： You: "I need a model for structured JSON extraction from legal documents. Fast, under $1/M input tokens, good at following schemas." Agent: [calls models-list with filters] → [calls benchmarks] → [calls model-endpoints] Agent: "google/gemini-3-flash-preview fits well: $0.10/M input, 138k context, strong structured output support. Here's the endpoint with the lowest latency..." 智能体从实时模型目录中拉取数据，交叉参考 Artificial Analysis 智能评分和 Design Arena ELO 排名，并检查各家供应商的定价和延迟。推荐完全基于当前数据，而不是六个月前模型最后一次训练时的旧数据。 提交前先测试 chat-send 让你的智能体向任何模型发送测试提示词，并查看响应、成本以及由哪个提供商提供服务。你的智能体可以并排比较不同模型的回答： You: "Compare how Claude Opus 4.8, GPT-5.5, and DeepSeek V4 Pro handle this structured extraction prompt." Agent: [sends the same prompt to all three via chat-send] [calls generation-get for each to get cost breakdowns] Agent: "All three produced valid JSON. Opus 4.8 nailed the edge case in row 12. GPT-5.5 was 40% cheaper. DeepSeek V4 Pro was fastest at 180ms TTF
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
 标题: 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成
@@ -70,213 +85,204 @@
 链接: https://aihot.virxact.com/items/cmqsef9c302f0slfu6lvuhnu7
 正文: 我们为你带来了新版本的 GPT-5.5 Instant，它聊起来更有趣了。 我们使用最多的模型现在能够更好地理解问题背后的意图，并相应调整其回答。 它还更可靠地处理复杂约束条件，让购物和本地推荐变得更实用、更连贯。 今天向付费用户推出，明天向免费用户推出。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 17:05]
-标题: 思考即回忆：推理如何解锁LLM中的参数化知识
-链接: https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi
-正文: 探索我们的众多重点领域 查看所有研究领域 应用 AI 与科学 地球 AI 健康 AI 科学 AI 可持续性与危机韧性 基础机器学习与算法 算法与理论 信息检索 机器智能 机器感知 自然语言处理 人、系统与量子 AI 人机交互与可视化 网络 量子 AI 负责任 AI 反滥用 软件工程 软件系统 了解更多 论文 项目 构建协作生态系统 数据集 获取高质量数据集以加速你的研究。 工具与服务 探索我们最新的 AI 模型与产品。 开源 发现开源代码并与社区协作。 共同塑造未来 查看所有项目 教师项目 通过与大学教师的深入互动参与学术研究社区。 学生项目 通过广泛的课程支持下一代研究人员。 工作地点 在我们遍布全球的办公室和研究实验室中找到你的位置。 将发现转化为现实世界的影响力 人员 我们的研究人员通过基础与应用研究推动计算机科学的进步。 团队 协作团队应对世界上最具挑战性的 AI 问题。 研究 探索我们的众多重点领域 查看所有研究领域 应用 AI 与科学 基础机器学习与算法 人、系统与量子 AI 了解更多 论文 项目 资源 构建协作生态系统 数据集 获取高质量数据集以加速你的研究。 工具与服务 探索我们最新的 AI 模型与产品。 开源 发现开源代码并与社区协作。 会议与活动 职业发展 共同塑造未来 查看所有项目 教师项目 通过与大学教师的深入互动参与学术研究社区。 学生项目 通过广泛的课程支持下一代研究人员。 工作地点 在我们遍布全球的办公室和研究实验室中找到你的位置。 博客 关于我们 将发现转化为现实世界的影响力 人员 我们的研究人员通过基础与应用研究推动计算机科学的进步。 团队 协作团队应对世界上最具挑战性的 AI 问题。 Google Research Google AI 了解我们所有的 AI Google DeepMind 探索 AI 前沿 Google Labs 尝试我们的 AI 实验 研究 资源 会议与活动 职业生涯 博客 关于 搜索 1. 首页 2. 博客 思考以回忆：推理如何解锁大语言模型中的参数化知识 2026年6月24日 Zorik Gekhman 和 Jonathan Herzig，Google Research 研究科学家 我们研究了一个反直觉的现象：即使不需要复杂的逐步解决方案，推理也能帮助语言模型回忆起简单的事实。我们证明，这一现象由两种机制驱动：(1) 使用生成的推理 token 执行潜在计算，以及 (2) 生成相关事实以启发正确的答案回忆。 快速链接 论文 [](https://twitter.com/intent/tweet?text=https%3A//research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/ "分享到 Twitter") [](https://www.facebook.com/sharer/sharer.php?u=https%3A//research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/ "分享到 Facebook") [](https://www.linkedin.com/shareArticle?url=https%3A//research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/&amp;mini=true "分享到 LinkedIn") [](mailto:name@example.com?subject=Check%20out%20this%20site&amp;body=Check%20out%20https%3A//research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/ "通过电子邮件发送") 复制链接 × 众所周知，允许大语言模型（LLM）生成逐步推理轨迹（通常称为链式推理（CoT））可以提升其在复杂任务上的表现。当模型求解困难数学方程、编写软件或回答多跳事实性问题时，将问题分解为可管理的逻辑步骤非常有效。 然而，对于简单、单跳的事实性问题，这种方法的作用仍不明确。例如，考虑这样一个查询："Mary Engle Pennington 是哪一年入选美国国家发明家名人堂的？" 大语言模型要么在参数化记忆（直接编码在其权重中的知识）中存储了该事实，要么没有；不需要任何复杂的
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 16:49]
 标题: Figma在Config 2026押注人类判断，画布AI能力却来自第三方
 链接: https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy
 正文: Figma 在 Config 2026 上押注人类判断力，而为其画布提供动力的 AI 却来自他人 Jonathan Kemper 查看 Jonathan Kemper 的领英资料 Jun 24, 2026 Figma 要点 Figma 正将其设计画布从静态布局扩展到涵盖代码、动画和 3D 效果，旨在将用户留在其平台上，因为 Anthropic 和 OpenAI 等 AI 竞争对手越来越多地提供可直接生成界面的工具。 该公司正在引入协作功能，让团队可以分享成功的 AI 提示词、工作流和自定义插件，从而更轻松地在彼此成果的基础上进行构建。 使用外部 AI 模型带来的高推理成本正在压缩 Figma 的利润空间，促使该公司专注于更紧密地集成设计与代码，以减少模型 token 消耗并提高效率。 在 Config 2026 上，Figma 押注于人类判断力和更智能的模型 token 使用，而非构建自己的模型。AI——该公司的关键增长引擎——正在侵蚀利润率，而且这些 AI 能力来自 Anthropic 等也在构建竞品产品的供应商。 在其旧金山年度大会上，Figma 推出了一系列更新，将设计画布转变为代码、动画、深度、表面效果和 AI 智能体的工作空间。该公司表示，财富 500 强中有 95% 的企业都在 Figma 中构建产品。 用 AI 生成界面、文本和代码已经变得廉价。而所有那些输出都在争夺的人类注意力，却并未增长。要脱颖而出，就必须超越那些在互联网平均内容上训练的模型所能产出的东西。该公司表示，新功能为设计师提供了更多工具来实现这一点，同时无需放弃对结果的控制。 代码、动画、深度和着色器集成于单一画布 这一切从代码开始。去年，Figma 通过 Figma Make 首次将代码引入画布。现在，Make 可以拉取团队的生产代码，并通过分支、提交和拉取请求来应用更改，全程无需终端。该功能正在以 Beta 版本形式推出。 借助全新的代码图层（Code Layers），设计与代码在同一空间中并存。用户可以从设计生成代码，通过智能体进行提示，或从 GitHub 导入仓库。在代码图层中，用户可以拖出可编辑的设计图层，直接对其进行调整，再将其转换回代码。Figma 表示，其速度与设计师已经习惯的通过设计图层迭代多种方案的速度相当。 代码图层（Code Layers）将组件作为可直接编辑的文件显示在画布上。| 图片：Figma 动效（Motion）是即将加入画布的第二个元素。过去需要借助外部工具完成的动画、过渡和时间线，如今已成为设计系统的一部分。它们可以协作编辑、通过智能体生成，并通过开发者模式（Dev Mode）和 MCP 一路推送至生产环境。 另外，Figma 还新增了支持 3D 变换的深度图层。此前，界面中的空间深度大多通过叠加重影来模拟。现在，设计师可以直接塑造透视效果。 Figma 动效（Figma Motion）让团队能够在一个共享时间线上协调动画（包括批注）。| 图片：Figma 全新的着色器功能利用 WebGPU 实现诸如抖动、像素化、多种模糊效果以及类磨砂玻璃或抛光铬金属的表面质感。过去这需要图形编程知识。现在，用户只需描述所需效果，智能体便会生成该效果并附带可调节的控制项。 所有这些功能背后的理念都是相同的。AI 不应只是抛出一个最终结果，让你要么接受，要么重新提示。它应该为你提供一个可以持续微调的工具。结果可以在团队内共享。 着色器填充（Shader Fills）将程序化填充（如半色调或粒子图案）直接带到 Figma 画布上。| 图片：Figma 最后，Figma 整合了去年收购的工作流系统 Weave，并将其作为所谓的“AI 素材”。Weave 让团队能将多个模型和图像源组合成一个统一的设计方向，例如用于某个营销活动。 从本周开始，超过 20 款 Weave 工具已在画布上可用。Figma 称这仅是第一步。完整的集成预计于今年晚些时候完成。目标是让品牌和产品团队拥有一个共享的工作空间。 Weave 插件 Texturize 可根据描述为文本添加材质纹理。| 图片：Figma 共享提示词、技能和自定义工具 公告的后半部分是关于协作的。AI 让个人工作变得更轻松，但团队协作却更难了。团队容易被评审环节拖累，失去对共同进度的把握。 Figma 的解决方案聚焦在提示词本身。与智能体的每次交互都会产生一个工作流和一种提示词技巧。用户可以搜索队友智能体完成的工作，并以其为起点重复使用。找到了解决问题的好方法？分享给团队。 Agent Skills 允许用户定义自定义命令，如 `/contrast-improvements`，与团队共享，并应用于整个设计稿。| 图片：Figma 常用的工作流可以保存为技能，并在团队范围内部署，比如检查设计是
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 16:00]
-标题: NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调
-链接: https://aihot.virxact.com/items/cmqs9yjcy0187slfupnhipvhf
-正文: 使用 NVIDIA NeMo AutoModel 加速 Transformer 架构微调 Enterprise + Article 发布于 2026 年 6 月 24 日 Adil Asif adil-asif nvidia Alexandros Koumparoulis akoumpa nvidia Wenwen Gao wgao2021 nvidia Sylendran Arunagiri Sylendran95 nvidia David Messina davidsalmessina70 nvidia Bernard Nguyen bernardwin nvidia HuggingFace Transformers has become the foundation of the open-source AI ecosystem, and the recent Transformers v5 release strengthened it with first-class support for Mixture-of-Experts (MoE) models, now the dominant architecture for frontier models. v5 ships the MoE foundations: expert backends, dynamic weight loading, and distributed execution that make MoE extensible and easy to build on. NVIDIA NeMo AutoModel 是 NVIDIA NeMo 框架中的一个开源库，用于大规模构建定制化生成式 AI 模型。NeMo AutoModel 直接构建在 Transformers v5 之上，新增了专家并行（Expert Parallelism）、DeepEP 融合全对全（all-to-all）调度以及 TransformerEngine 内核，并利用 v5 的动态权重加载，将这些优化推广到越来越广泛的模型族。其成果是：在对 MoE 模型进行微调时，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，且使用相同的 `from_pretrained()` API——只需修改一行导入代码，无需其他改动。 本篇博客详细介绍了这种组合的工作原理，以及用户如何在无需更改 API 的情况下更快地微调 MoE 模型。 背景 MoE 模型的兴起给高效训练带来了新挑战：跨数百个专家路由 token、将专家矩阵乘法融合到单个内核中、在 GPU 间对权重进行分片，以及将通信与计算重叠——所有这些都需要超越通用库原生能力的基础设施。 Transformers v5（“v5”）引入了原生的 MoE 支持，例如专家后端、动态权重加载，以及用于分布式执行的张量并行方案。此外，v5 通过将 PyTorch 的 DeviceMesh 直接集成到 `from_pretrained()` 中，使分布式训练成为一等公民。 NeMo AutoModel 通过继承 `AutoModelForCausalLM`，并在其上添加专家并行（EP）、DeepEP 融合全对全调度以及 TransformerEngine 内核，构建于 v5 之上。DeepEP 是 v5 尚不具备的组件：它将通信与专家计算重叠。由于 NeMo AutoModel 利用 v5 的可逆权重转换来加载每个模型，因此可以将工程精力集中在这些可复用的核心操作上，而无需为每个模型单独处理检查点管道的细节；同时，`save_pretrained()` 仍然输出标准的 HF 检查点，vLLM 和 SGLang 等工具可以直接加载。 下一节将介绍两者如何协同工作，以及我们测量的性能提升——从跨16个节点全量微调NVIDIA Nemotron 3 Ultra 550B A55B，到单节点模型（如Qwen3-30B-A3B和Nemotron 3 Nano 30B A3B）。 NeMo AutoModel：相同API，更强性能 NeMo AutoModel的目标之一是与HuggingFace Transformers实现API兼容，以支持开源社区。NeMoAutoModelForCausalLM继承了AutoModelForCausalLM，因此任何能与HF模型配合使用的代码，也能与AutoModel协同工作。 以下是两种方式加载模型的对比示例。唯一的变化在于导入语句： 单靠这条导入语句就完成了大量工作。对于Qwen3、NVIDIA Nemotron、GPT-OSS和DeepSeek V3等主流MoE架构，NeMo AutoModel内置了经过
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:54]
+标题: SpaceX Wants to Deploy Millions of AI Compute Satellites in Space. Here's How It Plans to Get There.
+链接: https://finance.yahoo.com/technology/ai/articles/spacex-wants-deploy-millions-ai-155400689.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 16:00]
-标题: OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半
-链接: https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241
-正文: 当零意味着零Afzal Jasani · 2026年6月24日On this pageOpenRouter 如何处理 ZDR过去一周，“零数据留存”（Zero Data Retention，ZDR）被提及了大约 15 次。第一次是当我和妻子在找电视节目看的时候。她建议我们看新剧《公鸡》。但我们已经看完了前三集！这才叫真正的零数据留存。 接下来的 14 次同样令人兴奋，因为我意识到每个人对零数据留存及其实际含义的看法都不太一样。这让我回想起以前人们要求“实时”数据，当我问他们实时是什么意思时，他们回答说“哦，每 15 分钟一次就很好”。呵，这哪算什么实时。 ZDR 通常意味着保证你的数据在处理后不会被存储。其中的细微差别在于“数据”包含哪些内容。这种对“数据”定义的混淆正是造成隐私和安全风险的原因。 例如，你有提示词和响应。提示词是你发送给大语言模型的内容。根据提供商和套餐的不同，你发送的内容可能会被存储、访问或用于训练未来的模型。因此，企业担心它们实际的提示词是合理的，因为提示词中可能包含专有信息。 举个例子，假设工程团队中的某个人向大语言模型提示词：“调试我们产品中的这个认证问题”。在没有 ZDR 的情况下，这条提示词可能会被存储，在某些情况下还会被用作训练数据，从而超出你的控制范围暴露你内部系统的细节。虽然你的认证问题可能得到了解决，但这风险实在不值得冒。在医疗和金融服务等高度监管的行业中，这种风险会进一步放大。 在响应方面，模型的输出同样敏感。继续上一个例子，大语言模型可能回复说：“除了你的认证问题，我还发现了这些其他漏洞”。如果该响应被保留，那么你的未修复漏洞记录就会存在于第三方日志中，一旦发生泄露或配置错误，这些漏洞就可能被暴露。 然后再加上缓存技术——随着大家都在追求模型 token 优化，缓存已成为重中之重。部分服务商会自动处理对提示词的隐式缓存。具体做法是：将提示词中重复出现的部分存入内存缓存，从而避免重复处理，这能带来显著的成本节省。不过，缓存并不被视为数据留存，因为没有任何内容存入长期存储。你也可以设置显式缓存，但这需要你标记出哪些内容块需要缓存。 因此，“数据”本质上就是提示词和响应。元数据（时间戳、模型版本、延迟、吞吐量、成本等）算是一个例外，但通常认为存储这些数据是安全的，因为它们不包含敏感内容。 在 OpenRouter，我们每天都处理关于零数据留存（ZDR）的问题。事实上，自今年年初以来，我们提供的支持 ZDR 的模型阵容已经变得更加强大。在许多场景下，ZDR 正从“锦上添花”演变为“刚性需求”。 自 1 月以来，我们新增了 97 个支持 ZDR 的模型。虽然可用性很重要，但我们也观察到，ZDR 模型在整个平台上的模型 token 用量始终保持稳定。 可用性说明我们拥有充足的供给，而用量则证明用户正在有意义地使用这些模型。这通常转化为实际的生产工作流。我服务过许多 AI 原生公司，它们既能在前沿模型上使用 ZDR 模型，也能在开放权重模型上使用。这种灵活性如今已成为硬性要求。 自 1 月以来，我们支持 ZDR 的模型月度模型 token 用量增长了 4.3 倍。ZDR 不应以牺牲模型选择为代价。其他服务商无法支持我们所能支持的众多模型，因此如果没有 OpenRouter，你可能会被锁定在单一供应商上，而无法拥有我们默认提供的可选择性。 不过这一切都说得通。我上一篇文章强调了模型可选择性以及企业为何需要它。你不可能从一家供应商那里得到所有你需要的东西，而标准化于一家供应商可能意味着自取灭亡。 在 OpenRouter 路由的全部流量中，大约一半已经是 ZDR。在我们的企业级业务中，我们看到许多组织希望深入了解如何实际执行和启用这一点。 OpenRouter 如何处理 ZDR 那么，OpenRouter 是如何处理 ZDR 的呢？我们在三个层面实施，你可以根据自身需求选择控制程度。 账户层面。在整个账户中，为某个完整提供商（Anthropic、OpenAI、Google 或非前沿模型）开启 ZDR。只需设置一次，后续所有请求都会继承该设置。 防护栏层面。按每个 API 密钥或每个组织成员限定实施范围。这样，生产环境密钥可以要求 ZDR，而沙盒密钥则不要求。团队借此既能执行严格策略，又不妨碍实验探索。 单次请求层面。在单个调用中传入 `"provider": {"zdr": true}`。OpenRouter 随后仅将该请求路由至符合 ZDR 条件的端点，跳过任何无法满足该策略的模型或提供商，并继续尝试列表中下一个符合条件的选项。 请记住，“数据”所涵盖的三项内容：提示词、响应以及中间的元数据。无论你实际关注的是其中哪一项，都可以根据团队的工作方式，在相应的层面实施管控。 这正是受监管团队一直向我们要求
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:45]
+标题: Palantir Hits New 52-Week Low As Swoon Drags On. Is Meme Stock Luster Gone?
+链接: https://www.investors.com/news/technology/palantir-stock-pltr-hits-52-week-low-software-pressured/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 15:59]
-标题: Mistral AI 为 Connectors 推出多项安全与可控新能力
-链接: https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c
-正文: Studio 构建、测试并运行 AI 智能体与应用程序。Forge 训练、对齐并评估自定义 AI 模型。Vibe AI 智能体用于长周期工作。Vibe for Code 终端、IDE 及后台中的编码智能体。Compute 面向训练与推理的前沿基础设施。 定价 方案API 定价面向企业 服务 交付方法模型定制 行业 金融服务公共部门与政府制造业 使用场景 使用场景概览编码文档智能语音 最新模型 Mistral OCR 4 Mistral Medium 3.5 Mistral Small 4 Voxtral TTS 查看所有模型 文档API 参考手册指南 最新文章 为连接器带来更多控制权推出 Mistral OCR 4AI Now 峰会 2026 阅读所有新闻 分类 产品研究工程解决方案公司 精选案例 ASMLCMA CGMHSBCBMW 查看全部 我们是谁 关于我们职业品牌 联系 社区合作伙伴帮助中心 产品解决方案研究开发人员博客客户公司 定价 方案API 定价面向企业 服务 交付方法模型定制 行业 金融服务公共部门与政府制造业 使用场景 使用场景概览编码文档智能语音 最新模型 查看所有模型 文档API 参考手册指南 最新文章 阅读所有新闻 分类 产品研究工程解决方案公司 精选案例 ASMLCMA CGMHSBCBMW 查看全部 我们是谁 关于我们职业品牌 联系 社区合作伙伴帮助中心 开始构建 StudioVibeVibe for Code 联系销售 工程 为连接器带来更多控制权 2026 年 6 月 24 日 作者：Mistral AI 返回博客 4 分钟阅读 分享此文章 复制到剪贴板 已复制 管控哪些工具在何处运行，将多个账户连接到同一个连接器，并追踪任何中断的连接。 今天，我们为 Connectors 引入了多项新功能，旨在提供更安全的外部企业平台集成体验。即日起，您可以开始使用： **增强型管理控制**（正式发布）——按工作区设置连接器访问权限，并可在组织或工作区范围内单独开启或关闭各个工具 **具备连接器作用域的 API 密钥**（正式发布）——防止在与第三方系统集成的自动化 AI 工作负载中出现身份冒充行为 **多账户连接器**（正式发布）——允许用户使用多个账户对单个连接器进行身份验证 **Connectors Debugger**（公开预览）——用于对 MCP 连接器进行端到端根因分析 **Vibe Code 中的连接器**（正式发布）——在开发者界面中复用您的连接器 **工作流中的连接器**（公开预览）——让由您所需全部工具驱动的长时间运行任务能够不间断地执行 异步智能体正进入日常工作中。要让一个智能体在组织内部值得信赖且有用，它需要真实的企业数据：CRM 记录、代码仓库、收件箱、知识库。在演示环境中将智能体连接到这些数据很容易。但在生产环境中运行，却正是大多数方案停滞不前的地方。 生产环境下的连接性有几个不容商量的要求。一个连接器应同时遵守两套规则：源平台已设置的权限，以及管理员在 Mistral Studio 或 Vibe 中设定的控制策略。自动化工作应以用户或服务账户的名义运行，绝不可冒充编写它的人。当连接中断时，您应该能够查明原因。同时，管理员应能够精确到每个工具，来决定组织的每个部分可以使用哪些功能。 对连接器功能更强的控制 **增强型管理控制**在两个层级上工作：跨团队层面，以及每个连接器内部。 **工作区和组织控制**让您可以为每个团队分配自己的连接器访问权限。您的财务工作区可以访问内部数据源，但没有开放的网络访问；而工程团队则可以获得开发者工具和互联网。同一目录，每个团队规则不同。 **工具级控制**则更进一步。在任何连接器内部，您可以针对整个组织或某个工作区打开或关闭单个工具。可以阻止任何写入数据的操作，或者阻止知识库上的某个特定操作如 `delete_file`。连接器保持连接状态；只有您批准的工具才能运行。 **具有连接器作用域的API密钥**处理身份问题。创建密钥时，你可以选择它仅能访问工作空间的共享连接器，还是也能访问你的私有连接器，这样自动化任务就能以精确所需的权限运行。与服务账号配合使用时，自动化工作会以定义好的身份运行，而绝不会是编写者的个人身份。 **多账户连接器**允许一个连接器持有多个登录信息。将个人账户和工作账户连接到同一个连接器，设置一个默认账户，然后根据任务在它们之间切换。每个账户独立存储和刷新，这样智能体就能在正确的账户下操作，无需你另外部署第二个连接器。 查看连接失败的原因 **连接器调试器**能精确定位连接中断的位置。将其指向一个MCP服务器URL，如果服务器需要，添加OAuth凭据，然后运行检查。它会逐步遍历连接的11个步骤——从访问服务器到打开MCP会话，并
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:41]
+标题: Polestar exits US market after government bans sales due to connected vehicle tech
+链接: https://finance.yahoo.com/markets/stocks/article/polestar-exits-us-market-after-government-bans-sales-due-to-connected-vehicle-tech-154117151.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 14:20]
-标题: 里德·霍夫曼称SpaceX"不是一家人工智能公司"，xAI则是"彻底的灾难"
-链接: https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w
-正文: 热门趋势1After forcing workers back to the office, Goldman Sachs and JPMorgan Chase are now letting their staff work remotely—but only for the World Cup2The Pentagon said Iran War costs $29 billion,but the real cost is closer to $200 billion—and counting3Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stockAI 领域 · 雷德·霍夫曼雷德·霍夫曼称 SpaceX “不是一家人工智能公司”，xAI 则是“一场彻底的灾难”——同时他表示 OpenAI 和 Anthropic 都能找到各自的空间By 尼克·利希滕贝格Nick LichtenbergBusiness EditorBy 尼克·利希滕贝格Nick LichtenbergBusiness Editor2026 年 6 月 24 日，美国东部时间上午 5:00领英联合创始人雷德·霍夫曼于 2025 年 3 月 24 日星期一在伦敦接受彭博电视采访。Jason Alden / Bloomberg via Getty Images在 Google 上添加《财富》杂志以获取类似内容。这位领英联合创始人、同时也是 Anthropic 和 OpenAI 的投资人，发表了迄今为止对埃隆·马斯克 AI 野心的最尖锐公开评价——并就政府对 Anthropic 被撤回模型的处理方式发出警告 雷德·霍夫曼几乎从各个角度审视了 AI 行业——作为创始人、主要投资人，以及长达十年的微软董事会成员。因此，当他称 SpaceX 的 AI 策略是“花钱买存在感”，并形容 xAI 为“一场彻底的灾难”时，这并非旁观者的热血评论，而是硅谷最受尊敬的声音之一给出的定论。 “SpaceX 不是一家人工智能公司，”霍夫曼在与拉娜·埃尔·卡利乌比在其《AI 先驱》播客对话中表示。“XAI，正如埃隆自己描述的那样，对于其基座模型构建及其他方面而言，完全就是一场灾难。”他还指出，xAI 的所有创始人都已离开，公司正在“第三次重启”。 xAI 联合创始人的出走已被充分记录。到 2026 年 5 月，xAI 最初的 11 位联合创始人已全部离开公司，这场离职潮始于 2 月份，当时被描述为运营层面最核心的联合创始人之一吴迪（Tony Wu）宣布辞职。马斯克随后重组了 xAI 的团队，但离职仍在继续。该公司的旗舰 Grok 模型因在基准测试中持续落后于 Anthropic 和 OpenAI 的竞争对手而一直面临批评。 霍夫曼发表这番言论的时机非常巧妙。SpaceX 于 6 月 12 日上市，AI 是其 IPO 叙事中的核心。上市后几天内，该公司便宣布收购 AI 编程工具 Cursor。霍夫曼对此解读为：这并非 AI 能力的证明，反而是其能力不足的证据。“你几乎可以把它看作是 AI 界的 IAC，”他借用巴里·迪勒互联网时代企业集团的连环收购整合策略说道，“利用市值去收购 AI 公司，试图靠花钱买来一席之地。” 他对 SpaceX 核心计算业务的评价同样犀利。该公司将租赁 AI 基础设施（包括租给 Anthropic）所获得的收入，标榜为其 AI 资质的证明。“你就是一家溢价版的 CoreWeave，”霍夫曼说，“我明白。但这并不是一家 AI 公司。” Anthropic 事件 如果说霍夫曼对 SpaceX 的评论是怀疑，那么他对美国政府强制 Anthropic 将其 Fable 和 Mythos 模型从市场撤下的反应，则更接近于警觉。 美国政府于 6 月 11 日发布出口管制令，暂停所有外国公民访问这两个模型。据《财富》杂志报道，触发这一指令的原因是亚马逊 CEO 安迪·贾西就 Fable 5 模型中发现的越狱漏洞拉响了警报——而 Anthropic 本身一直在努力修复该漏洞。网络安全专家普遍批评政府的回应过度且范围不清。 霍夫曼也持类似看法。“这看起来不像是有任何特别有原则性、有条理的应对方式——比如遵守法治和可预测性，”他说，“更像是‘嘿，反正我们跟这家公司本来就有过一些摩擦，那就拿棍子敲它一下。’”他补充道，这种做法并没有附带任何有原则的解释。 他称这种做法是“独断专行、随心所欲”且“非常不理想”，同时也承认可能存在合理的网络安全依据。最让他困扰的是这种不对称性——Anthropic 受到了处罚，而 OpenAI 却没有。值得注意的是，Anthropic 本身
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:41]
+标题: Elon Musk's SpaceX Could Acquire T-Mobile In Wireless Push, Says Analyst
+链接: https://www.investors.com/news/technology/spacex-stock-spcx-elon-musk-acquire-tmobile-wireless-firm/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 14:02]
-标题: 字节跳动技术副总裁洪定坤：AI Coding 的实践与探索
-链接: https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny
-正文: 在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。 🔗 阅读原文：https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:53]
-标题: Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin hits its lowest levels in years
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-hits-its-lowest-levels-in-years-125308371.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 23:26]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron eases AI fears, PCE hits 3-year high
-链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-micron-eases-ai-fears-pce-hits-3-year-high-232650645.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:50]
-标题: Apple raises prices of MacBooks, iPads as memory costs skyrocket
-链接: https://finance.yahoo.com/news/apple-raises-prices-macbooks-ipads-124211944.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 20:40]
-标题: Micron's stock soars after blowout earnings expose AI's memory bottleneck
-链接: https://finance.yahoo.com/markets/article/microns-stock-soars-after-blowout-earnings-expose-ais-memory-bottleneck-204039376.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:50]
-标题: SpaceX (SPCX) Is Down 31% From Its High and Is Now Borrowing $25 Billion. Should Investors Be Worried?
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-down-31-high-125000291.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:38]
+标题: NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-projects-1-trillion-153827045.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:10]
 标题: Daily – Vickers Top Buyers & Sellers for 06/25/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47434_TopBottomInsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:48]
-标题: Stock Market Today: Dow Rises After Key Inflation, Surprise GDP Data; Micron Rockets On Earnings News (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-stock-mu/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:53]
+标题: The Dividend Growth Path That Turns A $50,000 Income Stream Into More Than $100,000
+链接: https://finance.yahoo.com/markets/stocks/articles/dividend-growth-path-turns-50-155354274.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:48]
-标题: PCE Inflation Data Hot But Falling Oil Prices Calm Fed Fears (Live Coverage)
-链接: https://www.investors.com/news/pce-inflation-may-federal-reserve-sp-500/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:34]
+标题: Is Woodside Energy Group Ltd (WDS) a Mispriced Opportunity?
+链接: https://finance.yahoo.com/energy/articles/woodside-energy-group-ltd-wds-153418133.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:47]
-标题: Tech stocks surge as Micron earnings ease AI fears, oil falls further
-链接: https://finance.yahoo.com/news/asian-stocks-surge-micron-earnings-012554974.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 23:26]
+标题: Stock market today: Dow and S&P 500 rise, Nasdaq slips as PCE comes in hot, Big Tech falters
+链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-and-sp-500-rise-nasdaq-slips-as-pce-comes-in-hot-big-tech-falters-232650645.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: Fed's preferred inflation measure hits three-year high, keeping talk of possible rate hike in play
-链接: https://finance.yahoo.com/economy/policy/article/feds-preferred-inflation-measure-hits-three-year-high-keeping-talk-of-possible-rate-hike-in-play-124158491.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:25]
+标题: Polestar says Trump administration forcing it to end US sales
+链接: https://finance.yahoo.com/news/us-denies-polestar-authorization-sell-130146185.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:46]
-标题: 5 High-Yielding Dividend Kings Retirees and Boomers Can Buy Today and Safely Hold Forever
-链接: https://finance.yahoo.com/markets/stocks/articles/5-high-yielding-dividend-kings-124613207.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:24]
+标题: IBD 50 Stock Indivior Breaks Out Amid Big Fund Ownership Expansion, Strong Profit Prospects
+链接: https://www.investors.com/research/top-stocks-to-buy-ibd-50-stock-indivior-indv/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:10]
 标题: Daily – Vickers Top Insider Picks for 06/25/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47433_InsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Prenetics Global Limited (PRE) Receives Bullish Coverage as IM8 Targets Supplement Market Growth
-链接: https://finance.yahoo.com/healthcare/articles/prenetics-global-limited-pre-receives-124358311.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:53]
+标题: Wall Street Just Panic-Dumped an Unstoppable $72 Billion Software Empire: Here Is the 1 AI-Driven Bargain I Am Loading Up On
+链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-just-panic-dumped-155311286.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Is Lands’ End, Inc. (LE) Stock Set for Growth After Debt Reduction and Strategic Partnership?
-链接: https://finance.yahoo.com/markets/stocks/articles/lands-end-inc-le-stock-124348397.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:22]
+标题: Meta Stock: 'Bulls Are Frustrated' But Analyst Sees Big Potential For AI Business Push
+链接: https://www.investors.com/news/technology/meta-stock-business-agent-ai-estimates/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Can Palladyne AI Corp. (PDYN) Benefit From Rising Demand for Advanced Defense Technologies?
-链接: https://finance.yahoo.com/markets/stocks/articles/palladyne-ai-corp-pdyn-benefit-124340434.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:22]
+标题: Micron joins rivals pitching AI deals as cure for memory's boom-bust cycle
+链接: https://finance.yahoo.com/news/micron-joins-rivals-pitching-ai-152220088.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Is Perion Network Ltd. (PERI) Positioning Itself as an AI-Powered AdTech Growth Story?
-链接: https://finance.yahoo.com/media-advertising/articles/perion-network-ltd-peri-positioning-124332332.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:19]
+标题: Tequila, Trucking, and the Future of the Border
+链接: https://finance.yahoo.com/small-business/articles/tequila-trucking-future-border-151904277.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:13]
+标题: Salesforce (CRM) Traded Lower Despite Strong Fundamentals
+链接: https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-traded-lower-despite-151328614.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 11:16]
 标题: Analyst Report: Pinnacle West Capital Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3322_AnalystReport_1782386191000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Is Bed Bath & Beyond, Inc. (BBBY) Rebuilding Customer Engagement Through Its Legendary Coupon Hunt?
-链接: https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-inc-bbby-124325948.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:51]
+标题: Apple’s Target Climbs as Earnings Accelerate: The Case For Double-Digit Upside
+链接: https://finance.yahoo.com/markets/stocks/articles/apple-target-climbs-earnings-accelerate-155156740.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:43]
-标题: Is Yext, Inc. (YEXT) Facing Growth Challenges After Mixed Q1 Results and Analyst Downgrade?
-链接: https://finance.yahoo.com/markets/stocks/articles/yext-inc-yext-facing-growth-124300904.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:13]
+标题: US May PCE inflation rises 4.1%, keeping Fed hike in play
+链接: https://finance.yahoo.com/economy/articles/us-pce-inflation-measure-tops-124005521.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:42]
-标题: Innoviva, Inc. (INVA) Launches Nortiva Bio to Advance Long-Acting Oral Drug Platform
-链接: https://finance.yahoo.com/healthcare/articles/innoviva-inc-inva-launches-nortiva-124251077.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:09]
+标题: Quad-C backs fast-growing North Carolina transport group with investment
+链接: https://finance.yahoo.com/small-business/articles/quad-c-backs-fast-growing-150922747.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:42]
-标题: Is Upstream Bio, Inc. (UPB) a Rising Biotech Opportunity After New Analyst Coverage?
-链接: https://finance.yahoo.com/healthcare/articles/upstream-bio-inc-upb-rising-124244842.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:42]
-标题: Is Rocket Pharmaceuticals, Inc. (RCKT) Poised for Recovery After Key Gene Therapy Program Milestone?
-链接: https://finance.yahoo.com/healthcare/articles/rocket-pharmaceuticals-inc-rckt-poised-124237659.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:05]
+标题: Leopold Aschenbrenner’s Situational Awareness Top AI Pick-And-Shovel Stock Pick in 2026
+链接: https://finance.yahoo.com/technology/ai/articles/leopold-aschenbrenner-situational-awareness-top-150531078.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 11:16]
 标题: Analyst Report: Micron Technology Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3614_AnalystReport_1782386191000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:42]
-标题: Is Elanco Animal Health Incorporated (ELAN) Positioned for Long-Term Growth With Seven Potential Blockbuster Launches?
-链接: https://finance.yahoo.com/healthcare/articles/elanco-animal-health-incorporated-elan-124216974.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:42]
-标题: Agilent Technologies, Inc. (A) Initiated at Neutral With $150 Price Target by Piper Sandler
-链接: https://finance.yahoo.com/healthcare/articles/agilent-technologies-inc-initiated-neutral-124206976.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:51]
+标题: Micron Hits New Highs, Here’s What Smart Investors Are Doing
+链接: https://finance.yahoo.com/markets/stocks/articles/micron-hits-highs-smart-investors-155102669.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: Is Haleon plc (HLN) Stock Still a Growth Opportunity After Analyst Downgrade?
-链接: https://finance.yahoo.com/healthcare/articles/haleon-plc-hln-stock-still-124156229.html
+标题: PCE report: Fed's preferred inflation measure hits 3-year high, keeping talk of possible rate hike in play
+链接: https://finance.yahoo.com/economy/policy/article/pce-report-feds-preferred-inflation-measure-hits-3-year-high-keeping-talk-of-possible-rate-hike-in-play-124158491.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: Is GE HealthCare Technologies Inc. (GEHC) Expanding Its Healthcare Technology Lead Through AI-Powered Imaging Solutions?
-链接: https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-inc-gehc-124147414.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:05]
+标题: Agencies Reveal SpaceX Bond Ratings. Space Force Taps Vendors For Defense Program.
+链接: https://www.investors.com/news/spacex-stock-bond-rating-starbase-brewing-starlink-rocket-lab-lockheed-martin-l3harris/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: US PCE inflation measure tops 4.0% in May; consumer spending strong
-链接: https://finance.yahoo.com/economy/articles/us-pce-inflation-measure-tops-124005521.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:00]
+标题: AI Data Center Boom Could Drive Fuel Cell Market to $30 Billion by 2030
+链接: https://finance.yahoo.com/energy/articles/ai-data-center-boom-could-150000082.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:53]
+标题: Oil curve points to near-term glut as Hormuz flows rise
+链接: https://finance.yahoo.com/news/oil-markets-start-signal-near-184924014.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 11:01]
 标题: Market Digest: MU, PNW, SJM
 链接: https://finance.yahoo.com/research/reports/ARGUS_47427_MarketSummary_1782385291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: Is Mirum Pharmaceuticals, Inc. (MIRM) Emerging as a Rare Disease Growth Story After New FOP Data?
-链接: https://finance.yahoo.com/healthcare/articles/mirum-pharmaceuticals-inc-mirm-emerging-124136603.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:50]
+标题: Executive Director Buys 1.2 Million Shares of Borr Drilling. Does That Make BORR a Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/executive-director-buys-1-2-155050539.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: UniQure N.V. (QURE) Upgraded to Overweight as Huntington’s Disease Program Advances
-链接: https://finance.yahoo.com/healthcare/articles/uniqure-n-v-qure-upgraded-124125876.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:06]
+标题: Sandisk, Western Digital, and others soar as Micron results 'justify elevated valuations'
+链接: https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:41]
-标题: Edgewise Therapeutics, Inc. (EWTX) Price Target Raised to $59 on Positive HCM Trial Data
-链接: https://finance.yahoo.com/healthcare/articles/edgewise-therapeutics-inc-ewtx-price-124112234.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:47]
+标题: Keysight Technologies (KEYS) Rallied on Earnings Beat and Improved Outlook
+链接: https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-rallied-earnings-144744649.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:40]
-标题: Is ResMed Inc. (RMD) Stock Still a Long-Term Winner as OSA Market Expansion Continues?
-链接: https://finance.yahoo.com/healthcare/articles/resmed-inc-rmd-stock-still-124059050.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:47]
+标题: Capital One Financial (COF) Slipped Amid Regulatory Overhang
+链接: https://finance.yahoo.com/markets/stocks/articles/capital-one-financial-cof-slipped-144706286.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:40]
-标题: Legend Biotech Corporation (LEGN) Price Target Raised to $49 on LB5006 Clinical Progress
-链接: https://finance.yahoo.com/healthcare/articles/legend-biotech-corporation-legn-price-124048482.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:42]
+标题: Gen Z shoppers are a 'tremendous opportunity': Coach and Kate Spade CEO
+链接: https://finance.yahoo.com/markets/article/gen-z-shoppers-are-a-tremendous-opportunity-coach-and-kate-spade-ceo-144222933.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:40]
-标题: Is Ocular Therapeuticx, Inc. (OCUL) Stock Positioned for Growth After Positive FDA Feedback on Axpaxli?
-链接: https://finance.yahoo.com/healthcare/articles/ocular-therapeuticx-inc-ocul-stock-124038107.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:49]
+标题: Over a third of UK motor and home insurance customers pay monthly
+链接: https://finance.yahoo.com/healthcare/articles/over-third-uk-motor-home-154957934.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:39]
-标题: AI-Native Wealth Manager Arca Raises $64M
-链接: https://finance.yahoo.com/technology/ai/articles/ai-native-wealth-manager-arca-123940836.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:39]
+标题: Stock Market Today: Indexes Volatile; Micron Surges, But Apple Makes Sell Signal (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-stock-mu/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:39]
-标题: JPMorgan loses a key figure in the race to succeed CEO Jamie Dimon
-链接: https://finance.yahoo.com/markets/article/jpmorgan-loses-a-key-figure-in-the-race-to-succeed-ceo-jamie-dimon-123901072.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:35]
+标题: Dollar eases from 13-month high after data burst
+链接: https://finance.yahoo.com/news/dollar-rides-high-fed-rate-012635389.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:36]
-标题: Analysts Expect Another Stellar Year For This Specialty Chipmaker
-链接: https://www.investors.com/stock-lists/sector-leaders/sitime-stock-sitm-data-center-semiconductor-chip-ai/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:33]
+标题: Alibaba Stock Slides Further On Report China Tech Giant Tried 'Illicitly' Accessing Anthropic AI Models
+链接: https://www.investors.com/news/technology/alibaba-stock-baba-anthropic-ai-claude/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:30]
-标题: Consumer confidence hit a historic low — but stock markets are rallying. Here's why the data may be wrong
-链接: https://finance.yahoo.com/economy/articles/consumer-confidence-hit-historic-low-123000768.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:33]
+标题: iRhythm Holdings (IRTC) Dropped Despite Posting Beat-And-Raise Results
+链接: https://finance.yahoo.com/markets/stocks/articles/irhythm-holdings-irtc-dropped-despite-143307551.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:37]
-标题: HIVE Digital Technologies inks LOI for 10-year lease at Sweden data center, plans $100M exchangeable notes offering
-链接: https://finance.yahoo.com/technology/ai/articles/hive-digital-technologies-inks-loi-123700611.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:46]
+标题: Pioneering sports bar chain only has 3 locations left
+链接: https://finance.yahoo.com/small-business/articles/chilis-rival-sports-bar-chain-194753805.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:35]
-标题: JPMorgan Shakes Up Succession Race for Jamie Dimon With Two New Presidents
-链接: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-shakes-succession-race-jamie-123500168.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:30]
+标题: Middle East Fuel Oil Exports Set to Hit Four-Month High
+链接: https://finance.yahoo.com/energy/articles/middle-east-fuel-oil-exports-143000657.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 13:11]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:30]
+标题: Michael Burry is questioning SpaceX's $3-trillion market valuation — and says he'd be tempted to bet against it
+链接: https://finance.yahoo.com/markets/stocks/articles/michael-burry-questioning-spacexs-3-143000495.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:30]
+标题: US employers announced 97,000 job cuts in May — and AI was blamed for 40% of them
+链接: https://finance.yahoo.com/technology/ai/articles/us-employers-announced-97-000-143000676.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:28]
+标题: Does AppFolio (APPF) Have Affordable Edge Against AI Fears?
+链接: https://finance.yahoo.com/markets/stocks/articles/does-appfolio-appf-affordable-edge-142836740.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 15:41]
+标题: Darden Restaurants posts mixed fourth quarter results as revenue falls short of estimates
+链接: https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-posts-mixed-fourth-154100659.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 14:25]
+标题: Genius Sports Limited (GENI) Sold Off Due to Market’s Skepticism
+链接: https://finance.yahoo.com/markets/stocks/articles/genius-sports-limited-geni-sold-142500997.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 15:44]
 标题: JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits
 链接: https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html
+正文: The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 12:39]
-标题: Wendy's shares soar for a second day as retail investors pile into their new meme darling
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 14:30]
+标题: Wendy's turns lower as meme rally fails to extend to a second day
 链接: https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html
-正文: The stock's advance appeared largely disconnected from company fundamentals and instead reflected a burst of social-media enthusiasm.
+正文: The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 12:12]
 标题: Stocks making the biggest moves premarket: Micron, Qualcomm, IBM, Wendy's & more
@@ -298,30 +304,10 @@
 链接: https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html
 正文: The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 13:42]
-标题: Kalshi CEO says prediction market thinking about IPO, but not for this year
-链接: https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html
-正文: Tarek Mansour said to CNBC's "Squawk Box" it made sense for the company at the stage to think about a debut on public markets.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 20:29]
 标题: New meme stock Wendy's soars more than 25% with trading halted at one point
 链接: https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html
 正文: While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 15:23]
-标题: CFTC sues Kentucky over prediction markets enforcement actions; first 'red state' to face such lawsuit
-链接: https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html
-正文: The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 15:33]
-标题: Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect
-链接: https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html
-正文: Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: What matters most to investors in 2026 and what it means for companies
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies
-正文: Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
 标题: How companies can strengthen their geopolitical risk readiness
@@ -329,14 +315,29 @@
 正文: Survey results reveal a widening gap between leaders’ assessment of their risk exposure and responsiveness. Five actions can help leaders prepare for a range of outcomes—not just the worst case.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
+标题: What matters most to investors in 2026 and what it means for companies
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies
+正文: Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
+标题: Unlocking full potential: Five practices reshaping PE value creation
+链接: https://www.mckinsey.com/capabilities/transformation/our-insights/unlocking-full-potential-five-practices-reshaping-pe-value-creation
+正文: The half-life of the initial deal thesis is shrinking. Private equity firms are shifting toward a more adaptive, execution-led model that reshapes value creation during ownership.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
+标题: Frontiers of compute: The technologies to reduce AI inference costs
+链接: https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs
+正文: AI’s next breakthrough may not be a smarter model but a cheaper token.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
 标题: How TITAN Group’s CEO is transforming a century-old company
 链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-titan-groups-ceo-is-transforming-a-century-old-company
 正文: As the first outside leader of the family-founded business, Marcel Cobuz has made some tough decisions about what to keep and what to change. His formula seems to be working.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 13:11]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 16:17]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 13:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 16:17]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
