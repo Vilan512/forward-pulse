@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-25 19:02:35
-# 共计 52 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-25 21:23:16
+# 共计 30 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-25 14:22]
 标题: Repositioning retail for the AI era
@@ -19,101 +19,15 @@
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-25 10:00]
 标题: IBM has unveiled chip technology that could help extend Moore’s Law another decade
 链接: https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
-正文: IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half a century, chipmakers have been able to make ever more powerful computers by following the key principle of Moore’s Law: Cram more transistors onto the chip. To do this, they shrank transistors—the tiny switches that perform computations—to incrementally smaller sizes. But in the last 15 years, transistors have gotten close to the point where quantum mechanics starts to interfere with their function: just a few dozen nanometers in size. They can’t get smaller. So to fit more transistors on a chip, engineers across the industry are eyeing a pivot to an approach familiar to urban planners: build up. On Thursday, IBM announced it has created a chip that uses this strategy. The new architecture, known as a nanostack, vertically stacks transistors in two layers on a silicon chip. “It’s not just an incremental step,” Jay Gambetta, the director of IBM Research, said during a press conference on Tuesday. “It’s a meaningful leap forward.” Within a decade, Gambetta expects, chips with nanostacking will be widely used in data centers, where their improved efficiency could help the facilities better manage their energy consumption. “Absolutely, it’s transformational,” says Dan Hutcheson, vice chair of TechInsights, a technology analysis company. “This puts another 10, 15 years on the roadmap.” Compared with IBM’s previous state-of-the-art architecture, the company reports, chips built with this new approach can do as much as 50% more work in the same amount of time and be up to 70% more energy efficient. The architecture offers a general way of laying out transistors, and IBM will partner with semiconductor manufacturers to make the actual chips. It anticipates
+正文: IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half a century, chipmakers have been able to make ever more powerful computers by following the key principle of Moore’s Law: Cram more transistors onto the chip. To do this, they shrank transistors—the tiny switches that perform computations—to incrementally smaller sizes. But in the last 15 years, transistors have gotten close to the point where quantum mechanics starts to interfere with their function: just a few dozen nanometers in size. They can’t get smaller. So to fit more transistors on a chip, engineers across the industry are eyeing a pivot to an approach familiar to urban planners: build up. On Thursday, IBM announced it has created a chip that uses this strategy. The new architecture, known as a nanostack, vertically stacks transistors in two layers on a silicon chip. “It’s not just an incremental step,” Jay Gambetta, the director of IBM Research, said during a press conference on Tuesday. “It’s a meaningful leap forward.” Within a decade, Gambetta expects, chips with nanostacking will be widely used in data centers, where their improved efficiency could help the facilities better manage their energy consumption. “Absolutely, it’s transformational,” says Dan Hutcheson, vice chair of TechInsights, a technology analysis company. “This puts another 10, 15 years on the roadmap.”&nbsp; Compared with IBM’s previous state-of-the-art architecture, the company reports, chips built with this new approach can do as much as 50% more work in the same amount of time and be up to 70% more energy efficient.&nbsp; The architecture offers a general way of laying out transistors, and IBM will partner with semiconductor manufacturers to make the actual chips. It
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-26 00:00]
+标题: Run a vLLM Server on HF Jobs in One Command
+链接: https://huggingface.co/blog/vllm-jobs
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-25 16:11]
 标题: Which tokens does a hybrid model predict better?
 链接: https://huggingface.co/blog/allenai/hybrid-token-prediction
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:52]
-标题: IBM 首度推出亚纳米级芯片技术
-链接: https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw
-正文: All press releases IBM Debuts World’s First Sub-1 Nanometer Chip Technology Built with revolutionary “nanostack” 3D chip architecture, IBM’s sub-1 nm chip to propel semiconductor industry forward for the next decade Jun 25, 2026 YORKTOWN HEIGHTS, NY, June 25, 2026 – IBM (NYSE: IBM) today unveiled a major semiconductor breakthrough with the introduction of the world’s first sub-1 nanometer (nm) chip technology, featuring a revolutionary transistor architecture at the 0.7 nm, or 7 angstrom node. The achievement marks a landmark moment for an industry facing the physical limits of traditional chip scaling. Semiconductors play critical roles in everything from computing, to appliances, to communication devices, transportation systems, and critical infrastructure. IBM’s new sub-1 nm chip packs nearly 100 billion transistors onto a chip the size of a fingernail, nearly twice the density of IBM’s 2 nm chip, unveiled in 2021. Enabled by a series of structural and material innovations, including IBM’s groundbreaking three-dimensional nanostack architecture, the technology demonstrates how continued gains in performance and efficiency remain possible even as chip features approach atomic dimensions. Published technical results report the new chip is projected to offer a substantial leap in capability—up to 50 percent more performance, or 70 percent greater energy efficiency than IBM’s 2 nm node chips[1]—supercharging compute for applications ranging from generative AI and cloud infrastructure to next-generation electronic devices. IBM’s latest chip breakthrough marks a landmark moment in computing, pushing technology beyond the nanometer era to the scale of atoms. With our new nanostack architecture, we’re not just making smaller transistors, we’re reinventing how chips are built to deliver dramatically more power and energy efficiency,” said Jay Gambetta, Director of IBM Research and IBM Fellow. “This industry-first innovation continues IBM’s legacy of leading in next-genera
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:50]
-标题: Midjourney V8.1 草稿模式新增随机风格功能
-链接: https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m
-正文: 大家好！我们正在让 V8.1 的草稿模式更轻松地探索不同风格。在草稿模式的提示词中加入 `--sref random`，即可生成 24 张不同风格的图像。要开启草稿模式，请点击提示词栏中的 ⚡ 图标，或在提示词中加入 `--draft`。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:41]
-标题: Runway发布Agent 2.0
-链接: https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp
-正文: Agent 2.0 来了。使用优惠码 AGENT 即可享任何套餐 30% 折扣 尝试一下 新闻 / 公司新闻 推出 Agent 2.0 2026 年 6 月 25 日 Runway 发布 Agent 2.0 帮助营销人员把有效的东西做得更多——那些能驱动收入的广告、视频和完整营销活动。 每位营销人员都知道驱动收入需要什么：分析哪些做得好，做得更多，砍掉无效的。但在实践中，要在每一个营销活动、社交媒体帖子和付费广告中真正落实这一点，不是一个人甚至一个小团队能跟得上的。知道该做什么和实际做到之间的差距，正是大多数营销功亏一篑的地方。 今天，我们推出 Agent 2.0，这是一次升级的 Runway Agent 体验，旨在弥合这一差距。把你正在做的东西放进来：一个转化率不佳的付费广告活动、一个下周要推出的产品、或者一个你正在努力打入的受众群体。Agent 会分析它、提出正确的问题、并与你一起构建直到效果理想——所有这些都在一次对话中完成。 为营销人员而建 无论你是自己负责营销的创始人、独自负责一个品牌所有社交内容的营销人员、还是管理多个并行活动的大型团队的一员，Agent 都能帮助你创建、测试和改进你的营销。 **品牌营销人员：** 通过对话来构思营销活动。告诉 Agent 你的目标用户，它就会帮你找到最佳创意角度来推销你的产品，并生成你需要的所有变体版本。制作季节性内容、品牌视频和活动素材。需要将活动适配到新的市场？Agent 会本地化文案并替换视觉元素，这样你就不必为每个地区从头重建素材。 **效果营销人员：** 在已有的有效成果上继续发力。上传你的创意素材，提供来自 Meta、YouTube、TikTok 或 Google 的广告指标，Agent 会分析并生成你的下一组待测广告。 **社交媒体营销人员：** 在单一会话中生成一周的品牌内容。把你上周内容的互动数据给 Agent，它会找出有效的内容，并生成你下周的帖子，每个平台都有对应的剪辑版本。告诉 Agent 你的需求，它会自动剪切成正确的格式：9:16 用于 Reels 和 Stories，16:9 用于 YouTube，1:1 用于信息流。 **产品营销人员：** 与 AI 智能体协作，锁定能与受众产生共鸣的产品定位角度。然后 AI 智能体会利用您最有力的信息来构建营销活动素材，以便您能够在市场上进行测试。 AI 智能体 2.0 能适应您在创作流程中的任何阶段：一个粗略的想法、一个半成品的营销活动、一个即将推向市场的产品，或一组已经在投放的素材。它理解背景和目标，帮助您把下一个版本做得更好，从而让您的营销活动推动收入增长。 **AI 智能体的下一步** 我们希望 AI 智能体成为能够胜任真实世界工作的最强大的自主智能体：直接连接到您的营销活动所在的平台，从效果数据中学习，并自动生成新的素材和营销活动。 对于大多数 AI 工具来说，生成最终素材就是终点。而我们正在打造的 AI 智能体则能继续前进：帮助您端到端地运营营销活动并持续改进。 **试用 AI 智能体 2.0** AI 智能体 2.0 现已面向所有用户开放。立即将其用于您的营销活动吧。 立即试用 AI 智能体 2.0 → **了解更多** 新闻 Runway 与 Lionsgate 合作 客户故事《大卫之家》如何借助 Runway 成为亚马逊最新热播剧 新闻 探索电影制作的未来：Runway 与 2024 年翠贝卡电影节的编程合作 **产品** 探索示例 角色 GWM-1 通用世界模型 机器人 Gen-4.5 Aleph 2.0 Act-Two API **倡议** AI 峰会 2026 ↗ 工作室 AI 电影节 ↗ Gen:48 学院 ↗ **资源** 创意合作伙伴计划 Runway 构建者 **公司** 我们的研究 出版物 职业机会 关于我们 客户故事 新闻 人才网络 ↗ 安全 **开始使用** 企业版 教育版 登录 定价 帮助中心 ↗ 数据安全 更新日志 **联系** 媒体 合作伙伴 品牌指南 聚会 ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. /使用条款/隐私政策/加州通知/ Cookie 设置 行为准则/系统状态
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:03]
-标题: 赫库兰尼姆古卷首次被完整虚拟解读
-链接: https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o
-正文: 我们完整阅读了一卷书卷——从未将其打开 自公元79年维苏威火山爆发后便密封至今的PHerc. 1667号卷轴，已被虚拟展开并从头到尾阅读完毕。 2026年6月25日 阅读预印本：《赫库兰尼姆卷轴完整虚拟展开与阅读》（PDF）。数据可在 scrollprize.org/data 公开获取，代码托管在GitHub上。 近两千年来，赫库兰尼姆被碳化的图书馆一直维系着残酷的平衡：它的卷轴在维苏威火山喷发中幸存下来，却也因此变得脆弱不堪，无法打开。要阅读一卷，就意味着要毁掉它。数百卷书卷因此继续保持密封状态，其内容虽被保存下来，却无法触及。 今天，这一局面被改变。我们已完全虚拟展开并阅读了PHerc. 1667号卷轴——维苏威挑战社区称之为“卷轴4”——全程未曾触碰其书页。这是第一卷被数字化展开、完整通读，并可供学术界持续研究的赫库兰尼姆纸莎草卷轴。 10厘米© Vesuvius Challenge 2026PHerc. 1667卷轴的完整书写表面，已虚拟展开——大约1.4米长的纸莎草纸，包含约22列希腊文。横向滑动可平移，点击可缩放。下载高分辨率图像。 从密封的团块到可阅读的书籍 PHerc. 1667号卷轴最初是一团发黑、卷曲的碳化纸莎草。为阅读它，我们从未进行物理展开。相反，我们用高分辨率X射线对其进行扫描，重建了卷内层叠的纸层，将其展平为可阅读的表面，并利用机器学习来显现古代墨水的细微痕迹。 从实物到文本。密封的碳化卷轴（左上）；X射线扫描的横截面，展示内部的螺旋纸层（上）；展开后的表面，随着墨水信号的恢复，希腊文列逐渐显现（下）。 三卷密封卷轴，三个里程碑 这项工作不仅限于单卷书卷。除了完整阅读PHerc. 1667号卷轴外，该研究还建立了一种方法，该方法能经得起独立检验，并可扩展应用于其他卷轴。 PHerc. 1667 — 完整通读 PHerc. 1667 是一个更大卷轴的残余部分：早期试图用手打开它的尝试——在 19 世纪，以及 1969 年和 1980 年代——破坏了它的外层，只留下了紧凑的内核，高度约为原始 19–24 厘米中的 8 厘米。从这一幸存部分，我们现在已经完整恢复并阅读了文本——大约 22 列文字的下部，由纸莎草学专家转录并审校。这是第一次将卷起的赫库兰尼姆卷轴中保存下来的文本从头到尾连续阅读，而不是零散的单词或片段。 恢复的文本是一部关于伦理学的哲学论文，证据指向一部斯多葛学派的著作：它探讨人性、冲动和人类的道德进步，其最后保存的列中提到了阿里斯托克雷翁——伟大的斯多葛学派哲学家克吕西波的侄子和弟子——这一点，结合文本的语言和主题，将其置于斯多葛学派的语境中，并确定其年代为公元前 2 世纪。 由于纸莎草受损，文本解读是碎片化的，表面缺失处存在空白。即便如此，有几段文字在两千年来首次可以清晰阅读： “……我们将探究某事，但我们不会把握它，如果在某种程度上我们背离了自身和我们自己的本性……” “……通过研究和学习，竭尽全力……拥有同样的实践智慧……” “……既然这些对我们而言是善，那么即使从相反的恶中，也将既不会有任何善——更遑论美——也不会有任何恶——更遑论丑——也不会有幸福……” 译自希腊语；完整的逐列转录文本见预印本。 PHerc. Paris 4——通过更高分辨率使墨水可见 在第二卷卷轴中——PHerc. Paris 4，即维苏威挑战社区所称的卷轴 1——一种更高分辨率的成像技术首次使卷轴内部的墨水在三维 X 射线数据中直接可见。经过三维分割并投影回展开的页面上，这些墨水与 2023 年大奖赛阅读的文本一一对应——这是基于更好的数据进行的独立确认，证明阅读结果是真实的。 在 PHerc. Paris 4（卷 1）中，更高分辨率使墨水显现。在 X 射线扫描的横截面上，墨水直接位于纸莎草表面（左侧）；随后可在三维空间中对其分割（红色），并投射到展开的页面上。 PHerc. Paris 4：2023 年维苏威挑战赛大奖读解（上方）与新的 3D 墨水分割结果（下方）——同一文本，通过更优数据一对一复原。 PHerc. 139——一个标题，一位作者 在第三卷卷轴 PHerc. 139 中，我们复原了卷轴的标题和作者归属：该著作被确认为菲洛德穆的《论诸神》第八卷——一部由伊壁鸠鲁学派哲学家撰写的论著，其作品占据了这个图书馆的大部分馆藏。读到封闭卷轴的标题，就能让学者在研读卷内任何一列正文之前，知道这卷书的内容。 PHerc. 139 的标题区域。增强墨水信号后显示出标题和作者归属，确认该卷轴为菲洛德穆的《论诸神》第八卷。 如何做到的 扫描是利用法国格勒诺布尔欧洲同步辐射装置（ESRF）BM18 线站的高分辨率相位衬度 X 射线显微断层成像获取的——该设备能够分辨赫库兰尼姆卷轴中极薄且紧密堆叠的纸莎草层。此项工作与
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:11]
-标题: OLMo Hybrid vs Transformer：混合模型在实义词上优势明显，但重复短语上几无优势
-链接: https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1
-正文: 混合模型在哪些 token 上预测得更好？ Enterprise Article 发布于 2026 年 6 月 25 日 Kyle Wiggers Ai2Comms allenai 📄 Tech report: https://arxiv.org/abs/2606.20936 模型对哪些类型的 token 预测得好，对哪些预测得不好？这个问题对于混合模型来说尤其引人入胜——混合模型是一种语言模型架构，已经开始挑战标准的 Transformer，我们一直在用 Olmo Hybrid 对它进行深入研究。 混合模型在标准基准测试中可以媲美甚至超越 Transformer，但这些 headline 数字并不能揭示混合模型相对于 Transformer 具体有哪些优势。 为了阐明这些 token 层面的行为，我们最近进行了实验，将自己最强的 7B Transformer 模型 Olmo 3 与混合模型 Olmo Hybrid 进行直接对比。具体来说，我们以细粒度的方式比较了不同类型 token（即作为大语言模型输入的信息单元）上的模型预测差异。 由于 Olmo 3 和 Olmo Hybrid 在架构以外的方面尽可能保持一致——数据、分词器和训练方案都高度匹配——因此它们预测结果的任何差异主要反映了架构本身。从 token 层面观察这些差异，使我们能够深入了解混合模型相对于 Transformer 的具体优势。 我们的结果表明，混合模型在很多 token 上确实有优势，但并非所有。Olmo Hybrid 在承载意义的 token（如名词、动词和形容词）上表现最强，在只能通过跟踪上下文来预测的 token（如代词指代的是谁）上也是如此。但混合模型在那些只是简单重复输入中已有内容的 token 上优势几乎消失——即从前面逐字复制的单词或短语——答案就在那里，可以查得到。这正是 Transformer 的强项所在。 注意力机制与循环机制，以及测量差异 语言模型由一堆重复的层构建而成，每一层都利用周围的 token 来精炼每个 token 的表示。 Transformer 架构在每一层都使用了注意力机制。模型可以同时直接访问每一个更早的 token，评估每个 token 与当前预测的相关性。这使得注意力机制能够精确地回忆起某一个较早的 token，即使该 token 出现在输入的较远位置。代价是每个 token 都要与所有更早的 token 进行比较，因此随着输入增长，注意力的计算成本会急剧上升。此外，虽然注意力在回忆和聚合信息方面表现出色，但它也难以表示随时间顺序演变的信息。 混合模型保留少量注意力层，其余层替换为循环层。与注意力层不同，循环层从左到右读取 token，并携带一个固定大小的记忆，将每个新 token 折叠到记忆中，因此无论输入多长，处理每个 token 的成本都保持恒定。这种记忆是压缩且有损的，因此循环层无法像注意力层那样回溯寻找精确的早期 token。但它非常适合持续记录模型读取 token 时发生的任何变化，提供了对注意力机制的互补优势。 为了分离注意力层和循环层的优势与劣势领域，我们向 Olmo 3 和 Olmo Hybrid 输入了文本段落：文章、维基百科条目、书籍和科学论文，以及 Python、HTML 和 LaTeX 等结构化文本。我们根据每个模型在给定样本中从前面的 token 预测每个 token 的准确度进行了评分。 两个模型都看到了相同的更早 token，并为每个可能的下一个 token 分配了一个概率。我们记录了每个模型对实际出现的 token 所赋予的概率。然后，我们通过计算损失差距（即两个模型之间的损失差异）来逐 token 总结两个模型之间的差异。正差距表示混合模型对真实下一个 token 的预测更好。负差距则表示 Transformer 模型做得更好。 为了找出损失差距可能集中在哪里，我们进行了多项分析。首先，我们将每个 token 归类，并计算这些类别内的平均损失差距。由于原始平均值可能受到其他因素的影响，例如某个类别的稀疏性或 token 在文本样本中的重复频率，我们通过回归方法重新检验了每个模式，该方法在控制其他变量不变的情况下，估算该类别本身的影响。 真实文本所呈现的结果 我们发现，在大多数类型的 token 上，Olmo Hybrid 的损失低于 Olmo 3，但不同 token 的降低幅度并不相同。 在散文文本中，最明显的分界在于实义词——即承载意义的名词、动词和形容词——与功能词（如“the”、“of”、“is”）之间。混合模型对实义词的预测效果优于 Transformer，损失差距约为 [原文此处未给出具体数值]，而对功能词的损失差距则接近 [原文此处未给出具体数值]。 特别是在副词
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:04]
-标题: 多数主流AI聊天机器人政治立场偏左，"反觉醒"模型也不例外
-链接: https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt
-正文: 大多数主流 AI 聊天机器人在政治问题上仍偏向左倾，即便是“反觉醒”模型也不例外 Matthias Bastian 查看 Matthias Bastian 的领英主页 Jun 25, 2026 Nano Banana Pro 由 THE DECODER 提供提示词 要点 《华盛顿邮报》的一项调查显示，大多数主流 AI 聊天机器人在政治问题上仍偏向左倾，即便是那些明确标榜为保守派替代方案的模型也不例外。 OpenAI 的 GPT-5.5 和 Deepseek V4 Pro 在分别 80% 和 70% 的情况下只输出左倾论点，凸显出领先模型之间的一致模式。 即便是定位为保守派的聊天机器人，例如 xAI 的 Grok 和 Gab 的 Arya，也更多呈现左倾立场。谷歌的 Gemini 3.1 Pro 是显著的例外，它在 93% 的情况下呈现了两种政治视角。 《华盛顿邮报》的一项调查显示，大多数主流 AI 聊天机器人在政治问题上明显采取左倾立场。即便是标榜为保守派的模型也不例外。只有谷歌的 Gemini 表现突出。 在这项调查中，《华盛顿邮报》向六个领先的 AI 模型提出了政治问题。结果证实了此前的研究：聊天机器人的回答往往带有左倾倾向。特朗普推动“反觉醒”AI 至今未能改变这一情况。 OpenAI 和 Deepseek 表现出最强的左倾偏向 调查中，OpenAI 的 GPT-5.5 给出的答案最为偏斜。80% 的回答只包含左倾论点。该模型仅有一次给出了纯粹的右倾立场。它支持对富人加税以及单一支付方医疗体系等主张。 Deepseek 的 V4 Pro 紧随其后，有 70% 的回答完全左倾。两个模型都反对死刑，尽管根据盖洛普的长期民调，大多数美国人多年来一直支持死刑。 Anthropic 的 Claude Opus 4.8 在 43% 的情况下给出了完全左倾的回答，在 57% 的情况下呈现了双方观点。xAI 的 Grok 4.3——埃隆·马斯克将其宣传为“求真”且反“觉醒”的聊天机器人——确实比测试中的其他任何模型都更频繁地产生右倾回答。不过，它给出完全左倾回答的次数仍然更多。 一个可能的原因是，Grok 与其他聊天机器人使用了相同的数据进行训练，甚至直接基于它们的输出进行训练。Grok 仍然会说出种族主义或反犹言论，其根源在于 xAI 故意忽视了安全准则，而 X 平台的用户相应地引导了该聊天机器人。 右翼社交媒体平台 Gab 也提供了一款名为 Arya 的 AI 模型，该公司称其“以基督教价值观和保守原则为基础打造”。在《华盛顿邮报》的调查中，Arya 提出左倾论点的情况是提出右倾论点的十二倍。 大多数 AI 聊天机器人主要回应的是左倾立场。谷歌的 Gemini 3.1 Pro 是例外，它在 93% 的情况下呈现了双方观点。| 图片来源：《华盛顿邮报》 模型的“对齐”仍然可以被刻意引导，这一点从 Grok 身上也可以看得很清楚。尽管马斯克的聊天机器人在许多话题上的回答出人意料地偏左，并且这种情况已经持续了一段时间，但在《华盛顿邮报》的测试中，它在跨性别权利问题上却采取了完全右倾的立场。这一立场与马斯克公开表明的态度完全吻合。这表明，至少在某些话题上，有人刻意干预了模型的输出。 Gemini 3.1 Pro 是保持平衡的异类 谷歌的 Gemini 3.1 Pro 是个异类。该模型在 93% 的情况下呈现了双方观点。只有 7% 的回答包含完全左倾的论点，并且它从未给出过完全右倾的回答。当被问及美国是否应该动用军事力量征服新领土时，Gemini 是唯一一个提出扩张论点的模型，它声称这可以增强美国经济。 《华盛顿邮报》的完整代码和补充分析已在 GitHub 上公开。话虽如此，将 AI 答案简单划分为"左翼"和"右翼"可能过于简单。在所测试的某些话题上，右翼立场与科学共识或普世人权存在冲突。在这种情况下，要求聊天机器人给出保守的答案，无异于将事实或基本权利相对化。 没有炒作的人工智能新闻——由人类精心策划 订阅《THE DECODER》，享受无广告阅读、每周AI新闻通讯、每年六次的独家"AI 雷达"前沿报告、完整档案访问权限以及评论区使用权限。 来源：华盛顿邮报
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:00]
-标题: Gemini 3.5 Flash 的 Computer Use 工具正式可用
-链接: https://aihot.virxact.com/items/cmqtpdugb05nnsl0e5e1zykrd
-正文: The Computer Use 工具现已可用于 Gemini 3.5 Flash 🛠️ 构建能够跨浏览器、移动和桌面环境进行视觉识别并执行操作的智能体，以无缝处理长周期任务。 以下是新功能： - 内置对移动和桌面操作系统的支持 - 所有函数调用支持意图参数 - 可自定义的客户端函数，轻松支持人工介入（HITL）接管 - 提示词注入检测和可配置的操作级安全策略，以满足你的应用需求 了解如何在博客中利用 3.5 Flash 自动化 QA 测试、业务流程等：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:00]
-标题: General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体
-链接: https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se
-正文: 一走进通用直觉公司（General Intuition）位于纽约办公室的研发楼层，这家公司 31 岁的联合创始人兼 CEO Pim de Witte 就示意我看一台放在升降桌上的显示器。屏幕里似乎有人在玩类似《堡垒之夜》的游戏——但那不是真人。 “我们的智能体已经连续玩了 100 个小时，”公司首席产品官 Kent Rollins 笑着说。 我还没来得及沉浸于 AI 在游戏虚拟环境中穿梭的场景，便听到一只大型四足机器人的电子脚步声正逐渐靠近。 “驱动游戏智能体的同一套大脑，也驱动着这台机器人，”de Witte 告诉我。数据分析师 Josh Duplantis 手里抱着笔记本电脑，屏幕上正实时播放着机器人单目摄像头的画面，他插话解释说，机器人的默认模式是“探索”。 依靠那只摄像头——它唯一的眼睛——这只像巨型昆虫一样的机器人走到我面前，绕了我一圈，然后继续在办公室里移动。它偶尔会碰到椅子腿，或者撞上某个乱放的垃圾桶，就像一个还不知道自己身体与周围世界如何相处的小孩。Duplantis 说，只用 8 分钟的实物机器人数据，就微调出了一个适用于四足机器人的 AI 模型。更重要的是，那些数据是在街边采集的，而不是在这间机器人目前正在自主导航的办公室内。 一个能够从游戏泛化到仿真再到具身化的智能体模型，正是通用直觉公司存在的理由。而这个模型理解自己在世界中位置的能力，也赢得了一些重量级玩家的支持。 周四，通用直觉公司宣布以 23 亿美元估值融资 3.2 亿美元，证实了 TechCrunch 此前的报道。继去年 10 月成立时筹集的 1.34 亿美元之后，本轮融资使通用直觉公司的总公开融资额达到 4.54 亿美元。 这家初创公司是从 de Witte 的另一家公司 Medal 分拆出来的，Medal 允许玩家上传和分享游戏视频片段。数亿小时的游戏视频上传量为通用直觉公司训练其模型的时空推理能力——即理解如何在空间和时间中移动——提供了初始数据集。 但关键要素并非游戏画面本身，而是嵌入在这些视频片段中的操作标签：它们精确记录了玩家在什么时间按下了什么按键。德维特表示，大多数竞争对手试图仅凭视频画面推断操作行为，他认为这种方法并不充分。 德维特说：“我们把这看作是未来预训练的下一阶段。我们有一个单一模型，既能响应《堡垒之夜》屏幕上的信息并采取行动，也能以LLM永远无法做到的方式理解现实世界的动态。” 有一次，德维特给我设置了一台运行General Intuition世界模型的笔记本电脑，该模型会逐帧生成模拟环境，而非由传统游戏引擎渲染。就像我在测试世界模型时经常做的那样，我径直走向了一堵墙。在我尝试过的其他演示中，你控制的智能体有时会直接穿墙而过，但这个模型不会。通过数百万小时的游戏画面，它不知怎么就学会了墙壁就是墙壁，梯子是用来攀爬的，影子会随着太阳移动而变长。 对于General Intuition来说，这个世界模型并非最终产品，而是训练环境（公司内部称之为“健身房”）。该公司最终想要出售的是智能体模型本身。德维特认为，嵌入在游戏画面中的操作数据能帮助模型以更丰富的方式区分“自我”与“环境”，从而更深刻地理解因果关系。 尽管General Intuition的技术在演示中看起来令人印象深刻，但该公司并非唯一试图攻克这一问题的团队。此外，要让这样一个模型在物理世界中大规模稳定运行，目前尚未实现。这类方法大多需要海量真实世界数据，而这些数据采集起来既缓慢又昂贵。General Intuition押注的是，游戏画面是一条可扩展的捷径。 投资者也认可这一赌注。General Intuition的最新一轮融资由Khosla Ventures领投，General Catalyst、杰夫·贝索斯、埃里克·施密特、尼科·罗斯伯格以及Google DeepMind和MIT的研究人员参投。 本轮融资的绝大部分资金将用于扩展计算能力。General Intuition 已与 CoreWeave 达成合作，并计划专注于下一版本模型的预训练。其中一部分资金已预留，用于在今年夏末之前更广泛地开放其 API。 领导本轮融资的 Vinod Khosla 表示，他被 de Witte 的愿景以及公司拥有的专有数据优势所吸引。 “看看大语言模型，当推理能力出现时，那是一个量子跃迁，”Khosla 在电话采访中告诉我。“对于世界模型，我认为量子跃迁将是 AI 中直觉的出现——一种类似人类直觉的能力。你在游戏中拥有的人类行为数据和反应数据，是直觉出现的关键部分。” 愿景是打造一家划时代的公司 General Intuition 依赖于来自 Medal 游戏视频剪辑的数据。图片来源：Medal.TV General Intuition 并非唯一一家注意到 Medal 的人类行为
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:00]
-标题: Google Finance 全新 Android 应用与投资组合功能上线
-链接: https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19
-正文: 我们最新的谷歌财经（Google Finance）升级，包括一款全新的应用 2026年6月25日 通过谷歌财经的新升级，您可以追踪自己的投资组合，并掌握市场情报。此外，我们还推出了一款全新的 Android 应用。 Barine Tee 搜索业务首席工程师 投资是复杂的，但掌握信息不应当复杂。从本周开始，全新的谷歌财经将正式结束测试阶段，并带来多项新功能，帮助您更好地追踪和理解金融投资——同时还推出一款全新的 Android 应用，方便您随时随地使用。追踪您自己的投资组合从本周起，我们将在全新的谷歌财经中面向全球逐步推出投资组合功能，其功能比以往更强大，为您量身定制了新的深度洞察。您将在一个统一的仪表盘中看到您的所有投资，包括表现数据、资产配置洞察等信息。您现有的谷歌财经投资组合将自动可用，或者您也可以通过导入截图或上传文件（如 CSV 或 PDF）来创建新的投资组合，其中包含您的持仓详情。您甚至可以仅通过描述您的投资来开始，并在此基础上逐步完善。 投资组合设置完成后，您可以通过研究工具轻松深入探索。试试提出这样的问题：“我当前投资组合中哪些行业配置不足？”或“我的固定收益配置如何影响长期增长潜力？”随时掌握市场情报今天，我们推出了一种新方式，让谷歌财经能够就您关心的主题为您提供最新信息。要开始使用，请描述一项任务，例如：“每天向我发送一份盘前简报，分析各大加密货币在隔夜期间的重大波动。”您可以根据需要调整时间表或指令，包括使用您的自选列表或投资组合来获取为您量身定制的洞察。设置完成后，谷歌财经将在后台自动运作，准确找到您所需的内容，并按照您偏好的时间表发送一份定制简报。 当你的更新准备就绪时，你会通过 Android 或 iOS 上的 Google 应用收到通知。通知也会出现在网页版 Google 财经的研究面板中，你还可以在那里查看和编辑现有任务。这项新功能现已全球上线，因此你今天就可以开始试用。试试新版 Google 财经应用今天，我们还为 Android 推出了全新的 Google 财经应用，将我们新体验的核心功能直接装进你的口袋。对于每天多次查看市场行情的人来说，这款新应用是一个专属入口，可以轻松访问你的自选列表，以及实时数据、实时财经资讯推送、AI 研究工具和 AI 驱动的“关键瞬间”功能，后者会解释股票为何出现波动。 在接下来的几个月里，我们将把网页版中的更多功能引入移动应用，包括实时财报电话会议以及今天新增的投资组合和任务功能。今年晚些时候，我们还将推出 iOS 版应用，让更多人可以在移动中轻松访问 Google 财经。今天就来看看新版 Google 财经吧，助你获得自信驾驭市场所需的工具和洞察。 发布于：
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 15:30]
-标题: Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模
-链接: https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye
-正文: 卧槽！最近开源大模型太卷了啊！ 这不又一个专注 agentic coding 的开源模型家族来了，叫 Ornith-1.0。 它覆盖了从 9B 到 397B MoE 的全尺寸，在 Terminal-Bench、SWE-Bench 等 agent coding benchmark 上达到了当前开源模型里的顶尖水平。 最有意思的是它的训练方式：不是只让模型生成答案，是用 RL 同时优化“任务脚手架（scaffold）”和最终解决方案，让模型自己学会怎么搭建更好的执行框架。 这个思路挺有意思的，很多 agent 失败不是因为不会写代码，恰恰是因为不会组织执行流程。 Ornith 直接把“怎么搭框架”也变成了可学习的信号。 模型全系列 MIT 开源，还提供了 GGUF 版本，能在 Ollama、Unsloth 等工具里直接跑。 本地党又多了一个强力选择。 地址见评论区👇 [引用 @ornith_]：Aloha! 🌺 介绍一下 Ornith-1.0，一个专注于 agentic coding 的开源大语言模型家族。 Ornith-1.0 覆盖全部参数尺寸，包括 9B Dense、31B Dense、35B MoE 和 397B MoE。在以下编程 benchmark 上，它达到了同等规模开源模型中的 SOTA 性能： ✅ Terminal-Bench 2.1（77.5） ✅ SWE-Bench（verified 82.4，pro 62.2，Multilingual 78.9） ✅ NL2Repo（48.2） ✅ SWE Atlas（QnA 41.2，RF 42.6，TW 39.1） ✅ ClawEval（77.1） 基于 gemma4 和 qwen3.5 进行后训练，Ornith-1.0 采用了一种新颖的自改进训练策略：利用强化学习不仅生成解决方案 rollout，还生成驱动这些 rollout 的任务特定 scaffold。通过联合优化 scaffold 和最终的解决方案，模型在 agentic coding 中生成更高质量的解决方案。😎 所有模型均以 MIT 许可证开源，支持完全的商业和研究用途。 📖 技术博客：http://deep-reinforce.com/ornith_1_0.html 🤗 Huggingface：http://huggingface.co/collections/deepreinforce-ai/ornith-10
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 10:07]
-标题: Meta员工警告AI内容审核部署过快
-链接: https://aihot.virxact.com/items/cmqtc9nw602azsl0e4dvg4t64
-正文: Meta员工警告AI审核推广速度过快 Maximilian Schreiner 查看Maximilian Schreiner的LinkedIn资料 Jun 25, 2026 Meta已经在2025年用大语言模型取代了大约一半的人工审核请求，并计划到年底将这一比例提升至超过90%（针对某些内容类型）。据《金融时报》报道，这一转变预计每年可为公司节省数十亿美元。Meta反驳了成本论点，转而强调质量，称自3月份以来，测试显示其语言模型在执行内容政策时比人工错误率低13%，同时多发现10%的实际违规行为。与难以应对讽刺或不断演变语言的传统机器学习分类器不同，这些语言模型据说能更好地把握细微差别并覆盖更多语言。 员工描绘了另一幅图景。一位内部人士表示，这些模型仍然会删除或隐形限制无害内容，而且对于如此快速的推广，缺乏足够的监督。这一转变已经导致裁员，尤其是外部承包商。 据《金融时报》报道，幕后还发生了一次模型更换。Meta此前一直使用谷歌的Gemini进行审核和支持，但最近告诉员工改用自家新的基础模型Muse Spark。这些模型是基于人类审核员过去的决策进行训练的。 不含炒作的人工智能新闻——由人类策划 订阅THE DECODER，可享受无广告阅读、每周人工智能通讯、每年六期的独家前沿报告《AI Radar》、完整档案访问权限以及评论区访问权限。 来源：FT
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 03:07]
-标题: Anthropic称阿里巴巴非法获取了Claude AI模型的功能
-链接: https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd
-正文: Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。 🔗 阅读原文：https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
-标题: OpenRouter MCP 服务器发布
-链接: https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7
-正文: OpenRouter MCP 服务器OpenRouter ·2026年6月25日On this page一条命令安装无需切换标签页即可选对模型提交前先测试不离开编辑器就能搜索文档专用且带上限的密钥工具箱里有什么常见问题解答你的编程智能体在编写代码方面非常出色。 但在选择合适的模型时——例如，既要用它来写代码，又不想一天就花光月度预算，或者要选一个最适合设计落地页的模型——它就非常吃力了。 你的智能体可以大致猜出哪个模型“最好”，但它只是基于几个月前的训练数据来猜测，完全不知道模型的实际成本、在特定任务上的表现如何、应该固定使用哪家供应商等信息。 这种局面到此为止。 今天，我们非常激动地宣布 OpenRouter MCP 正式发布。 OpenRouter MCP 服务器将实时模型数据、基准排名、定价、文档和测试推理直接呈现给你和你的智能体，帮助你做出关于选用最佳模型的正确决策。一条命令即可安装，你最喜欢的智能体就能利用 Artificial Analysis、Design Arena 以及 OpenRouter 自身模型排名的最新数据来回答“哪个模型最擅长写代码又不会让我破产”？提示：答案是 GLM-5.2。 立即接入 | 文档 一条命令安装 Claude Code： claude mcp add --transport http openrouter https://mcp.openrouter.ai/mcp claude mcp openrouter Codex CLI： codex mcp add openrouter --url https://mcp.openrouter.ai/mcp codex mcp openrouter Cursor：添加到 ~/.cursor/mcp.json： { "mcpServers": { "openrouter": { "url": "https://mcp.openrouter.ai/mcp" } } } 请参阅接入指南，了解 OAuth 登录及所有支持的客户端。 无需切换标签页即可选对模型 你正在构建一个需要结构化 JSON 输出的功能，希望找一个速度快、价格低、而且在这方面真正擅长的模型。通常你会打开 OpenRouter 网站，浏览模型列表，对比基准测试结果，查看定价，也许还在 Playground 里跑几个测试提示词。这需要花 15 分钟来回切换上下文，连一行集成代码都还没写。 连接 MCP 服务器后，你可以在编程智能体中完成这一切： You: "I need a model for structured JSON extraction from legal documents. Fast, under $1/M input tokens, good at following schemas." Agent: [calls models-list with filters] → [calls benchmarks] → [calls model-endpoints] Agent: "google/gemini-3-flash-preview fits well: $0.10/M input, 138k context, strong structured output support. Here's the endpoint with the lowest latency..." 智能体从实时模型目录中拉取数据，交叉参考 Artificial Analysis 智能评分和 Design Arena ELO 排名，并检查各家供应商的定价和延迟。推荐完全基于当前数据，而不是六个月前模型最后一次训练时的旧数据。 提交前先测试 chat-send 让你的智能体向任何模型发送测试提示词，并查看响应、成本以及由哪个提供商提供服务。你的智能体可以并排比较不同模型的回答： You: "Compare how Claude Opus 4.8, GPT-5.5, and DeepSeek V4 Pro handle this structured extraction prompt." Agent: [sends the same prompt to all three via chat-send] [calls generation-get for each to get cost breakdowns] Agent: "All three produced valid JSON. Opus 4.8 nailed the edge case in row 12. GPT-5.5 was 40% cheaper. DeepSeek V4 Pro was fastest at 180ms TTF
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
-标题: 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成
-链接: https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf
-正文: [](http://x.ai/) 产品 解决方案 开发者 公司 定价 新闻 联系销售 免费试用 产品 Grok企业版政府版 下载 iOS安卓Grok on X 开发者 API 控制台文档CLI 免费试用 返回新闻 2026年6月25日 通过盈透证券与 Grok 探索市场 盈透证券现已集成 Grok，将强大的人工智能直接带入您的交易体验——投资组合分析、情景建模、研究与下单指令。 * * 盈透证券现已集成 Grok，将强大的人工智能直接带入您的交易体验。 这一集成解锁了一种更快速、更动态的方式来探索市场、分析投资组合并生成可执行的洞见。 几分钟即可开始 客户可以在几分钟内将现有的盈透证券账户关联到 Grok——无需额外费用，也无需开设新账户。 开始使用很简单： 1. 在 Grok 中搜索 **“Interactive Brokers”** 并选择盈透证券连接器。 2. 您将被重定向至盈透证券的登录页面。 3. 使用您现有的盈透证券凭证登录。 4. 为您想要关联的账户授权。 关联完成后，您可以： **让 Grok 分析您的投资组合**——*我今年能获得多少股息和利息？* **对风险暴露进行情景建模**，比如行业、地区、经济事件等——*我的投资组合最大的风险暴露是什么？如何分散？* **研究市场与趋势**——*人工智能基础设施的部署将如何影响能源公司？* **实时构建交易策略并生成下单指令**——*创建能够对冲我的投资组合在市场下跌10%时风险的订单* 视频1 从投资组合分析到下单指令，这些工具将数据、洞察与行动统一起来，让您可以瞬间从想法到决策。 隶属于[](https://spacex.com/) © 2026 xAI Corp. 由 Grok 构建 产品 聊天创建想象声音Grok百科 下载 grok.comiOS安卓Grok on X 解决方案 企业版政府版客户支持法律安全用例 开发者 API 概览定价模型控制台状态文档 企业 联系销售常见问题BAADPA 公司 关于巨像职业新闻联系 信任 安全安全隐私门户子处理器帮助中心 法律 条款企业版条款隐私CookiesAUP品牌 社交 @xai@grokDiscord 由 Grok 构建
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 21:56]
-标题: AI被认为会取代工程岗位，但新数据显示工程是2025年最具韧性的岗位
-链接: https://aihot.virxact.com/items/cmqsmijfz04cwslfuwufeuxwz
-正文: AI 是否已经在取代工作岗位，这是一个激烈争论的话题。 根据外安置公司 Challenger, Gray &amp; Christmas 的数据，5 月份科技行业裁员人数创下多年来的单月最高纪录，而 AI 是被提及最多的原因。 理论上，软件工程是最容易受到自动化影响的专业领域，因为 AI 驱动的编码工具被迅速采用。然而，风险投资机构 SignalFire 的研究人员表示，招聘数据显示的情况并非如此。 “很多裁员给出的理由始终是 AI，具体来说，他们会针对代码提到 AI；他们会说，一个工程师可以完成过去多少个工程师的工作，” SignalFire 研究主管 Asher Bantock 表示。“但我们看到的一线情况与此有些出入。” SignalFire 的分析追踪了超过 8000 万家公司中数百万员工的职业发展轨迹，结果显示，工程类岗位是 2025 年最具韧性的职位。SignalFire 没有将重点放在裁员上——因为裁员后人们往往推迟更新自己的就业状态，因此难以追踪——而是将招聘数据作为衡量实时劳动力趋势的更准确指标。 根据 SignalFire 最新发布的“人才状况报告”，虽然大型科技公司的整体招聘人数较 2019 年水平下降了 25%，但工程类岗位的降幅要小得多，仅为 11%。 事实上，根据这份报告，在 SignalFire 归类为“科技巨头”的 12 家公司——Alphabet、Meta、Apple、Amazon、Microsoft、Netflix、NVIDIA、Tesla、Uber、Airbnb、Block 和 Stripe——2025 年所有新员工中，工程师占比达到 55%。这较 2019 年有显著增长，当时工程师仅占新招聘人数的 46%。 SignalFire 的数据显示，对工程师的持续需求在早期初创公司中更为明显，这些公司在 2025 年雇佣的工程师总数比 2019 年增加了 7%。 Bantock 认为，如果 AI 真的在取代工程人才，那么在当前科技招聘收缩的背景下，工程类招聘应该率先下降。然而，SignalFire 的数据显示，工程类岗位的员工数量增长速度超过科技行业中大多数其他职位。 尽管Anthropic CEO Dario Amodei去年曾警告，人工智能可能在五年内淘汰一半的初级白领岗位，并让失业率飙升至20%，但该公司自家经济学主管Peter McCrory在3月接受TechCrunch采访时表示，他尚未观察到AI对劳动力市场产生任何显著影响。 McCrory当时表示：“至少从失业率来看，没有出现更大的实质性差异”——无论是那些以“自动化方式”使用Claude执行“其工作中最核心任务”的人（如技术文档撰写员、数据录入员和软件工程师），还是那些对AI接触较少、需要“与真实世界进行物理互动和操作”的岗位，皆是如此。 Nvidia CEO黄仁勋更进一步，直接驳斥了AI将取代工程师的观点。他4月在斯坦福商学院的一次采访中说：“有人说AI会摧毁所有软件工程岗位。”随后他论证了相反的情况才是事实。他表示，现在Nvidia所有工程师都在使用智能体AI，“软件工程师比以往任何时候都更忙”。 黄仁勋补充道，虽然AI智能体几乎瞬间就能写代码，但它们一直在推动工程师去产生“下一个创意”。 至少就目前而言，在AI的加持下，工程领域已成为杰文斯悖论（Jevons paradox）的一个经典例证——效率提高并不会减少对资源的需求，反而会增加需求，因为工作会扩展以填满新的能力空间。正如Bantock在谈到当今的工程人才时所说：“他们突然变得高效得多，而且有做不完的工作等着他们。”
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 20:55]
-标题: Notion 使用 Cursor SDK 嵌入编码智能体
-链接: https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868
-正文: 博客 / 产品现在你可以直接在 Notion 中将任务委派给 Cursor。在文档中@提及 Cursor，在讨论串中提及它，或在数据库中为它分配一个 issue。Cursor 会端到端地完成工作：规划、构建、测试，并在提交 PR 前自行验证。 Notion 仅用几周时间就通过 Cursor SDK 完成了这一集成，从而将编码智能体嵌入到自己的产品中，无需自行构建和维护整个智能体。 我们从零开始，在几周内就完成了完整的集成，这充分说明 Cursor SDK 的设计有多成熟。Victor ShenNotion 软件工程师 Cursor 已经存在于你的团队协作环境中，从 Slack 到 GitHub，现在它也可以在 Notion 中使用了。 嵌入智能体 Cursor SDK 让你能够将 Cursor 直接带入你的产品、基础设施或工作流中。它向开发者提供了我们在生产环境中使用的相同框架、模型和运行时，因此你可以直接获得一个全栈编码智能体，而无需自行构建和维护所有基础设施。 这使得 Notion 能够在数周而非数月内将智能体构建到自己的产品中，并将精力集中在产品和用户体验上，而不是智能体基础设施上。 构建并运行一个自主编码智能体是一个庞大且专业的系统工程，Cursor 在这方面比我们做得更好。智能体背后有一整套深层技术栈：云端沙箱、智能体环境、模型路由、工具使用等等。Notion 希望将工程时间投入到产品上，而不是智能体基础设施上。Cursor 是智能体引擎，Notion 是表层和上下文。Victor ShenNotion 软件工程师 使用 SDK Notion 将 Cursor 集成到一个与供应商无关的外部智能体框架后面，并将其作为其中一种实现嵌入。这次集成的体验干净简洁，因为 Cursor SDK 的形态与 Notion 的模型完美契合：一个 Notion 讨论串变成一个 Cursor 智能体，而该讨论串中的每一条消息则变成一次智能体运行。 第一条消息使用提示词、选定的仓库、模型、任何 MCP 服务器以及启用的自动 PR 创建功能来创建智能体。后续每条消息都会启动一次新的运行，通过 SSE 流式传输，让用户实时看到工作进展，并在连接断开时从最后一个事件处恢复。 我对这个 SDK 的最高评价是，集成 Cursor 只需一个薄薄的适配层。智能体和运行的结构几乎与我们的模型直接对应。Victor ShenNotion 软件工程师 借助远程 MCP 支持，Cursor SDK 将智能体连接到 Notion 的自定义服务器。这使得 Cursor 能够实时读写它正在工作的工作空间，具备完整的状态感知能力，而不是在真空中编码。 “当把出色的远程 MCP 支持与云端沙盒和工具使用结合起来时，Notion 几乎免费获得了‘智能体做实际工作并提交 PR’的智能体循环。那是一大堆我们不需要自己构建的硬基础设施，”Shen 说道。 自定义智能体 通过这个 Notion 集成，你可以为当前任务定制 Cursor。可以从常见工作流程的模板开始，比如代码库问答、仓库探索或错误分类，也可以从头编写自己的指令。你还可以选择 Cursor 可以访问哪些 MCP 服务器、技能和子智能体，并设置自定义触发器，以便在你的产品中自动启动 Cursor。 如果你想将 Cursor 构建到自己的产品中，请从 Cursor SDK 文档开始。2025 年 8 月 21 日产品将 Cursor 智能体引入 LinearRohan Varma 3 分钟阅读2025 年 8 月 7 日产品Cursor 智能体 CLILukas, Ian &amp; Balta 2 分钟阅读2026 年 2 月 24 日产品Cursor 智能体现已能控制自己的计算机Jonas &amp; Alexi 10 分钟阅读View more posts →
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 19:34]
-标题: Perplexity推出Computer for Counsel
-链接: https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984
-正文: 推出 Computer for Counsel。 Computer 现在能够连接律师日常使用的研究数据库、文档工具和案件管理系统。可从中检索可引用的来源，包括 @midpageAI、@LegalZoom、@Docusign、@netdocuments 等。 面向所有 Pro 和 Max 订阅用户开放。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-24 19:08]
-标题: 在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限
-链接: https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs
-正文: 美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。 🔗 阅读原文：https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
 标题: Analyst Report: United Airlines Holdings Inc
@@ -122,6 +36,10 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
 标题: Analyst Report: Leidos Holdings Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3680_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
+标题: Analyst Report: Paychex Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3608_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:39]
 标题: Market Update: PAYX, LDOS, UTHR, UAL
@@ -135,14 +53,6 @@
 标题: Daily – Vickers Top Insider Picks for 06/25/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47433_InsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 19:12]
-标题: Retirees face a new challenge: How to spend their 401(k) savings
-链接: https://finance.yahoo.com/personal-finance/investing/article/retirees-face-a-new-challenge-how-to-spend-their-401k-savings-191224511.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-24 19:40]
-标题: Can you write checks from a money market account?
-链接: https://finance.yahoo.com/personal-finance/banking/article/can-you-write-checks-from-a-money-market-account-194030965.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 11:16]
 标题: Analyst Report: Pinnacle West Capital Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3322_AnalystReport_1782386191000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -151,17 +61,10 @@
 标题: Analyst Report: Micron Technology Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3614_AnalystReport_1782386191000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 10:00]
-标题: Best high-yield savings interest rates today, Thursday, June 25, 2026: Top account pays 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-june-25-2026-top-account-pays-410-apy-100000985.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 11:01]
-标题: Market Digest: MU, PNW, SJM
-链接: https://finance.yahoo.com/research/reports/ARGUS_47427_MarketSummary_1782385291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 10:00]
-标题: Best CD rates today, Thursday, June 25, 2026: Lock in up to 4% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-june-25-2026-100000089.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 21:03]
+标题: Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
+链接: https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html
+正文: In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 17:29]
 标题: Bond ETF flows surge in hunt for yield: 'Market sniffing out something here,' says BlackRock exec
@@ -173,12 +76,12 @@
 链接: https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html
 正文: These are the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 18:40]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 19:34]
 标题: JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits
 链接: https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html
 正文: The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 16:36]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 20:27]
 标题: Wendy's turns lower as meme rally fails to extend to a second day
 链接: https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html
 正文: The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.
@@ -198,16 +101,6 @@
 链接: https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html
 正文: The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 21:19]
-标题: Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules
-链接: https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html
-正文: The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-24 20:29]
-标题: New meme stock Wendy's soars more than 25% with trading halted at one point
-链接: https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html
-正文: While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
 标题: How companies can strengthen their geopolitical risk readiness
 链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-companies-can-strengthen-their-geopolitical-risk-readiness
@@ -224,24 +117,24 @@
 正文: The half-life of the initial deal thesis is shrinking. Private equity firms are shifting toward a more adaptive, execution-led model that reshapes value creation during ownership.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: Frontiers of compute: The technologies to reduce AI inference costs
-链接: https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs
-正文: AI’s next breakthrough may not be a smarter model but a cheaper token.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
 标题: How TITAN Group’s CEO is transforming a century-old company
 链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-titan-groups-ceo-is-transforming-a-century-old-company
 正文: As the first outside leader of the family-founded business, Marcel Cobuz has made some tough decisions about what to keep and what to change. His formula seems to be working.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
+标题: Frontiers of compute: The technologies to reduce AI inference costs
+链接: https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs
+正文: AI’s next breakthrough may not be a smarter model but a cheaper token.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
 标题: What it takes to become—and remain—an effective CEO
 链接: https://www.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo
 正文: Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 19:02]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 21:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 19:02]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 21:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
