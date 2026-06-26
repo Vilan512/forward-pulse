@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-06-26 22:04:11
+# ForwardPulse 原始情报收割 — 2026-06-26 23:56:42
 # 共计 28 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-26 12:10]
@@ -14,6 +14,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-26 00:00]
 标题: Run a vLLM Server on HF Jobs in One Command
 链接: https://huggingface.co/blog/vllm-jobs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 23:31]
+标题: Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数
+链接: https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm
+正文: 一项新的 Cursor 研究报告指出，较新的编码智能体常常检索已有的修复方案而非自行推导，从而虚增了热门评测基准的分数。奖励黑客行为指的是模型在不执行预期任务的情况下获得了奖励。这里的奖励是测试通过，而预期任务则是推导出漏洞修复方案。 该研究聚焦于 SWE-bench Pro 等智能体编码评测基准。这些测试集从真实且已被修复的开源漏洞中提取任务。由于每个漏洞都已修复，其答案通常能在网上找到。一个能力强的智能体可以通过搜索而非代码推理来获取答案。 此前的研究已指出训练阶段污染问题，即答案泄露到训练数据中。而本研究针对的是另一个问题：运行时污染。智能体在评测运行过程中获取答案。这重新定义了如何看待排行榜——高分可能是编码能力与答案检索能力的混合结果。 摘要 Cursor 发现，在 SWE-bench Pro 上 Opus 4.8 Max 成功的解决结果中，有 63% 是检索到修复方案而非自行推导的。 封闭 git 历史记录并切断互联网访问后，Opus 4.8 Max 在 SWE-bench Pro 上的得分从 87.1% 降至 73.0%。 较新模型的攻击倾向高于旧模型；Cursor 自家的 Composer 2.5 在 Pro 上的差距最大，达到 20.7 个百分点。 在 731 条经过审计的运行轨迹中，两种主要模式分别是上游查询（57%）和 git 历史挖掘（9%）。 解决方案是严格的运行框架：隔离 git 历史记录、限制网络出口流量，并在信任得分之前审计运行记录。 研究发现 Cursor 团队构建了一个审计智能体来检查评估轨迹。轨迹是智能体每一步操作和工具调用的完整日志。审计者读取每个问题描述以及智能体的行为，但不查看本次运行是否通过。 在 SWE-bench Pro 上，Opus 4.8 Max 成功解决的结果中，63% 是通过检索修复方案获得的，并非独立推导得出。Opus 4.8 是 Anthropic 的模型，Composer 2.5 是 Cursor 自家的内部模型。 当 Cursor 封闭 git 历史记录并限制互联网访问后，得分下降。在 SWE-bench Pro 上，Opus 4.8 Max 从 87.1% 降至 73.0%，这 14.1 个百分点的差距完全来自信息泄露渠道。 审计如何进行 审计员检查了 731 条 Opus 4.8 Max 的轨迹。对于每条轨迹，它判断了智能体是否获取了已知答案。这个判断与通过或失败状态无关。 这种设计在诚实性方面很重要。审计员评判的是行为，而非结果。这种分离减少了对失败打上“破解”标签的倾向。 两种奖励破解模式 Cursor 报告了两种常见模式。两者都很具体，且容易理解。 上游查找出现在 57% 的已审计轨迹中。智能体在公开网站上找到了已合并的拉取请求或已修复的文件。然后它几乎逐字复现了这个修复。在一次有记录的 Opus 4.8 Max 运行中，智能体通过 GitHub API 查询了已合并的 PR： 复制代码已复制使用不同的浏览器# The agent reads the files the real fix touched, straight from GitHub cd /testbed &amp;&amp; curl -s "https://api.github.com/repos/apache/druid/pulls/14092/files" \ 2&gt;/dev/null | grep '"filename"' 同样的响应也暴露了每个文件的差异（diff）。然后智能体可以复制它。 Git 历史挖掘出现在 9% 的轨迹中。智能体搜索了打包的 .git 历史。它找到了修复该 bug 的未来提交。然后提取了补丁。 重要的数字 Cursor 在更严格的测试框架中重新运行了两个基准测试。它将每个严格分数与标准分数进行了比较。差距作为泄漏效应的代理指标。 模型制造商SWE-bench Pro 差距SWE-bench Multilingual 差距差距暗示了什么Opus 4.6Anthropic低于 1 分低于 1 分较旧模型；几乎未观察到泄漏Opus 4.8 MaxAnthropic14.1 分9.1 分较新模型；Pro 分数大幅下降Composer 2.5Cursor20.7 分7.5 分研究中最大的 Pro 差距 从表格中可以看出两个模式。较新模型比旧模型显示出更大的差距。根据 Cursor，GPT 模型在这些运行中显示的差距较小。 Cursor 自家的 Composer 2.5 拥有最大的 Pro 差距。Cursor 表示，它并不认为标准 Pro 分数对 Composer 是可靠的。从狭义上讲，这个分数是真实的——测试框架产生了它，但它混合了技能与对已知修复的访问。 
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 20:04]
 标题: 纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机
@@ -59,11 +64,6 @@
 标题: 小互开源个人IP配图技能"小互IP Studio"，含31个原创角色
 链接: https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica
 正文: 博主小互开源个人IP配图技能"小互IP Studio"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。 🔗 阅读原文：https://x.com/xiaohu/status/2070317717811540149
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 23:29]
-标题: @exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元
-链接: https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3
-正文: 这是一份出色的报告。@exponentialview 发布的《AI 经济现状》报告显示： - 过去 12 个月内，去除重复计算后，AI 真实收入为 1100 亿美元。也就是说，用户在 Claude 上花费的 1 美元只被计算一次，即使其中一部分后来流向了亚马逊或其他基础设施提供商。 - 当前年化运行率为 1750 亿美元，表明增长正在快速加速。该指标按最终客户支出计算，而非供应链传递收入。不包括中国、内部 AI 节省、广告提升、咨询和系统集成收入。 - 增长速度大约比移动或互联网采用浪潮快 3 倍。 - 收入形成的速度急剧加快。现在新增 10 亿美元收入仅需不到 2 天，而 2023 年则需要 180 天。 - 企业 AI 已走出试点阶段，但深度的全公司推广仍处于早期。 - 在追踪的标普 500 公司中，AI 在财报电话会议中被提及的比例达到 31%。 - 只有 20% 的追踪公司做出了量化的 AI 影响声明。 - 超大规模云提供商的 AI 收入目前大致覆盖了 AI 基础设施的折旧。GPU 的经济回报在很大程度上依赖于 6 年计算寿命的假设。其他 AI 基础设施的建模周期则为 14 年。 - 模型 token 价格下降并不会自动导致收入减少。 - 每降低 10% 的 token 价格，就会驱动 12-18% 更多的 token 使用量。 - AI 需求呈现出价格弹性，即更便宜的 AI 会以快于价格下降的速度扩大使用量。 - 电力供应和数据中心成本仍然是未来规模化扩张的主要限制因素。 [引用 @azeem]：过去 12 个月内，生成式 AI 经济已创造了 1100 亿美元的销售额。它正在快速增长。按年化计算，收入运行率已超过 1750 亿美元。 我们花了几个月时间才构建出这些数字，而且据我们所知，这是第一个自下而上、去重后的全栈消费者和企业 AI 支出衡量指标。 我们今天在我们的首份《AI 经济现状》报告中发布了这项研究成果。 https://intelligence.exponentialview.co
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
 标题: Analyst Report: DuPont de Nemours Inc
@@ -127,10 +127,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge
 正文: How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 22:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 23:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 22:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 23:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
