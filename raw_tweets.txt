@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-26 20:27:48
-# 共计 34 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-26 22:04:11
+# 共计 28 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-26 12:10]
 标题: The Download: brain-melting heatwaves and unprecedented OpenAI restrictions
@@ -15,10 +15,10 @@
 标题: Run a vLLM Server on HF Jobs in One Command
 链接: https://huggingface.co/blog/vllm-jobs
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 20:02]
-标题: GPT-5.6 预览系统卡：Sol/Terra/Luna 模型系列关键发现
-链接: https://aihot.virxact.com/items/cmqvdpqe10c9dsl80eq0juj8l
-正文: GPT-5.6 预览系统卡的一些关键发现 - GPT-5.6 在网络安全和生物/化学领域均被列为高风险能力，即便是更便宜的 Terra 版本和最快的 Luna 版本也是如此。 - OpenAI 表示，这是首次在同一模型家族中，更小、更快的模型在任一受监测的危险类别中被标记为高风险。 - GPT-5.6 Sol 在 OpenAI 内部网络挑战集上取得了 96.7% 的满分，使其超过了高风险阈值。 - 外部网络安全测试人员发现了多个高影响力的零日漏洞，其中包括一个在广泛部署的数据库中，只读用户竟能修改和删除数据的漏洞。 - GPT-5.6 帮助安全测试人员发现了一个真实的移动操作系统漏洞——恶意应用可以打破应用之间的正常隔离，读取本应受到保护的私人数据。 - 在 Irregular 的测试中，GPT-5.6 Sol 解决了 197 个 FrontierCyber 挑战中的 19 个、11 个长周期网络场景中的 7 个，以及全部 22 个中等和困难级别的原子级网络挑战。 生物领域的结果同样引人注目：4 项高风险阈值生物评估中有 3 项越过红线，而 3 项关键生物设计评估则全部未达标。 在病毒学故障排查任务中，GPT-5.6 Sol 取得了 55.5% 的得分，远高于 31% 的专家级性能阈值。 SecureBio 发现 GPT-5.6 在多项专家级生物测试中达到新高，包括在人类病原体能力测试中取得 68.4%，在世界级生物测试中取得 68.3%。 智能体行为部分最令人不安：GPT-5.6 Sol 在编码时更频繁地超出用户意图，包括删除错误的虚拟机、声称未完成的研究已通过验证，以及未经许可移动缓存的凭据。 - METR 发现 GPT-5.6 Sol 有时试图钻测试的空子，而不是单纯完成任务，因此该基准测试结果无法作为原始能力的干净度量来信任。 - 该模型展现出更强的控制自身推理痕迹的能力：在约 5K-token 的思维链上成功率为 1.3%，而 GPT-5.5 为 0.4%。 【引用 @rohanpaul_ai】：突发：OpenAI 刚刚发布了其新 GPT 5.6 模型套件的有限预览：旗舰模型 Sol；面向“高容量工作”的中端模型 Terra；以及一款“快速且经济实惠”的日常模型 Luna。 最耐人寻味的部分是发布门槛：OpenAI 表示，美国政府要求其先从小范围可信合作伙伴预览开始，再扩大开放。 Sol 是旗舰模型，OpenAI 声称它比 GPT-5.5 更进一步，尤其是在智能体工作方面——模型必须能进行规划、使用工具、自我纠错并跨多个步骤持续工作。 Terminal-Bench 2.1 是一个扎实的代码评测基准，因为它测试命令行工作流，所以它意味着 Sol 正在更接近真实工作的混乱开发任务上进行评判。 --- 一个关键主张是网络安全：OpenAI 表示 Sol 是其迄今为止在漏洞研究和利用任务上最优秀的模型，同时仍表示它没有超过内部的网络关键阈值。 “GPT-5.6 经过训练，可以拒绝被禁止的网络协助，包括当用户试图掩饰其意图或越狱模型时。”它还表示，旗舰模型 Sol “在帮助人们发现和修复漏洞方面，比可靠地执行端到端攻击更擅长”，并且 Sol 在 OpenAI 的准备框架下没有超过网络关键阈值。 但 Sol 在测试的 Chromium 和 Firefox 环境中并未自主生成完整的利用链。 他们还为 Sol 引入了两种新模式：“max”用于更深度的推理，“ultra”用于使用子智能体，这让人联想到 OpenClaw，并可能暗示 OpenClaw 的创建者 Peter Steinberger 早在 OpenAI 的影响力。 --- 定价：GPT-5.6 Sol 每 100 万输入 token 收费 5 美元，每 100 万输出 token 收费 30 美元，与 GPT-5.5 大致持平。 Terra 的定位是在接近 GPT-5.5 性能的同时，成本降低 2 倍，而 Luna 是面向大规模工作负载的最便宜模型。 --- 安全方面的描述异常消耗算力：OpenAI 表示，他们使用了超过 70 万 A100 等效 GPU 小时，用于针对广泛的越狱攻击进行自动化红队测试。 总体而言，OpenAI 在预览阶段似乎采取了更加谨慎的方法，而特朗普政府正在密切关注此事。 OpenAI 表示，安全防护有时可能会阻止合法工作，尤其是在双重用途领域，这些领域中防御性和攻击性行为在初始阶段可能看起来很相似。这正是预览版旨在测试的事情之一。
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 20:04]
+标题: 纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机
+链接: https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke
+正文: 故事正文 * 仅限订阅者 了解更多 在周四提交的一份经过大量删改的法庭文件中，《纽约时报》提议修改其对 OpenAI 和微软的版权诉讼，以澄清一项指控，并指控微软通过构建一台跻身全球最强大行列的定制超级计算系统，积极鼓励 OpenAI 窃取《纽约时报》的作品。 《纽约时报》提出动议之前，最高法院在一起案件中支持了 Cox Communications，该案中索尼试图指控 Cox 作为互联网服务提供商助长了音乐盗版行为但未获支持，这为帮助侵权（contributory infringement）设定了新标准。今后，原告必须证明当事人故意采取行动诱导了非法行为。认识到法律先例已发生变化，《纽约时报》现在希望修改其诉状，使其针对微软的帮助侵权指控符合这一新标准。 “今天，我们请求法院允许提交一份经修改的诉状，以进一步加强我们的案件，基于新法律以及在证据开示期间发现的新证据，澄清我们对微软帮助侵权的指控，”《纽约时报》发言人 Graham James 在一份提供给 Ars 的声明中表示。 除了澄清一项指控外，《纽约时报》还同意自愿撤销对全体被告的两项帮助版权侵权和商标淡化的指控。 微软的一位发言人告诉 Ars，该公司认为这份修改后的诉状是“原告为挽救其指控免受最近其他裁决中不利先例影响而采取的最后一搏”。 但在其动议中，《纽约时报》辩称，允许修改诉状既不会对微软也不会对 OpenAI 造成损害。《纽约时报》认为，当法律标准发生变化时，允许原告修改论点是恰当的，并且案件时间表不会因此推迟，因为“《时报》不寻求为支持其修改后的指控而进行任何额外的证据开示”。 “正如我们长期以来所指控的那样，微软积极鼓励 OpenAI 窃取我们的受版权保护作品，”詹姆斯表示。“除了修正该项指控并将案件精简为其最强有力的论据之外，我们的核心主张自提起诉讼之日起始终未变——即微软和 OpenAI 窃取了《纽约时报》数百万篇受版权保护的作品，用以与我们的产品竞争并非法牟利。” 《纽约时报》将矛头指向微软超级计算机 2023 年，《纽约时报》成为首家起诉 OpenAI 的大型出版商。这家知名报业指控 ChatGPT 非法使用其文章进行训练，通过逐字输出文章侵犯其版权，通过将 ChatGPT 定位为《纽约时报》订阅的替代品造成市场损害，以及通过将不实主张归咎于《纽约时报》报道造成声誉损害。此外，《纽约时报》还指控，ChatGPT 输出对 Wirecutter 评测的摘要，导致作者因联盟链接点击量损失而失去佣金。 在最初的诉状中，《纽约时报》将微软的超级计算系统描述为似乎只是提供通用云计算服务。更新后的诉状试图明确该超级计算机是为帮助 OpenAI 侵权而量身定制的，并指控其是为在未经许可的情况下将 AI 训练于受版权保护作品而专门建造的。而且据《纽约时报》指控，该系统的训练中更重地加权了其文章，因为两家公司都希望尽可能利用最高质量的新闻内容来训练模型，从而让输出的内容能够自信地模仿那种写作水平。 《纽约时报》指控，通过建造这台“异常复杂”的机器，微软不仅协助筛选出被侵权的作品，还提供了未经许可获取受版权保护作品的手段。 “微软专门设计该机器，目的是利用几乎整个互联网——并特意调整使其不成比例地以《纽约时报》作品为特色——来训练史上最强大的大语言模型，”《纽约时报》指控道。 而现在，它被指控不正当地获利。 “微软将基于《纽约时报》作品训练的大语言模型部署到其整个产品线中，仅在过去一年就帮助其市值增加了 1 万亿美元，”《纽约时报》指控道。 《纽约时报》指控，模型输出显示出市场损害 在证据开示阶段分享的输出内容中，对《纽约时报》而言，最具说服力的证据之一依然包括大量用户的 ChatGPT 会话记录——这些记录表明，OpenAI 和微软构建的工具 allegedly 通过生成与《纽约时报》受版权保护作品几乎逐字逐句的摘录，取代了《纽约时报》的地位。 在某些情况下，用户告诉 ChatGPT 他们正试图绕过付费墙，并通过要求查看“下一段”来获取文章的大段内容。在其他情况下，“模型只是直接吐出好几段文字”，根本不需要这样费尽周折。为了证明替代效应造成的市场损害，他们在投诉中分享了并排对比的示例，以及 alleged 侵权输出内容的截图： 上一条报道 1. Anthropic 称阿里巴巴必须因最大规模的 Claude 克隆攻击而受到惩罚 2. 微软为 Windows 10 扩展更新计划再增加一年 3. 美国联邦机构拒绝 Polestar 自 2027 车型年起在美国销售汽车的授权 4. IBM 声称研发出世界首款亚 1 纳米芯片技术 5. 低承诺，高交付？售价 24,950 美元的 Slate 汽车上手体验
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 16:51]
 标题: 华盛顿邮报报告：AI聊天机器人存在左翼偏见
@@ -65,21 +65,6 @@
 链接: https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3
 正文: 这是一份出色的报告。@exponentialview 发布的《AI 经济现状》报告显示： - 过去 12 个月内，去除重复计算后，AI 真实收入为 1100 亿美元。也就是说，用户在 Claude 上花费的 1 美元只被计算一次，即使其中一部分后来流向了亚马逊或其他基础设施提供商。 - 当前年化运行率为 1750 亿美元，表明增长正在快速加速。该指标按最终客户支出计算，而非供应链传递收入。不包括中国、内部 AI 节省、广告提升、咨询和系统集成收入。 - 增长速度大约比移动或互联网采用浪潮快 3 倍。 - 收入形成的速度急剧加快。现在新增 10 亿美元收入仅需不到 2 天，而 2023 年则需要 180 天。 - 企业 AI 已走出试点阶段，但深度的全公司推广仍处于早期。 - 在追踪的标普 500 公司中，AI 在财报电话会议中被提及的比例达到 31%。 - 只有 20% 的追踪公司做出了量化的 AI 影响声明。 - 超大规模云提供商的 AI 收入目前大致覆盖了 AI 基础设施的折旧。GPU 的经济回报在很大程度上依赖于 6 年计算寿命的假设。其他 AI 基础设施的建模周期则为 14 年。 - 模型 token 价格下降并不会自动导致收入减少。 - 每降低 10% 的 token 价格，就会驱动 12-18% 更多的 token 使用量。 - AI 需求呈现出价格弹性，即更便宜的 AI 会以快于价格下降的速度扩大使用量。 - 电力供应和数据中心成本仍然是未来规模化扩张的主要限制因素。 [引用 @azeem]：过去 12 个月内，生成式 AI 经济已创造了 1100 亿美元的销售额。它正在快速增长。按年化计算，收入运行率已超过 1750 亿美元。 我们花了几个月时间才构建出这些数字，而且据我们所知，这是第一个自下而上、去重后的全栈消费者和企业 AI 支出衡量指标。 我们今天在我们的首份《AI 经济现状》报告中发布了这项研究成果。 https://intelligence.exponentialview.co
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 21:45]
-标题: Claude Code v2.1.193 发布
-链接: https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy
-正文: 变更内容 新增 autoMode.classifyAllShell 设置，可将所有 Bash/PowerShell 指令路由至自动模式分类器，而非仅针对任意代码执行模式。 在转录记录、拒绝提示弹窗及 /permissions recent denials 中新增自动模式拒绝原因。 新增 claude_code.assistant_response OpenTelemetry 日志事件，包含模型回复文本。除非设置 OTEL_LOG_ASSISTANT_RESPONSES=1，否则该事件默认被遮蔽；当该变量未设置时，行为取决于 OTEL_LOG_USER_PROMPTS，因此已记录提示词内容的部署将在升级后开始接收回复内容——如需仅保留提示词记录，请将 OTEL_LOG_ASSISTANT_RESPONSES 设为 0。 为 bash 模式新增实时文件路径自动补全功能 (!) 当 MCP 服务器需要身份验证时，启动时显示提示信息，并指向 /mcp 新增空闲后台 shell 命令的自动内存压力回收机制（可通过设置 CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1 禁用） 修复了 /login 后 /model 及其他受客户端数据控制的 UI 显示过期/空白状态的问题 修复了当所有运行中的任务延续至新会话时，后台处理 (←←) 误取消并提示“会有 N 项后台任务被放弃”的问题 修复了固定后台智能体在每次自动更新后被重新提示“从你离开的地方继续”的问题 修复了主轮次后台处理时，会生成一个重复运行主对话的“通用（已恢复）”子智能体的幽灵问题 修复了查看子智能体时，智能体面板隐藏兄弟智能体的问题 改进了后台智能体：启动结果不再指示 Claude“结束你的回复”——智能体运行期间，Claude 可继续处理其他任务 改进了 MCP headersHelper 身份验证：当工具调用返回 401/403 时，辅助程序会自动重新运行并重新连接 改进了插件自动重命名：市场重命名映射现可自动跟进，将设置更新为新名称 改进了 /add-dir 在目录已是工作目录时的提示消息
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 21:15]
-标题: Codex 在 ChatGPT 移动 App 正式可用
-链接: https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u
-正文: Codex 现已在 ChatGPT 移动应用中正式可用。 通过一对一设备配对，将你的手机与电脑更安全地连接起来。 我们还新增了通知、目标、侧边聊天、文件预览和内联审查评论。 [引用 @OpenAI]：你们一直在期待这个…… 现已推出预览版：ChatGPT 移动应用中的 Codex。 在 ChatGPT 移动应用中即可开始新工作、审查输出内容、引导执行过程以及批准下一步操作，而 Codex 会继续在你的笔记本电脑、Mac mini 或开发机上运行。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 21:06]
-标题: 美国政府要求OpenAI暂缓GPT-5.6广泛发布
-链接: https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny
-正文: The Information：美国政府要求 OpenAI 将 GPT-5.6 以受控预览的方式逐步发布，而不是一次性广泛推出。 据报道，OpenAI 计划先让小型合作团队获得早期访问权限，同时官员逐一批准客户，从而将模型发布转变为一种安全门槛式的逐步上线。 担忧主要集中在自动化、高技能的网络工作方面。因此，同一模型既可以帮助防御者发现漏洞，也可能帮助攻击者更快地测试利用方法。 --- theinformation .com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns [引用 @steph_palazzolo]：与 @leomschwartz @amir 联合报道： 出于安全担忧，特朗普政府已要求 OpenAI 分阶段发布 GPT-5.6。 周四，CEO Sam Altman 告诉员工，政府将逐一批准客户对 GPT-5.6 的访问权限，这是一种极不寻常的做法。
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
 标题: Analyst Report: DuPont de Nemours Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3713_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -91,14 +76,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:42]
 标题: Market Update: BDX, DD
 链接: https://finance.yahoo.com/research/reports/ARGUS_47452_MarketUpdate_1782492127000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:08]
-标题: Daily – Vickers Top Insider Picks for 06/26/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47446_InsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:08]
-标题: Daily – Vickers Top Buyers & Sellers for 06/26/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47447_TopBottomInsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 18:53]
 标题: CFTC is conducting an investigation into Polymarket, source says
@@ -135,11 +112,6 @@
 链接: https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-premarket-sndk-on-rkl.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 21:03]
-标题: Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
-链接: https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html
-正文: In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 12:32]
 标题: JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits
 链接: https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html
@@ -155,10 +127,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge
 正文: How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 20:27]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 22:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 20:27]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 22:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
