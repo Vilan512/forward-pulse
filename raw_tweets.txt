@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-25 23:09:15
-# 共计 45 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-26 02:33:29
+# 共计 33 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-25 14:22]
 标题: Repositioning retail for the AI era
@@ -28,6 +28,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-25 16:11]
 标题: Which tokens does a hybrid model predict better?
 链接: https://huggingface.co/blog/allenai/hybrid-token-prediction
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 02:02]
+标题: Claude Code 6个实用Hook玩法
+链接: https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl
+正文: Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 01:26]
+标题: 小互开源个人IP配图技能"小互IP Studio"，含31个原创角色
+链接: https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica
+正文: 博主小互开源个人IP配图技能"小互IP Studio"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。 🔗 阅读原文：https://x.com/xiaohu/status/2070317717811540149
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 23:29]
+标题: @exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元
+链接: https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3
+正文: 这是一份出色的报告。@exponentialview 发布的《AI 经济现状》报告显示： - 过去 12 个月内，去除重复计算后，AI 真实收入为 1100 亿美元。也就是说，用户在 Claude 上花费的 1 美元只被计算一次，即使其中一部分后来流向了亚马逊或其他基础设施提供商。 - 当前年化运行率为 1750 亿美元，表明增长正在快速加速。该指标按最终客户支出计算，而非供应链传递收入。不包括中国、内部 AI 节省、广告提升、咨询和系统集成收入。 - 增长速度大约比移动或互联网采用浪潮快 3 倍。 - 收入形成的速度急剧加快。现在新增 10 亿美元收入仅需不到 2 天，而 2023 年则需要 180 天。 - 企业 AI 已走出试点阶段，但深度的全公司推广仍处于早期。 - 在追踪的标普 500 公司中，AI 在财报电话会议中被提及的比例达到 31%。 - 只有 20% 的追踪公司做出了量化的 AI 影响声明。 - 超大规模云提供商的 AI 收入目前大致覆盖了 AI 基础设施的折旧。GPU 的经济回报在很大程度上依赖于 6 年计算寿命的假设。其他 AI 基础设施的建模周期则为 14 年。 - 模型 token 价格下降并不会自动导致收入减少。 - 每降低 10% 的 token 价格，就会驱动 12-18% 更多的 token 使用量。 - AI 需求呈现出价格弹性，即更便宜的 AI 会以快于价格下降的速度扩大使用量。 - 电力供应和数据中心成本仍然是未来规模化扩张的主要限制因素。 [引用 @azeem]：过去 12 个月内，生成式 AI 经济已创造了 1100 亿美元的销售额。它正在快速增长。按年化计算，收入运行率已超过 1750 亿美元。 我们花了几个月时间才构建出这些数字，而且据我们所知，这是第一个自下而上、去重后的全栈消费者和企业 AI 支出衡量指标。 我们今天在我们的首份《AI 经济现状》报告中发布了这项研究成果。 https://intelligence.exponentialview.co
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 21:45]
 标题: Claude Code v2.1.193 发布
@@ -104,45 +119,6 @@
 链接: https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd
 正文: Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。 🔗 阅读原文：https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 02:00]
-标题: OpenAI内部报告：智能体Codex如何改变工作
-链接: https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc
-正文: 智能体如何改变工作方式 | OpenAI 2026年6月25日 公司 智能体如何改变工作方式 一份新的经济研究论文，在前沿层面衡量 Codex 的经济潜力。 阅读论文 智能体 AI 将知识工作的单位从单次交互转变为委托式的、长周期任务。聊天机器人的交互往往简短且独立。智能体可以自主运行数分钟甚至数小时，统筹调用工具、与环境交互、并迭代求解方案。因此，智能体正迅速成为工作中最强大的 AI 工具。 过去一年，我们在 OpenAI 内部亲身见证了这场转变。在 Codex 向公众发布后的最初几个月里，ChatGPT 仍是 OpenAI 内部默认的工作 AI 工具。截至 2025 年 8 月，OpenAI 员工平均只有不到 10% 的模型 token 用于 Codex。而现在，包括法律、招聘等非技术部门在内的每个部门，都已将 Codex 作为首要的工作 AI 工具。这种模式反映了我们相信的未来工作方式——随着智能体工具能力的扩展和可及性的提升，这一切将成为现实。 Codex 活跃用户占比 Codex 输出 token 占比 Codex 的采用与其能力同步增长。随着 Codex 利用更强的模型和新的产品功能，它逐渐能够承担更多富有成效的任务。在个人用户、组织用户和 OpenAI 员工这三类群体中，我们记录了过去一年的四个趋势： 人们使用 Codex 完成更长周期的工作。截至 2026 年 5 月，80.6% 的抽样个人用户至少提出过一次预计超过 30 分钟人力的 Codex 请求，70.2% 的用户至少提出过一次预计超过 1 小时的请求，25.6% 的用户至少提出过一次预计超过 8 小时的请求。 Codex 成为 OpenAI 每个部门的首要 AI 工具。工程部门率先迁移，但法务、财务和招聘部门也在 2026 年 4 月左右将 Codex 作为他们的首要 AI 工具。对于普通 OpenAI 员工而言，Codex 的使用现在占输出 token 的 85% 以上。由于 Codex 用户往往比非用户使用更多 token，因此它在整体 token 中的占比更高：Codex 占 OpenAI 内部每周输出 token 的 99.8%。 非开发者用户的采用增长尤其迅速，超过了开发者用户的增速。自 2025 年 8 月以来，非开发者用户在个人用户中增长了 137 倍，在组织用户中增长了 189 倍，在 OpenAI 内部增长了 12 倍。 Codex 使 OpenAI 员工能够执行其岗位描述之外的任务。虽然技术性使用在工程师中仍然最为普遍，但非技术用户也经常使用 Codex 进行编码或技术执行，包括自动化、数据转换、工具开发、调试和结构化分析。 AI 智能体在更困难的任务上工作时间更长。 近四分之一的 Codex 请求是针对需要一个人超过一小时才能完成的任务¹。随着 Codex 独立处理长上下文任务的能力提升，用户从短交互转向了更困难、耗时更长的任务。 下面的图表估算了跨越四个人工时间阈值的个人用户比例：需要一个人超过 30 分钟、超过一小时、超过四小时和超过八小时的任务²。从 2025 年 12 月到 2026 年 5 月，提出估计对应需要一个人超过 30 分钟的工作请求的用户比例上升至 80.6%。提出需要一个人超过一小时的工作请求的比例上升至 70.2%。提出需要一个人超过八小时的工作请求的比例从低基数增长最快。 智能体使用量的增长可以从每日 Codex 运行时长中看出。在 OpenAI 的日活跃用户中，使用最频繁的用户会在一天内要求 Codex 运行数小时的智能体工作。到 2026 年 6 月，处于第 99 百分位的用户每天常规生成超过 60 小时的 Codex 智能体轮次，这些任务分布在多个并行的智能体上。随着 Codex 变得更强大且更易于并行化，用户从每次只要求 Codex 给出一个答案，逐渐转向在一天内协调多个智能体任务。 采纳范围持续从工程师扩展到 OpenAI 其他部门 OpenAI 的工程师率先逐步采纳 Codex。到 2025 年 12 月，公司内普通工程师已将他们对 OpenAI 产品的主要使用量转移到了 Codex。如今，普通工程师 99% 的产出 token 是通过 Codex 而非 ChatGPT 生成的。法务、财务和招聘部门直到 2026 年 4 月左右才转向以 Codex 为主要使用方式，但它们的过渡速度快得多。OpenAI 内部的普通律师或招聘人员现在超过 85% 的产出 token 都是在 Codex 上生成的。 在过去六个月里，Codex 在 OpenAI 内部的使用深度和强度都在加大。在活跃的内部用户中，各部门的合并产出 token 量出现了急剧增长。研究部门的增幅最大：到 2026 年 6 月，中位使用量是
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
-标题: OpenRouter MCP 服务器发布
-链接: https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7
-正文: OpenRouter MCP 服务器OpenRouter ·2026年6月25日On this page一条命令安装无需切换标签页即可选对模型提交前先测试不离开编辑器就能搜索文档专用且带上限的密钥工具箱里有什么常见问题解答你的编程智能体在编写代码方面非常出色。 但在选择合适的模型时——例如，既要用它来写代码，又不想一天就花光月度预算，或者要选一个最适合设计落地页的模型——它就非常吃力了。 你的智能体可以大致猜出哪个模型“最好”，但它只是基于几个月前的训练数据来猜测，完全不知道模型的实际成本、在特定任务上的表现如何、应该固定使用哪家供应商等信息。 这种局面到此为止。 今天，我们非常激动地宣布 OpenRouter MCP 正式发布。 OpenRouter MCP 服务器将实时模型数据、基准排名、定价、文档和测试推理直接呈现给你和你的智能体，帮助你做出关于选用最佳模型的正确决策。一条命令即可安装，你最喜欢的智能体就能利用 Artificial Analysis、Design Arena 以及 OpenRouter 自身模型排名的最新数据来回答“哪个模型最擅长写代码又不会让我破产”？提示：答案是 GLM-5.2。 立即接入 | 文档 一条命令安装 Claude Code： claude mcp add --transport http openrouter https://mcp.openrouter.ai/mcp claude mcp openrouter Codex CLI： codex mcp add openrouter --url https://mcp.openrouter.ai/mcp codex mcp openrouter Cursor：添加到 ~/.cursor/mcp.json： { "mcpServers": { "openrouter": { "url": "https://mcp.openrouter.ai/mcp" } } } 请参阅接入指南，了解 OAuth 登录及所有支持的客户端。 无需切换标签页即可选对模型 你正在构建一个需要结构化 JSON 输出的功能，希望找一个速度快、价格低、而且在这方面真正擅长的模型。通常你会打开 OpenRouter 网站，浏览模型列表，对比基准测试结果，查看定价，也许还在 Playground 里跑几个测试提示词。这需要花 15 分钟来回切换上下文，连一行集成代码都还没写。 连接 MCP 服务器后，你可以在编程智能体中完成这一切： You: "I need a model for structured JSON extraction from legal documents. Fast, under $1/M input tokens, good at following schemas." Agent: [calls models-list with filters] → [calls benchmarks] → [calls model-endpoints] Agent: "google/gemini-3-flash-preview fits well: $0.10/M input, 138k context, strong structured output support. Here's the endpoint with the lowest latency..." 智能体从实时模型目录中拉取数据，交叉参考 Artificial Analysis 智能评分和 Design Arena ELO 排名，并检查各家供应商的定价和延迟。推荐完全基于当前数据，而不是六个月前模型最后一次训练时的旧数据。 提交前先测试 chat-send 让你的智能体向任何模型发送测试提示词，并查看响应、成本以及由哪个提供商提供服务。你的智能体可以并排比较不同模型的回答： You: "Compare how Claude Opus 4.8, GPT-5.5, and DeepSeek V4 Pro handle this structured extraction prompt." Agent: [sends the same prompt to all three via chat-send] [calls generation-get for each to get cost breakdowns] Agent: "All three produced valid JSON. Opus 4.8 nailed the edge case in row 12. GPT-5.5 was 40% cheaper. DeepSeek V4 Pro was fastest at 180ms TTF
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 00:00]
-标题: 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成
-链接: https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf
-正文: [](http://x.ai/) 产品 解决方案 开发者 公司 定价 新闻 联系销售 免费试用 产品 Grok企业版政府版 下载 iOS安卓Grok on X 开发者 API 控制台文档CLI 免费试用 返回新闻 2026年6月25日 通过盈透证券与 Grok 探索市场 盈透证券现已集成 Grok，将强大的人工智能直接带入您的交易体验——投资组合分析、情景建模、研究与下单指令。 * * 盈透证券现已集成 Grok，将强大的人工智能直接带入您的交易体验。 这一集成解锁了一种更快速、更动态的方式来探索市场、分析投资组合并生成可执行的洞见。 几分钟即可开始 客户可以在几分钟内将现有的盈透证券账户关联到 Grok——无需额外费用，也无需开设新账户。 开始使用很简单： 1. 在 Grok 中搜索 **“Interactive Brokers”** 并选择盈透证券连接器。 2. 您将被重定向至盈透证券的登录页面。 3. 使用您现有的盈透证券凭证登录。 4. 为您想要关联的账户授权。 关联完成后，您可以： **让 Grok 分析您的投资组合**——*我今年能获得多少股息和利息？* **对风险暴露进行情景建模**，比如行业、地区、经济事件等——*我的投资组合最大的风险暴露是什么？如何分散？* **研究市场与趋势**——*人工智能基础设施的部署将如何影响能源公司？* **实时构建交易策略并生成下单指令**——*创建能够对冲我的投资组合在市场下跌10%时风险的订单* 视频1 从投资组合分析到下单指令，这些工具将数据、洞察与行动统一起来，让您可以瞬间从想法到决策。 隶属于[](https://spacex.com/) © 2026 xAI Corp. 由 Grok 构建 产品 聊天创建想象声音Grok百科 下载 grok.comiOS安卓Grok on X 解决方案 企业版政府版客户支持法律安全用例 开发者 API 概览定价模型控制台状态文档 企业 联系销售常见问题BAADPA 公司 关于巨像职业新闻联系 信任 安全安全隐私门户子处理器帮助中心 法律 条款企业版条款隐私CookiesAUP品牌 社交 @xai@grokDiscord 由 Grok 构建
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
-标题: Analyst Report: United Airlines Holdings Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
-标题: Analyst Report: Leidos Holdings Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3680_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:54]
-标题: Analyst Report: Paychex Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3608_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:39]
-标题: Market Update: PAYX, LDOS, UTHR, UAL
-链接: https://finance.yahoo.com/research/reports/ARGUS_47440_MarketUpdate_1782409158000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:10]
-标题: Daily – Vickers Top Buyers & Sellers for 06/25/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47434_TopBottomInsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 12:10]
-标题: Daily – Vickers Top Insider Picks for 06/25/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47433_InsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 21:03]
 标题: Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
 链接: https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html
@@ -178,40 +154,10 @@
 链接: https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html
 正文: Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: How companies can strengthen their geopolitical risk readiness
-链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-companies-can-strengthen-their-geopolitical-risk-readiness
-正文: Survey results reveal a widening gap between leaders’ assessment of their risk exposure and responsiveness. Five actions can help leaders prepare for a range of outcomes—not just the worst case.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: What matters most to investors in 2026 and what it means for companies
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies
-正文: Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: Unlocking full potential: Five practices reshaping PE value creation
-链接: https://www.mckinsey.com/capabilities/transformation/our-insights/unlocking-full-potential-five-practices-reshaping-pe-value-creation
-正文: The half-life of the initial deal thesis is shrinking. Private equity firms are shifting toward a more adaptive, execution-led model that reshapes value creation during ownership.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: Frontiers of compute: The technologies to reduce AI inference costs
-链接: https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs
-正文: AI’s next breakthrough may not be a smarter model but a cheaper token.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: How TITAN Group’s CEO is transforming a century-old company
-链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-titan-groups-ceo-is-transforming-a-century-old-company
-正文: As the first outside leader of the family-founded business, Marcel Cobuz has made some tough decisions about what to keep and what to change. His formula seems to be working.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-25 00:00]
-标题: What it takes to become—and remain—an effective CEO
-链接: https://www.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo
-正文: Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-25 23:09]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 02:33]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-25 23:09]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 02:33]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
