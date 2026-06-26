@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-26 16:08:07
-# 共计 69 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-26 18:24:04
+# 共计 39 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-26 12:10]
 标题: The Download: brain-melting heatwaves and unprecedented OpenAI restrictions
@@ -15,14 +15,25 @@
 标题: Run a vLLM Server on HF Jobs in One Command
 链接: https://huggingface.co/blog/vllm-jobs
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-25 16:11]
-标题: Which tokens does a hybrid model predict better?
-链接: https://huggingface.co/blog/allenai/hybrid-token-prediction
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 16:51]
+标题: 华盛顿邮报报告：AI聊天机器人存在左翼偏见
+链接: https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq
+正文: AI聊天机器人存在左翼偏见，据《华盛顿邮报》报道，ChatGPT 有 80% 的情况下会给出左倾的答案。 该测试使用了达特茅斯学院和斯坦福大学的一项研究中的一组结构化政治问题。 测试向每个模型询问了大约 30 个政策议题，包括税收、医疗保健、移民、枪支、平权法案和死刑。 GPT-5.5 在 80% 的回答中只给出了左倾立场，17% 给出了双方立场，仅 3% 给出了右倾立场。 Gemini 3.1 Pro 的情况则大不相同，93% 的回答中给出了双方立场，仅 7% 给出了左倾的答案。 Claude Opus 4.8 在 57% 的回答中给出了双方立场，而 Grok 4.3 是唯一一个右倾占比高达 33% 的模型。 更深层的问题不在于某个答案听起来是自由派还是保守派，而在于模型是否在用户看到权衡之前，就将一个政治争议压缩到单一的道德框架中。 这项测试表明，聊天机器人的行为受排名选择、拒绝规则、训练反馈和默认回答风格的影响，甚于受原始事实的影响。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 15:37]
+标题: Leaf 开源项目：将网红峰哥做成实时通话 AI 分身
+链接: https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk
+正文: 开发者 Leaf 开源项目，将网红峰哥做成能实时通话的 AI 分身，集成实时对话、音色克隆和人格注入，工程延迟压到 1 秒内。技术拆解：语音识别用 Cartesia ink-whisper 降噪防误触发；大模型选 MiniMax 高速版，首字响应 361ms；语音合成用 VoxCPM 开源克隆，15 秒素材即可复刻。整体从最初 8-20 秒优化至体感 2-3 秒。人格通过女娲 Skill 从直播语料蒸馏出口头禅和思维逻辑。普通人半小时可跑通：克隆项目后，用 Claude Code 或 Cursor 配置，填两个 API Key 即可使用。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2070531964067623381
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 15:18]
 标题: Anthropic Economic Index 报告：使用节奏
 链接: https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe
 正文: 经济研究 Anthropic 经济指数报告：节奏 2026年6月26日 阅读 PDF 版本 引言 一年前，大多数 Claude 的使用形式是用户与助手之间的对话。随着 Claude Code 和 Cowork 的快速发展，现在 Claude 会话越来越多地由长时间运行的智能体任务构成。聊天记录已无法完全反映人们如何使用 AI，我们研究 Claude 经济影响的方法也必须随之调整。 为了跟上步伐，我们对经济指数的数据管道进行了几项修改。在这一版本中，我们： 以更高的频率采样数据，使我们能够观察到逐小时级别的使用模式。 引入了一个新的分类器，用于标注每次对话的输出内容。 分享更细粒度的数据，将聊天和 Cowork 对话（合称“Claude 对话”）以及 1P API 的结果分别列出，并按月汇总。¹ 我们在附录中描述了其他方法论上的变化。这些变化共同描绘出 AI 如何映射并渗透到经济生活中。 此外，我们此前一直无法了解 Claude 在用户会话之外的影响。人们如何看待 AI 正在改变他们的工作或他们可获得的机会？他们对 AI 的使用是否塑造了他们的预期？在理想情况下，他们希望从 AI 那里得到什么？我们从 2026 年 4 月启动的 Anthropic 经济指数调查中报告了初步发现。 我们在下文中预先展示主要发现。 在第 1 章中，我们展示了外部世界的节律如何塑造 Claude 的使用方式。与工作相关的查询在周末会减少，尽管在高收入职业中减幅不那么明显；人们倾向于在早上询问新闻，而睡眠建议在凌晨 3 点左右达到峰值；与税务相关的请求在报税截止日期前后激增。 第二章探讨了人们从使用Claude的过程中获得的具体输出。这些输出高度依赖于他们所使用的产品。例如，Chat和Cowork提供的解释比Claude Code更多。输出的性质也塑造了人们与Claude的互动方式。与翻译文档相比——翻译文档的答案很大程度上由原文决定——构建网站需要更多地依赖Claude的判断。我们还发现，计算资源越多的会话，产出物价值越高；给定输出所消耗的模型token数量，会随着该工作的预估价值上升而增加。 第三章展示了Anthropic经济指数调查的首批结果，我们通过隐私保护系统将其与Claude使用数据关联起来。期望与体验随着人们使用Claude的方式而系统性地变化：以最高自动化方式使用Claude的人，预期AI在未来一年内会接管他们更多的任务，但同时对其工作前景感到最为乐观，预期在薪酬、工作保障和意义感方面会产生积极影响。 节奏 我们的新型隐私保护遥测技术每天持续采样一部分对话，使我们能够研究使用的每日和每小时模式，而此前的每份经济指数报告都基于七天样本。这些分析捕捉了全球范围内工作模式的起伏变化。 我们发现Claude的使用模式与工作周同步，个人类提示词在周末激增。小时级数据捕捉到日内模式——人们通常在凌晨3点左右询问睡眠建议，在下午6点左右询问食谱。我们还看到使用情况反映了关键日期。例如，在美国报税截止日4月15日之前，与税务相关的请求激增。 工作周 在样本期内，Chat和Cowork对话中被归类为个人使用的比例，从工作日的约35%飙升至周末的近50%（图1.1）。在工作时间之外，用户的对话从商务函件、营销文案和幻灯片转向情感支持、医疗问题和投资建议。这一转变在高收入国家最为显著。 图 1.1：周末个人对话增加。Claude.ai、Claude Desktop、Claude Code 和 1P API 上个人使用对话的每日占比。周六和周日以灰色标出。 Claude Code 和 1P API 流量（即通过 Anthropic 直接路由的 API 流量）中也存在类似模式，尽管两者的个人使用基准率较低。4 请求聚类 5 使我们能够再深入一层，观察哪些具体的 Claude Code 任务在周末和工作日之间波动最大。在周末，下降最多的 Claude Code 使用聚类包括后端架构、API 调试和数据存储；增长最多的包括 AI 智能体设计、量化交易和游戏。 周末也可能为人们创造了追求新事业的时空。在各国家中，与创业相关的对话在周六和周日最高。然而，求职活动在周末下降，其他工作相关任务也是如此。6 日常节奏 逐小时来看，Claude 的使用情况反映了日常生活的节奏。图 1.2 显示了不同请求聚类相对于全球流量整体平均值的每小时频率。7 人们会在当地时间早上 7 点询问新闻。商务通信（例如起草电子邮件）勾勒出工作日的轨迹，在上午 10–11 点略有峰值。最大的峰值之一是食谱请求，下午 6 点的频率是平均值的 2.3 倍。媒体推荐最集中在晚上，而人们在黎明前几小时寻求睡眠建议。 图 1.2：一天中各时段的请求聚类。不同请求聚类中对话的标准化每小时占比，仅限于 Claud
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 10:00]
+标题: OpenAI 预览新一代模型 GPT-5.6 Sol
+链接: https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4
+正文: 预览 GPT-5.6 Sol：新一代模型 | OpenAI 0 0 . 0 . . 0 . . . . 0 . 0 0 0 0 . 0 . . . 0 . . .. 0 0 . . 0 . . 0 0 . . . . . .. . . . . . 0 0 . . . . 0 . 0 . . . . 0 . . . . .. .. . . . . 0 . . . . 0 . 0 0 . . . . . . 0 . 0 0 . . . 0 . . . . . 0 . . . . 0 . . . 0 0 0 . . . .. . . . . 0 0. 0 0 . . . 0 . .0 . 00 . 0 . . 0 . . . . . . . 0 . . . . . . . 0 0 0 . . . 0 . . . 0 0 . . . . . . 0 . . . . . . .. . 0 .. . . . 0 . .0 0 . . . . .. 0 . . . 0 0 . 0 . 0 . .. . . . .. . . . . . . . . 0 . 0 . 0 . .0. . . . . 0 . . 0 . . . . .. . . . . . .. . . . 0 . . 0 . . . 0 . . .. . . . 0 . . . . . 655655555555 55555666655555.665 555556565.55555655555665 566656655555.565665556565.65 555.55555655556565.56656.5555556 5555.555555.55565655555.5665555655 56.6.565.5.66..55655665.55555555.556 56.566555.556556556.665556556565665.5.55 55555.55555655555.55565.565.66555555.5.5 65.555566555...565555..5.555.565555.56.655 556.5555656556.56555.55556556555555565665565 5556.55555555555566555.5566.5555.556656.655556 6.555555655556565565.55.5555655555555555.66555 .66555.5.65555555655566555555.665556.5555.565566 5555.655555655.65.5.5565.55.655..55656.555555555 5665.55555565656.55556.5..6656565555656555.65555 56.55655566555566565...5.5556.56.5655.555555655555 6555555555556555555555555.555565565556.55.55565556 5555.65555556565555556555.56665556566556.5556.5655 .5665.5.55555555565556566556565655.6655556.5555555 56656.565565555.5556.555555655555.5.55655.65.66.56 56.55.655555555555555555.565..55666555555555.55555 5555.556555665.5555555.555655555.5556565.555566555 .665565656566.5566655556565655656.5..55.6.65556655 55.565.55666555555566.5555555555566..55555556..6 55.555556655.56566.6565655.555.555655.5655555555 665555555.555556665.6566555565565.55565565565556 655.55555555555.5.55.65655566.5566565.55555.55 56555565.556.5666666555.65665555565556655.5565 5.555656555555555555655..5.5.655555655565555 56655665556565655555.665555556555565566655 .6655665.665555.55655655565665565555.555 5555555655555565565555555.5.55.66656555. 55
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 05:40]
 标题: 小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球
@@ -84,162 +95,36 @@
 链接: https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp
 正文: Agent 2.0 来了。使用优惠码 AGENT 即可享任何套餐 30% 折扣 尝试一下 新闻 / 公司新闻 推出 Agent 2.0 2026 年 6 月 25 日 Runway 发布 Agent 2.0 帮助营销人员把有效的东西做得更多——那些能驱动收入的广告、视频和完整营销活动。 每位营销人员都知道驱动收入需要什么：分析哪些做得好，做得更多，砍掉无效的。但在实践中，要在每一个营销活动、社交媒体帖子和付费广告中真正落实这一点，不是一个人甚至一个小团队能跟得上的。知道该做什么和实际做到之间的差距，正是大多数营销功亏一篑的地方。 今天，我们推出 Agent 2.0，这是一次升级的 Runway Agent 体验，旨在弥合这一差距。把你正在做的东西放进来：一个转化率不佳的付费广告活动、一个下周要推出的产品、或者一个你正在努力打入的受众群体。Agent 会分析它、提出正确的问题、并与你一起构建直到效果理想——所有这些都在一次对话中完成。 为营销人员而建 无论你是自己负责营销的创始人、独自负责一个品牌所有社交内容的营销人员、还是管理多个并行活动的大型团队的一员，Agent 都能帮助你创建、测试和改进你的营销。 **品牌营销人员：** 通过对话来构思营销活动。告诉 Agent 你的目标用户，它就会帮你找到最佳创意角度来推销你的产品，并生成你需要的所有变体版本。制作季节性内容、品牌视频和活动素材。需要将活动适配到新的市场？Agent 会本地化文案并替换视觉元素，这样你就不必为每个地区从头重建素材。 **效果营销人员：** 在已有的有效成果上继续发力。上传你的创意素材，提供来自 Meta、YouTube、TikTok 或 Google 的广告指标，Agent 会分析并生成你的下一组待测广告。 **社交媒体营销人员：** 在单一会话中生成一周的品牌内容。把你上周内容的互动数据给 Agent，它会找出有效的内容，并生成你下周的帖子，每个平台都有对应的剪辑版本。告诉 Agent 你的需求，它会自动剪切成正确的格式：9:16 用于 Reels 和 Stories，16:9 用于 YouTube，1:1 用于信息流。 **产品营销人员：** 与 AI 智能体协作，锁定能与受众产生共鸣的产品定位角度。然后 AI 智能体会利用您最有力的信息来构建营销活动素材，以便您能够在市场上进行测试。 AI 智能体 2.0 能适应您在创作流程中的任何阶段：一个粗略的想法、一个半成品的营销活动、一个即将推向市场的产品，或一组已经在投放的素材。它理解背景和目标，帮助您把下一个版本做得更好，从而让您的营销活动推动收入增长。 **AI 智能体的下一步** 我们希望 AI 智能体成为能够胜任真实世界工作的最强大的自主智能体：直接连接到您的营销活动所在的平台，从效果数据中学习，并自动生成新的素材和营销活动。 对于大多数 AI 工具来说，生成最终素材就是终点。而我们正在打造的 AI 智能体则能继续前进：帮助您端到端地运营营销活动并持续改进。 **试用 AI 智能体 2.0** AI 智能体 2.0 现已面向所有用户开放。立即将其用于您的营销活动吧。 立即试用 AI 智能体 2.0 → **了解更多** 新闻 Runway 与 Lionsgate 合作 客户故事《大卫之家》如何借助 Runway 成为亚马逊最新热播剧 新闻 探索电影制作的未来：Runway 与 2024 年翠贝卡电影节的编程合作 **产品** 探索示例 角色 GWM-1 通用世界模型 机器人 Gen-4.5 Aleph 2.0 Act-Two API **倡议** AI 峰会 2026 ↗ 工作室 AI 电影节 ↗ Gen:48 学院 ↗ **资源** 创意合作伙伴计划 Runway 构建者 **公司** 我们的研究 出版物 职业机会 关于我们 客户故事 新闻 人才网络 ↗ 安全 **开始使用** 企业版 教育版 登录 定价 帮助中心 ↗ 数据安全 更新日志 **联系** 媒体 合作伙伴 品牌指南 聚会 ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. /使用条款/隐私政策/加州通知/ Cookie 设置 行为准则/系统状态
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:03]
-标题: 赫库兰尼姆古卷首次被完整虚拟解读
-链接: https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o
-正文: 我们完整阅读了一卷书卷——从未将其打开 自公元79年维苏威火山爆发后便密封至今的PHerc. 1667号卷轴，已被虚拟展开并从头到尾阅读完毕。 2026年6月25日 阅读预印本：《赫库兰尼姆卷轴完整虚拟展开与阅读》（PDF）。数据可在 scrollprize.org/data 公开获取，代码托管在GitHub上。 近两千年来，赫库兰尼姆被碳化的图书馆一直维系着残酷的平衡：它的卷轴在维苏威火山喷发中幸存下来，却也因此变得脆弱不堪，无法打开。要阅读一卷，就意味着要毁掉它。数百卷书卷因此继续保持密封状态，其内容虽被保存下来，却无法触及。 今天，这一局面被改变。我们已完全虚拟展开并阅读了PHerc. 1667号卷轴——维苏威挑战社区称之为“卷轴4”——全程未曾触碰其书页。这是第一卷被数字化展开、完整通读，并可供学术界持续研究的赫库兰尼姆纸莎草卷轴。 10厘米© Vesuvius Challenge 2026PHerc. 1667卷轴的完整书写表面，已虚拟展开——大约1.4米长的纸莎草纸，包含约22列希腊文。横向滑动可平移，点击可缩放。下载高分辨率图像。 从密封的团块到可阅读的书籍 PHerc. 1667号卷轴最初是一团发黑、卷曲的碳化纸莎草。为阅读它，我们从未进行物理展开。相反，我们用高分辨率X射线对其进行扫描，重建了卷内层叠的纸层，将其展平为可阅读的表面，并利用机器学习来显现古代墨水的细微痕迹。 从实物到文本。密封的碳化卷轴（左上）；X射线扫描的横截面，展示内部的螺旋纸层（上）；展开后的表面，随着墨水信号的恢复，希腊文列逐渐显现（下）。 三卷密封卷轴，三个里程碑 这项工作不仅限于单卷书卷。除了完整阅读PHerc. 1667号卷轴外，该研究还建立了一种方法，该方法能经得起独立检验，并可扩展应用于其他卷轴。 PHerc. 1667 — 完整通读 PHerc. 1667 是一个更大卷轴的残余部分：早期试图用手打开它的尝试——在 19 世纪，以及 1969 年和 1980 年代——破坏了它的外层，只留下了紧凑的内核，高度约为原始 19–24 厘米中的 8 厘米。从这一幸存部分，我们现在已经完整恢复并阅读了文本——大约 22 列文字的下部，由纸莎草学专家转录并审校。这是第一次将卷起的赫库兰尼姆卷轴中保存下来的文本从头到尾连续阅读，而不是零散的单词或片段。 恢复的文本是一部关于伦理学的哲学论文，证据指向一部斯多葛学派的著作：它探讨人性、冲动和人类的道德进步，其最后保存的列中提到了阿里斯托克雷翁——伟大的斯多葛学派哲学家克吕西波的侄子和弟子——这一点，结合文本的语言和主题，将其置于斯多葛学派的语境中，并确定其年代为公元前 2 世纪。 由于纸莎草受损，文本解读是碎片化的，表面缺失处存在空白。即便如此，有几段文字在两千年来首次可以清晰阅读： “……我们将探究某事，但我们不会把握它，如果在某种程度上我们背离了自身和我们自己的本性……” “……通过研究和学习，竭尽全力……拥有同样的实践智慧……” “……既然这些对我们而言是善，那么即使从相反的恶中，也将既不会有任何善——更遑论美——也不会有任何恶——更遑论丑——也不会有幸福……” 译自希腊语；完整的逐列转录文本见预印本。 PHerc. Paris 4——通过更高分辨率使墨水可见 在第二卷卷轴中——PHerc. Paris 4，即维苏威挑战社区所称的卷轴 1——一种更高分辨率的成像技术首次使卷轴内部的墨水在三维 X 射线数据中直接可见。经过三维分割并投影回展开的页面上，这些墨水与 2023 年大奖赛阅读的文本一一对应——这是基于更好的数据进行的独立确认，证明阅读结果是真实的。 在 PHerc. Paris 4（卷 1）中，更高分辨率使墨水显现。在 X 射线扫描的横截面上，墨水直接位于纸莎草表面（左侧）；随后可在三维空间中对其分割（红色），并投射到展开的页面上。 PHerc. Paris 4：2023 年维苏威挑战赛大奖读解（上方）与新的 3D 墨水分割结果（下方）——同一文本，通过更优数据一对一复原。 PHerc. 139——一个标题，一位作者 在第三卷卷轴 PHerc. 139 中，我们复原了卷轴的标题和作者归属：该著作被确认为菲洛德穆的《论诸神》第八卷——一部由伊壁鸠鲁学派哲学家撰写的论著，其作品占据了这个图书馆的大部分馆藏。读到封闭卷轴的标题，就能让学者在研读卷内任何一列正文之前，知道这卷书的内容。 PHerc. 139 的标题区域。增强墨水信号后显示出标题和作者归属，确认该卷轴为菲洛德穆的《论诸神》第八卷。 如何做到的 扫描是利用法国格勒诺布尔欧洲同步辐射装置（ESRF）BM18 线站的高分辨率相位衬度 X 射线显微断层成像获取的——该设备能够分辨赫库兰尼姆卷轴中极薄且紧密堆叠的纸莎草层。此项工作与
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
+标题: Analyst Report: Becton Dickinson & Co
+链接: https://finance.yahoo.com/research/reports/ARGUS_2766_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 16:11]
-标题: OLMo Hybrid vs Transformer：混合模型在实义词上优势明显，但重复短语上几无优势
-链接: https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1
-正文: 混合模型在哪些 token 上预测得更好？ Enterprise Article 发布于 2026 年 6 月 25 日 Kyle Wiggers Ai2Comms allenai 📄 Tech report: https://arxiv.org/abs/2606.20936 模型对哪些类型的 token 预测得好，对哪些预测得不好？这个问题对于混合模型来说尤其引人入胜——混合模型是一种语言模型架构，已经开始挑战标准的 Transformer，我们一直在用 Olmo Hybrid 对它进行深入研究。 混合模型在标准基准测试中可以媲美甚至超越 Transformer，但这些 headline 数字并不能揭示混合模型相对于 Transformer 具体有哪些优势。 为了阐明这些 token 层面的行为，我们最近进行了实验，将自己最强的 7B Transformer 模型 Olmo 3 与混合模型 Olmo Hybrid 进行直接对比。具体来说，我们以细粒度的方式比较了不同类型 token（即作为大语言模型输入的信息单元）上的模型预测差异。 由于 Olmo 3 和 Olmo Hybrid 在架构以外的方面尽可能保持一致——数据、分词器和训练方案都高度匹配——因此它们预测结果的任何差异主要反映了架构本身。从 token 层面观察这些差异，使我们能够深入了解混合模型相对于 Transformer 的具体优势。 我们的结果表明，混合模型在很多 token 上确实有优势，但并非所有。Olmo Hybrid 在承载意义的 token（如名词、动词和形容词）上表现最强，在只能通过跟踪上下文来预测的 token（如代词指代的是谁）上也是如此。但混合模型在那些只是简单重复输入中已有内容的 token 上优势几乎消失——即从前面逐字复制的单词或短语——答案就在那里，可以查得到。这正是 Transformer 的强项所在。 注意力机制与循环机制，以及测量差异 语言模型由一堆重复的层构建而成，每一层都利用周围的 token 来精炼每个 token 的表示。 Transformer 架构在每一层都使用了注意力机制。模型可以同时直接访问每一个更早的 token，评估每个 token 与当前预测的相关性。这使得注意力机制能够精确地回忆起某一个较早的 token，即使该 token 出现在输入的较远位置。代价是每个 token 都要与所有更早的 token 进行比较，因此随着输入增长，注意力的计算成本会急剧上升。此外，虽然注意力在回忆和聚合信息方面表现出色，但它也难以表示随时间顺序演变的信息。 混合模型保留少量注意力层，其余层替换为循环层。与注意力层不同，循环层从左到右读取 token，并携带一个固定大小的记忆，将每个新 token 折叠到记忆中，因此无论输入多长，处理每个 token 的成本都保持恒定。这种记忆是压缩且有损的，因此循环层无法像注意力层那样回溯寻找精确的早期 token。但它非常适合持续记录模型读取 token 时发生的任何变化，提供了对注意力机制的互补优势。 为了分离注意力层和循环层的优势与劣势领域，我们向 Olmo 3 和 Olmo Hybrid 输入了文本段落：文章、维基百科条目、书籍和科学论文，以及 Python、HTML 和 LaTeX 等结构化文本。我们根据每个模型在给定样本中从前面的 token 预测每个 token 的准确度进行了评分。 两个模型都看到了相同的更早 token，并为每个可能的下一个 token 分配了一个概率。我们记录了每个模型对实际出现的 token 所赋予的概率。然后，我们通过计算损失差距（即两个模型之间的损失差异）来逐 token 总结两个模型之间的差异。正差距表示混合模型对真实下一个 token 的预测更好。负差距则表示 Transformer 模型做得更好。 为了找出损失差距可能集中在哪里，我们进行了多项分析。首先，我们将每个 token 归类，并计算这些类别内的平均损失差距。由于原始平均值可能受到其他因素的影响，例如某个类别的稀疏性或 token 在文本样本中的重复频率，我们通过回归方法重新检验了每个模式，该方法在控制其他变量不变的情况下，估算该类别本身的影响。 真实文本所呈现的结果 我们发现，在大多数类型的 token 上，Olmo Hybrid 的损失低于 Olmo 3，但不同 token 的降低幅度并不相同。 在散文文本中，最明显的分界在于实义词——即承载意义的名词、动词和形容词——与功能词（如“the”、“of”、“is”）之间。混合模型对实义词的预测效果优于 Transformer，损失差距约为 [原文此处未给出具体数值]，而对功能词的损失差距则接近 [原文此处未给出具体数值]。 特别是在副词
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
+标题: Analyst Report: DuPont de Nemours Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3713_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:58]
-标题: This Energy Stock Tests Support, Eyes Entry Amid Strait Of Hormuz Uncertainty
-链接: https://www.investors.com/stock-lists/stock-spotlight/energy-stock-dht-support-strait-hormuz-uncertainty/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:57]
-标题: Stock Market Today: Dow Jones Turns Higher After Soft Start; Microsoft Leads Software Rally (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tech-sell-off-micron-nvidia-sandisk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 23:13]
-标题: Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks
-链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-waver-as-report-of-openai-ipo-delay-rattles-chip-stocks-231347821.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:51]
-标题: The Market Rotation Is On. ServiceNow, Workday, and AppLovin Rise as Software Tops Chips.
-链接: https://www.barrons.com/articles/servicenow-applovin-software-chips-on-semiconductor-4496e4be?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:50]
-标题: World stocks edge lower as tech selloff drags markets
-链接: https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:39]
-标题: This Regulatory Rollback For Robotaxis Is Set To Help Tesla, Amazon, Google
-链接: https://www.investors.com/news/tesla-amazon-waymo-robotaxi-cybercab-self-driving-car-fsd/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:26]
-标题: Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism
-链接: https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:24]
-标题: From models to studios: how AI video investment is evolving
-链接: https://finance.yahoo.com/technology/ai/articles/models-studios-ai-video-investment-152429836.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:50]
-标题: Bristol Myers Squibb vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?
-链接: https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-vs-johnson-155015359.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:22]
-标题: Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out
-链接: https://finance.yahoo.com/markets/stocks/articles/trump-name-dropped-nokia-eli-152209306.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:12]
-标题: When Rates Are Up and Your Cash Is Still Tight. Here Is What Is Actually What Could Be Going On.
-链接: https://finance.yahoo.com/small-business/articles/rates-cash-still-tight-actually-151257872.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 10:00]
-标题: Mortgage and refinance interest rates today, Friday, June 26, 2026: Rates relatively flat heading into the weekend
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-june-26-2026-rates-relatively-flat-heading-into-the-weekend-100000320.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:08]
-标题: Dollar falls for second straight day but poised for weekly gain
-链接: https://finance.yahoo.com/news/yen-wobbles-near-40-low-010511440.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:50]
-标题: FedEx Freight’s First Earnings Report Beats Estimates. The Stock Doesn’t Move.
-链接: https://www.barrons.com/articles/fedex-freight-earnings-stock-e8c25b89?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:42]
+标题: Market Update: BDX, DD
+链接: https://finance.yahoo.com/research/reports/ARGUS_47452_MarketUpdate_1782492127000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:08]
 标题: Daily – Vickers Top Insider Picks for 06/26/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47446_InsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:06]
-标题: AI trade hits a wall amid report that OpenAI will delay IPO until 2027
-链接: https://finance.yahoo.com/technology/article/ai-trade-hits-a-wall-amid-report-that-openai-will-delay-ipo-until-2027-150642366.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:56]
-标题: SpaceX stock on track to shed 18% this week
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-on-track-to-shed-18-this-week-145647941.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:54]
-标题: Nvidia Stock Continues Slide Amid Tech Sell-Off
-链接: https://www.investors.com/news/technology/nvidia-stock-nvda-tech-sell-off-200-day-line/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:44]
-标题: AMD’s stock split history (& prospects) explained
-链接: https://finance.yahoo.com/markets/stocks/articles/amd-stock-split-history-prospects-154400094.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:08]
 标题: Daily – Vickers Top Buyers & Sellers for 06/26/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47447_TopBottomInsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:52]
-标题: US goods trade deficit hits 14-month high in May as imports surge
-链接: https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-widens-125007010.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:47]
-标题: Prediction market platform Polymarket tops $1 billion in annualized revenue, source says
-链接: https://finance.yahoo.com/markets/crypto/articles/prediction-market-platform-polymarket-tops-144753963.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:40]
-标题: Palantir Stock Rises As Software Sector Rallies Amid Semiconductor Sell-Off
-链接: https://www.investors.com/news/technology/palantir-stock-rises-software-sector-rallies-semiconductor-sell-off/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:42]
-标题: Why Advanced Micro Devices Stock Slipped on Friday
-链接: https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-154229584.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 10:51]
-标题: Market Digest: CCL, SPCX
-链接: https://finance.yahoo.com/research/reports/ARGUS_47443_MarketSummary_1782471106000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:30]
-标题: Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit
-链接: https://finance.yahoo.com/energy/articles/baghdad-hosting-eu-energy-talks-143000654.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:21]
-标题: Driver’s biometrics case against ULH expands to class action
-链接: https://finance.yahoo.com/small-business/articles/driver-biometrics-case-against-ulh-142145334.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 14:11]
-标题: Johnson & Johnson (JNJ): Among the Best Stocks For Beginners to Buy Now
-链接: https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-among-best-141137831.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:40]
-标题: Jeremy Grantham Warns U.S. Stocks Could Plunge 70% in the Most Expensive Market in History
-链接: https://finance.yahoo.com/markets/stocks/articles/jeremy-grantham-warns-u-stocks-154047805.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 12:29]
-标题: Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:59]
-标题: Silver prices today, Friday, June 26, 2026: Down 9.1% since Monday following latest PCE report
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-26-2026-down-91-since-monday-following-latest-pce-report-115941632.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:40]
-标题: Worried About a Stock Market Sell-Off? This Rock-Solid Dividend Stock Will Let You Sleep Well at Night.
-链接: https://finance.yahoo.com/markets/stocks/articles/worried-stock-market-sell-off-154000594.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:39]
-标题: Gold prices today, Friday, June 26: Gold prices down over 11% since June 1
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-june-26-gold-prices-down-over-11-since-june-1-113954190.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-25 17:56]
-标题: Selling a house for OpenAI or Anthropic stock is legal. It's also harder than it sounds.
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/selling-a-house-for-openai-or-anthropic-stock-is-legal-its-also-harder-than-it-sounds-175639575.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 15:33]
-标题: Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness
-链接: https://finance.yahoo.com/markets/crypto/articles/strategys-saylor-acknowledges-volatility-test-153349040.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:06]
+标题: Analyst Report: Space Exploration Teches Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_6806_AnalystReport_1782472006000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 16:04]
 标题: Minneapolis Fed President Neel Kashkari says he expects a rate hike this year
 链接: https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html
 正文: Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 15:34]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 17:45]
 标题: OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce
 链接: https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html
 正文: Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.
@@ -249,7 +134,7 @@
 链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
 正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 13:35]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 16:52]
 标题: Warsh reaches within the Fed for latest advisory appointments
 链接: https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html
 正文: Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.
@@ -268,11 +153,6 @@
 标题: Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
 链接: https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html
 正文: In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 17:29]
-标题: Bond ETF flows surge in hunt for yield: 'Market sniffing out something here,' says BlackRock exec
-链接: https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html
-正文: Bond investors are abandoning aggregate benchmarks in favor of a broad mix of fixed-income investments to maximize yield with the stock market on edge.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 18:25]
 标题: Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy's & more
@@ -299,10 +179,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge
 正文: How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 16:08]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 18:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 16:08]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 18:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
