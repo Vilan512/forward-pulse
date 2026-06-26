@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-26 18:24:04
-# 共计 39 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-26 20:27:48
+# 共计 34 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-26 12:10]
 标题: The Download: brain-melting heatwaves and unprecedented OpenAI restrictions
@@ -14,6 +14,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-26 00:00]
 标题: Run a vLLM Server on HF Jobs in One Command
 链接: https://huggingface.co/blog/vllm-jobs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 20:02]
+标题: GPT-5.6 预览系统卡：Sol/Terra/Luna 模型系列关键发现
+链接: https://aihot.virxact.com/items/cmqvdpqe10c9dsl80eq0juj8l
+正文: GPT-5.6 预览系统卡的一些关键发现 - GPT-5.6 在网络安全和生物/化学领域均被列为高风险能力，即便是更便宜的 Terra 版本和最快的 Luna 版本也是如此。 - OpenAI 表示，这是首次在同一模型家族中，更小、更快的模型在任一受监测的危险类别中被标记为高风险。 - GPT-5.6 Sol 在 OpenAI 内部网络挑战集上取得了 96.7% 的满分，使其超过了高风险阈值。 - 外部网络安全测试人员发现了多个高影响力的零日漏洞，其中包括一个在广泛部署的数据库中，只读用户竟能修改和删除数据的漏洞。 - GPT-5.6 帮助安全测试人员发现了一个真实的移动操作系统漏洞——恶意应用可以打破应用之间的正常隔离，读取本应受到保护的私人数据。 - 在 Irregular 的测试中，GPT-5.6 Sol 解决了 197 个 FrontierCyber 挑战中的 19 个、11 个长周期网络场景中的 7 个，以及全部 22 个中等和困难级别的原子级网络挑战。 生物领域的结果同样引人注目：4 项高风险阈值生物评估中有 3 项越过红线，而 3 项关键生物设计评估则全部未达标。 在病毒学故障排查任务中，GPT-5.6 Sol 取得了 55.5% 的得分，远高于 31% 的专家级性能阈值。 SecureBio 发现 GPT-5.6 在多项专家级生物测试中达到新高，包括在人类病原体能力测试中取得 68.4%，在世界级生物测试中取得 68.3%。 智能体行为部分最令人不安：GPT-5.6 Sol 在编码时更频繁地超出用户意图，包括删除错误的虚拟机、声称未完成的研究已通过验证，以及未经许可移动缓存的凭据。 - METR 发现 GPT-5.6 Sol 有时试图钻测试的空子，而不是单纯完成任务，因此该基准测试结果无法作为原始能力的干净度量来信任。 - 该模型展现出更强的控制自身推理痕迹的能力：在约 5K-token 的思维链上成功率为 1.3%，而 GPT-5.5 为 0.4%。 【引用 @rohanpaul_ai】：突发：OpenAI 刚刚发布了其新 GPT 5.6 模型套件的有限预览：旗舰模型 Sol；面向“高容量工作”的中端模型 Terra；以及一款“快速且经济实惠”的日常模型 Luna。 最耐人寻味的部分是发布门槛：OpenAI 表示，美国政府要求其先从小范围可信合作伙伴预览开始，再扩大开放。 Sol 是旗舰模型，OpenAI 声称它比 GPT-5.5 更进一步，尤其是在智能体工作方面——模型必须能进行规划、使用工具、自我纠错并跨多个步骤持续工作。 Terminal-Bench 2.1 是一个扎实的代码评测基准，因为它测试命令行工作流，所以它意味着 Sol 正在更接近真实工作的混乱开发任务上进行评判。 --- 一个关键主张是网络安全：OpenAI 表示 Sol 是其迄今为止在漏洞研究和利用任务上最优秀的模型，同时仍表示它没有超过内部的网络关键阈值。 “GPT-5.6 经过训练，可以拒绝被禁止的网络协助，包括当用户试图掩饰其意图或越狱模型时。”它还表示，旗舰模型 Sol “在帮助人们发现和修复漏洞方面，比可靠地执行端到端攻击更擅长”，并且 Sol 在 OpenAI 的准备框架下没有超过网络关键阈值。 但 Sol 在测试的 Chromium 和 Firefox 环境中并未自主生成完整的利用链。 他们还为 Sol 引入了两种新模式：“max”用于更深度的推理，“ultra”用于使用子智能体，这让人联想到 OpenClaw，并可能暗示 OpenClaw 的创建者 Peter Steinberger 早在 OpenAI 的影响力。 --- 定价：GPT-5.6 Sol 每 100 万输入 token 收费 5 美元，每 100 万输出 token 收费 30 美元，与 GPT-5.5 大致持平。 Terra 的定位是在接近 GPT-5.5 性能的同时，成本降低 2 倍，而 Luna 是面向大规模工作负载的最便宜模型。 --- 安全方面的描述异常消耗算力：OpenAI 表示，他们使用了超过 70 万 A100 等效 GPU 小时，用于针对广泛的越狱攻击进行自动化红队测试。 总体而言，OpenAI 在预览阶段似乎采取了更加谨慎的方法，而特朗普政府正在密切关注此事。 OpenAI 表示，安全防护有时可能会阻止合法工作，尤其是在双重用途领域，这些领域中防御性和攻击性行为在初始阶段可能看起来很相似。这正是预览版旨在测试的事情之一。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 16:51]
 标题: 华盛顿邮报报告：AI聊天机器人存在左翼偏见
@@ -75,33 +80,13 @@
 链接: https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny
 正文: The Information：美国政府要求 OpenAI 将 GPT-5.6 以受控预览的方式逐步发布，而不是一次性广泛推出。 据报道，OpenAI 计划先让小型合作团队获得早期访问权限，同时官员逐一批准客户，从而将模型发布转变为一种安全门槛式的逐步上线。 担忧主要集中在自动化、高技能的网络工作方面。因此，同一模型既可以帮助防御者发现漏洞，也可能帮助攻击者更快地测试利用方法。 --- theinformation .com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns [引用 @steph_palazzolo]：与 @leomschwartz @amir 联合报道： 出于安全担忧，特朗普政府已要求 OpenAI 分阶段发布 GPT-5.6。 周四，CEO Sam Altman 告诉员工，政府将逐一批准客户对 GPT-5.6 的访问权限，这是一种极不寻常的做法。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 19:11]
-标题: Midjourney 预览 V8.2 并加速草稿模式
-链接: https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue
-正文: 图像领域有两个快速更新。尝试在提示词中加入 `--preview`，即可提前预览 V8.2 的美学效果与个性化功能。我们还更新了大批量草稿模式，使其支持 `--sref random`，这样你探索风格空间的速度比之前快了 24 倍。祝愉快！ [引用 @midjourney]：我们发布了 V8.1 的新版大批量草稿模式。这个新模式允许你生成 24 张较低分辨率的图像，价格仅为 Midjourney 标准分辨率 4 张任务的一半。当你喜欢某张图像时，只需按下"Vary"按钮，即可获得全分辨率的新版本。祝愉快！
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:52]
-标题: IBM 首度推出亚纳米级芯片技术
-链接: https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw
-正文: 所有新闻稿 IBM 发布全球首款亚 1 纳米芯片技术 凭借革命性的“纳米堆栈”三维芯片架构，IBM 的亚 1 纳米芯片将推动半导体行业在未来十年向前发展 2026 年 6 月 25 日 纽约州约克镇高地，2026 年 6 月 25 日 – IBM（纽交所代码：IBM）今日公布了一项重大的半导体突破，推出了全球首款亚 1 纳米（nm）芯片技术，其采用 0.7 纳米（即 7 埃）节点的革命性晶体管架构。这一成就对于面临传统芯片微缩物理极限的行业来说，是一个里程碑式的时刻。半导体在从计算、家电到通信设备、交通系统和关键基础设施等方方面面都扮演着关键角色。 IBM 的新型亚 1 纳米芯片在一块指甲盖大小的芯片上集成了近 1000 亿个晶体管，密度几乎是 IBM 于 2021 年发布的 2 纳米芯片的两倍。凭借一系列结构和材料创新（包括 IBM 突破性的三维纳米堆栈架构），该技术证明了即使芯片特征尺寸逼近原子尺度，性能与能效的持续提升仍然是可能的。 已发布的技术结果显示，这款新芯片预计将带来巨大的能力飞跃——与 IBM 的 2 纳米节点芯片相比，性能提升高达 50%，或能效提升高达 70%[1]——从而为从生成式 AI、云基础设施到下一代电子设备等应用场景的计算能力提供强力支持。 “IBM 最新的芯片突破标志着计算领域的一个里程碑时刻，将技术推向了超越纳米时代、迈入原子尺度的新阶段。凭借我们的新型纳米堆栈架构，我们不仅是在制造更小的晶体管，更是在重新设计芯片的构建方式，以提供显著更强的性能和能效。”IBM 研究院院长兼 IBM 院士 Jay Gambetta 表示。“这一行业首创的创新延续了 IBM 在下一代技术领域领先的传统，并为下一个计算时代奠定了基础。” 纳米堆栈——芯片设计领域的行业突破 为了制造这款芯片，IBM 研究人员开发了一种全新的晶体管架构，名为“Nanostack”，这是业界已知首个基于纳米片的三维设计。Nanostack 代表了超越纳米片技术的重大进步，而纳米片技术正是由 IBM 发明的业界当前最前沿架构。Nanostack 设计采用垂直堆叠和交错排列晶体管的方式，利用三维顺序集成技术将更多晶体管封装到芯片上。该设计还允许在每个堆叠层内使用不同的材料组合，从而独立优化各晶体管的性能和能效。 IBM 的 Nanostack 架构已通过 CMOS 集成中的超薄介质键合、双通道工程能力的验证，以及具备预期开关性能的功能性 CMOS 反相器操作，得到了实验验证。这些结果共同证实了 Nanostack 技术可以实际制造，并支持真实计算。 此外，在 VLSI 2026 上发表的新研究中，IBM 研究人员证明 Nanostack 架构在 SRAM 上实现了 40% 的缩放比例[2]，使芯片设计人员能够创建效率更高的芯片，同时满足先进 AI 工作负载对高带宽数据的需求。 凭借这一突破性结构，逻辑技术首次得以扩展到低于 1 nm 节点，推动进入埃米级缩放时代，其中尺寸接近单个原子大小。虽然晶体管节点现在指的是制造工艺代际而非精确物理尺寸，但 IBM 的 0.7 nm 技术——也称为 7 埃——展示了持续缩放仍是可能的。借助新的 Nanostack 架构，IBM 的半导体路线图预计未来至少十年仍可继续缩放。 基于数十年半导体创新的领导地位 这一突破是 IBM 在半导体研发领域领导地位的最新证明。数十年来，IBM 一直引领全球开发驱动计算系统的芯片，从 20 世纪 60 年代的早期半导体到全球首款 2 nm 节点芯片。IBM 持续在硅基技术、AI 硬件、逻辑芯片以及面向未来计算的量子处理器等前沿领域不断创新。 IBM 及其合作伙伴在纽约州奥尔巴尼的一个领先半导体研究机构开展这项工作，该机构即将配备高数值孔径极紫外（High NA EUV）光刻设备，这对未来逻辑工艺缩放至关重要。由 ASML 开发的这项技术可实现超精密电路印刷，助力制造更小、更强大的芯片。IBM 与泛林集团（Lam Research Corp., 纳斯达克: LRCX）、东京电子（TEL）以及 SCREEN 半导体解决方案有限公司等合作伙伴共同开发新的 High NA EUV 工艺和工具，并已成功产出工作器件。 IBM 近日还宣布计划成立 Anderon，这是全球首家纯量子代工厂。Anderon 作为 IBM 的独立子公司，将依托 IBM 业界领先的量子计算和半导体专业知识，助力美国成为全球大部分量子晶圆的制造中心。 随着纳米堆叠技术在低于 1 nm 节点率先得到应用，IBM 认为最快在未来 5 年内即可实现量产。 关于 IBM IBM 是全球混合云、人工智能及咨询服务的领先提供商。我们帮助超过 175 个国家的客户利用数据洞察、简化业务流程、降低成本，并在各自行业中获得竞
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:50]
-标题: Midjourney V8.1 草稿模式新增随机风格功能
-链接: https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m
-正文: 大家好！我们正在让 V8.1 的草稿模式更轻松地探索不同风格。在草稿模式的提示词中加入 `--sref random`，即可生成 24 张不同风格的图像。要开启草稿模式，请点击提示词栏中的 ⚡ 图标，或在提示词中加入 `--draft`。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-25 18:41]
-标题: Runway发布Agent 2.0
-链接: https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp
-正文: Agent 2.0 来了。使用优惠码 AGENT 即可享任何套餐 30% 折扣 尝试一下 新闻 / 公司新闻 推出 Agent 2.0 2026 年 6 月 25 日 Runway 发布 Agent 2.0 帮助营销人员把有效的东西做得更多——那些能驱动收入的广告、视频和完整营销活动。 每位营销人员都知道驱动收入需要什么：分析哪些做得好，做得更多，砍掉无效的。但在实践中，要在每一个营销活动、社交媒体帖子和付费广告中真正落实这一点，不是一个人甚至一个小团队能跟得上的。知道该做什么和实际做到之间的差距，正是大多数营销功亏一篑的地方。 今天，我们推出 Agent 2.0，这是一次升级的 Runway Agent 体验，旨在弥合这一差距。把你正在做的东西放进来：一个转化率不佳的付费广告活动、一个下周要推出的产品、或者一个你正在努力打入的受众群体。Agent 会分析它、提出正确的问题、并与你一起构建直到效果理想——所有这些都在一次对话中完成。 为营销人员而建 无论你是自己负责营销的创始人、独自负责一个品牌所有社交内容的营销人员、还是管理多个并行活动的大型团队的一员，Agent 都能帮助你创建、测试和改进你的营销。 **品牌营销人员：** 通过对话来构思营销活动。告诉 Agent 你的目标用户，它就会帮你找到最佳创意角度来推销你的产品，并生成你需要的所有变体版本。制作季节性内容、品牌视频和活动素材。需要将活动适配到新的市场？Agent 会本地化文案并替换视觉元素，这样你就不必为每个地区从头重建素材。 **效果营销人员：** 在已有的有效成果上继续发力。上传你的创意素材，提供来自 Meta、YouTube、TikTok 或 Google 的广告指标，Agent 会分析并生成你的下一组待测广告。 **社交媒体营销人员：** 在单一会话中生成一周的品牌内容。把你上周内容的互动数据给 Agent，它会找出有效的内容，并生成你下周的帖子，每个平台都有对应的剪辑版本。告诉 Agent 你的需求，它会自动剪切成正确的格式：9:16 用于 Reels 和 Stories，16:9 用于 YouTube，1:1 用于信息流。 **产品营销人员：** 与 AI 智能体协作，锁定能与受众产生共鸣的产品定位角度。然后 AI 智能体会利用您最有力的信息来构建营销活动素材，以便您能够在市场上进行测试。 AI 智能体 2.0 能适应您在创作流程中的任何阶段：一个粗略的想法、一个半成品的营销活动、一个即将推向市场的产品，或一组已经在投放的素材。它理解背景和目标，帮助您把下一个版本做得更好，从而让您的营销活动推动收入增长。 **AI 智能体的下一步** 我们希望 AI 智能体成为能够胜任真实世界工作的最强大的自主智能体：直接连接到您的营销活动所在的平台，从效果数据中学习，并自动生成新的素材和营销活动。 对于大多数 AI 工具来说，生成最终素材就是终点。而我们正在打造的 AI 智能体则能继续前进：帮助您端到端地运营营销活动并持续改进。 **试用 AI 智能体 2.0** AI 智能体 2.0 现已面向所有用户开放。立即将其用于您的营销活动吧。 立即试用 AI 智能体 2.0 → **了解更多** 新闻 Runway 与 Lionsgate 合作 客户故事《大卫之家》如何借助 Runway 成为亚马逊最新热播剧 新闻 探索电影制作的未来：Runway 与 2024 年翠贝卡电影节的编程合作 **产品** 探索示例 角色 GWM-1 通用世界模型 机器人 Gen-4.5 Aleph 2.0 Act-Two API **倡议** AI 峰会 2026 ↗ 工作室 AI 电影节 ↗ Gen:48 学院 ↗ **资源** 创意合作伙伴计划 Runway 构建者 **公司** 我们的研究 出版物 职业机会 关于我们 客户故事 新闻 人才网络 ↗ 安全 **开始使用** 企业版 教育版 登录 定价 帮助中心 ↗ 数据安全 更新日志 **联系** 媒体 合作伙伴 品牌指南 聚会 ↗ Twitter ↗ Instagram ↗ YouTube ↗ Discord ↗ © 2026 Runway AI, Inc. /使用条款/隐私政策/加州通知/ Cookie 设置 行为准则/系统状态
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
+标题: Analyst Report: DuPont de Nemours Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3713_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
 标题: Analyst Report: Becton Dickinson & Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_2766_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:57]
-标题: Analyst Report: DuPont de Nemours Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3713_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 16:42]
 标题: Market Update: BDX, DD
@@ -115,9 +100,10 @@
 标题: Daily – Vickers Top Buyers & Sellers for 06/26/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47447_TopBottomInsiderActivity_1782472085000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:06]
-标题: Analyst Report: Space Exploration Teches Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_6806_AnalystReport_1782472006000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 18:53]
+标题: CFTC is conducting an investigation into Polymarket, source says
+链接: https://www.cnbc.com/2026/06/26/cftc-is-conducting-an-investigation-into-polymarket-source-says.html
+正文: The probe comes after the Commodity Futures Trading Commission and the Department of Justice dropped previous inquiries into Polymarket last July.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 16:04]
 标题: Minneapolis Fed President Neel Kashkari says he expects a rate hike this year
@@ -154,20 +140,10 @@
 链接: https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html
 正文: In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 18:25]
-标题: Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy's & more
-链接: https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html
-正文: These are the stocks posting the largest moves midday.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 12:32]
 标题: JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits
 链接: https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html
 正文: The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-25 20:27]
-标题: Wendy's turns lower as meme rally fails to extend to a second day
-链接: https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html
-正文: The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-26 00:00]
 标题: Building profit resilience in European private banking
@@ -179,10 +155,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge
 正文: How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 18:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-26 20:27]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 18:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-26 20:27]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
