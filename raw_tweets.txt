@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-06-27 16:59:10
-# 共计 56 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-27 18:05:43
+# 共计 58 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 17:05]
+标题: 苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片
+链接: https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5
+正文: 刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月26日，Mark Gurman在一天内发了两条关于苹果的重大新闻。 第一条更重磅。 Paul Meade，苹果Vision产品组的副总裁，下周离开苹果，加入OpenAI的硬件部门。 这个人的职责范围不只是Vision Pro头显。 他负责苹果所有智能眼镜的开发，包括计划明年发布的无屏幕AI智能眼镜，以及本十年末的增强现实眼镜路线图。 他还掌管苹果一系列其他AI可穿戴设备的研发。 他的团队叫VPG，Vision Products Group。是苹果空间计算和AI硬件战略的核心执行层。 他不是唯一一个。 苹果在过去一年经历了多起高管向竞争对手流失的事件。但这次不同。 Paul Meade去的不是Meta，不是Google，是OpenAI。 OpenAI正在组建自己的硬件团队。 他们已经在开发AI驱动的设备家族。根据郭明錤的分析，OpenAI甚至在计划一款智能手机，采用联发科天玑9600定制版芯片，由立讯精密代工。目标直指iPhone。 这意味着什么？ OpenAI不再满足于做软件。 他们要进入硬件。而他们挖走的人，恰好是苹果硬件战略中最前沿的那个板块的负责人。 苹果在Vision和智能眼镜上的投入，数十亿美元的研发、数年的工程积累，现在为竞争对手提供了核心人才。 第二条新闻关于MacBook。 苹果计划在首款触控OLED高端MacBook上使用现有的M5 Pro和M5 Max芯片。 不是新的M6系列。直接跳到M7 Pro和M7 Max，最早2027年底发布。 这个决策透露了一个信号。苹果不想等。触控OLED MacBook是用户等了好几年的产品，苹果选择用现有芯片加速上市，而不是为了一代新芯片推迟发布。 M6系列只会有基础版M6，没有Pro和Max。苹果把高端触控OLED的赌注押在了M7上。 2026年底到2027年初，你会看到第一款触控OLED MacBook Pro。 M5 Pro/Max驱动。保留键盘和触控板。屏幕支持触控操作。 2027年底，M7 Pro/Max版本跟进。那才是真正完整的下一代。 同一天。一边是苹果最重要的硬件高管跳槽到OpenAI。 一边是苹果用现有芯片赶工触控OLED MacBook。 两件事指向同一个趋势：AI硬件的竞争已经不是未来时了。 它正在发生，而且正在加速。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 16:59]
+标题: DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%
+链接: https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5
+正文: DeepSeek 发布了 DSpark，一个投机解码框架，并开源了检查点和训练代码。这是一项服务优化，而非新模型。检查点 DeepSeek-V4-Pro-DSpark 和 DeepSeek-V4-Flash-DSpark 复用了现有的 V4 权重，并附加了一个草稿模块。 DeepSeek 研究团队还开源了 DeepSpec，一个采用 MIT 许可证的代码库，用于训练和评估投机解码草稿模块。这项工作瞄准一个问题：在繁忙的生产服务中实现更快的大模型推理。 摘要 DSpark 将并行草稿主干与一个极小的顺序头配对，以减少后缀衰减。 一个置信度头和负载感知调度器在 GPU 空闲时验证更多 token，在繁忙时验证更少。 离线场景下，接受长度相比 Eagle3 提升 26–31%，相比 DFlash 提升 16–18%。 在 DeepSeek-V4 的生产环境中，每用户生成速度比 MTP-1 基线快 60–85%。 输出保持无损，检查点及 DeepSpec 训练代码均已开源。 什么是 DSpark？ 投机解码将生成拆分为两个角色。一个小型的草稿模型提议一个 token 块。完整的目标模型随后在一次前向传播中验证该块。 拒绝采样接受最长的有效前缀，并附加一个额外的 token。由于该规则精确保持目标分布，因此不存在质量损失。DSpark 保留了这一保证。它改变了 token 的草稿方式以及验证的数量。 它优化的延迟公式 每个 token 的延迟遵循论文中的一个公式：L = (Tdraft + Tverify) / τ。这里 τ 是每轮接受的 token 数量。加速仅来自三个杠杆。 你可以更快地草稿，从而降低 Tdraft。你可以更好地草稿，从而提高 τ。或者你可以更智能地验证，减少浪费的 Tverify。DSpark 同时拉动全部三个杠杆。 工作原理：半自回归生成 先前的草稿模块强制进行权衡。像 Eagle3 这样的自回归草稿模块使每个 token 依赖于先前的 token。这提供了很强的接受率，但草稿成本随块大小增长。 像 DFlash 这样的并行草稿模块一次生成整个块。草稿成本低廉，但每个位置忽略其邻居。结果是“多模态冲突”和沿着后缀的快速接受衰减。 DSpark将草稿生成分为两个阶段。其设置中的DFlash是一个重型并行主干，为每个位置生成基础logits。然后，一个轻量级的顺序头部在采样每个token之前添加一个依赖于前缀的偏置。 默认的顺序头部是马尔可夫头部。它只查看紧邻的前一个token。低秩分解（秩为256）使其即使在词汇量大的情况下也保持低成本。 一旦位置一采样到 'of'，头部就会提升 'course' 并抑制 'problem'。一个可选的RNN头部会跟踪整个块的前缀。它带来的收益微乎其微，因此默认采用马尔可夫头部。 收益逐位置显现。DSpark继承了并行主干的高首token准确率。然后顺序头部使得接受率在块深处保持稳定。 训练冻结目标模型并复用其嵌入和输出头部。总变差损失是关键项。最小化该距离直接最大化草稿的接受率。 工作原理：置信度调度验证 更多的草稿token并不总是意味着更快的速度。在重负载下，验证将被拒绝的token会浪费批处理容量。DSpark添加了两个部分来解决这个问题。 一个置信度头部为每个草稿位置输出一个分数。该分数估计在给定已接受的前驱token的情况下，该token通过验证的概率。它由解析的每步接受率进行监督。 原始的神经网络置信度通常过于自信。因此研究团队应用了顺序温度缩放，这是一种事后校准步骤。它将期望校准误差从3–8%降低到大约1%。 然后，一个硬件感知的前缀调度器为每个请求设置验证长度。它使用在启动时测量一次的剖析吞吐曲线SPS(B)。当GPU空闲时，它验证更多的token。当GPU繁忙时，它验证更少的token。 调度器使用提前停止规则以保持无损。附录部分给出了一个反例，说明为什么朴素的全局搜索会泄露信息。 指标 离线测试涵盖数学、代码和日常聊天。目标包括Qwen3-4B、8B、14B和Gemma4-12B。DSpark在每一个领域上的接受长度均优于两个基线。 在 Eagle3 上，三种 Qwen3 尺寸版本的平均接受长度分别提升 30.9%、26.7% 和 30.0%。在 DFlash 上，提升幅度分别为 16.3%、18.4% 和 18.3%。仅两层 DSpark 即可超越五层 DFlash。 顺序头带来的额外成本极低。将草稿长度从 4 扩展到 16，每轮延迟仅增加 0.2%–1.3%。作为回报，接受长度提升最高达 30%。 生产环境结果来自 DeepSeek-V4-Flash 和 V4-Pro 在真实流量下的表现。基线为 MTP-1（之前的单 token 方案）。在相同吞吐量下，F
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 15:39]
 标题: 一次失败的（民族国家？）攻击的剖析
@@ -41,9 +51,61 @@
 链接: https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke
 正文: 故事正文 * 仅限订阅者 了解更多 在周四提交的一份经过大量删改的法庭文件中，《纽约时报》提议修改其对 OpenAI 和微软的版权诉讼，以澄清一项指控，并指控微软通过构建一台跻身全球最强大行列的定制超级计算系统，积极鼓励 OpenAI 窃取《纽约时报》的作品。 《纽约时报》提出动议之前，最高法院在一起案件中支持了 Cox Communications，该案中索尼试图指控 Cox 作为互联网服务提供商助长了音乐盗版行为但未获支持，这为帮助侵权（contributory infringement）设定了新标准。今后，原告必须证明当事人故意采取行动诱导了非法行为。认识到法律先例已发生变化，《纽约时报》现在希望修改其诉状，使其针对微软的帮助侵权指控符合这一新标准。 “今天，我们请求法院允许提交一份经修改的诉状，以进一步加强我们的案件，基于新法律以及在证据开示期间发现的新证据，澄清我们对微软帮助侵权的指控，”《纽约时报》发言人 Graham James 在一份提供给 Ars 的声明中表示。 除了澄清一项指控外，《纽约时报》还同意自愿撤销对全体被告的两项帮助版权侵权和商标淡化的指控。 微软的一位发言人告诉 Ars，该公司认为这份修改后的诉状是“原告为挽救其指控免受最近其他裁决中不利先例影响而采取的最后一搏”。 但在其动议中，《纽约时报》辩称，允许修改诉状既不会对微软也不会对 OpenAI 造成损害。《纽约时报》认为，当法律标准发生变化时，允许原告修改论点是恰当的，并且案件时间表不会因此推迟，因为“《时报》不寻求为支持其修改后的指控而进行任何额外的证据开示”。 “正如我们长期以来所指控的那样，微软积极鼓励 OpenAI 窃取我们的受版权保护作品，”詹姆斯表示。“除了修正该项指控并将案件精简为其最强有力的论据之外，我们的核心主张自提起诉讼之日起始终未变——即微软和 OpenAI 窃取了《纽约时报》数百万篇受版权保护的作品，用以与我们的产品竞争并非法牟利。” 《纽约时报》将矛头指向微软超级计算机 2023 年，《纽约时报》成为首家起诉 OpenAI 的大型出版商。这家知名报业指控 ChatGPT 非法使用其文章进行训练，通过逐字输出文章侵犯其版权，通过将 ChatGPT 定位为《纽约时报》订阅的替代品造成市场损害，以及通过将不实主张归咎于《纽约时报》报道造成声誉损害。此外，《纽约时报》还指控，ChatGPT 输出对 Wirecutter 评测的摘要，导致作者因联盟链接点击量损失而失去佣金。 在最初的诉状中，《纽约时报》将微软的超级计算系统描述为似乎只是提供通用云计算服务。更新后的诉状试图明确该超级计算机是为帮助 OpenAI 侵权而量身定制的，并指控其是为在未经许可的情况下将 AI 训练于受版权保护作品而专门建造的。而且据《纽约时报》指控，该系统的训练中更重地加权了其文章，因为两家公司都希望尽可能利用最高质量的新闻内容来训练模型，从而让输出的内容能够自信地模仿那种写作水平。 《纽约时报》指控，通过建造这台“异常复杂”的机器，微软不仅协助筛选出被侵权的作品，还提供了未经许可获取受版权保护作品的手段。 “微软专门设计该机器，目的是利用几乎整个互联网——并特意调整使其不成比例地以《纽约时报》作品为特色——来训练史上最强大的大语言模型，”《纽约时报》指控道。 而现在，它被指控不正当地获利。 “微软将基于《纽约时报》作品训练的大语言模型部署到其整个产品线中，仅在过去一年就帮助其市值增加了 1 万亿美元，”《纽约时报》指控道。 《纽约时报》指控，模型输出显示出市场损害 在证据开示阶段分享的输出内容中，对《纽约时报》而言，最具说服力的证据之一依然包括大量用户的 ChatGPT 会话记录——这些记录表明，OpenAI 和微软构建的工具 allegedly 通过生成与《纽约时报》受版权保护作品几乎逐字逐句的摘录，取代了《纽约时报》的地位。 在某些情况下，用户告诉 ChatGPT 他们正试图绕过付费墙，并通过要求查看“下一段”来获取文章的大段内容。在其他情况下，“模型只是直接吐出好几段文字”，根本不需要这样费尽周折。为了证明替代效应造成的市场损害，他们在投诉中分享了并排对比的示例，以及 alleged 侵权输出内容的截图： 上一条报道 1. Anthropic 称阿里巴巴必须因最大规模的 Claude 克隆攻击而受到惩罚 2. 微软为 Windows 10 扩展更新计划再增加一年 3. 美国联邦机构拒绝 Polestar 自 2027 车型年起在美国销售汽车的授权 4. IBM 声称研发出世界首款亚 1 纳米芯片技术 5. 低承诺，高交付？售价 24,950 美元的 Slate 汽车上手体验
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:35]
-标题: Solar Beats Coal for the First Time: 3 Dividend Stocks to Buy Now
-链接: https://finance.yahoo.com/energy/articles/solar-beats-coal-first-time-163500483.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:48]
+标题: Why Plug Power Inc. (PLUG) Is Leaning on Electrolyzer Deployments to Support Its Green Hydrogen Equipment Story
+链接: https://finance.yahoo.com/energy/articles/why-plug-power-inc-plug-174840180.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:48]
+标题: How Nextpower Inc. (NXT) Uses Prevalon to Push Beyond Solar Trackers Into Storage and Data-Center Power
+链接: https://finance.yahoo.com/energy/articles/nextpower-inc-nxt-uses-prevalon-174837707.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:41]
+标题: Why This $1.8 Million Dime Insider Sale May Matter Less Than Its 67% EPS Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/why-1-8-million-dime-174124317.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:33]
+标题: Is Veritone (VERI) One of the Underperforming Tech Stocks to Buy According to Analysts?
+链接: https://finance.yahoo.com/technology/articles/veritone-veri-one-underperforming-tech-173323625.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:33]
+标题: Kingsoft Cloud Holdings (KC): Underperforming Tech Stocks to Buy According to Analysts
+链接: https://finance.yahoo.com/technology/articles/kingsoft-cloud-holdings-kc-underperforming-173317977.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:33]
+标题: Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions
+链接: https://finance.yahoo.com/technology/ai/articles/daqo-energy-dq-establish-kunshan-173312940.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:30]
+标题: Tigo Energy (TYGO) Launches Modular GO Energy Storage System for European Residential Market
+链接: https://finance.yahoo.com/energy/articles/tigo-energy-tygo-launches-modular-173006624.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:38]
+标题: Where Will Nvidia Stock Be in 2030?
+链接: https://finance.yahoo.com/markets/stocks/articles/where-nvidia-stock-2030-173800171.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:29]
+标题: EPAM Systems (EPAM), TGS Collaborate to Accelerate AI Adoption in Energy Sector
+链接: https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-tgs-collaborate-172959989.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:29]
+标题: Here is Why Endava (DAVA) is One of the Underperforming Tech Stocks to Buy According to Analysts
+链接: https://finance.yahoo.com/technology/articles/why-endava-dava-one-underperforming-172953445.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:29]
+标题: Fastly (FSLY), Skyfire Partner to Enable Secure and Monetizable Agentic Commerce
+链接: https://finance.yahoo.com/technology/ai/articles/fastly-fsly-skyfire-partner-enable-172946394.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:29]
+标题: Accenture (ACN), Seattle Seahawks Enter Multi-Year Partnership to Drive Business Transformation
+链接: https://finance.yahoo.com/technology/articles/accenture-acn-seattle-seahawks-enter-172940490.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:36]
+标题: AT&T is raising 2 fees customers pay monthly
+链接: https://finance.yahoo.com/technology/articles/t-raising-2-fees-customers-173600770.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:29]
+标题: Verra Mobility (VRRM) Selected to Implement Los Angeles Speed Safety Program
+链接: https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-selected-implement-172932219.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:08]
 标题: Worried about SpaceX's volatility? Here's what 401(k) savers should do.
@@ -57,13 +119,13 @@
 标题: Microchip Tech (MCHP) Armenia Office Receives U.S. Export License for Advanced FPGA Development
 链接: https://finance.yahoo.com/technology/articles/microchip-tech-mchp-armenia-office-161638953.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:35]
+标题: Ignore Every Utility Bill And Still Keep The Lights On. Here’s How
+链接: https://finance.yahoo.com/markets/stocks/articles/ignore-every-utility-bill-still-173543504.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:16]
 标题: Here is Why Seagate (STX) One of the Best Future Stocks to Buy and Hold for 10 Years
 链接: https://finance.yahoo.com/markets/stocks/articles/why-seagate-stx-one-best-161618153.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:31]
-标题: What to Know About This $476,000 Palvella Therapeutics Insider Sale After a 620% Stock Rally
-链接: https://finance.yahoo.com/markets/stocks/articles/know-476-000-palvella-therapeutics-163154872.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:16]
 标题: Palantir (PLTR) Selected as Data Architecture for US Army’s NGC2 Program
@@ -77,13 +139,13 @@
 标题: Micron Technology (MU): 10 Best Future Stocks to Buy and Hold for 10 Years
 链接: https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-10-best-161550139.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:35]
+标题: Intuitive Surgical Stock Is Up Over 400%. Here's Why It's Still a No-Brainer Buy.
+链接: https://finance.yahoo.com/healthcare/articles/intuitive-surgical-stock-over-400-173500411.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:15]
 标题: Is Broadcom (AVGO) One of the Best Future Stocks to Buy and Hold for 10 Years?
 链接: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-best-future-161542137.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:23]
-标题: What to Know About OrbiMed's $39 Million Enliven Therapeutics Stock Sale Amid a 130% Rally
-链接: https://finance.yahoo.com/markets/stocks/articles/know-orbimeds-39-million-enliven-162312437.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:15]
 标题: Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partnership for Advanced Semiconductor Packaging in Arizona
@@ -97,13 +159,13 @@
 标题: Dow Jones Futures: Market At Tipping Point. Eli Lilly Soars, Tesla, Jobs On Tap.
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:33]
+标题: A Clover Health Director Sold Over 67,000 Company Shares. Here's a Closer Look at the Transaction.
+链接: https://finance.yahoo.com/markets/stocks/articles/clover-health-director-sold-over-173301494.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 15:32]
 标题: Is NVIDIA Corporation (NVDA) One of the Best Brain-Computer Interface Stocks to Buy?
 链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-153245819.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:20]
-标题: Here's How Investing $450 Per Month Could Generate More Than $30,000 in Annual Dividends
-链接: https://finance.yahoo.com/markets/stocks/articles/heres-investing-450-per-month-162000375.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 15:32]
 标题: Abbott Laboratories (ABT) must face a Lawsuit over PediaSure, Statements about Children’s Growth
@@ -117,13 +179,13 @@
 标题: Snap Inc. (SNAP) Launches Specs Augmented-Reality Glasses
 链接: https://finance.yahoo.com/technology/ai/articles/snap-inc-snap-launches-specs-153200767.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:27]
+标题: Vesta Director Sells $203,000 in Stock While Shares Gain 25% in a Year
+链接: https://finance.yahoo.com/markets/stocks/articles/vesta-director-sells-203-000-172727181.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 15:31]
 标题: JPMorgan Maintains an “Overweight rating” on Bruker Corporation (BRKR)
 链接: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-maintains-overweight-rating-bruker-153154965.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:20]
-标题: Starting at $0? Here's How You Can Build Up a $500,000 Portfolio in 25 Years
-链接: https://finance.yahoo.com/markets/stocks/articles/starting-0-heres-build-500-162000415.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 15:31]
 标题: Butterfly Network, Inc. (BFLY) Comments on Midjourney’s Ultrasound Scanner Announcement
@@ -137,13 +199,13 @@
 标题: Is CeriBell, Inc. (CBLL) Among the Best Brain-Computer Interface Stocks to Buy?
 链接: https://finance.yahoo.com/healthcare/articles/ceribell-inc-cbll-among-best-153131025.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 17:25]
+标题: Where Will Solana Be in 3 Years?
+链接: https://finance.yahoo.com/markets/crypto/articles/where-solana-3-years-172500490.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:47]
 标题: M&T Bank (MTB) Renews Partnership with The Florida Bar to Provide Free Access to Nota
 链接: https://finance.yahoo.com/markets/stocks/articles/m-t-bank-mtb-renews-144742679.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:17]
-标题: What Walmart, Target, and Kroger pay their CEOs
-链接: https://finance.yahoo.com/markets/stocks/articles/walmart-target-kroger-pay-ceos-161700183.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:47]
 标题: State Street Corporation (STT), Jadwa Investment Sign MoU for Strategic Collaboration in Oman
@@ -156,54 +218,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:46]
 标题: Is UBS Group (UBS) One of the Most Profitable Value Stocks to Invest In Now?
 链接: https://finance.yahoo.com/markets/stocks/articles/ubs-group-ubs-one-most-144616211.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:46]
-标题: ING Groep (ING) Introduces Subscription-Based Banking Model in the Netherlands
-链接: https://finance.yahoo.com/markets/stocks/articles/ing-groep-ing-introduces-subscription-144608356.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:15]
-标题: Apple Just Did Something It Wouldn’t Even Do During COVID, and Wall Street Is Freaking Out
-链接: https://finance.yahoo.com/markets/stocks/articles/apple-just-did-something-wouldn-161528112.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:45]
-标题: Here is Why Citigroup (C) is One of the Most Profitable Value Stocks to Invest In Now
-链接: https://finance.yahoo.com/markets/stocks/articles/why-citigroup-c-one-most-144558870.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:45]
-标题: Bank of America (BAC) Announces Real-Time Cross-Border Payment Solution for Corporate Clients
-链接: https://finance.yahoo.com/markets/currencies/articles/bank-america-bac-announces-real-144551286.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 14:45]
-标题: JPMorgan Chase & Co. (JPM): Most Profitable Value Stocks to Invest In Now
-链接: https://finance.yahoo.com/small-business/articles/jpmorgan-chase-co-jpm-most-144546297.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:38]
-标题: Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom
-链接: https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-rotating-for-now-away-from-the-ai-boom/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:11]
-标题: Trulieve CEO Sells $1.2 Million in Stock as Shares Jump 148% in One Year
-链接: https://finance.yahoo.com/markets/stocks/articles/trulieve-ceo-sells-1-2-161112948.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs
-链接: https://finance.yahoo.com/real-estate/articles/paycheck-not-key-independence-nearly-130000894.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: Court appoints receiver for Golub, BlueFive’s Mag Mile office
-链接: https://finance.yahoo.com/real-estate/articles/court-appoints-receiver-golub-bluefive-130000780.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 12:30]
-标题: The top 10 wealthiest US suburbs have average incomes as high as $612K, but experts warn they're magnets for crime
-链接: https://finance.yahoo.com/real-estate/articles/top-10-wealthiest-us-suburbs-123000510.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 16:09]
-标题: Vanguard Total Bond Market ETF Tops iShares 3-7 Year Treasury Bond ETF on Yield and Cost. Does That make BND a Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-total-bond-market-etf-160949857.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 17:05]
-标题: How to calculate your break-even point on a mortgage refinance
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/how-to-calculate-your-break-even-point-on-a-mortgage-refinance-170509656.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 15:00]
 标题: Why investors may want to prioritize bond markets outside the U.S.
@@ -220,20 +234,15 @@
 链接: https://www.cnbc.com/2026/06/26/cftc-is-conducting-an-investigation-into-polymarket-source-says.html
 正文: The probe comes after the Commodity Futures Trading Commission and the Department of Justice dropped previous inquiries into Polymarket last July.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-26 17:45]
-标题: OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce
-链接: https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html
-正文: Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 12:22]
 标题: Jeremy Grantham says, 'This is the most expensive market in American history'
 链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
 正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 16:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 18:05]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 16:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 18:05]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
