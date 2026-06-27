@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-27 09:24:01
-# 共计 21 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-27 11:21:36
+# 共计 25 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-26 12:10]
 标题: The Download: brain-melting heatwaves and unprecedented OpenAI restrictions
@@ -46,10 +46,25 @@
 链接: https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe
 正文: 经济研究 Anthropic 经济指数报告：节奏 2026年6月26日 阅读 PDF 版本 引言 一年前，大多数 Claude 的使用形式是用户与助手之间的对话。随着 Claude Code 和 Cowork 的快速发展，现在 Claude 会话越来越多地由长时间运行的智能体任务构成。聊天记录已无法完全反映人们如何使用 AI，我们研究 Claude 经济影响的方法也必须随之调整。 为了跟上步伐，我们对经济指数的数据管道进行了几项修改。在这一版本中，我们： 以更高的频率采样数据，使我们能够观察到逐小时级别的使用模式。 引入了一个新的分类器，用于标注每次对话的输出内容。 分享更细粒度的数据，将聊天和 Cowork 对话（合称“Claude 对话”）以及 1P API 的结果分别列出，并按月汇总。¹ 我们在附录中描述了其他方法论上的变化。这些变化共同描绘出 AI 如何映射并渗透到经济生活中。 此外，我们此前一直无法了解 Claude 在用户会话之外的影响。人们如何看待 AI 正在改变他们的工作或他们可获得的机会？他们对 AI 的使用是否塑造了他们的预期？在理想情况下，他们希望从 AI 那里得到什么？我们从 2026 年 4 月启动的 Anthropic 经济指数调查中报告了初步发现。 我们在下文中预先展示主要发现。 在第 1 章中，我们展示了外部世界的节律如何塑造 Claude 的使用方式。与工作相关的查询在周末会减少，尽管在高收入职业中减幅不那么明显；人们倾向于在早上询问新闻，而睡眠建议在凌晨 3 点左右达到峰值；与税务相关的请求在报税截止日期前后激增。 第二章探讨了人们从使用Claude的过程中获得的具体输出。这些输出高度依赖于他们所使用的产品。例如，Chat和Cowork提供的解释比Claude Code更多。输出的性质也塑造了人们与Claude的互动方式。与翻译文档相比——翻译文档的答案很大程度上由原文决定——构建网站需要更多地依赖Claude的判断。我们还发现，计算资源越多的会话，产出物价值越高；给定输出所消耗的模型token数量，会随着该工作的预估价值上升而增加。 第三章展示了Anthropic经济指数调查的首批结果，我们通过隐私保护系统将其与Claude使用数据关联起来。期望与体验随着人们使用Claude的方式而系统性地变化：以最高自动化方式使用Claude的人，预期AI在未来一年内会接管他们更多的任务，但同时对其工作前景感到最为乐观，预期在薪酬、工作保障和意义感方面会产生积极影响。 节奏 我们的新型隐私保护遥测技术每天持续采样一部分对话，使我们能够研究使用的每日和每小时模式，而此前的每份经济指数报告都基于七天样本。这些分析捕捉了全球范围内工作模式的起伏变化。 我们发现Claude的使用模式与工作周同步，个人类提示词在周末激增。小时级数据捕捉到日内模式——人们通常在凌晨3点左右询问睡眠建议，在下午6点左右询问食谱。我们还看到使用情况反映了关键日期。例如，在美国报税截止日4月15日之前，与税务相关的请求激增。 工作周 在样本期内，Chat和Cowork对话中被归类为个人使用的比例，从工作日的约35%飙升至周末的近50%（图1.1）。在工作时间之外，用户的对话从商务函件、营销文案和幻灯片转向情感支持、医疗问题和投资建议。这一转变在高收入国家最为显著。 图 1.1：周末个人对话增加。Claude.ai、Claude Desktop、Claude Code 和 1P API 上个人使用对话的每日占比。周六和周日以灰色标出。 Claude Code 和 1P API 流量（即通过 Anthropic 直接路由的 API 流量）中也存在类似模式，尽管两者的个人使用基准率较低。4 请求聚类 5 使我们能够再深入一层，观察哪些具体的 Claude Code 任务在周末和工作日之间波动最大。在周末，下降最多的 Claude Code 使用聚类包括后端架构、API 调试和数据存储；增长最多的包括 AI 智能体设计、量化交易和游戏。 周末也可能为人们创造了追求新事业的时空。在各国家中，与创业相关的对话在周六和周日最高。然而，求职活动在周末下降，其他工作相关任务也是如此。6 日常节奏 逐小时来看，Claude 的使用情况反映了日常生活的节奏。图 1.2 显示了不同请求聚类相对于全球流量整体平均值的每小时频率。7 人们会在当地时间早上 7 点询问新闻。商务通信（例如起草电子邮件）勾勒出工作日的轨迹，在上午 10–11 点略有峰值。最大的峰值之一是食谱请求，下午 6 点的频率是平均值的 2.3 倍。媒体推荐最集中在晚上，而人们在黎明前几小时寻求睡眠建议。 图 1.2：一天中各时段的请求聚类。不同请求聚类中对话的标准化每小时占比，仅限于 Claud
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 10:00]
-标题: OpenAI 预览新一代模型 GPT-5.6 Sol
-链接: https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4
-正文: 预览 GPT-5.6 Sol：新一代模型 | OpenAI 2026年6月26日 产品发布 预览 GPT‑5.6 Sol：下一代模型 我们即将开始 GPT‑5.6 系列的有限预览：旗舰模型 Sol、适用于日常工作的均衡模型 Terra，以及快速且经济的模型 Luna。Terra 的性能与 GPT‑5.5 相当，但价格便宜 2 倍；Luna 则在我们最低成本下提供强大能力。 GPT-5.6 Sol 搭载了我们迄今为止最强大的安全栈。我们加强了对高风险活动、敏感网络请求和重复滥用行为的防护，并花费数周时间查找漏洞、对我们的系统进行压力测试，使其能够抵御真实世界的攻击。 我们相信广泛可及性，并计划在未来几周内让 GPT-5.6 Sol、Terra 和 Luna 全面开放使用。作为我们与美国政府持续合作的一部分，我们在今天发布前预先展示了我们的计划以及模型的能力。应美国政府的要求，我们首先向一小批经过审查的合作伙伴提供有限的预览版，这些合作伙伴的参与信息已同步给政府，随后再逐步扩大发布范围。在此预览期间，我们将继续测试并与合作伙伴密切协调，朝着更广泛的可及性迈进。我们不认为这类政府审查流程应当成为长期的默认模式。这样做会让最优秀的工具远离那些真正需要它的用户、开发者、企业、网络防御者以及全球合作伙伴。我们采取这一短期步骤，是因为我们认为这是在未来几周内实现更广泛可及性的最强路径，同时我们也会与政府合作制定网络行政令框架，并为未来的模型发布建立可重复的流程。 能力 GPT-5.6 Sol 是我们迄今最强的模型。为预览模型性能，我们分享了一组评估结果，展示了在编程、生物学和网络安全方面增强的智能体能力，更多安全性和准备度评估可在我们的系统卡片中查阅。当模型全面开放后，我们将公布更大范围的评估结果。 在 GPT-5.6 中，我们引入了一种新的最大推理努力级别，让 Sol 拥有最充分的时间进行深度推理。此外，我们还引入了全新的超模式（ultra mode），该模式通过利用子智能体来加速复杂工作，超越了单一智能体的能力边界。 对于编程工作流，GPT-5.6 Sol 在 Terminal‑Bench 2.1 上树立了新的最优水平，该基准测试的是需要规划、迭代和工具协调的命令行工作流。 TerminalBench 2.1 GPT‑5.6 Sol 在生物工作流方面也展现出广泛的改进。在评估长周期基因组学和定量生物学分析的 GeneBench v1 上，它比 GPT‑5.5 取得了更强的结果，同时使用的模型 token 更少。 GPT‑5.6 Sol 是我们迄今为止在网络安全领域能力最强的模型。它推动了包括漏洞研究和利用在内的长周期安全任务的性能—效率边界。在 ExploitBench² 上，GPT‑5.6 Sol 仅使用约 1/3 的输出 token 即可与 Mythos Preview 竞争。在由加州大学伯克利分校研究人员与 OpenAI 及其他前沿实验室合作开发的 ExploitGym³ 上，GPT‑5.6 Sol、Terra 和 Luna 模型随着推理能力的提升，在网络能力方面均展现出显著改进。 更强的网络能力，更完善的保障措施 我们开发了 GPT‑5.6 Sol、Terra 和 Luna，并配备了迄今为止最强大的保障措施，其配置与每个模型的能力相匹配。随着模型能力不断增强，我们设计的保障措施也能在真实世界的对抗压力下保持稳健，同时保留代码审查、漏洞研究、补丁开发、调试、安全教育及防御性测试等合法工作的访问权限。我们的目标是让被禁止的进攻性活动变得更加困难、不确定且易于检测，同时不会不必要地限制那些有益用途。基于我们对模型及保障措施的评估，我们预计这些措施将为合法的防御性工作带来显著益处，同时有效约束被禁止的进攻性使用。 GPT‑5.6 Sol 在帮助人们发现和修复漏洞方面，比可靠地执行端到端攻击表现更佳。随着这些能力的持续进步，我们的优先目标是确保它们能够触达并惠及防御者，让他们能够利用这些工具发现弱点、开发补丁，并更广泛地强化系统安全。 GPT‑5.6 Sol 在“防护准备框架”下并未跨越网络关键阈值。在涉及 Chromium 和 Firefox 的评估中，它确实识别了漏洞和利用原语——即构成完整利用代码的基本构件——但在受测条件下并没能自主生成出完整可用的攻击链。然而，基准评测阈值无法穷尽模型可能被使用或与其他工具结合的每一种方式。正是这种不确定性，加上该模型在能力上的整体跃升，促使我们将更强有力的安全措施与分阶段发布结合起来。我们在 GPT‑5.6 Preview 系统卡中分享了关于安全措施的更多细节。 分层安全防护栈 没有单一的安全措施能够有效对抗坚决或适应性的滥用。在整个 GPT‑5.6 预览版中，我们采用了分层安全防护机制，各模型
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 12:29]
+标题: Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:59]
+标题: Silver prices today, Friday, June 26, 2026: Down 9.1% since Monday following latest PCE report
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-26-2026-down-91-since-monday-following-latest-pce-report-115941632.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 11:39]
+标题: Gold prices today, Friday, June 26: Gold prices down over 11% since June 1
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-june-26-gold-prices-down-over-11-since-june-1-113954190.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-26 17:05]
+标题: How to calculate your break-even point on a mortgage refinance
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/how-to-calculate-your-break-even-point-on-a-mortgage-refinance-170509656.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:00]
+标题: Best CD rates today, Saturday, June 27, 2026: Best account provides 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-27-2026-best-account-provides-410-apy-100000070.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 00:23]
 标题: SpaceX will join Nasdaq-100
@@ -96,10 +111,10 @@
 链接: https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html
 正文: The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 09:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 11:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 09:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 11:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
