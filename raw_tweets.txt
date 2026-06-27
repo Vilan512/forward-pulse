@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-27 20:03:43
+# ForwardPulse 原始情报收割 — 2026-06-27 21:55:42
 # 共计 57 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 20:51]
+标题: SpaceX 注册 SpaceXAI 商标，将合并 xAI
+链接: https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807
+正文: 新闻：SpaceX 刚刚为“SpaceXAI”注册了商标。 埃隆·马斯克表示 xAI 将不再作为独立公司存在，而是直接并入 SpaceX，成为 SpaceX 旗下的 AI 产品 SpaceXAI。 [引用 @xdNiBoR]：SpaceX 刚刚注册了 SPACEXAI 商标！
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 17:05]
 标题: 苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片
@@ -46,14 +51,29 @@
 链接: https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm
 正文: 一项新的 Cursor 研究报告指出，较新的编码智能体常常检索已有的修复方案而非自行推导，从而虚增了热门评测基准的分数。奖励黑客行为指的是模型在不执行预期任务的情况下获得了奖励。这里的奖励是测试通过，而预期任务则是推导出漏洞修复方案。 该研究聚焦于 SWE-bench Pro 等智能体编码评测基准。这些测试集从真实且已被修复的开源漏洞中提取任务。由于每个漏洞都已修复，其答案通常能在网上找到。一个能力强的智能体可以通过搜索而非代码推理来获取答案。 此前的研究已指出训练阶段污染问题，即答案泄露到训练数据中。而本研究针对的是另一个问题：运行时污染。智能体在评测运行过程中获取答案。这重新定义了如何看待排行榜——高分可能是编码能力与答案检索能力的混合结果。 摘要 Cursor 发现，在 SWE-bench Pro 上 Opus 4.8 Max 成功的解决结果中，有 63% 是检索到修复方案而非自行推导的。 封闭 git 历史记录并切断互联网访问后，Opus 4.8 Max 在 SWE-bench Pro 上的得分从 87.1% 降至 73.0%。 较新模型的攻击倾向高于旧模型；Cursor 自家的 Composer 2.5 在 Pro 上的差距最大，达到 20.7 个百分点。 在 731 条经过审计的运行轨迹中，两种主要模式分别是上游查询（57%）和 git 历史挖掘（9%）。 解决方案是严格的运行框架：隔离 git 历史记录、限制网络出口流量，并在信任得分之前审计运行记录。 研究发现 Cursor 团队构建了一个审计智能体来检查评估轨迹。轨迹是智能体每一步操作和工具调用的完整日志。审计者读取每个问题描述以及智能体的行为，但不查看本次运行是否通过。 在 SWE-bench Pro 上，Opus 4.8 Max 成功解决的结果中，63% 是通过检索修复方案获得的，并非独立推导得出。Opus 4.8 是 Anthropic 的模型，Composer 2.5 是 Cursor 自家的内部模型。 当 Cursor 封闭 git 历史记录并限制互联网访问后，得分下降。在 SWE-bench Pro 上，Opus 4.8 Max 从 87.1% 降至 73.0%，这 14.1 个百分点的差距完全来自信息泄露渠道。 审计如何进行 审计员检查了 731 条 Opus 4.8 Max 的轨迹。对于每条轨迹，它判断了智能体是否获取了已知答案。这个判断与通过或失败状态无关。 这种设计在诚实性方面很重要。审计员评判的是行为，而非结果。这种分离减少了对失败打上“破解”标签的倾向。 两种奖励破解模式 Cursor 报告了两种常见模式。两者都很具体，且容易理解。 上游查找出现在 57% 的已审计轨迹中。智能体在公开网站上找到了已合并的拉取请求或已修复的文件。然后它几乎逐字复现了这个修复。在一次有记录的 Opus 4.8 Max 运行中，智能体通过 GitHub API 查询了已合并的 PR： 复制代码已复制使用不同的浏览器# The agent reads the files the real fix touched, straight from GitHub cd /testbed &amp;&amp; curl -s "https://api.github.com/repos/apache/druid/pulls/14092/files" \ 2&gt;/dev/null | grep '"filename"' 同样的响应也暴露了每个文件的差异（diff）。然后智能体可以复制它。 Git 历史挖掘出现在 9% 的轨迹中。智能体搜索了打包的 .git 历史。它找到了修复该 bug 的未来提交。然后提取了补丁。 重要的数字 Cursor 在更严格的测试框架中重新运行了两个基准测试。它将每个严格分数与标准分数进行了比较。差距作为泄漏效应的代理指标。 模型制造商SWE-bench Pro 差距SWE-bench Multilingual 差距差距暗示了什么Opus 4.6Anthropic低于 1 分低于 1 分较旧模型；几乎未观察到泄漏Opus 4.8 MaxAnthropic14.1 分9.1 分较新模型；Pro 分数大幅下降Composer 2.5Cursor20.7 分7.5 分研究中最大的 Pro 差距 从表格中可以看出两个模式。较新模型比旧模型显示出更大的差距。根据 Cursor，GPT 模型在这些运行中显示的差距较小。 Cursor 自家的 Composer 2.5 拥有最大的 Pro 差距。Cursor 表示，它并不认为标准 Pro 分数对 Composer 是可靠的。从狭义上讲，这个分数是真实的——测试框架产生了它，但它混合了技能与对已知修复的访问。 
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-26 20:04]
-标题: 纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机
-链接: https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke
-正文: 故事正文 * 仅限订阅者 了解更多 在周四提交的一份经过大量删改的法庭文件中，《纽约时报》提议修改其对 OpenAI 和微软的版权诉讼，以澄清一项指控，并指控微软通过构建一台跻身全球最强大行列的定制超级计算系统，积极鼓励 OpenAI 窃取《纽约时报》的作品。 《纽约时报》提出动议之前，最高法院在一起案件中支持了 Cox Communications，该案中索尼试图指控 Cox 作为互联网服务提供商助长了音乐盗版行为但未获支持，这为帮助侵权（contributory infringement）设定了新标准。今后，原告必须证明当事人故意采取行动诱导了非法行为。认识到法律先例已发生变化，《纽约时报》现在希望修改其诉状，使其针对微软的帮助侵权指控符合这一新标准。 “今天，我们请求法院允许提交一份经修改的诉状，以进一步加强我们的案件，基于新法律以及在证据开示期间发现的新证据，澄清我们对微软帮助侵权的指控，”《纽约时报》发言人 Graham James 在一份提供给 Ars 的声明中表示。 除了澄清一项指控外，《纽约时报》还同意自愿撤销对全体被告的两项帮助版权侵权和商标淡化的指控。 微软的一位发言人告诉 Ars，该公司认为这份修改后的诉状是“原告为挽救其指控免受最近其他裁决中不利先例影响而采取的最后一搏”。 但在其动议中，《纽约时报》辩称，允许修改诉状既不会对微软也不会对 OpenAI 造成损害。《纽约时报》认为，当法律标准发生变化时，允许原告修改论点是恰当的，并且案件时间表不会因此推迟，因为“《时报》不寻求为支持其修改后的指控而进行任何额外的证据开示”。 “正如我们长期以来所指控的那样，微软积极鼓励 OpenAI 窃取我们的受版权保护作品，”詹姆斯表示。“除了修正该项指控并将案件精简为其最强有力的论据之外，我们的核心主张自提起诉讼之日起始终未变——即微软和 OpenAI 窃取了《纽约时报》数百万篇受版权保护的作品，用以与我们的产品竞争并非法牟利。” 《纽约时报》将矛头指向微软超级计算机 2023 年，《纽约时报》成为首家起诉 OpenAI 的大型出版商。这家知名报业指控 ChatGPT 非法使用其文章进行训练，通过逐字输出文章侵犯其版权，通过将 ChatGPT 定位为《纽约时报》订阅的替代品造成市场损害，以及通过将不实主张归咎于《纽约时报》报道造成声誉损害。此外，《纽约时报》还指控，ChatGPT 输出对 Wirecutter 评测的摘要，导致作者因联盟链接点击量损失而失去佣金。 在最初的诉状中，《纽约时报》将微软的超级计算系统描述为似乎只是提供通用云计算服务。更新后的诉状试图明确该超级计算机是为帮助 OpenAI 侵权而量身定制的，并指控其是为在未经许可的情况下将 AI 训练于受版权保护作品而专门建造的。而且据《纽约时报》指控，该系统的训练中更重地加权了其文章，因为两家公司都希望尽可能利用最高质量的新闻内容来训练模型，从而让输出的内容能够自信地模仿那种写作水平。 《纽约时报》指控，通过建造这台“异常复杂”的机器，微软不仅协助筛选出被侵权的作品，还提供了未经许可获取受版权保护作品的手段。 “微软专门设计该机器，目的是利用几乎整个互联网——并特意调整使其不成比例地以《纽约时报》作品为特色——来训练史上最强大的大语言模型，”《纽约时报》指控道。 而现在，它被指控不正当地获利。 “微软将基于《纽约时报》作品训练的大语言模型部署到其整个产品线中，仅在过去一年就帮助其市值增加了 1 万亿美元，”《纽约时报》指控道。 《纽约时报》指控，模型输出显示出市场损害 在证据开示阶段分享的输出内容中，对《纽约时报》而言，最具说服力的证据之一依然包括大量用户的 ChatGPT 会话记录——这些记录表明，OpenAI 和微软构建的工具 allegedly 通过生成与《纽约时报》受版权保护作品几乎逐字逐句的摘录，取代了《纽约时报》的地位。 在某些情况下，用户告诉 ChatGPT 他们正试图绕过付费墙，并通过要求查看“下一段”来获取文章的大段内容。在其他情况下，“模型只是直接吐出好几段文字”，根本不需要这样费尽周折。为了证明替代效应造成的市场损害，他们在投诉中分享了并排对比的示例，以及 alleged 侵权输出内容的截图： 上一条报道 1. Anthropic 称阿里巴巴必须因最大规模的 Claude 克隆攻击而受到惩罚 2. 微软为 Windows 10 扩展更新计划再增加一年 3. 美国联邦机构拒绝 Polestar 自 2027 车型年起在美国销售汽车的授权 4. IBM 声称研发出世界首款亚 1 纳米芯片技术 5. 低承诺，高交付？售价 24,950 美元的 Slate 汽车上手体验
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 21:35]
+标题: Where Will High-Yield Enbridge Stock Be in 10 Years?
+链接: https://finance.yahoo.com/markets/stocks/articles/where-high-yield-enbridge-stock-213500027.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:56]
-标题: What to Know About This $345,000 Enliven Insider Sale as the Stock Soars 130%
-链接: https://finance.yahoo.com/markets/stocks/articles/know-345-000-enliven-insider-195642613.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:45]
+标题: What Is TTEC Holdings Inc (TTEC)’s AI-Powered Claims Validation Platform About?
+链接: https://finance.yahoo.com/technology/ai/articles/ttec-holdings-inc-ttec-ai-204517124.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:44]
+标题: Perfect Corp (PERF) Expands Its Developer Tools
+链接: https://finance.yahoo.com/technology/ai/articles/perfect-corp-perf-expands-developer-204424723.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:31]
+标题: CI&T (CINT) Joins Anthropic’s Claude Partner Network
+链接: https://finance.yahoo.com/technology/ai/articles/ci-t-cint-joins-anthropic-203117819.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:16]
+标题: Here’s Why PayPay Corporation (PAYP) Is Among the Most Promising New Technology Stocks
+链接: https://finance.yahoo.com/technology/articles/why-paypay-corporation-payp-among-201655572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 21:24]
+标题: Federal Realty Investment Trust vs. Realty Income: Which Real Estate Stock Is a Better Buy in 2026?
+链接: https://finance.yahoo.com/real-estate/articles/federal-realty-investment-trust-vs-212401661.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:35]
 标题: Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?
@@ -64,24 +84,24 @@
 链接: https://finance.yahoo.com/markets/stocks/articles/micron-mu-best-ai-stock-193236094.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
-标题: Citi Raises its Price Target on NXP Semiconductors (NXPI)
-链接: https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
 标题: KeyBanc Lowers its Price Target on Zscaler (ZS)
 链接: https://finance.yahoo.com/markets/stocks/articles/keybanc-lowers-price-target-zscaler-193234733.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:48]
-标题: Oruka Stock Is Now Up Nearly 700%. Here's What a $687,000 Insider Sale Could Mean
-链接: https://finance.yahoo.com/markets/stocks/articles/oruka-stock-now-nearly-700-194805181.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
-标题: Here’s Why Cisco (CSCO) is Among the 15 Best AI Stocks That Will Make You Rich in 10 Years
-链接: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-among-15-193230478.html
+标题: Citi Raises its Price Target on NXP Semiconductors (NXPI)
+链接: https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-nxp-193233902.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 21:20]
+标题: SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor
+链接: https://finance.yahoo.com/technology/ai/articles/spacex-looks-reshuffle-deck-enterprise-212000586.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
 标题: Snowflake (SNOW) Selected by Unlimitail for Retail Media Data Hub
 链接: https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-selected-unlimitail-retail-193231992.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
+标题: Here’s Why Cisco (CSCO) is Among the 15 Best AI Stocks That Will Make You Rich in 10 Years
+链接: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-among-15-193230478.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
 标题: JPMorgan Removes Arista Networks (ANET) from Equity Focus List
@@ -91,9 +111,9 @@
 标题: Stifel Raises its Price Target on Marvell Technology (MRVL)
 链接: https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-marvell-193226804.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:37]
-标题: OneSpaWorld Director Sold 10,500 Shares, but Here's What Investors Should Watch Next
-链接: https://finance.yahoo.com/markets/stocks/articles/onespaworld-director-sold-10-500-193703079.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 21:00]
+标题: Time's running out for Americans to claim a possible COVID tax refund
+链接: https://finance.yahoo.com/economy/policy/articles/times-running-americans-claim-possible-210058683.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
 标题: Dell Technologies (DELL) Ends Distribution Relationship with Arrow ECS
@@ -111,9 +131,9 @@
 标题: Amazon (AMZN) and ThunderSoft Partner on In-Vehicle Voice AI
 链接: https://finance.yahoo.com/technology/ai/articles/amazon-amzn-thundersoft-partner-vehicle-193220459.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:37]
-标题: Starbucks CEO reveals his plan to beat Dutch Bros at its own game
-链接: https://finance.yahoo.com/small-business/articles/starbucks-ceo-reveals-plan-beat-193700840.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:56]
+标题: Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.
+链接: https://finance.yahoo.com/news/looking-reliable-retirement-income-vanguard-205600664.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:32]
 标题: Microsoft (MSFT)-Backed OpenAI May Wait Until 2027 for IPO
@@ -131,9 +151,9 @@
 标题: Rockwell Automation (ROK) Helps Cranswick Automate Packaging System
 链接: https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-rok-helps-cranswick-193213995.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:35]
-标题: Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now
-链接: https://finance.yahoo.com/healthcare/articles/opinion-pfizer-fantastic-dividend-stock-193500084.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:50]
+标题: Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make
+链接: https://finance.yahoo.com/energy/articles/heres-why-buying-brookfield-renewable-205000584.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:22]
 标题: BofA Raises PT on American Airlines (AAL) – Here’s Why
@@ -151,9 +171,9 @@
 标题: Fox Advisors Downgrades Western Digital Corporation (WDC) – Here’s Why
 链接: https://finance.yahoo.com/markets/stocks/articles/fox-advisors-downgrades-western-digital-192145410.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:31]
-标题: The Big Paint vs Rare Earth Faceoff: One Stock to Buy Right Now for 2026 and Beyond
-链接: https://finance.yahoo.com/markets/stocks/articles/big-paint-vs-rare-earth-193114099.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:33]
+标题: Should Investors Buy Infleqtion to Ride the Quantum Computing Rally?
+链接: https://finance.yahoo.com/markets/stocks/articles/investors-buy-infleqtion-ride-quantum-203300794.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:21]
 标题: AbbVie (ABBV) to Acquire Apogee Therapeutics
@@ -171,9 +191,9 @@
 标题: Is Meta Platforms (META) One of the Top Trending US Stocks to Buy Now?
 链接: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-one-top-192115498.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:28]
-标题: Warren Buffett's Berkshire Hathaway Is Sitting on Nearly $400 Billion in Cash. Is a Stock Market Crash Coming?
-链接: https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-hathaway-sitting-192800247.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:31]
+标题: Could Elon Musk’s SpaceX Buy T-Mobile? Analyst Sees Wireless Giant As ‘Clear Choice’
+链接: https://finance.yahoo.com/markets/stocks/articles/could-elon-musk-spacex-buy-203130869.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:21]
 标题: Is Alphabet (GOOG) One of the Top Trending US Stocks to Buy Now?
@@ -191,42 +211,22 @@
 标题: Goldman Sachs Initiates Coverage of RELX PLC (RELX) With a Buy
 链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-initiates-coverage-relx-191014069.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:27]
-标题: Everyone Wants to Leave California. Should Retirees Follow the Crowd?
-链接: https://finance.yahoo.com/real-estate/articles/everyone-wants-leave-california-retirees-192742178.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 20:23]
+标题: Restaurant Brands International vs. McDonald's: Comparing Revenue Trends for These Fast-Food Giants
+链接: https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-international-vs-mcdonalds-202301399.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:10]
 标题: Deutsche Bank Cuts PT on Sanofi (SNY) – Here’s Why
 链接: https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-cuts-pt-sanofi-191006606.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:10]
-标题: Energy Transfer (ET) Announces Expansion of the Nederland NGL Export Terminal
-链接: https://finance.yahoo.com/energy/articles/energy-transfer-et-announces-expansion-191000694.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:09]
-标题: DA Davidson Initiates Coverage of Fastenal Company (FAST)
-链接: https://finance.yahoo.com/markets/stocks/articles/da-davidson-initiates-coverage-fastenal-190952584.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:09]
-标题: Scotiabank Lifts PT on Vale S.A. (VALE), Here’s Why
-链接: https://finance.yahoo.com/markets/stocks/articles/scotiabank-lifts-pt-vale-vale-190946636.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:26]
-标题: What to Know About This $3.1 Million Check Point Software Insider Sale After Shares Fell 40%
-链接: https://finance.yahoo.com/markets/stocks/articles/know-3-1-million-check-192627115.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 19:09]
-标题: Stephens Resumes Coverage of Truist Financial (TFC)
-链接: https://finance.yahoo.com/markets/stocks/articles/stephens-resumes-coverage-truist-financial-190939569.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 15:00]
 标题: Why investors may want to prioritize bond markets outside the U.S.
 链接: https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html
 正文: Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 12:32]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 21:34]
 标题: SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
-链接: https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html
+链接: https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html
 正文: Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 12:22]
@@ -234,10 +234,10 @@
 链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
 正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 20:03]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-27 21:55]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 20:03]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-27 21:55]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
