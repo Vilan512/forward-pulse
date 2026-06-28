@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-28 07:53:23
-# 共计 18 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-28 10:21:40
+# 共计 25 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 07:44]
+标题: 新浪开源VibeThinker-3B：推理可压缩，事实知识不能
+链接: https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011
+正文: 新浪开源模型VibeThinker-3B旨在展示推理能力可良好压缩，但事实性知识则不能 Jonathan Kemper 查看Jonathan Kemper的LinkedIn档案 Jun 28, 2026 Nano Banana Pro 由 THE DECODER 提供提示 要点 微博的新模型VibeThinker-3B仅有30亿参数，但在数学和编程基准测试中可媲美体积大至其333倍的顶级模型。 这一性能源于对阿里巴巴基础模型进行的多阶段后训练。然而，在需要广泛事实性知识的任务上，该小模型则远远落后。 研究人员得出结论：结构化的逻辑推理依赖于少量模式且可良好压缩，而广泛的世界知识仍需大型模型。 一个仅有30亿参数的中文语言模型，有时在数学和编程任务上可媲美体积大其百倍的模型。其背后的研究人员提出了一项关于AI能力结构如何组织的假设。 微博母公司新浪发布了一款小型语言模型，在困难数学和编程任务上可与当今顶级模型竞争。根据一份技术报告，VibeThinker-3B在诸如AIME26等竞争性基准测试中表现与DeepSeek V3.2和Kimi K2.5相当。这两款模型的参数量是它的200到333倍。 新浪将这款模型定位为一次实验，旨在探究模型要达到顶级竞争力究竟需要多少算力。其前代产品VibeThinker-1.5B于2025年11月发布。新版本更进一步，追问一个小模型能否达到真正的顶级性能，而不仅仅是“就其规模而言表现不错”。 在六项数学和编程基准测试中，该3B模型（橙色）的性能落在包括Gemini 3 Pro、GLM-5和Claude Opus 4.5在内的五款当前顶级模型的性能范围内。| 图片来源：新浪微博 逻辑可向下缩放，事实性知识则不能 这些结果讲述了两个不同的故事。在具有明确可验证解决方案的结构化任务上，如数学奥林匹克竞赛或编程挑战，VibeThinker-3B可与GLM-5或Gemini 3 Pro等模型媲美。在LiveCodeBench上，它击败了所有其他参数量低于200亿的模型。 事实性知识则是另一回事。在知识密集型基准测试 GPQA-Diamond 上，该模型远远落后于它那些体量更大的竞争对手。 VibeThinker-3B 在 IMO-AnswerBench 上几乎比肩 DeepSeek V3.2、GLM-5 和 Kimi K2.5，尽管其规模小了几百倍。| 图片来源：新浪微博 为了排除数据污染，该团队让模型在训练结束后参加了 2026 年 4 月下旬至 5 月下旬举办的 LeetCode 竞赛。VibeThinker-3B 在第一次尝试中就解决了 128 道题中的 123 道。这使得它领先于 GPT-5.2、Qwen3-Max、Kimi K2.5 和 Claude Opus 4.6。仅落后于 GPT-5.3-Codex、Gemini 3.1 Pro 和 Gemini 3 Flash，但差距不大。 后训练承担了主要工作。 VibeThinker-3B 基于阿里巴巴的 Qwen2.5-Coder-3B 构建。新浪的贡献在于后训练，即在大数据集上进行通用预训练之后的一切步骤。根据报告，正是后训练让一个 3B 模型逼近了顶尖水平。 后训练分阶段进行。首先，模型通过监督微调学习广泛的任务，涵盖数学、编程和通用对话。然后，模型针对困难的多步推理问题进行定制化调整。 随后是强化学习，依次应用于数学、编程和 STEM 领域。然后通过自蒸馏将每个阶段学到的技能整合到单个模型中。最后一步确保模型更好地遵循指令。 正是后训练实现了性能飞跃。两阶段监督微调、针对数学、代码和 STEM 的多阶段推理强化学习，再加上最终为了提示词遵循而进行的指令阶段。| 图片来源：新浪微博 在微调过程中，团队有意构建了多种多样的解题路径。随后强化学习强化那些有效的路径。其观点是，性能来自训练方法、数据质量和可靠的验证信号，而非来自更多的参数。 这对 AI 能力运作方式意味着什么？ 基于这些结果，作者提出了他们所谓的“参数压缩-覆盖假说”。不同的 AI 能力具有不同的结构，需要不同数量的参数。 逻辑推理，比如像逐步解一道数学题，依赖于少数几种反复出现的模式：搜索、检查条件、纠正错误、组合中间结果。这类能力可以压缩进一个紧凑的核心中。世界知识则运作方式不同。回答横跨多个主题的开放性问题需要广泛的覆盖面，这意味着需要大量参数来存储大量事实。 研究人员表示，这重新定义了小模型的用途。它们不仅是专为低成本推理打造的廉价轻量版本，更是一条与传统规模扩展逻辑并行的独立研究路径。在任务可验证且有明确解构模式的情况下，参数量不再是瓶颈。 VibeThinker-3B 已在 Hugging Face 和 GitHub 上公开提供。 小模型在狭窄任务上追赶远比它们大的系统，正
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 03:55]
 标题: 阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具
@@ -41,26 +46,49 @@
 链接: https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8
 正文: 最有可能用自动化取代你工作的那些公司，现在正资助一项 10 亿美元的计划来对你进行再培训。 托米斯拉夫·贝兹马利诺维奇 Jun 27, 2026 Nano Banana Pro 由 THE DECODER 提供提示 关键要点 美国前商务部长吉娜·雷蒙多创立了一个名为“Raise Us”的无党派组织，旨在帮助美国劳动者为人工智能驱动的经济做好准备。 目标：为再培训和继续教育项目筹集 10 亿美元。目前已确保筹集到其中一半的资金。 大型科技公司正在支持这一努力。亚马逊、Anthropic、微软和 OpenAI 都是支持者，这引发了关于其独立性的明显问题，因为这些公司正是从人工智能广泛普及中受益最大的企业。 美国前商务部长吉娜·雷蒙多和前印第安纳州州长埃里克·霍尔科姆共同发起了“Raise Us”，这是一个由二十多家大型企业和四位州长支持的两党非营利组织。 该组织旨在筹集 10 亿美元，以帮助美国劳动者为人工智能驱动的经济做好准备。雷蒙多将担任首席执行官。作为参照，谷歌、亚马逊、微软和 Meta 今年计划在人工智能上总共花费 7250 亿美元。 “美国在引领全球人工智能竞争方面有一套技术战略，但还没有一套人才战略——没有人才战略，我们就无法领先，”雷蒙多在启动会上表示。“如果我们建造出世界上最好的人工智能系统，却让数百万美国人掉队，那我们什么也没赢到；我们只是把自己的衰落自动化了。” 该组织计划为企业再培训和留任创造新的激励措施，与各州州长共同启动试点项目，并根据雇主不断变化的需求调整培训模式。衡量成功的标准是劳动者能否获得并保住稳定且收入可观的工作。 人工智能领域的竞争对手首次共同资助一项劳动力计划 Raise Us 引人注目之处在于谁在为其买单。根据公告，亚马逊、Anthropic、微软和 OpenAI 基金会都在支持这项计划。雷蒙多表示，这是领先的人工智能开发者首次共同资助一项独立的计划来支持劳动力转型。美国银行是主要赞助商，资助了一个面向先进制造业的学徒项目。 其他支持者包括 ADP、AMD、Autodesk、黑石、思科、Cognizant、德勤、礼来、通用汽车、IBM、万事达卡、ServiceNow、UPS 和 Workday。在公益方面则有：洛克菲勒基金会、Arnold Ventures、Pritzker Traubert 基金会和 Stephen A. Schwarzman 基金会。Raise Us 的目标是筹集10亿美元的多年期承诺捐款。据《纽约时报》报道，目前已锁定5亿美元。 这种资金结构自然会引发关于独立性的疑问。参与的许多公司要么直接从人工智能的快速普及中获利，要么正在积极推动这一进程。Raise Us 本应为人工智能可能导致的失业问题开发解决方案，但其资金主要来源于那些正是引发这一冲击的公司。 试点项目在四个州启动 Raise Us 首先在阿肯色州、康涅狄格州、马里兰州和犹他州建立合作伙伴关系。选择这些州有意体现了跨党派特色：州长包括 Sarah Huckabee Sanders（共和党，阿肯色州）和 Spencer Cox（共和党，犹他州），以及 Ned Lamont（民主党，康涅狄格州）和 Wes Moore（民主党，马里兰州）。 这些试点项目重点在于促进职业转型，帮助人们了解哪些岗位仍有需求、这些工作需要哪些技能，以及如何转入这些岗位。在阿肯色州，Raise Us 正在支持一个名为 Arkansas LAUNCH 的人工智能驱动的职业导航平台，该平台将学生和求职者与个性化学习路径以及与企业关联的职业轨道路径连接起来。 据《纽约时报》报道，在马里兰州，该州面向高中应届毕业生的 Service Year 项目将扩展到医疗保健等面临劳动力短缺的行业。该组织还计划在当地设立一个面向创新职业转型模式的竞争性资金池，并设立一个加速器项目，帮助失业人员自主创业。 据《纽约时报》报道，在其他州，Raise Us 希望为那些接受低薪工作而非完全退出劳动力队伍的劳动者提供"工资保险"。 该组织的工作围绕四大支柱展开 Raise Us 分为四个领域。“州级合作伙伴关系”旨在通过学徒制和短期证书等方式，使州教育与劳动力项目更紧密地对接雇主需求。公共资金将更多地取决于参与者是否实际找到工作，而不仅仅是入学人数。 “雇主联盟”汇集了使用人工智能的企业，共同开发再培训和留任的试点项目。据《纽约时报》报道，微软已经测试了一种模式：该公司培训跨部门的初级法律人员，并教授他们AI技能，以便他们能在技术变革时更容易地转向新岗位。“几乎我们所有的岗位都可以这样做，”微软副董事长布拉德·史密斯表示。 “教育与培训”旨在推广AI驱动的培训模式，将实践经验与证书相结合，并提供比传统大学更便宜的替代方案。“政策实验室”将开发和测试新的政策方法。该实验
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 08:16]
-标题: AI 账单失控后 DeepSeek 成"香饽饽"，部分美国企业已 100% 切换
-链接: https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi
-正文: IT之家 6 月 27 日消息，CNBC 昨日（6 月 26 日）发布博文，报道称在 AI 账单失控背景下，越来越多的美国企业转向 Tokenminimizing，追求使用更少的 Token 完成同等复杂度的任务。该媒体从 Lindy 公司视角切入，并采访了多位分析师，洞察美国企业在 AI 支出方面的变化。Lindy 是一支拥有约 25 人的公司，总部位于旧金山，此前主要调用 Anthropic 的 Claude 模型，该公司 CEO 弗洛 · 克里维洛（Flo Crivello）诉苦称每月 AI 账单严重超支，甚至超出了所有员工的工资支出。他表示本月初已将 100% 流量切换到 DeepSeek，并称这项决定在未来几个月能给公司省下数百万美元。克里维洛表示：“别小看 AI 账单，这关乎企业的生死存亡。你现在来瞧瞧我们的 AI 成本曲线，简直是断崖式下跌”。克里维洛此前曾在 Uber 工作 5 年，他表示老东家目前也在严苛限制 AI 调用，本月为部分 AI 工具设定了分级支出上限，基础档为每月 1500 美元（IT之家注：现汇率约合 10211 元人民币）。在失控领域方面，CNBC 采访了多名咨询公司以及企业管理员，指出 AI 支出最先失控的是辅助编程，开发者消耗大量的 Tokens，投入到新工具和新服务开发上。而现在企业已严苛限制场景使用，企业开始转向按任务匹配模型的“模型路由”（model routing），不再把最贵的前沿模型用于所有场景。面对失控的 AI 账单，咨询公司 Highspring 的 Jeff Henry 说，一些客户决定先暂停投入，等能证明投资回报率后再决定。
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:30]
+标题: Missouri dad stashes stocks in a coffee can for his 3 daughters. He says with time, they’ll grow to $500 million
+链接: https://finance.yahoo.com/markets/stocks/articles/missouri-dad-stashes-stocks-coffee-103000092.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:00]
-标题: Best CD rates today, Saturday, June 27, 2026: Best account provides 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-27-2026-best-account-provides-410-apy-100000070.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:45]
+标题: Regret taking Social Security at 62? What to do if the decision haunts you (and why younger Boomers must take notice)
+链接: https://finance.yahoo.com/markets/articles/regret-taking-social-security-62-104500328.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:00]
-标题: Mortgage and refinance interest rates today, Saturday, June 27, 2026: Lowest 30-year rate since April
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-june-27-2026-lowest-30-year-rate-since-april-100000248.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:00]
+标题: I inherited gold and silver worth tens of thousands — but with no receipts, how do I find out what it’s worth?
+链接: https://finance.yahoo.com/markets/commodities/articles/inherited-gold-silver-worth-tens-110000996.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:00]
-标题: HELOC and home equity loan rates Saturday, June 27, 2026: 'FedWatch' tool suggests higher rates are coming
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-saturday-june-27-2026-fedwatch-tool-suggests-higher-rates-are-coming-100000972.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:08]
+标题: This is not what a risk-off month usually looks like: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:00]
-标题: Best high-yield savings interest rates today, Saturday, June 27, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-27-2026-earn-up-to-410-apy-100000193.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:15]
+标题: The number of Americans joining the 401(k) millionaire club is hitting record highs — here’s how you can join in too
+链接: https://finance.yahoo.com/markets/options/articles/number-americans-joining-401-k-111500997.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
+标题: NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
+标题: Eli Lilly (LLY) Announces Positive Phase 3 Results for Jaypirca Combination in Relapsed CLL/SLL
+链接: https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-announces-positive-112148243.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
+标题: Comfort Systems USA (FIX) Announces Leadership Transitions Effective July 1
+链接: https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-announces-112153414.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
+标题: Viking (VIK) Announces Delivery of New River Ships Viking Annar and Viking Fjolvar
+链接: https://finance.yahoo.com/markets/stocks/articles/viking-vik-announces-delivery-river-112159043.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:22]
+标题: Alamos Gold (AGI) Reports High-Grade Drilling Results at Island Gold Mine
+链接: https://finance.yahoo.com/markets/stocks/articles/alamos-gold-agi-reports-high-112210663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:22]
+标题: Here is Why Samsara (IOT) is One of the High Growth Stocks to Buy Right Now
+链接: https://finance.yahoo.com/markets/stocks/articles/why-samsara-iot-one-high-112216841.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 15:00]
 标题: Why investors may want to prioritize bond markets outside the U.S.
@@ -77,10 +105,10 @@
 链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
 正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 07:53]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 10:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 07:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 10:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
