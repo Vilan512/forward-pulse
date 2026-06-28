@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-06-28 10:21:40
-# 共计 25 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-28 12:12:50
+# 共计 26 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 10:50]
+标题: Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus
+链接: https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3
+正文: Grok 4.5 基于我们的 1.5T V9 基础模型，并在补充训练中加入了 Cursor 数据，目前已在 SpaceX 和 Tesla 进入私有测试阶段。早期评估显示其性能接近，甚至可能超越 Opus。 强化学习仍在持续显著改进模型，而 Grok Build 工具链也在逐日优化。 所有参与人员都干得很棒！ 今年，@SpaceX 将每月发布完全从零训练的全新模型。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 10:16]
+标题: 仅有三个AI模型在500天创业测试中盈利超过起始资本
+链接: https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo
+正文: 在一项为期500天的创业生存测试中，只有三款AI模型的最终资本高于初始资金。 马克西米利安·施赖纳 查看马克西米利安·施赖纳的领英资料 Jun 28, 2026 Nano Banana Pro 由 THE DECODER 提供提示词 普林斯顿大学的研究人员构建了 CEO-Bench，这是一个测试AI智能体在500个模拟日内运营一家虚构软件公司的基准。目前大多数模型都会破产，而一个无需AI的简单基于规则的启发式方法几乎击败了所有模型。 AI智能体在狭隘任务上表现越来越出色：修复漏洞、在对话中遵循服务策略、或完成基于网页的工作流程。普林斯顿大学的研究指出，这些任务结构简单：智能体获得明确目标，短期行动，并能迅速收到反馈。许多重要的现实任务则完全不同。它们涉及在不确定性下的长链决策，需要设定优先级、分配有限资源、解读嘈杂信号并适应不断变化的条件。 为了专门测试这些技能，研究人员开发了 CEO-Bench。该基准模拟了一个现实中此类长期任务的例子：在500个模拟日内运营一家创业公司。 研究人员援引了一个著名例子：1997年，苹果公司距破产仅剩90天。史蒂夫·乔布斯画了一个简单的2x2网格——消费者与专业级、桌面与便携——并决定苹果只在这四个象限内制造产品。随后诞生了 iMac、iPod 和 iPhone。 作者认为，这种战略引导智能与当前AI智能体所做的本质不同。智能体在单项任务上进步很快。但引导整个组织实现长期目标？那完全是另一个问题。CEO-Bench 是首次尝试衡量这种“引导智能”。 一家虚构软件公司的AI首席执行官 在 CEO-Bench 中，智能体运营一家名为 NovaMind 的虚构订阅制软件公司。初始状态为零客户、银行存款100万美元。最终业绩以剩余现金衡量。如果余额哪怕一次降到零以下，公司即宣告破产，模拟结束。 该智能体通过一个包含 34 个工具的 Python API 和一个包含 19 张表的数据库来控制这家公司。它不只是下发单个命令，而是自己编写代码、用 SQL 查询数据库，并根据结果构建自定义工作流。研究人员表示，这使得它面临着与人类 CEO 同样的挑战。 在这持续 500 天的创业模拟中，智能体将数据库查询、管理工具交互以及社交媒体帖子，与市场周期和结果指标（如工单解决数、订阅增长量、取消率和可用现金）联系起来。| 图片来源：Chen, Narasimhan, Liu 需要决策的事项很多：定价与套餐层级、各渠道广告支出、产品质量与研发、基础设施容量与客户支持，还有与企业客户的多轮谈判。除此之外，还有一个模拟社交网络，智能体可以在其中阅读投诉、竞争对手新闻和经济趋势，并自行发帖。 滞后反馈与隐藏变量使得这项测试难度很大 让这项任务变得困难的是时间与不确定性。决策会在真实的商业时间线上展开：收入只在计费日到账，研发项目耗时数天到数周，而错误常常要到后来才会通过客户流失或声誉受损显现出来。成本则立即产生。智能体必须花钱，但回报可能数周后才出现。 公司的大部分状态是隐藏的。智能体无法直接看到客户满意度、支付意愿或最低质量期望。它必须从嘈杂的信号（如取消率、支持工单或社交网络上的反应）中拼凑出这些信息。模拟系统包含 26 个客户细分群体和单个客户，每个都有自己的预算、价格敏感度和期望。 世界也在不断变化。竞争对手会周期性提高客户质量期望，偏好随时间推移而变化，模拟的商业周期也会影响需求和支付意愿，因此智能体必须持续调整。 研究人员特意选择了固定的、透明的规则，而不是用大语言模型作为裁判。他们希望避免他们在 Vending-Bench（一个带有模拟自动售货机的测试）中看到的一个弱点：在那里，AI 模拟的供应商可能会因智能体做出不切实际的口头承诺而奖励它。 大多数模型破产 在十四个受测模型中，大多数未能完成任务。几乎所有模型都能生成有效的命令和数据库查询，但没有任何一个能长期保持连贯的策略。许多模型在模拟结束前就破产了。 只有三个模型的最佳运行结果超过了起始资本一百万美元：Claude Fable 5 获得 4715 万美元，Claude Opus 4.8 获得 2780 万美元，GPT-5.5 获得 2130 万美元。Claude Fable 5 是唯一一个在不止一次运行中超过起始资本的模型。 不过，有一个注意事项。一次 Fable 5 的运行因模型拒绝继续而中止，另外两次运行中，部分请求回退到了 Opus 4.8。GPT-5.5 在三次运行中有两次破产。 在 500 天的模拟中，Claude 模型手头现金达到最高 4715 万美元，其次是 GPT-5.5。多个智能体在运行结束前破产。| 图片：Chen, Narasimhan, Liu 最具说服力的比较对象是一个简单的基于规则的启发式方法，它完全不调用大语言模型。该方法设
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 07:44]
 标题: 新浪开源VibeThinker-3B：推理可压缩，事实知识不能
@@ -46,49 +56,45 @@
 链接: https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8
 正文: 最有可能用自动化取代你工作的那些公司，现在正资助一项 10 亿美元的计划来对你进行再培训。 托米斯拉夫·贝兹马利诺维奇 Jun 27, 2026 Nano Banana Pro 由 THE DECODER 提供提示 关键要点 美国前商务部长吉娜·雷蒙多创立了一个名为“Raise Us”的无党派组织，旨在帮助美国劳动者为人工智能驱动的经济做好准备。 目标：为再培训和继续教育项目筹集 10 亿美元。目前已确保筹集到其中一半的资金。 大型科技公司正在支持这一努力。亚马逊、Anthropic、微软和 OpenAI 都是支持者，这引发了关于其独立性的明显问题，因为这些公司正是从人工智能广泛普及中受益最大的企业。 美国前商务部长吉娜·雷蒙多和前印第安纳州州长埃里克·霍尔科姆共同发起了“Raise Us”，这是一个由二十多家大型企业和四位州长支持的两党非营利组织。 该组织旨在筹集 10 亿美元，以帮助美国劳动者为人工智能驱动的经济做好准备。雷蒙多将担任首席执行官。作为参照，谷歌、亚马逊、微软和 Meta 今年计划在人工智能上总共花费 7250 亿美元。 “美国在引领全球人工智能竞争方面有一套技术战略，但还没有一套人才战略——没有人才战略，我们就无法领先，”雷蒙多在启动会上表示。“如果我们建造出世界上最好的人工智能系统，却让数百万美国人掉队，那我们什么也没赢到；我们只是把自己的衰落自动化了。” 该组织计划为企业再培训和留任创造新的激励措施，与各州州长共同启动试点项目，并根据雇主不断变化的需求调整培训模式。衡量成功的标准是劳动者能否获得并保住稳定且收入可观的工作。 人工智能领域的竞争对手首次共同资助一项劳动力计划 Raise Us 引人注目之处在于谁在为其买单。根据公告，亚马逊、Anthropic、微软和 OpenAI 基金会都在支持这项计划。雷蒙多表示，这是领先的人工智能开发者首次共同资助一项独立的计划来支持劳动力转型。美国银行是主要赞助商，资助了一个面向先进制造业的学徒项目。 其他支持者包括 ADP、AMD、Autodesk、黑石、思科、Cognizant、德勤、礼来、通用汽车、IBM、万事达卡、ServiceNow、UPS 和 Workday。在公益方面则有：洛克菲勒基金会、Arnold Ventures、Pritzker Traubert 基金会和 Stephen A. Schwarzman 基金会。Raise Us 的目标是筹集10亿美元的多年期承诺捐款。据《纽约时报》报道，目前已锁定5亿美元。 这种资金结构自然会引发关于独立性的疑问。参与的许多公司要么直接从人工智能的快速普及中获利，要么正在积极推动这一进程。Raise Us 本应为人工智能可能导致的失业问题开发解决方案，但其资金主要来源于那些正是引发这一冲击的公司。 试点项目在四个州启动 Raise Us 首先在阿肯色州、康涅狄格州、马里兰州和犹他州建立合作伙伴关系。选择这些州有意体现了跨党派特色：州长包括 Sarah Huckabee Sanders（共和党，阿肯色州）和 Spencer Cox（共和党，犹他州），以及 Ned Lamont（民主党，康涅狄格州）和 Wes Moore（民主党，马里兰州）。 这些试点项目重点在于促进职业转型，帮助人们了解哪些岗位仍有需求、这些工作需要哪些技能，以及如何转入这些岗位。在阿肯色州，Raise Us 正在支持一个名为 Arkansas LAUNCH 的人工智能驱动的职业导航平台，该平台将学生和求职者与个性化学习路径以及与企业关联的职业轨道路径连接起来。 据《纽约时报》报道，在马里兰州，该州面向高中应届毕业生的 Service Year 项目将扩展到医疗保健等面临劳动力短缺的行业。该组织还计划在当地设立一个面向创新职业转型模式的竞争性资金池，并设立一个加速器项目，帮助失业人员自主创业。 据《纽约时报》报道，在其他州，Raise Us 希望为那些接受低薪工作而非完全退出劳动力队伍的劳动者提供"工资保险"。 该组织的工作围绕四大支柱展开 Raise Us 分为四个领域。“州级合作伙伴关系”旨在通过学徒制和短期证书等方式，使州教育与劳动力项目更紧密地对接雇主需求。公共资金将更多地取决于参与者是否实际找到工作，而不仅仅是入学人数。 “雇主联盟”汇集了使用人工智能的企业，共同开发再培训和留任的试点项目。据《纽约时报》报道，微软已经测试了一种模式：该公司培训跨部门的初级法律人员，并教授他们AI技能，以便他们能在技术变革时更容易地转向新岗位。“几乎我们所有的岗位都可以这样做，”微软副董事长布拉德·史密斯表示。 “教育与培训”旨在推广AI驱动的培训模式，将实践经验与证书相结合，并提供比传统大学更便宜的替代方案。“政策实验室”将开发和测试新的政策方法。该实验
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:30]
-标题: Missouri dad stashes stocks in a coffee can for his 3 daughters. He says with time, they’ll grow to $500 million
-链接: https://finance.yahoo.com/markets/stocks/articles/missouri-dad-stashes-stocks-coffee-103000092.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 12:30]
+标题: The top 10 wealthiest US suburbs have average incomes as high as $612K, but experts warn they're magnets for crime
+链接: https://finance.yahoo.com/real-estate/articles/top-10-wealthiest-us-suburbs-123000510.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 10:45]
-标题: Regret taking Social Security at 62? What to do if the decision haunts you (and why younger Boomers must take notice)
-链接: https://finance.yahoo.com/markets/articles/regret-taking-social-security-62-104500328.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 12:45]
+标题: Why OpenAI’s Delayed IPO Filing May Have Just Been the Death Knell for AI Stocks in 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/why-openai-delayed-ipo-filing-124501701.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:00]
-标题: I inherited gold and silver worth tens of thousands — but with no receipts, how do I find out what it’s worth?
-链接: https://finance.yahoo.com/markets/commodities/articles/inherited-gold-silver-worth-tens-110000996.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
+标题: Court appoints receiver for Golub, BlueFive’s Mag Mile office
+链接: https://finance.yahoo.com/real-estate/articles/court-appoints-receiver-golub-bluefive-130000780.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:08]
-标题: This is not what a risk-off month usually looks like: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
+标题: ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs
+链接: https://finance.yahoo.com/real-estate/articles/paycheck-not-key-independence-nearly-130000894.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:15]
-标题: The number of Americans joining the 401(k) millionaire club is hitting record highs — here’s how you can join in too
-链接: https://finance.yahoo.com/markets/options/articles/number-americans-joining-401-k-111500997.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
+标题: Amazon Stock Fans Can Thank Gen AI for a Successful Prime Day, New Data Shows
+链接: https://finance.yahoo.com/markets/stocks/articles/amazon-stock-fans-thank-gen-130002671.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
-标题: NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
+标题: A $2.7 Trillion Reason Intel Stock Just Got a New Street-High Price Target
+链接: https://finance.yahoo.com/markets/stocks/articles/2-7-trillion-reason-intel-130002280.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
-标题: Eli Lilly (LLY) Announces Positive Phase 3 Results for Jaypirca Combination in Relapsed CLL/SLL
-链接: https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-announces-positive-112148243.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 10:00]
+标题: HELOC and home equity loan rates Sunday, June 28, 2026: See the best HELOC and HEL lenders for June '26
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-sunday-june-28-2026-see-the-best-heloc-and-hel-lenders-for-june-26-100000148.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
-标题: Comfort Systems USA (FIX) Announces Leadership Transitions Effective July 1
-链接: https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-announces-112153414.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 10:00]
+标题: Mortgage and refinance interest rates today, Sunday, June 28, 2026: Rates down since Monday
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-june-28-2026-rates-down-since-monday-100000347.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:21]
-标题: Viking (VIK) Announces Delivery of New River Ships Viking Annar and Viking Fjolvar
-链接: https://finance.yahoo.com/markets/stocks/articles/viking-vik-announces-delivery-river-112159043.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 10:00]
+标题: Best CD rates today, Sunday, June 28, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-28-2026-lock-in-up-to-410-apy-100000956.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:22]
-标题: Alamos Gold (AGI) Reports High-Grade Drilling Results at Island Gold Mine
-链接: https://finance.yahoo.com/markets/stocks/articles/alamos-gold-agi-reports-high-112210663.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 11:22]
-标题: Here is Why Samsara (IOT) is One of the High Growth Stocks to Buy Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/why-samsara-iot-one-high-112216841.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 10:00]
+标题: Best high-yield savings interest rates today, Sunday, June 28, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-28-2026-earn-up-to-410-apy-100000604.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 15:00]
 标题: Why investors may want to prioritize bond markets outside the U.S.
@@ -105,10 +111,10 @@
 链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
 正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 10:21]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 12:12]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 10:21]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 12:12]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
