@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-29 21:17:48
-# 共计 36 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-29 22:47:50
+# 共计 44 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-29 18:00]
 标题: AI agents are not your “coworkers”
@@ -19,6 +19,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-29 18:02]
 标题: DiScoFormer: One transformer for density and score, across distributions
 链接: https://huggingface.co/blog/allenai/discoformer
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:22]
+标题: 为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway
+链接: https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq
+正文: Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。 🔗 阅读原文：https://claude.com/blog/introducing-the-claude-apps-gateway
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:06]
+标题: 美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练
+链接: https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy
+正文: 在 @OpenRouter 上最受欢迎的模型（10万亿 token）实际上是 @Meituan_LongCat（中国的超级应用/DoorDash）的一个1.6万亿参数 MoE 模型。 基本达到 Gemini / Opus 4.6 的水平。 35万亿 token 完全在5万块中国 ASIC 上训练。 无需 GPU。 https://longcat.chat/blog/longcat-2.0/ 你们有些人猜对了。👀 @OpenRouter 上的 Owl Alpha —— 就是我们。 自上线以来，它在日活量上已进入全球前三，并在月活量上位列 Hermes Agent 第一、Claude Code 第二、OpenClaw 第三。 感谢所有在隐身期内测试和使用 Owl Alpha 的人——你们帮助塑造了接下来要推出的产品。 Owl Alpha 即将退役。但这并非终点——敬请期待！
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:00]
 标题: Rubin Ultra取消，新版尺寸性能减半
@@ -122,13 +132,33 @@
 标题: Analyst Report: Owens Corning
 链接: https://finance.yahoo.com/research/reports/ARGUS_3720_AnalystReport_1782753340000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 11:08]
-标题: Analyst Report: Best Buy Co Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1782731300000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
 标题: HELOC and home equity loan rates, Monday, June 29, 2026: Current HELOC rate is 61 basis points lower than HEL rate
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-monday-june-29-2026-current-heloc-rate-is-61-basis-points-lower-than-hel-rate-100000263.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Best CD rates today, Monday, June 29, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-29-2026-lock-in-up-to-410-apy-100000246.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Best high-yield savings interest rates today, Monday, June 29, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-29-2026-earn-up-to-410-apy-100000306.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:12]
+标题: Gold prices today, Monday, June 29: Holding at last week's levels ahead of June jobs report
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-29-holding-at-last-weeks-levels-ahead-of-june-jobs-report-121244273.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:38]
+标题: Silver prices today, Monday, June 29, 2026: Silver prices trending lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-29-2026-silver-prices-trending-lower-123846297.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:23]
+标题: Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 18:17]
 标题: Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more
@@ -151,6 +181,11 @@
 正文: Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-29 00:00]
+标题: Plan for midstream adjustments
+链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/plan-for-midstream-adjustments
+正文: It’s normal for companies to encounter unique issues throughout their technology and AI transformation journey. The key is being prepared to adapt.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-29 00:00]
 标题: Global Economics Intelligence executive summary, May 2026
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
 正文: As energy prices trend higher and drive inflation, consumer confidence is ebbing—and central banks have a dilemma: whether to tackle inflation by raising policy rates or ease them to provide a stimulus.
@@ -165,10 +200,10 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-a-new-investor-survey-reveals-about-consensus-estimates
 正文: New findings show misses matter only when they signal a weaker outlook. Plus, guidance on disclosures, earnings calls, and long-term communication.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 21:17]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 22:47]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 21:17]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 22:47]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
