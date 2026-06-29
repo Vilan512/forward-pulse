@@ -1,5 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-06-29 05:24:06
-# 共计 10 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-29 10:24:46
+# 共计 60 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 10:04]
+标题: Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制
+链接: https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt
+正文: 安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。一个看似正常的 GitHub 仓库包含 setup 脚本，该脚本运行时从 DNS 条目拉取命令并执行，恶意代码从未存在于仓库中，对扫描器、代码审查和 AI 智能体不可见。开发者使用 Claude Code 等 AI 编码工具打开该仓库时，Claude Code 在设置过程中遇到常规错误消息后自动运行该脚本，打开反向 shell，攻击者可窃取 API 密钥和登录凭据并维持持久访问。研究人员建议 AI 智能体应在运行前显示 setup 脚本内容，开发者应将第三方仓库的 setup 说明视为不受信任代码。 🔗 阅读原文：https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 09:27]
+标题: 国务院印发《教育发展"十五五"规划》，推进人工智能全学段教育
+链接: https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv
+正文: 国务院日前印发《教育发展"十五五"规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。规划明确完善科学教育体系，强化科技教育与人文教育协同，加强青少年科学素养、批判性思维和创新能力培养。同时实施学生体质强健计划、心理健康促进行动，加大拔尖创新人才自主培养力度，推动学科交叉融合，扩大优质本科招生规模。目标到2030年高质量教育体系基本建成。 🔗 阅读原文：https://www.ithome.com/0/970/097.htm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 08:17]
+标题: 三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格
+链接: https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k
+正文: 在韩国政府支持下，三星和SK海力士计划投入5900亿美元扩大芯片产能，包括800万亿韩元新建四座工厂、81万亿韩元建封装中心，以及未来15年30万亿韩元用于研发下一代芯片。AI数据中心需求是主要驱动力。Jefferies预测，2026年Q3内存价格将上涨40%至50%，Q4再涨30%至40%，2027年继续上涨40%至45%，到2028年新产能仅上线15%至20%才可能缓解。两家公司合计控制全球近80%的高带宽内存芯片市场。内存涨价已推高消费电子产品成本，苹果已上调Mac和MacBook售价。 🔗 阅读原文：https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 06:44]
+标题: SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元
+链接: https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9
+正文: SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。 🔗 阅读原文：https://www.ithome.com/0/969/953.htm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 02:08]
 标题: 分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查
@@ -21,29 +41,212 @@
 链接: https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3
 正文: Grok 4.5 基于我们的 1.5T V9 基础模型，并在补充训练中加入了 Cursor 数据，目前已在 SpaceX 和 Tesla 进入私有测试阶段。早期评估显示其性能接近，甚至可能超越 Opus。 强化学习仍在持续显著改进模型，而 Grok Build 工具链也在逐日优化。 所有参与人员都干得很棒！ 今年，@SpaceX 将每月发布完全从零训练的全新模型。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 10:16]
-标题: 仅有三个AI模型在500天创业测试中盈利超过起始资本
-链接: https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo
-正文: 普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。 🔗 阅读原文：https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 07:44]
-标题: 新浪开源VibeThinker-3B：推理可压缩，事实知识不能
-链接: https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011
-正文: 新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出"参数压缩-覆盖假说"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。 🔗 阅读原文：https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 18:17]
 标题: IRMAA hits retirees two years after property sale
 链接: https://finance.yahoo.com/healthcare/articles/irmaa-hits-retirees-two-years-181700890.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:09]
+标题: Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation
+链接: https://finance.yahoo.com/news/exclusive-apple-accuses-india-copy-095932181.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: HELOC and home equity loan rates, Monday, June 29, 2026: Current HELOC rate is 61 basis points lower than HEL rate
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-monday-june-29-2026-current-heloc-rate-is-61-basis-points-lower-than-hel-rate-100000263.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Best CD rates today, Monday, June 29, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-29-2026-lock-in-up-to-410-apy-100000246.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:09]
+标题: 1 Stock To Buy For The Trillion-Dollar Space Economy (Hint: It's Not SpaceX)
+链接: https://finance.yahoo.com/markets/stocks/articles/1-stock-buy-trillion-dollar-100900176.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Best high-yield savings interest rates today, Monday, June 29, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-29-2026-earn-up-to-410-apy-100000306.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Americans may not reach financial independence until age 37 — and a viral trend called 'moneymaxxing' aims to fix that
+链接: https://finance.yahoo.com/markets/articles/americans-may-not-reach-financial-100000763.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:58]
+标题: Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now?
+链接: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-growth-095843511.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 22:42]
+标题: Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran reportedly call a halt to attacks
+链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:08]
+标题: Waymo forms German unit ahead of possible European expansion
+链接: https://finance.yahoo.com/technology/articles/waymo-forms-german-unit-ahead-100807101.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:30]
+标题: A grandma wants to gift $50K in stock for her grandson's college — but $25,000 in hidden gains could trigger a tax trap
+链接: https://finance.yahoo.com/markets/stocks/articles/grandma-wants-gift-50k-stock-093000492.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:30]
+标题: Are you richer than you think? 5 clear signs you’re doing better than the average American in 2026
+链接: https://finance.yahoo.com/markets/articles/richer-think-5-clear-signs-093000739.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:20]
+标题: Aker Solutions Wins Hydropower Contract for 150 MW Tussa II Plant
+链接: https://finance.yahoo.com/energy/articles/aker-solutions-wins-hydropower-contract-092000346.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:05]
+标题: Here are the 20 best employers for new graduates
+链接: https://finance.yahoo.com/small-business/articles/20-best-employers-graduates-100529661.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:05]
+标题: Banks get creative and look further afield as AI-fueled debt soars
+链接: https://finance.yahoo.com/markets/stocks/articles/banks-creative-look-further-afield-090554702.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 08:54]
+标题: Dollar set for best month in nearly a year as bulls grow confident
+链接: https://finance.yahoo.com/news/dollar-poised-best-month-nearly-015012839.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 11:56]
+标题: 'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally
+链接: https://finance.yahoo.com/markets/article/we-dont-view-this-as-a-bubble-that-will-pop-soon-wall-street-weighs-surging-ai-costs-on-stock-market-rally-115642288.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 11:55]
+标题: Emerging markets are now an AI chip trade: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/emerging-markets-are-now-an-ai-chip-trade-chart-of-the-day-115540648.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:03]
+标题: Micron Stock Has Soared by More Than 12X. Can It Double Again?
+链接: https://finance.yahoo.com/markets/stocks/articles/micron-stock-soared-more-12x-100300122.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 08:21]
+标题: Oil steadies as US and Iran agree to halt attacks
+链接: https://finance.yahoo.com/news/oil-climbs-following-renewed-us-233412520.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 08:20]
+标题: Stocks perk up and oil cools as US and Iran halt hostilities
+链接: https://finance.yahoo.com/markets/articles/stocks-adrift-oil-us-iran-014817134.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:55]
+标题: JPMorgan Lowers Q2 Delivery Estimates for Tesla (TSLA), Here’s What You Need to Know
+链接: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-q2-delivery-estimates-075559952.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:55]
+标题: BofA Raises PT on UnitedHealth Group (UNH), Keeps a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/bofa-raises-pt-unitedhealth-group-075550617.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: ACCA, AFIAAR sign MoU to boost “accountancy quality” in Africa
+链接: https://finance.yahoo.com/economy/policy/articles/acca-afiaar-sign-mou-boost-100049663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:55]
+标题: Eli Lilly and Company (LLY) Up More Than 6% Over the Past Month, Can it Move Higher?
+链接: https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-more-075527794.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:55]
+标题: Citizens Maintain a Market Perform Rating on Netflix (NFLX)
+链接: https://finance.yahoo.com/markets/stocks/articles/citizens-maintain-market-perform-rating-075514711.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:55]
+标题: Visa Inc (V) Launches a New Travel Destination Platform
+链接: https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-launches-travel-075506602.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: Meta Platforms (META) To Launch a New Line of Smart Glasses and This Time They are Cheaper
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-launch-line-075457577.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: Warner Discovery boss is again among highest-paid CEOs in America
+链接: https://finance.yahoo.com/media-advertising/articles/warner-discovery-boss-again-among-100000156.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: Jefferies Maintain a Buy Rating on Alphabet (GOOGL)
+链接: https://finance.yahoo.com/markets/stocks/articles/jefferies-maintain-buy-rating-alphabet-075448489.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: NVIDIA (NVDA) CEO Says National Security Takes Priority Over Commercial Opportunity
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-says-national-075441754.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: Stifel Lowers PT on Microsoft (MSFT), Maintains a Hold Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/stifel-lowers-pt-microsoft-msft-075430039.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: Amazon.com (AMZN) Partners With Nokia, Here’s What You Need to Know
+链接: https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-partners-nokia-075421188.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:51]
+标题: Sarvam AI, ICAI partner to build CA-focused language model
+链接: https://finance.yahoo.com/technology/ai/articles/sarvam-ai-icai-partner-build-095146729.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: B. Riley Raises PT on Ichor Holdings (ICHR), Keeps a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/b-riley-raises-pt-ichor-075413309.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:54]
+标题: TD Cowen Raises PT on Allegro MicroSystems (ALGM)
+链接: https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-pt-allegro-075405086.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Ambarella (AMBA) Among Our High Growth Semiconductor Stocks, Here’s What Northland Securities Has to Say
+链接: https://finance.yahoo.com/technology/ai/articles/ambarella-amba-among-high-growth-075357586.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Kulicke and Soffa Industries (KLIC) Up More Than 13% Over the Past Month, Here’s Why
+链接: https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-industries-klic-more-075348553.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:49]
+标题: Verizon, Britain’s BT to Form International Connectivity Joint Venture
+链接: https://www.wsj.com/business/deals/bt-verizon-to-form-international-joint-venture-556f9848?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Here’s What B. Riley Thinks About FormFactor (FORM)
+链接: https://finance.yahoo.com/markets/stocks/articles/b-riley-thinks-formfactor-form-075341999.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: nLIGHT (LASR) Down More than 21% Over the Past Month, Should You Still Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/nlight-lasr-down-more-21-075334190.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Stifel Raises PT on Astera Labs (ALAB)
+链接: https://finance.yahoo.com/markets/stocks/articles/stifel-raises-pt-astera-labs-075325963.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Stifel Raises PT on Analog Devices (ADI), Keeps a Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/stifel-raises-pt-analog-devices-075318279.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 09:47]
+标题: Stocks to Watch: BAT, Palantir Technologies, Verizon
+链接: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026/card/stocks-to-watch-bat-palantir-technologies-verizon-HcTnrHw9yKASquT0iDnD?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:53]
+标题: Here’s What Bank of America Securities Thinks About Intel (INTC)
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-thinks-intel-075308174.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:52]
+标题: BofA Raises PT on Lam Research (LRCX), Keeps a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/bofa-raises-pt-lam-research-075259611.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 07:52]
+标题: UBS Raises PT on Advanced Micro Devices (AMD)
+链接: https://finance.yahoo.com/markets/stocks/articles/ubs-raises-pt-advanced-micro-075250173.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 10:00]
+标题: China's economy picks up in June on rebounding U.S. exports, analysts say
+链接: https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html
+正文: China's economy is showing signs of picking up after a sluggish few months — thanks in part to a rebound in shipments to the U.S.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-28 12:23]
 标题: These 10 Chinese stocks are powering U.S. data centers
 链接: https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html
 正文: Many of the top-performing mainland Chinese stocks this year make components used in data centers globally, according to 22V Research.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 05:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 10:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 05:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 10:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
