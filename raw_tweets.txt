@@ -1,10 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-06-29 14:42:36
-# 共计 65 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-29 17:28:41
+# 共计 64 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-29 14:44]
+标题: Agent confidence on the technical frontier
+链接: https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/
+正文: Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents exists in the tech function, where IT infrastructure costs are projected to grow two to three times by 2030, even as budgets remain unchanged, according to McKinsey. And in the last 18 months, tech teams—the engineers, developers, architects, and other practitioners who are building, deploying, and continually improving their organizations’ infrastructure and applications—are clearly putting agents to work. DOWNLOAD THE REPORT The ultimate promise of agents is not only to automate tasks but to manage and coordinate entire workflows, pursuing business goals in a way that allows humans and agents to work together. Given the risks involved in automated decision-making, teams cannot delegate the work that agents do without confidence that they are fully capable of performing the task and that it will do so in a safe, reliable, and secure manner. Among technology experts, our research shows that teams are exceedingly confident about using agentic AI across a significant amount of AI, data, and cloud tasks. Where agent readiness drops is largely due to a lack of business context being supplied to agentic systems. The more complex the task, the more reasoning capability an agent requires and the greater its need for business context. Such context-generation capabilities for agents are still at an early stage of development, especially in situations where enterprise data is difficult to wrangle and connect into the agent lifecycle at the speed and quality in which developers and executives need it. Human oversight is a key factor of success in deploying agentic AI. Knowing that tech teams are in a pivotal position to 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-29 12:10]
 标题: The Download: metric weaknesses and AI elephant warnings
 链接: https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten by the self-quantifying bug, I started gathering personal data to pursue a nebulous collection of goals and desires. I wanted to feel better physically and emotionally, get outside more, and bring order to the messiness and uncertainty of my daily existence. But external metrics and data can never capture what&#8217;s truly important. Worse, they inevitably redefine your core sense of what&#8217;s important, whether you&#8217;re aware of the trap or not. Dive into the dangers of quantifying our lives with metrics. —Bryan Gardiner This story is from the next edition of our magazine, which is all about engineering. Subscribe now to get a copy when it lands! Elephant alert! AI warning systems aim to avoid deadly clashes India is home to about 60% of the world’s wild Asian elephants, and around 80% of their habitat lies outside protected areas. That brings them into close contact with people, and clashes can turn lethal: there have been some 3,000 human casualties in the last five years and over 1,000 elephant deaths since 2014. In response, state forest departments, NGOs, and locals are designing, testing, and deploying a range of AI systems that cut response and warning times to minutes—or even seconds. They range from wildlife eyes in Maharashtra to infrared drones in Chhattisgarh. Find out how they work in our interactive map. —Kanika Gupta The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 The US has allowed Anthropic to release Mythos 5 to “trusted” orgsAbout 100 US companies and federal agencies now have access. (Semafor)+ The White House said appropriate safeguards were now i
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 15:04]
+标题: Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式
+链接: https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002
+正文: Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部分时间都在调试和维护已有的生产提示词。 她用两个真实场景演示了这件事。 第一个场景是客服机器人的维护。 团队接手了一个已经在跑的提示词，第一步不是改内容，而是做结构化清理——用XML标签把角色、政策、语气、指南分开，移除冗余补丁，明确输出格式。 然后她发现了一个经典陷阱。 团队之前为旧模型加了一条"禁止列表"指令，告诉模型不要提供某些信息。 换到新模型后，这条指令导致模型过度拟合——它开始隐瞒自己其实能提供的信息。 旧模型需要这条指令是因为能力不够，新模型不需要了，但指令还在。 另一个发现是：当模型需要做精确计算时，提示词里的"请仔细计算"没有用。 要给它工具。让模型调用计算器，比让它在脑子里算靠谱得多。 升级转人工的决策也是个坑。如果提示词只告诉模型"用户不满就转人工"，模型会过度优化这一边，把所有对话都转出去。 正确做法是把代价和收益两面都说清楚，转人工的成本是什么，不转的风险是什么，让模型自己权衡。 第二个场景是从零构建零售排班Agent。 团队最初的方案是写一个复杂提示词，把所有逻辑塞进去。结果频繁失败。 更好的方式是拆成三个简单提示词，组成生成-评估-修复循环。 第一个负责生成排班方案，第二个负责评估方案是否合规，第三个负责修复问题。 每个提示词只做一件事，组合起来比一个大提示词稳定得多。 她还提到了模型选择。 团队测试发现，用更强的推理模型（Opus）加自适应思考，效果往往比小模型加复杂提示词更好。不是所有场景都需要优化成本，有时候用更好的模型反而是最省事的方案。 她反复强调一句话：评估是唯一能告诉你改动是否真正有效的严谨方式。 没有评估，就只是在碰运气。 这句话适用于所有做AI应用的人。 大部分人改提示词的方式是"感觉这样写更好"，然后上线看效果。但"感觉"不是评估。 你需要一个可量化的基准，每次改动后跑一遍，才能确定到底是变好了还是变差了。 [引用 @berryxia]：睡前来一发，这个视频还是挺完美的。 Anthropic的应用AI工程师Margot Van Laar在Code with Claude分享了提示词工程的实战手册。 核心观点是：我们很少从零写提示词，大部分时间都在调试和维护已有的生产提示词。 最好的起点永远是评估（Eval），而不是直接改提示词。 她用两个真实场景演示了最佳实践： 1. 维护已有提示词**（客服机器人） - 先做通用清理：用XML标签结构化（角色/政策/语气/指南分开）、移除冗余补丁、明确输出格式。 - 常见陷阱：以前为旧模型加的“禁止列表”指令，在新模型上会过度拟合，导致模型隐瞒它其实能提供的信息。 - 当模型需要做精确计算时，指令没用，要给它工具。 - 升级/转人工的决策，要把代价和收益两面都说清楚，否则模型会过度优化某一边。 2. 从零构建新Agent（零售排班） - 单一复杂提示词容易失败。 - 更好的方式是拆成生成-评估-修复循环，让三个简单提示词各司其职。 - 模型选择很重要：更强的推理模型（Opus）+ 自适应思考，往往比小模型+复杂提示词更高效。 她反复强调：评估是唯一能告诉你改动是否真正有效的严谨方式。 没有评估，就只是在碰运气。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 14:03]
 标题: Herdr：驻留在终端中的AI智能体多路复用器
@@ -61,199 +71,178 @@
 链接: https://aihot.virxact.com/items/cmqykzeht02shslivflwhgdbx
 正文: 作者分享Vibe Coding中两个关键Prompt：一是"从第一性原理出发"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是"对抗式审查"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。 🔗 阅读原文：https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 17:03]
-标题: Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度
-链接: https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk
-正文: 开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron-3-Ultra-550B-A55B-BF16，采用 LatentMoE 架构并改用 OpenMDW 许可证。Cohere 以 Apache 2.0 开源其旗舰模型 Command A+（05-2026-bf16），这是一款 218B-A25B MoE 模型，具备多模态、多语言和智能体能力。 🔗 阅读原文：https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:09]
+标题: SpaceX Stock Options Are Now Cheap With Nasdaq-100 Inclusion Upcoming
+链接: https://www.investors.com/research/options/spacex-stock-spcx-options-trading-nasdaq-100-income-investing-markets/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-28 16:58]
-标题: Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由
-链接: https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx
-正文: Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（--dry-run 无需密钥），以及基准测试和 FAQ。 🔗 阅读原文：https://github.com/itsthelore/wayfinder-router
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 15:10]
+标题: Tech stocks today: Tech stocks halt slide, Google rises after joining the Dow
+链接: https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-halt-slide-google-rises-after-joining-the-dow-151053436.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:14]
-标题: Analysis-Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment
-链接: https://finance.yahoo.com/energy/articles/analysis-iraqs-push-bigger-opec-141406056.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:58]
+标题: FuelCell Energy Stock Breaks Out Bullishly On Government Financing. Bloom Energy Rebounds.
+链接: https://www.investors.com/news/fuelcell-energy-stock-soars-government-financing-bloom-energy-stock-rebounds/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:13]
-标题: Wall Street has sky-high expectations for second quarter earnings
-链接: https://finance.yahoo.com/markets/article/wall-street-has-sky-high-expectations-for-second-quarter-earnings-141310243.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:09]
-标题: Microsoft stock is headed for its worst month since 2000
-链接: https://finance.yahoo.com/markets/article/microsoft-stock-is-headed-for-its-worst-month-since-2000-140904697.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:08]
-标题: Here’s Why nLight (LASR) Rallied in Q1
-链接: https://finance.yahoo.com/markets/stocks/articles/why-nlight-lasr-rallied-q1-140812270.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 11:08]
-标题: Analyst Report: Best Buy Co Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1782731300000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 21:03]
-标题: Chevron CFO reveals why gas prices are stuck
-链接: https://finance.yahoo.com/energy/articles/chevron-cfo-reveals-why-gas-210300205.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:06]
-标题: Nike stock has cratered to its lowest level in over 11 years
-链接: https://finance.yahoo.com/markets/stocks/article/nike-stock-has-cratered-to-its-lowest-level-in-over-11-years-140632929.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:03]
-标题: Comcast Pares Gains Amid Company Split. Is More M&A Coming?
-链接: https://www.investors.com/news/technology/comcast-stock-soars-on-company-split-as-cable-tv-giants-makeover-continues/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:03]
-标题: Rocket Lab Stock Soars After Acquiring Satellite Company Iridium Communications
-链接: https://www.investors.com/news/rocket-lab-iridium-communications-spacex-space-satellite/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:02]
-标题: Here’s Why California Resources Corporation (CRC) Excelled in Q1
-链接: https://finance.yahoo.com/energy/articles/why-california-resources-corporation-crc-140212353.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:53]
-标题: Market Digest: BBY, BRSL
-链接: https://finance.yahoo.com/research/reports/ARGUS_47457_MarketSummary_1782730400000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:53]
+标题: Stock Market Today: Dow Rises; Trump Fed Firing Blocked; Nvidia Tests Key Level Amid Slide (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-stock-nasdaq-100/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 01:28]
 标题: 79-year-old fashion retailer closed 136 stores, killed one of its brands
 链接: https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:52]
-标题: Bitcoin ETFs Suffer Worst Month Ever
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-suffer-worst-month-135200570.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:51]
+标题: Tech giants are not going to slash their AI spending plans, bullish tech analyst says
+链接: https://finance.yahoo.com/markets/article/tech-giants-are-not-going-to-slash-their-ai-spending-plans-bullish-tech-analyst-says-165146278.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:51]
-标题: Speaker Johnson warns of 'desperate times' for Social Security — and Democrats say that means benefit cuts
-链接: https://finance.yahoo.com/economy/policy/articles/speaker-johnson-warns-desperate-times-135119526.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:39]
+标题: Borr Drilling (BORR) Director Buys $5.0M in Shares
+链接: https://finance.yahoo.com/markets/stocks/articles/borr-drilling-borr-director-buys-163923904.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:48]
-标题: BitMEX CEO And CFO Resign From The Crypto Exchange
-链接: https://finance.yahoo.com/markets/crypto/articles/bitmex-ceo-cfo-resign-crypto-134800710.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:39]
+标题: i-80 Gold (IAUX) Terminates Gold Offtake Deal
+链接: https://finance.yahoo.com/markets/commodities/articles/80-gold-iaux-terminates-gold-163912383.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:47]
-标题: Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-stock-nasdaq-100/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:39]
+标题: Is Real Brokerage (REAX) the Best High Growth Penny Stock to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/real-brokerage-reax-best-high-163905575.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-28 21:03]
+标题: Chevron CFO reveals why gas prices are stuck
+链接: https://finance.yahoo.com/energy/articles/chevron-cfo-reveals-why-gas-210300205.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:38]
+标题: Ur-Energy (URG) Completes 100th Uranium Shipment from Lost Creek
+链接: https://finance.yahoo.com/markets/stocks/articles/ur-energy-urg-completes-100th-163856337.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:38]
+标题: Comstock (LODE) Selects Ohio for Solar Panel Recycling Facility
+链接: https://finance.yahoo.com/energy/articles/comstock-lode-selects-ohio-solar-163847480.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:38]
+标题: Here’s Why Nano Dimension (NNDM) is Among the 8 High Growth Penny Stocks to Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/why-nano-dimension-nndm-among-163840807.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:38]
+标题: Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products
+链接: https://finance.yahoo.com/technology/ai/articles/satellogic-satl-synmax-partner-ai-163831818.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:16]
+标题: Alphabet Adds $168 Billion on Dow Debut as Indexes Shake Off Volatility
+链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-adds-168-billion-dow-171633200.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:38]
+标题: HIVE Digital (HIVE): The Best High Growth Penny Stock to Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/hive-digital-hive-best-high-163825037.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:22]
+标题: Micron Slides. Are Memory-Chip Makers Illegally Price-Gouging Customers?
+链接: https://www.investors.com/news/technology/micron-stock-falls-price-fixing-lawsuit/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:18]
+标题: Martin Marietta's $13.5 Billion AI Megaproject Bid
+链接: https://www.investors.com/news/martin-marietta-lhoist-north-america/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:17]
+标题: The Boston Beer Company (SAM) Gained from Improved Industry Data
+链接: https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-sam-gained-161733514.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 11:08]
+标题: Analyst Report: Best Buy Co Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1782731300000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:13]
+标题: Prediction: Micron Technology Stock Is Going to $3,900 in 1 Year After Its Blowout Quarter
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-micron-technology-stock-going-171300495.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:17]
+标题: Strategy Opens Door to Bitcoin Sales as Treasury Model Faces Pressure
+链接: https://finance.yahoo.com/markets/crypto/articles/strategy-opens-door-bitcoin-sales-161700934.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:15]
+标题: Truist Raises its Price Target on Equity Residential (EQR)
+链接: https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-equity-161517450.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:15]
+标题: Wells Fargo Upgrades Invitation Homes (INVH) to Overweight
+链接: https://finance.yahoo.com/real-estate/articles/wells-fargo-upgrades-invitation-homes-161508095.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: Is Sun Communities (SUI) the Best Interest Rate Sensitive Stock to Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/sun-communities-sui-best-interest-161459772.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:53]
+标题: Market Digest: BBY, BRSL
+链接: https://finance.yahoo.com/research/reports/ARGUS_47457_MarketSummary_1782730400000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:10]
+标题: Is bitcoin really an inflation hedge? Experts say there’s little proof
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-really-inflation-hedge-experts-171047533.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: BMO Capital Upgrades American Homes (AMH) to Outperform
+链接: https://finance.yahoo.com/real-estate/articles/bmo-capital-upgrades-american-homes-161453916.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: Here’s Why Host Hotels & Resorts (HST) is Among the 10 Interest Rate Sensitive Stocks to Buy Now
+链接: https://finance.yahoo.com/markets/stocks/articles/why-host-hotels-resorts-hst-161447819.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: RBC Capital Keeps Outperform Rating on Carvana (CVNA)
+链接: https://finance.yahoo.com/markets/stocks/articles/rbc-capital-keeps-outperform-rating-161438855.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: Ryman Hospitality (RHP) Evaluates OEG Partnership Opportunities
+链接: https://finance.yahoo.com/real-estate/articles/ryman-hospitality-rhp-evaluates-oeg-161429069.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:41]
 标题: Daily – Vickers Top Insider Picks for 06/29/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47455_InsiderActivity_1782729689000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:44]
-标题: Eni Joins Vaca Muerta Venture to Advance Argentina LNG Project
-链接: https://finance.yahoo.com/energy/articles/eni-joins-vaca-muerta-venture-134431779.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:09]
+标题: Why Micron Stock Just Dropped
+链接: https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-just-dropped-170946697.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:44]
-标题: BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform
-链接: https://www.investors.com/news/technology/jefferies-starts-quantinuum-stock-qnt-buy-rating-full-stack-platform/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: Scotiabank Upgrades BXP (BXP) to Outperform
+链接: https://finance.yahoo.com/markets/stocks/articles/scotiabank-upgrades-bxp-bxp-outperform-161421849.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:43]
-标题: 'Magnificent 7' stocks are having a dreadful year
-链接: https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:14]
+标题: Truist Raises its Price Target on Cousins Properties (CUZ)
+链接: https://finance.yahoo.com/real-estate/articles/truist-raises-price-target-cousins-161406089.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:42]
-标题: Elevance Health (ELV) Fell Amid Healthcare Sector Downturn
-链接: https://finance.yahoo.com/healthcare/articles/elevance-health-elv-fell-amid-134222129.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:13]
+标题: AvalonBay (AVB): The Best Interest Rate Sensitive Stock to Buy Now
+链接: https://finance.yahoo.com/real-estate/articles/avalonbay-avb-best-interest-rate-161359586.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:12]
+标题: BofA upgrades global growth forecast as AI boom accelerates: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/bofa-upgrades-global-growth-forecast-as-ai-boom-accelerates-chart-of-the-day-161222422.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:41]
 标题: Daily – Vickers Top Buyers & Sellers for 06/29/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47456_TopBottomInsiderActivity_1782729689000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:25]
-标题: Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought
-链接: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-142500426.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:09]
+标题: Why Axon Enterprise Stock Popped Today
+链接: https://finance.yahoo.com/markets/stocks/articles/why-axon-enterprise-stock-popped-170918314.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:42]
-标题: Bitmine Acquires $43 Million Of Ethereum As Price Slides
-链接: https://finance.yahoo.com/markets/crypto/articles/bitmine-acquires-43-million-ethereum-134200182.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:07]
+标题: Ranpak Holdings Corp. (PACK) Slid on Weak Results
+链接: https://finance.yahoo.com/markets/stocks/articles/ranpak-holdings-corp-pack-slid-160736271.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:40]
-标题: Strategy Announces $2 Billion Stock Buyback Program
-链接: https://finance.yahoo.com/markets/stocks/articles/strategy-announces-2-billion-stock-134000267.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 16:06]
+标题: Airbnb Stock Rises After Analyst Hikes Price Target
+链接: https://www.investors.com/news/technology/airbnb-stock-rises-after-analyst-hikes-price-target/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:38]
-标题: Caterpillar (CAT) Hits Unprecedented Valuation Amid AI Infrastructure Surge
-链接: https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-hits-unprecedented-valuation-133824192.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 17:05]
+标题: Lithium Is on the Rise Again. Does That Make Albemarle a Buy?
+链接: https://finance.yahoo.com/markets/commodities/articles/lithium-rise-again-does-albemarle-170500963.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:35]
-标题: Private equity is struggling with exits, even as the AI deal boom takes over Wall Street
-链接: https://finance.yahoo.com/markets/article/private-equity-is-struggling-with-exits-even-as-the-ai-deal-boom-takes-over-wall-street-133536900.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:39]
-标题: Comcast stock surges as cable giant announces company split
-链接: https://finance.yahoo.com/markets/article/comcast-stock-surges-as-cable-giant-announces-company-split-123931766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:30]
-标题: Meridian Hedged Equity Fund Maintained Its Position in PayPal Holdings (PYPL)
-链接: https://finance.yahoo.com/markets/stocks/articles/meridian-hedged-equity-fund-maintained-133018641.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:28]
-标题: Public Power’s Affordability Edge Faces Its Hardest Test in Years
-链接: https://finance.yahoo.com/energy/articles/public-power-affordability-edge-faces-132851945.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:23]
-标题: Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:22]
-标题: Magnum invests in “bite-size” production
-链接: https://finance.yahoo.com/small-business/articles/magnum-invests-bite-size-production-142235444.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:22]
-标题: Meridian Hedged Equity Fund Holds Firm on Microsoft Corp. (MSFT)
-链接: https://finance.yahoo.com/markets/stocks/articles/meridian-hedged-equity-fund-holds-132242360.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:20]
-标题: ACV Auctions (ACVA) Fell Despite Positive Structural Advantages
-链接: https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-fell-despite-132043453.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:16]
-标题: Royalty Pharma, plc (RPRX) Rallied on Earnings Beat
-链接: https://finance.yahoo.com/markets/stocks/articles/royalty-pharma-plc-rprx-rallied-131626725.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:14]
-标题: Multiple Factors Lifted Equinix (EQIX) in Q1
-链接: https://finance.yahoo.com/markets/stocks/articles/multiple-factors-lifted-equinix-eqix-131456194.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:20]
-标题: Apple Just Made 2 Moves That Could Make It a Long-Term Winner for Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/apple-just-made-2-moves-142000644.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:12]
-标题: Rising Oil Prices and Solid Earnings Drive Chevron Corporation’s (CVX) Surge in Q1
-链接: https://finance.yahoo.com/energy/articles/rising-oil-prices-solid-earnings-131206379.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:07]
-标题: Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands
-链接: https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:38]
-标题: Silver prices today, Monday, June 29, 2026: Silver prices trending lower
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-29-2026-silver-prices-trending-lower-123846297.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:12]
-标题: Gold prices today, Monday, June 29: Holding at last week's levels ahead of June jobs report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-29-holding-at-last-weeks-levels-ahead-of-june-jobs-report-121244273.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: HELOC and home equity loan rates, Monday, June 29, 2026: Current HELOC rate is 61 basis points lower than HEL rate
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-monday-june-29-2026-current-heloc-rate-is-61-basis-points-lower-than-hel-rate-100000263.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Best high-yield savings interest rates today, Monday, June 29, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-29-2026-earn-up-to-410-apy-100000306.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Best CD rates today, Monday, June 29, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-29-2026-lock-in-up-to-410-apy-100000246.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 14:13]
-标题: SpaceX joins Nasdaq-100 index weeks after SPCX IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-index-141339248.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 16:19]
+标题: Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more
+链接: https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-midday-mu-cmcsa-rklb-googl-vz.html
+正文: These are the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 11:40]
 标题: Stocks making the biggest moves premarket: Comcast, Rocket Lab, Charter Communications & more
@@ -270,10 +259,20 @@
 链接: https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html
 正文: Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 14:42]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-29 00:00]
+标题: Global Economics Intelligence executive summary, May 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
+正文: As energy prices trend higher and drive inflation, consumer confidence is ebbing—and central banks have a dilemma: whether to tackle inflation by raising policy rates or ease them to provide a stimulus.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-29 00:00]
+标题: African bedrock: How the continent’s minerals can help power the world
+链接: https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world
+正文: Critical minerals underpin everything from AI to low-carbon energy, and African mining sits at the epicenter. Three key moves can help unlock the continent’s natural minerals advantage.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-29 17:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 14:42]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-29 17:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
