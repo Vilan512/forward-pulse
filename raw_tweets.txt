@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-30 06:49:21
-# 共计 48 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-30 10:26:48
+# 共计 71 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-29 18:00]
 标题: AI agents are not your “coworkers”
@@ -19,6 +19,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-29 18:02]
 标题: DiScoFormer: One transformer for density and score, across distributions
 链接: https://huggingface.co/blog/allenai/discoformer
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 07:56]
+标题: 黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台
+链接: https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu
+正文: 黑石计划未来3~5年在日本AI数据中心领域投资300亿美元，此前的500MW基础上新增超1GW容量。黑石总裁认为AI投资仍处早期，真正风险是算力短缺而非基建泡沫；谷歌、亚马逊是英伟达潜在挑战者。此外，黑石、阿波罗、博通本月9日成立AI XPV平台，目标2028年向OpenAI、Anthropic等提供超20GW算力，首期350亿美元支持Anthropic在Fluidstack数据中心部署1GW基础设施。 🔗 阅读原文：https://www.ithome.com/0/970/583.htm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 06:45]
+标题: 特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试
+链接: https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0
+正文: 2026年6月30日，特斯拉在奥斯汀公共道路启动首批量产版Cybercab工程测试。车辆无方向盘与脚踏板，配有安全监督员，马斯克发布实拍视频。从2024年10月概念车首秀到实车上路约20个月。目前不对外开放乘客，投入34台Cybercab在市中心验证硬件可靠性。Cybercab为双座车型，完全围绕无人驾驶打造，无后期改装。此前奥斯汀已有无安全员Model Y无人驾驶出租于1月启用、6月22日开放付费服务。 🔗 阅读原文：https://www.ithome.com/0/970/539.htm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 05:42]
 标题: 美团 LongCat 发布旗舰模型 LongCat-2.0
@@ -110,33 +120,117 @@
 链接: https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949
 正文: EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。它以可编辑的 Markdown 文件为记忆主体，经 SQLite 管理状态、LanceDB 实现混合检索（BM25 关键词 + 向量搜索 + 标量过滤）。每个完成的任务记录为 Case，离线提炼为可复用的 Skill，使记忆随使用自我进化。v1.1.0 新增 Knowledge APIs（支持分类与话题搜索的 Markdown 页面）和 Reflection（跨会话优化 Profile 和 Skill）。据 EverMind 报告，LoCoMo 得分 93.05%，LongMemEval 83.00%，HaluMem 93.04%，p95 检索延迟低于 500ms。运行时可本地优先部署，也提供 EverOS Cloud 托管选项，兼容 OpenAI 协议端点。 🔗 阅读原文：https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 10:04]
-标题: Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制
-链接: https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt
-正文: 安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。一个看似正常的 GitHub 仓库包含 setup 脚本，该脚本运行时从 DNS 条目拉取命令并执行，恶意代码从未存在于仓库中，对扫描器、代码审查和 AI 智能体不可见。开发者使用 Claude Code 等 AI 编码工具打开该仓库时，Claude Code 在设置过程中遇到常规错误消息后自动运行该脚本，打开反向 shell，攻击者可窃取 API 密钥和登录凭据并维持持久访问。研究人员建议 AI 智能体应在运行前显示 setup 脚本内容，开发者应将第三方仓库的 setup 说明视为不受信任代码。 🔗 阅读原文：https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:11]
+标题: An IRA playbook to build wealth
+链接: https://finance.yahoo.com/markets/articles/ira-playbook-build-wealth-101104143.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 09:27]
-标题: 国务院印发《教育发展"十五五"规划》，推进人工智能全学段教育
-链接: https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv
-正文: 国务院日前印发《教育发展"十五五"规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。规划明确完善科学教育体系，强化科技教育与人文教育协同，加强青少年科学素养、批判性思维和创新能力培养。同时实施学生体质强健计划、心理健康促进行动，加大拔尖创新人才自主培养力度，推动学科交叉融合，扩大优质本科招生规模。目标到2030年高质量教育体系基本建成。 🔗 阅读原文：https://www.ithome.com/0/970/097.htm
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: Best high-yield savings interest rates today, Tuesday, June 30, 2026: Earn up to 4.10% APY with Bask Bank
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-30-2026-earn-up-to-410-apy-with-bask-bank-100000373.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 08:17]
-标题: 三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格
-链接: https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k
-正文: 在韩国政府支持下，三星和SK海力士计划投入5900亿美元扩大芯片产能，包括800万亿韩元新建四座工厂、81万亿韩元建封装中心，以及未来15年30万亿韩元用于研发下一代芯片。AI数据中心需求是主要驱动力。Jefferies预测，2026年Q3内存价格将上涨40%至50%，Q4再涨30%至40%，2027年继续上涨40%至45%，到2028年新产能仅上线15%至20%才可能缓解。两家公司合计控制全球近80%的高带宽内存芯片市场。内存涨价已推高消费电子产品成本，苹果已上调Mac和MacBook售价。 🔗 阅读原文：https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: Mortgage and refinance interest rates today, Tuesday, June 30, 2026: Rates mixed, but lowest 30-year rate since May
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-june-30-2026-rates-mixed-but-lowest-30-year-rate-since-may-100000711.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 07:00]
-标题: OpenAI 报告：绘制欧洲 AI 劳动力机遇版图
-链接: https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf
-正文: OpenAI 发布新报告，分析 AI 对欧盟就业的影响，划定哪些职业面临自动化、增长或工作流程变化。 🔗 阅读原文：https://openai.com/index/mapping-ai-jobs-transition-eu
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: Best CD rates today, Tuesday, June 30, 2026: Lock in up to 4.10% APY today
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-june-30-2026-lock-in-up-to-410-apy-today-100000375.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Best CD rates today, Monday, June 29, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-29-2026-lock-in-up-to-410-apy-100000246.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:05]
+标题: Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling?
+链接: https://finance.yahoo.com/markets/stocks/articles/fox-outbid-netflix-buy-roku-100500557.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: Tech stocks on pace for best 6 months since 2023 — even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day
+链接: https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: HELOC and home equity loan rates today, Tuesday, June 30, 2026: Besides interest rates, how do you choose between a HELOC or HEL?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-june-30-2026-besides-interest-rates-how-do-you-choose-between-a-heloc-or-hel-100000687.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 22:48]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures steady after record-setting session
+链接: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-after-record-setting-session-224823556.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:00]
+标题: Former tech worker quit his 14-year career to launch a BBQ restaurant and made $2.3M in revenue in his first year
+链接: https://finance.yahoo.com/small-business/articles/former-tech-worker-quit-14-090000851.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:03]
+标题: Forced to Take an RMD in a Down Market? Here’s the Tax Move That Avoids Selling Low
+链接: https://finance.yahoo.com/markets/stocks/articles/forced-rmd-down-market-tax-100352689.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 08:37]
+标题: Stocks surge in stellar quarter; dollar sinks gold and yen
+链接: https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 08:37]
+标题: Strong dollar pushes yen to 40-year low as traders test Japanese authorities
+链接: https://finance.yahoo.com/news/yen-hits-40-low-clock-010137784.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 08:20]
+标题: Shell Sees Global LNG Demand Rising 65% by 2050 Despite Market Disruptions
+链接: https://finance.yahoo.com/energy/articles/shell-sees-global-lng-demand-082000731.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 07:23]
+标题: UK regulator considers opening Apple, Google app stores to rival payments
+链接: https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:02]
+标题: Bosch CEO steps down
+链接: https://finance.yahoo.com/markets/stocks/articles/bosch-ceo-steps-down-100234653.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 10:00]
+标题: EP Wealth Lands $900M Silicon Valley RIA
+链接: https://finance.yahoo.com/markets/stocks/articles/ep-wealth-lands-900m-silicon-100000315.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:12]
+标题: Gold prices today, Monday, June 29: Holding at last week's levels ahead of June jobs report
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-29-holding-at-last-weeks-levels-ahead-of-june-jobs-report-121244273.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:38]
+标题: Silver prices today, Monday, June 29, 2026: Silver prices trending lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-29-2026-silver-prices-trending-lower-123846297.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 13:23]
+标题: Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:53]
+标题: High Memory Costs Are Increasing AI Development Costs. Time to Sell AI Stocks?
+链接: https://finance.yahoo.com/technology/ai/articles/high-memory-costs-increasing-ai-095300931.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:50]
+标题: 1 Top Cryptocurrency to Buy Before It Soars as Much as 4,815%, According to VanEck's Matthew Sigel
+链接: https://finance.yahoo.com/markets/crypto/articles/1-top-cryptocurrency-buy-soars-095000663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:50]
+标题: 3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income
+链接: https://finance.yahoo.com/markets/stocks/articles/3-magnificent-dividend-etfs-could-095000916.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:49]
+标题: Amcor explores Kelpi’s seaweed-based coatings for fibre packaging
+链接: https://finance.yahoo.com/technology/articles/amcor-explores-kelpi-seaweed-based-094933398.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:47]
+标题: Prediction: This Will Be SpaceX's Stock Price by the End of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-spacexs-stock-price-end-094700665.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:38]
+标题: CVC enters deal to buy packaging automation company Clevertech
+链接: https://finance.yahoo.com/technology/articles/cvc-enters-deal-buy-packaging-093820333.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:35]
+标题: History Says SpaceX Stock Will Do This in the Months After Its IPO
+链接: https://finance.yahoo.com/markets/stocks/articles/history-says-spacex-stock-months-093500655.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:33]
+标题: Prediction: This Overlooked ETF Could Be the Smartest Buy of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-overlooked-etf-could-smartest-093300620.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 09:26]
+标题: Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow
+链接: https://finance.yahoo.com/markets/stocks/articles/ranking-wall-streets-trillion-dollar-092600647.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 18:17]
 标题: Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more
@@ -147,11 +241,6 @@
 标题: Stocks making the biggest moves premarket: Comcast, Rocket Lab, Charter Communications & more
 链接: https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-premarket-cmcsa-spcx-chtr.html
 正文: These are the stocks posting the largest moves premarket.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: China's economy picks up in June on rebounding U.S. exports, analysts say
-链接: https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html
-正文: China's economy is showing signs of picking up after a sluggish few months — thanks in part to a rebound in shipments to the U.S.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 13:50]
 标题: SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
@@ -209,14 +298,14 @@
 正文: Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump Accounts, highlight the factors that can shape its impact.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
-标题: Australia’s grid opportunity: Why it’s time to flick the switch
-链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
-正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Economic conditions outlook, June 2026
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
 正文: In early June, executives were more downbeat on the economy than they have been in years and reported divided expectations for the coming months. Energy prices loomed large, and companies have been making defensive changes in response.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Australia’s grid opportunity: Why it’s time to flick the switch
+链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
+正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Automotive R&D: Charging ahead in EV platform development
@@ -228,10 +317,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making
 正文: The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 06:49]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 10:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 06:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 10:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
