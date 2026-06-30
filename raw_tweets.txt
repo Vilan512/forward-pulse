@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-06-30 20:52:18
-# 共计 59 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-30 22:10:10
+# 共计 61 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-30 21:50]
+标题: Claude Science is Anthropic’s newest flagship product
+链接: https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
+正文: At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access to tools that make it particularly useful for research in computational biology and drug development. Along with launching and previewing Claude Science, which is now available to all paid Claude subscribers, Anthropic also announced that it will be using the product to pursue some of its own research into drugs for rare, neglected diseases. This is not Anthropic’s first foray into AI for science. In October, the company released plug-ins that help Claude make use of scientific software and databases under the heading “Claude for Life Sciences.” But unlike this earlier release, Claude Science is a full-featured, standalone product. Anthropic’s decision to elevate Claude Science to the same rank as Claude Code and Claude Cowork indicates that the company is taking AI’s scientific applications very seriously—or at least wants to give the impression that it is. “It represents how important this is to our mission that this is right up there with Claude Code and Claude Cowork as the next really significant product that we’re releasing,” says Eric Kauderer-Abrams, Anthropic’s head of life sciences. “Our mission is to develop AI that serves humanity’s long-term well-being, and we believe that by far the greatest opportunity to do that is in the life sciences.” For the past decade, one company—Google DeepMind—has been at the vanguard of AI for science. CEO Demis Hassabis and researcher John Jumper won the Nobel Prize in chemistry for their work on the company’s AlphaFold model, and DeepMind has also made major contributions to meteorology, materials science, and a variety of other disciplines.
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-30 17:36]
 标题: Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body
@@ -32,6 +37,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-30 00:00]
 标题: Featuring Every Eval Ever Results on Hugging Face Model Pages
 链接: https://huggingface.co/blog/eee-community-evals
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 21:37]
+标题: Anthropic 发布 Claude Sonnet 5：中端智能体模型，基准与定价详解
+链接: https://aihot.virxact.com/items/cmr16yrji0060slnl99lgia9l
+正文: Anthropic 发布 Claude Sonnet 5，定位为最具智能体能力的中端模型，即日起成为 Free 和 Pro 计划的默认模型。在 SWE-bench Pro 上得分 63.2%（前代 58.1%），OSWorld-Verified 达 81.2%（前代 78.5%），HLE（带工具）57.4%。输入/输出定价 2026 年 8 月 31 日前 $2/$10 每百万 token，之后 $3/$15。支持低/中/高/超高四档 effort 级别，低中 effort 下性价比最优。上下文窗口 1M token，采用新 tokenizer，相同文本 token 数增长约 1.0-1.35 倍。幻觉与谄媚率低于前代。开发者仅需更换模型字符串为 `claude-sonnet-5` 即可调用 API。 🔗 阅读原文：https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 19:44]
 标题: NotebookLM Short Video Overviews 全量上线 Web 英文版
@@ -143,11 +153,6 @@
 链接: https://aihot.virxact.com/items/cmr0wblyn0050sl40bngva2bq
 正文: OpenAI 发布 GeneBench-Pro，用于评估 AI 智能体在计算生物学中处理模糊性和做出判断性分析的能力。该基准包含 129 个问题，覆盖统计遗传学、群体遗传学等 10 个领域 21 个子领域。每个问题提供真实混乱的数据集和实验背景，要求模型探索数据、选择分析路径并迭代实验。采用合成数据构建，已知完整因果结构。82 个问题已由外部领域专家审核确认其现实性。 🔗 阅读原文：https://openai.com/index/introducing-genebench-pro
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:00]
-标题: Rubin Ultra取消，新版尺寸性能减半
-链接: https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5
-正文: 有意思：仅在 Rubin Ultra 于 GTC 2026 发布三个月后，原版 4-die Rubin Ultra 因制造执行问题已被取消。新的“Rubin Ultra”尺寸只有原版的一半，实际性能也大约只有原版的一半。1/4🧵
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 17:15]
 标题: Analyst Report: McCormick & Co Inc/MD
 链接: https://finance.yahoo.com/research/reports/ARGUS_4136_AnalystReport_1782839743000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -180,7 +185,7 @@
 标题: Daily – Vickers Top Buyers & Sellers for 06/30/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47472_TopBottomInsiderActivity_1782815761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 20:41]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 22:03]
 标题: Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026
 链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
 正文: "Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
@@ -216,11 +221,6 @@
 正文: Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and easing customers’ pain points.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
-标题: Semiconductors: Etching the new map of strategic supply
-链接: https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply
-正文: As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Polyethylene: Widely produced—but not one-size-fits-all
 链接: https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all
 正文: Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.
@@ -229,6 +229,11 @@
 标题: Solar power: From intermittent sunshine to reliable power
 链接: https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power
 正文: Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Semiconductors: Etching the new map of strategic supply
+链接: https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply
+正文: As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Batteries: Scaling the engine of electrification
@@ -256,6 +261,11 @@
 正文: Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump Accounts, highlight the factors that can shape its impact.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Author Talks: Why we need a ‘ritual renaissance’
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-we-need-a-ritual-renaissance
+正文: What if the antidote to loneliness isn’t technology but ritual? Traveling across 16 countries, author Bruce Feiler uncovered a quiet global movement helping people reconnect in an age of digital overload.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Australia’s grid opportunity: Why it’s time to flick the switch
 链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
 正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
@@ -275,10 +285,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making
 正文: The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 20:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 22:10]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 20:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 22:10]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
