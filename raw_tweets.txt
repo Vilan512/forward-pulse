@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-30 02:34:15
-# 共计 38 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-30 06:49:21
+# 共计 48 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-29 18:00]
 标题: AI agents are not your “coworkers”
@@ -20,6 +20,26 @@
 标题: DiScoFormer: One transformer for density and score, across distributions
 链接: https://huggingface.co/blog/allenai/discoformer
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 05:42]
+标题: 美团 LongCat 发布旗舰模型 LongCat-2.0
+链接: https://aihot.virxact.com/items/cmr08dev204qjslkit52gdrur
+正文: @OpenRouter 上 "Owl Alpha" 背后的完整模型来了🦉 让我们来认识一下 @Meituan_LongCat 的最新旗舰模型 LongCat-2.0 现已在 SiliconFlow 上线 Day 0🔥 💰 输入缓存/输入/输出：每 1M 模型 token $0.015/0.75/2.95 ⚙️ 1.6T 参数 MoE（约 48B 激活参数）· 原生 1M 上下文窗口 🧠 从头为智能体编码而构建： ◆ LSA：可高效扩展到 1M 的稀疏注意力机制 ◆ 零算力专家：每 token 动态激活 33B–56B 参数，无算力浪费 ◆ MOPD：三个专用专家组（智能体 / 推理 / 交互），按任务由门控路由 🏆 SWE-bench Pro 59.5：性能与主流闭源模型持平 开始构建 🐱👇
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 04:40]
+标题: X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API
+链接: https://aihot.virxact.com/items/cmr07c62l04huslkimxy3vdw5
+正文: Twitter 终于有 MCP 了，这个非常有用！ 如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析。 不过依然需要你注册 Twitter 的 API，然后按量付费。 我今天早上配置了一下，它针对个人信息（就是你自己的信息）其实有一个比较大的优惠： 调用一次是 0.01 美元，也就是 1 美元可以调用 1000 次。我拉取了一下最近三天的书签，只花了 0.1 美元。 我大致做了几张图，简单写一下如何配置： 1. 创建 APP 与充值：去 Twitter 开发者后台创建一个 APP。注意，充钱是必须的。 2. 获取配置 ID (a) 创建完 APP 后，从侧边栏点进你创建的这个 APP。 (b) 在设置里填写并修改相关内容。 (c) 修改完成后，系统会弹窗显示两个 ID，这两个 ID 是需要在 MCP 里填写的，一定要记好。 3. 辅助配置 (a) 我的那张图片发给 Codex 或者 Claude，让他们帮你配置。 (b) 配置完后，让他们打开配置文件，你把那两个 ID 替换掉就可以了。 4. 授权启动 在启动时，第一次需要打开网页进行授权。如果你的 AI 没有自动打开网页，可以提醒它一下。 [引用 @XDevelopers]：宣布推出托管的 X MCP。 智能体现在可以访问世界上最好的实时信息来源。 无需任何设置，即可将 Grok、Cursor 或任何兼容 MCP 的 AI 工具连接到 X API！ 在此查看详情：https://docs.x.com/tools/mcp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 04:01]
+标题: AI就业争论变得更加混乱
+链接: https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl
+正文: 截至2026年5月，AI相关裁员接近9万个，预计未来五年美国最多15%的岗位将被AI替代。但Ramp与Revelio Labs对近22，000家公司的报告发现，高AI投入企业（前三个月人均月均支出30美元）总员工数增长10.2%，入门级岗位增长12%。报告认为AI并非普遍导致岗位消失，而是在资源充裕的科技企业里成为扩张工具--降低工程、销售、客服等职能的生产成本，从而推动整体增员。但仅购买订阅而未持续投入的公司未见人头增长，可能加剧企业间的资源鸿沟。 🔗 阅读原文：https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 03:23]
+标题: 一个人管理5款产品，80%时间不写代码？Every的复利工程
+链接: https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet
+正文: http://x.com/i/article/2071795831028826112 # 一个人，管理开发5款产品，而且80% 时间不在写代码，靠这一步... Every 单人团队运营 5 款产品，核心是每次完成功能后多做的一步：把解法存进系统，让 AI 下次自动避坑。 &gt; ⚑ 立场提示：本文是 Every 团队自述其「复利工程」方法论与自家开源插件的实践，文中的并发规模、时间分配、产品数量都是官方口径。下面只讲它怎么运作、每个数字代表什么。 &gt; ▸ 先认识下 Every：Every（every.to）是一家 2020 年成立的媒体 + 软件公司，CEO 兼联合创始人是 Dan Shipper。它每天发一份讲「科技下一步」的付费 newsletter，同时自己动手做软件产品——文中的 Cora、Monologue、Sparkle、Spiral 都出自它，另外还做 AI 课程和咨询。所以「复利工程」不是纸上谈兵，是一家又写又做、天天泡在 AI 里的公司，从自家实战里攒出来的方法。 ## 速览 - Every 用「复利工程」（Compound Engineering），以基本单人的工程团队维护旗下 5 款产品，核心是 Plan → Work → Review → Compound 四步循环。 - 传统工程走到 Review 就停了，第四步 Compound 把每次解决的问题变成系统知识，让 AI 下次自动避开同类错误，效率差距就来自这里。 - 这套方法主张工程师 80% 的时间花在 Plan 和 Review，只有 20% 用来实际写代码。 - 配套插件已开源，支持 Claude Code / OpenCode / Codex，含 26 个专项 agent、23 条工作流命令、13 项技能，零配置即用。 - /workflows:review 一次调用并发 14 个专项 agent 审查代码，/workflows:plan 开 ultrathink 模式可并发 40 多个研究 agent。 ## 一个人撑五款产品，怎么做到的 Every 团队最近公开了一套叫「复利工程」（Compound Engineering）的方法论，外加一个配套的开源插件，讲他们怎么用基本是单人配置的工程团队，同时维护旗下五款产品。 五款产品 Cora、Monologue、Sparkle、Spiral，加上官网 Every.to，每个产品的工程团队基本只有一个人。撑住这套规模的不是更长的工时，而是一个四步循环里被大多数团队省掉的最后一步。 &gt; ◆ 为什么值得看：Every 把平时只在内部跑的东西开源了，包括 14 个 AI 同时审一段代码、计划阶段并发 40 多个研究 agent，外加 26 个专项 agent。这是目前公开的多 agent 并行工程实践里，数字最具体的开源参考之一。 ## 代码越写越难碰，根子在哪 大多数代码库随时间越来越难维护，原因不复杂：每加一个功能，就往系统里注入一份新的复杂度，新功能要和所有旧功能「谈判」。十年下来，团队花在跟历史代码较劲上的时间，比花在造新东西上的还多，代码变得越来越难懂、难改、难信任。 复利工程把这条曲线反过来。功能不再是往系统里加负担，而是教会系统一项新本领；修一个 bug，顺手消掉未来一整类同类 bug；一个解法被固化下来，就变成下次能直接复用的工具。迭代越多，系统越好用。 ## 四步循环：80% 的时间根本不是在写代码 支撑这套规模的，是一个四步循环：Plan（计划）、Work（执行）、Review（审查）、Compound（固化），然后重复。不管你是花五分钟修个 bug，还是花几天做个功能，走的都是这四步，只是每步花的时间多少不同。 前三步任何开发者都熟，第四步 Compound 才是复利工程和普通工程的分界线。跳过它，你做的就只是「有 AI 助手的传统工程」。传统工程到 Review 收手，复利工程多走 Compound 一步，把这一轮学到的东西留给下一轮。 反直觉的地方：写代码只占两成时间。 Plan 和 Review 加起来占工程师 80% 的时间，真正动手写（Work）加上固化（Compound）只占 20%。大部分思考发生在代码被写出来之前和之后。 四步各自在做什么： - Plan 计划：把想法变成蓝图。弄清需求和约束、研究代码库里同类功能怎么实现、查框架文档和最佳实践、设计方案、再校验方案是否站得住。 - Work 执行：先用 git worktree（仓库的隔离沙盒副本，多任务可各开一份并行跑、互不干扰）开出隔离环境，agent 按计划逐步实现，每改一处就跑测试、linting 和类型检查。 - Review 审查：多个专项 agent 并行审，把问题标成 P1（必须修）/
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 01:58]
 标题: 具身智能数据采集员：日薪200元起，给机器人当老师
 链接: https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2
@@ -34,11 +54,6 @@
 标题: 为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway
 链接: https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq
 正文: Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。 🔗 阅读原文：https://claude.com/blog/introducing-the-claude-apps-gateway
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:06]
-标题: 美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练
-链接: https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy
-正文: 在 @OpenRouter 上最受欢迎的模型（10万亿 token）实际上是 @Meituan_LongCat（中国的超级应用/DoorDash）的一个1.6万亿参数 MoE 模型。 基本达到 Gemini / Opus 4.6 的水平。 35万亿 token 完全在5万块中国 ASIC 上训练。 无需 GPU。 https://longcat.chat/blog/longcat-2.0/ 你们有些人猜对了。👀 @OpenRouter 上的 Owl Alpha —— 就是我们。 自上线以来，它在日活量上已进入全球前三，并在月活量上位列 Hermes Agent 第一、Claude Code 第二、OpenClaw 第三。 感谢所有在隐身期内测试和使用 Owl Alpha 的人——你们帮助塑造了接下来要推出的产品。 Owl Alpha 即将退役。但这并非终点——敬请期待！
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 21:00]
 标题: Rubin Ultra取消，新版尺寸性能减半
@@ -115,34 +130,13 @@
 链接: https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf
 正文: OpenAI 发布新报告，分析 AI 对欧盟就业的影响，划定哪些职业面临自动化、增长或工作流程变化。 🔗 阅读原文：https://openai.com/index/mapping-ai-jobs-transition-eu
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 06:44]
-标题: SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元
-链接: https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9
-正文: SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。 🔗 阅读原文：https://www.ithome.com/0/969/953.htm
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: HELOC and home equity loan rates, Monday, June 29, 2026: Current HELOC rate is 61 basis points lower than HEL rate
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-monday-june-29-2026-current-heloc-rate-is-61-basis-points-lower-than-hel-rate-100000263.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
 标题: Best CD rates today, Monday, June 29, 2026: Lock in up to 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-29-2026-lock-in-up-to-410-apy-100000246.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 10:00]
-标题: Best high-yield savings interest rates today, Monday, June 29, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-29-2026-earn-up-to-410-apy-100000306.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:12]
-标题: Gold prices today, Monday, June 29: Holding at last week's levels ahead of June jobs report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-29-holding-at-last-weeks-levels-ahead-of-june-jobs-report-121244273.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-29 12:38]
-标题: Silver prices today, Monday, June 29, 2026: Silver prices trending lower
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-29-2026-silver-prices-trending-lower-123846297.html
+标题: Mortgage and refinance rates today, Monday, June 29, 2026: Purchase rates mostly lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-june-29-2026-purchase-rates-mostly-lower-than-refi-rates-100000419.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-29 18:17]
 标题: Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more
@@ -165,6 +159,56 @@
 正文: Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Colocation data centers: The infrastructure race behind AI
+链接: https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai
+正文: Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable electricity, and fast project delivery.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Biopharma R&D: The evolving formula for discovery and development
+链接: https://www.mckinsey.com/mgi/our-research/biopharma-r-and-d-the-evolving-formula-for-discovery-and-development
+正文: Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its home in Europe and the United States, but that’s changing.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Polyethylene: Widely produced—but not one-size-fits-all
+链接: https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all
+正文: Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Semiconductors: Etching the new map of strategic supply
+链接: https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply
+正文: As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Solar power: From intermittent sunshine to reliable power
+链接: https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power
+正文: Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Batteries: Scaling the engine of electrification
+链接: https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification
+正文: Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and building the local ecosystems needed to compete.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Pharmaceuticals: Innovating and advancing around the world
+链接: https://www.mckinsey.com/mgi/our-research/pharmaceuticals-innovating-and-advancing-around-the-world
+正文: The continued rise of monoclonal antibody therapies and demographic changes are powering growth in the pharmaceuticals industry.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: EAF steel: Beyond the blast furnace
+链接: https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace
+正文: Global steel investment is flat, but DRI-EAF production is gaining share in advanced economies.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Catalyzing competitiveness: Where investment happens and why
+链接: https://www.mckinsey.com/mgi/our-research/catalyzing-competitiveness-where-investment-happens-and-why
+正文: Competitiveness has moved to the top of the global agenda, and investment is its indicator and its outcome. In the context of dramatically diverging investment patterns globally, companies and regions can pull seven levers to level up.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: From access to assets: How early-life wealth building can shape economic mobility
+链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility
+正文: Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump Accounts, highlight the factors that can shape its impact.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Australia’s grid opportunity: Why it’s time to flick the switch
 链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
 正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
@@ -174,10 +218,20 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
 正文: In early June, executives were more downbeat on the economy than they have been in years and reported divided expectations for the coming months. Energy prices loomed large, and companies have been making defensive changes in response.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 02:34]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Automotive R&D: Charging ahead in EV platform development
+链接: https://www.mckinsey.com/mgi/our-research/automotive-r-and-d-charging-ahead-in-ev-platform-development
+正文: Improvements in batteries and recharging, not to mention geopolitics, have increased consumer appetites for electric vehicles. Automakers are flocking to China for lessons in how to develop an EV platform.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Nuclear power: A renaissance in the making
+链接: https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making
+正文: The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 06:49]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 02:34]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 06:49]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
