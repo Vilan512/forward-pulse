@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-30 22:10:10
-# 共计 61 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-30 23:59:49
+# 共计 62 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-30 21:50]
 标题: Claude Science is Anthropic’s newest flagship product
@@ -38,10 +38,10 @@
 标题: Featuring Every Eval Ever Results on Hugging Face Model Pages
 链接: https://huggingface.co/blog/eee-community-evals
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 21:37]
-标题: Anthropic 发布 Claude Sonnet 5：中端智能体模型，基准与定价详解
-链接: https://aihot.virxact.com/items/cmr16yrji0060slnl99lgia9l
-正文: Anthropic 发布 Claude Sonnet 5，定位为最具智能体能力的中端模型，即日起成为 Free 和 Pro 计划的默认模型。在 SWE-bench Pro 上得分 63.2%（前代 58.1%），OSWorld-Verified 达 81.2%（前代 78.5%），HLE（带工具）57.4%。输入/输出定价 2026 年 8 月 31 日前 $2/$10 每百万 token，之后 $3/$15。支持低/中/高/超高四档 effort 级别，低中 effort 下性价比最优。上下文窗口 1M token，采用新 tokenizer，相同文本 token 数增长约 1.0-1.35 倍。幻觉与谄媚率低于前代。开发者仅需更换模型字符串为 `claude-sonnet-5` 即可调用 API。 🔗 阅读原文：https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 22:32]
+标题: AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题
+链接: https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz
+正文: AI 解决的数学难题不是一道，而是 ***九道***。 再一次，这样的大事没能成为全球新闻，全地球没有一个记者认为这值得报道。 引用 @WeinsteinOmri：即使是 OpenAI 最近的 Erdős 突破，也没能让我相信大语言模型能做通用数学研究。而这件事改变了我的看法。 通过一个巧妙的"证明者-验证者"大语言模型循环，该框架解决了理论计算机科学中的 9 个重大未解问题，其中包括一个让我整整两年夜不能寐的问题。 令人惊叹的工作，由我此前在哥伦比亚大学的合作者 @binghuip、@runzhou_tao、Steven Wang 和 @HantaoYu_Theory 完成。 计划是将这一方法扩展到所有科学领域。敬请期待。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 19:44]
 标题: NotebookLM Short Video Overviews 全量上线 Web 英文版
@@ -185,6 +185,11 @@
 标题: Daily – Vickers Top Buyers & Sellers for 06/30/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47472_TopBottomInsiderActivity_1782815761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 23:27]
+标题: China-linked actors target more than technology as AI competition with U.S. intensifies
+链接: https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html
+正文: Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 22:03]
 标题: Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026
 链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
@@ -195,7 +200,7 @@
 链接: https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html
 正文: "We've got inflation that's too high, and it's been too high for the past five years," Beth Hammack told CNBC's Sara Eisen.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 16:15]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 23:32]
 标题: Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it
 链接: https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html
 正文: The advance marks a sharp turnaround after years of underperformance versus large-cap peers.
@@ -226,14 +231,14 @@
 正文: Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
-标题: Solar power: From intermittent sunshine to reliable power
-链接: https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power
-正文: Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Semiconductors: Etching the new map of strategic supply
 链接: https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply
 正文: As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Solar power: From intermittent sunshine to reliable power
+链接: https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power
+正文: Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Batteries: Scaling the engine of electrification
@@ -266,14 +271,14 @@
 正文: What if the antidote to loneliness isn’t technology but ritual? Traveling across 16 countries, author Bruce Feiler uncovered a quiet global movement helping people reconnect in an age of digital overload.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
-标题: Australia’s grid opportunity: Why it’s time to flick the switch
-链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
-正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Economic conditions outlook, June 2026
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
 正文: In early June, executives were more downbeat on the economy than they have been in years and reported divided expectations for the coming months. Energy prices loomed large, and companies have been making defensive changes in response.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Australia’s grid opportunity: Why it’s time to flick the switch
+链接: https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch
+正文: Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an affordable, reliable, secure, and competitive energy system.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Automotive R&D: Charging ahead in EV platform development
@@ -285,10 +290,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making
 正文: The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 22:10]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 23:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 22:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 23:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
