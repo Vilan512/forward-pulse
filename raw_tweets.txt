@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-06-30 18:29:41
-# 共计 58 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-06-30 20:52:18
+# 共计 59 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-30 17:36]
 标题: Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body
@@ -21,6 +21,10 @@
 链接: https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
 正文: Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&amp;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies have established R&amp;D operations in and around Zurich, Switzerland. What began with Google&#8217;s decision to build its largest R&amp;D hub outside the United States has evolved into one of the world’s most concentrated centers for AI research, talent, and commercialization, in certain areas at a higher density than Silicon Valley.&nbsp; The question is why so many technology leaders keep choosing the same place to build and scale. Located at the center of Europe, Greater Zurich Area, a region spanning the cantons of Glarus, Graubünden, Schaffhausen, Schwyz, Solothurn, Tessin, Uri, Zug, and Zürich, the region of Winterthur, and the city of Zurich, combines access to major markets with political stability, regulatory predictability, and strong intellectual property protection. And Zurich Airport connects the region directly with key business hubs across Europe, North America, and Asia, making it an efficient base for international operations. The country&#8217;s innovation performance reinforces this position. Switzerland has ranked first in the Global Innovation Index for more than a decade, leads the world in patents per capita, and invests over 3.3% of GDP in research and development. Earlier this year, google.org pledged a $1 million grant to the Swiss National AI Institute, a joint effort to advance AI research for the public good. Switzerland’s venture ecosystem reflects a similar focus. Over 60% of Swiss venture capital is invested in deep tech—the highest share globally by a large margin and nearly twice the share of major economies like Germany, France, and the UK. And, according to the Swiss
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-30 18:32]
+标题: ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration
+链接: https://huggingface.co/blog/ibm-research/scarfbench
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-30 14:39]
 标题: Why Specialization Is Inevitable
 链接: https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
@@ -29,10 +33,10 @@
 标题: Featuring Every Eval Ever Results on Hugging Face Model Pages
 链接: https://huggingface.co/blog/eee-community-evals
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 18:06]
-标题: Anthropic 发布 Sonnet 5：最智能体化的 Sonnet 系列模型
-链接: https://aihot.virxact.com/items/cmr0z1zqu0034sldxjw1k72j9
-正文: 来了：Sonnet 5 已上线——太长不看版： • Anthropic 称这是迄今为止最具智能体能力的 Sonnet • 性能接近 Opus 4.8 水平，但价格更低 • 在推理、工具使用、编程和知识工作方面有显著提升 • Free 和 Pro 用户的默认模型 • 今天即可在 Claude Code 和 API 中使用 • 首发定价：输入 $2/M，输出 $10/M，持续至 8 月 31 日 • 标准定价：输入 $3/M，输出 $15/M • 整体比 Sonnet 4.6 更安全，模型幻觉率和迎合率更低 • 网络安全防护默认开启，但 Anthropic 表示对于严肃的网络安全工作，Opus 仍然更强 [引用 @kimmonismus]：Sonnet 5 对我开放了！！
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 19:44]
+标题: NotebookLM Short Video Overviews 全量上线 Web 英文版
+链接: https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3
+正文: 似乎关于我们新推出的“短频概览”功能，外界有不少讨论。想一起凑个热闹吗？ 短频概览现已正式向所有网页端英文用户开放。欢迎在下方分享你的示例！ 下面是我们最爱的例子之一，关于今年的世界杯⚽️： [引用 @NotebookLM]：刷屏也能涨知识🤓 隆重介绍 NotebookLM 中的短频概览！将你最复杂的资料源转化为 60 秒竖版视频，深入剖析任何概念。 现已面向 Google AI Ultra 和 Pro 订阅用户推出（移动端和网页端），免费用户即将开放。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 18:02]
 标题: Claude Sonnet 5 发布
@@ -144,11 +148,6 @@
 链接: https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5
 正文: 有意思：仅在 Rubin Ultra 于 GTC 2026 发布三个月后，原版 4-die Rubin Ultra 因制造执行问题已被取消。新的“Rubin Ultra”尺寸只有原版的一半，实际性能也大约只有原版的一半。1/4🧵
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-29 20:11]
-标题: OpenClaw 发布原生 iOS 与 Android 应用
-链接: https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc
-正文: OpenClaw 现已登陆 iOS 和 Android 🦞 📱 原生移动应用，终于来了 💬 把智能体放进口袋 🔔 频道、任务、回复，随时随地处理 无论拇指在哪里，都能运行智能体。 iOS: https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132 Android: https://play.google.com/store/apps/details?id=ai.openclaw.app
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-06-30 17:15]
 标题: Analyst Report: McCormick & Co Inc/MD
 链接: https://finance.yahoo.com/research/reports/ARGUS_4136_AnalystReport_1782839743000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -181,6 +180,11 @@
 标题: Daily – Vickers Top Buyers & Sellers for 06/30/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47472_TopBottomInsiderActivity_1782815761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 20:41]
+标题: Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026
+链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
+正文: "Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 18:27]
 标题: Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary
 链接: https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html
@@ -212,14 +216,14 @@
 正文: Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and easing customers’ pain points.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
-标题: Polyethylene: Widely produced—but not one-size-fits-all
-链接: https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all
-正文: Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Semiconductors: Etching the new map of strategic supply
 链接: https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply
 正文: As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
+标题: Polyethylene: Widely produced—but not one-size-fits-all
+链接: https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all
+正文: Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-06-30 00:00]
 标题: Solar power: From intermittent sunshine to reliable power
@@ -271,10 +275,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making
 正文: The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 18:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-06-30 20:52]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 18:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-06-30 20:52]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
