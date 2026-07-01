@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-01 04:15:34
+# ForwardPulse 原始情报收割 — 2026-07-01 08:44:52
 # 共计 35 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-06-30 21:50]
@@ -33,6 +33,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-06-30 14:39]
 标题: Why Specialization Is Inevitable
 链接: https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 08:10]
+标题: NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型
+链接: https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa
+正文: NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升 2.42 倍（γ=0.8，块大小 S=16）。降噪器在约 2.1T token 上训练，骨干使用 25T token 预训练。总参数约 60B，每 token 活跃参数约 3B/塔。支持扩散、模拟 AR 和 AR 三种解码模式。 🔗 阅读原文：https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 06:57]
+标题: 亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司
+链接: https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h
+正文: 亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。 🔗 阅读原文：https://www.ithome.com/0/971/071.htm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 02:24]
 标题: 美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型
@@ -124,20 +134,10 @@
 链接: https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu
 正文: OpenAI Signals 数据显示，用户注册六个月后日均消息量增加50%，尝试任务种类翻倍。自2023年7月以来，各大洲活跃用户均大幅增长，非洲和亚洲增速最快，低人类发展指数国家增长尤为显著。用户群体更加多元化，女性名字用户已占全球多数，巴西、哥伦比亚、波兰和纳米比亚等国女性用户显著多于男性。非英语用户占活跃用户半数以上，领先语言为西班牙语、葡萄牙语和阿拉伯语；乌兹别克语、哈萨克语和缅甸语用户占比增长百分比最大。 🔗 阅读原文：https://openai.com/index/how-chatgpt-adoption-has-expanded
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 07:56]
-标题: 黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台
-链接: https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu
-正文: 黑石计划未来3~5年在日本AI数据中心领域投资300亿美元，此前的500MW基础上新增超1GW容量。黑石总裁认为AI投资仍处早期，真正风险是算力短缺而非基建泡沫；谷歌、亚马逊是英伟达潜在挑战者。此外，黑石、阿波罗、博通本月9日成立AI XPV平台，目标2028年向OpenAI、Anthropic等提供超20GW算力，首期350亿美元支持Anthropic在Fluidstack数据中心部署1GW基础设施。 🔗 阅读原文：https://www.ithome.com/0/970/583.htm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 06:45]
-标题: 特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试
-链接: https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0
-正文: 2026年6月30日，特斯拉在奥斯汀公共道路启动首批量产版Cybercab工程测试。车辆无方向盘与脚踏板，配有安全监督员，马斯克发布实拍视频。从2024年10月概念车首秀到实车上路约20个月。目前不对外开放乘客，投入34台Cybercab在市中心验证硬件可靠性。Cybercab为双座车型，完全围绕无人驾驶打造，无后期改装。此前奥斯汀已有无安全员Model Y无人驾驶出租于1月启用、6月22日开放付费服务。 🔗 阅读原文：https://www.ithome.com/0/970/539.htm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 04:40]
-标题: X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API
-链接: https://aihot.virxact.com/items/cmr07c62l04huslkimxy3vdw5
-正文: Twitter 终于有 MCP 了，这个非常有用！ 如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析。 不过依然需要你注册 Twitter 的 API，然后按量付费。 我今天早上配置了一下，它针对个人信息（就是你自己的信息）其实有一个比较大的优惠： 调用一次是 0.01 美元，也就是 1 美元可以调用 1000 次。我拉取了一下最近三天的书签，只花了 0.1 美元。 我大致做了几张图，简单写一下如何配置： 1. 创建 APP 与充值：去 Twitter 开发者后台创建一个 APP。注意，充钱是必须的。 2. 获取配置 ID (a) 创建完 APP 后，从侧边栏点进你创建的这个 APP。 (b) 在设置里填写并修改相关内容。 (c) 修改完成后，系统会弹窗显示两个 ID，这两个 ID 是需要在 MCP 里填写的，一定要记好。 3. 辅助配置 (a) 我的那张图片发给 Codex 或者 Claude，让他们帮你配置。 (b) 配置完后，让他们打开配置文件，你把那两个 ID 替换掉就可以了。 4. 授权启动 在启动时，第一次需要打开网页进行授权。如果你的 AI 没有自动打开网页，可以提醒它一下。 [引用 @XDevelopers]：宣布推出托管的 X MCP。 智能体现在可以访问世界上最好的实时信息来源。 无需任何设置，即可将 Grok、Cursor 或任何兼容 MCP 的 AI 工具连接到 X API！ 在此查看详情：https://docs.x.com/tools/mcp
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 07:07]
+标题: Xi touts China Communist Party's global influence in speech marking 105th anniversary
+链接: https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+正文: Chinese President Xi Jinping spoke Wednesday to commemorate the 105th anniversary of the ruling Communist Party of China.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 23:27]
 标题: China-linked actors target more than technology as AI competition with U.S. intensifies
@@ -164,10 +164,10 @@
 链接: https://www.cnbc.com/2026/06/30/stocks-making-the-biggest-moves-premarket-avav-mstr-mrk.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-01 04:15]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-01 08:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-01 04:15]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-01 08:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
