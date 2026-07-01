@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-01 19:40:36
-# 共计 42 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-01 21:19:19
+# 共计 43 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-01 14:35]
 标题: LLMs are stuck in a groupthink groove. This startup is trying to get them out.
@@ -19,6 +19,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-01 00:00]
 标题: Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
 链接: https://huggingface.co/blog/cerebras-gemma4-voice-ai
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 20:45]
+标题: Claude Code v2.1.198 发布
+链接: https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe
+正文: Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网络短暂断开导致响应中断、后台任务卡在"Running"状态、智能体团队队友因 API 错误失败等问题。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 17:17]
 标题: Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境
@@ -76,6 +81,11 @@
 正文: Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。 🔗 阅读原文：https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 00:00]
+标题: 构建AI智能体应优先设计路由
+链接: https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj
+正文: 构建AI智能体时，应优先设计路由（router）而非选择模型。路由决定每个请求由哪层模型处理。正确路由可使70-80%流量运行在免费本地模型或异步推理上，将AI开销降低90%+。Brian Armstrong指出Coinbase通过更好的默认设置、路由和缓存，在token使用量增长的同时将AI支出减半。路由分三层：技能分类器、路由器、模型选择器。本地计算近乎零成本，异步批量推理比实时推理便宜两个数量级。大多数工作无需秒级返回。同步预测器标记复杂任务，夜间批量评估器更新路由权重。技能蒸馏后，非编码类任务中70-80%智能体流量可由本地模型处理。 🔗 阅读原文：https://www.tomtunguz.com/ai-execution-routing
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 00:00]
 标题: xAI 发布 Voice Agent Builder 测试版
 链接: https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x
 正文: xAI 推出 Voice Agent Builder 测试版，这是一个基于 Grok Voice 的无代码平台，可在两分钟内创建生产级语音智能体。它集成电话、知识检索、工具、MCP、Guardrails 及可观测性，支持连接现有 SIP 号码、API 和 WebSocket，采用语音到语音路径。在 τ-voice Bench 上，Grok Voice Think Fast 1.0 得分 67.3%，领先 Gemini 3.1 Flash Live（43.8%）和 GPT Realtime 1.5（35.3%）。定价为每分钟音频 0.05 美元、电话费 0.01 美元，提供 80+ 种语音及声音克隆，每个账户附赠一个免费电话号码。 🔗 阅读原文：https://x.ai/news/grok-voice-agent-builder
@@ -89,11 +99,6 @@
 标题: AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题
 链接: https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz
 正文: AI 解决的数学难题不是一道，而是 ***九道***。 再一次，这样的大事没能成为全球新闻，全地球没有一个记者认为这值得报道。 引用 @WeinsteinOmri：即使是 OpenAI 最近的 Erdős 突破，也没能让我相信大语言模型能做通用数学研究。而这件事改变了我的看法。 通过一个巧妙的"证明者-验证者"大语言模型循环，该框架解决了理论计算机科学中的 9 个重大未解问题，其中包括一个让我整整两年夜不能寐的问题。 令人惊叹的工作，由我此前在哥伦比亚大学的合作者 @binghuip、@runzhou_tao、Steven Wang 和 @HantaoYu_Theory 完成。 计划是将这一方法扩展到所有科学领域。敬请期待。
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 19:44]
-标题: NotebookLM Short Video Overviews 全量上线 Web 英文版
-链接: https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3
-正文: 似乎关于我们新推出的“短频概览”功能，外界有不少讨论。想一起凑个热闹吗？ 短频概览现已正式向所有网页端英文用户开放。欢迎在下方分享你的示例！ 下面是我们最爱的例子之一，关于今年的世界杯⚽️： [引用 @NotebookLM]：刷屏也能涨知识🤓 隆重介绍 NotebookLM 中的短频概览！将你最复杂的资料源转化为 60 秒竖版视频，深入剖析任何概念。 现已面向 Google AI Ultra 和 Pro 订阅用户推出（移动端和网页端），免费用户即将开放。
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 15:07]
 标题: Former retail giant has closed over 1,000 locations
@@ -116,14 +121,14 @@
 链接: https://finance.yahoo.com/research/reports/ARGUS_47484_MarketSummary_1782904643000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 10:31]
-标题: Daily – Vickers Top Buyers & Sellers for 07/01/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47483_TopBottomInsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 10:31]
 标题: Daily – Vickers Top Insider Picks for 07/01/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47482_InsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 19:12]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 10:31]
+标题: Daily – Vickers Top Buyers & Sellers for 07/01/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47483_TopBottomInsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 20:40]
 标题: Prolific tech analyst Dan Ives is exiting Wedbush for a new venture
 链接: https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html
 正文: Ives said the new firm will seek to build what he described as a "modern merchant bank."
@@ -174,6 +179,11 @@
 正文: The advance marks a sharp turnaround after years of underperformance versus large-cap peers.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
+标题: Suphachai Chearavanont: Bold moves in innovation-driven transformation
+链接: https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation
+正文: In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
 标题: Lights, camera, algorithm: How AI is rewriting the rules of film and TV
 链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv
 正文: Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.
@@ -188,15 +198,10 @@
 链接: https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles
 正文: Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: Suphachai Chearavanont: Bold moves in innovation-driven transformation
-链接: https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation
-正文: In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-01 19:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-01 21:19]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-01 19:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-01 21:19]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
