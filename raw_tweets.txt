@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-02 17:28:17
-# 共计 69 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-02 19:11:15
+# 共计 44 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-02 15:37]
 标题: Achieving operational excellence with AI
@@ -20,6 +20,21 @@
 标题: Why California’s carbon manure math doesn’t add up
 链接: https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
 正文: Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because the subsidies are extremely lucrative. But a growing body of research suggests the program is a case study in the shortcomings of our preferred approaches to climate action. Instead of simply forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have repeatedly opted to set up convoluted incentive systems that swap climate responsibilities between parties and regions. As studies have shown again and again, these carbon offsetting and trading schemes often dramatically overstate the emissions reductions actually achieved in the one place that matters: the atmosphere. The dairy program illustrates a particular version of this problem, muddling the impacts of different types of greenhouse gases in a way that researchers argue will lock in more warming in the future. Despite this and other concerns, California regulators decided in 2024 to extend parts of the program beyond 2050. And a recent proposal by the state’s air resources board could send millions of additional dollars to dairy farmers as part of a plan that would ease restrictions on major greenhouse-gas producers. Here’s how the system works: The state’s climate regulations require the transportation fuels industry to lower the carbon dioxide levels in its products over time—or purchase credits from other parties that cut fuel emissions, including cattle farmers. Dairies generally spray cattle manure into giant open lagoons, where microbes gobble up organic matter and produce methane as a by-product. But if farmers set up what are known as anaerobic digesters, the sludge is redirected into covered vessels that capture the biogas, which 
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 18:37]
+标题: Agent辅助的SGLang开发：初步探索
+链接: https://aihot.virxact.com/items/cmr3uklx8008dslbrcmev44qb
+正文: SGLang团队将LLM服务、分布式运行时、GPU内核、扩散管道等工作流编码为可执行的SKILL.md文件、脚本、基准合约和审查循环。现有技能包括：SGLang .claude/skills（CUDA调试、内核集成、性能分析等）、SGLang diffusion .claude/skills（扩散模型添加与调优）、BBuf/AI-Infra-Auto-Driven-SKILLS（跨框架SOTA循环）、KDA（MLSys 2026 FlashInfer内核竞赛获胜方案）以及BBuf/KDA-Pilot（已合并三个SGLang集成PR）。Profile证据是性能工作的核心，长期优化转向Loop Engineering--SGLang SOTA Performance Loop将追求SOTA分解为公平基准测试、差距决策、性能分析、补丁和再验证，Humanize/RLCR添加外部审查，Codex Goal以更低协调开销运行相同循环。评审重要性提升，开发者需定义问题、选择证据、设计工作流并判断结果是否可用于生产。 🔗 阅读原文：https://www.lmsys.org/blog/2026-07-02-agent-assisted-sglang-development
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 18:03]
+标题: Claude Enterprise 新增用量与成本分析及支出管控功能
+链接: https://aihot.virxact.com/items/cmr3tce0201rwsl7lm25hjxbo
+正文: Claude Enterprise 推出更丰富的管理分析工具和成本控制功能。仪表板现可按群组和用户分析用量与成本，支持按 SCIM 群组筛选，展示制品创建、文件编辑、技能和连接器对应的成本。Claude Code 管理控制台新增"使用量"和"价值"选项卡，分别显示活跃开发者、会话次数、常用命令，以及生产力提升估算、每次提交成本和年度价值估算。分析聊天支持自然语言查询并返回可导出图表。Analytics API 可将数据接入 Datadog Cloud Cost Management 和 CloudZero。管理员可设置模型默认和权限控制，并配置组织级支出限额的 75%、90% 告警通知；用户在 75% 和 95% 时收到应用内提醒。Admin API 支持自动审批额度增加、标记接近限额用户及快速变化的用量。 🔗 阅读原文：https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 17:46]
+标题: Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器
+链接: https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj
+正文: 用 Fable 5 构建的鲁布·戈德堡机械，花费 4.44 美元 👀 提示词可在此获取：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 16:24]
 标题: Anthropic与五角大楼控权之争：Claude军事用途护栏分歧
@@ -120,145 +135,33 @@
 标题: Giant satellite TV company files Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:52]
-标题: The White House said Trump 'lost money' in office — then his disclosure revealed $2.2 billion in 2025 earnings
-链接: https://finance.yahoo.com/markets/crypto/articles/white-house-said-trump-lost-165251196.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:46]
-标题: With Caterpillar Stock In An Uptrend, Build Bullish Exposure With This Spread Trade
-链接: https://www.investors.com/research/options/caterpillar-stock-cat-construction-equipment-markets-options-income-investing-trading/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:38]
-标题: Cognex, IBD Stock Of The Day, Called Play On Industrial Automation Trend
-链接: https://www.investors.com/research/ibd-stock-of-the-day/cognex-stock-cgnx-winner-industrial-automation/?src=A00220&yptr=yahoo
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 03:46]
 标题: Retail giant exits U.S. fashion after multi-million-dollar scandal
 链接: https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:25]
-标题: Will Oil Prices Keep Falling? WTI Futures Hit Pre-Iran War Lows
-链接: https://www.investors.com/news/wti-futures-hit-lows-will-oil-prices-keep-falling/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 22:31]
-标题: Stock market today: Dow rises, S&P 500 and Nasdaq dip after June jobs report falls short
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 17:10]
-标题: Meta Wants to Sell You Its AI Compute. AWS, Azure, and Google Just Got a New Rival
-链接: https://finance.yahoo.com/technology/ai/articles/meta-wants-sell-ai-compute-171055420.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:18]
-标题: Oil falls to four-month low as US, Iran conclude talks in Doha
-链接: https://finance.yahoo.com/news/oil-falls-us-iran-talks-013010346.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:07]
-标题: Healthcare Stocks Rise To The Heart Of IBD's Elite List Of Growth Names
-链接: https://www.investors.com/stock-lists/ibd-50/healthcare-stocks-sector-investing-markets-ibd-50-list-eli-lilly/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 10:00]
-标题: Mortgage rates hover near 6.5% as other housing metrics show modest improvement: Mortgage rates today, July 2, 2026
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hover-near-65-as-other-housing-metrics-show-modest-improvement-mortgage-rates-today-july-2-2026-100000176.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 13:20]
 标题: Daily Spotlight: Payrolls Rise 57,000
 链接: https://finance.yahoo.com/research/reports/ARGUS_47503_MarketOutlook_1782998454000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 17:07]
-标题: Manufacturing job losses offer lessons for AI white-collar crisis
-链接: https://finance.yahoo.com/technology/ai/articles/manufacturing-job-losses-offer-lessons-170713364.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:00]
-标题: Parents signed her up for $80,000 in student loans. Then they bought a $6 million yacht instead of helping
-链接: https://finance.yahoo.com/small-business/articles/parents-signed-her-80-000-160000579.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:59]
-标题: Follow Stock Market Leaders To Stay In Step With Broader Market Health
-链接: https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-micron-amat-dell-sp500-health/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:46]
-标题: Flexport's CEO called remote work ‘white-collar fraud’ — then said it’s really for workers who’ll accept lower pay
-链接: https://finance.yahoo.com/small-business/articles/flexports-ceo-called-remote-white-154637438.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:25]
 标题: Daily – Vickers Top Buyers & Sellers for 07/02/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47500_TopBottomInsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 17:03]
-标题: Microsoft vs. Nvidia: Which Is the Better AI Stock to Own for the Next 3 Years?
-链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-nvidia-better-ai-170300017.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:45]
-标题: My wife and I set retirement countdown for ages 59 and 60. Our spreadsheet says we're ready — but how do we really know?
-链接: https://finance.yahoo.com/markets/articles/wife-set-retirement-countdown-ages-154500608.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:40]
-标题: Reddit Says Buy This AI Energy Stock Before It’s Too Late
-链接: https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:37]
-标题: Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading
-链接: https://finance.yahoo.com/markets/article/robinhood-stock-soars-on-global-expansion-ai-agents-and-a-push-for-247-trading-153709971.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:36]
-标题: Stock Market Today: Nasdaq Sinks As Chip Leader Sandisk Slides 10%, Tesla Smashed; Dow Climbs (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-tesla-deliveries-tsla-stock/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:25]
 标题: Daily – Vickers Top Insider Picks for 07/02/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47499_InsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 17:01]
-标题: Adobe vs ServiceNow: The Better Buy Amid Rising AI Competition
-链接: https://finance.yahoo.com/technology/ai/articles/adobe-vs-servicenow-better-buy-170121220.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 15:36]
-标题: Stock Market Rebounds, But AI Falters; Meta, Tesla, Jobs Report In Focus: Weekly Review
-链接: https://www.investors.com/news/stock-market-rebounds-ai-falters-meta-tesla-jobs-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 12:15]
-标题: Silver prices today, Thursday, July 2: Prices crest $62 following soft June employment report
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-2-prices-crest-62-following-soft-june-employment-report-121527595.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 12:02]
-标题: Gold prices today, Thursday, July 2, 2026: Prices break above $4,100 following a disappointing June jobs report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-2-2026-prices-break-above-4100-following-a-disappointing-june-jobs-report-120224733.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:15]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47497_TechnicalAnalysis_1782990959000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:55]
-标题: Agentic Shopping Is Coming. These Stocks Will Ride Walmart’s Google AI Bet.
-链接: https://finance.yahoo.com/markets/stocks/articles/agentic-shopping-coming-stocks-ride-165557618.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 12:51]
-标题: Bitcoin and ethereum prices today, Thursday, July 2: Prices move up following June jobs report
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-2-prices-move-up-following-june-jobs-report-125118367.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 18:13]
-标题: 7 common gold IRA myths: What the rules actually say
-链接: https://finance.yahoo.com/personal-finance/investing/article/common-gold-ira-myths-181344536.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:04]
 标题: Analyst Report: Atmos Energy Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_2743_AnalystReport_1782990266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:55]
-标题: Famous crypto analyst reveals the right time to buy Bitcoin
-链接: https://finance.yahoo.com/markets/crypto/articles/famous-crypto-analyst-reveals-time-165538026.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 18:29]
-标题: Chase's 5/24 rule: How it works and how to work around it
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/chase-524-rule-how-it-works-182947912.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:04]
 标题: Analyst Report: Alcon AG
 链接: https://finance.yahoo.com/research/reports/ARGUS_5849_AnalystReport_1782990266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 16:55]
-标题: A $200 Billion IPO Wave Could Wipe Out $1 Trillion in Stock Market Value. What Investors Need to Know.
-链接: https://finance.yahoo.com/markets/stocks/articles/200-billion-ipo-wave-could-165500825.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:36]
 标题: Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more
@@ -280,15 +183,15 @@
 链接: https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html
 正文: Ives said the new firm will seek to build what he described as a "modern merchant bank."
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 17:32]
-标题: Inflation peaked in May as energy prices fell in June, Kalshi traders think
-链接: https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html
-正文: Speculators on the prediction market platform give less than 30% odds to inflation peaking above 4.2% in 2026.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 22:55]
 标题: China-linked actors target more than technology as AI competition with U.S. intensifies
 链接: https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html
 正文: Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-02 00:00]
+标题: The real future of work in healthcare
+链接: https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare
+正文: Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-02 00:00]
 标题: How Miro is redefining collaboration across the product development life cycle
@@ -300,10 +203,10 @@
 链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win
 正文: New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 17:28]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 19:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 17:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 19:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
