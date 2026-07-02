@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-02 19:11:15
-# 共计 44 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-02 20:55:35
+# 共计 40 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-02 15:37]
 标题: Achieving operational excellence with AI
@@ -20,6 +20,16 @@
 标题: Why California’s carbon manure math doesn’t add up
 链接: https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
 正文: Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because the subsidies are extremely lucrative. But a growing body of research suggests the program is a case study in the shortcomings of our preferred approaches to climate action. Instead of simply forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have repeatedly opted to set up convoluted incentive systems that swap climate responsibilities between parties and regions. As studies have shown again and again, these carbon offsetting and trading schemes often dramatically overstate the emissions reductions actually achieved in the one place that matters: the atmosphere. The dairy program illustrates a particular version of this problem, muddling the impacts of different types of greenhouse gases in a way that researchers argue will lock in more warming in the future. Despite this and other concerns, California regulators decided in 2024 to extend parts of the program beyond 2050. And a recent proposal by the state’s air resources board could send millions of additional dollars to dairy farmers as part of a plan that would ease restrictions on major greenhouse-gas producers. Here’s how the system works: The state’s climate regulations require the transportation fuels industry to lower the carbon dioxide levels in its products over time—or purchase credits from other parties that cut fuel emissions, including cattle farmers. Dairies generally spray cattle manure into giant open lagoons, where microbes gobble up organic matter and produce methane as a by-product. But if farmers set up what are known as anaerobic digesters, the sludge is redirected into covered vessels that capture the biogas, which 
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 20:24]
+标题: 关于Mythos和网络安全的讨论并非炒作
+链接: https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d
+正文: 关于 Mythos 和网络安全的讨论，实际上并非炒作。（任何使用 Fable 进行自主工作的人可能都已认识到这一点） [引用 @EpochAIResearch]：AI 似乎正在大规模地发现软件漏洞。 2026 年 6 月，21 家知名机构披露了约 1,500 个高危和严重等级的 CVE，是 Claude Mythos Preview 发布前创下的单月最高纪录的 3.5 倍以上。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 19:18]
+标题: Microsoft 成立"Frontier Company"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场
+链接: https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn
+正文: Microsoft 新设业务部门"Frontier Company"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，"共同设计、共同创新、部署并持续改进 AI 系统"。该部门由 Rodrigo Kede Lima 领导，旨在超越"前部署工程"模式，成为"最大、以结果为导向的工程组织"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的"平台中立"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。 🔗 阅读原文：https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 18:37]
 标题: Agent辅助的SGLang开发：初步探索
@@ -126,11 +136,6 @@
 链接: https://aihot.virxact.com/items/cmr3rd0l901btsl7lars7am9q
 正文: 在自我组织的多智能体LLM系统中，团队无法有效利用专家成员的专业知识。在多个基准测试中，即使明确告知专家身份，团队表现仍落后于最佳成员（专家智能体）的独立能力，性能损失最高达41.1%。失败主因是未能有效利用专家意见，而非识别专家。对话分析显示，团队倾向于"整合性妥协"--平均化专家与非专家观点，随团队规模增大而加剧，且与表现负相关。这种寻求共识的行为同时提升了对抗恶意智能体的鲁棒性，揭示了协同对齐与专业利用之间的根本性权衡。 🔗 阅读原文：https://machinelearning.apple.com/research/multi-agent-teams-experts
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 20:45]
-标题: Claude Code v2.1.198 发布
-链接: https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe
-正文: Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网络短暂断开导致响应中断、后台任务卡在"Running"状态、智能体团队队友因 API 错误失败等问题。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 23:17]
 标题: Giant satellite TV company files Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html
@@ -147,22 +152,6 @@
 标题: Daily – Vickers Top Buyers & Sellers for 07/02/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47500_TopBottomInsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:25]
-标题: Daily – Vickers Top Insider Picks for 07/02/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47499_InsiderActivity_1782991526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:15]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47497_TechnicalAnalysis_1782990959000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:04]
-标题: Analyst Report: Atmos Energy Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_2743_AnalystReport_1782990266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 11:04]
-标题: Analyst Report: Alcon AG
-链接: https://finance.yahoo.com/research/reports/ARGUS_5849_AnalystReport_1782990266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:36]
 标题: Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more
 链接: https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-premarket-sndk-hood-pltr.html
@@ -177,11 +166,6 @@
 标题: Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months
 链接: https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html
 正文: Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 20:40]
-标题: Prolific tech analyst Dan Ives is exiting Wedbush for a new venture
-链接: https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html
-正文: Ives said the new firm will seek to build what he described as a "modern merchant bank."
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 22:55]
 标题: China-linked actors target more than technology as AI competition with U.S. intensifies
@@ -203,10 +187,10 @@
 链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win
 正文: New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 19:11]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 20:55]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 19:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 20:55]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
