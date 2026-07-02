@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-02 09:53:28
-# 共计 27 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-02 12:03:39
+# 共计 35 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-02 09:00]
 标题: Why California’s carbon manure math doesn’t add up
@@ -15,6 +15,31 @@
 标题: The Download: Anthropic launches Claude Science, and California’s carbon manure math
 链接: https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research like Claude Code supports software engineering.Like Claude Code, Claude Science can autonomously carry out meaningful work from concise, high-level instructions, with tools for computational biology and drug development. The launch signals that Anthropic is doubling down on AI for science, and the company will also use the product in its own research into drugs for rare, neglected diseases.Discover why Anthropic is betting big on AI for scientific research. —Grace Huckins Why California’s carbon manure math doesn’t add up Something stinks in California’s climate policies.&nbsp; Years ago, the state set up a system that pays cattle farmers to turn the methane emitted from cattle manure into natural gas. It&#8217;s become wildly popular because the subsidies are extremely lucrative. But research suggests the program exposes the shortcomings of carbon offsetting and trading schemes. Instead of forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have opted for incentives that swap climate responsibilities between parties and regions. The system could ultimately lock in more warming. Read the full story on California&#8217;s dubious carbon calculations. —James Temple This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. Watch now: longevity’s next frontier—“reprogramming” your body Billions of dollars are pouring into efforts to reverse aging as scientists investigate ways to return cells to a younger state. But how close are these experimental treatments? And are they like
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:33]
+标题: browser-use 发布开源 AI 视频剪辑 Skill「video-use」
+链接: https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko
+正文: AI 视频剪辑 Skill 分享「video-use」 https://github.com/browser-use/video-use @browser_use 团队推出的开源 Skill，定位为面向 AI Coding Agents（Codex、Claude Code、Cursor、Hermes Agent 等）的视频剪辑 Skill。它不做传统意义上的 Premiere / CapCut 替代品，它是一套让 LLM 通过 “阅读转写文本 + 按需可视化” 来理解视频、并调用 ffmpeg 等工具完成剪辑的 prompt-engineering + 工具脚本集合。 # 核心思想：LLM 不“看”视频，它“读”视频 第一层：音频转写文本（always loaded） 通过 ElevenLabs Scribe 获得逐词时间戳、说话人分离、音频事件标记（如笑声、叹息、掌声），打包成约 12KB 的 takes_packed.md。这是 LLM 的主要“阅读材料”。 第二层：视觉时间线视图（on demand） 仅在决策点（歧义停顿、重拍对比、切点校验）调用 timeline_view.py 生成胶片帧 + 波形 + 字幕的 PNG 复合图。 对比朴素方案“30000 帧 × 1500 tokens = 4500 万 tokens 噪声”，项目走的是 “12KB 文本 + 少量 PNG” 的轻量化路径。这与 Browser Use 让 LLM 读结构化 DOM 而非直接看截图的思路一致。 # 技术流水线：Transcribe → Pack → Reason → EDL → Render → Self-Eval 1. 转写 - transcribe. py / transcribe_batch.py 提取 16kHz 单声道音频，调用 ElevenLabs Scribe，缓存为 transcripts/.json 2. 打包 - pack_transcripts.py 将逐词 JSON 合并为按 0.5s 静音或说话人切换断句的 takes_packed.md 3. 决策 - LLM 自身 阅读 packed transcript，必要时用 timeline_view.py 可视化 4. 生成 EDL - subagents 输出 JSON 格式 edl.json，包含源文件、切点、节奏标签、引用、原因 5. 渲染 - render. py 分段提取 → 无损 concat → 叠动画 → 压字幕 → 响度标准化 6. 自评估 - timeline_view.py + LLM 在输出文件的每个切点 ±1.5s 检查跳帧、爆音、字幕遮挡，最多 3 轮 # 关键工程细节： ffmpeg 为主的剪辑实现 1. 分段提取 + -c copy 拼接（避免叠 overlay 时二次编码） 2. 每段边界 30ms 音频淡入淡出（消除切点爆音） 3. overlay 使用 setpts=PTS-STARTPTS+T/TB 进行时移，确保动画第 0 帧对齐输出时间线 4. 字幕始终最后叠加（防止被动画遮挡） 5. Master SRT 使用输出时间轴偏移：output_time = word.start - segment_start + segment_offset 6. 切点必须落在词边界，并加 30–200ms 填充以吸收 Scribe 50–100ms 的时间戳漂移 7. HDR 源自动 tone-map（HLG/PQ → Rec.709 SDR） 8. 竖屏源自动按高度缩放 9. 两-pass loudnorm：-14 LUFS / -1 dBTP / LRA 11，符合主流社交平台标准 # 动画与包装：多引擎并行 1. HyperFrames：HTML/CSS/GSAP compositions，适合产品 UI、网页转视频、动态排版 2. Remotion：React 组件化 compositions 3. Manim：数学/技术/3Blue1Brown 风格解释动画 4. PIL + PNG sequence + ffmpeg：简单卡片、计数器、打字效果 # SKILL.md 的 12 条“铁律”：生产正确性优先 1. 必须遵守的 12 条硬规则：字幕最后、分段提取再拼接、30ms 淡入淡出、PTS 时移、SRT 输出时间偏移、不切在词中、切点填充、逐词 ASR、缓存转写、并行动画、先确认策略再执行、输出在 /edit/ 2. 其余全部是可调整的“worked example”：调色风格、字幕分块、动画时长、节奏等都可按材料和用户品牌定制
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:15]
+标题: 谷歌AI建设导致2025年用电量增长37%
+链接: https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33
+正文: 2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过电网脱碳速度，但仍致力于扩大全球清洁电力规模，并通过技术创新降低运营排放。2024年谷歌用电量增幅为27%。 🔗 阅读原文：https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:04]
+标题: Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试
+链接: https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps
+正文: Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。任务分功能开发与Bug修复两类：功能任务指令类似自然语言消息，采用验证智能体基于专家配方自动生成行为测试；Bug任务要求根据日志、profiling等运行时信息深入调查。排行榜显示，Claude Opus 4.8搭配Mini-SWE-Agent（max effort）通过率24.0%，Claude Sonnet 5为19.4%，GPT-5.5为16.0%，最强前沿模型在超75%任务中未能达到高级工程师级别的正确性与品味。每个功能任务平均涉及11个文件，最强智能体也需数百步完成；中位指令长度仅为SWE-Bench Pro的31%。任务来源于从库到多服务应用的仓库PR，由拥有数百次提交的工程师编写。 🔗 阅读原文：https://senior-swe-bench.snorkel.ai/
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 10:22]
+标题: 千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索
+链接: https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v
+正文: 千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结"多快好省"方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/10。团队探索从被动响应转向主动服务，构建User Memory、Environment、Task System、Assistant四大组件，指出"情商"是主动服务最难环节。朱达提出Agent工程从Prompt Engineering演进至Harness Engineering，下一站是A IWare Engineering，强调"低功耗，够用就行"。 🔗 阅读原文：https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 09:10]
+标题: 证监会同意宇树科技科创板 IPO 注册申请
+链接: https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr
+正文: 7月2日，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。宇树科技是国内头部民用足式、人形机器人研发企业，全球四足机器人销量领先，2016年由王兴兴在杭州创立，截至2025年6月员工总数超1000人。公司核心优势在于实现关节电机、减速器、控制器等核心零部件全栈自研，关键部件成本仅为进口产品的约1/3。批复自同意注册之日起12个月内有效。 🔗 阅读原文：https://www.ithome.com/0/971/790.htm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 08:46]
 标题: Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具
@@ -76,10 +101,19 @@
 链接: https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd
 正文: Cloudflare 为所有网站所有者提供更精细的AI流量管控选项，取代一刀切的屏蔽方式。用户可轻松区分并管理搜索爬虫、AI智能体爬虫和训练爬虫，同时新增保护广告变现页面的能力。 🔗 阅读原文：https://blog.cloudflare.com/content-independence-day-ai-options
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 10:03]
-标题: OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略
-链接: https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly
-正文: OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna Pro提升7.1个百分点（16.5%→23.6%），Terra Pro提升5.2（23.3%→28.5%），Sol Pro仅提升2.8（28.7%→31.5%）。Terra Pro（28.5%）几乎与标准Sol（28.7%）持平。论文未披露Pro运行的token用量，也不清楚该分层是否会在ChatGPT中实际推出。 🔗 阅读原文：https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 03:46]
+标题: Retail giant exits U.S. fashion after multi-million-dollar scandal
+链接: https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:36]
+标题: Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more
+链接: https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-premarket-sndk-hood-pltr.html
+正文: These are the stocks posting the largest moves premarket.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:00]
+标题: SpaceX may emerge as ultimate blueprint for new wave of mega-cap IPOs
+链接: https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html
+正文: "It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead," the Kathmere Capital CIO says.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 01:00]
 标题: Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months
@@ -111,11 +145,6 @@
 链接: https://www.cnbc.com/2026/07/01/magnificent-7-stocks-rough-june-pushes-them-into-the-red-for-the-year-whats-behind-the-decline.html
 正文: The group — which Microsoft, Nvidia, Alphabet, Apple, Meta, Tesla and Amazon — shaved off roughly $2 trillion in market cap during June.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 11:35]
-标题: Stocks making the biggest moves premarket: Nike, ServiceNow, Constellation Brands & more
-链接: https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-premarket-nke-now-stz.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 22:55]
 标题: China-linked actors target more than technology as AI competition with U.S. intensifies
 链接: https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html
@@ -126,10 +155,20 @@
 链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
 正文: "Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 09:53]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-02 00:00]
+标题: How Miro is redefining collaboration across the product development life cycle
+链接: https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle
+正文: Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-02 00:00]
+标题: The serial builder advantage: Why repeat innovators win
+链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win
+正文: New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 12:03]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 09:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 12:03]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
