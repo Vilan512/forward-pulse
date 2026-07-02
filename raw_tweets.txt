@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-02 06:32:20
-# 共计 27 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-02 09:53:28
+# 共计 27 条来自 5 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-02 09:00]
+标题: Why California’s carbon manure math doesn’t add up
+链接: https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
+正文: Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because the subsidies are extremely lucrative. But a growing body of research suggests the program is a case study in the shortcomings of our preferred approaches to climate action. Instead of simply forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have repeatedly opted to set up convoluted incentive systems that swap climate responsibilities between parties and regions. As studies have shown again and again, these carbon offsetting and trading schemes often dramatically overstate the emissions reductions actually achieved in the one place that matters: the atmosphere. The dairy program illustrates a particular version of this problem, muddling the impacts of different types of greenhouse gases in a way that researchers argue will lock in more warming in the future. Despite this and other concerns, California regulators decided in 2024 to extend parts of the program beyond 2050. And a recent proposal by the state’s air resources board could send millions of additional dollars to dairy farmers as part of a plan that would ease restrictions on major greenhouse-gas producers. Here’s how the system works: The state’s climate regulations require the transportation fuels industry to lower the carbon dioxide levels in its products over time—or purchase credits from other parties that cut fuel emissions, including cattle farmers. Dairies generally spray cattle manure into giant open lagoons, where microbes gobble up organic matter and produce methane as a by-product. But if farmers set up what are known as anaerobic digesters, the sludge is redirected into covered vessels that capture the biogas, which 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-01 14:35]
 标题: LLMs are stuck in a groupthink groove. This startup is trying to get them out.
@@ -10,6 +15,21 @@
 标题: The Download: Anthropic launches Claude Science, and California’s carbon manure math
 链接: https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research like Claude Code supports software engineering.Like Claude Code, Claude Science can autonomously carry out meaningful work from concise, high-level instructions, with tools for computational biology and drug development. The launch signals that Anthropic is doubling down on AI for science, and the company will also use the product in its own research into drugs for rare, neglected diseases.Discover why Anthropic is betting big on AI for scientific research. —Grace Huckins Why California’s carbon manure math doesn’t add up Something stinks in California’s climate policies.&nbsp; Years ago, the state set up a system that pays cattle farmers to turn the methane emitted from cattle manure into natural gas. It&#8217;s become wildly popular because the subsidies are extremely lucrative. But research suggests the program exposes the shortcomings of carbon offsetting and trading schemes. Instead of forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have opted for incentives that swap climate responsibilities between parties and regions. The system could ultimately lock in more warming. Read the full story on California&#8217;s dubious carbon calculations. —James Temple This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. Watch now: longevity’s next frontier—“reprogramming” your body Billions of dollars are pouring into efforts to reverse aging as scientists investigate ways to return cells to a younger state. But how close are these experimental treatments? And are they like
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 08:46]
+标题: Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具
+链接: https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe
+正文: ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据来源覆盖 Fitbit、Pixel Watch 及连接的第三方设备。 🔗 阅读原文：https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 08:24]
+标题: Kimi K2.7 Code 已在 GitHub Copilot 上正式发布
+链接: https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh
+正文: Kimi K2.7 Code 开源权重模型已在 GitHub Copilot 中正式可用，成为 Copilot 模型选择器首个可选的开源权重模型，为编程工作流提供更低成本选择。该模型由 GitHub 托管于 Microsoft Azure，按供应商列表价格以用量计费。逐步向 Copilot Pro、Pro+ 和 Max 计划用户推送，用户可在 Visual Studio Code 1.127.0 或更新版本、Visual Studio 17.14.6 或更新版本、JetBrains 1.9.1-251 或更新版本、Xcode、Eclipse 等 IDE 及 Copilot CLI、GitHub.com、GitHub Mobile 等平台中选用。后续几周将扩展至 Copilot Business 和 Enterprise，当前默认关闭，需管理员在 Copilot 设置中启用策略。 🔗 阅读原文：https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 07:39]
+标题: OpenAI提议美国政府持股5%估值426亿美元
+链接: https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r
+正文: OPENAI 🔥：据《金融时报》和 CNBC 报道，美国政府可能获得 OpenAI 5% 的股份，价值 426 亿美元。 &gt; 根据《金融时报》的一篇报道，OpenAI 提议向美国政府移交该公司 5% 的股份。 &gt; 以这家 AI 初创公司近期 8520 亿美元的估值计算，该潜在持股价值约为 426 亿美元。 &gt; 据报道，OpenAI CEO Sam Altman 辩称，此举是与公众分享 AI 发展红利的最佳方式。 [引用 @AndrewCurran_]：据《金融时报》报道，OpenAI 提议向特朗普政府移交 5% 的股份。
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 02:53]
 标题: 昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊
@@ -61,20 +81,6 @@
 链接: https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly
 正文: OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna Pro提升7.1个百分点（16.5%→23.6%），Terra Pro提升5.2（23.3%→28.5%），Sol Pro仅提升2.8（28.7%→31.5%）。Terra Pro（28.5%）几乎与标准Sol（28.7%）持平。论文未披露Pro运行的token用量，也不清楚该分层是否会在ChatGPT中实际推出。 🔗 阅读原文：https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 08:10]
-标题: NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型
-链接: https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa
-正文: NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升 2.42 倍（γ=0.8，块大小 S=16）。降噪器在约 2.1T token 上训练，骨干使用 25T token 预训练。总参数约 60B，每 token 活跃参数约 3B/塔。支持扩散、模拟 AR 和 AR 三种解码模式。 🔗 阅读原文：https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 06:57]
-标题: 亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司
-链接: https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h
-正文: 亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。 🔗 阅读原文：https://www.ithome.com/0/971/071.htm
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 15:07]
-标题: Former retail giant closed over 1,000 locations
-链接: https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 01:00]
 标题: Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months
 链接: https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html
@@ -110,11 +116,6 @@
 链接: https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-premarket-nke-now-stz.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 07:07]
-标题: Xi touts China Communist Party's global influence in speech marking 105th anniversary
-链接: https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
-正文: Chinese President Xi Jinping spoke Wednesday to commemorate the 105th anniversary of the ruling Communist Party of China.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 22:55]
 标题: China-linked actors target more than technology as AI competition with U.S. intensifies
 链接: https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html
@@ -125,10 +126,10 @@
 链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
 正文: "Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 06:32]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 09:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 06:32]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 09:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
