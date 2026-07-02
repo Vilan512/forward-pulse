@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-01 23:03:51
-# 共计 42 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-02 02:29:35
+# 共计 25 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-01 14:35]
 标题: LLMs are stuck in a groupthink groove. This startup is trying to get them out.
@@ -11,9 +11,10 @@
 链接: https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research like Claude Code supports software engineering.Like Claude Code, Claude Science can autonomously carry out meaningful work from concise, high-level instructions, with tools for computational biology and drug development. The launch signals that Anthropic is doubling down on AI for science, and the company will also use the product in its own research into drugs for rare, neglected diseases.Discover why Anthropic is betting big on AI for scientific research. —Grace Huckins Why California’s carbon manure math doesn’t add up Something stinks in California’s climate policies.&nbsp; Years ago, the state set up a system that pays cattle farmers to turn the methane emitted from cattle manure into natural gas. It&#8217;s become wildly popular because the subsidies are extremely lucrative. But research suggests the program exposes the shortcomings of carbon offsetting and trading schemes. Instead of forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have opted for incentives that swap climate responsibilities between parties and regions. The system could ultimately lock in more warming. Read the full story on California&#8217;s dubious carbon calculations. —James Temple This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. Watch now: longevity’s next frontier—“reprogramming” your body Billions of dollars are pouring into efforts to reverse aging as scientists investigate ways to return cells to a younger state. But how close are these experimental treatments? And are they like
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-01 00:00]
-标题: Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
-链接: https://huggingface.co/blog/cerebras-gemma4-voice-ai
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 00:56]
+标题: Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美
+链接: https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu
+正文: Skills for Design Engineers 作者 @emilkowalski 是知名设计工程师，曾在 Vercel、Linear 工作，也是 Sonner、Vaul 等流行组件的创建者。他把多年积累的一套 UI/动画原则，沉淀成设计工程师们的设计品味 Skills，让 Codex、Claude Code、Cursor 等 Coding Agents 在写 UI 和动画时，具备接近资深设计工程师的审美判断！ https://github.com/emilkowalski/skills 仓库结构：三个相互补充的 Skills 1. 先建立决策框架（emil-design-eng） 主 Skill：设计工程哲学 + 动画决策框架 + 组件构建原则 2. 再审查代码（review-animations） · SKILL.md 以严格标准审查动画/动效代码，输出“Before/After/Why”表格 · STANDARDS.md 评审的数值/曲线参考表（easing、duration、spring 等） 3. 最后帮助用户精准描述动效（animation-vocabulary） 词汇表：把“那个弹一下的效果”翻译成“Pop in”等专业术语 核心主张：动画不是“让它动起来”，而是“让它感觉对” 1. 动画需要理由 每条动画都必须回答一个问题：“它为什么要动？” 合理理由： · 空间一致性（toast 从同一方向进出） · 状态指示（按钮变形表示加载完成） · 解释关系（引导用户理解状态变化） · 防止突兀（元素突然出现/消失） · 反馈（按下按钮时 scale(0.97)） 不合理理由： · “看起来很酷” + 高频出现 → 应该删除 2. 按使用频率决定动画强度 · 每天 100+ 次（快捷键、命令面板）：禁止动画 · 每天几十次（hover、列表导航）：删除或大幅简化 · 偶尔（弹窗、抽屉、toast）：标准动画 · 罕见/首次（ onboarding、反馈）：可以适当“惊喜” 最实用的技术原则 Easing：不要信默认，要用强曲线 · UI 元素进入/退出 → ease-out · 已在屏幕上的元素移动 → ease-in-out · hover / 颜色 → ease · 恒速运动 → linear · 绝对禁止 UI 动画使用 ease-in（开头慢，用户会感觉到延迟） Duration：UI 动画控制在 300ms 内 · 按钮按下反馈：100–160ms · Tooltip / 小弹层：125–200ms · 下拉框/选择器：150–250ms · 模态框/抽屉：200–500ms Physical correctness · 永远不要从 scale(0) 开始：现实中不会凭空出现。用 scale(0.95) + opacity: 0。 · Popover 从触发点缩放：transform-origin 要指向触发按钮，而不是元素中心（modals 例外）。 · 按钮按下必须有反馈：transform: scale(0.97) 是默认。 性能规则 · 只动画 transform 和 opacity（GPU 层）。 · 不要用 width/height/margin/top/left 做动画。 · Framer Motion 的 x/y/scale 简写不是硬件加速的，要用完整 transform 字符串。 · 不要用父元素的 CSS 变量驱动子元素 transform（会引发样式重算风暴）。 · 预定动画用 CSS；动态/可打断的用 JS 或 Spring。 打断与对称 · CSS transition 可打断、可重定向；@ keyframes 会从头开始。 · 长按/删除等场景：按下慢（2s linear），释放快（200ms ease-out），非对称时间。 无障碍 · 尊重 prefers-reduced-motion：不是“全部关掉”，而是保留 opacity/颜色，移除位移动画。 · hover 动画必须加 @ media (hover: hover) and (pointer: fine)，避免触屏设备误触发。 评审 Skill：如何检查代码 review-animations 设定了十条“不可妥协”的标准，并把输出格式严格化为： · transition: all 300ms &gt; transition: transform 200ms ease-out -- 精确指定属性，避免 all 触发非 GPU 动画 · transform: scale(0) &gt; transform: scale(0.95); opacity: 0 -- 不应凭空出现 animation-vocabulary
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 20:45]
 标题: Claude Code v2.1.198 发布
@@ -60,59 +61,14 @@
 链接: https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h
 正文: 亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。 🔗 阅读原文：https://www.ithome.com/0/971/071.htm
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 02:24]
-标题: 美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型
-链接: https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo
-正文: 美团于6月30日发布新一代万亿参数大模型LongCat-2.0并开源。总参数1.6T，平均激活约48B，原生支持1M超长上下文，在五万卡国产算力集群上完成全流程训练与推理。采用LSA稀疏注意力、零计算专家、ScMoE及MOPD多专家融合（Agent/Reasoning/Interaction三组专家）架构。评测中SWE-bench Pro获59.5，SWE-bench Multilingual获77.3。预览版已通过OpenRouter和longcat.ai开放，月调用量跻身OpenRouter全球前三。 🔗 阅读原文：https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 01:14]
-标题: mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南
-链接: https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy
-正文: /writing-great-skills https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-great-skills 来自 152K✨ Skills For Real Engineers 作者 @mattpocockuk 的新 Skill，教咱们用最少但最有行为牵引力的结构，把 Skill 写成能稳定触发、分层加载、清楚完成、持续删减的“可预测工作流”。 # 跟这个优质 Skill 学它的编写思想 1. Skill 的根本目标是过程可预测 Skill 不是知识库，也不是提示词堆叠。它的作用是让模型在某类任务中形成稳定行为路径。好的 Skill 应该减少“这次做得细、下次做得浅”的波动。 2. 触发方式有成本权衡 它区分两类 Skill： · Model-invoked：模型能自动发现并调用。优点是无需用户记住，缺点是 description 会长期占用上下文注意力。 · User-invoked：只有用户点名才会触发。优点是零上下文负担，缺点是用户必须记得它存在。 这里很关键：不是所有 Skill 都该自动触发。只有当模型确实需要自己识别任务，或其他 Skill 需要调用它时，才值得让它 model-invoked。 3. description 是触发器，不是简介 对于 model-invoked skill，description 的职责不是介绍得完整，而是准确告诉模型“什么时候该用我”。因此它应当前置关键触发词，只保留真正不同的触发分支，避免同义重复。 这点很实用：很多 Skill 写坏，是因为 description 像产品简介，而不是调用条件。 4. 信息层级决定 Skill 是否清爽 它提出一个三层结构： · SKILL.md 中的步骤：模型必须按顺序做的事。 · SKILL.md 中的参考：模型运行时需要随手查看的规则、定义、事实。 · 外部参考文件：只在特定场景需要加载的材料。 好的 Skill 不把所有东西塞进主文件，而是用 progressive disclosure：常用、必须、影响流程的内容留在主文件；分支性、解释性、定义性内容放到外部文件，通过明确指针调用。 5. 每个步骤都要有完成标准 它特别强调 completion criterion。一个步骤不能只写“分析清楚”“完成检查”这种模糊目标，而要让模型能判断“是否已经完成”。 完成标准越清楚，越能防止模型提前进入下一步，也就是它说的 premature completion。 6. 拆分 Skill 不是为了整洁，而是为了控制注意力 什么时候拆？ · 如果一个 Skill 有独立触发词，可拆成单独的 model-invoked skill。 · 如果后续步骤会让模型急着往前跑，可把流程拆开，隐藏后续步骤，迫使模型认真完成当前阶段。 这很像工作流设计中的“减少提前优化”和“控制认知视野”。 7. leading word 是压缩行为的关键词 它提出一个很有洞察的概念：leading word。也就是用模型预训练中已经熟悉的强概念，来压缩一组行为要求。 例如与其反复写“快速、确定、低开销”，不如找到一个更有行为牵引力的词。好处有两个：节省 token，并且更容易稳定唤起模型已有的行为模式。 但它也提醒：弱词可能无效。例如“be thorough”如果只是模型默认会做的程度，那就是 no-op；需要更有约束力的词。 它的失败模式诊断很有用 这个 Skill 给出的几个常见问题非常精确： · Premature completion：模型过早认为当前步骤完成。优先修正完成标准，而不是马上拆 Skill。 · Duplication：同一个意思出现在多个地方，增加维护成本，也会让某个概念被模型过度重视。 · Sediment：旧内容沉积，没人敢删，导致 Skill 越来越脏。 · Sprawl：内容都有效，但主文件太长，注意力被稀释。 · No-op：看似有用，实际不会改变模型行为的句子。 其中最有操作价值的是 no-op 测试：一句话如果删掉后模型行为几乎不变，它就不该留在 Skill 里。 [引用 @mattpocockuk]：/writing-great-skills is quickly becoming my most often-invoked skill It's just really good at writing skills, guys. npx skills add mattpocock/skills --skill writing-great-skills
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 00:11]
-标题: Anthropic在Claude Code中植入隐写术代码识别中国用户
-链接: https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq
-正文: Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。 🔗 阅读原文：https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 00:00]
-标题: 构建AI智能体应优先设计路由
-链接: https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj
-正文: 构建AI智能体时，应优先设计路由（router）而非选择模型。路由决定每个请求由哪层模型处理。正确路由可使70-80%流量运行在免费本地模型或异步推理上，将AI开销降低90%+。Brian Armstrong指出Coinbase通过更好的默认设置、路由和缓存，在token使用量增长的同时将AI支出减半。路由分三层：技能分类器、路由器、模型选择器。本地计算近乎零成本，异步批量推理比实时推理便宜两个数量级。大多数工作无需秒级返回。同步预测器标记复杂任务，夜间批量评估器更新路由权重。技能蒸馏后，非编码类任务中70-80%智能体流量可由本地模型处理。 🔗 阅读原文：https://www.tomtunguz.com/ai-execution-routing
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-01 00:00]
-标题: xAI 发布 Voice Agent Builder 测试版
-链接: https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x
-正文: xAI 推出 Voice Agent Builder 测试版，这是一个基于 Grok Voice 的无代码平台，可在两分钟内创建生产级语音智能体。它集成电话、知识检索、工具、MCP、Guardrails 及可观测性，支持连接现有 SIP 号码、API 和 WebSocket，采用语音到语音路径。在 τ-voice Bench 上，Grok Voice Think Fast 1.0 得分 67.3%，领先 Gemini 3.1 Flash Live（43.8%）和 GPT Realtime 1.5（35.3%）。定价为每分钟音频 0.05 美元、电话费 0.01 美元，提供 80+ 种语音及声音克隆，每个账户附赠一个免费电话号码。 🔗 阅读原文：https://x.ai/news/grok-voice-agent-builder
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-06-30 23:43]
-标题: 库克与欧盟科技主管就新版Siri AI举行建设性会谈
-链接: https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff
-正文: 苹果CEO库克与欧盟科技事务负责人维尔库宁就新版Siri AI在欧推出举行建设性视频会议。新版Siri将转为可调用用户个人数据的聊天机器人，但因《数字市场法》互操作义务苹果拒绝向竞争对手开放同等数据权限，暂不在欧盟iPhone和iPad上推出。苹果提出"可信系统代理"方案，拟在设备与第三方AI模型间增加软件层，但未开发，并要求18个月监管宽限期，遭欧盟拒绝。欧盟收到数百封消费者邮件及死亡威胁。 🔗 阅读原文：https://www.ithome.com/0/970/810.htm
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 15:07]
 标题: Former retail giant closed over 1,000 locations
 链接: https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 17:21]
-标题: Market Update: OSK, REGN
-链接: https://finance.yahoo.com/research/reports/ARGUS_47491_MarketUpdate_1782926498000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 11:21]
-标题: Daily Spotlight: Investors Beware, 3Q is Here
-链接: https://finance.yahoo.com/research/reports/ARGUS_47487_MarketOutlook_1782904919000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 11:20]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47486_TechnicalAnalysis_1782904853000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 11:17]
-标题: Market Digest: SWX
-链接: https://finance.yahoo.com/research/reports/ARGUS_47484_MarketSummary_1782904643000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-01 10:31]
-标题: Daily – Vickers Top Insider Picks for 07/01/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47482_InsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 01:00]
+标题: Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months
+链接: https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html
+正文: Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-01 20:40]
 标题: Prolific tech analyst Dan Ives is exiting Wedbush for a new venture
@@ -159,45 +115,10 @@
 链接: https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
 正文: "Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-06-30 23:32]
-标题: Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it
-链接: https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html
-正文: The advance marks a sharp turnaround after years of underperformance versus large-cap peers.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: McKinsey Global Publishing’s 2026 book picks
-链接: https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks
-正文: We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: Lights, camera, algorithm: How AI is rewriting the rules of film and TV
-链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv
-正文: Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: Closing the women’s health gap: The United Kingdom’s £36 billion opportunity
-链接: https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity
-正文: Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s economy by £36 billion annually by 2040.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: Betsy Nabel on physicians and women in healthcare leadership roles
-链接: https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles
-正文: Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: What to read next McKinsey’s 2026 annual book recommendations
-链接: https://www.mckinsey.com/featured-insights/annual-book-recommendations
-正文: McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our contributors have nearly 100 books for you to choose from.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-01 00:00]
-标题: Suphachai Chearavanont: Bold moves in innovation-driven transformation
-链接: https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation
-正文: In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-01 23:03]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-02 02:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-01 23:03]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-02 02:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
