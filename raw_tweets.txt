@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-03 09:50:06
-# 共计 30 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-03 12:01:28
+# 共计 28 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-03 09:00]
 标题: The UK’s generational tobacco ban might not work. I’m supporting it anyway.
@@ -20,6 +20,21 @@
 标题: The Download: a startup has a solution for AI’s groupthink problem
 链接: https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always.&nbsp; That won’t work every time—but if it did for you, you may wonder if I have superpowers. I don’t. The truth is that most large language models are stuck in a rut. They are far more predictable and far less creative in their responses than you might expect. That’s fine for tasks like coding or research, but groupthink is a problem when you’re brainstorming or planning your next vacation. The Australian startup Springboards has a solution. It built an LLM called Flint, which has been trained to come up with a wider variety of responses than mainstream LLMs to open-ended questions such as “Where should I go in Europe?” Meet the company pushing chatbots away from the obvious. —Will Douglas Heaven The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Scientists say they have built a cell from scratch for the first timeBuilt with lab-made DNA, it can feed, grow, and multiply. (CNN)+ It brings us closer to creating synthetic life. (Quanta)+ And is arguably the greatest feat of bioengineering yet. (New Scientist $)+ But also raises concerns over the dangers of synthetic biology. (NYT $)+ Mirror organisms could threaten life on Earth. (MIT Technology Review) 2 OpenAI has proposed giving the Trump administration a 5% stakeTalks over a public ownership deal come amid rising political pressure.(FT $)+ OpenAI also proposed other US AI giants providing a 5% stake. (CNBC)+ That could include Anthropic, Google, and Meta. (Bloomberg $)+ President Trump says he wants the public to have a stake in AI. (BBC) 3 Singapore has seized a $42 millio
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 09:59]
+标题: 面向 Web 开发者的 Safari MCP 服务器
+链接: https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031
+正文: Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用"远程自动化与外部智能体"选项，即可通过命令接入，减少窗口切换。 🔗 阅读原文：https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 09:15]
+标题: 国家网信办就《互联网信息服务管理办法》再次征求意见，首设"智能信息服务"专章规范AI服务
+链接: https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0
+正文: 7月3日，国家互联网信息办公室就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见。草案新增"智能信息服务"专章，要求AI服务提供者公示技术基本原理、训练数据来源，对生成合成内容进行标识，禁止强制用户使用智能服务或利用算法扰乱网络舆论。草案还强化用户账号管理，明确对超过6个月不登录账号可依约注销；要求平台建立网络暴力信息特征库，提供屏蔽、禁止转载等防护选项。意见反馈截止8月2日。 🔗 阅读原文：https://www.ithome.com/0/972/341.htm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 09:12]
+标题: 面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM
+链接: https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3
+正文: 面壁智能发布全球首个完全由AI编写、无人类干预的生产级大模型预训练框架ForgeTrain。该框架针对特定模型和硬件从零自动"锻造"专用训练代码。基准测试显示，ForgeTrain在8小时内追平Megatron-LM，1.5至2天内实现稳定反超，模型FLOPS利用率提升约8%~10%，且可迁移至不同模型（MiniCPM4-0.5B/8B）和硬件（H100及昇腾NPU）。其采用四阶段Harness优化流程，全程自动判定。面壁智能将其工程思想概括为Forge Engineering。 🔗 阅读原文：https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 08:55]
 标题: Wan Video 推出"音乐伴舞"新功能
@@ -106,45 +121,20 @@
 链接: https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h
 正文: Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现（GPT-5.5 评分偏高近三倍），仍需人类评估员打开专业软件（如 Blender）检验几何模型等细节。测试环境为虚拟 Linux 机，配备 30 余款专业应用，每项目最多 24 小时计算时间。尽管自动化率快速攀升，多数项目仍无法达到专业质量。 🔗 阅读原文：https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:33]
-标题: browser-use 发布开源 AI 视频剪辑 Skill「video-use」
-链接: https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko
-正文: AI 视频剪辑 Skill 分享「video-use」 https://github.com/browser-use/video-use @browser_use 团队推出的开源 Skill，定位为面向 AI Coding Agents（Codex、Claude Code、Cursor、Hermes Agent 等）的视频剪辑 Skill。它不做传统意义上的 Premiere / CapCut 替代品，它是一套让 LLM 通过 “阅读转写文本 + 按需可视化” 来理解视频、并调用 ffmpeg 等工具完成剪辑的 prompt-engineering + 工具脚本集合。 # 核心思想：LLM 不“看”视频，它“读”视频 第一层：音频转写文本（always loaded） 通过 ElevenLabs Scribe 获得逐词时间戳、说话人分离、音频事件标记（如笑声、叹息、掌声），打包成约 12KB 的 takes_packed.md。这是 LLM 的主要“阅读材料”。 第二层：视觉时间线视图（on demand） 仅在决策点（歧义停顿、重拍对比、切点校验）调用 timeline_view.py 生成胶片帧 + 波形 + 字幕的 PNG 复合图。 对比朴素方案“30000 帧 × 1500 tokens = 4500 万 tokens 噪声”，项目走的是 “12KB 文本 + 少量 PNG” 的轻量化路径。这与 Browser Use 让 LLM 读结构化 DOM 而非直接看截图的思路一致。 # 技术流水线：Transcribe → Pack → Reason → EDL → Render → Self-Eval 1. 转写 - transcribe. py / transcribe_batch.py 提取 16kHz 单声道音频，调用 ElevenLabs Scribe，缓存为 transcripts/.json 2. 打包 - pack_transcripts.py 将逐词 JSON 合并为按 0.5s 静音或说话人切换断句的 takes_packed.md 3. 决策 - LLM 自身 阅读 packed transcript，必要时用 timeline_view.py 可视化 4. 生成 EDL - subagents 输出 JSON 格式 edl.json，包含源文件、切点、节奏标签、引用、原因 5. 渲染 - render. py 分段提取 → 无损 concat → 叠动画 → 压字幕 → 响度标准化 6. 自评估 - timeline_view.py + LLM 在输出文件的每个切点 ±1.5s 检查跳帧、爆音、字幕遮挡，最多 3 轮 # 关键工程细节： ffmpeg 为主的剪辑实现 1. 分段提取 + -c copy 拼接（避免叠 overlay 时二次编码） 2. 每段边界 30ms 音频淡入淡出（消除切点爆音） 3. overlay 使用 setpts=PTS-STARTPTS+T/TB 进行时移，确保动画第 0 帧对齐输出时间线 4. 字幕始终最后叠加（防止被动画遮挡） 5. Master SRT 使用输出时间轴偏移：output_time = word.start - segment_start + segment_offset 6. 切点必须落在词边界，并加 30–200ms 填充以吸收 Scribe 50–100ms 的时间戳漂移 7. HDR 源自动 tone-map（HLG/PQ → Rec.709 SDR） 8. 竖屏源自动按高度缩放 9. 两-pass loudnorm：-14 LUFS / -1 dBTP / LRA 11，符合主流社交平台标准 # 动画与包装：多引擎并行 1. HyperFrames：HTML/CSS/GSAP compositions，适合产品 UI、网页转视频、动态排版 2. Remotion：React 组件化 compositions 3. Manim：数学/技术/3Blue1Brown 风格解释动画 4. PIL + PNG sequence + ffmpeg：简单卡片、计数器、打字效果 # SKILL.md 的 12 条“铁律”：生产正确性优先 1. 必须遵守的 12 条硬规则：字幕最后、分段提取再拼接、30ms 淡入淡出、PTS 时移、SRT 输出时间偏移、不切在词中、切点填充、逐词 ASR、缓存转写、并行动画、先确认策略再执行、输出在 /edit/ 2. 其余全部是可调整的“worked example”：调色风格、字幕分块、动画时长、节奏等都可按材料和用户品牌定制
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:15]
-标题: 谷歌AI建设导致2025年用电量增长37%
-链接: https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33
-正文: 2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过电网脱碳速度，但仍致力于扩大全球清洁电力规模，并通过技术创新降低运营排放。2024年谷歌用电量增幅为27%。 🔗 阅读原文：https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 11:04]
-标题: Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试
-链接: https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps
-正文: Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。任务分功能开发与Bug修复两类：功能任务指令类似自然语言消息，采用验证智能体基于专家配方自动生成行为测试；Bug任务要求根据日志、profiling等运行时信息深入调查。排行榜显示，Claude Opus 4.8搭配Mini-SWE-Agent（max effort）通过率24.0%，Claude Sonnet 5为19.4%，GPT-5.5为16.0%，最强前沿模型在超75%任务中未能达到高级工程师级别的正确性与品味。每个功能任务平均涉及11个文件，最强智能体也需数百步完成；中位指令长度仅为SWE-Bench Pro的31%。任务来源于从库到多服务应用的仓库PR，由拥有数百次提交的工程师编写。 🔗 阅读原文：https://senior-swe-bench.snorkel.ai/
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 10:22]
-标题: 千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索
-链接: https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v
-正文: 千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结"多快好省"方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/10。团队探索从被动响应转向主动服务，构建User Memory、Environment、Task System、Assistant四大组件，指出"情商"是主动服务最难环节。朱达提出Agent工程从Prompt Engineering演进至Harness Engineering，下一站是A IWare Engineering，强调"低功耗，够用就行"。 🔗 阅读原文：https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 21:11]
 标题: Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff
 链接: https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html
 正文: The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:36]
-标题: Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more
-链接: https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-premarket-sndk-hood-pltr.html
-正文: These are the stocks posting the largest moves premarket.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-03 00:00]
+标题: A dual transformation agenda for Europe’s chemicals industry
+链接: https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry
+正文: The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios, operations, and capital allocation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 11:00]
-标题: SpaceX may emerge as ultimate blueprint for new wave of mega-cap IPOs
-链接: https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html
-正文: "It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead," the Kathmere Capital CIO says.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-03 09:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-03 12:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-03 09:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-03 12:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
