@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-03 02:29:02
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-03 06:22:47
+# 共计 32 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-02 15:37]
 标题: Achieving operational excellence with AI
@@ -20,6 +20,16 @@
 标题: Why California’s carbon manure math doesn’t add up
 链接: https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
 正文: Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because the subsidies are extremely lucrative. But a growing body of research suggests the program is a case study in the shortcomings of our preferred approaches to climate action. Instead of simply forcing industries to directly cut their pollution or pay for it as a cost of doing business, legislators have repeatedly opted to set up convoluted incentive systems that swap climate responsibilities between parties and regions. As studies have shown again and again, these carbon offsetting and trading schemes often dramatically overstate the emissions reductions actually achieved in the one place that matters: the atmosphere. The dairy program illustrates a particular version of this problem, muddling the impacts of different types of greenhouse gases in a way that researchers argue will lock in more warming in the future. Despite this and other concerns, California regulators decided in 2024 to extend parts of the program beyond 2050. And a recent proposal by the state’s air resources board could send millions of additional dollars to dairy farmers as part of a plan that would ease restrictions on major greenhouse-gas producers. Here’s how the system works: The state’s climate regulations require the transportation fuels industry to lower the carbon dioxide levels in its products over time—or purchase credits from other parties that cut fuel emissions, including cattle farmers. Dairies generally spray cattle manure into giant open lagoons, where microbes gobble up organic matter and produce methane as a by-product. But if farmers set up what are known as anaerobic digesters, the sludge is redirected into covered vessels that capture the biogas, which 
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 04:56]
+标题: claude-real-video ─ 让任何大语言模型（LLM）都能观看视频
+链接: https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3
+正文: claude-real-video 是一个开源工具，让大语言模型基于视频画面而非字幕进行理解。它通过场景变化检测提取关键帧、滑动窗口去重并转录音频，生成干净的本地文件夹供模型读取。支持 YouTube 链接或本地文件，依赖 ffmpeg 和 Whisper，通过 pip 安装。全部处理在本地完成，不上传云端。 🔗 阅读原文：https://github.com/HUANGCHIHHUNGLeo/claude-real-video
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 03:27]
+标题: 阿里达摩院发布超导材料发现AI智能体Elements Claw
+链接: https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx
+正文: 7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布首个超导材料发现AI智能体Elements Claw。该智能体采用"专通融合"架构，基于1.25亿分子/晶体结构预训练的1B参数原子基础模型Elements，判断超导性AUC达0.996，预测临界温度平均误差小于1K。AI仅用28个GPU小时筛选240万晶体结构，预测出6.8万个候选材料，其中4种（Hf21Re25、Zr4VRe7、HfZrRe4、Zr3ScRe8）已合成并验证超导性，临界温度最高6.5K。全部240万稳定晶体数据库已开放。 🔗 阅读原文：https://www.ithome.com/0/972/089.htm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 00:16]
 标题: Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录
@@ -126,20 +136,6 @@
 链接: https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r
 正文: OPENAI 🔥：据《金融时报》和 CNBC 报道，美国政府可能获得 OpenAI 5% 的股份，价值 426 亿美元。 &gt; 根据《金融时报》的一篇报道，OpenAI 提议向美国政府移交该公司 5% 的股份。 &gt; 以这家 AI 初创公司近期 8520 亿美元的估值计算，该潜在持股价值约为 426 亿美元。 &gt; 据报道，OpenAI CEO Sam Altman 辩称，此举是与公众分享 AI 发展红利的最佳方式。 [引用 @AndrewCurran_]：据《金融时报》报道，OpenAI 提议向特朗普政府移交 5% 的股份。
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 02:53]
-标题: 昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊
-链接: https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx
-正文: 昆仑万维天工3.2发布Skywork Tags，将AI智能体以团队成员身份接入Slack、飞书、钉钉、Discord、Telegram等即时通讯工具。团队可在原有工作群中@Skywork参与讨论，无需切换窗口或迁移数据。共享版Agent持续吸收多样上下文后表现反超精心调教的个人版，团队最终完全改用共享版。Skywork Tags不要求改变工作方式，让AI积累团队上下文并越用越强。 🔗 阅读原文：https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-02 02:51]
-标题: AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验
-链接: https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n
-正文: 支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索"阿宝"或"蚂蚁阿宝"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出"查公积金"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。 🔗 阅读原文：https://www.ithome.com/0/971/469.htm
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-02 03:46]
-标题: Retail giant exits U.S. fashion after multi-million-dollar scandal
-链接: https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-02 21:11]
 标题: Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff
 链接: https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html
@@ -155,10 +151,10 @@
 链接: https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html
 正文: "It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead," the Kathmere Capital CIO says.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-03 02:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-03 06:22]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-03 02:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-03 06:22]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
