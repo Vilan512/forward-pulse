@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-04 19:06:48
-# 共计 47 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-04 20:44:22
+# 共计 48 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-04 09:08]
 标题: 26000名学生研究显示AI隐藏学习成本需两年才显现
@@ -16,14 +16,53 @@
 链接: https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y
 正文: 北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。 🔗 阅读原文：https://www.ithome.com/0/972/526.htm
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-03 19:19]
-标题: pxpipe：通过图像化压缩输入token降低Claude Code成本
-链接: https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6
-正文: pxpipe是一个本地代理，将系统提示、工具文档和历史记录等密集文本渲染为PNG图像，利用图像token成本取决于像素尺寸的特性压缩输入token。在Fable 5模型上，约25k文本token压缩为约2.7k图像token，端到端账单降低59-70%。SWE-bench Lite 10个实例全部通过，成本从$54降至$27；SWE-bench Pro 19对测试中18对判定一致，单次请求成本降低约60%。该方法有损（精确ID等需保持文本），默认仅处理`claude-fable-5`请求，可通过`PXPIPE_MODELS`变量控制。 🔗 阅读原文：https://github.com/teamchong/pxpipe
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:25]
+标题: Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-first-earnings-202500618.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:50]
-标题: Prediction: SpaceX Stock Will Hit This Price by the End of 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-hit-price-185000522.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:17]
+标题: Why Did General Motors (GM) Just Partner With Micron?
+链接: https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:15]
+标题: Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?
+链接: https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-fallen-50-191550222.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:15]
+标题: Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks
+链接: https://finance.yahoo.com/markets/stocks/articles/travel-headwinds-result-attractive-valuation-191542312.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:15]
+标题: Here’s Why Analysts Are Still Bullish On Alcoa Corp (AA) Stock Despite The Selloff
+链接: https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-bullish-alcoa-191533264.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:20]
+标题: Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete
+链接: https://finance.yahoo.com/markets/stocks/articles/heres-next-major-trillion-dollar-202000709.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:15]
+标题: Wall Street Is Losing Confidence In PVH Corp (PVH), Is The Stock A Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-pvh-191514572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:15]
+标题: Lincoln National Corporation (LNC) Is One Of The Top Extreme Value Stocks To Buy Now
+链接: https://finance.yahoo.com/markets/stocks/articles/lincoln-national-corporation-lnc-one-191506722.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:14]
+标题: Wall Street Pessimism Has Made Universal Health Services (UHS) Stock A Top Extreme Value Stock To Buy Now
+链接: https://finance.yahoo.com/healthcare/articles/wall-street-pessimism-made-universal-191457323.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:14]
+标题: Equinox Gold (EQX) Just Cleared A Major Roadblock, Is The Stock Ready To Skyrocket?
+链接: https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-just-cleared-191444301.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:19]
+标题: Why July Could Be a Big Month for AMD Stock Investors
+链接: https://finance.yahoo.com/markets/stocks/articles/why-july-could-big-month-201900322.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:14]
+标题: Is Equitable Holdings (EQH) A Top Extreme Value Stock To Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/equitable-holdings-eqh-top-extreme-191425576.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 16:02]
 标题: Trump Accounts to debut as US kicks off 250th Independence Day celebrations
@@ -33,133 +72,109 @@
 标题: Jim Cramer on AST SpaceMobile: “I Think It Can Make Money in Two Years”
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ast-spacemobile-think-143029882.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:30]
-标题: Jim Cramer Prefers GEV Over NuScale, Calls the Latter “Too Speculative”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-gev-over-143021035.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
+标题: Mortgage and refinance interest rates today, Saturday, July 4: Rates are mixed this July 4 holiday
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-4-rates-are-mixed-this-july-4-holiday-100000596.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:30]
-标题: Jim Cramer Says “For the First Time in Ages, I Like Having a Position in Moderna”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-first-time-143014976.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:14]
+标题: The Monthly Income Trap: How JEPQ Investors Gave Up $18,000 Per $10,000 Invested Since Inception
+链接: https://finance.yahoo.com/markets/options/articles/monthly-income-trap-jepq-investors-201444391.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
+标题: Best CD rates today, Saturday, July 4, 2026: Best account provides 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-4-2026-best-account-provides-410-apy-100000802.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:07]
+标题: Numbers Don't Lie: Ferrari Is Still a Unicorn and Still a Big Buy Despite Luce Backlash
+链接: https://finance.yahoo.com/markets/stocks/articles/numbers-dont-lie-ferrari-still-200700365.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 20:07]
+标题: Jim Cramer surprises investors with his favorite stock pick
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-surprises-investors-favorite-200700700.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:55]
+标题: Which iShares Value ETF Is Better, the Small Cap-Focused IWN or IJJ Targeting Mid-Cap Stocks?
+链接: https://finance.yahoo.com/markets/stocks/articles/ishares-value-etf-better-small-195501120.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:50]
+标题: The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100
+链接: https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-memory-supercycle-195000985.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:37]
+标题: ‘The Borrower Is Slave to the Lender’: Dave Ramsey Warns a 22-Year-Old Against Letting a Rich Friend Pay Off His $70,000 Debt
+链接: https://finance.yahoo.com/markets/articles/borrower-slave-lender-dave-ramsey-193755493.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:37]
+标题: The Smartest Vanguard ETF to Buy With $1,000 Right Now
+链接: https://finance.yahoo.com/markets/stocks/articles/smartest-vanguard-etf-buy-1-193700141.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:29]
+标题: Why Rocket Lab Stock Skyrocketed Last Week
+链接: https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-skyrocketed-192910622.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:25]
+标题: Vertical Aerospace Just Secured a Critical Supplier Agreement for Its Valo Fleet: Time to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/vertical-aerospace-just-secured-critical-192500334.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:20]
+标题: Warren Buffett's Berkshire Hathaway Owns $41 Billion of Alphabet Stock: Here Are 3 Possible Reasons Why
+链接: https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-hathaway-owns-192000572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:18]
+标题: $1 Million in Retirement Savings Spends Like $40,000 a Year. Here’s Why That’s Not Enough.
+链接: https://finance.yahoo.com/markets/articles/1-million-retirement-savings-spends-191821825.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:13]
+标题: BofA sees Delta, United entering a rare airline sweet spot
+链接: https://finance.yahoo.com/markets/stocks/articles/bofa-sees-delta-united-entering-191300683.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:11]
+标题: The Portfolio That Lets You Go Part-Time Five Years Early
+链接: https://finance.yahoo.com/markets/stocks/articles/portfolio-lets-part-time-five-191152423.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:05]
+标题: Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.
+链接: https://finance.yahoo.com/markets/stocks/articles/meet-high-yield-dividend-stock-190500710.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:05]
+标题: Why Inheriting a Home in the Great Wealth Transfer May Not Mean Financial Security
+链接: https://finance.yahoo.com/real-estate/articles/why-inheriting-home-great-wealth-190500184.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:01]
+标题: Kevin O’ Leary Says Elon Musk Has No Problem Walking Away From You Mid Conversation If He’s Bored — ‘I've Never Met Anybody Like Him’
+链接: https://finance.yahoo.com/technology/articles/kevin-o-leary-says-elon-190138026.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 19:01]
+标题: Prediction: Micron Technology Stock Will Hit at Least $2,000 in 1 Year
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-micron-technology-stock-hit-190100041.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:50]
+标题: Prediction: SpaceX Stock Will Hit This Price by the End of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-hit-price-185000522.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:35]
 标题: Higher-for-Longer Rates Are a Gift for Life Insurers. MetLife and Prudential Are Cashing In.
 链接: https://finance.yahoo.com/markets/stocks/articles/higher-longer-rates-gift-life-183500490.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:30]
-标题: Jim Cramer Says He Likes Agnico Eagle But Believes Gold Is Going Lower
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-agnico-143005546.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:24]
-标题: Jim Cramer on Dell: “I Missed One of the Greatest Stories Ever Told”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dell-missed-one-142420319.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:24]
-标题: Jim Cramer Says He Kept Waiting for Breaks in Stocks Like Lam Research Which Never Came
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-kept-waiting-142412506.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:24]
-标题: Jim Cramer Believes “Micron’s Become a Secular Growth Story, Not a Cyclical Story”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-micron-become-142402063.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:34]
 标题: FEPI’s 25% Yield Masks a Painful Truth About Call-Writing Income
 链接: https://finance.yahoo.com/markets/options/articles/fepi-25-yield-masks-painful-183423895.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:23]
-标题: Jim Cramer on SpaceX: “This Stock Is Now Hostage to the Mechanics of the Market”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-spacex-stock-now-142353782.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:23]
-标题: Jim Cramer on Cerebras Systems: “I Warned You to Stay Away From This One”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cerebras-systems-warned-142341194.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:23]
-标题: Jim Cramer Says He Happens to “Like NextEra Very Much”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-happens-nextera-142330726.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:23]
-标题: Jim Cramer Calls Walmart Stock’s Decline “Excessive”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-walmart-stock-142314032.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:26]
 标题: Why GPIQ Lags QQQ in Rallies, Yet Retirees Keep Buying the Monthly Dividend
 链接: https://finance.yahoo.com/markets/options/articles/why-gpiq-lags-qqq-rallies-182637159.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:22]
-标题: Jim Cramer Believes “Affirm’s Going Straight” to 100
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-affirm-going-142246079.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:21]
-标题: Jim Cramer Considers AMD Stock’s Dip as a Buying Opportunity
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-amd-stock-142132089.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:21]
-标题: Jim Cramer Says Corning’s Recent Decline “Seems Extreme”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-corning-recent-142113842.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:21]
-标题: Jim Cramer on NIKE: “We Lost a Ton of Money in This”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nike-lost-ton-142101236.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:26]
 标题: 1 Simple Reason to Buy NuScale Power (SMR) Right Now
 链接: https://finance.yahoo.com/markets/stocks/articles/1-simple-reason-buy-nuscale-182613770.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:20]
-标题: Jim Cramer on Cardinal Health: “It’s Been a Real Stalwart, and I Don’t Think It’s Done”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cardinal-health-real-142048565.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:20]
-标题: Jim Cramer Says He Bets “The Gains in CVS Will Be Long-Lasting”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-bets-gains-142032204.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:20]
-标题: Jim Cramer Says He Would Avoid Blue Owl and Prefers Blackstone
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-avoid-blue-142020139.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:20]
-标题: Jim Cramer on Palantir: “This Is the Fastest Grower of the Stocks I Follow, and It’s Been Crushed”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-fastest-grower-142010542.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:20]
 标题: Netflix Stock Is Flirting With $70. Once-in-a-Decade Opportunity or Value Trap?
 链接: https://finance.yahoo.com/markets/stocks/articles/netflix-stock-flirting-70-once-182000951.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:19]
-标题: Jim Cramer on ServiceNow: “These Gains, They May Be Ephemeral”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-servicenow-gains-may-141957705.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:19]
-标题: Jim Cramer Explains Why He Thinks Meta Has “More Room to Run”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-thinks-141944498.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:19]
-标题: Jim Cramer Calls Medline the “Best IPO of the Year”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-medline-best-141935578.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:19]
-标题: Jim Cramer Highlights General Mills’ “Blowout Quarter”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-general-mills-141923785.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:10]
 标题: Hovering Around $1,800 a Share, Is an ASML Stock Split Imminent?
 链接: https://finance.yahoo.com/markets/stocks/articles/hovering-around-1-800-share-181000499.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:11]
-标题: Needham Maintains Buy Rating on Zeta Global Holdings (ZETA) Stock
-链接: https://finance.yahoo.com/technology/ai/articles/needham-maintains-buy-rating-zeta-141130943.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 14:11]
-标题: Cantor Fitzgerald Raises PT on Marvell Technology (MRVL) Stock
-链接: https://finance.yahoo.com/technology/ai/articles/cantor-fitzgerald-raises-pt-marvell-141121931.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
-标题: Mortgage and refinance interest rates today, Saturday, July 4: Rates are mixed this July 4 holiday
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-4-rates-are-mixed-this-july-4-holiday-100000596.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
-标题: Best CD rates today, Saturday, July 4, 2026: Best account provides 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-4-2026-best-account-provides-410-apy-100000802.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 18:02]
 标题: Why Ross Dress for Less is Everywhere Now
@@ -169,27 +184,15 @@
 标题: Dividend King vs. Growth Giant: Johnson & Johnson Takes on Eli Lilly
 链接: https://finance.yahoo.com/healthcare/articles/dividend-king-vs-growth-giant-180027839.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 17:57]
-标题: AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)
-链接: https://finance.yahoo.com/technology/ai/articles/ai-cant-thrive-without-stock-175700505.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 17:52]
-标题: The Radian Group's Chairman Sold Over 3,000 Company Shares. Should Investors Worry?
-链接: https://finance.yahoo.com/markets/stocks/articles/radian-groups-chairman-sold-over-175201313.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 17:51]
-标题: Here's Why The Latest Rocket Lab Acquisition Could Shake Up The Entire Space Economy
-链接: https://finance.yahoo.com/economy/articles/heres-why-latest-rocket-lab-175152236.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-04 12:54]
 标题: The World Cup sends prediction market volumes soaring to record highs
 链接: https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html
 正文: Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-04 19:06]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-04 20:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-04 19:06]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-04 20:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
