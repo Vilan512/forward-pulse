@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-05 18:01:05
-# 共计 48 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-05 20:06:32
+# 共计 57 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 18:19]
+标题: 扎克伯格：建千兆瓦级AI集群，集中精英与资本
+链接: https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73
+正文: "We're building this Prometheus cluster, the first gigawatt-plus single cluster...We're talking about many hundreds of billions of dollars of capital." Mark Zuckerberg says his job is to concentrate elite people, capital, and infrastructure. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 17:43]
 标题: 三周前，我不小心创办了一家小公司
@@ -16,22 +21,39 @@
 链接: https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs
 正文: Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。 🔗 阅读原文：https://github.com/Trystan-SA/claude-design-system-prompt via AI HOT · https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 14:00]
+标题: 美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码
+链接: https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
+正文: 🐱 LongCat-2.0 现已完全开源—采用 MIT 许可证，无任何限制。 自几天前发布以来，社区的反馈令人难以置信。 感谢大家的所有反馈、讨论和关注。 今天，我们向所有人发布模型权重和推理代码。 ◆ 1.6T MoE · 约 48B 活跃参数 · 1M token 上下文窗口 ◆ 智能体原生：可直接与 Claude Code、OpenClaw 和 Hermes Agent 集成 ◆ 部署：支持 GPU 和 NPU 平台—已在大型国产集群上验证 📑 技术博客：https://longcat.ai/blog/longcat-2.0/ 🤗 HuggingFace：https://huggingface.co/meituan-longcat/LongCat-2.0 💻 GitHub：https://github.com/meituan-longcat/LongCat-2.0 🪄 ModelScope：https://modelscope.ai/collections/meituan-longcat/LongCat-20 👇 推理代码 GPU：https://github.com/sgl-project/sglang/pull/30042 NPU：https://github.com/meituan-longcat/SGLang-FluentLLM/tree/npu [引用 @Meituan_LongCat]：介绍 LongCat-2.0 🐱 1.6T 参数 · MoE 架构，约 48B 活跃参数 · 1M 上下文窗口 Owl Alpha 在 @OpenRouter 上背后的完整模型 — 现已开放。 从头为智能体编程构建： ◆ LongCat Sparse Attention (LSA) — 高效扩展至 1M 上下文 token ◆ Zero-Compute Experts — 每个 token 动态激活 33B–56B 参数，零算力浪费 ◆ MOPD — 三个专门的专家组（Agent / Reasoning / Interaction），按任务由门控路由 性能对比： → Terminal-Bench 2.1：70.8 → SWE-bench Pro：59.5（GPT-5.5：58.6） → SWE-bench Multilingual：77.3 → FORTE：73.2 · RWSearch：78.8 · BrowseComp：79.9 📖 技术博客：https://longcat.chat/blog/longcat-2.0/ 在不同场景下试用 🧵👇 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 07:50]
 标题: LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用
 链接: https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools via AI HOT · https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:44]
-标题: Why e.l.f. Beauty Stock Jumped 32% in June
-链接: https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-174427608.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:48]
+标题: Your First Required IRA Withdrawal at 73 Can Push You Past the IRMAA Cliff for a Full Year
+链接: https://finance.yahoo.com/healthcare/articles/first-required-ira-withdrawal-73-194823234.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:04]
+标题: Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:00]
+标题: The Era of Cheap U.S. Natural Gas May Be Coming to an End
+链接: https://finance.yahoo.com/energy/articles/era-cheap-u-natural-gas-190000577.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:47]
+标题: 7 OPEC+ countries agree to expand monthly oil production modestly as prices slide
+链接: https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:30]
 标题: A bigger tax hit to save in interest — why raiding your 401(k) to pay off credit cards can backfire badly
 链接: https://finance.yahoo.com/markets/articles/bigger-tax-hit-save-interest-173000406.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:03]
-标题: Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:47]
+标题: Warren Buffett unveils 11-word stock market warning
+链接: https://finance.yahoo.com/markets/stocks/articles/warren-buffett-unveils-11-word-194700997.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:30]
 标题: Investors with $5M+ are done being landlords — and one passive strategy pays 10% to 12% 'easy money'
@@ -41,10 +63,6 @@
 标题: Rate hike readjustment and AI hardware momentum: What to watch this week
 链接: https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:35]
-标题: Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-stock-one-biggest-winners-173500956.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 14:51]
 标题: The Strait of Hormuz has reopened — why that might be a problem for the oil market: Chart of the Day
 链接: https://finance.yahoo.com/markets/article/the-strait-of-hormuz-has-reopened--why-that-might-be-a-problem-for-the-oil-market-chart-of-the-day-145149603.html
@@ -53,17 +71,9 @@
 标题: Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now
 链接: https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:20]
-标题: Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stock-172000282.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 13:24]
-标题: How Honeywell Technologies’ (HON) Post-Spin Structure Creates a Cleaner Automation Thesis
-链接: https://finance.yahoo.com/markets/stocks/articles/honeywell-technologies-hon-post-spin-132420080.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:17]
-标题: JPMorgan tweaks gold price target as Fed risks return
-链接: https://finance.yahoo.com/markets/commodities/articles/jpmorgan-tweaks-gold-price-target-171700730.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:35]
+标题: Here's a Much Better Nasdaq-100 Stock to Buy Right Now Than SpaceX
+链接: https://finance.yahoo.com/markets/stocks/articles/heres-much-better-nasdaq-100-193500026.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
 标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
@@ -73,127 +83,155 @@
 标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:09]
-标题: Two Retirees, Same Income. Only the One Who Filed a Life-Changing-Event Form Kept the Lower Premium.
-链接: https://finance.yahoo.com/healthcare/articles/two-retirees-same-income-only-170959467.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:27]
+标题: Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-tesla-suddenly-worth-same-192700154.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:05]
-标题: If a Stock Market Crash Is Coming, This ETF Could Be the Smartest Buy Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-etf-170500576.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:22]
+标题: Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse
+链接: https://finance.yahoo.com/markets/crypto/articles/ethereum-lost-22-1-month-192200614.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:51]
-标题: Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-energy-transfer-et-crush-165155909.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:10]
+标题: 3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/3-ishares-etfs-crushing-p-191014206.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:50]
-标题: Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/got-1-000-why-microsofts-165000183.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:05]
+标题: MercadoLibre and Walmart Are Both Down This Year. Which Stock Should Investors Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/mercadolibre-walmart-both-down-stock-190500309.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:47]
-标题: Top-rated analyst sets a jaw-dropping Intel stock price target
-链接: https://finance.yahoo.com/markets/stocks/articles/top-rated-analyst-sets-jaw-164700897.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 19:00]
+标题: SGOV vs. BIL: Where Should You Actually Park Your Cash?
+链接: https://finance.yahoo.com/markets/options/articles/sgov-vs-bil-where-actually-190005006.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:35]
-标题: 3 Stocks to Buy and Hold Even if There's a Stock Market Sell-Off in the Second Half of 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-hold-even-163500280.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:47]
+标题: Delek Insider Dumps 4,909 Shares after a Blockbuster Year — is it time to sell?
+链接: https://finance.yahoo.com/markets/stocks/articles/delek-insider-dumps-4-909-184701584.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:30]
-标题: Starbucks vs Chipotle: Two Restaurant Titans, Two Playbooks, Only One Winner
-链接: https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-two-restaurant-163013348.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:47]
+标题: A big shift in the U.S. energy market is about to happen
+链接: https://finance.yahoo.com/energy/articles/big-shift-u-energy-market-184700015.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:25]
-标题: Why Strategy, Inc. Plunged in June
-链接: https://finance.yahoo.com/markets/crypto/articles/why-strategy-inc-plunged-june-162500391.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:45]
+标题: What a $1,000 Investment in a SpaceX Could Be Worth in 5 Years
+链接: https://finance.yahoo.com/markets/stocks/articles/1-000-investment-spacex-could-184500978.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:22]
-标题: The Backdoor Roth 401(k) Loophole: How High Earners Add $8,600 Tax-Free in 2026
-链接: https://finance.yahoo.com/markets/options/articles/backdoor-roth-401-k-loophole-162259386.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:35]
+标题: Nvidia Stock Is Down 13% Over the Last Month. Here's Why That Could Be Good News.
+链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-down-13-over-183500892.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:20]
-标题: The AI Supercycle Needs More Than Just Chips. This Growth Stock Builds the Network That Connects Them.
-链接: https://finance.yahoo.com/technology/ai/articles/ai-supercycle-needs-more-just-162000663.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:33]
+标题: Guardant Health stock surges on colon cancer blood test news
+链接: https://finance.yahoo.com/healthcare/articles/guardant-health-stock-surges-colon-183300870.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:19]
-标题: Here's the 1 Crypto I'd Buy If I Could Pick Only 1
-链接: https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-161900759.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:31]
+标题: Jeff Bezos Held 60 Meetings To Secure Amazon Investors But 40 Declined His Offer Of $50K For 1% Ownership — Today, That Would Be Worth $25B
+链接: https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-held-60-meetings-183108743.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:13]
-标题: Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade
-链接: https://finance.yahoo.com/technology/ai/articles/forget-micron-ai-memory-stock-161348158.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:25]
+标题: Coca-Cola Is Crushing the Nasdaq and S&P 500 in 2026, but This Higher-Yield Dividend King Could Be an Even Better Stock to Buy for the Second Half of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/coca-cola-crushing-nasdaq-p-182500106.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:09]
-标题: The Real Cost of Retiring in Charleston, SC, at 65 on $975,000 Worry Free
-链接: https://finance.yahoo.com/real-estate/articles/real-cost-retiring-charleston-sc-160959942.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:20]
+标题: The 1 Big Risk Every ServiceNow Investor Should Understand
+链接: https://finance.yahoo.com/technology/ai/articles/1-big-risk-every-servicenow-182000045.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:03]
-标题: Paramount’s Warner deal has a new $650 million problem
-链接: https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-650-million-160300665.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:17]
+标题: Walmart quietly built a $6 billion business off its shoppers
+链接: https://finance.yahoo.com/media-advertising/articles/walmart-quietly-built-6-billion-181700496.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:50]
-标题: 3 Smart Stocks to Buy Now
-链接: https://finance.yahoo.com/markets/stocks/articles/3-smart-stocks-buy-now-155000938.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:14]
+标题: Alphabet Stock Has Doubled in a Year. Is It Too Late to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-doubled-too-buy-181400031.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:50]
-标题: Nike Now Yields More Than Coca-Cola. Which Dow Dividend Stock Is the Better Buy in July?
-链接: https://finance.yahoo.com/markets/stocks/articles/nike-now-yields-more-coca-155000261.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:13]
+标题: EasyJet succumbs to foreign bidder after agreeing £5bn deal
+链接: https://finance.yahoo.com/markets/stocks/articles/easyjet-succumbs-foreign-bidder-agreeing-181318540.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:47]
-标题: Why Did QuantumScape Stock Drop Almost 30% in the First Half of 2026?
-链接: https://finance.yahoo.com/markets/stocks/articles/why-did-quantumscape-stock-drop-154755715.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:12]
+标题: Peter Brandt Eyes Selling Bitcoin to Invest in Gold, and Here is Why
+链接: https://finance.yahoo.com/markets/crypto/articles/peter-brandt-eyes-selling-bitcoin-181236311.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:41]
-标题: IMF Warns Tokenization Will Shift Financial Power From Banks to Code
-链接: https://finance.yahoo.com/markets/crypto/articles/imf-warns-tokenization-shift-financial-154134113.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:09]
+标题: Palantir Technologies Stock Could Soar 55% in 1 Year, According to Wall Street. Should You Buy It Hand Over Fist?
+链接: https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-stock-could-soar-180900245.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:39]
-标题: Why MSTY Shareholders Are Facing Uncapped Losses Despite Weekly Distributions
-链接: https://finance.yahoo.com/markets/options/articles/why-msty-shareholders-facing-uncapped-153931992.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:07]
+标题: What It Takes To Build A Portfolio That Covers A Retiree’s Grocery Bill Forever
+链接: https://finance.yahoo.com/markets/stocks/articles/takes-build-portfolio-covers-retiree-180708229.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:36]
-标题: IHE vs. PJP: Which Pharmaceutical ETF Is the Better Buy for Investors?
-链接: https://finance.yahoo.com/healthcare/articles/ihe-vs-pjp-pharmaceutical-etf-153628526.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:03]
+标题: Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.
+链接: https://finance.yahoo.com/markets/stocks/articles/goldman-says-ai-driving-22-180327725.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:35]
-标题: Prediction: This Energy Stock Will Make You a Lot Richer by 2029
-链接: https://finance.yahoo.com/energy/articles/prediction-energy-stock-lot-richer-153500683.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:03]
+标题: Nike unsteady as new legal fight brews
+链接: https://finance.yahoo.com/markets/stocks/articles/nike-unsteady-legal-fight-brews-180300795.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:31]
-标题: $4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute
-链接: https://finance.yahoo.com/markets/commodities/articles/4-1-billion-deal-shows-153132628.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:02]
+标题: The Energy Stock Most Investors Overlook-And Why You Should Consider Adding It to Your Portfolio Today.
+链接: https://finance.yahoo.com/energy/articles/energy-stock-most-investors-overlook-180205207.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:31]
-标题: Shaq Spent $70K At Walmart One Night, But His Amex Got Declined Assuming It Was Stolen — ‘I Ain’t Got No Towels. I Ain’t Got No Pots And Pans’
-链接: https://finance.yahoo.com/small-business/articles/shaq-spent-70k-walmart-one-153126263.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:01]
+标题: Billionaire Investor Bets on AI Infrastructure With New Hut 8 Stake
+链接: https://finance.yahoo.com/technology/ai/articles/billionaire-investor-bets-ai-infrastructure-180104557.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:31]
-标题: What the Buffett Market Valuation Indicator at Record Highs Means for Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/buffett-market-valuation-indicator-record-153100382.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:00]
+标题: This Insanely Simple App Makes $50K/Month
+链接: https://finance.yahoo.com/video/insanely-simple-app-makes-50k-180011665.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:30]
-标题: A Dividend Portfolio That Out-Earns the Average California Family
-链接: https://finance.yahoo.com/markets/stocks/articles/dividend-portfolio-earns-average-california-153056845.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 18:00]
+标题: Fed Minutes, Home Sales, Pepsi, Delta, and More to Watch This Week
+链接: https://www.barrons.com/articles/fed-minutes-home-sales-pepsi-delta-f7191594?siteid=yhoof2&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:21]
-标题: The $185,000 Portfolio That Covers Groceries, Utilities, and the Phone Bill Every Month
-链接: https://finance.yahoo.com/markets/articles/185-000-portfolio-covers-groceries-152105410.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:55]
+标题: Big Insider Buying Puts These 2 Stocks on the Radar
+链接: https://finance.yahoo.com/markets/stocks/articles/big-insider-buying-puts-2-175500266.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:20]
-标题: VOO vs. QQQ: Which Is the Better Buy for Long-Term Investors?
-链接: https://finance.yahoo.com/markets/stocks/articles/voo-vs-qqq-better-buy-152000776.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:50]
+标题: AMD vs Palantir: Which AI Giant Is a Better Buy?
+链接: https://finance.yahoo.com/technology/ai/articles/amd-vs-palantir-ai-giant-175021447.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:14]
-标题: SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-alphabet-sk-hynix-sending-151400057.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:50]
+标题: Gold Was Volatile in the First Half of 2026. Here's How to Invest in Gold for the Rest of the Year.
+链接: https://finance.yahoo.com/markets/commodities/articles/gold-volatile-first-half-2026-175000355.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:47]
+标题: Six Dividend Aristocrats Keeping SCHD’s Income Stream Bulletproof This Year
+链接: https://finance.yahoo.com/markets/stocks/articles/six-dividend-aristocrats-keeping-schd-174727402.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:44]
+标题: Why e.l.f. Beauty Stock Jumped 32% in June
+链接: https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-174427608.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:35]
+标题: Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-stock-one-biggest-winners-173500956.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:31]
+标题: I'm 54 And My Company Just Offered Me An Early Retirement Package Worth $275,000 — My Colleagues Say Take It, But I'm Terrified I'll Run Out Of Money At 80
+链接: https://finance.yahoo.com/markets/articles/im-54-company-just-offered-173106225.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:31]
+标题: Takeda Makes Fresh AI Drug Discovery Bet With Insilico Medicine
+链接: https://finance.yahoo.com/technology/ai/articles/takeda-makes-fresh-ai-drug-173105795.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:20]
+标题: Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stock-172000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:17]
+标题: Investment firm’s cofounder sues after being fired for neglecting the in-person work mandate he signed, saying it applies to employees not owners
+链接: https://finance.yahoo.com/small-business/articles/investment-firm-cofounder-sues-being-171729024.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-05 13:01]
 标题: Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite
 链接: https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html
 正文: Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 18:01]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 20:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 18:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 20:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
