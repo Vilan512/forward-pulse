@@ -1,44 +1,116 @@
-# ForwardPulse 原始情报收割 — 2026-07-05 09:35:52
-# 共计 10 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-05 11:24:01
+# 共计 28 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 07:50]
 标题: LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用
 链接: https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
-正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools
+正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools via AI HOT · https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
-标题: Mortgage and refinance interest rates today, Saturday, July 4: Rates are mixed this July 4 holiday
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-4-rates-are-mixed-this-july-4-holiday-100000596.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 11:35]
+标题: Boxing champion Floyd ‘Money’ Mayweather steps into the ring with IRS over $7.3M tax lien. Juke your own tax knockout
+链接: https://finance.yahoo.com/markets/currencies/articles/boxing-champion-floyd-money-mayweather-113500894.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:00]
-标题: Best CD rates today, Saturday, July 4, 2026: Best account provides 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-4-2026-best-account-provides-410-apy-100000802.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 11:35]
+标题: Why the 'follow your passion' mantra can derail your career — and what to do differently
+链接: https://finance.yahoo.com/economy/article/why-the-follow-your-passion-mantra-can-derail-your-career--and-what-to-do-differently-113556625.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:01]
-标题: For one small business, AI was key to a quick start and expansion
-链接: https://finance.yahoo.com/small-business/articles/one-small-business-ai-key-100159658.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 11:40]
+标题: Bernie Sanders wants the government to own half of every U.S. AI company — here's what that could mean for your wallet
+链接: https://finance.yahoo.com/technology/ai/articles/bernie-sanders-wants-government-own-114000993.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:10]
-标题: I retired at 63 with $850K, but now my finances are keeping me up at night. How do I know if I really have enough?
-链接: https://finance.yahoo.com/markets/articles/retired-63-850k-now-finances-101000171.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:00]
+标题: Robinhood, Dell Lead 5 Stocks Near Buy Points With AI Tailwinds
+链接: https://www.investors.com/news/robinhood-dell-stocks-near-buy-points-ai/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:30]
-标题: 77% of companies are pushing AI on workers — employment lawyers say you have almost no right to refuse
-链接: https://finance.yahoo.com/technology/ai/articles/77-companies-pushing-ai-workers-103000676.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:10]
+标题: A 74-year-old was pressured into a $3,000 extended truck warranty. He canceled in time — months later, still no refund
+链接: https://finance.yahoo.com/small-business/articles/74-old-pressured-3-000-121000075.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 10:45]
-标题: GM lays off over 1,000 workers at Detroit plant, adds 50 robots: ‘We are in a fight for humanity.’ Progress or betrayal?
-链接: https://finance.yahoo.com/technology/ai/articles/gm-lays-off-over-1-104500251.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:15]
+标题: Jared Kushner's net worth grew 1,440% since 2009 — 9 times more than the average US household. Here's what drove the gap
+链接: https://finance.yahoo.com/markets/stocks/articles/jared-kushners-net-worth-grew-121500238.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:19]
+标题: Phillips 66’s Quarterly Earnings Preview: What You Need to Know
+链接: https://finance.yahoo.com/markets/stocks/articles/phillips-66-quarterly-earnings-preview-121902480.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:31]
+标题: Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:40]
+标题: Trump drops love-bomb on Micron while holding the stock — up 209% this year. Experts say it ‘undermines’ the system
+链接: https://finance.yahoo.com/markets/stocks/articles/trump-drops-love-bomb-micron-124000756.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:53]
+标题: Here is Why Microsoft (MSFT) is One of the Best NASDAQ Stocks to Invest In For Long Term
+链接: https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-one-best-125351983.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:53]
+标题: FactSet Partners with Google Cloud (GOOGL) to Integrate Gemini AI into Financial Platform
+链接: https://finance.yahoo.com/technology/ai/articles/factset-partners-google-cloud-googl-125357373.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:54]
+标题: Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement
+链接: https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-meta-meta-announce-125431859.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:54]
+标题: Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development
+链接: https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:54]
+标题: CrowdStrike (CRWD) Joins OpenID Foundation to Advance Risk-Aware Identity Security
+链接: https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-joins-openid-foundation-125442744.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:54]
+标题: Texas Instruments (TXN) Appoints Julie Knecht as New CFO
+链接: https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-appoints-julie-125458818.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:55]
+标题: Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo
+链接: https://finance.yahoo.com/technology/ai/articles/nebius-nbis-ai-cloud-3-125557692.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:55]
+标题: CoStar Group (CSGP): 10 Best NASDAQ Stocks to Invest In For Long Term
+链接: https://finance.yahoo.com/real-estate/articles/costar-group-csgp-10-best-125550444.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:56]
+标题: SoFi Technologies (SOFI) Launches AI-Powered Investing Platform Composer by SoFi
+链接: https://finance.yahoo.com/technology/ai/articles/sofi-technologies-sofi-launches-ai-125603171.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 12:56]
+标题: Is Rocket Lab (RKLB) is One of the Best NASDAQ Stocks to Invest In For Long Term?
+链接: https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:00]
+标题: DigitalOcean Just Joined the Russell 1000. DOCN Stock Is Still Worth Buying Here After a 350% Surge.
+链接: https://finance.yahoo.com/markets/stocks/articles/digitalocean-just-joined-russell-1000-130002481.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:00]
+标题: Why the Current Selloff in Big Tech Stocks Is a Springboard for a New Rally
+链接: https://finance.yahoo.com/markets/stocks/articles/why-current-selloff-big-tech-130002898.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:00]
+标题: Dear UnitedHealth Stock Fans, Mark Your Calendars for July 16
+链接: https://finance.yahoo.com/markets/stocks/articles/dear-unitedhealth-stock-fans-mark-130003581.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
+标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
+标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-04 12:54]
 标题: The World Cup sends prediction market volumes soaring to record highs
 链接: https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html
 正文: Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 09:35]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 11:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 09:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 11:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
