@@ -1,56 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-07-05 13:11:13
-# 共计 13 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-05 15:06:46
+# 共计 4 条来自 4 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 07:50]
 标题: LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用
 链接: https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools via AI HOT · https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:22]
-标题: Rezolve AI (RZLV) is One of the Best New Tech Stocks to Buy According to Analysts
-链接: https://finance.yahoo.com/technology/ai/articles/rezolve-ai-rzlv-one-best-132236568.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:22]
-标题: WeRide (WRD), Uber (UBER) Announce Commercial Robotaxi Launch in Zurich
-链接: https://finance.yahoo.com/technology/ai/articles/weride-wrd-uber-uber-announce-132242940.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:22]
-标题: Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent
-链接: https://finance.yahoo.com/technology/ai/articles/klaviyo-kvyo-launches-ai-marketing-132248088.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:22]
-标题: Is Braiin (BRAI) One of the Best New Tech Stocks to Buy According to Analysts?
-链接: https://finance.yahoo.com/technology/ai/articles/braiin-brai-one-best-tech-132254915.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:23]
-标题: Here is Why PicS N.V. (PICS) is One of the Best New Tech Stocks to Buy According to Analysts
-链接: https://finance.yahoo.com/technology/articles/why-pics-n-v-pics-132309226.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:23]
-标题: Unusual Machines (UMAC) Expands Operations with New Orlando Manufacturing Facility
-链接: https://finance.yahoo.com/technology/articles/unusual-machines-umac-expands-operations-132301921.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:23]
-标题: Sharon AI (SHAZ): 10 Best New Tech Stocks to Buy According to Analysts
-链接: https://finance.yahoo.com/technology/ai/articles/sharon-ai-shaz-10-best-132323884.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:23]
-标题: Infleqtion (INFQ) Launches America’s Quantum Space Initiative to Advance Space Infrastructure
-链接: https://finance.yahoo.com/technology/articles/infleqtion-infq-launches-america-quantum-132329913.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-04 13:23]
-标题: CoreWeave (CRWV) Partners with BattleBots as Official AI Cloud Provider
-链接: https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-partners-battlebots-official-132336775.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-05 13:01]
 标题: Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite
 链接: https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html
 正文: Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 13:11]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 15:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 13:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 15:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
