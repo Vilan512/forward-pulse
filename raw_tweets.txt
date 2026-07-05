@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-05 16:57:47
-# 共计 41 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-05 18:01:05
+# 共计 48 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 17:43]
+标题: 三周前，我不小心创办了一家小公司
+链接: https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx
+正文: 一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。 🔗 阅读原文：https://extelligence.substack.com/p/i-accidentally-started-a-small-business via AI HOT · https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 16:23]
+标题: 欧盟理事会通过快速通道强制推行"聊天管控"（Chat Control 2.0）
+链接: https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr
+正文: 欧盟理事会通过书面程序快速通过一项新法规，强制要求科技集团对加密通信进行无差别扫描（Chat Control 2.0），以填补过渡性规定4月3日到期后的法律漏洞，并向欧洲议会施压。批评者指责该做法试图绕过民主监督。草案将在夏季休会前以紧急程序提交议会表决，多数议员可能已离会，反对需绝对多数，几乎无法阻止。理事会称扫描限于必要范围，处理的数据须在检测后12个月内不可撤销地删除。 🔗 阅读原文：https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html via AI HOT · https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 15:35]
 标题: Anthropic Claude Design 反向工程提示词开源更新
@@ -11,9 +21,17 @@
 链接: https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools via AI HOT · https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:35]
-标题: 3 Stocks to Buy and Hold Even if There's a Stock Market Sell-Off in the Second Half of 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-hold-even-163500280.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:44]
+标题: Why e.l.f. Beauty Stock Jumped 32% in June
+链接: https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-174427608.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:30]
+标题: A bigger tax hit to save in interest — why raiding your 401(k) to pay off credit cards can backfire badly
+链接: https://finance.yahoo.com/markets/articles/bigger-tax-hit-save-interest-173000406.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:03]
+标题: Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:30]
 标题: Investors with $5M+ are done being landlords — and one passive strategy pays 10% to 12% 'easy money'
@@ -23,21 +41,65 @@
 标题: Rate hike readjustment and AI hardware momentum: What to watch this week
 链接: https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:55]
-标题: Expect Fireworks As Dow Jones Futures Open; Apple, SpaceX, Sandisk, Robinhood In Focus
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:35]
+标题: Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-stock-one-biggest-winners-173500956.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 14:51]
 标题: The Strait of Hormuz has reopened — why that might be a problem for the oil market: Chart of the Day
 链接: https://finance.yahoo.com/markets/article/the-strait-of-hormuz-has-reopened--why-that-might-be-a-problem-for-the-oil-market-chart-of-the-day-145149603.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:30]
-标题: Starbucks vs Chipotle: Two Restaurant Titans, Two Playbooks, Only One Winner
-链接: https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-two-restaurant-163013348.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 14:10]
 标题: Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now
 链接: https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:20]
+标题: Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stock-172000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 13:24]
+标题: How Honeywell Technologies’ (HON) Post-Spin Structure Creates a Cleaner Automation Thesis
+链接: https://finance.yahoo.com/markets/stocks/articles/honeywell-technologies-hon-post-spin-132420080.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:17]
+标题: JPMorgan tweaks gold price target as Fed risks return
+链接: https://finance.yahoo.com/markets/commodities/articles/jpmorgan-tweaks-gold-price-target-171700730.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
+标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
+标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:09]
+标题: Two Retirees, Same Income. Only the One Who Filed a Life-Changing-Event Form Kept the Lower Premium.
+链接: https://finance.yahoo.com/healthcare/articles/two-retirees-same-income-only-170959467.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 17:05]
+标题: If a Stock Market Crash Is Coming, This ETF Could Be the Smartest Buy Right Now
+链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-etf-170500576.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:51]
+标题: Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-energy-transfer-et-crush-165155909.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:50]
+标题: Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors
+链接: https://finance.yahoo.com/markets/stocks/articles/got-1-000-why-microsofts-165000183.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:47]
+标题: Top-rated analyst sets a jaw-dropping Intel stock price target
+链接: https://finance.yahoo.com/markets/stocks/articles/top-rated-analyst-sets-jaw-164700897.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:35]
+标题: 3 Stocks to Buy and Hold Even if There's a Stock Market Sell-Off in the Second Half of 2026
+链接: https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-hold-even-163500280.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:30]
+标题: Starbucks vs Chipotle: Two Restaurant Titans, Two Playbooks, Only One Winner
+链接: https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-two-restaurant-163013348.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:25]
 标题: Why Strategy, Inc. Plunged in June
@@ -50,14 +112,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:20]
 标题: The AI Supercycle Needs More Than Just Chips. This Growth Stock Builds the Network That Connects Them.
 链接: https://finance.yahoo.com/technology/ai/articles/ai-supercycle-needs-more-just-162000663.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
-标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
-标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 16:19]
 标题: Here's the 1 Crypto I'd Buy If I Could Pick Only 1
@@ -131,39 +185,15 @@
 标题: SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It
 链接: https://finance.yahoo.com/markets/stocks/articles/spacex-alphabet-sk-hynix-sending-151400057.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:05]
-标题: After Surging 814% in 1 Year, Is a Stock Split Inevitable for Micron?
-链接: https://finance.yahoo.com/markets/stocks/articles/surging-814-1-stock-split-150500470.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:01]
-标题: Oracle Stock's Worst Month Since 1990: What's Breaking Larry Ellison's Empire?
-链接: https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-worst-month-since-150115654.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:01]
-标题: Rich, Young Investors Are Losing Faith In The Stock Market To Deliver ‘Above Average Returns’ — Here’s Where They’re Putting Their Money Instead
-链接: https://finance.yahoo.com/markets/stocks/articles/rich-young-investors-losing-faith-150105846.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 15:00]
-标题: China Insight: China’s Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery
-链接: https://finance.yahoo.com/technology/ai/articles/china-insight-china-fashion-industry-150000368.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 14:57]
-标题: Will Bitcoin Rise in July? 4 AI Models Predict BTC's Next Target
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-rise-july-4-ai-145715557.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 14:53]
-标题: Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI
-链接: https://finance.yahoo.com/technology/ai/articles/anthropic-faces-75-million-lawsuit-145353909.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-05 13:01]
 标题: Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite
 链接: https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html
 正文: Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 16:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-05 18:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 16:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-05 18:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
