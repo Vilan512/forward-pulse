@@ -1,94 +1,214 @@
-# ForwardPulse 原始情报收割 — 2026-07-06 08:11:29
-# 共计 20 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-06 12:39:53
+# 共计 52 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-06 09:00]
+标题: South Korea’s hottest new bachelors are chip workers
+链接: https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
+正文: Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be referred to by his last name to protect his privacy), he and his coworkers are having better luck finding dates than they used to, perhaps because of the dazzling bonuses they just got. Flush with eye-popping profits from the AI chip boom, SK Hynix struck a landmark deal last year with its labor union to pay out 10% of operating profits to employees, which translates to an extra $476,000 per employee this year. A similar agreement and sizable lump sum followed for Samsung workers this May. With their newfound wealth, chip workers like Baek have become the most sought-after bachelors and bachelorettes in South Korea. “I have a coworker who’s perpetually going on blind dates, and he’s been getting so many recently,” says Baek. “For the past few months, I’ve been getting many blind dates too, perhaps because of the bonuses I got.” Lately, young South Koreans joke online that the best outfit to wear on a blind date is an SK Hynix uniform.&nbsp; The AI chip boom is changing the social fabric of South Korea by minting a new elite of “silicon-collar” workers earning about 20 times as much as the average South Korean. Although it’s helping some chip workers to find relationships, it’s also fueling fears of a deepening wealth disparity—and a loud public debate about inequality. Love in the time of chips South Korea is the epicenter of the chip boom fueling the AI race. Samsung and SK Hynix supply the vast majority of the world’s high-bandwidth memory (HBM) chips, which power Nvidia’s AI accelerators—the GPUs used to train AI models. As AI companies spend hundreds of billions of dollars on building data centers around the world, demand for HBMs is rising beyond what suppliers ca
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-07 00:00]
+标题: LeRobot v0.6.0: Imagine, Evaluate, Improve
+链接: https://huggingface.co/blog/lerobot-release-v060
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-06 00:00]
 标题: 🤗 Kernels: Major Updates
 链接: https://huggingface.co/blog/revamped-kernels
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 07:25]
-标题: 腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型
-链接: https://aihot.virxact.com/items/cmr8xoe5n01fesllsqdpw9l5u
-正文: 腾讯混元今日正式发布并开源 Hy3 模型。该模型基于 4 月底的 preview 版本，提升了后训练数据质量与多样性，并扩大 RL 算力规模，在推理、智能体、长上下文等任务上显著进步，效果比肩参数规模为 Hy3 2~5 倍的国内外旗舰模型。在 270 位专家基于真实工作的盲测中，Hy3（均分 2.67/4）优于 GLM5.1（均分 2.51/4）。API 价格为输入 1 元/百万 tokens、输出 4 元/百万 tokens，命中缓存输入 0.25 元/百万 tokens。 🔗 阅读原文：https://www.ithome.com/0/973/106.htm via AI HOT · https://aihot.virxact.com/items/cmr8xoe5n01fesllsqdpw9l5u
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:28]
+标题: Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'
+链接: https://finance.yahoo.com/markets/crypto/articles/strategy-sells-216m-bitcoin-dividends-122800355.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 06:09]
-标题: Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先
-链接: https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg
-正文: 通义实验室发布Fun-ASR-Realtime实时语音识别模型。单模型覆盖30种语言及16种方言，针对东亚、东南亚地区重点优化。在工业级方言测评inhouse上取得87.8%的语义准确率，大幅领先，多地方言接近人工水平。引入上下文理解与动态热词注入，实现同音词、品牌名等语义消歧。流式识别首字延迟控制在百毫秒级，准确率接近离线水平，支持多语言无缝切换。API已上线阿里云百炼平台。 🔗 阅读原文：https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA via AI HOT · https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:13]
+标题: Stock Market Today: Dow Falls, Tech Futures Rally; Memory Names Micron, Sandisk Bounce Higher (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-mu-stock-sandisk-sndk-stock/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 05:07]
-标题: Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台
-链接: https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du
-正文: Synthetic Sciences 推出开源（Apache 2.0）AI 科研工作台 OpenScience，覆盖机器学习、生物学、物理学、化学。它运行从文献、假设、代码、实验到分析与撰写的完整科研循环，支持按请求切换任意模型（Claude、GPT、Gemini、GLM、Kimi、DeepSeek 及本地微调模型）。内置 250 余项可编辑技能和 UniProt、PDB、ChEMBL、arXiv 等约 30 个科学数据库作为智能体工具。用户可自带 API 密钥在自己的基础设施上免费运行，安装命令为 `npm install -g @synsci/openscience`，运行 `openscience` 启动浏览器工作台。另提供可选托管层 Atlas。该项目定位为 Anthropic Claude Science 的开源替代方案。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research via AI HOT · https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:13]
+标题: Gold prices today, Monday, July 6: Higher prices following Thursday's jobs report
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-6-higher-prices-following-thursdays-jobs-report-121321784.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 01:19]
-标题: 分享8个Claude Fable 5下线前必跑的超实用Prompt
-链接: https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe
-正文: Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/goal提示语让模型自主跑25次实验（花费165美元，构建速度提高50%、token开销降60%）；工作模式提示语将用户习惯转化为可复用Skills；行动规范提示语约束subagent行为；subagent分配提示语智能分配任务；25个定时循环工作流（含Shadow prompt loop做A/B测试）；自治运行+自动暂停提示语；记忆系统提示语保留错题本；反向面试提示语确保95%把握再执行。这些提示词可迁移至API计费后继续使用，核心是让模型研究用户而非限制能力。 🔗 阅读原文：https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w via AI HOT · https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:13]
+标题: Dow Jones Futures: Nasdaq Set To Reclaim Key Level; Apple, SpaceX, Sandisk, Robinhood In Focus
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 01:09]
-标题: SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO
-链接: https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv
-正文: SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。 🔗 阅读原文：https://www.ithome.com/0/972/896.htm via AI HOT · https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:07]
+标题: Broadcom, Apple extend chip supply deal through 2031
+链接: https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 21:00]
-标题: NVIDIA Kyber NVL144 延迟超 12 个月至 2028
-链接: https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei
-正文: 重大延迟：就在黄仁勋在GTC上演示Kyber NVL144仅3个月后，该项目便遭遇重大挫折，延迟时间超过12个月，推迟至2028年。 下文我们将解释Kyber为何遭遇重大延迟，以及英伟达的NVL72x2背对背机架架构为何也被取消，导致Rubin Ultra的扩展域受限。👇️ 1/6🧵 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:36]
+标题: Daily Spotlight: Stock Market Valuation Reasonable
+链接: https://finance.yahoo.com/research/reports/ARGUS_47517_MarketOutlook_1783337764000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 18:19]
-标题: 扎克伯格：建千兆瓦级AI集群，集中精英与资本
-链接: https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73
-正文: "We're building this Prometheus cluster, the first gigawatt-plus single cluster...We're talking about many hundreds of billions of dollars of capital." Mark Zuckerberg says his job is to concentrate elite people, capital, and infrastructure. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:22]
+标题: Tesla robotaxi service expands to Miami from Texas
+链接: https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-expands-miami-texas-122243343.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 17:43]
-标题: 三周前，我不小心创办了一家小公司
-链接: https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx
-正文: 一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。 🔗 阅读原文：https://extelligence.substack.com/p/i-accidentally-started-a-small-business via AI HOT · https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 22:56]
+标题: Stock market today: Nasdaq leads S&P 500, Dow futures higher as tech jitters ease, oil slips
+链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 16:23]
-标题: 欧盟理事会通过快速通道强制推行"聊天管控"（Chat Control 2.0）
-链接: https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr
-正文: 欧盟理事会通过书面程序快速通过一项新法规，强制要求科技集团对加密通信进行无差别扫描（Chat Control 2.0），以填补过渡性规定4月3日到期后的法律漏洞，并向欧洲议会施压。批评者指责该做法试图绕过民主监督。草案将在夏季休会前以紧急程序提交议会表决，多数议员可能已离会，反对需绝对多数，几乎无法阻止。理事会称扫描限于必要范围，处理的数据须在检测后12个月内不可撤销地删除。 🔗 阅读原文：https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html via AI HOT · https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:05]
+标题: Oil falls after OPEC+ agrees to raise output targets
+链接: https://finance.yahoo.com/news/oil-slips-opec-agrees-raise-003607304.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 15:35]
-标题: Anthropic Claude Design 反向工程提示词开源更新
-链接: https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs
-正文: Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。 🔗 阅读原文：https://github.com/Trystan-SA/claude-design-system-prompt via AI HOT · https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:02]
+标题: This surprising wrinkle in the 2026 bull market could drive stocks higher
+链接: https://finance.yahoo.com/markets/article/this-surprising-wrinkle-in-the-2026-bull-market-could-drive-stocks-higher-120223653.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 14:00]
-标题: 美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码
-链接: https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
-正文: 🐱 LongCat-2.0 现已完全开源—采用 MIT 许可证，无任何限制。 自几天前发布以来，社区的反馈令人难以置信。 感谢大家的所有反馈、讨论和关注。 今天，我们向所有人发布模型权重和推理代码。 ◆ 1.6T MoE · 约 48B 活跃参数 · 1M token 上下文窗口 ◆ 智能体原生：可直接与 Claude Code、OpenClaw 和 Hermes Agent 集成 ◆ 部署：支持 GPU 和 NPU 平台—已在大型国产集群上验证 📑 技术博客：https://longcat.ai/blog/longcat-2.0/ 🤗 HuggingFace：https://huggingface.co/meituan-longcat/LongCat-2.0 💻 GitHub：https://github.com/meituan-longcat/LongCat-2.0 🪄 ModelScope：https://modelscope.ai/collections/meituan-longcat/LongCat-20 👇 推理代码 GPU：https://github.com/sgl-project/sglang/pull/30042 NPU：https://github.com/meituan-longcat/SGLang-FluentLLM/tree/npu [引用 @Meituan_LongCat]：介绍 LongCat-2.0 🐱 1.6T 参数 · MoE 架构，约 48B 活跃参数 · 1M 上下文窗口 Owl Alpha 在 @OpenRouter 上背后的完整模型 — 现已开放。 从头为智能体编程构建： ◆ LongCat Sparse Attention (LSA) — 高效扩展至 1M 上下文 token ◆ Zero-Compute Experts — 每个 token 动态激活 33B–56B 参数，零算力浪费 ◆ MOPD — 三个专门的专家组（Agent / Reasoning / Interaction），按任务由门控路由 性能对比： → Terminal-Bench 2.1：70.8 → SWE-bench Pro：59.5（GPT-5.5：58.6） → SWE-bench Multilingual：77.3 → FORTE：73.2 · RWSearch：78.8 · BrowseComp：79.9 📖 技术博客：https://longcat.chat/blog/longcat-2.0/ 在不同场景下试用 🧵👇 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:58]
+标题: U.S. futures rise as oil weighed by supply while earnings loom
+链接: https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 08:22]
-标题: Is Arista Networks (ANET) The Best AI Stock to Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-best-ai-082221558.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:35]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47516_TechnicalAnalysis_1783337730000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 08:22]
-标题: Is SoFi (SOFI) Better Than SpaceX?
-链接: https://finance.yahoo.com/markets/stocks/articles/sofi-sofi-better-spacex-082237376.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:19]
+标题: Why transparency could become the most valuable service in wealth management
+链接: https://finance.yahoo.com/markets/stocks/articles/why-transparency-could-become-most-121907942.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 09:29]
-标题: OPEC+ set to approve another oil output increase, sources say
-链接: https://finance.yahoo.com/news/opec-set-approve-another-oil-092944139.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:40]
+标题: 8 Stocks' Earnings Will Grow Faster Than Everyone's Wildest Dreams
+链接: https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-upcoming-growth-blasts-past-everyones-wildest-dreams/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
-标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:40]
+标题: Italy reshapes national cloud company as Leonardo, Poste target control, sources say
+链接: https://finance.yahoo.com/technology/articles/italy-reshapes-national-cloud-company-114031150.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
-标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:29]
+标题: Dollar edges up; keeps yen pinned near 40-year lows
+链接: https://finance.yahoo.com/news/dollar-near-two-week-lows-011548042.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:15]
+标题: Hedge funds dumped chip stocks for a fourth week as AI shares sold off
+链接: https://finance.yahoo.com/markets/stocks/articles/hedge-funds-dumped-chip-stocks-111514085.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:52]
+标题: Market Digest: GIS
+链接: https://finance.yahoo.com/research/reports/ARGUS_47514_MarketSummary_1783335164000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:15]
+标题: The Case for Holding SCHF in Your Roth IRA
+链接: https://finance.yahoo.com/markets/stocks/articles/case-holding-schf-roth-ira-121502200.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:00]
+标题: Britain should consider regulating AI models, FCA official says
+链接: https://finance.yahoo.com/technology/ai/articles/britain-consider-regulating-ai-models-104539260.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:51]
+标题: Truist Raises its Price Target on Cummins (CMI)
+链接: https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-cummins-105104346.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Here’s Why HP (HPE) is Among the 15 Best Data Center Stocks to Buy and Hold for the Next Decade
+链接: https://finance.yahoo.com/markets/stocks/articles/why-hp-hpe-among-15-105057987.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Truist Keeps Buy Rating on AECOM (ACM)
+链接: https://finance.yahoo.com/markets/stocks/articles/truist-keeps-buy-rating-aecom-105045619.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:48]
+标题: Daily – Vickers Top Insider Picks for 07/06/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47512_InsiderActivity_1783334923000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:13]
+标题: Frankfurter Leben lines up offer for Athora’s German unit – report
+链接: https://finance.yahoo.com/markets/stocks/articles/frankfurter-leben-lines-offer-athora-121332183.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Jacobs Solutions (J) Selected for 288MW Palmer Wind Farm Project
+链接: https://finance.yahoo.com/energy/articles/jacobs-solutions-j-selected-288mw-105036417.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Truist Raises its Price Target on MasTec (MTZ)
+链接: https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-mastec-105029288.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: JPMorgan Upgrades Primoris Services (PRIM) to Overweight
+链接: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-primoris-services-prim-105021925.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Tetra Tech (TTEK) Wins $49M U.S. Army Corps Contract
+链接: https://finance.yahoo.com/markets/stocks/articles/tetra-tech-ttek-wins-49m-105012073.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:48]
+标题: Daily – Vickers Top Buyers & Sellers for 07/06/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47513_TopBottomInsiderActivity_1783334923000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:13]
+标题: OPEC+ raises oil output for fifth straight month as Hormuz recovers
+链接: https://finance.yahoo.com/energy/articles/opec-raises-oil-output-fifth-121328580.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:50]
+标题: Goldman Sachs Removes nVent Electric (NVT) from US Conviction List
+链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-removes-nvent-electric-105005915.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:00]
+标题: Best CD rates today, Monday, July 6, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-6-2026-lock-in-up-to-410-apy-100000383.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 10:00]
+标题: Mortgage and refinance rates today, Monday, July 6: Purchase rates currently higher than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-6-purchase-rates-currently-higher-than-refi-rates-100000511.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:12]
+标题: 2 Monster Dividend Stocks to Buy Now and Hold Forever
+链接: https://finance.yahoo.com/markets/stocks/articles/2-monster-dividend-stocks-buy-121200106.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:10]
+标题: 4 of Bank of America’s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential
+链接: https://finance.yahoo.com/markets/stocks/articles/4-bank-america-top-us-121049216.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:10]
+标题: Petra Salesny named CEO of Amundi’s private markets unit
+链接: https://finance.yahoo.com/markets/stocks/articles/petra-salesny-named-ceo-amundi-121027871.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:09]
+标题: Trump vs. Pelosi: Who Made More Money in the Stock Market Last Year?
+链接: https://finance.yahoo.com/markets/stocks/articles/trump-vs-pelosi-made-more-120929567.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:06]
+标题: SK Hynix launches $28 billion Nasdaq ADR listing
+链接: https://finance.yahoo.com/markets/stocks/articles/sk-hynix-launches-28-billion-115850372.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:05]
+标题: Musk Calls It ‘Utterly False,’ But This SpaceX Rumor Should Terrify Every Apple Investor
+链接: https://finance.yahoo.com/markets/stocks/articles/musk-calls-utterly-false-spacex-120523743.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:05]
+标题: Retirees Are Surprised by This Social Security Rule Every Year
+链接: https://finance.yahoo.com/healthcare/articles/retirees-surprised-social-security-rule-120500206.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:03]
+标题: Citi keeps AstraZeneca on 'buy' ahead of second-quarter results
+链接: https://finance.yahoo.com/healthcare/articles/citi-keeps-astrazeneca-buy-ahead-120300966.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 12:02]
+标题: Ajman Bank taps AFS for merchant acquiring and payments rollout
+链接: https://finance.yahoo.com/economy/policy/articles/ajman-bank-taps-afs-merchant-120229761.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 11:55]
+标题: CRISPR Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?
+链接: https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-vs-viking-therapeutics-115501174.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-06 11:44]
+标题: Stocks making the biggest moves premarket: Lam Research, Intel, DataDog & more
+链接: https://www.cnbc.com/2026/07/06/stocks-making-the-biggest-moves-premarket-lrcx-intc-ddog.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-05 13:01]
 标题: Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite
 链接: https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html
 正文: Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-06 08:11]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-06 00:00]
+标题: How Covista is changing education for healthcare professionals
+链接: https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals
+正文: Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-06 12:39]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-06 08:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-06 12:39]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
