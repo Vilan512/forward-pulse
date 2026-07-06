@@ -1,5 +1,24 @@
-# ForwardPulse 原始情报收割 — 2026-07-06 03:39:34
-# 共计 14 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-06 08:11:29
+# 共计 20 条来自 6 个信息源
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-06 00:00]
+标题: 🤗 Kernels: Major Updates
+链接: https://huggingface.co/blog/revamped-kernels
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 07:25]
+标题: 腾讯混元今日发布并开源 Hy3 模型，性能比肩 2~5 倍参数规模旗舰模型
+链接: https://aihot.virxact.com/items/cmr8xoe5n01fesllsqdpw9l5u
+正文: 腾讯混元今日正式发布并开源 Hy3 模型。该模型基于 4 月底的 preview 版本，提升了后训练数据质量与多样性，并扩大 RL 算力规模，在推理、智能体、长上下文等任务上显著进步，效果比肩参数规模为 Hy3 2~5 倍的国内外旗舰模型。在 270 位专家基于真实工作的盲测中，Hy3（均分 2.67/4）优于 GLM5.1（均分 2.51/4）。API 价格为输入 1 元/百万 tokens、输出 4 元/百万 tokens，命中缓存输入 0.25 元/百万 tokens。 🔗 阅读原文：https://www.ithome.com/0/973/106.htm via AI HOT · https://aihot.virxact.com/items/cmr8xoe5n01fesllsqdpw9l5u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 06:09]
+标题: Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先
+链接: https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg
+正文: 通义实验室发布Fun-ASR-Realtime实时语音识别模型。单模型覆盖30种语言及16种方言，针对东亚、东南亚地区重点优化。在工业级方言测评inhouse上取得87.8%的语义准确率，大幅领先，多地方言接近人工水平。引入上下文理解与动态热词注入，实现同音词、品牌名等语义消歧。流式识别首字延迟控制在百毫秒级，准确率接近离线水平，支持多语言无缝切换。API已上线阿里云百炼平台。 🔗 阅读原文：https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA via AI HOT · https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 05:07]
+标题: Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台
+链接: https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du
+正文: Synthetic Sciences 推出开源（Apache 2.0）AI 科研工作台 OpenScience，覆盖机器学习、生物学、物理学、化学。它运行从文献、假设、代码、实验到分析与撰写的完整科研循环，支持按请求切换任意模型（Claude、GPT、Gemini、GLM、Kimi、DeepSeek 及本地微调模型）。内置 250 余项可编辑技能和 UniProt、PDB、ChEMBL、arXiv 等约 30 个科学数据库作为智能体工具。用户可自带 API 密钥在自己的基础设施上免费运行，安装命令为 `npm install -g @synsci/openscience`，运行 `openscience` 启动浏览器工作台。另提供可选托管层 Atlas。该项目定位为 Anthropic Claude Science 的开源替代方案。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research via AI HOT · https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 01:19]
 标题: 分享8个Claude Fable 5下线前必跑的超实用Prompt
@@ -41,28 +60,35 @@
 链接: https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
 正文: 🐱 LongCat-2.0 现已完全开源—采用 MIT 许可证，无任何限制。 自几天前发布以来，社区的反馈令人难以置信。 感谢大家的所有反馈、讨论和关注。 今天，我们向所有人发布模型权重和推理代码。 ◆ 1.6T MoE · 约 48B 活跃参数 · 1M token 上下文窗口 ◆ 智能体原生：可直接与 Claude Code、OpenClaw 和 Hermes Agent 集成 ◆ 部署：支持 GPU 和 NPU 平台—已在大型国产集群上验证 📑 技术博客：https://longcat.ai/blog/longcat-2.0/ 🤗 HuggingFace：https://huggingface.co/meituan-longcat/LongCat-2.0 💻 GitHub：https://github.com/meituan-longcat/LongCat-2.0 🪄 ModelScope：https://modelscope.ai/collections/meituan-longcat/LongCat-20 👇 推理代码 GPU：https://github.com/sgl-project/sglang/pull/30042 NPU：https://github.com/meituan-longcat/SGLang-FluentLLM/tree/npu [引用 @Meituan_LongCat]：介绍 LongCat-2.0 🐱 1.6T 参数 · MoE 架构，约 48B 活跃参数 · 1M 上下文窗口 Owl Alpha 在 @OpenRouter 上背后的完整模型 — 现已开放。 从头为智能体编程构建： ◆ LongCat Sparse Attention (LSA) — 高效扩展至 1M 上下文 token ◆ Zero-Compute Experts — 每个 token 动态激活 33B–56B 参数，零算力浪费 ◆ MOPD — 三个专门的专家组（Agent / Reasoning / Interaction），按任务由门控路由 性能对比： → Terminal-Bench 2.1：70.8 → SWE-bench Pro：59.5（GPT-5.5：58.6） → SWE-bench Multilingual：77.3 → FORTE：73.2 · RWSearch：78.8 · BrowseComp：79.9 📖 技术博客：https://longcat.chat/blog/longcat-2.0/ 在不同场景下试用 🧵👇 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-05 07:50]
-标题: LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用
-链接: https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
-正文: LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。 🔗 阅读原文：https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools via AI HOT · https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 08:22]
+标题: Is Arista Networks (ANET) The Best AI Stock to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-best-ai-082221558.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
-标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 08:22]
+标题: Is SoFi (SOFI) Better Than SpaceX?
+链接: https://finance.yahoo.com/markets/stocks/articles/sofi-sofi-better-spacex-082237376.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 09:29]
+标题: OPEC+ set to approve another oil output increase, sources say
+链接: https://finance.yahoo.com/news/opec-set-approve-another-oil-092944139.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
 标题: Mortgage and refinance interest rates today, Sunday, July 5: Rates way up since last week
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-05 10:00]
+标题: Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-05 13:01]
 标题: Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite
 链接: https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html
 正文: Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-06 03:39]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-06 08:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-06 03:39]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-06 08:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
