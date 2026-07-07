@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-07 19:24:39
-# 共计 43 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-07 21:08:34
+# 共计 54 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-07 12:10]
 标题: The Download: your stake in OpenAI, and the Treasury’s AI warning
@@ -27,6 +27,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-07 00:00]
 标题: LeRobot v0.6.0: Imagine, Evaluate, Improve
 链接: https://huggingface.co/blog/lerobot-release-v060
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 20:31]
+标题: Meta发布Muse Image模型，可引用其他Instagram用户生成AI图片
+链接: https://aihot.virxact.com/items/cmrb4htsc00m8ihl1hdd1p7p2
+正文: Meta发布首个由Superintelligence Labs开发的AI图像生成模型Muse Image，已集成至Meta AI、Instagram和WhatsApp，即将登陆Facebook和Messenger。该模型与Muse Spark大语言模型配合，具备智能体能力，可推理提示词、搜索网页并规划后生成。用户可在提示中用@提及其他Instagram账户，将他们的公共照片融入生成图像。模型还支持基于建议提示转换图片、创作邀请函等设计、根据Facebook Marketplace图片重新设计房间，以及直接在图片上绘画修改。Meta计划推出Muse Video模型，并称其在提示遵循、视觉保真度和时间一致性上具有竞争力；Muse Image将为Instagram Story带来30种新AI效果，先在美国上线。 🔗 阅读原文：https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram via AI HOT · https://aihot.virxact.com/items/cmrb4htsc00m8ihl1hdd1p7p2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 20:22]
+标题: Krea 2 身份保留功能上线
+链接: https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
+正文: Krea 2 的身份保持功能 🔥 [引用 @SlipperyGem]：这才是我渴望的那种身份保持功能。 我明天要出门旅行，所以没法测试了。我很好奇它在风格化角色上的效果如何…… https://huggingface.co/conradlocke/krea2-identity-edit https://github.com/lbouaraba/comfyui-krea2edit —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 19:33]
+标题: Meta Superintelligence Labs 推出 Muse Image 和 Muse Video
+链接: https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
+正文: 介绍Muse Image和Muse Video，这是Meta智能实验室（Meta Superintelligence Labs）开发的首批媒体生成模型。 Muse Image是我们迄今为止最先进的图像生成模型。它能忠实遵循指令，进行精确编辑，从多个参考源合成内容，并利用Instagram获取社交语境。它还具备智能体工具使用能力，可与Muse Spark集成。 你可以在Meta AI应用和网页、以及Instagram快拍和WhatsApp中使用Muse Image——先从少数国家开始，后续将扩展到更多地区。 今天我们同时预览了Muse Video，它基于与Muse Image相同的预训练基础构建，支持原生音频，呈现卓越的视觉保真度。 了解更多关于这两款模型的信息：https://go.meta.me/7f4427 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 18:35]
 标题: 微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型
@@ -109,6 +124,11 @@
 正文: 自从第一个扩散模型DOOM问世以来，我一直在玩这些世界模型/游戏，而20 FPS的多人在线体验相当不错。“火箭联盟之梦”，确实如此。 [引用 @gen_intuition]：推出MIRA。 一个可玩的、多人的世界模型。 火箭联盟之梦。 使用公开可用的机器人收集的10k小时数据训练，MIRA学习了一个四人游戏的动态。该模型基于你和其它玩家按下的按键，以每秒20帧的速度实时运行。 由General Intuition和@kyutai_labs构建，与Epic Games合作。未被用于开发Rocket League。 ▶️ 在 http://generalintuition.com/mira 试玩演示、阅读技术报告、探索开源代码。 在ICML？来111号展位亲自尝试，并与团队一起深入探讨结果。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 00:00]
+标题: Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储
+链接: https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2
+正文: Hugging Face Storage 现为 SkyPilot 的一级后端。用户通过 `hf：//` URL 和现有 HFTOKEN 即可将 Hugging Face Bucket（读写）或模型/数据集/Space 仓库（只读）挂载到 SkyPilot 任务中，支持 MOUNT（FUSE 懒加载）或 COPY 模式。SkyPilot 可将任务调度到 20+ 云、Kubernetes、Slurm 及本地集群的任意可用 GPU 上。Hugging Face 不收取出站及 CDN 费用，故跨云读取数据无额外成本。存储价格 $12-18/TB/月，低于 AWS S3 加出站费。Bucket 基于 Xet，增量检查点和模型变体仅存储和传输改动部分。 🔗 阅读原文：https://huggingface.co/blog/skypilot-hf-storage via AI HOT · https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 00:00]
 标题: FDE爆发：AI公司12个月承诺97.5亿美元部署工程
 链接: https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t
 正文: AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。 🔗 阅读原文：https://www.tomtunguz.com/the-10b-fde-boom via AI HOT · https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t
@@ -153,26 +173,53 @@
 链接: https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz
 正文: Claude Code v2.1.202 在 `/config` 中新增"Dynamic workflow size"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review ` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.202 via AI HOT · https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-06 19:08]
-标题: Claude Code 团队详解四种智能体循环类型
-链接: https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t
-正文: 关于如何开始使用循环（loops），现在有很多讨论，讨论的焦点是“设计循环”而不是为你的编程智能体编写提示词。如果你在 X 上花些时间试图搞清楚循环到底是什么，你会找到多种不同的答案。 在 Claude Code 团队，我们将循环定义为智能体重复工作周期直至满足停止条件的过程。我们根据以下几点对几种不同类型的循环进行分类： * 触发方式 * 停止方式 * 使用了哪种 Claude Code 原语 * 每种循环最适合哪类任务 我们将介绍主要的循环类型、各自的使用场景，以及在管理模型 token 用量的同时如何保持代码质量。并非所有任务都需要复杂循环；请从最简单的方案入手，并有选择地使用这些模式。 ## 回合制循环 * 触发方式：用户提示词 * 停止条件：Claude 判断任务已完成或需要更多上下文 * 最佳用途：不属于常规流程或计划安排的较短任务 * 用量管理方式：编写具体提示词，并通过技能（skills）改进验证，从而减少回合数量 你发送的每一条提示词都会启动一个手动循环，由你指导每一回合。Claude 收集上下文、执行操作、检查工作、必要时重复执行，然后做出响应。我们将这个过程称为智能体循环（agentic loop）。 例如，要求 Claude 创建一个点赞按钮。它会读取你的代码、做出修改、运行测试，然后交回一个它认为能工作的结果。之后你手动检查工作成果，再写下一条提示词。 你可以通过将手动步骤编码到 SKILL.md 文件中来改进验证环节，这样 Claude 就能端到端地自行检查更多工作。该文件应包含允许 Claude 查看、测量或与结果交互的工具或连接器。检查项越量化，Claude 就越容易进行自我验证。 例如，在你的 SKILL.md 文件中，你可以指定： ## 基于目标的循环（/goal） * 触发方式：实时手动提示词 * 停止条件：目标达成 或 达到最大回合数 * 最佳用途：具有可验证退出条件的任务 * 用量管理方式：设置具体的完成标准和明确的回合上限，例如“尝试 5 次后停止” 有时，单次回合是不够的，尤其对于更复杂的任务。当智能体能够迭代时，其表现会更好。你可以通过 /goal 来定义“完成”是什么样子，从而延长 Claude 持续迭代的时长。 当你定义成功标准时，Claude 不必自行判断什么是“足够好”并提前终止循环。每次 Claude 尝试停止时，一个评估模型会检查你的条件，并将它送回继续工作，直到目标达成或达到你定义的轮次上限。 这就是为什么确定性标准（例如通过的测试数量或达到某个分数阈值）如此有效。 例如： ## 基于时间的循环（/loop 和 /schedule） - 触发方式：指定的时间间隔。 - 停止条件：你手动取消它，或工作完成（PR 合并、队列清空）。 - 最佳用途：用于重复性工作，或与外部环境 / 系统交互。 - 使用管控：设置更长的时间间隔，或基于事件而非时间来作出反应。 某些智能体工作是重复性的：任务本身不变，只有输入会发生变化。例如，每天早晨总结 Slack 消息。另一些工作依赖于外部系统，与之交互的一个简单方式是按固定间隔检查系统状态并针对变化作出反应。例如，一个 PR 可能会收到代码审查，或者 CI 失败。 针对这些情况，你可以在运行 Claude 时使用 `/loop` 触发，它会按一个时间间隔重复执行提示词。例如： `/loop` 在你的电脑上运行，因此如果你关闭电脑，它就会停止。你可以通过使用 `/schedule` 创建例程，将循环转移到云端。 ## 主动循环 - 触发方式：事件或计划，无需人类实时参与。 - 停止条件：每个任务在目标达成时退出。例程本身会一直运行，直到你关闭它。 - 最佳用途：适用于定义明确的重复性工作流，例如：Bug 报告、问题分类、迁移、依赖升级等。 - 使用管控：将例程路由到更小、更快的模型，并将最强大的模型用于需要判断决策的任务。 上述原语，以及 Claude Code 的其他功能（如自动模式和动态工作流（研究预览版）），可以组合成一个用于长时间运行工作的循环。 例如，要处理传入的反馈，你可以使用： 1. `/schedule`（研究预览版）来运行一个检查新报告的例程 1. `/goal` 来定义完成状态，并使用技能来记录如何验证该状态 1. 动态工作流来编排多个智能体，由它们对每份报告进行分类、修复并审查修复内容 1. 自动模式，使例程无需停下来请求许可即可运行 将它们组合起来，提示词可以写成这样： ## 维护代码质量 循环输出的质量取决于其周围的系统。在设计系统时： - 保持代码库本身整洁：Claude 会遵循你代码库中已有的模式和约定。 - 让 Claude 能够验证自己的工作：通过技能（skills）将你认为好的标准编码给团队。 - 让
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-06 20:33]
-标题: Best Buy and Apple flag a price shock for shoppers
-链接: https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 17:35]
 标题: Market Update: LUV
 链接: https://finance.yahoo.com/research/reports/ARGUS_47537_MarketUpdate_1783445759000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 10:00]
+标题: Best high-yield savings interest rates today, Tuesday, July 7, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-7-2026-earn-up-to-410-apy-100000281.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 10:00]
+标题: HELOC and home equity loan rates today, Tuesday, July 7, 2026: Besides rates, how do you choose HELOC or HEL?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-7-2026-besides-rates-how-do-you-choose-heloc-or-hel-100000980.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 10:00]
+标题: Best CD rates today, Tuesday, July 7, 2026: Lock in up to 4.10% APY today
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-7-2026-lock-in-up-to-410-apy-today-100000258.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 12:03]
+标题: Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 12:31]
+标题: Gold prices today, Tuesday, July 7, 2026: Hanging around $4,200
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-7-2026-hanging-around-4200-123123103.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 12:47]
+标题: Silver prices today, Tuesday, July 7, 2026: Silver prices holding near $62
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-7-2026-silver-prices-holding-near-62-124723007.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 11:42]
 标题: Daily Spotlight: SpaceX Helps IPO Market Rebound
 链接: https://finance.yahoo.com/research/reports/ARGUS_47534_MarketOutlook_1783424549000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 14:01]
+标题: Can closing costs be rolled into a mortgage?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/can-closing-costs-be-rolled-into-a-mortgage-140103246.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 14:25]
+标题: Is crypto mining still profitable in 2026?
+链接: https://finance.yahoo.com/personal-finance/investing/article/is-crypto-mining-still-profitable-142502084.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 11:35]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47533_TechnicalAnalysis_1783424137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 10:00]
+标题: Mortgage & refinance interest rates today, Tuesday, July 7: Rates moving lower
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-7-rates-moving-lower-100000320.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-07 15:45]
 标题: Buy these quality, low-stress stocks for the summer, says Jefferies
@@ -199,10 +246,10 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes
 正文: For executives, the developmental opportunity may be clear, but what does board service really entail?
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-07 19:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-07 21:08]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-07 19:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-07 21:08]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
