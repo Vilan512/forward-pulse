@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-08 02:19:04
-# 共计 11 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-08 05:13:40
+# 共计 35 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-07 12:10]
 标题: The Download: your stake in OpenAI, and the Treasury’s AI warning
@@ -24,6 +24,131 @@
 标题: Hugging Face Models on Foundry Managed Compute
 链接: https://huggingface.co/blog/microsoft/foundry-managed-compute
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 04:29]
+标题: AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞
+链接: https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo
+正文: zkSecurity 的 AI 审计代理 zkao 持续扫描 Cloudflare 的 CIRCL 密码学库，使用 Opus 4.6 + skills 和 GPT-5.3 + skills 等模型发现并确认了 7 个真实漏洞。其中包括阈值 RSA 中 float64 精度丢失（AI 自评 Critical）和属性基加密（CP-ABE）访问控制完全失效（Critical，由 zkao 自行发现）。所有漏洞已在上游修复，多数在 HackerOne 上获得确认和奖励。AI 生成的候选发现仍需人工验证，但 zkao 已能自动完成大部分验证工作。 🔗 阅读原文：https://blog.zksecurity.xyz/posts/circl-bugs via AI HOT · https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 03:30]
+标题: 美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相
+链接: https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a
+正文: 美国商务部正式批准OpenAI大规模发布GPT-5.6。OpenAI宣布GPT-5.6 Sol将于本周四完成最后准备后，与Terra和Luna一同面向公众推出。此前因国家安全考量，美国政府要求分阶段发布，仅允许向经批准的有限实体开放。此次全面放行标志着临时管控结束。获批前，美国商务部下属AI标准与创新中心执行了测试，OpenAI技术团队驻扎华盛顿配合沟通。美国最新AI行政令即将出台，旨在为先进AI模型发布建立正式评估框架。 🔗 阅读原文：https://www.ithome.com/0/973/922.htm via AI HOT · https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 03:03]
+标题: 蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知
+链接: https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw
+正文: 蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L（300M）、ViT-B（86M）、ViT-S四个规模。 🔗 阅读原文：https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception via AI HOT · https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 01:33]
+标题: Pulpie：用于清理网络的Pareto最优模型
+链接: https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18
+正文: Pulpie是一族Pareto最优模型，用于从HTML页面提取主要内容。其最小模型pulpie-orange-small（210M参数）在WebMainBench上取得0.862的ROUGE-5 F1分数，接近600M参数的Dripper（0.864），但成本仅1/20。在NVIDIA L4 GPU上，Pulpie处理速度13.7页/秒，Dripper仅0.68页/秒。清理10亿页HTML，Pulpie成本约$7，900，Dripper需$159，000。模型采用编码器架构，单次前向传播即可标记每个HTML块为内容或模板，已在HuggingFace开源。 🔗 阅读原文：https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web via AI HOT · https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 01:06]
+标题: Claude开发者分享两种多智能体模式：Advisor和Orchestrator
+链接: https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs
+正文: Claude 开发者官方分享：团队内部高频使用这两种经典多智能体模式「Advisor」和「Orchestrator」来发挥 Fable 5 最高价值、同时把成本降到最低！ # 模式一：Advisor（顾问）模式 —— 自下而上的求助 架构：Sonnet 5 作为执行者跑主循环，遇到需要高层判断时，通过 tool call 调用 Fable 5 获取建议，Fable 5 返回"指导意见"后继续执行。 关键特征： · 方向：Executor → Advisor（执行者主动求助） · Fable 5 调用频率低，大约每个任务只调用一次，用于"纠偏/定方向" · 绝大多数 token 按 Sonnet 5 的低价计费 实证数据（SWE-bench Pro，482 题）： · Sonnet 5 单独：~75.5%，~$0.75 · Sonnet 5 + Fable advisor：~84%，~$1.40 · Fable 5 单独：~91.5%，~$2.25 结论：组合方案拿到 Fable 5 单独约 92% 的分数，但只需约 63% 的价格。 # 模式二：Orchestrator（编排者）模式 —— 自上而下的委派 架构：Fable 5 作为编排者做规划，然后把任务"扇出（fan out）"委托给多个 Sonnet 5 worker 执行，每个 worker 跑自己的执行循环。 关键特征： · 方向：Orchestrator → Workers（编排者主动委派） · Fable 5 负责"规划"，token 消耗大的实际研究/执行交给 Sonnet 5 · 适合研究类、可并行的批量任务 实证数据（BrowseComp 完整集）： · 全 Sonnet 5：77.8%，$16.01 · Fable 5 lead + Sonnet 5 workers：86.8%，$18.53 · 全 Fable 5：90.8%，$40.56 结论：编排方案拿到 Fable 5 单独约 96% 的性能，但只需约 46% 的价格；相比纯 Sonnet 5，准确率提升约 9 个百分点，成本仅增加约 $2.5。 # 两种模式的对比 1. 控制流方向 Advisor 模式：执行者向上求助 Orchestrator 模式：编排者向下委派 2. Fable 5 角色 Advisor 模式：被动提供指导 Orchestrator 模式：主动规划分配 3. Fable 5 调用频率 Advisor 模式：低（约一次/任务） Orchestrator 模式：规划阶段集中使用 4. 适合场景 Advisor 模式：单任务中需要高层纠偏 Orchestrator 模式：可拆分、可并行的研究/批处理 5. 性价比口诀 Advisor 模式：92% 性能 / 63% 价格 Orchestrator 模式：96% 性能 / 46% 价格 [引用 @ClaudeDevs]：A few patterns we frequently use with Fable 5: Use Fable 5 as an "advisor." An executor (Sonnet 5) calls Fable 5 for guidance. Most tokens are billed at the lower executor rate. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 01:00]
+标题: 蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先
+链接: https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3
+正文: 蚂蚁集团副总裁周俊在AICon演讲指出，万亿参数模型每运行15分钟算力成本约等于一辆特斯拉，效率是智能体时代最需解决的问题。团队提出从"更多Token"转向"更高Token密度"策略，采用7份Lightning Attention加1份MLA的混合线性注意力架构，使256K长上下文成本从指数级降至线性级，算力更多用于思考。通过Kpop算法区分工具调用与自然语言Token，结合思维链剪枝、自蒸馏等，Token输出减少约4倍而能力不降。在LongBench、BFCL等基准上提升显著，千亿参数模型在Agent任务中超越部分更大模型；小模型flash吞吐达2.4倍，五轮对话成本下降10倍以上。 🔗 阅读原文：https://mp.weixin.qq.com/s/dsIfi4C-T5Q4emmIh-7yzg via AI HOT · https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 00:12]
+标题: 《人生设计课》Prompt实测：用Claude设计人生的四个阶段
+链接: https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge
+正文: 作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。 🔗 阅读原文：https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ via AI HOT · https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 20:22]
+标题: Krea 2 身份保留功能上线
+链接: https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
+正文: Krea 2 的身份保持功能 🔥 [引用 @SlipperyGem]：这才是我渴望的那种身份保持功能。 我明天要出门旅行，所以没法测试了。我很好奇它在风格化角色上的效果如何…… https://huggingface.co/conradlocke/krea2-identity-edit https://github.com/lbouaraba/comfyui-krea2edit —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 19:33]
+标题: Meta Superintelligence Labs 推出 Muse Image 和 Muse Video
+链接: https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
+正文: 介绍Muse Image和Muse Video，这是Meta智能实验室（Meta Superintelligence Labs）开发的首批媒体生成模型。 Muse Image是我们迄今为止最先进的图像生成模型。它能忠实遵循指令，进行精确编辑，从多个参考源合成内容，并利用Instagram获取社交语境。它还具备智能体工具使用能力，可与Muse Spark集成。 你可以在Meta AI应用和网页、以及Instagram快拍和WhatsApp中使用Muse Image——先从少数国家开始，后续将扩展到更多地区。 今天我们同时预览了Muse Video，它基于与Muse Image相同的预训练基础构建，支持原生音频，呈现卓越的视觉保真度。 了解更多关于这两款模型的信息：https://go.meta.me/7f4427 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 18:35]
+标题: 微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型
+链接: https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795
+正文: 微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。 🔗 阅读原文：https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs via AI HOT · https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 17:52]
+标题: YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效
+链接: https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua
+正文: Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。 🔗 阅读原文：https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media via AI HOT · https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 17:48]
+标题: NotebookLM短视频概览正式上线
+链接: https://aihot.virxact.com/items/cmray36fg021nihogfo205417
+正文: Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English! As always, your opinion means everything to us. Share your favorite creations below and tell us what features we need to add next! ❤️ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmray36fg021nihogfo205417
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 16:50]
+标题: Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法
+链接: https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4
+正文: Liquid AI 开源了 Antidoom，一种基于 Final Token Preference Optimization （FTPO） 的针对性修复方法，用于减少推理模型中的 doom loop（死循环）问题。该方法定位循环开始的第一个 token，训练模型选择连贯替代项，而不改变整体输出分布。在 LFM2.5-2.6B 上，硬数学和编程任务中的循环率从 10.2% 降至 1.4%；Qwen3.5-4B 上从 22.9% 降至 1%。整套流程可在数小时内完成，全部代码和数据集（LiquidAI/antidoom-mix-v1.0）已开源。 🔗 阅读原文：https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo via AI HOT · https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 16:24]
+标题: 人们如何使用Claude Cowork
+链接: https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x
+正文: 基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。 🔗 阅读原文：https://claude.com/blog/how-people-are-using-claude-cowork via AI HOT · https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 16:24]
+标题: Claude Cowork 向移动端和网页端开放
+链接: https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6
+正文: Claude Cowork 正在向移动端和网页端开放，让会话和文件跨设备同步。Beta 版将在未来几周内首先面向 Max 用户推出。Cowork 可让 Claude 跨文件、日历、邮件、即时通讯等工具完成复杂任务，其中超过 90% 的使用场景并非软件开发，而是日常知识工作（业务运营和内容创作）。工作可跨设备跟随用户：在桌面端开始任务，从手机查看进度；关闭笔记本后 Claude 可继续后台运行，支持定时任务（如周一 6 点自动准备客户简报）。当需要用户决策时，Claude 会将问题推送到手机。桌面端保留完整 Cowork 体验，支持无法安装桌面应用的用户。聊天和 Cowork 已在网页端和桌面端合并。为庆祝上线，双倍 Cowork 使用额度延长至 8 月 5 日。 🔗 阅读原文：https://claude.com/blog/cowork-web-mobile via AI HOT · https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 16:10]
+标题: Rowboat：开源、本地优先的桌面AI助手
+链接: https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam
+正文: Rowboat 是一个开源、本地优先的桌面 AI 助手，将邮件、会议、Slack 等数据索引为 Obsidian 风格的知识图谱，提供持久上下文记忆。内置邮件客户端、浏览器、会议记录器、代码模式（可调用 Claude Code 或 Codex 代理），并支持按事件或定时运行的背景代理。用户可通过 MCP 协议接入 Exa 搜索、GitHub 等外部工具。所有数据以纯 Markdown 格式本地存储，无供应商锁定，支持 Ollama/LM Studio 本地模型或使用 API 密钥的托管模型。 🔗 阅读原文：https://github.com/rowboatlabs/rowboat via AI HOT · https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 15:14]
+标题: 中国拟限制外国访问最强AI模型
+链接: https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t
+正文: 🇨🇳这是个坏消息。现在，前沿的开源访问可能也将不再对所有人开放。 中国正准备限制外国访问其最强大的 AI 模型，此举可能推高全球 AI 成本，并按照国籍分割模型市场。 北京近期与阿里巴巴、字节跳动和 Z.ai 举行了会谈，讨论将包括尚未发布的先进中国模型留在中国境内。 商务部主导了这些讨论，中国的国家规划机构也参与了，这标志着出口管制而非常规平台监管。 目标包括闭源模型和开源权重系统，因此问题不仅涉及 API 访问，还涉及可下载的模型能力。 中国官员还讨论了将专有 AI 的泄漏或盗窃视为国家安全罪行，而不仅仅是知识产权纠纷。 还讨论了对外国资金投资中国 AI 初创企业的新限制，这将同时对资本、人才和模型访问实施更严格的控制。 外国公司可能会失去对中国低成本模型的访问权限，而恰逢这些模型变得足够强大，足以用于严肃的生产工作。 华盛顿已以安全为由限制了对美国先进模型的访问。 中国现在担心 Mythos 可能发现软件漏洞并被用于损害中国利益，因此双方都将 AI 视为战略基础设施。 北京还调查了迁往海外的中国 AI 初创企业，并推动 Meta 撤销一项 20 亿美元的 Manus 交易。 一个可能的路径是分层控制：基础开源工具需要备案，更强大的系统面临审查，而前沿模型则留在中国国内。 这将对开放 AI 访问构成重大挫折，因为模型的进步将不再主要通过产品质量和价格来传播。 reuters .com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 14:49]
+标题: Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性
+链接: https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9
+正文: 循环工程很棒，直到出了问题。 以下是我提升智能体循环可靠性的方法。 我采用人在回路中（HITL）。它简单且极其有效，任何人都能搭建。 我的配置如下： 我录制了一段快速演示，展示它的运作方式。 我最近提到，我现在更多地使用语音智能体来构建和与智能体沟通，我也会用它们来验证。 我讨厌被束缚在电脑前或 Slack 频道里与我的智能体交流。 以下是我为简化与智能体的沟通所做的改进。 我所有的 Claude 和 Codex 智能体会话现在都使用 @DialAgent MCP 服务器。它提供了一系列工具，并为我的智能体配备了一个专属号码，使其能在同一界面下使用语音、短信和 iMessage 作为原生工具拨打电话。 当我的循环/自动化系统处理 PR 和新功能时，智能体会通过简短的电话将决策升级给我。这对于我在路上或不在电脑前时极为有用。 如果你想在 Claude Code 或 Codex 中尝试，请将以下内容粘贴到你的智能体中并立即开始： "给自己申请一个 Dial 电话号码，然后打给我。说声你好并确认配置正常，然后挂断。请参考 https://getdial.ai/skills.md" @NVoitenkov 和团队正在打造一些特别的东西。去看看吧。现在就给你的智能体一个电话号码：http://getdial.ai（5 美元免费额度） —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 14:21]
+标题: 在 Claude Code 中选择 Claude 模型与努力级别
+链接: https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh
+正文: Claude Code 提供模型（model）和努力级别（effort）两种设置。模型选择决定能力范围，更大模型（如 Claude Fable 5）在基准上优于 Claude Sonnet。努力级别不单是思考时间，还控制读取文件数、验证步骤及多步任务的推进深度。较高努力下 Claude 会自行读取文件、运行测试并复核；较低努力则更倾向请求用户提供上下文。若 Claude 已掌握上下文但仍出错，应换更强大模型；若因跳读文件或未运行测试而出错，则应提高努力级别。 🔗 阅读原文：https://claude.com/blog/claude-model-and-effort-level-in-claude-code via AI HOT · https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 14:14]
+标题: Ethan Mollick：开放权重模型供给难持续
+链接: https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr
+正文: 这是我预计前沿开放权重模型的发布不会无限期持续下去、甚至可能很快就要结束的一个关键原因。https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 09:00]
+标题: 智能免费，然后呢？--Data Systems for， of， and by Agents
+链接: https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs
+正文: AI推理成本急剧下降。GPT-4级能力从2023年初每百万token约30美元降至今天不到1美元，部分供应商已低于0.10美元。推理价格每年下降9至900倍，中位数约50倍。知识工作级智能即将近乎免费。这给数据系统带来三重变革：面向智能体的数据系统需支持智能体推测式探索--单个 🔗 阅读原文：http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what via AI HOT · https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 09:00]
+标题: 美国首批自主地面车辆在乌克兰参战
+链接: https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w
+正文: 美国自动驾驶车辆公司 Forterra 宣布，过去九个月已向乌克兰战场部署超过 100 辆基于 Polaris ATV 的 Lancer 自主地面车辆。这些汽油动力车辆可携带 750 公斤货物，加装 Starlink 天线实现远程操控，已执行 1100 多次任务，行驶 2500 英里，运送 777，440 磅物资，完成 52 次伤员撤离。目前车辆主要采用远程操作，因自主系统尚无法实时识别并应对敌方威胁。Forterra 已融资超 5 亿美元，正将经典机器人方法与生成式 AI 结合以提升自主能力。美军专家认为地面自主技术已具实战价值。 🔗 阅读原文：https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine via AI HOT · https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 08:54]
+标题: Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力
+链接: https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6
+正文: Google 为 Gemini API 的 Managed Agents 新增后台执行、远程 MCP 服务器集成、自定义函数调用与凭证刷新功能。后台执行通过传入 `background： true` 异步运行任务，立即返回 ID 供轮询状态或流式获取进度。Managed Agents 可直接连接远程 MCP 服务器，无需自定义代理中间件，并能与内置沙箱工具（如 Google 搜索、代码执行）混合使用。自定义函数调用支持本地执行业务逻辑，内置工具自动在服务端运行。凭证刷新通过传递现有环境 ID 和新网络配置完成，沙箱内文件系统、已安装包和仓库保持不变。这些更新旨在帮助开发者构建可靠的生产级 AI 智能体。 🔗 阅读原文：https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api via AI HOT · https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 06:45]
+标题: 在网络不稳定的地区，小型AI模型正逐渐普及
+链接: https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih
+正文: 2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人机、乌拉圭蚂蚁入侵识别、疟蚊检测及巴西基于Arduino的心电图设备。世界银行报告显示，全球最穷国家仅0.7%互联网用户用过ChatGPT，发达国家达四分之一；行长认为小AI是为缺乏算力与电力的地区提供生命救助服务的关键。 🔗 阅读原文：https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals via AI HOT · https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 06:23]
+标题: Grok Imagine 更新：支持 15 秒视频
+链接: https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s
+正文: Grok Imagine 更新。请更新你的 Grok 应用！15 秒 Imagine 视频现已可用，质量令人难以置信。 🔗 阅读原文：https://x.com/elonmusk/status/2074378653501128833 via AI HOT · https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-07 21:15]
 标题: Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year
 链接: https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html
@@ -39,15 +164,10 @@
 链接: https://www.cnbc.com/2026/07/07/stocks-making-the-biggest-moves-premarket-fisv-crnx-mu.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-07 02:57]
-标题: BlackRock says the China AI play is stock-specific, not a regional trade
-链接: https://www.cnbc.com/2026/07/07/china-ai-play-is-stock-specific-not-a-regional-trade-blackrock.html
-正文: BlackRock Investment Institute laid out its views Monday on the AI bubble debate.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 02:19]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 05:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 02:19]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 05:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
