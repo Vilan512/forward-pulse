@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-08 05:13:40
-# 共计 35 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-08 08:10:08
+# 共计 37 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-07 12:10]
 标题: The Download: your stake in OpenAI, and the Treasury’s AI warning
@@ -23,6 +23,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-07 15:20]
 标题: Hugging Face Models on Foundry Managed Compute
 链接: https://huggingface.co/blog/microsoft/foundry-managed-compute
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 07:00]
+标题: 黑客可利用9款最流行的AI工具组装大规模僵尸网络
+链接: https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
+正文: 提示注入已成为AI安全的首要威胁--大语言模型无法区分合法指令与恶意指令。此前推送式和拉取式攻击规模均有限。研究人员提出一种名为HalluSquatting的新型拉取式提示注入攻击，首次能组装大规模僵尸网络、执行分布式拒绝服务攻击（DDoS）并大规模感染设备。该攻击可作用于AI编码工具，标志着提示注入攻击从单点突破转向规模化利用。 🔗 阅读原文：https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets via AI HOT · https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 06:05]
+标题: 工信部发布Claude Code后门安全风险提示
+链接: https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
+正文: 愈演愈烈了 中国工信部发布关于防范Claude Code安全后门隐患的风险提示 公告称：Claude Code2.1.91至2.1.196版本内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息 建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载 或 升级至已清除相关后门代码的最新安全版本 加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 04:29]
 标题: AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞
@@ -139,15 +149,13 @@
 链接: https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6
 正文: Google 为 Gemini API 的 Managed Agents 新增后台执行、远程 MCP 服务器集成、自定义函数调用与凭证刷新功能。后台执行通过传入 `background： true` 异步运行任务，立即返回 ID 供轮询状态或流式获取进度。Managed Agents 可直接连接远程 MCP 服务器，无需自定义代理中间件，并能与内置沙箱工具（如 Google 搜索、代码执行）混合使用。自定义函数调用支持本地执行业务逻辑，内置工具自动在服务端运行。凭证刷新通过传递现有环境 ID 和新网络配置完成，沙箱内文件系统、已安装包和仓库保持不变。这些更新旨在帮助开发者构建可靠的生产级 AI 智能体。 🔗 阅读原文：https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api via AI HOT · https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 06:45]
-标题: 在网络不稳定的地区，小型AI模型正逐渐普及
-链接: https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih
-正文: 2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人机、乌拉圭蚂蚁入侵识别、疟蚊检测及巴西基于Arduino的心电图设备。世界银行报告显示，全球最穷国家仅0.7%互联网用户用过ChatGPT，发达国家达四分之一；行长认为小AI是为缺乏算力与电力的地区提供生命救助服务的关键。 🔗 阅读原文：https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals via AI HOT · https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 20:23]
+标题: Bank of America warns America now has 2 economies
+链接: https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 06:23]
-标题: Grok Imagine 更新：支持 15 秒视频
-链接: https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s
-正文: Grok Imagine 更新。请更新你的 Grok 应用！15 秒 Imagine 视频现已可用，质量令人难以置信。 🔗 阅读原文：https://x.com/elonmusk/status/2074378653501128833 via AI HOT · https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 21:33]
+标题: CoreWeave stock sinks as mag 7 move rattles investors
+链接: https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-sinks-mag-7-213300871.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-07 21:15]
 标题: Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year
@@ -164,10 +172,10 @@
 链接: https://www.cnbc.com/2026/07/07/stocks-making-the-biggest-moves-premarket-fisv-crnx-mu.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 05:13]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 08:10]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 05:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 08:10]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
