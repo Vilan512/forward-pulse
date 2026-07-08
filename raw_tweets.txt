@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-08 17:20:34
-# 共计 82 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-08 19:09:49
+# 共计 43 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-08 16:26]
 标题: EmTech AI 2026: The Rise of the AI Platform
@@ -21,11 +21,6 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-07 21:15]
 标题: From Hugging Face to Amazon SageMaker Studio in one click
 链接: https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:42]
-标题: OpenRouter 自动升级至 Grok 4.5
-链接: https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh
-正文: 使用 Grok 4.5 from @SpaceXAI，在其上线的那一刻即可接入，无需更改任何代码。 ~x-ai/grok-latest 始终路由到最新的 Grok。现在指向它（目前是 Grok 4.3），一旦 4.5 发布，它会自动升级到 4.5。 试试看：https://openrouter.ai/~x-ai/grok-latest —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:35]
 标题: Runway Dev 发布
@@ -103,6 +98,11 @@
 正文: 作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。 🔗 阅读原文：https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ via AI HOT · https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 00:00]
+标题: 推出 Grok 4.5
+链接: https://aihot.virxact.com/items/cmrcdtas00074ihx5zzerv512
+正文: Cursor 与 SpaceXAI 联合训练了混合专家模型 Grok 4.5，在数万亿 tokens 的 Cursor 用户交互数据上训练，并通过强化学习解决软件工程、数据科学、金融、法律等领域的困难问题。基础版定价 $2/M 输入 tokens、$6/M 输出 tokens，快速版 $4/M 输入 tokens、$18/M 输出 tokens。即日起在 Cursor 桌面、网页、iOS、CLI 及 SDK 中可用，个人和团队计划首周使用量翻倍。Grok 4.5 与 Composer 2.5 为不同权重类别，两者将继续支持。 🔗 阅读原文：https://cursor.com/blog/grok-4-5 via AI HOT · https://aihot.virxact.com/items/cmrcdtas00074ihx5zzerv512
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 00:00]
 标题: OpenAI 发布 GPT-Live 新一代全双工语音模型
 链接: https://aihot.virxact.com/items/cmrcc072t01eqihqcf5kht18y
 正文: OpenAI 今日推出 GPT-Live，基于全双工架构实现同时听与说，支持自然打断与实时回馈。该模型每秒多次判断是否说话、倾听、打断或调用工具，并将搜索、推理等复杂任务委托给后台 GPT-5.5，保持对话流畅。即日起向全球 ChatGPT 用户提供 GPT-Live-1 和 GPT-Live-1 mini 两个版本。人类评估显示，在 5-10 分钟对话中，GPT-Live-1 系列在自然度、轮流、打断等方面显著优于 Advanced Voice Mode；在 GPQA、BrowseComp 和 τ3-Voice Telecom 基准测试中也表现更强。未来将开放 API。 🔗 阅读原文：https://openai.com/index/introducing-gpt-live via AI HOT · https://aihot.virxact.com/items/cmrcc072t01eqihqcf5kht18y
@@ -122,197 +122,39 @@
 链接: https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
 正文: 介绍Muse Image和Muse Video，这是Meta智能实验室（Meta Superintelligence Labs）开发的首批媒体生成模型。 Muse Image是我们迄今为止最先进的图像生成模型。它能忠实遵循指令，进行精确编辑，从多个参考源合成内容，并利用Instagram获取社交语境。它还具备智能体工具使用能力，可与Muse Spark集成。 你可以在Meta AI应用和网页、以及Instagram快拍和WhatsApp中使用Muse Image——先从少数国家开始，后续将扩展到更多地区。 今天我们同时预览了Muse Video，它基于与Muse Image相同的预训练基础构建，支持原生音频，呈现卓越的视觉保真度。 了解更多关于这两款模型的信息：https://go.meta.me/7f4427 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 18:35]
-标题: 微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型
-链接: https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795
-正文: 微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。 🔗 阅读原文：https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs via AI HOT · https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 17:52]
-标题: YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效
-链接: https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua
-正文: Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。 🔗 阅读原文：https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media via AI HOT · https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 17:48]
-标题: NotebookLM短视频概览正式上线
-链接: https://aihot.virxact.com/items/cmray36fg021nihogfo205417
-正文: Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English! As always, your opinion means everything to us. Share your favorite creations below and tell us what features we need to add next! ❤️ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmray36fg021nihogfo205417
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 20:23]
 标题: Bank of America warns America now has 2 economies
 链接: https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:06]
-标题: Nvidia, Chip Stocks Waver Amid U.S.-Iran War Flare-Up
-链接: https://www.investors.com/news/technology/nvidia-stock-chip-stocks-waver-sox/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:05]
-标题: Blue Origin Raises $10 Billion at a $130 Billion Valuation
-链接: https://finance.yahoo.com/markets/stocks/articles/blue-origin-raises-10-billion-170503006.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 23:01]
-标题: Stock market today: Dow, S&P 500, Nasdaq fall as oil surges, Trump declares ceasefire 'over'
-链接: https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-dow-sp-nasdaq-fall-oil-rise-230111117.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:57]
-标题: BofA extends first $520 million loan to OpenAI ahead of IPO, source says
-链接: https://finance.yahoo.com/technology/ai/articles/bofa-extends-first-520-million-165741747.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:02]
-标题: Palantir Just Hit $300 Billion. The Numbers Say That’s Only the Start.
-链接: https://finance.yahoo.com/markets/stocks/articles/palantir-just-hit-300-billion-170236104.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:51]
-标题: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-链接: https://finance.yahoo.com/markets/crypto/articles/paradigm-raises-1-2b-crypto-165100462.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:41]
-标题: New airline cargo contract raises liability risk, logistics providers say
-链接: https://finance.yahoo.com/small-business/articles/airline-cargo-contract-raises-liability-164107157.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:22]
-标题: This Glaucoma Therapy Company Is Keeping An Eye On Profits
-链接: https://www.investors.com/research/glaukos-stock-gkos-glaucoma-retinal-disease-eye/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:45]
+标题: Market Update: CMCSA, GAP
+链接: https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 11:23]
 标题: Daily Spotlight: Equities Post Strong First Half
 链接: https://finance.yahoo.com/research/reports/ARGUS_47545_MarketOutlook_1783509782000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:59]
-标题: Elon Musk Could Get a $165 Billion Payday, But There’s Just One Problem: Traders Say It’s Never Going to Happen
-链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-could-165-billion-165927875.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:50]
-标题: SpaceX stock hovers at IPO opening price as rival Blue Origin seeks $10 billion in fresh funding
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-hovers-at-ipo-opening-price-as-rival-blue-origin-seeks-10-billion-in-fresh-funding-155049263.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:09]
-标题: Stocks, bonds retreat after Trump says Iran MOU 'is over'
-链接: https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-retreat-trump-says-143654327.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:03]
-标题: CGI Inc. (GIB) and NetApp Join Forces to Modernize IT Infrastructure and Improve Data Management
-链接: https://finance.yahoo.com/technology/articles/cgi-inc-gib-netapp-join-160349194.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:03]
-标题: Sony (SONY) Moves Further Into Digital Gaming With PS3, PS Vita Store Closures
-链接: https://finance.yahoo.com/technology/articles/sony-sony-moves-further-digital-160328781.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:59]
 标题: Daily – Vickers Top Buyers & Sellers for 07/08/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47543_TopBottomInsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:59]
-标题: Nvidia's valuation just hit a multiyear low — even as revenue sets records
-链接: https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:55]
-标题: Bond yields jump as surging oil prices spark renewed inflation fears
-链接: https://finance.yahoo.com/markets/article/bond-yields-jump-as-surging-oil-prices-spark-renewed-inflation-fears-155546872.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:55]
-标题: Stock Market Today: Dow Dives As U.S.-Iran Ceasefire Falls Apart; Arista Bucks Sell-Off (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-ceasefire-micron-sandisk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:51]
-标题: Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals
-链接: https://finance.yahoo.com/technology/ai/articles/infosys-limited-infy-partners-sentara-155130172.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:59]
 标题: Daily – Vickers Top Insider Picks for 07/08/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47542_InsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:57]
-标题: The $7,500 IRA Limit Almost Nobody Hits: The Average American Contributes Just $3,482
-链接: https://finance.yahoo.com/markets/articles/7-500-ira-limit-almost-165714240.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:51]
-标题: This is why Citi Cut Strategy Inc. (MSTR) Price Target But Asserted Buy Rating
-链接: https://finance.yahoo.com/markets/stocks/articles/why-citi-cut-strategy-inc-155118325.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:51]
-标题: Cognizant Technology Solutions Corporation (CTSH) Pursues AI Opportunities in EMEA
-链接: https://finance.yahoo.com/technology/ai/articles/cognizant-technology-solutions-corporation-ctsh-155100130.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:50]
-标题: Is Adobe Inc. (ADBE) the Best Beaten Down Technology Stock to Buy Now?
-链接: https://finance.yahoo.com/technology/articles/adobe-inc-adbe-best-beaten-155040660.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:51]
 标题: Market Digest: RCL
 链接: https://finance.yahoo.com/research/reports/ARGUS_47539_MarketSummary_1783507894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:57]
-标题: Nearly 40 million investors could face a crypto ban
-链接: https://finance.yahoo.com/markets/crypto/articles/nearly-40-million-investors-could-165711138.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 19:05]
+标题: Fed officials were split on direction of interest rates at last meeting, minutes show
+链接: https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html
+正文: The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:50]
-标题: Palantir Technologies (PLTR) Looks Beaten Down Despite Expanding Its Sovereign AI Push
-链接: https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-looks-beaten-155017246.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:50]
-标题: The $2 trillion chip sell-off hits a make-or-break level: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/the-2-trillion-chip-sell-off-hits-a-make-or-break-level-chart-of-the-day-155000822.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:47]
-标题: Good news, software developers: Job postings are ticking up post-Claude Code
-链接: https://finance.yahoo.com/economy/policy/article/good-news-software-developers-job-postings-are-ticking-up-post-claude-code-154726595.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:47]
-标题: IMF says hopes to engage on central banks' changes to forward guidance
-链接: https://finance.yahoo.com/economy/policy/articles/imf-says-hopes-engage-central-154727428.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:55]
-标题: Nvidia backed by Bank of America as analysts see AI leadership supporting further growth
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-backed-bank-america-analysts-165500644.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:47]
-标题: Match Group, IBD's Stock Of The Day, Pins Hopes On Hinge, Tinder And AI-Led Growth
-链接: https://www.investors.com/research/ibd-stock-of-the-day/match-stock-online-dating-hinge-tinder-ai/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:46]
-标题: Salesforce (CRM) Upgraded as AI Bear Case Looks Overdone
-链接: https://finance.yahoo.com/technology/ai/articles/salesforce-crm-upgraded-ai-bear-154644997.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:45]
-标题: Oracle Corporation (ORCL): A Beaten Down Technology Stock to Buy on AI Buildout Opportunities
-链接: https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-beaten-down-154509357.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:44]
-标题: Beaten Down Technology Stock to Buy: Microsoft Corporation (MSFT) Embarks on Cost Cuts
-链接: https://finance.yahoo.com/technology/articles/beaten-down-technology-stock-buy-154452382.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:53]
-标题: Tim Cook’s Final Move as Apple CEO: The Biggest American Manufacturing Deal in Company History
-链接: https://finance.yahoo.com/technology/articles/tim-cook-final-move-apple-165304860.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:39]
-标题: Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar
-链接: https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:38]
-标题: This is Why SAP SE (SAP) is A Top AI Stock on Wall Street Radar amid Reorganization Drive
-链接: https://finance.yahoo.com/technology/ai/articles/why-sap-se-sap-top-153859414.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:38]
-标题: JPMorgan Chase: Here's One Trade To Consider As Earnings Approach
-链接: https://www.investors.com/research/options/jpmorgan-chase-jpm-stock-bull-put-spread-options-2/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:38]
-标题: Is Meta Platforms, Inc. (META) A Top AI Stock on Wall Street’s Radar?
-链接: https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-153848270.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 16:52]
-标题: How EBAY Stock’s British Experiment Signaled A 50% Surge
-链接: https://finance.yahoo.com/markets/stocks/articles/ebay-stock-british-experiment-signaled-165227432.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 15:38]
-标题: Snowflake Inc. (SNOW): A Top AI Stock on Wall Street’s Radar, Expanding in Europe
-链接: https://finance.yahoo.com/technology/ai/articles/snowflake-inc-snow-top-ai-153841482.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 14:04]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 17:45]
 标题: Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict
 链接: https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html
-正文: Speculators now see just a 44% chance that traffic flows return to normal by Dec. 1.
+正文: Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 11:41]
 标题: Stocks making the biggest moves premarket: United Airlines, Micron, Chevron & more
@@ -354,10 +196,10 @@
 链接: https://www.mckinsey.com/industries/logistics/our-insights/reimagining-logistics-pricing
 正文: Logistics players can focus on four pricing strategies in the AI era.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 17:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 19:09]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 17:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 19:09]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
