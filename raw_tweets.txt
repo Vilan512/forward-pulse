@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-08 19:09:49
-# 共计 43 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-08 20:57:45
+# 共计 50 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-08 16:26]
 标题: EmTech AI 2026: The Rise of the AI Platform
@@ -22,6 +22,11 @@
 标题: From Hugging Face to Amazon SageMaker Studio in one click
 链接: https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 19:56]
+标题: 诉讼：男子使用Grok制作7000张继女色情图像后自杀
+链接: https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
+正文: 一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt via AI HOT · https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:35]
 标题: Runway Dev 发布
 链接: https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype
@@ -36,6 +41,16 @@
 标题: OpenRouter聊天室推出一键零数据保留
 链接: https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13
 正文: New: one-click ZDR (zero-data retention) in the Chatroom Compare models side-by-side with full privacy: https://openrouter.ai/chat —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 13:30]
+标题: OpenAI发布政府与国家安全合作伙伴关系方针
+链接: https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j
+正文: OpenAI近日公布国家安全原则，阐明在政府及国家安全领域部署前沿AI系统的方针。原则强调在保护公民、防御关键基础设施、提供公共服务及应对新兴威胁（网络防御和生物安全）中发挥AI优势，同时确保民主问责、人类判断和法治。过去一个月，OpenAI通过Daybreak网络防御计划与澳大利亚、加拿大、日本、韩国、法国、德国、波兰、荷兰及欧盟ENISA等机构建立网络安全信任访问合作，并与英国政府开展网络安全测试评估。上月，OpenAI向部分美国政府及盟友合作伙伴开放GPT-Rosalind模型用于公共卫生和生物防御。原则适用于现有及未来合作，包括与Department of War的协议，明确禁止大规模国内监控、自主武器系统及高风险自动化决策。OpenAI支持立法对高风险军事用途（如国内监控、自主武器）建立保障措施。 🔗 阅读原文：https://openai.com/index/government-national-security-partnerships via AI HOT · https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 13:00]
+标题: OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷
+链接: https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u
+正文: OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。 🔗 阅读原文：https://openai.com/index/separating-signal-from-noise-coding-evaluations via AI HOT · https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 12:08]
 标题: 在校研究生Kunkun开源管理相互调用Skill的方法
@@ -112,20 +127,6 @@
 链接: https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi
 正文: Hugging Face 宣布 transformers vLLM 后端现与手写原生 vLLM 实现速度相当甚至更快。模型作者无需移植代码，即可自动利用 transformers 获得超快推理。测试使用 Qwen3-4B（单 GPU）、Qwen3-32B（张量并行）和 Qwen3-235B-A22B-FP8 MoE（数据+专家并行）三种配置，吞吐量均达到或超过原生。该后端通过 torch.fx 静态分析图、AST 重写代码实现动态层融合，支持张量/管道/专家并行及 torch.compile。用户仅需添加 `--model-impl transformers` 标志。目前不支持线性注意力模型但即将支持。 🔗 阅读原文：https://huggingface.co/blog/native-speed-vllm-transformers-backend via AI HOT · https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 20:22]
-标题: Krea 2 身份保留功能上线
-链接: https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
-正文: Krea 2 的身份保持功能 🔥 [引用 @SlipperyGem]：这才是我渴望的那种身份保持功能。 我明天要出门旅行，所以没法测试了。我很好奇它在风格化角色上的效果如何…… https://huggingface.co/conradlocke/krea2-identity-edit https://github.com/lbouaraba/comfyui-krea2edit —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-07 19:33]
-标题: Meta Superintelligence Labs 推出 Muse Image 和 Muse Video
-链接: https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
-正文: 介绍Muse Image和Muse Video，这是Meta智能实验室（Meta Superintelligence Labs）开发的首批媒体生成模型。 Muse Image是我们迄今为止最先进的图像生成模型。它能忠实遵循指令，进行精确编辑，从多个参考源合成内容，并利用Instagram获取社交语境。它还具备智能体工具使用能力，可与Muse Spark集成。 你可以在Meta AI应用和网页、以及Instagram快拍和WhatsApp中使用Muse Image——先从少数国家开始，后续将扩展到更多地区。 今天我们同时预览了Muse Video，它基于与Muse Image相同的预训练基础构建，支持原生音频，呈现卓越的视觉保真度。 了解更多关于这两款模型的信息：https://go.meta.me/7f4427 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-07 20:23]
-标题: Bank of America warns America now has 2 economies
-链接: https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:45]
 标题: Market Update: CMCSA, GAP
 链接: https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -138,13 +139,42 @@
 标题: Daily – Vickers Top Buyers & Sellers for 07/08/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47543_TopBottomInsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
+标题: Best CD rates today, Wednesday, July 8, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-8-2026-earn-up-to-410-apy-100000199.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:59]
 标题: Daily – Vickers Top Insider Picks for 07/08/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47542_InsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
+标题: Mortgage and refinance rates today, Wednesday, July 8, 2026: Rates continue falling
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-8-2026-rates-continue-falling-100000419.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:32]
+标题: Gold prices today, Wednesday, July 8, 2026: Gold prices falling following U.S.-Iran airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-8-2026-gold-prices-falling-following-us-iran-airstrikes-123252748.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:51]
 标题: Market Digest: RCL
 链接: https://finance.yahoo.com/research/reports/ARGUS_47539_MarketSummary_1783507894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:43]
+标题: Silver prices today, Wednesday, July 8, 2026: Silver slips below $60 once again following airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-8-2026-silver-slips-below-60-once-again-following-airstrikes-124322997.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 13:03]
+标题: Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:18]
+标题: What drives the price of gold?
+链接: https://finance.yahoo.com/personal-finance/investing/article/what-drives-gold-price-171825145.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 19:33]
+标题: Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
+链接: https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html
+正文: The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 19:05]
 标题: Fed officials were split on direction of interest rates at last meeting, minutes show
@@ -196,10 +226,10 @@
 链接: https://www.mckinsey.com/industries/logistics/our-insights/reimagining-logistics-pricing
 正文: Logistics players can focus on four pricing strategies in the AI era.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 19:09]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-08 20:57]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 19:09]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-08 20:57]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
