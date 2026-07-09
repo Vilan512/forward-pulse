@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 21:14:04
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-09 23:03:14
+# 共计 45 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 20:22]
 标题: Anthropic found a hidden space where Claude puzzles over concepts
@@ -16,10 +16,50 @@
 链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
 正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 20:45]
-标题: OpenAI 发布 GPT-5.6（Sol， Terra， Luna）：三层模型家族，Responses API 支持编程式工具调用
-链接: https://aihot.virxact.com/items/cmrdzoh6v006wih0z3w6ywv49
-正文: OpenAI 将 GPT-5.6 系列从有限预览转为全面可用，推出旗舰 Sol、平衡型 Terra 与性价比款 Luna，定价分别为每百万 token 输入/输出 $5/$30、$2.50/$15、$1/$6。Sol 在 Artificial Analysis Coding Agent Index v1.1 以最大推理模式获 80 分，高出 Claude Fable 5 的 77.2 分，且输出 token 与耗时减半；在 Terminal-Bench 2.1 和 DeepSWE v1.1 创下新 SOTA，OSWorld 2.0 达 62.6% 且比 Claude Opus 4.8 少用 85% 输出 token。Responses API 新增编程式工具调用（在隔离 V8 运行时执行模型编写的 JavaScript，无网络访问）及多智能体 beta（支持四 agent 并行）。缓存支持显式断点和 30 分钟最低生存期。但 Sol 在 SWE-Bench Pro 上仅 64.6%，落后 Claude Mythos 5 约 15 分；Fable 5 在智能与工具使用基准上仍领先。 🔗 阅读原文：https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling via AI HOT · https://aihot.virxact.com/items/cmrdzoh6v006wih0z3w6ywv49
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 22:18]
+标题: Show HN： 如何在我的低配置电脑上运行 GLM-5.2
+链接: https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
+正文: colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约 🔗 阅读原文：https://github.com/JustVugg/colibri via AI HOT · https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:57]
+标题: Elon Musk称赞Anthropic并承诺不切断其算力
+链接: https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99
+正文: Elon Musk近日在X上承认此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"，盛赞Mythos/Fable模型"目前最好"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其"不挤压竞争对手"的风格，合同条款也提供了保障。 🔗 阅读原文：https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic via AI HOT · https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:47]
+标题: AI 能否回答 3 万亿美元的问题？
+链接: https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l
+正文: Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。 🔗 阅读原文：https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question via AI HOT · https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
+标题: 社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作
+链接: https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462
+正文: 安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。 🔗 阅读原文：https://www.pangram.com/blog/ai-in-your-feed via AI HOT · https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
+标题: Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万
+链接: https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk
+正文: Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fable 5 进行了大量 Rust 重写。Bun 最初用 Zig 在一年内构建，如今 CLI 月下载超 2200 万，被 Claude Code 等采用。广泛功能带来稳定性挑战，v1.3.14 修复了多项 use-after-free、内存泄漏等 bug。团队通过 ASAN、Fuzzilli 模糊测试等系统性预防，并借助 Rust 的内存安全特性减少此类缺陷。 🔗 阅读原文：https://bun.com/blog/bun-in-rust via AI HOT · https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
+标题: 微软发布Flint：面向AI智能体的可视化语言
+链接: https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46
+正文: 微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。 🔗 阅读原文：https://microsoft.github.io/flint-chart via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
+标题: title
+链接: https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
+正文: 🔗 阅读原文：https://cognition.com/blog/swe-1-7 via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:27]
+标题: ChatGPT Sites将创意变可发布网站
+链接: https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs
+正文: 把一个想法变成一个你可以发布和分享的实时网站。 以下是 OpenAI 团队的一些人用 Sites 构建的内容 👇 @prd_008 用 Sites 把一个想法变成了一款个人专注应用： [引用 @prd_008]：ChatGPT Sites 现已面向 Plus、Pro、Business 和 Enterprise 用户开放。支持网页端、移动端和桌面端。 我用新 ChatGPT 中的 Sites 插件把一个想法变成了一款个人待办事项应用。 以下是我的构建过程。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:21]
+标题: Google 推出 LiteRT.js：高性能 Web AI 推理运行时
+链接: https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7
+正文: Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。 🔗 阅读原文：https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference via AI HOT · https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 17:40]
 标题: Anthropic发起"硬问题"倡议，邀请公众提出AI相关尖锐问题
@@ -96,16 +136,6 @@
 链接: https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b
 正文: Ollama 让开源模型在本地或云端轻松运行，保持体验一致。目前拥有890万开发者、6.7万集成，并与各大模型实验室及硬件供应商建立合作。B轮融资由Theory领投。 🔗 阅读原文：https://www.tomtunguz.com/ollama-series-b via AI HOT · https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 22:30]
-标题: 利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO
-链接: https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo
-正文: Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。 🔗 阅读原文：https://www.ithome.com/0/974/275.htm via AI HOT · https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 22:21]
-标题: Seedream 5.0 Pro 登陆 Runway，支持14种语言
-链接: https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
-正文: Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference, with legible in-image text in up to 14 different languages. Try it now at the link below. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
 标题: Analyst Report: AES Corp/The
 链接: https://finance.yahoo.com/research/reports/ARGUS_2686_AnalystReport_1783617770000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -129,10 +159,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:09]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47558_TechnicalAnalysis_1783595352000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:58]
-标题: Analyst Report: Honeywell Aerospace Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_6817_AnalystReport_1783594697000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:53]
 标题: Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
@@ -164,15 +190,15 @@
 链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 21:59]
-标题: Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
-链接: https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html
-正文: The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 01:24]
 标题: China warns about AI risks with Anthropic's Claude Code
 链接: https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html
 正文: China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
+标题: Agents, robots, and us: How AI reshapes work and skills in Latin America
+链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
+正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
 标题: Author Talks: In Hollywood and in business, it’s cool to be kind
@@ -184,15 +210,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage
 正文: The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the competition.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
-标题: Agents, robots, and us: How AI reshapes work and skills in Latin America
-链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
-正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 21:14]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 23:03]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 21:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 23:03]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
