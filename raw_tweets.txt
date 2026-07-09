@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 04:42:43
-# 共计 28 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-09 08:24:59
+# 共计 32 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-08 16:26]
 标题: EmTech AI 2026: The Rise of the AI Platform
@@ -13,6 +13,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-08 17:16]
 标题: Data for Agents
 链接: https://huggingface.co/blog/nvidia/open-data-for-agents
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 07:06]
+标题: 蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video
+链接: https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0
+正文: 蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。 🔗 阅读原文：https://www.ithome.com/0/974/517.htm via AI HOT · https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 06:53]
+标题: 蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0
+链接: https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
+正文: 蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。 🔗 阅读原文：https://www.ithome.com/0/974/508.htm via AI HOT · https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 00:45]
 标题: Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型
@@ -38,11 +48,6 @@
 标题: 诉讼：男子使用Grok制作7000张继女色情图像后自杀
 链接: https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
 正文: 一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt via AI HOT · https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:35]
-标题: Runway Dev 发布
-链接: https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype
-正文: Runway 官网以 Cookie 设置页面代替了产品介绍，未提供 Runway Dev 的功能、参数、可用性等任何具体信息。 🔗 阅读原文：https://runwayml.com/news/introducing-runway-dev via AI HOT · https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:00]
 标题: Replit 推出社区档案与力量排名
@@ -79,19 +84,29 @@
 链接: https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
 正文: Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 "Additionally" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。 🔗 阅读原文：https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos via AI HOT · https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 07:00]
-标题: 黑客可利用9款最流行的AI工具组装大规模僵尸网络
-链接: https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
-正文: 提示注入已成为AI安全的首要威胁--大语言模型无法区分合法指令与恶意指令。此前推送式和拉取式攻击规模均有限。研究人员提出一种名为HalluSquatting的新型拉取式提示注入攻击，首次能组装大规模僵尸网络、执行分布式拒绝服务攻击（DDoS）并大规模感染设备。该攻击可作用于AI编码工具，标志着提示注入攻击从单点突破转向规模化利用。 🔗 阅读原文：https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets via AI HOT · https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
+标题: Mortgage and refinance rates today, Wednesday, July 8, 2026: Rates continue falling
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-8-2026-rates-continue-falling-100000419.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 06:05]
-标题: 工信部发布Claude Code后门安全风险提示
-链接: https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
-正文: 愈演愈烈了 中国工信部发布关于防范Claude Code安全后门隐患的风险提示 公告称：Claude Code2.1.91至2.1.196版本内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息 建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载 或 升级至已清除相关后门代码的最新安全版本 加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
+标题: Best CD rates today, Wednesday, July 8, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-8-2026-earn-up-to-410-apy-100000199.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:32]
+标题: Gold prices today, Wednesday, July 8, 2026: Gold prices falling following U.S.-Iran airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-8-2026-gold-prices-falling-following-us-iran-airstrikes-123252748.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:43]
+标题: Silver prices today, Wednesday, July 8, 2026: Silver slips below $60 once again following airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-8-2026-silver-slips-below-60-once-again-following-airstrikes-124322997.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:45]
 标题: Market Update: CMCSA, GAP
 链接: https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 13:03]
+标题: Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 21:59]
 标题: Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
@@ -128,10 +143,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
 正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 04:42]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 08:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 04:42]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 08:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
