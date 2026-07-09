@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 08:24:59
-# 共计 32 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-09 11:46:37
+# 共计 30 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 08:00]
+标题: Four nuclear reactors hit a big milestone in the US
+链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
+正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-08 16:26]
 标题: EmTech AI 2026: The Rise of the AI Platform
@@ -13,6 +18,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-08 17:16]
 标题: Data for Agents
 链接: https://huggingface.co/blog/nvidia/open-data-for-agents
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 08:47]
+标题: NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍
+链接: https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh
+正文: NVIDIA 发布 Nemotron-3-Super 的压缩变体 Nemotron-Labs-3-Puzzle-75B-A9B，总参数从 120.7B 降至 75.3B，活跃参数从 12.8B 降至 9.3B，保持 88 块混合布局（40 Mamba、40 MoE、8 注意力）。在 8×B200 节点上，8K/64K 场景匹配用户吞吐量≥100 tok/s 时，服务器吞吐量提升 2.03 倍。单 H100 上 1M-token 并发从 1 增至 8，权重占用从 70 GB 降至 44.5 GB。迭代式 Puzzle 方法平均得分比单步高 0.57。代价：Arena-Hard-V2 降 4.2 分、SWE-Bench 降 2.6 分。Hugging Face 提供 BF16、FP8、NVFP4 检查点。 🔗 阅读原文：https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput via AI HOT · https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 07:06]
 标题: 蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video
@@ -74,39 +84,26 @@
 链接: https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv
 正文: 现在的年轻小伙子一个比一个生猛啊！ 执行力和学习能力真的是拉满～ Kunkun 还是一位在校读研的学生！ 分享了自己管理大量互相调用的Skill的实用方法，已经开源在GitHub。 他建了一个HTML后台，把所有Skill按“运行模式（手动/自动）”“链路位置”“专业领域”打标签，方便快速筛选。 同时把涉及连环调用的Skill做成Mermaid流程图，根据当前阶段（debug、新功能、合PR、改设计）快速定位该用哪一组Skill。 另外还做了一个“ask me”技能，负责把“该调用哪个Skill”的决策浓缩成上下文喂给模型，并不是简单的把所有决策全扔给模型自己判断。 本质上是在复杂工程场景下，不完全相信模型能自己管好Skill调用，使用用结构化的索引 + 流程图 + 决策浓缩，来保持人和模型之间的对齐和可控性。 开源地址见评论区👇 [引用 @Karadokuy]：分享一下我现在随着 skill 越来越多、并且互相之间都有调用关系的情况下，是如何去管理 skill 并且去协调这些 skill 的使用的。 首先，我会建一个 HTML，它主要分为两块： 第一块是类似后台的索引块。在索引块这边，你可以通过标签去选择、筛选出你想要的 skill。我把标签分为了以下几类： 1. 运行模式：它是需要人手动调用的技能，还是模型自动调用的技能？ 2. 链路位置：它是在哪一条链路上，在我的 skill 调用的哪条链路上？ 3. 专业领域：它到底是属于什么领域的技能？是做设计、做前端、做后端，还是做一系列工程领域的技能？ 我一般会分成这几类，方便我快速地去查看和调用。 再往下，我做了一层非常有意思的设计。我把这里面所有技能中，特别是涉及到连环调用关系的技能，都做成了 Mermaid 图。我可以通过这种最小化的 Mermaid 图（环），首先判断我现在是在哪一个阶段： • 是要 debug？ • 还是开发一个新功能？ • 还是融合 PR？ • 或者是重新做页面设计？ 根据我所处的阶段和对应的环，去找到对应的流程，从而明确自己接下来调用技能的顺序是什么，以及要如何指挥模型去完成对应的任务。 （这一块是专门用来方便我自己根据工作的进度来选择合适的技能组。） --- 对于模型测，我写了一个 ask me 技能，这个是仿照 Matt 的 ask Matt 技能来做的。https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md 其负责将对应的“需要调用哪个技能”变成浓缩的上下文交给模型，然后模型可以根据自己当前的上下文情况去判断。 这两个结合起来，能带来以下好处： 1. 保证在复杂的工程中，Skill 的调用不会乱（而不是将所有的 Skill 调用全然交给模型）。 2. 避免上下文混乱的同时，也能保证模型一直处于跟我比较对齐的状态，让我能更好地对齐和了解我的工作。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 09:55]
-标题: 加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案
-链接: https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg
-正文: 加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉讼，要求赔偿用于社区重建。 🔗 阅读原文：https://www.ithome.com/0/974/169.htm via AI HOT · https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 18:33]
+标题: AT&T leaves rivals flat-footed as bankrupt carrier folds
+链接: https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 08:29]
-标题: GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞
-链接: https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
-正文: Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 "Additionally" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。 🔗 阅读原文：https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos via AI HOT · https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:43]
+标题: Market Digest: BKNG, LEN, SYK, HONA
+链接: https://finance.yahoo.com/research/reports/ARGUS_47556_MarketSummary_1783593797000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
-标题: Mortgage and refinance rates today, Wednesday, July 8, 2026: Rates continue falling
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-8-2026-rates-continue-falling-100000419.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:30]
+标题: Daily – Vickers Top Buyers & Sellers for 07/09/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47555_TopBottomInsiderActivity_1783593022000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
-标题: Best CD rates today, Wednesday, July 8, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-8-2026-earn-up-to-410-apy-100000199.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:30]
+标题: Daily – Vickers Top Insider Picks for 07/09/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47554_InsiderActivity_1783593022000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:32]
-标题: Gold prices today, Wednesday, July 8, 2026: Gold prices falling following U.S.-Iran airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-8-2026-gold-prices-falling-following-us-iran-airstrikes-123252748.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:43]
-标题: Silver prices today, Wednesday, July 8, 2026: Silver slips below $60 once again following airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-8-2026-silver-slips-below-60-once-again-following-airstrikes-124322997.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:45]
-标题: Market Update: CMCSA, GAP
-链接: https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 13:03]
-标题: Bitcoin and ethereum prices today, Wednesday, July 8, 2026: Crypto prices down following U.S.-Iran strikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-8-2026-crypto-prices-down-following-us-iran-strikes-130336886.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 11:39]
+标题: Stocks making the biggest moves premarket: AstraZeneca, PepsiCo, Salesforce, Levi & more
+链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
+正文: These are the stocks posting the largest moves in the premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 21:59]
 标题: Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
@@ -123,11 +120,6 @@
 链接: https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html
 正文: Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 11:41]
-标题: Stocks making the biggest moves premarket: United Airlines, Micron, Chevron & more
-链接: https://www.cnbc.com/2026/07/08/stocks-making-the-biggest-moves-premarket-ual-mu-cvx.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 14:28]
 标题: Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while
 链接: https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html
@@ -143,10 +135,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
 正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 08:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 11:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 08:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 11:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
