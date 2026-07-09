@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 19:24:05
-# 共计 43 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-09 21:14:04
+# 共计 41 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 20:22]
+标题: Anthropic found a hidden space where Claude puzzles over concepts
+链接: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+正文: The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside Claude Opus 4.6, a version of Anthropic’s flagship LLM released in February. The J-space contains individual words that are related to the words and phrases that the model is most likely to spit out in a response in the near future. If Claude were a person (which it is not), you might say that these hidden words can reveal what’s on its mind before it actually speaks. Anthropic found that what an LLM is actually doing can often be different from what it says it is doing. The company claims that monitoring words that pop up in the J-space gives it a new way to understand and control its models. The company shared its results in a paper posted on its website this week. It has also teamed up with Neuronpedia, an open-source platform that lets you poke around inside LLMs yourself, to make a hands-on demo that anyone can try. “It’s very good and interesting work,” says Tom McGrath, chief scientist and cofounder at Goodfire, a startup that also builds tools to understand and control LLMs. Going deeper For the last couple of years, Anthropic has been pushing the envelope in a field of research known as mechanistic interpretability, which involves probing the internal workings of LLMs to see how they tick. (MIT Technology Review picked mechanistic interpretability as one of this year’s top breakthrough technologies.) The new technique builds on previous work from Anthropic and others to expose a deeper level inside LLMs that researchers had not seen before. Picture an LLM as a stack of books. Each book is a layer of basic computational units known as neurons, with each neuron in o
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 12:10]
 标题: The Download: a nuclear landmark, and China eyes Nvidia chips
@@ -10,6 +15,11 @@
 标题: Four nuclear reactors hit a big milestone in the US
 链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
 正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 20:45]
+标题: OpenAI 发布 GPT-5.6（Sol， Terra， Luna）：三层模型家族，Responses API 支持编程式工具调用
+链接: https://aihot.virxact.com/items/cmrdzoh6v006wih0z3w6ywv49
+正文: OpenAI 将 GPT-5.6 系列从有限预览转为全面可用，推出旗舰 Sol、平衡型 Terra 与性价比款 Luna，定价分别为每百万 token 输入/输出 $5/$30、$2.50/$15、$1/$6。Sol 在 Artificial Analysis Coding Agent Index v1.1 以最大推理模式获 80 分，高出 Claude Fable 5 的 77.2 分，且输出 token 与耗时减半；在 Terminal-Bench 2.1 和 DeepSWE v1.1 创下新 SOTA，OSWorld 2.0 达 62.6% 且比 Claude Opus 4.8 少用 85% 输出 token。Responses API 新增编程式工具调用（在隔离 V8 运行时执行模型编写的 JavaScript，无网络访问）及多智能体 beta（支持四 agent 并行）。缓存支持显式断点和 30 分钟最低生存期。但 Sol 在 SWE-Bench Pro 上仅 64.6%，落后 Claude Mythos 5 约 15 分；Fable 5 在智能与工具使用基准上仍领先。 🔗 阅读原文：https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling via AI HOT · https://aihot.virxact.com/items/cmrdzoh6v006wih0z3w6ywv49
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 17:40]
 标题: Anthropic发起"硬问题"倡议，邀请公众提出AI相关尖锐问题
@@ -96,11 +106,6 @@
 链接: https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
 正文: Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference, with legible in-image text in up to 14 different languages. Try it now at the link below. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 19:56]
-标题: 诉讼：男子使用Grok制作7000张继女色情图像后自杀
-链接: https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
-正文: 一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt via AI HOT · https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
 标题: Analyst Report: AES Corp/The
 链接: https://finance.yahoo.com/research/reports/ARGUS_2686_AnalystReport_1783617770000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -121,35 +126,15 @@
 标题: Daily Spotlight: Global Stocks Still Offer Value
 链接: https://finance.yahoo.com/research/reports/ARGUS_47559_MarketOutlook_1783595391000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:00]
-标题: Best CD rates today, Thursday, July 9, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-9-2026-lock-in-up-to-410-apy-100000260.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:09]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47558_TechnicalAnalysis_1783595352000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:02]
-标题: Gold prices today, Thursday, July 9, 2026: Prices open lower as U.S.-Iran airstrikes continue
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-9-2026-prices-open-lower-as-us-iran-airstrikes-continue-120253974.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:28]
-标题: Silver prices today, Thursday, July 9: Prices continue to open lower this week
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-9-prices-continue-to-open-lower-this-week-122833571.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:55]
-标题: Bitcoin and ethereum prices today, Thursday, July 9: Prices continue sliding on geopolitical tensions
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-9-prices-continue-sliding-on-geopolitical-tensions-125531170.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:58]
-标题: Analyst Report: Lennar Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3141_AnalystReport_1783594697000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+标题: Analyst Report: Honeywell Aerospace Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_6817_AnalystReport_1783594697000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 10:00]
-标题: Mortgage rates edge higher as US-Iran ceasefire falls apart: Mortgage and refinance interest rates today
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-higher-as-us-iran-ceasefire-falls-apart-mortgage-and-refinance-interest-rates-today-100000098.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:16]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:53]
 标题: Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
 链接: https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html
 正文: Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.
@@ -159,10 +144,10 @@
 链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
 正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 18:11]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:44]
 标题: Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up
 链接: https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html
-正文: Odds that gas prices are above $3.50 on Election Day in November have jumped to 75% on the platform.
+正文: Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 15:58]
 标题: Stocks making the biggest moves midday: Micron, Paramount Skydance, Mara Holdings, PepsiCo & more
@@ -190,14 +175,24 @@
 正文: China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
+标题: Author Talks: In Hollywood and in business, it’s cool to be kind
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind
+正文: In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in better business relationships and performance.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
+标题: The real AI advantage
+链接: https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage
+正文: The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the competition.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
 标题: Agents, robots, and us: How AI reshapes work and skills in Latin America
 链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
 正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 19:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 21:14]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 19:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 21:14]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
