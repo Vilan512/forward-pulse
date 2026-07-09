@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 00:01:10
-# 共计 19 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-09 04:42:43
+# 共计 28 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-08 16:26]
 标题: EmTech AI 2026: The Rise of the AI Platform
@@ -14,37 +14,84 @@
 标题: Data for Agents
 链接: https://huggingface.co/blog/nvidia/open-data-for-agents
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 00:45]
+标题: Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型
+链接: https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1
+正文: Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache-2.0 许可开源。 🔗 阅读原文：https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0 via AI HOT · https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 23:27]
+标题: 面向AI模型双重用途知识的"开关"：Anthropic与AE Studio提出GRAM方法
+链接: https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy
+正文: Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后"遗忘"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。 🔗 阅读原文：https://www.anthropic.com/research/off-switch-dual-use via AI HOT · https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 22:30]
+标题: 利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO
+链接: https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo
+正文: Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。 🔗 阅读原文：https://www.ithome.com/0/974/275.htm via AI HOT · https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 22:21]
+标题: Seedream 5.0 Pro 登陆 Runway，支持14种语言
+链接: https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
+正文: Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference, with legible in-image text in up to 14 different languages. Try it now at the link below. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 19:56]
+标题: 诉讼：男子使用Grok制作7000张继女色情图像后自杀
+链接: https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
+正文: 一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt via AI HOT · https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:35]
+标题: Runway Dev 发布
+链接: https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype
+正文: Runway 官网以 Cookie 设置页面代替了产品介绍，未提供 Runway Dev 的功能、参数、可用性等任何具体信息。 🔗 阅读原文：https://runwayml.com/news/introducing-runway-dev via AI HOT · https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 15:00]
+标题: Replit 推出社区档案与力量排名
+链接: https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz
+正文: 本周新上线 🚀 Replit 社区个人资料 —— 专为氛围编码者打造的工作量证明。 你的个人资料，由你炫耀。获取你的智能体使用情况和检查点的活动图表，Pro 用户还可获得 Replit 实力排名。 登录，认领你的个人资料，挑选你最出色的项目，并与朋友分享你的数据。 立即查看实际效果 → http://replit.com/community —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 14:57]
+标题: OpenRouter聊天室推出一键零数据保留
+链接: https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13
+正文: New: one-click ZDR (zero-data retention) in the Chatroom Compare models side-by-side with full privacy: https://openrouter.ai/chat —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 13:30]
+标题: OpenAI发布政府与国家安全合作伙伴关系方针
+链接: https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j
+正文: OpenAI近日公布国家安全原则，阐明在政府及国家安全领域部署前沿AI系统的方针。原则强调在保护公民、防御关键基础设施、提供公共服务及应对新兴威胁（网络防御和生物安全）中发挥AI优势，同时确保民主问责、人类判断和法治。过去一个月，OpenAI通过Daybreak网络防御计划与澳大利亚、加拿大、日本、韩国、法国、德国、波兰、荷兰及欧盟ENISA等机构建立网络安全信任访问合作，并与英国政府开展网络安全测试评估。上月，OpenAI向部分美国政府及盟友合作伙伴开放GPT-Rosalind模型用于公共卫生和生物防御。原则适用于现有及未来合作，包括与Department of War的协议，明确禁止大规模国内监控、自主武器系统及高风险自动化决策。OpenAI支持立法对高风险军事用途（如国内监控、自主武器）建立保障措施。 🔗 阅读原文：https://openai.com/index/government-national-security-partnerships via AI HOT · https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 13:00]
+标题: OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷
+链接: https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u
+正文: OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。 🔗 阅读原文：https://openai.com/index/separating-signal-from-noise-coding-evaluations via AI HOT · https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 12:08]
+标题: 在校研究生Kunkun开源管理相互调用Skill的方法
+链接: https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv
+正文: 现在的年轻小伙子一个比一个生猛啊！ 执行力和学习能力真的是拉满～ Kunkun 还是一位在校读研的学生！ 分享了自己管理大量互相调用的Skill的实用方法，已经开源在GitHub。 他建了一个HTML后台，把所有Skill按“运行模式（手动/自动）”“链路位置”“专业领域”打标签，方便快速筛选。 同时把涉及连环调用的Skill做成Mermaid流程图，根据当前阶段（debug、新功能、合PR、改设计）快速定位该用哪一组Skill。 另外还做了一个“ask me”技能，负责把“该调用哪个Skill”的决策浓缩成上下文喂给模型，并不是简单的把所有决策全扔给模型自己判断。 本质上是在复杂工程场景下，不完全相信模型能自己管好Skill调用，使用用结构化的索引 + 流程图 + 决策浓缩，来保持人和模型之间的对齐和可控性。 开源地址见评论区👇 [引用 @Karadokuy]：分享一下我现在随着 skill 越来越多、并且互相之间都有调用关系的情况下，是如何去管理 skill 并且去协调这些 skill 的使用的。 首先，我会建一个 HTML，它主要分为两块： 第一块是类似后台的索引块。在索引块这边，你可以通过标签去选择、筛选出你想要的 skill。我把标签分为了以下几类： 1. 运行模式：它是需要人手动调用的技能，还是模型自动调用的技能？ 2. 链路位置：它是在哪一条链路上，在我的 skill 调用的哪条链路上？ 3. 专业领域：它到底是属于什么领域的技能？是做设计、做前端、做后端，还是做一系列工程领域的技能？ 我一般会分成这几类，方便我快速地去查看和调用。 再往下，我做了一层非常有意思的设计。我把这里面所有技能中，特别是涉及到连环调用关系的技能，都做成了 Mermaid 图。我可以通过这种最小化的 Mermaid 图（环），首先判断我现在是在哪一个阶段： • 是要 debug？ • 还是开发一个新功能？ • 还是融合 PR？ • 或者是重新做页面设计？ 根据我所处的阶段和对应的环，去找到对应的流程，从而明确自己接下来调用技能的顺序是什么，以及要如何指挥模型去完成对应的任务。 （这一块是专门用来方便我自己根据工作的进度来选择合适的技能组。） --- 对于模型测，我写了一个 ask me 技能，这个是仿照 Matt 的 ask Matt 技能来做的。https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md 其负责将对应的“需要调用哪个技能”变成浓缩的上下文交给模型，然后模型可以根据自己当前的上下文情况去判断。 这两个结合起来，能带来以下好处： 1. 保证在复杂的工程中，Skill 的调用不会乱（而不是将所有的 Skill 调用全然交给模型）。 2. 避免上下文混乱的同时，也能保证模型一直处于跟我比较对齐的状态，让我能更好地对齐和了解我的工作。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 09:55]
+标题: 加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案
+链接: https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg
+正文: 加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉讼，要求赔偿用于社区重建。 🔗 阅读原文：https://www.ithome.com/0/974/169.htm via AI HOT · https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 08:29]
+标题: GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞
+链接: https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
+正文: Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 "Additionally" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。 🔗 阅读原文：https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos via AI HOT · https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 07:00]
+标题: 黑客可利用9款最流行的AI工具组装大规模僵尸网络
+链接: https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
+正文: 提示注入已成为AI安全的首要威胁--大语言模型无法区分合法指令与恶意指令。此前推送式和拉取式攻击规模均有限。研究人员提出一种名为HalluSquatting的新型拉取式提示注入攻击，首次能组装大规模僵尸网络、执行分布式拒绝服务攻击（DDoS）并大规模感染设备。该攻击可作用于AI编码工具，标志着提示注入攻击从单点突破转向规模化利用。 🔗 阅读原文：https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets via AI HOT · https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-08 06:05]
+标题: 工信部发布Claude Code后门安全风险提示
+链接: https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
+正文: 愈演愈烈了 中国工信部发布关于防范Claude Code安全后门隐患的风险提示 公告称：Claude Code2.1.91至2.1.196版本内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息 建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载 或 升级至已清除相关后门代码的最新安全版本 加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 17:45]
 标题: Market Update: CMCSA, GAP
 链接: https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 11:23]
-标题: Daily Spotlight: Equities Post Strong First Half
-链接: https://finance.yahoo.com/research/reports/ARGUS_47545_MarketOutlook_1783509782000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:59]
-标题: Daily – Vickers Top Buyers & Sellers for 07/08/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47543_TopBottomInsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:59]
-标题: Daily – Vickers Top Insider Picks for 07/08/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47542_InsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
-标题: Best CD rates today, Wednesday, July 8, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-8-2026-earn-up-to-410-apy-100000199.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:51]
-标题: Market Digest: RCL
-链接: https://finance.yahoo.com/research/reports/ARGUS_47539_MarketSummary_1783507894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 10:00]
-标题: Mortgage and refinance rates today, Wednesday, July 8, 2026: Rates continue falling
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-8-2026-rates-continue-falling-100000419.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-08 12:32]
-标题: Gold prices today, Wednesday, July 8, 2026: Gold prices falling following U.S.-Iran airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-8-2026-gold-prices-falling-following-us-iran-airstrikes-123252748.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 21:59]
 标题: Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
@@ -71,15 +118,20 @@
 链接: https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html
 正文: There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-08 08:14]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 01:24]
 标题: China warns about AI risks with Anthropic's Claude Code
 链接: https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html
 正文: China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 00:01]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
+标题: Agents, robots, and us: How AI reshapes work and skills in Latin America
+链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
+正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 04:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 00:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 04:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
