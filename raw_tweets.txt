@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-10 06:34:51
-# 共计 42 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-10 10:15:52
+# 共计 47 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 09:00]
+标题: Sperm donors need limits, says a European fertility group
+链接: https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
+正文: Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He describes the situation as “problematic.” Children have a right to know their biological parents, he says. While he did ultimately track down one sibling, who helped him identify his father along with other genetic relatives, he may have others he’ll never find. Other donor-conceived people who have been able to track down siblings have found they have tens or even hundreds of them. One donor-conceived woman who found 25 half-siblings over the course of seven years told the Guardian, “It does make you feel a bit mass-produced.” We need international limits on the number of children a single donor can contribute to, a European fertility organization argued yesterday. At a conference in London, members laid out plans to start with a Europe-wide limit. Today many countries, including the UK, have banned anonymous egg and sperm donation. But anonymity can’t be guaranteed even in places where it is technically allowed. Genetic tests offered by companies like Ancestry and 23andMe, along with genetic registries, have made it much easier for donor-conceived people to find parents and siblings who share their genes. And because sperm can be frozen and stored for years before it is eventually used, the current set-up can result in situations where donor-conceived people discover the identity of a genetic parent only after the person’s death. They might also find that they have siblings of very different ages, all around the world. Some people are finding hundreds of siblings. Sperm from Jonathan Meijer, a Dutch man who began donating in 2007, was used to conceive between 550 and 600 children. (Stichting Donorkind, a foundation and advocacy grou
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 20:22]
 标题: Anthropic found a hidden space where Claude puzzles over concepts
@@ -11,10 +16,29 @@
 链接: https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, not just three, but four reactors did so. It’s a positive sign for nuclear technologies at a time of increasing need for electricity and emissions-free energy sources. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Here’s what the milestone could mean for nuclear power in the US—and where the four companies might go next. This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 China plans to let its top AI firms buy Nvidia H200 chipsAlibaba, ByteDance, and DeepSeek are set to get permission. (Information $)+ China had previously withheld approval despite US authorization. (Reuters $)2 NATO is building a network to stop Russian attackers in their tracksIt will use sensors, drones, satellites, and AI to detect them. (Business Insider)+ Troops are donning odd&nbsp;camouflage to elude drones. (Economist $)+ The US wants cheaper&nbsp;drones&nbsp;as Iran&#8217;s&nbsp;wrecking its Reapers. (Ars Technica)3 Researchers have a new idea to fight future El Niños: dimming the sunDeflecting solar energy could cool the ocean and mitigate the risks. (Wired $)+ But there could be unexpected consequences. (New 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 08:00]
-标题: Four nuclear reactors hit a big milestone in the US
-链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
-正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-10 00:00]
+标题: Profiling in PyTorch (Part 3): Attention is all you profile
+链接: https://huggingface.co/blog/torch-attention-profile
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 09:59]
+标题: 小红书发布大模型新架构 PIPO
+链接: https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
+正文: 小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。 🔗 阅读原文：https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg via AI HOT · https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:26]
+标题: 扎克伯格首度回应 Meta"算力过剩"：没人会嫌算力太多，但租出去更赚钱
+链接: https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152
+正文: Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认"算力过剩"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号"Meta Compute"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。 🔗 阅读原文：https://www.ithome.com/0/975/078.htm via AI HOT · https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:20]
+标题: 马斯克承认Anthropic是当前AI领导者
+链接: https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km
+正文: 马斯克在X上发文承认自己此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic"最强有力的炫耀"。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2075480331600417141 via AI HOT · https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:14]
+标题: Elon Musk 转发用户称赞 Grok Build 的反馈
+链接: https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
+正文: Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。 🔗 阅读原文：https://x.com/elonmusk/status/2075478792273842370 via AI HOT · https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 01:45]
 标题: Claude Code v2.1.206 发布
@@ -30,11 +54,6 @@
 标题: Show HN： 如何在我的低配置电脑上运行 GLM-5.2
 链接: https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
 正文: colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约 🔗 阅读原文：https://github.com/JustVugg/colibri via AI HOT · https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:57]
-标题: Elon Musk称赞Anthropic并承诺不切断其算力
-链接: https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99
-正文: Elon Musk近日在X上承认此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"，盛赞Mythos/Fable模型"目前最好"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其"不挤压竞争对手"的风格，合同条款也提供了保障。 🔗 阅读原文：https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic via AI HOT · https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:47]
 标题: AI 能否回答 3 万亿美元的问题？
@@ -121,29 +140,13 @@
 链接: https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
 正文: 美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。 🔗 阅读原文：https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw via AI HOT · https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 10:00]
-标题: OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体
-链接: https://aihot.virxact.com/items/cmrdrlair06hpih4bxerobguv
-正文: OpenAI 发布 ChatGPT Work，一个能跨应用和文件收集信息、将复杂项目分解为小步骤独立完成并持续工作数小时的 AI 智能体。它内置 Codex 技术，目前每周超 500 万用户使用 Codex，其中超 100 万用于非软件开发场景。ChatGPT Work 由今天同步推出的最新前沿模型 GPT-5.6 驱动，具备多步骤推理和按模板生成材料的能力。该功能今天起面向 Pro、Enterprise 和 Edu 计划推出，未来几天扩展至 Plus 和 Business 计划。桌面版 ChatGPT 在所有计划（含免费版）中提供 Chat、Work 和 Codex 模式，且 Codex 应用已合并至新的桌面应用。 🔗 阅读原文：https://openai.com/index/chatgpt-for-your-most-ambitious-work via AI HOT · https://aihot.virxact.com/items/cmrdrlair06hpih4bxerobguv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 08:47]
-标题: NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍
-链接: https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh
-正文: NVIDIA 发布 Nemotron-3-Super 的压缩变体 Nemotron-Labs-3-Puzzle-75B-A9B，总参数从 120.7B 降至 75.3B，活跃参数从 12.8B 降至 9.3B，保持 88 块混合布局（40 Mamba、40 MoE、8 注意力）。在 8×B200 节点上，8K/64K 场景匹配用户吞吐量≥100 tok/s 时，服务器吞吐量提升 2.03 倍。单 H100 上 1M-token 并发从 1 增至 8，权重占用从 70 GB 降至 44.5 GB。迭代式 Puzzle 方法平均得分比单步高 0.57。代价：Arena-Hard-V2 降 4.2 分、SWE-Bench 降 2.6 分。Hugging Face 提供 BF16、FP8、NVFP4 检查点。 🔗 阅读原文：https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput via AI HOT · https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 07:06]
-标题: 蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video
-链接: https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0
-正文: 蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。 🔗 阅读原文：https://www.ithome.com/0/974/517.htm via AI HOT · https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 06:53]
-标题: 蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0
-链接: https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
-正文: 蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。 🔗 阅读原文：https://www.ithome.com/0/974/508.htm via AI HOT · https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 14:17]
 标题: Fed minutes expose deep divide over interest-rate outlook
 链接: https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 22:22]
+标题: If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today
+链接: https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
 标题: Analyst Report: AES Corp/The
@@ -153,17 +156,33 @@
 标题: Analyst Report: Suburban Propane Partners LP
 链接: https://finance.yahoo.com/research/reports/ARGUS_3404_AnalystReport_1783617770000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
+标题: Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
+标题: Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:07]
 标题: Market Update: AES, SPH
 链接: https://finance.yahoo.com/research/reports/ARGUS_47569_MarketUpdate_1783616870000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:02]
+标题: Gold prices today, Thursday, July 9, 2026: Prices open lower as U.S.-Iran airstrikes continue
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-9-2026-prices-open-lower-as-us-iran-airstrikes-continue-120253974.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:28]
+标题: Silver prices today, Thursday, July 9: Prices continue to open lower this week
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-9-prices-continue-to-open-lower-this-week-122833571.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:55]
+标题: Bitcoin and ethereum prices today, Thursday, July 9: Prices continue sliding on geopolitical tensions
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-9-prices-continue-sliding-on-geopolitical-tensions-125531170.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:47]
 标题: The Market Prevails
 链接: https://finance.yahoo.com/research/reports/ARGUS_47565_PortfolioIdeas_1783597659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:09]
-标题: Daily Spotlight: Global Stocks Still Offer Value
-链接: https://finance.yahoo.com/research/reports/ARGUS_47559_MarketOutlook_1783595391000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:53]
 标题: Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
@@ -195,10 +214,10 @@
 链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 06:34]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 10:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 06:34]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 10:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
