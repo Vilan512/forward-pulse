@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-10 10:15:52
-# 共计 47 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-10 13:04:53
+# 共计 43 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
+标题: The Download: Claude’s inner workings and OpenAI’s “super app”
+链接: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving.&nbsp; Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside its flagship LLM, Claude. The J-space contains words related to the response a model is working on but may not ultimately produce. If Claude were a person (which it is not), you might say these hidden words reveal what’s on its mind before it actually speaks.&nbsp; Read the full story on what they found. —Will Douglas Heaven The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 OpenAI has unveiled its long-awaited &#8220;super app&#8221;&nbsp;ChatGPT Work blends its chatbot, coding tool, and new models. (Reuters $)+ It’s designed to do your work for you and with you. (Ars Technica)+ And arrived&nbsp;the same day as OpenAI’s GPT 5.6 models. (NYT $)+ It’s also developing a fully automated researcher. (MIT Technology Review)2&nbsp; Humanoids have performed teleoperated surgery on living animalsIn the world-first, they removed gallbladders from pigs. (Ars Technica)+ The human work behind humanoids is hidden. (MIT Technology Review)&nbsp;3 SK Hynix has landed the largest US listing by a foreign companyThe South Korean chip giant&nbsp;raised $26.5 billion. (CNN)+ Demand for AI data centres has led its profits to skyrocket. (Guardian)+ But its jumbo share sale may be a sign of overheated times. (FT $)+ South Korea’s hottest bachelors are chip workers. (MIT Technology Review)&nbsp;4 Tencent is leading a deal to unwind Meta&#8217
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 09:00]
 标题: Sperm donors need limits, says a European fertility group
@@ -10,11 +15,6 @@
 标题: Anthropic found a hidden space where Claude puzzles over concepts
 链接: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
 正文: The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside Claude Opus 4.6, a version of Anthropic’s flagship LLM released in February. The J-space contains individual words that are related to the words and phrases that the model is most likely to spit out in a response in the near future. If Claude were a person (which it is not), you might say that these hidden words can reveal what’s on its mind before it actually speaks. Anthropic found that what an LLM is actually doing can often be different from what it says it is doing. The company claims that monitoring words that pop up in the J-space gives it a new way to understand and control its models. The company shared its results in a paper posted on its website this week. It has also teamed up with Neuronpedia, an open-source platform that lets you poke around inside LLMs yourself, to make a hands-on demo that anyone can try. “It’s very good and interesting work,” says Tom McGrath, chief scientist and cofounder at Goodfire, a startup that also builds tools to understand and control LLMs. Going deeper For the last couple of years, Anthropic has been pushing the envelope in a field of research known as mechanistic interpretability, which involves probing the internal workings of LLMs to see how they tick. (MIT Technology Review picked mechanistic interpretability as one of this year’s top breakthrough technologies.) The new technique builds on previous work from Anthropic and others to expose a deeper level inside LLMs that researchers had not seen before. Picture an LLM as a stack of books. Each book is a layer of basic computational units known as neurons, with each neuron in o
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 12:10]
-标题: The Download: a nuclear landmark, and China eyes Nvidia chips
-链接: https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, not just three, but four reactors did so. It’s a positive sign for nuclear technologies at a time of increasing need for electricity and emissions-free energy sources. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Here’s what the milestone could mean for nuclear power in the US—and where the four companies might go next. This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 China plans to let its top AI firms buy Nvidia H200 chipsAlibaba, ByteDance, and DeepSeek are set to get permission. (Information $)+ China had previously withheld approval despite US authorization. (Reuters $)2 NATO is building a network to stop Russian attackers in their tracksIt will use sensors, drones, satellites, and AI to detect them. (Business Insider)+ Troops are donning odd&nbsp;camouflage to elude drones. (Economist $)+ The US wants cheaper&nbsp;drones&nbsp;as Iran&#8217;s&nbsp;wrecking its Reapers. (Ars Technica)3 Researchers have a new idea to fight future El Niños: dimming the sunDeflecting solar energy could cool the ocean and mitigate the risks. (Wired $)+ But there could be unexpected consequences. (New 
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-10 00:00]
 标题: Profiling in PyTorch (Part 3): Attention is all you profile
@@ -130,59 +130,46 @@
 链接: https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb
 正文: Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。 🔗 阅读原文：https://www.anthropic.com/news/reflect-with-claude via AI HOT · https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 13:01]
-标题: 法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资
-链接: https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il
-正文: 法国竞争管理局确认，对英伟达的反垄断调查已近尾声，即将发布正式异议声明。调查聚焦两大问题：市场对CUDA平台的严重依赖，以及英伟达对CoreWeave等AI云计算公司的投资。英伟达占全球AI加速器超70%份额。若认定滥用市场支配地位，最高可处全球年营业额10%罚款。法国是首个准备正式指控英伟达的监管机构。 🔗 阅读原文：https://www.ithome.com/0/974/744.htm via AI HOT · https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 11:58]
-标题: 美团 LongCat-2.0 正式开源，同步开放国产卡推理代码
-链接: https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
-正文: 美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。 🔗 阅读原文：https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw via AI HOT · https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 14:17]
 标题: Fed minutes expose deep divide over interest-rate outlook
 链接: https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 11:24]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47576_TechnicalAnalysis_1783682695000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 22:22]
 标题: If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today
 链接: https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
-标题: Analyst Report: AES Corp/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_2686_AnalystReport_1783617770000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 11:14]
+标题: Analyst Report: CarMax Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_4095_AnalystReport_1783682046000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
-标题: Analyst Report: Suburban Propane Partners LP
-链接: https://finance.yahoo.com/research/reports/ARGUS_3404_AnalystReport_1783617770000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:59]
+标题: Market Digest: HAS, KMX, MSFT
+链接: https://finance.yahoo.com/research/reports/ARGUS_47574_MarketSummary_1783681146000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
-标题: Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:29]
+标题: Daily – Vickers Top Buyers & Sellers for 07/10/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47573_TopBottomInsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
-标题: Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:29]
+标题: Daily – Vickers Top Insider Picks for 07/10/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47572_InsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:07]
-标题: Market Update: AES, SPH
-链接: https://finance.yahoo.com/research/reports/ARGUS_47569_MarketUpdate_1783616870000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:29]
+标题: Silver prices today, Friday, July 10, 2026: Down 4% since Monday
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-10-2026-down-4-since-monday-122910639.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:02]
-标题: Gold prices today, Thursday, July 9, 2026: Prices open lower as U.S.-Iran airstrikes continue
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-9-2026-prices-open-lower-as-us-iran-airstrikes-continue-120253974.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:08]
+标题: Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-10-2026-gold-finally-opens-higher-this-morning-120806614.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:28]
-标题: Silver prices today, Thursday, July 9: Prices continue to open lower this week
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-9-prices-continue-to-open-lower-this-week-122833571.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 12:55]
-标题: Bitcoin and ethereum prices today, Thursday, July 9: Prices continue sliding on geopolitical tensions
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-9-prices-continue-sliding-on-geopolitical-tensions-125531170.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:47]
-标题: The Market Prevails
-链接: https://finance.yahoo.com/research/reports/ARGUS_47565_PortfolioIdeas_1783597659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 11:52]
+标题: Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more
+链接: https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:53]
 标题: Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
@@ -209,15 +196,10 @@
 链接: https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html
 正文: Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 11:59]
-标题: Stocks making the biggest moves premarket: AstraZeneca, PepsiCo, Salesforce, Levi & more
-链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
-正文: These are the stocks posting the largest moves in the premarket.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 10:15]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 13:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 10:15]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 13:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
