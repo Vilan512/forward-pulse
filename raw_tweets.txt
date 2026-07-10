@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-10 16:15:39
-# 共计 66 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-10 18:17:36
+# 共计 39 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
 标题: The Download: Claude’s inner workings and OpenAI’s “super app”
@@ -20,10 +20,15 @@
 标题: Profiling in PyTorch (Part 3): Attention is all you profile
 链接: https://huggingface.co/blog/torch-attention-profile
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 15:42]
-标题: Grok 4.5 免费上线，支持 Grok Build 功能
-链接: https://aihot.virxact.com/items/cmrf4taub004gihg8mjw6diza
-正文: 试试 @grok 【引用 @grok】：Grok 4.5 现已在免费套餐中开放试用。任何 X 或 SuperGrok 账户均可使用 Grok Build。 我们期待听到你的反馈。 https://x.ai/cli 🔗 阅读原文：https://x.com/elonmusk/status/2075606632629752137 via AI HOT · https://aihot.virxact.com/items/cmrf4taub004gihg8mjw6diza
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 17:36]
+标题: Claude Code桌面版新增应用内浏览器
+链接: https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn
+正文: 桌面版 Claude Code 现在内置了应用内浏览器。 Claude 可以拉取文档、设计稿或任何其他网站。它能像操作本地开发服务器一样，进行阅读、点击浏览和交互。 该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 17:19]
+标题: DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持
+链接: https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn
+正文: DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIME-2024 基准分数同步上涨。 🔗 阅读原文：https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4 via AI HOT · https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 15:14]
 标题: Perplexity 推出跨模型信用额度分析功能
@@ -59,6 +64,11 @@
 标题: Claude Code v2.1.206 发布
 链接: https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
 正文: Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在"运行中"状态、Windows 上键盘输入被忽略等多项问题。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.206 via AI HOT · https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 00:00]
+标题: Thinking Machines Lab：构建延伸人类意志与判断的 AI
+链接: https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic
+正文: Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人类意志与判断的 AI。文章指出，当前多数 AI 在少数地方训练后便冻结，无法被使用者塑造。该实验室正致力于训练具备多模态交互和可定制化能力的强模型，开发允许用户训练模型权重的工具，并构建拓宽人机沟通渠道的界面。其核心理念是让 AI 服务于分布式的人类知识，使每个组织都能利用自身独特知识微调模型，并持续适应知识演变。 🔗 阅读原文：https://thinkingmachines.ai/blog/the-future-worth-building-is-human via AI HOT · https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 22:18]
 标题: Show HN： 如何在我的低配置电脑上运行 GLM-5.2
@@ -100,33 +110,6 @@
 链接: https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7
 正文: Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。 🔗 阅读原文：https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference via AI HOT · https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 17:40]
-标题: Anthropic发起"硬问题"倡议，邀请公众提出AI相关尖锐问题
-链接: https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy
-正文: Anthropic作为公益公司，发起"硬问题"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的具体行动及成效。 🔗 阅读原文：https://www.anthropic.com/news/hard-questions via AI HOT · https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 17:10]
-标题: OpenAI 发布最强模型与最佳博文
-链接: https://aihot.virxact.com/items/cmrds7pdr06qiih4b6f0yienf
-正文: obviously the best model we have ever produced, but also one of the best blog posts we have ever produced: https://openai.com/index/gpt-5-6/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrds7pdr06qiih4b6f0yienf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 16:40]
-标题: Anthropic长期利益信托任命本·伯南克为受托人
-链接: https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml
-正文: Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。 🔗 阅读原文：https://www.anthropic.com/news/ben-bernanke via AI HOT · https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 11:39]
-标题: Stock market today: Dow, S&P 500, Nasdaq muted as SK Hynix stock pops in mega US IPO
-链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:01]
-标题: Fed's message to Congress: We will bring down inflation
-链接: https://finance.yahoo.com/economy/policy/article/feds-message-to-congress-we-will-bring-down-inflation-160111719.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:56]
-标题: SK Hynix's shares jump 14% in marquee US debut as AI euphoria persists
-链接: https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-072234248.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 11:24]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47576_TechnicalAnalysis_1783682695000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -135,113 +118,25 @@
 标题: If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today
 链接: https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:40]
-标题: Seller-paid rate buydown: How it works and how to ask for one
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-paid-rate-buydown-how-it-works-and-how-to-ask-for-one-154043373.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:40]
-标题: AI Disruption Concerns Dampen Wix.com (WIX)
-链接: https://finance.yahoo.com/markets/stocks/articles/ai-disruption-concerns-dampen-wix-154015658.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:38]
-标题: Stock Market Today: Dow Jones Index Edges Higher As SK Hynix Jumps In Debut; Biotechs Hit (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sk-hynix-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:35]
-标题: Credit card, debit card, or cash: What's best for travel?
-链接: https://finance.yahoo.com/personal-finance/banking/article/credit-card-debit-card-or-cash-when-traveling-153523544.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 11:14]
 标题: Analyst Report: CarMax Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_4095_AnalystReport_1783682046000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:04]
-标题: Elon Musk Has Mojo Back, As Tesla Quarterly Deliveries Skyrocket
-链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-mojo-back-tesla-160429512.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:30]
-标题: My mom, 74, fell for a phone scam — and now I'm out $12,000 because our bank accounts are linked. What can I do?
-链接: https://finance.yahoo.com/markets/currencies/articles/mom-74-fell-phone-scam-153000525.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:28]
-标题: SK Hynix Trading Soon. What Does It Means For Micron, Sandisk?
-链接: https://www.investors.com/news/technology/sk-hynix-debut-tests-memory-chip-stock-demand/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:15]
-标题: Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation
-链接: https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-151500764.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:14]
-标题: Circle Stock Rallies On National Bank Approval. ARK Buys More Shares.
-链接: https://www.investors.com/news/circle-national-trust-bank-occ-stablecoin-circle-stock/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:59]
 标题: Market Digest: HAS, KMX, MSFT
 链接: https://finance.yahoo.com/research/reports/ARGUS_47574_MarketSummary_1783681146000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:01]
-标题: Analysts Think AI Demand Has No Ceiling And Raised AMD’s Price Target Again
-链接: https://finance.yahoo.com/technology/ai/articles/analysts-think-ai-demand-no-160100629.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:12]
-标题: Financial Stocks Are On Investors' Radars Again. Here's Why.
-链接: https://www.investors.com/stock-lists/ibd-50/financial-companies-stock-interactive-brokers-ibkr-asset-investment/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:07]
-标题: Wall Street and oil prices tread water as investors eye SK Hynix, Middle East tensions
-链接: https://finance.yahoo.com/markets/stocks/articles/asian-stocks-surge-investors-look-015829863.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 14:52]
-标题: TeraWulf Eyes $3.5B Debt Raise for Anthropic AI Data Center Buildout
-链接: https://finance.yahoo.com/technology/ai/articles/terawulf-eyes-3-5b-debt-145200774.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 14:46]
-标题: Yen strengthens as Japan considers nudging pension funds into domestic assets
-链接: https://finance.yahoo.com/news/fragile-yen-set-weekly-decline-004342790.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:29]
+标题: Daily – Vickers Top Insider Picks for 07/10/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47572_InsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:29]
 标题: Daily – Vickers Top Buyers & Sellers for 07/10/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47573_TopBottomInsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:00]
-标题: Meta Is a Buy at $630 Despite 2026 Chop and Here’s Why
-链接: https://finance.yahoo.com/markets/stocks/articles/meta-buy-630-despite-2026-160031843.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 14:46]
-标题: Seagate Stock Rises After Analyst Upgrades To Buy. Western Digital Nabs Price-Target Hike.
-链接: https://www.investors.com/news/technology/seagate-stock-upgrade-western-digital-wells-fargo/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 14:33]
-标题: Shein's secretive founder Sky Xu faces biggest public test with Hong Kong IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/sheins-secretive-founder-sky-xu-143345011.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 13:01]
-标题: Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:29]
-标题: Silver prices today, Friday, July 10, 2026: Down 4% since Monday
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-10-2026-down-4-since-monday-122910639.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:29]
-标题: Daily – Vickers Top Insider Picks for 07/10/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47572_InsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:00]
-标题: Analysts Expect a Great Year for SK Hynix. After That, the Outlook Is More Moderate
-链接: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026/card/analysts-expect-a-great-year-for-sk-hynix-after-that-the-outlook-is-more-moderate-NNkzS3N5ShpCIlky5iUq?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:08]
-标题: Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-10-2026-gold-finally-opens-higher-this-morning-120806614.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 20:25]
 标题: Does age matter when getting a mortgage?
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/does-age-matter-when-getting-a-mortgage-202538921.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:00]
-标题: What the Highest 30-Year Treasury Yield Since 2007 Means for Bitcoin and Gold
-链接: https://finance.yahoo.com/markets/crypto/articles/highest-30-treasury-yield-since-160000644.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
 标题: Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher
@@ -251,15 +146,12 @@
 标题: Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:53]
-标题: Micron Stock Falls After Memory-Chip Rival SK Hynix Makes U.S. Debut
-链接: https://www.barrons.com/articles/micron-stock-price-memory-chips-b4a4eeb7?siteid=yhoof2&yptr=yahoo
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
+标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
+链接: https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html
+正文: These are some of the stocks posting the largest moves midday.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:52]
-标题: Bloomberg’s Daybreak Desk Says SK Hynix’s Record $26.5 Billion Nasdaq Debut Proves the AI Chip Boom Isn’t Cooling
-链接: https://finance.yahoo.com/technology/ai/articles/bloomberg-daybreak-desk-says-sk-155220713.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 16:05]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 16:56]
 标题: The stock market looks pretty cheap based on future earnings expectations. Don't be fooled
 链接: https://www.cnbc.com/2026/07/10/the-stock-market-looks-pretty-cheap-based-on-future-earnings-expectations-dont-be-fooled.html
 正文: The S&amp;P 500 trades around 28x trailing earnings versus 21x forward earnings. Experts say the spread mostly reflects high earnings expectations.
@@ -284,10 +176,10 @@
 链接: https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html
 正文: Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 16:15]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 18:17]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 16:15]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 18:17]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
