@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-10 02:03:36
-# 共计 41 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-10 06:34:51
+# 共计 42 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 20:22]
 标题: Anthropic found a hidden space where Claude puzzles over concepts
@@ -16,10 +16,10 @@
 链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
 正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 01:43]
-标题: GPT-5.6 发布，Codex 入驻 ChatGPT
-链接: https://aihot.virxact.com/items/cmre9womo01gfihyyej169qfu
-正文: GPT-5.6 来了。Codex 现在可以在 ChatGPT 中使用。我们知道开发者们会有很多问题。 因此，我们将邀请 Codex 团队前往 r/Codex 社区举办一场 AMA（Ask Me Anything，有问必答）活动。 我们将在太平洋时间 7 月 10 日（周五）上午 9:30 至 10:30 回答大家的问题：https://www.reddit.com/r/codex/s/EsB8OH0Dfh —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmre9womo01gfihyyej169qfu
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 01:45]
+标题: Claude Code v2.1.206 发布
+链接: https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
+正文: Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在"运行中"状态、Windows 上键盘输入被忽略等多项问题。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.206 via AI HOT · https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 00:20]
 标题: Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型
@@ -57,9 +57,9 @@
 正文: 微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。 🔗 阅读原文：https://microsoft.github.io/flint-chart via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
-标题: SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence
+标题: Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平
 链接: https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
-正文: 🔗 阅读原文：https://cognition.com/blog/swe-1-7 via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
+正文: Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现已在 Devin（Web、桌面、CLI）通过 Cerebras 以 1000 TPS 提供。 🔗 阅读原文：https://cognition.com/blog/swe-1-7 via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:27]
 标题: ChatGPT Sites将创意变可发布网站
@@ -115,6 +115,11 @@
 标题: 法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资
 链接: https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il
 正文: 法国竞争管理局确认，对英伟达的反垄断调查已近尾声，即将发布正式异议声明。调查聚焦两大问题：市场对CUDA平台的严重依赖，以及英伟达对CoreWeave等AI云计算公司的投资。英伟达占全球AI加速器超70%份额。若认定滥用市场支配地位，最高可处全球年营业额10%罚款。法国是首个准备正式指控英伟达的监管机构。 🔗 阅读原文：https://www.ithome.com/0/974/744.htm via AI HOT · https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 11:58]
+标题: 美团 LongCat-2.0 正式开源，同步开放国产卡推理代码
+链接: https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
+正文: 美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。 🔗 阅读原文：https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw via AI HOT · https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 10:00]
 标题: OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体
@@ -190,10 +195,10 @@
 链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 02:03]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 06:34]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 02:03]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 06:34]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
