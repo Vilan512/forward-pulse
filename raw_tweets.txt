@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-09 23:03:14
-# 共计 45 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-10 02:03:36
+# 共计 41 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-09 20:22]
 标题: Anthropic found a hidden space where Claude puzzles over concepts
@@ -15,6 +15,16 @@
 标题: Four nuclear reactors hit a big milestone in the US
 链接: https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
 正文: I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday. And just in time, four reactors did so. It was a lofty goal, and seeing not just three but four companies meet it is certainly a positive sign for emerging nuclear technologies at a time when the world is facing increased need to increase electricity supply and address climate change with emissions-free technologies. But achieving criticality doesn’t mean a reactor is ready to provide electricity for the grid (or at all, for that matter). Let’s untangle what this program’s success could mean for nuclear power in the US, and where these companies might go from here. The Reactor Pilot Program essentially opened a special door for prototype reactors to fast-track development. In August, the US Department of Energy selected 11 reactor projects for the program and offered them land and support from the national labs system. These are all microreactors; the large light-water reactors that dominate the grid today are tens or even hundreds of times their size.&nbsp; Antares Nuclear was the first to achieve criticality, reaching the milestone in June in its Mark-0 test reactor. Reactors from Valar Atomics, Deployable Energy, and Aalo Atomics followed. (Aalo hit the mark in the early hours of July 4—an inspiring example of just barely meeting a deadline.) The speed with which these companies hit this milestone is impressive, especially in an industry known for massive projects that frequently blow past deadlines and stated budgets. (Valar, Antares, and Aalo were all founded in 2023, and Deployable started in 2025.) But reaching criticality and running a reactor that can produce electricity are t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 01:43]
+标题: GPT-5.6 发布，Codex 入驻 ChatGPT
+链接: https://aihot.virxact.com/items/cmre9womo01gfihyyej169qfu
+正文: GPT-5.6 来了。Codex 现在可以在 ChatGPT 中使用。我们知道开发者们会有很多问题。 因此，我们将邀请 Codex 团队前往 r/Codex 社区举办一场 AMA（Ask Me Anything，有问必答）活动。 我们将在太平洋时间 7 月 10 日（周五）上午 9:30 至 10:30 回答大家的问题：https://www.reddit.com/r/codex/s/EsB8OH0Dfh —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmre9womo01gfihyyej169qfu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 00:20]
+标题: Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型
+链接: https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b
+正文: Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。 🔗 阅读原文：https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data via AI HOT · https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 22:18]
 标题: Show HN： 如何在我的低配置电脑上运行 GLM-5.2
@@ -47,7 +57,7 @@
 正文: 微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。 🔗 阅读原文：https://microsoft.github.io/flint-chart via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 21:46]
-标题: title
+标题: SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence
 链接: https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
 正文: 🔗 阅读原文：https://cognition.com/blog/swe-1-7 via AI HOT · https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj
 
@@ -126,15 +136,9 @@
 链接: https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
 正文: 蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。 🔗 阅读原文：https://www.ithome.com/0/974/508.htm via AI HOT · https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 00:45]
-标题: Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型
-链接: https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1
-正文: Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache-2.0 许可开源。 🔗 阅读原文：https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0 via AI HOT · https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-09 00:00]
-标题: Ollama 开发者数达890万，B轮融资由Theory领投
-链接: https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b
-正文: Ollama 让开源模型在本地或云端轻松运行，保持体验一致。目前拥有890万开发者、6.7万集成，并与各大模型实验室及硬件供应商建立合作。B轮融资由Theory领投。 🔗 阅读原文：https://www.tomtunguz.com/ollama-series-b via AI HOT · https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 14:17]
+标题: Fed minutes expose deep divide over interest-rate outlook
+链接: https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 17:22]
 标题: Analyst Report: AES Corp/The
@@ -155,10 +159,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:09]
 标题: Daily Spotlight: Global Stocks Still Offer Value
 链接: https://finance.yahoo.com/research/reports/ARGUS_47559_MarketOutlook_1783595391000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-09 11:09]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47558_TechnicalAnalysis_1783595352000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 19:53]
 标题: Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
@@ -190,30 +190,10 @@
 链接: https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-09 01:24]
-标题: China warns about AI risks with Anthropic's Claude Code
-链接: https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html
-正文: China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
-标题: Agents, robots, and us: How AI reshapes work and skills in Latin America
-链接: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america
-正文: Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
-标题: Author Talks: In Hollywood and in business, it’s cool to be kind
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind
-正文: In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in better business relationships and performance.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-09 00:00]
-标题: The real AI advantage
-链接: https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage
-正文: The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the competition.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-09 23:03]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 02:03]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-09 23:03]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 02:03]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
