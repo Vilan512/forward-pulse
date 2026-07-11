@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-11 14:22:11
+# ForwardPulse 原始情报收割 — 2026-07-11 15:45:50
 # 共计 59 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-11 07:56]
@@ -56,18 +56,69 @@
 链接: https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn
 正文: DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIME-2024 基准分数同步上涨。 🔗 阅读原文：https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4 via AI HOT · https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 15:14]
-标题: Perplexity 推出跨模型信用额度分析功能
-链接: https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn
-正文: Introducing Computer Analytics: You can now track credit spend across models. Available now under Analytics in Account Settings for consumer and enterprise users. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:47]
 标题: Elon Musk SEC settlement raises 'red flags,' judge says
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:08]
+标题: Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:23]
+标题: Nextpower (NXT) Launches New Solar Tracking Solutions
+链接: https://finance.yahoo.com/energy/articles/nextpower-nxt-launches-solar-tracking-142346298.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:23]
+标题: Here is Why Salesforce (CRM) is One of the Best Large Cap Stocks to Buy According to Analysts
+链接: https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-one-best-142338375.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:23]
+标题: Advanced Energy (AEIS) Introduces 800 V DC Converters for AI Data Centers
+链接: https://finance.yahoo.com/technology/ai/articles/advanced-energy-aeis-introduces-800-142331408.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:23]
+标题: Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.
+链接: https://finance.yahoo.com/markets/crypto/articles/cathie-wood-buying-coinbase-circle-152300066.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:23]
+标题: TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts
+链接: https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:23]
+标题: FTAI Aviation (FTAI) Partners with AEI for Boeing 737-800 Freighter Solutions
+链接: https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-partners-aei-142314128.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:22]
+标题: Rollins (ROL) Names William Harkins as CFO Following Kenneth Krause Resignation
+链接: https://finance.yahoo.com/markets/stocks/articles/rollins-rol-names-william-harkins-142254333.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:22]
+标题: CoStar Group (CSGP) Acquires 30% Stake in Wikicasa
+链接: https://finance.yahoo.com/real-estate/articles/costar-group-csgp-acquires-30-142248654.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:16]
+标题: What $5,000 Invested in SpaceX Could Be Worth by 2030
+链接: https://finance.yahoo.com/markets/stocks/articles/5-000-invested-spacex-could-151600880.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:22]
+标题: Cognizant (CTSH) Launches Neuro AI Trust Platform for AI Governance
+链接: https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-launches-neuro-ai-142239147.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:22]
+标题: Is Agnico Eagle Mines (AEM) One of the Best Large Cap Stocks to Buy According to Analysts?
+链接: https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-one-142234470.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:22]
+标题: Symbotic (SYM) Acquires ARMS Innovations to Expand Warehouse Optimization
+链接: https://finance.yahoo.com/technology/articles/symbotic-sym-acquires-arms-innovations-142225115.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 13:41]
 标题: Gas Vs. Electric: Global EV Sales Are Actually Rising In 2026; Here's Where
 链接: https://www.investors.com/news/gas-vs-electric-global-ev-sales-are-actually-rising-in-2026-heres-where/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:11]
+标题: Here's Why the VanEck Semiconductor ETF Soared in the First Half of 2026 (Hint: Diversification Works in Investing)
+链接: https://finance.yahoo.com/markets/stocks/articles/heres-why-vaneck-semiconductor-etf-151107038.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 13:32]
 标题: Big bank profit engines expected to roar into earnings as Main Street keeps spending
@@ -81,13 +132,13 @@
 标题: Stock Market Week Ahead: Watching Big Banks, Warsh, TSMC For Signals
 链接: https://www.investors.com/research/investing-action-plan/stock-market-big-banks-ge-tsmc-asml-sp-500-nasdaq/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:05]
-标题: Nuclear Energy Stock SMR Is Trading Under $10: Bargain Buy or Value Trap?
-链接: https://finance.yahoo.com/energy/articles/nuclear-energy-stock-smr-trading-140500714.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:55]
 标题: Robert Kiyosaki warns the 'biggest crash' in US history is nigh — millions of may lose it all. Protect your riches now
 链接: https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:09]
+标题: 529 Savings Plan or Trump Account? Dave Ramsey Calls Trump Accounts a “Thump-My-Chest Thing”
+链接: https://finance.yahoo.com/markets/articles/529-savings-plan-trump-account-150900650.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:54]
 标题: Honeywell Aerospace Inc. (HONA) Is Starting Its Take Off, Says Jim Cramer
@@ -101,13 +152,13 @@
 标题: Jim Cramer Believes SpaceX (SPCX) Caused NASDAQ Selloff
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-spacex-spcx-125424881.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:05]
-标题: 3 Stocks That Crushed Nvidia With 300% or More Gains Over the Past Year
-链接: https://finance.yahoo.com/markets/stocks/articles/3-stocks-crushed-nvidia-300-140500145.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:54]
 标题: Intel (INTC) Was A Brutal Rotation, Says Jim Cramer
 链接: https://finance.yahoo.com/markets/stocks/articles/intel-intc-brutal-rotation-says-125417814.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:07]
+标题: Microsoft's retirement offer is a wake-up call for workers
+链接: https://finance.yahoo.com/healthcare/articles/microsofts-retirement-offer-wake-call-150700814.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:54]
 标题: Jim Cramer Left Enthused By Lam Research Corporation (LRCX)’s Shares
@@ -121,13 +172,13 @@
 标题: Jim Cramer Has Had Enough With Nike Inc. (NKE)
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-had-enough-nike-125354555.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:03]
-标题: Shake Shack vs. Texas Roadhouse: Which Popular Restaurant Chain Is the Better Stock to Buy in 2026?
-链接: https://finance.yahoo.com/markets/stocks/articles/shake-shack-vs-texas-roadhouse-140300866.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:53]
 标题: Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer
 链接: https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-going-come-125347317.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:04]
+标题: AI Is Consuming the World’s Memory Supply — Will Apple Pay the Price?
+链接: https://finance.yahoo.com/technology/ai/articles/ai-consuming-world-memory-supply-133942301.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:53]
 标题: Jim Cramer Shares Key Insights For Oracle Corporation (ORCL)’s Biggest Problem
@@ -141,13 +192,13 @@
 标题: Jim Cramer Reveals Reason Behind Amazon.com, Inc. (AMZN)’s Share Price Movement
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-reason-behind-125321378.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:02]
-标题: Tarsus Pharmaceuticals Enters Retina Market With iRenix Deal, Adds IRX-101 to Pipeline
-链接: https://finance.yahoo.com/healthcare/articles/tarsus-pharmaceuticals-enters-retina-market-140202232.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:53]
 标题: Jim Cramer Explains SK Hynix’s (SKHY) Role In Global Memory Industry
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-sk-hynix-125315508.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:01]
+标题: TruBridge Stockholders Approve IKS Merger at Special Meeting
+链接: https://finance.yahoo.com/markets/stocks/articles/trubridge-stockholders-approve-iks-merger-150159691.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:52]
 标题: Jim Cramer Was Left Perplexed By NVIDIA Corp. (NVDA)’s Shares
@@ -161,69 +212,22 @@
 标题: Jim Cramer Wants To Buy Solstice Advanced Materials, Inc. (SOLS)
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-buy-solstice-125226621.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 14:00]
-标题: Got $10,000? Broadcom vs Marvell: Only One Will Match The AI Hype
-链接: https://finance.yahoo.com/markets/stocks/articles/got-10-000-broadcom-vs-140055743.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:52]
 标题: Jim Cramer Says Element Solutions Inc (ESI) Is Quite An Important Firm
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-element-solutions-125216511.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 15:01]
+标题: Wendy’s Vs. McDonald’s: Buy Wendy’s to Ride the ‘Project Fresh’ Short-Squeeze Momentum and Avoid McDonald’s
+链接: https://finance.yahoo.com/markets/stocks/articles/wendy-vs-mcdonald-buy-wendy-150150011.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:52]
 标题: Jim Cramer Is Still Recommending International Business Machines Corporation (IBM)’s Shares
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-still-recommending-international-125207058.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:49]
-标题: Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:35]
-标题: Financial advisors warn against buying a home near retirement — renting beats owning in 27 of 50 largest U.S. metros
-链接: https://finance.yahoo.com/real-estate/articles/financial-advisors-warn-against-buying-123500712.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 13:50]
-标题: Datadog Stock Is Way Too Risky Right Now
-链接: https://finance.yahoo.com/markets/stocks/articles/datadog-stock-way-too-risky-135000867.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:10]
-标题: Average car payment are now $770/month — could a credit union's lower rate save you, or will longer loans cost you more?
-链接: https://finance.yahoo.com/small-business/articles/average-car-payment-now-770-121000805.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:05]
-标题: Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there
-链接: https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 12:00]
-标题: Suze Orman told a woman she’d get a ‘D-minus’ on retiring at 55 — then showed her how to turn it into an ‘A’
-链接: https://finance.yahoo.com/markets/articles/suze-orman-told-woman-she-120000062.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 11:40]
-标题: 'Market is becoming more discerning': Wall Street weighs next catalyst for AI trade
-链接: https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 13:43]
-标题: The S&P 500 Could Jump 18% Over the Next 1 Year. Here Are My Top Growth Stocks to Buy Before That Happens
-链接: https://finance.yahoo.com/markets/stocks/articles/p-500-could-jump-18-134300206.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 11:40]
-标题: Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/big-tech-is-paying-for-the-ai-boom-and-chipmakers-are-cashing-in-chart-of-the-day-114043038.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 11:35]
-标题: BlackRock cautions buying and holding the S&P 500 is no longer enough for retirement. What they say to do instead
-链接: https://finance.yahoo.com/markets/stocks/articles/blackrock-cautions-buying-holding-p-113500616.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 11:30]
-标题: I'm 50, want to retire next year and have $30,000 in debt. Is maxing out my 401(k) contribution a good plan?
-链接: https://finance.yahoo.com/markets/articles/im-50-want-retire-next-113000041.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 10:55]
-标题: The 5 key levels of income in retirement for US boomers — where do you sit versus other seniors?
-链接: https://finance.yahoo.com/markets/articles/5-key-levels-income-retirement-105500287.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 13:42]
-标题: Prediction: This Magnificent Growth Stock Is Going to Double by 2027, and Here's the Math That Shows How
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-magnificent-growth-stock-going-134200392.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-11 15:00]
+标题: These underperforming trades could yield big returns over next six months
+链接: https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html
+正文: ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
 标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
@@ -240,15 +244,10 @@
 链接: https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 14:22]
-标题: Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding
-链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
-正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 14:22]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 15:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 14:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 15:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
