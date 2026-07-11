@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-11 09:18:30
-# 共计 22 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-11 10:55:28
+# 共计 24 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
 标题: The Download: Claude’s inner workings and OpenAI’s “super app”
@@ -51,22 +51,9 @@
 链接: https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2
 正文: 百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架"一镜"数字人制作、"灵医"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。 🔗 阅读原文：https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA via AI HOT · https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 09:59]
-标题: 小红书发布大模型新架构 PIPO
-链接: https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
-正文: 小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。 🔗 阅读原文：https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg via AI HOT · https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:47]
 标题: Elon Musk SEC settlement raises 'red flags,' judge says
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
-标题: Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
-标题: Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:08]
 标题: Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning
@@ -75,6 +62,26 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:29]
 标题: Silver prices today, Friday, July 10, 2026: Down 4% since Monday
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-10-2026-down-4-since-monday-122910639.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 13:01]
+标题: Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:35]
+标题: Credit card, debit card, or cash: What's best for travel?
+链接: https://finance.yahoo.com/personal-finance/banking/article/credit-card-debit-card-or-cash-when-traveling-153523544.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:40]
+标题: Seller-paid rate buydown: How it works and how to ask for one
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-paid-rate-buydown-how-it-works-and-how-to-ask-for-one-154043373.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 10:00]
+标题: Best CD rates today, Saturday, July 11, 2026: Best account provides 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-11-2026-best-account-provides-410-apy-100000806.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 10:00]
+标题: Mortgage and refinance interest rates today, Saturday, July 11: Rates moving lower today
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-11-rates-moving-lower-today-100000637.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
 标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
@@ -96,10 +103,10 @@
 链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
 正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 09:18]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 10:55]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 09:18]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 10:55]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
