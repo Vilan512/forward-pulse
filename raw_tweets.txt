@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-11 01:50:38
-# 共计 20 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-11 04:56:27
+# 共计 28 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
 标题: The Download: Claude’s inner workings and OpenAI’s “super app”
@@ -10,6 +10,11 @@
 标题: Sperm donors need limits, says a European fertility group
 链接: https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
 正文: Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He describes the situation as “problematic.” Children have a right to know their biological parents, he says. While he did ultimately track down one sibling, who helped him identify his father along with other genetic relatives, he may have others he’ll never find. Other donor-conceived people who have been able to track down siblings have found they have tens or even hundreds of them. One donor-conceived woman who found 25 half-siblings over the course of seven years&nbsp;told the Guardian, “It does make you feel a bit mass-produced.” We need international limits on the number of children a single donor can contribute to, a European fertility organization argued yesterday. At a conference in London, members laid out plans to start with a Europe-wide limit. Today many countries, including the UK, have banned anonymous egg and sperm donation. But anonymity can’t be guaranteed even in places where it is technically allowed. Genetic tests offered by companies like Ancestry and 23andMe, along with genetic registries, have made it much easier for donor-conceived people to find parents and siblings who share their genes. And because sperm can be frozen and stored for years before it is eventually used, the current set-up can result in situations where donor-conceived people discover the identity of a genetic parent only after the person’s death. They might also find that they have siblings of very different ages, all around the world. Some people are finding hundreds of siblings. Sperm from Jonathan Meijer, a Dutch man who began donating in 2007, was&nbsp;used to conceive between 550 and 600 children. (Stichting Donorkind, a foundation and adv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-11 01:56]
+标题: OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘
+链接: https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n
+正文: 真是能力越强，破坏力越大啊！ 这个老哥Mac上的文件被OpenAI最顶的GPT-5.6-Sol删光了，估计所有跑本地AI Agent的人看到这个都得吓出一身冷汗🤯整个事件详细拆解，以及怎么避免类似悲剧发生👇 GPT-5.6-Sol，OpenAI 刚发的最强 Agent 模型，把一个知名 AI 创业者的整个 Mac 硬盘，删光了。 Matt Shumer，就是那个之前天天晒 Agent 自己跑一周做完整项目的哥们，今天给本地 Agent 开了 Full Access 全权限，让 subagent 做个简单的文件清理。 结果 shell 变量解析炸了 ——$HOME路径没展开对，Agent 直接执行了rm -rf /Users/mattsdevbox。 等他发现不对冲过去 kill 进程的时候，电脑里几年的代码、文件、照片，已经没了一大半。 事后 Agent 自己生成了一份事故报告，老老实实承认是自己路径展开错了。 认错态度很好，但删了的文件不会因为它道歉就回来啊！ 这件事最恐怖的地方其实还不是模型犯了错 ，而在于他说：这种 cleanup 任务，他之前已经让 Agent 跑过几百次，从来没出过问题。 就这一次，模型在大家都觉得不可能出错的地方，犯了个最低级的错，结果就是不可逆的物理毁灭。 咱们也别觉得这是他 prompt 写得烂，笑他不小心， 其实这是现在整个 Agent 行业都在回避的死刑级真相： 1. 哪怕是 GPT-5.6 这种顶级模型，照样会在变量展开、相对路径、shell 命令这种 “小事” 上翻车 —— 它完全懂你要 “清理垃圾文件”，但手滑一下，就是家目录没了 2. Subagent + 长时自主运行 + 全权限 = 灾难放大器。一个最底层的小 review Agent 的错误，能直接炸穿你整个主机，能力越强，单点故障的破坏半径就越大，这根本不是 prompt 能解决的，是架构级的 bug 3. “跑了几百次都没事” 是最致命的安全感。AI 的错误逻辑和人完全不一样，它不会像人一样 “熟能生巧”，就是会在你最放松、最不设防的时候，给你干票毁灭性的大的 4. 模型厂商的安全底线从根上就不一样。OpenAI 的 Sol 追求极致能力和自主性，guardrail 基本裸奔；Anthropic 的 Fable 从设计上就更保守，对危险操作天生谨慎 —— 这也是为什么 Matt 事后第一句话是：“这就是我为什么 1000x 更信任 Fable” 怎么避免呢❓ 所有现在在跑本地 Agent、给 AI 开过高权限的兄弟们，别等自己硬盘没了才后悔，现在立刻去做这几件事： #AI #Agent #GPT5 #Claude #OpenAI #Anthropic #AIAgent —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 22:07]
 标题: 博科圣地如何利用前沿AI技术
@@ -70,6 +75,34 @@
 标题: Elon Musk SEC settlement raises 'red flags,' judge says
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
+标题: Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 10:00]
+标题: Best CD rates today, Friday, July 10, 2026: Up to 4.10% APY return
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-10-2026-up-to-410-apy-return-100000644.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:08]
+标题: Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-10-2026-gold-finally-opens-higher-this-morning-120806614.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:29]
+标题: Silver prices today, Friday, July 10, 2026: Down 4% since Monday
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-10-2026-down-4-since-monday-122910639.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 13:01]
+标题: Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:35]
+标题: Credit card, debit card, or cash: What's best for travel?
+链接: https://finance.yahoo.com/personal-finance/banking/article/credit-card-debit-card-or-cash-when-traveling-153523544.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:40]
+标题: Seller-paid rate buydown: How it works and how to ask for one
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-paid-rate-buydown-how-it-works-and-how-to-ask-for-one-154043373.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
 标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
 链接: https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html
@@ -90,10 +123,10 @@
 链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
 正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 01:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 04:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 01:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 04:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
