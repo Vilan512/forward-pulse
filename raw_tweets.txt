@@ -1,15 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-11 07:08:09
-# 共计 28 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-11 09:18:30
+# 共计 22 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
 标题: The Download: Claude’s inner workings and OpenAI’s “super app”
 链接: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving.&nbsp; Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside its flagship LLM, Claude. The J-space contains words related to the response a model is working on but may not ultimately produce. If Claude were a person (which it is not), you might say these hidden words reveal what’s on its mind before it actually speaks.&nbsp; Read the full story on what they found. —Will Douglas Heaven The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 OpenAI has unveiled its long-awaited &#8220;super app&#8221;&nbsp;ChatGPT Work blends its chatbot, coding tool, and new models. (Reuters $)+ It’s designed to do your work for you and with you. (Ars Technica)+ And arrived&nbsp;the same day as OpenAI’s GPT 5.6 models. (NYT $)+ It’s also developing a fully automated researcher. (MIT Technology Review)2&nbsp; Humanoids have performed teleoperated surgery on living animalsIn the world-first, they removed gallbladders from pigs. (Ars Technica)+ The human work behind humanoids is hidden. (MIT Technology Review)&nbsp;3 SK Hynix has landed the largest US listing by a foreign companyThe South Korean chip giant&nbsp;raised $26.5 billion. (CNN)+ Demand for AI data centres has led its profits to skyrocket. (Guardian)+ But its jumbo share sale may be a sign of overheated times. (FT $)+ South Korea’s hottest bachelors are chip workers. (MIT Technology Review)&nbsp;4 Tencent is leading a deal to unwind Meta&#8217
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 09:00]
-标题: Sperm donors need limits, says a European fertility group
-链接: https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
-正文: Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He describes the situation as “problematic.” Children have a right to know their biological parents, he says. While he did ultimately track down one sibling, who helped him identify his father along with other genetic relatives, he may have others he’ll never find. Other donor-conceived people who have been able to track down siblings have found they have tens or even hundreds of them. One donor-conceived woman who found 25 half-siblings over the course of seven years&nbsp;told the Guardian, “It does make you feel a bit mass-produced.” We need international limits on the number of children a single donor can contribute to, a European fertility organization argued yesterday. At a conference in London, members laid out plans to start with a Europe-wide limit. Today many countries, including the UK, have banned anonymous egg and sperm donation. But anonymity can’t be guaranteed even in places where it is technically allowed. Genetic tests offered by companies like Ancestry and 23andMe, along with genetic registries, have made it much easier for donor-conceived people to find parents and siblings who share their genes. And because sperm can be frozen and stored for years before it is eventually used, the current set-up can result in situations where donor-conceived people discover the identity of a genetic parent only after the person’s death. They might also find that they have siblings of very different ages, all around the world. Some people are finding hundreds of siblings. Sperm from Jonathan Meijer, a Dutch man who began donating in 2007, was&nbsp;used to conceive between 550 and 600 children. (Stichting Donorkind, a foundation and adv
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-11 07:56]
+标题: 蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型
+链接: https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc
+正文: 蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。 🔗 阅读原文：https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0 via AI HOT · https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-11 01:56]
 标题: OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘
@@ -56,21 +56,6 @@
 链接: https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
 正文: 小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。 🔗 阅读原文：https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg via AI HOT · https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:26]
-标题: 扎克伯格首度回应 Meta"算力过剩"：没人会嫌算力太多，但租出去更赚钱
-链接: https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152
-正文: Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认"算力过剩"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号"Meta Compute"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。 🔗 阅读原文：https://www.ithome.com/0/975/078.htm via AI HOT · https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:20]
-标题: 马斯克承认Anthropic是当前AI领导者
-链接: https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km
-正文: 马斯克在X上发文承认自己此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic"最强有力的炫耀"。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2075480331600417141 via AI HOT · https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 07:14]
-标题: Elon Musk 转发用户称赞 Grok Build 的反馈
-链接: https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
-正文: Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。 🔗 阅读原文：https://x.com/elonmusk/status/2075478792273842370 via AI HOT · https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:47]
 标题: Elon Musk SEC settlement raises 'red flags,' judge says
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html
@@ -90,18 +75,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 12:29]
 标题: Silver prices today, Friday, July 10, 2026: Down 4% since Monday
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-10-2026-down-4-since-monday-122910639.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 13:01]
-标题: Bitcoin and ethereum prices today, Friday, July 10, 2026: Up nearly 3% since last Friday
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:35]
-标题: Credit card, debit card, or cash: What's best for travel?
-链接: https://finance.yahoo.com/personal-finance/banking/article/credit-card-debit-card-or-cash-when-traveling-153523544.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 15:40]
-标题: Seller-paid rate buydown: How it works and how to ask for one
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-paid-rate-buydown-how-it-works-and-how-to-ask-for-one-154043373.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
 标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
@@ -123,10 +96,10 @@
 链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
 正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 07:08]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 09:18]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 07:08]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 09:18]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
