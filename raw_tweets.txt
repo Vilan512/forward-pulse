@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-10 23:51:22
-# 共计 27 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-11 01:50:38
+# 共计 20 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-10 12:10]
 标题: The Download: Claude’s inner workings and OpenAI’s “super app”
@@ -10,15 +10,6 @@
 标题: Sperm donors need limits, says a European fertility group
 链接: https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
 正文: Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He describes the situation as “problematic.” Children have a right to know their biological parents, he says. While he did ultimately track down one sibling, who helped him identify his father along with other genetic relatives, he may have others he’ll never find. Other donor-conceived people who have been able to track down siblings have found they have tens or even hundreds of them. One donor-conceived woman who found 25 half-siblings over the course of seven years&nbsp;told the Guardian, “It does make you feel a bit mass-produced.” We need international limits on the number of children a single donor can contribute to, a European fertility organization argued yesterday. At a conference in London, members laid out plans to start with a Europe-wide limit. Today many countries, including the UK, have banned anonymous egg and sperm donation. But anonymity can’t be guaranteed even in places where it is technically allowed. Genetic tests offered by companies like Ancestry and 23andMe, along with genetic registries, have made it much easier for donor-conceived people to find parents and siblings who share their genes. And because sperm can be frozen and stored for years before it is eventually used, the current set-up can result in situations where donor-conceived people discover the identity of a genetic parent only after the person’s death. They might also find that they have siblings of very different ages, all around the world. Some people are finding hundreds of siblings. Sperm from Jonathan Meijer, a Dutch man who began donating in 2007, was&nbsp;used to conceive between 550 and 600 children. (Stichting Donorkind, a foundation and adv
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-10 00:00]
-标题: Profiling in PyTorch (Part 3): Attention is all you profile
-链接: https://huggingface.co/blog/torch-attention-profile
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 23:11]
-标题: 苹果起诉OpenAI窃取商业机密以开发人工智能硬件
-链接: https://aihot.virxact.com/items/cmrfktiwx00nqihjloyjz5t21
-正文: 苹果今日对OpenAI提起诉讼，指控其窃取商业机密，用于开发人工智能硬件。苹果在诉状中称，OpenAI非法获取并使用了苹果在AI硬件领域的专有技术信息。目前案件已进入司法程序，OpenAI尚未作出正式回应。 🔗 阅读原文：https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft via AI HOT · https://aihot.virxact.com/items/cmrfktiwx00nqihjloyjz5t21
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 22:07]
 标题: 博科圣地如何利用前沿AI技术
@@ -75,31 +66,9 @@
 链接: https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
 正文: Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。 🔗 阅读原文：https://x.com/elonmusk/status/2075478792273842370 via AI HOT · https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 01:45]
-标题: Claude Code v2.1.206 发布
-链接: https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
-正文: Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在"运行中"状态、Windows 上键盘输入被忽略等多项问题。 🔗 阅读原文：https://github.com/anthropics/claude-code/releases/tag/v2.1.206 via AI HOT · https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-10 00:00]
-标题: Thinking Machines Lab：构建延伸人类意志与判断的 AI
-链接: https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic
-正文: Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人类意志与判断的 AI。文章指出，当前多数 AI 在少数地方训练后便冻结，无法被使用者塑造。该实验室正致力于训练具备多模态交互和可定制化能力的强模型，开发允许用户训练模型权重的工具，并构建拓宽人机沟通渠道的界面。其核心理念是让 AI 服务于分布式的人类知识，使每个组织都能利用自身独特知识微调模型，并持续适应知识演变。 🔗 阅读原文：https://thinkingmachines.ai/blog/the-future-worth-building-is-human via AI HOT · https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 16:47]
 标题: Elon Musk SEC settlement raises 'red flags,' judge says
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 18:33]
-标题: Analyst Report: Deere & Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 18:33]
-标题: Analyst Report: Monster Beverage Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-10 18:18]
-标题: Market Update: UAA, DE, MNST, MRNA
-链接: https://finance.yahoo.com/research/reports/ARGUS_47580_MarketUpdate_1783707526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-10 17:53]
 标题: Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more
@@ -121,10 +90,10 @@
 链接: https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html
 正文: CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-10 23:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-11 01:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-10 23:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-11 01:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
