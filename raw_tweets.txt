@@ -1,5 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-07-12 01:53:24
-# 共计 12 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-12 05:19:27
+# 共计 16 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 03:59]
+标题: xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史
+链接: https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
+正文: 对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示"不要读取任何文件"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭"改进模型"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。 🔗 阅读原文：https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 via AI HOT · https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 02:37]
+标题: 苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划
+链接: https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm
+正文: 苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。 🔗 阅读原文：https://www.ithome.com/0/975/666.htm via AI HOT · https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 02:23]
+标题: Mesh LLM：在 iroh 上进行分布式人工智能计算
+链接: https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb
+正文: Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称"Skippy"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。 🔗 阅读原文：https://www.iroh.computer/blog/mesh-llm via AI HOT · https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 01:40]
+标题: Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法
+链接: https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb
+正文: 如果你还没有勇气安装 Codex 应用，你可以留在你的橙色螃蟹身边，把它指向 GPT 5.6 Sol。只需 5 分钟。感谢 Theo 解释了实现这一目标的方法之一。 第一步：安装 CLIProxyAPI 第二步：连接 第三步：定义以下别名，然后尽情使用 claudex ``` alias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \ CLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \ CLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \ ENABLE_TOOL_SEARCH=false \ claude --model gpt-5.6-sol' ``` 如果这个被屏蔽了，我会给你重置。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 00:44]
 标题: OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想
@@ -36,10 +56,9 @@
 链接: https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62
 正文: 开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。 🔗 阅读原文：https://www.ithome.com/0/975/469.htm via AI HOT · https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-11 01:56]
-标题: OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘
-链接: https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n
-正文: 真是能力越强，破坏力越大啊！ 这个老哥Mac上的文件被OpenAI最顶的GPT-5.6-Sol删光了，估计所有跑本地AI Agent的人看到这个都得吓出一身冷汗🤯整个事件详细拆解，以及怎么避免类似悲剧发生👇 GPT-5.6-Sol，OpenAI 刚发的最强 Agent 模型，把一个知名 AI 创业者的整个 Mac 硬盘，删光了。 Matt Shumer，就是那个之前天天晒 Agent 自己跑一周做完整项目的哥们，今天给本地 Agent 开了 Full Access 全权限，让 subagent 做个简单的文件清理。 结果 shell 变量解析炸了 ——$HOME路径没展开对，Agent 直接执行了rm -rf /Users/mattsdevbox。 等他发现不对冲过去 kill 进程的时候，电脑里几年的代码、文件、照片，已经没了一大半。 事后 Agent 自己生成了一份事故报告，老老实实承认是自己路径展开错了。 认错态度很好，但删了的文件不会因为它道歉就回来啊！ 这件事最恐怖的地方其实还不是模型犯了错 ，而在于他说：这种 cleanup 任务，他之前已经让 Agent 跑过几百次，从来没出过问题。 就这一次，模型在大家都觉得不可能出错的地方，犯了个最低级的错，结果就是不可逆的物理毁灭。 咱们也别觉得这是他 prompt 写得烂，笑他不小心， 其实这是现在整个 Agent 行业都在回避的死刑级真相： 1. 哪怕是 GPT-5.6 这种顶级模型，照样会在变量展开、相对路径、shell 命令这种 “小事” 上翻车 —— 它完全懂你要 “清理垃圾文件”，但手滑一下，就是家目录没了 2. Subagent + 长时自主运行 + 全权限 = 灾难放大器。一个最底层的小 review Agent 的错误，能直接炸穿你整个主机，能力越强，单点故障的破坏半径就越大，这根本不是 prompt 能解决的，是架构级的 bug 3. “跑了几百次都没事” 是最致命的安全感。AI 的错误逻辑和人完全不一样，它不会像人一样 “熟能生巧”，就是会在你最放松、最不设防的时候，给你干票毁灭性的大的 4. 模型厂商的安全底线从根上就不一样。OpenAI 的 Sol 追求极致能力和自主性，guardrail 基本裸奔；Anthropic 的 Fable 从设计上就更保守，对危险操作天生谨慎 —— 这也是为什么 Matt 事后第一句话是：“这就是我为什么 1000x 更信任 Fable” 怎么避免呢❓ 所有现在在跑本地 Agent、给 AI 开过高权限的兄弟们，别等自己硬盘没了才后悔，现在立刻去做这几件事： #AI #Agent #GPT5 #Claude #OpenAI #Anthropic #AIAgent —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 02:33]
+标题: Pizza chain closing up to 50 locations after years of declines
+链接: https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 16:47]
 标题: Big fast-food burger chain franchisee files Chapter 11 bankruptcy
@@ -50,10 +69,10 @@
 链接: https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html
 正文: ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-12 01:53]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-12 05:19]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-12 01:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-12 05:19]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
