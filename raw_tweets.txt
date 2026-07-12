@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-12 14:26:31
-# 共计 24 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-12 15:51:27
+# 共计 50 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 15:09]
+标题: 纳德拉提出"反向信息悖论"：企业使用AI时需保护自身知识
+链接: https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm
+正文: # 反向信息悖论 在智能时代，企业应如何保护其核心知识产权？ 诺贝尔奖得主、经济学家肯尼斯·阿罗曾提出一个著名的信息市场悖论："买方在获得信息之前无法知晓其价值，但一旦获得，实际上就等于免费拥有了它。"在阿罗的"信息悖论"中，卖方为了出售知识，不得不冒着免费赠送知识的风险。 AI 制造了相反的问题。在 AI 时代，买方仅仅为了使用所购买的东西，就冒着泄露自身知识的风险。 你实际上为智能付了两次钱：一次用金钱，另一次用更宝贵的东西——为了让智能发挥作用，你必须透露的专有知识。你希望模型表现越好，就必须向它输入越多的这类知识！ 随着时间的推移，信息不对称变得越来越严重。在你使用所购买的产品时，卖方对你的了解越来越多，而你对卖方从中了解到了什么却知之甚少。 这就是我所说的"反向信息悖论"。 专利解决了阿罗悖论的一个方面。它让发明者能够公开一个想法，而不至于简单地将其拱手相让。反向信息悖论也需要自己的对应方案。 这需要的不仅仅是数据保护。模型从"废气"中学习——人们编写的提示词、AI 智能体使用的工具，尤其是当模型出错时人们所做的修正。每一次修正都被蒸馏为机构知识。这是一种竞争对手永远无法买到的知识，也是一种几乎难以察觉地泄露出去的知识：一次痕迹、一次修正、一次评估，点滴累积。 在消费智能的过程中，你正在创造智能。而你所创造的，应当属于你自己。这是哈耶克意义上的、属于你个人的智能：关于时间、地点和情境的知识，是任何其他人都无法拥有的。它知道你的想法、你的价值观，以及你衡量成功的方式。 虽然模型提供商基于合理使用原则利用公开数据训练模型所带来的巨大创新是必要的，但我发现颇具讽刺意味的是，现状却是反过来对知识蒸馏施加限制性条款，并保留从客户使用和交互数据中学习的权利。如果学习只朝一个方向流动，经济价值就会汇聚到学习基础设施的所有者手中，而非知识本身的创造者手中。因此，我们必须将学习基础设施分配给每一家企业，让它们能够掌控自己的学习循环。 正如 Alex Karp 所言："技术客户想要的是对自己算力、模型、数据栈和阿尔法的掌控。他们希望知道自己拥有生产资料，并且这些资料不会被转移给其他人。"当前的体制恰恰在进行 Karp 和众多企业所担心的这种转移。 正因如此，企业需要一个真正的信任边界，让它们的人力资本和模型 token 资本能够实现复利增长。在这个边界内，组织的数据、轨迹、评估、微调权重和记忆得以共同积累和优化。这是一个严格的边界，未经同意，任何东西——甚至包括智能副产品——都不得跨越。企业将有权利用模型输出来微调和/或训练自己的模型。我认为这是每一家企业将模型对齐到自身企业问责义务的权利。 在云时代，企业积累的是数据。在 AI 时代，它们积累的是学习能力。信任边界必须随之演进，从保护信息转向保护组织学习、适应和积累智能的机制。为确保这一点，每家企业都必须做到以下几点： - 掌控：创建你自己的私有评估，因为评估定义了组织内部"好"的标准。同时，保留对你组织记忆、轨迹、反馈、决策和机构背景的所有权，以及利用自身任务和查询产生的模型输出的能力。 - 能力：在租户边界内构建你自己的专有学习环境来训练或微调模型，让模型在真实工作流中学习，同时不暴露公司的知识。 - **选择**：确保编排层与任何单一模型解耦。问问自己：如果你正在使用的某个模型被移除，你是否仍能利用其他模型来运行和优化你的评估？即使某个“通才”模型被移除，你公司的“专长”能力是否依然保留？ - **成本**：通过解耦编排层，你还能在不牺牲质量的前提下，以最高效、最具成本效益的方式将上下文、模型和任务整合在一起。 - **复合**：将这四个要素结合起来，你就能创建自己的持续学习循环（即爬山算法），让你的AI投资为你公司的价值带来复利效应。 换句话说，一家公司应该能够使用某个模型，同时又不放弃使其独一无二的知识。这就是我们需要面对的逆向信息悖论。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 13:51]
+标题: Mindwalk：在代码库 3D 地图上回放编码代理会话
+链接: https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem
+正文: Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。 🔗 阅读原文：https://github.com/cosmtrek/mindwalk via AI HOT · https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 09:15]
 标题: OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论
@@ -55,17 +65,73 @@
 标题: Big fast-food burger chain franchisee files Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 15:25]
+标题: Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 18:17]
 标题: Salesforce receives double blow over an AI product
 链接: https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 02:33]
-标题: Pizza chain closing up to 50 locations after years of declines
-链接: https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:24]
+标题: Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller
+链接: https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 00:37]
-标题: Leading energy company files for bankruptcy
-链接: https://finance.yahoo.com/energy/articles/leading-energy-company-files-bankruptcy-003700014.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings
+链接: https://finance.yahoo.com/markets/stocks/articles/crescent-energy-company-crgy-top-142340318.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Gray Media, Inc. (GTN) Is A Top Stock To Buy According To Miller Value Partners
+链接: https://finance.yahoo.com/markets/stocks/articles/gray-media-inc-gtn-top-142333672.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Should You Buy Lincoln National Corporation (LNC)’s Shares?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-lincoln-national-corporation-lnc-142326811.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-11 22:15]
+标题: Costco and Walmart capture grocery-store crowns
+链接: https://finance.yahoo.com/economy/articles/costco-walmart-capture-grocery-store-221534002.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Quad/Graphics, Inc. (QUAD) Is A Top Stock To Buy According To Bill Miller
+链接: https://finance.yahoo.com/markets/stocks/articles/quad-graphics-inc-quad-top-142321145.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Bread Financial Holdings, Inc. (BFH) Is A Top Stock In Miller Value Partners’ Filings
+链接: https://finance.yahoo.com/markets/stocks/articles/bread-financial-holdings-inc-bfh-142315738.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Should You Buy USA TODAY Co., Inc. (TDAY)’s Shares?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-usa-today-co-inc-142308475.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:23]
+标题: Conduent Incorporated (CNDT) Is A Top Stock To Buy According To Bill Miller
+链接: https://finance.yahoo.com/markets/stocks/articles/conduent-incorporated-cndt-top-stock-142302759.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:07]
+标题: Mark Cuban has strong words on AI companies and job losses
+链接: https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:22]
+标题: United Parcel Service, Inc. (UPS) Is A Top Stock In Miller Value Partners’ Filings
+链接: https://finance.yahoo.com/markets/stocks/articles/united-parcel-inc-ups-top-142255427.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:22]
+标题: Should You Buy Bloomin’ Brands, Inc. (BLMN)’s Shares?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-bloomin-brands-inc-blmn-142248040.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:16]
+标题: Retirees have questions for financial advisers. Here's what they want to know.
+链接: https://finance.yahoo.com/economy/article/retirees-have-questions-for-financial-advisers-heres-what-they-want-to-know-141651781.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:16]
+标题: Earnings season kicks off and a wave of inflation data: What to watch this week
+链接: https://finance.yahoo.com/news/earnings-season-kicks-off-and-a-wave-of-inflation-data-what-to-watch-this-week-141628682.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:17]
+标题: Spectrum makes significant decision as customer losses mount
+链接: https://finance.yahoo.com/technology/articles/spectrum-makes-significant-decision-customer-141700401.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:07]
 标题: Is it easier to become a stock picker in a stock picker's market?
@@ -83,6 +149,10 @@
 标题: Should You Buy The Home Depot, Inc. (HD)’s Shares?
 链接: https://finance.yahoo.com/markets/stocks/articles/buy-home-depot-inc-hd-140431353.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 00:37]
+标题: Leading energy company files for bankruptcy
+链接: https://finance.yahoo.com/energy/articles/leading-energy-company-files-bankruptcy-003700014.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:01]
 标题: Should You Buy Tesla, Inc. (TSLA)’s Shares?
 链接: https://finance.yahoo.com/markets/stocks/articles/buy-tesla-inc-tsla-shares-140129038.html
@@ -91,20 +161,55 @@
 标题: Apple Inc. (AAPL) Is A Top Stock In D. E. Shaw’s Holdings
 链接: https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-140123306.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:01]
+标题: Alphabet Inc. (GOOGL) A Top AI Stock In D. E. Shaw’s Holdings
+链接: https://finance.yahoo.com/technology/ai/articles/alphabet-inc-googl-top-ai-140116583.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:01]
+标题: Should You Buy Broadcom Inc. (AVGO)’s Shares?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-broadcom-inc-avgo-shares-140110778.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 02:33]
+标题: Pizza chain closing up to 50 locations after years of declines
+链接: https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:01]
+标题: Should You Buy Microsoft Corporation (MSFT)’s Shares?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-microsoft-corporation-msft-shares-140104517.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:00]
+标题: NVIDIA Corporation (NVDA) Is A Top AI Stock In D. E. Shaw’s Holdings
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-top-ai-140057125.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:00]
+标题: A Costco worker earns $33 per hour, but is a millionaire with a house and a pool — here's how he built his wealth
+链接: https://finance.yahoo.com/small-business/articles/costco-worker-earns-33-per-140000866.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 15:24]
+标题: Your Dividend Yield Isn’t Your Income: What You Really Keep After Taxes
+链接: https://finance.yahoo.com/markets/stocks/articles/dividend-yield-isn-t-income-152403453.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 15:23]
+标题: 2 World Trade Center Breaks Ground With AmEx HQ
+链接: https://finance.yahoo.com/real-estate/articles/2-world-trade-center-breaks-152326376.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 15:21]
+标题: 1 Top Vanguard ETF to Buy Before the Next Market Crash
+链接: https://finance.yahoo.com/markets/stocks/articles/1-top-vanguard-etf-buy-152100494.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 15:17]
+标题: Bank of America says this 107-year dividend giant is on sale
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-says-107-dividend-151700191.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-12 12:03]
 标题: Goldman Sachs picks its favorite Chinese AI models
 链接: https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html
 正文: The investment bank released its Chinese AI model competitive positioning framework on Friday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-11 15:00]
-标题: These underperforming trades could yield big returns over next six months
-链接: https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html
-正文: ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-12 14:26]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-12 15:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-12 14:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-12 15:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
