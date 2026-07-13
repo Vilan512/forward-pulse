@@ -1,5 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-07-13 08:51:27
-# 共计 17 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-13 11:53:18
+# 共计 63 条来自 6 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 11:12]
+标题: 腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍
+链接: https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5
+正文: 腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。 🔗 阅读原文：https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag via AI HOT · https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 09:58]
+标题: Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元
+链接: https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1
+正文: Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。 🔗 阅读原文：https://www.ithome.com/0/976/149.htm via AI HOT · https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 09:48]
+标题: Seedream 5.0 Pro 测评：图像编辑门槛爆降
+链接: https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2
+正文: http://x.com/i/article/2076599995600621568 # Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0 Pro的API服务。 你也可以在即梦、豆包、Lumina、火山方舟体验中心去尝试。 三方评测的榜单也是同样的结论：综合能力仅次于 GPT-Image 2.0，第一梯队。 如果只是追平，这篇文章没必要写。 真正引起我注意的是他们更新公告后面关于图像编辑的部分。 ## 一、真正的亮点，藏在可编辑里 公告里提到了一个可编辑（Interactive Editing）能力。 我顺着找过去，发现目前只能在火山引擎Lumina平台体验到最全的编辑能力。 我试了一下发现它不是我们熟悉的那种AI 改图。 是真的精细化编辑：你指哪，它改哪，其他地方一个像素都不动。 配合它的交互设计，大多数日常修图和设计需求，可以不用开 PS 了。 而且普通用户也可以非常方便的对图像进行很细的编辑。 ## 二、交互：把选区做进了提示词 讲案例之前，得先把它的交互讲清楚，他们这次图像编辑支持的交互很有意思。 所有案例都建立在这套交互上。 上传图片之后，你可以点击那个 Draw 按钮对图像进行精准编辑。 之后就可以在图片上进行三种类型的精准编辑标记： 一是打点：在想编辑的物体上点一下，生成一个标记（Mark）。 二是画框圈选：框出一块区域（Region），表示编辑发生在这个范围里。 三是涂鸦和箭头，可以用不同颜色的画笔和箭头标记图片上的部分部分和位置。 关键在后面这一步： 你打的点、画的框、传的图，写提示词的时候都可以直接 @ 出来，一键变成提示词里的一个 多模态词 。 于是你的提示词会长这样： &gt; 将 @Mark01 的沙发换成米白布艺沙发，将 @Mark02 的墙面刷成 #F5EDE3 的漆，将 @Mark03 的地板换成鱼骨拼原木地板…… 点、框、参考图、色号和自然语言混在同一句话里，模型全都看得懂。 这套设计好在两点。 第一，提示词变短了。 以前要描述 图里左边靠窗那个米色的、扶手有点磨损的旧沙发 ，现在是在沙发上点一下。零歧义。 第二，写提示词的门槛没了。 过去精细化编辑最难的不是想清楚要改什么，而是用文字描述清楚改哪里。 空间关系、物体指代，写这种提示词是个真功夫。 现在位置交给手，需求交给嘴。 这其实就是 PS 的交互逻辑：先选区，后操作。 只不过 操作 那半边，也就是需要学几年的那半边，换成了说人话。 理解了这套交互，下面的案例你全都能直接复现。 ## 三、实测案例：从改一个房间开始 我沿着三个日常场景做了一组层层递进的测试：家装、商品图、海报排版。 每个案例都按 拿什么图、做什么操作、出什么结果 来写，你可以照着抄。 场景一：出租屋改造，从 刷墙 到 搬家具 第一步：打点换装。 底图就是我自己出租屋的实拍：白墙、旧地板、房东的置物架上堆满杂物，非常真实。 我在图上打了四个点：沙发、墙面、地板、货架，然后一句话： &gt; 帮我生成一张出租屋装修后的设计示意图，将 @Mark01 换成米白布艺沙发，将 @Mark02 的墙面刷成 #F5EDE3 的漆，将地板换成 @Mark03 鱼骨拼原木地板，将 @Mark04 的货架换成宜家的木质货架，并且整理脏乱的衣物和杂物 出来的图效果相当好。还是我那间房，窗户位置、房间比例、视角完全没变，但四个点位全部按要求换掉了。 连 整理杂物 这种含糊的要求都执行了，沙发上堆放的乱七八糟的衣服都没了。一次生成，四处编辑，互不干扰。 第二步：把购物车里的家具 搬 进来。 光换风格不过瘾，我又加了难度。找了六张具体家具的图： 沙发、茶几、躺椅、置物柜、窗帘。在房间里打六个点，做一对一替换： &gt; 将 @Mark01 的沙发替换为 @Image002，将 @Mark02 的茶几替换为 @Image004，将 @Mark03 的躺椅替换为 @Image003，将 @Mark04 的置物柜替换为 @Image005，同时去掉 @Mark05 的晾衣架和杂物，将 @Mark06 的窗帘替换为 @Image006 六件家具全部 落地 ，透视和光影都对。 那张云朵形状的木质茶几放在我房间的地板上，投影方向和窗户光源是一致的。 这是一个非常复合的要求。 以往如果写提示词，我需要写很多，而且可能它还处理不好，因为文字的表达总是有 gap 的。 现在我不用抽卡了，一次就可以搞好，而且理解成本非常低，谁都可以用。 第三步：色卡配色。 最后测风格层面的控制。See
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 00:55]
 标题: 黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期
@@ -36,44 +51,219 @@
 链接: https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem
 正文: Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。 🔗 阅读原文：https://github.com/cosmtrek/mindwalk via AI HOT · https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 09:15]
-标题: OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论
-链接: https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
-正文: OpenAI CEO Sam Altman 表示，他"相当确信"AI 迄今为止净创造了就业，并承认"这并非我预期"。此前他曾警告 AI 影响可能快得"有点吓人"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。 🔗 阅读原文：https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs via AI HOT · https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:07]
 标题: Mark Cuban has strong words on AI companies and job losses
 链接: https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:42]
+标题: Instant View: India's retail inflation accelerates to 4.38%, raising rate hike expectations
+链接: https://finance.yahoo.com/economy/policy/articles/indias-retail-inflation-accelerates-4-104829574.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:32]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures slip as US and Iran exchange fire, oil jumps
+链接: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:30]
+标题: Americans tend to underestimate their true retirement wealth — but that could leave you working longer than needed
+链接: https://finance.yahoo.com/markets/articles/americans-tend-underestimate-true-retirement-113000330.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:29]
+标题: Lazard Report Finds Renewables Still Lead on Cost as Power Demand Soars
+链接: https://finance.yahoo.com/energy/articles/lazard-report-finds-renewables-still-112942786.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:17]
 标题: Spectrum makes significant decision as customer losses mount
 链接: https://finance.yahoo.com/technology/articles/spectrum-makes-significant-decision-customer-141700401.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 09:00]
-标题: He works two hours a month to make six figures a year — why he says ditching the 9-to-5 is ‘the ultimate power’
-链接: https://finance.yahoo.com/small-business/articles/works-two-hours-month-six-090000123.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:14]
+标题: European M&A proves more resilient than global peers despite ECB rate hike
+链接: https://finance.yahoo.com/markets/stocks/articles/european-m-proves-more-resilient-111454745.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 09:45]
-标题: A 70-year-old blew through one-third of his $3 million nest egg in 3 years — financial advisors say he needs to act now
-链接: https://finance.yahoo.com/markets/articles/70-old-blew-one-third-094500291.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:13]
+标题: India's retail inflation accelerates to 4.38%, raising rate hike expectations
+链接: https://finance.yahoo.com/economy/articles/indias-june-retail-inflation-4-103540067.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 10:00]
-标题: Mortgage and refinance interest rates today, Sunday, July 12, 2026: Mostly down from last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-12-2026-mostly-down-from-last-week-100000227.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:55]
+标题: Taiwan Semiconductor Posts Stronger-Than-Expected June Sales
+链接: https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-june-2026-sales/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 10:00]
-标题: Best CD rates today, Sunday, July 12, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-12-2026-lock-in-up-to-410-apy-100000577.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:40]
+标题: Morning Bid: Crude up, chips down
+链接: https://finance.yahoo.com/news/morning-bid-crude-chips-down-104017483.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 00:37]
+标题: Goldman Sachs quietly snags a corner of America's retirement money
+链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:25]
+标题: I inherited $400K that's now worth $900K — everyone says I should buy a home, but am I better off staying a renter?
+链接: https://finance.yahoo.com/real-estate/articles/inherited-400k-thats-now-worth-102500520.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:03]
+标题: Oil gains over 2% as fresh military strikes threaten Hormuz shipments
+链接: https://finance.yahoo.com/energy/articles/oil-jumps-more-3-us-221223358.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:01]
+标题: Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month
+链接: https://finance.yahoo.com/markets/stocks/articles/craig-hallum-maintains-buy-intuitive-100112026.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:01]
+标题: Rocket Lab (RKLB) Announces Full Mission Success on VICTUS HAZE mission
+链接: https://finance.yahoo.com/technology/articles/rocket-lab-rklb-announces-full-100104007.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Planet Labs (PL) Down 12% Over the Past Month, Wedbush Initiates the Stock With a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-down-12-100046275.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Jefferies Lowers PT on Leidos (LDOS), Is it Still The Best Space Technology Stock?
+链接: https://finance.yahoo.com/markets/stocks/articles/jefferies-lowers-pt-leidos-ldos-100032686.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: L3Harris Technologies (LHX) Receives FAA Contract to Upgrade Aircraft Tracking Network
+链接: https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-receives-faa-100023697.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Lockheed Martin Corporation (LMT) Signs a MoU At NATO Summit
+链接: https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-lmt-signs-100015926.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:43]
+标题: European tech investment in Q2 2026: How capital is organising around strategic sectors
+链接: https://finance.yahoo.com/technology/articles/european-tech-investment-q2-2026-114358260.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Is Space Exploration (SPCX) the Best Space Technology Stock To Buy Now?
+链接: https://finance.yahoo.com/technology/articles/space-exploration-spcx-best-space-100007173.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best CD rates today, Monday, July 13, 2026: Lock in up to 4.2% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-13-2026-lock-in-up-to-42-apy-100000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Mortgage and refinance rates today, Monday, July 13, 2026: Purchase rates back lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-13-2026-purchase-rates-back-lower-than-refi-rates-100000272.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: ‘Portfolios are becoming much riskier’: How to make defensive investments before the AI bubble pops
+链接: https://finance.yahoo.com/markets/stocks/articles/portfolios-becoming-much-riskier-defensive-100000558.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:40]
+标题: Is Disney or PayPal the Better Rebound Play Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/disney-paypal-better-rebound-play-114055639.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Morgan Stanley Lowers PT on Hertz Global (HTZ)
+链接: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lowers-pt-hertz-100000929.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best high-yield savings interest rates today, Monday, July 13, 2026: Earn up to 4.10% APY with Bask Bank
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-13-2026-earn-up-to-410-apy-with-bask-bank-100000572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:59]
+标题: Should You Buy EquipmentShare.com (EQPT) at All-Time Lows
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-equipmentshare-com-eqpt-time-095953426.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:31]
+标题: Shein eyes Hong Kong IPO as early as September
+链接: https://finance.yahoo.com/markets/stocks/articles/shein-eyes-hong-kong-ipo-113137441.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:59]
+标题: Northland Initiates Granite Ridge (GRNT) With a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/northland-initiates-granite-ridge-grnt-095943129.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:59]
+标题: Texas Capital Initiates Infinity Natural Resources (INR) With a Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/texas-capital-initiates-infinity-natural-095921313.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:59]
+标题: Northland Securities Maintains a Buy on Kodiak AI (KDK), Despite the Stock at All-Time Low
+链接: https://finance.yahoo.com/markets/stocks/articles/northland-securities-maintains-buy-kodiak-095902175.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:58]
+标题: Wall Street Bullish on WeRide (WRD) Due to Partnerships and Expansion
+链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-weride-wrd-095853653.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:31]
+标题: UBS stays positive on AstraZeneca ahead of second-quarter results
+链接: https://finance.yahoo.com/healthcare/articles/ubs-stays-positive-astrazeneca-ahead-113100377.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:58]
+标题: Here’s What You Need to Know About ​Blue Owl Technology (OTF)
+链接: https://finance.yahoo.com/markets/stocks/articles/know-blue-owl-technology-otf-095838852.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:58]
+标题: Li Auto (LI) Down 17% in a Month, Can It Rebound?
+链接: https://finance.yahoo.com/markets/stocks/articles/li-auto-li-down-17-095831997.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:58]
+标题: Merlin (MRLN) Among the Best All-Time Low Stocks, Should You Buy it?
+链接: https://finance.yahoo.com/markets/stocks/articles/merlin-mrln-among-best-time-095823562.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:58]
+标题: CI&T Inc (CINT) Close to All-Time Lows, Wall Street Sees More than 100% Upside
+链接: https://finance.yahoo.com/markets/stocks/articles/ci-t-inc-cint-close-095810280.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:30]
+标题: This Is Why ASML Is a No-Brainer Buy Before July 15 Earnings
+链接: https://finance.yahoo.com/markets/stocks/articles/why-asml-no-brainer-buy-113023631.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:30]
+标题: I got a speeding ticket for a car I sold years ago because the buyer never transferred the title. What do I do?
+链接: https://finance.yahoo.com/small-business/articles/got-speeding-ticket-car-sold-093000381.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:29]
+标题: ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure
+链接: https://finance.yahoo.com/markets/stocks/articles/icici-bank-ltd-ibn-joins-092959530.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:29]
+标题: SouthState Bank Corp (SSB) Stock Price Target Updated At JPMorgan
+链接: https://finance.yahoo.com/markets/stocks/articles/southstate-bank-corp-ssb-stock-092948824.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:29]
+标题: Wells Fargo Updates Its Call on Banc of California Inc (BANC) Stock Ahead of Q2 Report
+链接: https://finance.yahoo.com/markets/stocks/articles/wells-fargo-updates-call-banc-092942247.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:30]
+标题: FSR’s Parent Company Rebrands as Arrowfly
+链接: https://finance.yahoo.com/media-advertising/articles/fsr-parent-company-rebrands-arrowfly-113011877.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 09:29]
+标题: Is Western Alliance Bancorporation (WAL) One of the Top Bank Stocks to Buy Now According to Analysts?
+链接: https://finance.yahoo.com/markets/stocks/articles/western-alliance-bancorporation-wal-one-092935034.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 11:36]
+标题: Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures
+链接: https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html
+正文: The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 11:41]
+标题: Stocks making the biggest moves premarket: SK Hynix, Micron, MGM Resorts & more
+链接: https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-12 12:03]
 标题: Goldman Sachs picks its favorite Chinese AI models
 链接: https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html
 正文: The investment bank released its Chinese AI model competitive positioning framework on Friday.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 08:51]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
+标题: Rewired takes: Practical people lessons for scaling AI adoption
+链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption
+正文: McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
+标题: How AI is reshaping value creation in residential real estate
+链接: https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate
+正文: McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between parties in the ecosystem.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 11:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 08:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 11:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
