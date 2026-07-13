@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-13 21:46:31
-# 共计 21 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-13 22:46:25
+# 共计 28 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 18:00]
 标题: What Anthropic’s latest AI discovery does—and doesn’t—show
@@ -10,6 +10,11 @@
 标题: The Download: a donor conception cap and world models for AI
 链接: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor. He eventually tracked down one sibling, but he may have others he’ll never find.&nbsp; Other donor-conceived people have found they have tens or even hundreds of them. “It does make you feel a bit mass-produced,” said one who discovered they had 25 half-siblings. In response, a European fertility organization says we need international limits on the number of children a single donor can contribute to.&nbsp; Find out what their proposal could achieve—and where it may fall short.&nbsp; —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. How will AI understand the real world? LLMs have transformed what AI can do with language, but helping machines understand and operate within physical spaces presents a different challenge. In response, researchers are developing a new form of artificial intelligence: world models. At a LinkedIn Live event tomorrow, MIT Technology Review will explore how this technology could shape the future of robotics and open one of AI’s next major frontiers. Join Will Douglas Heaven, our senior editor for AI, and Sam Sinha, founding AI researcher and head of world models at 1X Technologies, for the conversation on Tuesday, July 14.&nbsp; Register here to attend the free session at 9:30 PDT, 12:30 PM EDT, and 5:30 PM BST.&nbsp; The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Apple has sued OpenAI for allegedly stealing trade secretsOpenAI purportedly stole IP to develop its own consumer hardware. (CNBC)+ The suit claims OpenAI poached App
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 21:50]
+标题: 前沿模型实际成本：tokenizer 差异导致隐性涨价
+链接: https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3
+正文: 同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。 🔗 阅读原文：https://playcode.io/blog/real-price-of-frontier-models via AI HOT · https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 17:47]
 标题: OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤
@@ -55,6 +60,26 @@
 标题: Goldman Sachs quietly snags a corner of America's retirement money
 链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best CD rates today, Monday, July 13, 2026: Lock in up to 4.2% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-13-2026-lock-in-up-to-42-apy-100000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Mortgage and refinance rates today, Monday, July 13, 2026: Purchase rates back lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-13-2026-purchase-rates-back-lower-than-refi-rates-100000272.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best high-yield savings interest rates today, Monday, July 13, 2026: Earn up to 4.10% APY with Bask Bank
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-13-2026-earn-up-to-410-apy-with-bask-bank-100000572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:31]
+标题: Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 17:07]
 标题: A July rate hike from the Fed? The odds are rising
 链接: https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html
@@ -86,6 +111,11 @@
 正文: These are the stocks posting the largest moves premarket.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
+标题: Is that AI agent worth it? Agentic economics and the modern operating model
+链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model
+正文: As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
 标题: Rewired takes: Practical people lessons for scaling AI adoption
 链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption
 正文: McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.
@@ -95,10 +125,10 @@
 链接: https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate
 正文: McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between parties in the ecosystem.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 21:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 22:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 21:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 22:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
