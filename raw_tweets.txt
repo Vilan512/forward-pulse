@@ -1,10 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-07-13 17:07:51
-# 共计 60 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-13 19:13:43
+# 共计 29 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 18:00]
+标题: What Anthropic’s latest AI discovery does—and doesn’t—show
+链接: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example, and will sometimes cut off chatbot conversations if it suspects users are “abusing” the model.&nbsp; One niche that Anthropic spends more time and money on than other AI companies is called mechanistic interpretability, which means looking inside the complex math of an AI model to learn why it comes up with one particular output and not another. It’s complicated stuff; there are millions of data points that might contribute to any result, and wading through them can look more like word salad than anything useful. It’s also controversial. Describing AI models with terms borrowed from psychology and neuroscience can make their behavior seem more sophisticated than we might otherwise judge it to be. That’s why, when Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers, there was one colleague I had to talk to. Senior editor Will Douglas Heaven, aside from having a PhD in computer science, has spent a lot of time digging into what we can say about how AI models work. I spoke with him about what we should take from Anthropic’s new (and predictably quirky) research. What did Anthropic learn here, exactly? Anthropic has been trying to understand how large language models (LLMs) work for a few years now. Anthropic isn’t the only one looking at this, but I think the company has made it part of its core mission more than most. Anthropic’s CEO, Dario Amodei, has said we won’t be able to control LLMs fully unless we learn more about how they work.&nbsp; So this new research is very much in that context. It goes deeper into the weird mechanisms inside LLM
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 12:10]
 标题: The Download: a donor conception cap and world models for AI
 链接: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor. He eventually tracked down one sibling, but he may have others he’ll never find.&nbsp; Other donor-conceived people have found they have tens or even hundreds of them. “It does make you feel a bit mass-produced,” said one who discovered they had 25 half-siblings. In response, a European fertility organization says we need international limits on the number of children a single donor can contribute to.&nbsp; Find out what their proposal could achieve—and where it may fall short.&nbsp; —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. How will AI understand the real world? LLMs have transformed what AI can do with language, but helping machines understand and operate within physical spaces presents a different challenge. In response, researchers are developing a new form of artificial intelligence: world models. At a LinkedIn Live event tomorrow, MIT Technology Review will explore how this technology could shape the future of robotics and open one of AI’s next major frontiers. Join Will Douglas Heaven, our senior editor for AI, and Sam Sinha, founding AI researcher and head of world models at 1X Technologies, for the conversation on Tuesday, July 14.&nbsp; Register here to attend the free session at 9:30 PDT, 12:30 PM EDT, and 5:30 PM BST.&nbsp; The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Apple has sued OpenAI for allegedly stealing trade secretsOpenAI purportedly stole IP to develop its own consumer hardware. (CNBC)+ The suit claims OpenAI poached App
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 17:47]
+标题: OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤
+链接: https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged
+正文: OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。 🔗 阅读原文：https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result via AI HOT · https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 11:41]
 标题: 德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先
@@ -41,178 +51,46 @@
 链接: https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss
 正文: Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。 🔗 阅读原文：https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 via AI HOT · https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 17:59]
-标题: Codex与ChatGPT Work多项更新：取消5小时限制
-链接: https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd
-正文: Morning. The last 48 hours of Codex and ChatGPT Work have been intense! Three important updates: - Temporarily removing the 5 hour usage limit restriction for all Plus, Business and Pro plans - Rolling out changes that will make GPT 5.6 Sol more efficient across the board and that will be reflected in less usage being used so that it can take you further. Exact impact to be quantified and shared - We hit 6M active users, and are landing a usage reset in the next hour Go do things —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:30]
-标题: Here are the 6 levels of wealth for retirement-age Americans — are you at the top or bottom of the pyramida
-链接: https://finance.yahoo.com/markets/articles/6-levels-wealth-retirement-age-163000494.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:30]
-标题: Citadel Securities says AI will enhance America's 'hustle culture' as new business applications hit 5.6 million
-链接: https://finance.yahoo.com/small-business/articles/citadel-securities-says-ai-enhance-163000796.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:24]
-标题: Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:21]
-标题: This Bear Call Spread Can Collect If Netflix Continues To Disappoint
-链接: https://www.investors.com/research/options/netflix-nflx-stock-bear-call-spread-options-2/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:20]
-标题: Class is in session: Howie Mandel turned 2 acres of dirt into his 'best investment' besides showbiz. Here's how
-链接: https://finance.yahoo.com/real-estate/articles/class-session-howie-mandel-turned-162000119.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:18]
-标题: Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates
-链接: https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-jumps-002452563.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:15]
-标题: Stock Market Today: Dow Drops As Trump Reinstates Hormuz Blockade; Oil Refiners Rise (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 00:37]
 标题: Goldman Sachs quietly snags a corner of America's retirement money
 链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Mortgage and refinance rates today, Monday, July 13, 2026: Purchase rates back lower than refi rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-13-2026-purchase-rates-back-lower-than-refi-rates-100000272.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best CD rates today, Monday, July 13, 2026: Lock in up to 4.2% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-13-2026-lock-in-up-to-42-apy-100000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: Best high-yield savings interest rates today, Monday, July 13, 2026: Earn up to 4.10% APY with Bask Bank
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-13-2026-earn-up-to-410-apy-with-bask-bank-100000572.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:31]
+标题: Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:47]
-标题: Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls
-链接: https://finance.yahoo.com/technology/live/tech-stocks-live-updates-ai-trade-sk-hynix-124717493.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 11:32]
-标题: Stock market today: Dow, S&P 500, Nasdaq slip as US and Iran exchange fire, oil jumps
-链接: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:50]
-标题: Cathie Wood Bought $54 Million Worth Of SpaceX Stock Last Week
-链接: https://www.investors.com/news/cathie-wood-ark-invest-spacex-stock-meta-amd-eli-lilly/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:46]
-标题: Arm And Marvell Tumble As Chip Stocks Sell Off
-链接: https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:44]
-标题: Facing Digital Threats, MGM Resorts Trades Higher On Reported Takeover Talks With Barry Diller's People Inc.
-链接: https://www.investors.com/news/mgm-resorts-digital-threats-takeover-talks-barry-diller-people-inc/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:44]
-标题: Taiwan Semiconductor Posts Stronger-Than-Expected June Sales
-链接: https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-june-2026-sales/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:43]
-标题: More Americans are struggling to repay credit card bills for groceries as costs rise
-链接: https://finance.yahoo.com/economy/article/more-americans-are-struggling-to-repay-credit-card-bills-for-groceries-as-costs-rise-154319450.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:43]
-标题: Stock Indexes Split as Chip Stocks Fall, Oil Surges
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-indexes-split-chip-stocks-164317500.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:32]
-标题: Bosch begins sample production at its first US semiconductor plant
-链接: https://finance.yahoo.com/technology/articles/bosch-begins-sample-production-first-153203233.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:27]
-标题: Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts
-链接: https://finance.yahoo.com/markets/currencies/articles/dollar-jumps-renewed-middle-east-004051619.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Explains the Repeating Chart Pattern for National HealthCare Corporation
-链接: https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-repeating-chart-152614804.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:43]
-标题: Samsung Stock Fell Despite a 19x Profit Jump. Here's What That Means for Micron Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/samsung-stock-fell-despite-19x-164300333.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Outlines Why Pennant Group Stock Can Sail to $55
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-outlines-why-pennant-152612396.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Highlights the Strong Institutional Support for Welltower Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-strong-institutional-152610408.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer on Carpenter Technology: “I Would Buy Some Here and Buy Some If It Comes Down”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-carpenter-technology-buy-152609522.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer on Weyerhaeuser: “I’m More Bullish on It Than the Rest of Wall Street”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weyerhaeuser-m-more-152607539.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer on Lemonade: “It Would Change My View on It if They Started Making Money”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lemonade-change-view-152605854.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Explains Why Sterling Infrastructure Is Up Over 200%
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-sterling-152604874.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Explains “Why Preformed Line Products Keeps Winning”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-preformed-152602170.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:26]
-标题: Jim Cramer Believes Marriott Vacations “Is a Long-Term Winner” But Prefers Marriott Hotels
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-marriott-vacations-152600938.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:36]
-标题: Rivian Vs. Tesla: Buy Rivian to Exploit California’s Protectionist Subsidy That Snubbed Tesla
-链接: https://finance.yahoo.com/markets/stocks/articles/rivian-vs-tesla-buy-rivian-163642550.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Says “Buy the Stock of CVS, I Sure Wish I’d Done It for My Trust”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-stock-152559283.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Explains Why PepsiCo Has Turned From a Market Darling Into an Ugly Duckling
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-pepsico-152557216.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer on IBM: “It’s Inexpensive and Arvind Krishna’s Doing a Fantastic Job”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ibm-inexpensive-arvind-152555444.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Says “Don’t Sell Apple”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-don-t-152554910.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:35]
-标题: 3 Dividend Stocks Built for Long-Term Buy-and-Hold Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-built-long-163500980.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Explains Why NVIDIA Is the Most Proprietary Chip Company in History
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-nvidia-152552574.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Highlights Analyst Rating as the Reason for Sandisk Rally
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-analyst-rating-152551521.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer Explains Why He Thinks Google Can Defeat Competitors in AI
-链接: https://finance.yahoo.com/technology/ai/articles/jim-cramer-explains-why-thinks-152549697.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Jim Cramer on Meta: “Zuckerberg’s Not a Bozo, You Can Quote Me on That”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-zuckerberg-not-152547716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 16:34]
-标题: Stock Market Today, July 13: Energy Stocks Cushion Dow as Tech Slides on Geopolitical Tensions
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-13-163450983.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 15:25]
-标题: Conmed Surges Within Striking Distance Of A Breakout On Buyout Rumors
-链接: https://www.investors.com/news/technology/conmed-stock-buyout-rumors/?src=A00220&yptr=yahoo
+标题: Silver prices today, Monday, July 13, 2026: Silver prices falling after latest airstrikes on Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-13-2026-silver-prices-falling-after-latest-airstrikes-on-iran-124725365.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 13:30]
 标题: Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:47]
-标题: Silver prices today, Monday, July 13, 2026: Silver prices falling after latest airstrikes on Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-13-2026-silver-prices-falling-after-latest-airstrikes-on-iran-124725365.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 19:03]
+标题: Why is gold a safe haven investment?
+链接: https://finance.yahoo.com/personal-finance/investing/article/why-is-gold-a-safe-haven-investment-190343193.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 17:07]
+标题: A July rate hike from the Fed? The odds are rising
+链接: https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html
+正文: Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 16:33]
 标题: Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible
@@ -249,10 +127,10 @@
 链接: https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate
 正文: McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between parties in the ecosystem.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 17:07]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 19:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 17:07]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 19:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
