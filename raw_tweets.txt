@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-13 22:46:25
-# 共计 28 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-13 23:44:11
+# 共计 22 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 18:00]
 标题: What Anthropic’s latest AI discovery does—and doesn’t—show
@@ -51,34 +51,9 @@
 链接: https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh
 正文: 安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。 🔗 阅读原文：https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg via AI HOT · https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 23:41]
-标题: Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol
-链接: https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss
-正文: Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。 🔗 阅读原文：https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 via AI HOT · https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 00:37]
 标题: Goldman Sachs quietly snags a corner of America's retirement money
 链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-quietly-snags-corner-003700514.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
-标题: Best CD rates today, Monday, July 13, 2026: Lock in up to 4.2% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-13-2026-lock-in-up-to-42-apy-100000282.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
-标题: Mortgage and refinance rates today, Monday, July 13, 2026: Purchase rates back lower than refi rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-13-2026-purchase-rates-back-lower-than-refi-rates-100000272.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
-标题: Best high-yield savings interest rates today, Monday, July 13, 2026: Earn up to 4.10% APY with Bask Bank
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-13-2026-earn-up-to-410-apy-with-bask-bank-100000572.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
-标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:31]
-标题: Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 17:07]
 标题: A July rate hike from the Fed? The odds are rising
@@ -111,24 +86,24 @@
 正文: These are the stocks posting the largest moves premarket.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
-标题: Is that AI agent worth it? Agentic economics and the modern operating model
-链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model
-正文: As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
 标题: Rewired takes: Practical people lessons for scaling AI adoption
 链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption
 正文: McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
+标题: Is that AI agent worth it? Agentic economics and the modern operating model
+链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model
+正文: As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-13 00:00]
 标题: How AI is reshaping value creation in residential real estate
 链接: https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate
 正文: McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between parties in the ecosystem.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 22:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 23:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 22:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 23:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
