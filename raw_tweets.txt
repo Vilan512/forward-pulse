@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-13 01:55:35
+# ForwardPulse 原始情报收割 — 2026-07-13 05:29:55
 # 共计 15 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 00:55]
@@ -41,34 +41,31 @@
 链接: https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
 正文: OpenAI CEO Sam Altman 表示，他"相当确信"AI 迄今为止净创造了就业，并承认"这并非我预期"。此前他曾警告 AI 影响可能快得"有点吓人"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。 🔗 阅读原文：https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs via AI HOT · https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 03:59]
-标题: xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史
-链接: https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
-正文: 对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示"不要读取任何文件"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭"改进模型"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。 🔗 阅读原文：https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 via AI HOT · https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:07]
+标题: Mark Cuban has strong words on AI companies and job losses
+链接: https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 02:37]
-标题: 苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划
-链接: https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm
-正文: 苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。 🔗 阅读原文：https://www.ithome.com/0/975/666.htm via AI HOT · https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 14:17]
+标题: Spectrum makes significant decision as customer losses mount
+链接: https://finance.yahoo.com/technology/articles/spectrum-makes-significant-decision-customer-141700401.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-12 02:23]
-标题: Mesh LLM：在 iroh 上进行分布式人工智能计算
-链接: https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb
-正文: Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称"Skippy"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。 🔗 阅读原文：https://www.iroh.computer/blog/mesh-llm via AI HOT · https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 10:00]
+标题: Mortgage and refinance interest rates today, Sunday, July 12, 2026: Mostly down from last week
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-12-2026-mostly-down-from-last-week-100000227.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 02:33]
-标题: Pizza chain closing up to 50 locations after years of declines
-链接: https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-12 10:00]
+标题: Best CD rates today, Sunday, July 12, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-12-2026-lock-in-up-to-410-apy-100000577.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-12 12:03]
 标题: Goldman Sachs picks its favorite Chinese AI models
 链接: https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html
 正文: The investment bank released its Chinese AI model competitive positioning framework on Friday.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 01:55]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-13 05:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 01:55]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-13 05:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
