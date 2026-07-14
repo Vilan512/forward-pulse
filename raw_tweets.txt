@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-14 07:04:31
-# 共计 31 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-14 09:48:06
+# 共计 60 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 08:00]
+标题: PsiQuantum has a plan to make a massive quantum computer out of light
+链接: https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
+正文: The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero. Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be first to fulfill its promise. In the years since the physicist Richard Feynman first envisioned them in 1981, quantum computers have promised to speed up everything from medical research to AI by harnessing the qualities of quantum particles. Unlike normal computer bits, which can be either a 1 or 0, quantum bits can exist in multiple states at once. And combining enough of those quantum bits together could produce a computer capable of tasks well beyond the reach of today’s conventional machines. But even today’s best quantum prototypes are too small and error-prone to do anything useful. That makes PsiQuantum’s promises for what its computers will ultimately do all the more bold. Consider the company’s hopes for predicting the effects of cytochrome P450 enzymes, which often break down drugs in the body. If pharma companies knew more precisely how they would work on a particular molecule, they could design more effective medications faster. Estimating this for a specific drug can take over 10 years with today’s methods, says Philipp Ernst, vice president of quantum applications for PsiQuantu
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 18:00]
 标题: What Anthropic’s latest AI discovery does—and doesn’t—show
@@ -10,6 +15,26 @@
 标题: The Download: a donor conception cap and world models for AI
 链接: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor. He eventually tracked down one sibling, but he may have others he’ll never find.&nbsp; Other donor-conceived people have found they have tens or even hundreds of them. “It does make you feel a bit mass-produced,” said one who discovered they had 25 half-siblings. In response, a European fertility organization says we need international limits on the number of children a single donor can contribute to.&nbsp; Find out what their proposal could achieve—and where it may fall short.&nbsp; —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. How will AI understand the real world? LLMs have transformed what AI can do with language, but helping machines understand and operate within physical spaces presents a different challenge. In response, researchers are developing a new form of artificial intelligence: world models. At a LinkedIn Live event tomorrow, MIT Technology Review will explore how this technology could shape the future of robotics and open one of AI’s next major frontiers. Join Will Douglas Heaven, our senior editor for AI, and Sam Sinha, founding AI researcher and head of world models at 1X Technologies, for the conversation on Tuesday, July 14.&nbsp; Register here to attend the free session at 9:30 PDT, 12:30 PM EDT, and 5:30 PM BST.&nbsp; The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Apple has sued OpenAI for allegedly stealing trade secretsOpenAI purportedly stole IP to develop its own consumer hardware. (CNBC)+ The suit claims OpenAI poached App
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 09:04]
+标题: 实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由
+链接: https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib
+正文: LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。 🔗 阅读原文：https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw via AI HOT · https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 08:56]
+标题: 腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能
+链接: https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c
+正文: 腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。 🔗 阅读原文：https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw via AI HOT · https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 07:46]
+标题: 高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试
+链接: https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7
+正文: 阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置"时空任意门"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。 🔗 阅读原文：https://www.ithome.com/0/976/538.htm via AI HOT · https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 07:07]
+标题: 普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平
+链接: https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc
+正文: 普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，"AI 作为正常技术"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的"共超智能"愿景。 🔗 阅读原文：https://www.normaltech.ai/p/what-will-be-left-for-us-to-work via AI HOT · https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 05:43]
 标题: 马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据
@@ -61,17 +86,69 @@
 链接: https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2
 正文: http://x.com/i/article/2076599995600621568 # Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0 Pro的API服务。 你也可以在即梦、豆包、Lumina、火山方舟体验中心去尝试。 三方评测的榜单也是同样的结论：综合能力仅次于 GPT-Image 2.0，第一梯队。 如果只是追平，这篇文章没必要写。 真正引起我注意的是他们更新公告后面关于图像编辑的部分。 ## 一、真正的亮点，藏在可编辑里 公告里提到了一个可编辑（Interactive Editing）能力。 我顺着找过去，发现目前只能在火山引擎Lumina平台体验到最全的编辑能力。 我试了一下发现它不是我们熟悉的那种AI 改图。 是真的精细化编辑：你指哪，它改哪，其他地方一个像素都不动。 配合它的交互设计，大多数日常修图和设计需求，可以不用开 PS 了。 而且普通用户也可以非常方便的对图像进行很细的编辑。 ## 二、交互：把选区做进了提示词 讲案例之前，得先把它的交互讲清楚，他们这次图像编辑支持的交互很有意思。 所有案例都建立在这套交互上。 上传图片之后，你可以点击那个 Draw 按钮对图像进行精准编辑。 之后就可以在图片上进行三种类型的精准编辑标记： 一是打点：在想编辑的物体上点一下，生成一个标记（Mark）。 二是画框圈选：框出一块区域（Region），表示编辑发生在这个范围里。 三是涂鸦和箭头，可以用不同颜色的画笔和箭头标记图片上的部分部分和位置。 关键在后面这一步： 你打的点、画的框、传的图，写提示词的时候都可以直接 @ 出来，一键变成提示词里的一个 多模态词 。 于是你的提示词会长这样： &gt; 将 @Mark01 的沙发换成米白布艺沙发，将 @Mark02 的墙面刷成 #F5EDE3 的漆，将 @Mark03 的地板换成鱼骨拼原木地板…… 点、框、参考图、色号和自然语言混在同一句话里，模型全都看得懂。 这套设计好在两点。 第一，提示词变短了。 以前要描述 图里左边靠窗那个米色的、扶手有点磨损的旧沙发 ，现在是在沙发上点一下。零歧义。 第二，写提示词的门槛没了。 过去精细化编辑最难的不是想清楚要改什么，而是用文字描述清楚改哪里。 空间关系、物体指代，写这种提示词是个真功夫。 现在位置交给手，需求交给嘴。 这其实就是 PS 的交互逻辑：先选区，后操作。 只不过 操作 那半边，也就是需要学几年的那半边，换成了说人话。 理解了这套交互，下面的案例你全都能直接复现。 ## 三、实测案例：从改一个房间开始 我沿着三个日常场景做了一组层层递进的测试：家装、商品图、海报排版。 每个案例都按 拿什么图、做什么操作、出什么结果 来写，你可以照着抄。 场景一：出租屋改造，从 刷墙 到 搬家具 第一步：打点换装。 底图就是我自己出租屋的实拍：白墙、旧地板、房东的置物架上堆满杂物，非常真实。 我在图上打了四个点：沙发、墙面、地板、货架，然后一句话： &gt; 帮我生成一张出租屋装修后的设计示意图，将 @Mark01 换成米白布艺沙发，将 @Mark02 的墙面刷成 #F5EDE3 的漆，将地板换成 @Mark03 鱼骨拼原木地板，将 @Mark04 的货架换成宜家的木质货架，并且整理脏乱的衣物和杂物 出来的图效果相当好。还是我那间房，窗户位置、房间比例、视角完全没变，但四个点位全部按要求换掉了。 连 整理杂物 这种含糊的要求都执行了，沙发上堆放的乱七八糟的衣服都没了。一次生成，四处编辑，互不干扰。 第二步：把购物车里的家具 搬 进来。 光换风格不过瘾，我又加了难度。找了六张具体家具的图： 沙发、茶几、躺椅、置物柜、窗帘。在房间里打六个点，做一对一替换： &gt; 将 @Mark01 的沙发替换为 @Image002，将 @Mark02 的茶几替换为 @Image004，将 @Mark03 的躺椅替换为 @Image003，将 @Mark04 的置物柜替换为 @Image005，同时去掉 @Mark05 的晾衣架和杂物，将 @Mark06 的窗帘替换为 @Image006 六件家具全部 落地 ，透视和光影都对。 那张云朵形状的木质茶几放在我房间的地板上，投影方向和窗户光源是一致的。 这是一个非常复合的要求。 以往如果写提示词，我需要写很多，而且可能它还处理不好，因为文字的表达总是有 gap 的。 现在我不用抽卡了，一次就可以搞好，而且理解成本非常低，谁都可以用。 第三步：色卡配色。 最后测风格层面的控制。See
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:08]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:23]
+标题: Dollar dips ahead of US inflation data, supported by rate outlook
+链接: https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:06]
+标题: ECB picks 36 payment firms for digital euro pilot
+链接: https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 08:50]
+标题: World stocks dip as oil rises after Trump's Hormuz levy threat
+链接: https://finance.yahoo.com/markets/world-indices/articles/asia-markets-choppy-threat-trump-012723429.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:35]
+标题: TC Group names Jennie Brown as head of tax advisory
+链接: https://finance.yahoo.com/small-business/articles/tc-group-names-jennie-brown-093521466.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 08:18]
+标题: China's exports ride AI boom as domestic economy struggles
+链接: https://finance.yahoo.com/economy/articles/chinas-june-trade-tops-forecasts-025658981.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 08:04]
+标题: Oil hits four-week high as US-Iran conflict escalates
+链接: https://finance.yahoo.com/news/oil-climbs-one-month-high-010106262.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:37]
+标题: Samsung Electronics denies report that it is exploring US listing
+链接: https://finance.yahoo.com/markets/stocks/articles/samsung-explores-potential-us-listing-073750137.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:35]
+标题: BP Flags Stronger Q2 Refining and Lower Output on Maintenance and Disruptions
+链接: https://finance.yahoo.com/energy/articles/bp-flags-stronger-q2-refining-073500650.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:28]
+标题: Could MercadoLibre Stock Be a Once-in-a-Decade Buying Opportunity?
+链接: https://finance.yahoo.com/markets/stocks/articles/could-mercadolibre-stock-once-decade-092800901.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:30]
+标题: Global investors turn most bullish since February, BofA survey shows
+链接: https://finance.yahoo.com/news/global-investors-turn-most-bullish-073023142.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:15]
+标题: China’s Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites
+链接: https://finance.yahoo.com/energy/articles/china-crude-oil-imports-crash-071500624.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
 标题: Mortgage and refinance rates today, Monday, July 13, 2026: Purchase rates back lower than refi rates
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-13-2026-purchase-rates-back-lower-than-refi-rates-100000272.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
-标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:27]
+标题: Chinese vehicle sales decline 3% in June
+链接: https://finance.yahoo.com/economy/articles/chinese-vehicle-sales-decline-3-092731706.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
 标题: Best CD rates today, Monday, July 13, 2026: Lock in up to 4.2% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-13-2026-lock-in-up-to-42-apy-100000282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
+标题: HELOC and home equity loan rates today, Monday, July 13, 2026: Just a 2-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-13-2026-just-a-2-basis-point-differential-100000072.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 10:00]
 标题: Best high-yield savings interest rates today, Monday, July 13, 2026: Earn up to 4.10% APY with Bask Bank
@@ -81,6 +158,10 @@
 标题: Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:26]
+标题: Google Parent Alphabet Has Abandoned Its $346 Billion Investment -- and History Points to This Decision Being a Mixed Bag
+链接: https://finance.yahoo.com/markets/stocks/articles/google-parent-alphabet-abandoned-346-092600089.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:47]
 标题: Silver prices today, Monday, July 13, 2026: Silver prices falling after latest airstrikes on Iran
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-13-2026-silver-prices-falling-after-latest-airstrikes-on-iran-124725365.html
@@ -89,9 +170,17 @@
 标题: Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:25]
+标题: This AI Giant Has Climbed 900% Over the Past Five Years. Now Wall Street Expects the Stock to Jump Another 40%.
+链接: https://finance.yahoo.com/markets/stocks/articles/ai-giant-climbed-900-over-092500920.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 19:03]
 标题: Why is gold a safe haven investment?
 链接: https://finance.yahoo.com/personal-finance/investing/article/why-is-gold-a-safe-haven-investment-190343193.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:23]
+标题: UK picks Dame Jayne-Anne Gadhia as preferred candidate to chair FRC
+链接: https://finance.yahoo.com/economy/policy/articles/uk-picks-dame-jayne-anne-092355642.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 20:03]
 标题: Gold ETF vs. gold IRA vs. physical gold: What you're actually buying
@@ -100,6 +189,38 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 20:15]
 标题: When does a gold IRA make sense?
 链接: https://finance.yahoo.com/personal-finance/investing/article/when-does-a-gold-ira-make-sense-201501543.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:22]
+标题: M&S unveils flagship store on Oxford Street, UK
+链接: https://finance.yahoo.com/small-business/articles/m-unveils-flagship-store-oxford-092246637.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:20]
+标题: Donald Trump's Drug-Pricing Deals Are Reshaping Big Pharma -- Here's What That Means for Pfizer, AbbVie, and Bristol Myers Squibb
+链接: https://finance.yahoo.com/healthcare/articles/donald-trumps-drug-pricing-deals-092000322.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:19]
+标题: European Bond Yields Climb on Inflation Fears
+链接: https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/european-bond-yields-climb-as-rising-oil-price-stokes-inflation-fears-xTB0uqCKnpci1QgLLTYk?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:17]
+标题: Shein targets up to $3bn in Hong Kong IPO, could launch by August – report
+链接: https://finance.yahoo.com/markets/stocks/articles/shein-targets-3bn-hong-kong-091753472.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:17]
+标题: Cathie Wood Is Loading Up on This Biotech Stock. Is It a No-Brainer Buy?
+链接: https://finance.yahoo.com/healthcare/articles/cathie-wood-loading-biotech-stock-091700815.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:14]
+标题: Here’s the Schedule of Today’s Bank Results
+链接: https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/here-s-the-schedule-of-today-s-bank-results-o0yYiQBitfDBojNKu6FS?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:13]
+标题: SK Hynix ADRs Seem Fairly Valued
+链接: https://www.barrons.com/livecoverage/stock-market-news-today-071426/card/sk-hynix-adrs-seem-fairly-valued-FFtdATFEhqjh0xl7KQMc?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:09]
+标题: Graphic Packaging debuts uncoated recycled paperboard offering
+链接: https://finance.yahoo.com/technology/articles/graphic-packaging-debuts-uncoated-recycled-090924184.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 00:31]
 标题: 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs
@@ -121,7 +242,7 @@
 链接: https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-midday-nio-brai-app-spcx-skhy.html
 正文: These are the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 13:19]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 09:18]
 标题: Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
 链接: https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
 正文: Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
@@ -136,10 +257,10 @@
 链接: https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 07:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 09:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 07:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 09:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
