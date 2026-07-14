@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-14 11:18:49
-# 共计 61 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-14 13:11:40
+# 共计 66 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 12:10]
+标题: The Download: Claude’s inner workings, and the future of world models
+链接: https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers, there was one colleague I had to talk to: senior editor Will Douglas Heaven. Aside from having a PhD in computer science, Will has spent a lot of time digging into what we can say about how AI models work. I spoke with him about what we should take from Anthropic’s new (and typically quirky) research. Here’s what he had to say. This article is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. How will AI understand the real world? Today’s AI systems can generate text, images, and code with impressive skill, but they still struggle with the complexities of the physical world. To bridge this gap, many researchers believe you need something called a world model. At a LinkedIn Live event today, MIT Technology Review will investigate how this technology could transform robotics and help unlock a new generation of intelligent machines. Join Will Douglas Heaven, our senior editor for AI, and Sam Sinha, founding AI researcher and head of world models at 1X Technologies, for the discussion.&nbsp; Register here to attend the free session at 9:30 PDT, 12:30 PM EDT, and 5:30 PM BST.&nbsp; The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 New York has become the first state to enact a data center moratoriumIts governor banned large data-center construction for up to a year. (WSJ $)+ A bill passed by state lawmakers could go even further. (Verge)+ Everyone hates data centers. (MIT Technology Review) 2 Smartphone shipments have hit a 13-year low due to the memory crunchThey fell 11% in the second quart
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 08:00]
 标题: PsiQuantum has a plan to make a massive quantum computer out of light
@@ -10,11 +15,6 @@
 标题: What Anthropic’s latest AI discovery does—and doesn’t—show
 链接: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
 正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example, and will sometimes cut off chatbot conversations if it suspects users are “abusing” the model.&nbsp; One niche that Anthropic spends more time and money on than other AI companies is called mechanistic interpretability, which means looking inside the complex math of an AI model to learn why it comes up with one particular output and not another. It’s complicated stuff; there are millions of data points that might contribute to any result, and wading through them can look more like word salad than anything useful. It’s also controversial. Describing AI models with terms borrowed from psychology and neuroscience can make their behavior seem more sophisticated than we might otherwise judge it to be. That’s why, when Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers, there was one colleague I had to talk to. Senior editor Will Douglas Heaven, aside from having a PhD in computer science, has spent a lot of time digging into what we can say about how AI models work. I spoke with him about what we should take from Anthropic’s new (and predictably quirky) research. What did Anthropic learn here, exactly? Anthropic has been trying to understand how large language models (LLMs) work for a few years now. Anthropic isn’t the only one looking at this, but I think the company has made it part of its core mission more than most. Anthropic’s CEO, Dario Amodei, has said we won’t be able to control LLMs fully unless we learn more about how they work.&nbsp; So this new research is very much in that context. It goes deeper into the weird mechanisms inside LLM
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-13 12:10]
-标题: The Download: a donor conception cap and world models for AI
-链接: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor. He eventually tracked down one sibling, but he may have others he’ll never find.&nbsp; Other donor-conceived people have found they have tens or even hundreds of them. “It does make you feel a bit mass-produced,” said one who discovered they had 25 half-siblings. In response, a European fertility organization says we need international limits on the number of children a single donor can contribute to.&nbsp; Find out what their proposal could achieve—and where it may fall short.&nbsp; —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. How will AI understand the real world? LLMs have transformed what AI can do with language, but helping machines understand and operate within physical spaces presents a different challenge. In response, researchers are developing a new form of artificial intelligence: world models. At a LinkedIn Live event tomorrow, MIT Technology Review will explore how this technology could shape the future of robotics and open one of AI’s next major frontiers. Join Will Douglas Heaven, our senior editor for AI, and Sam Sinha, founding AI researcher and head of world models at 1X Technologies, for the conversation on Tuesday, July 14.&nbsp; Register here to attend the free session at 9:30 PDT, 12:30 PM EDT, and 5:30 PM BST.&nbsp; The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Apple has sued OpenAI for allegedly stealing trade secretsOpenAI purportedly stole IP to develop its own consumer hardware. (CNBC)+ The suit claims OpenAI poached App
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 09:10]
 标题: Demis Hassabis：AGI 数年可至，影响达工业革命10倍
@@ -71,154 +71,184 @@
 链接: https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged
 正文: OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。 🔗 阅读原文：https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result via AI HOT · https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-13 11:41]
-标题: 德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先
-链接: https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub
-正文: 德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。 🔗 阅读原文：https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german via AI HOT · https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 20:10]
 标题: Target's problems aren't what you think they are
 链接: https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:00]
-标题: JPMorgan notches the highest quarterly profit in US banking history
-链接: https://finance.yahoo.com/markets/article/jpmorgan-notches-the-highest-quarterly-profit-in-us-banking-history-110031854.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 13:00]
+标题: Visa is launching an AI Financial Assistant for banking apps: What cardholders should know
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/visa-is-launching-an-ai-financial-assistant-for-banking-apps-what-cardholders-should-know-130000385.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:53]
-标题: European biotech chases record VC funding
-链接: https://finance.yahoo.com/healthcare/articles/european-biotech-chases-record-vc-105336852.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:55]
+标题: Trump says everyone in America is ‘profiting’ from his presidency — claims your 401(k) is up 85%. How to get your share
+链接: https://finance.yahoo.com/markets/stocks/articles/trump-says-everyone-america-profiting-125500977.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:39]
-标题: Visa (V): Among the Most Promising Fintech Stocks to Invest In
-链接: https://finance.yahoo.com/markets/stocks/articles/visa-v-among-most-promising-103905153.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:53]
+标题: CPI Shockingly Cool, Curbing Fed Rate-Hike Odds; Warsh Ahead (Live Coverage)
+链接: https://www.investors.com/news/cpi-inflation-june-federal-reserve-warsh-testimony-oil-prices-sp-500/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:34]
-标题: Morning Bid: Oil boils
-链接: https://finance.yahoo.com/news/morning-bid-oil-boils-103443653.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:48]
+标题: Stock Market Today: S&P Climbs On Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-june-cpi-inflation-ibm-stock/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:34]
-标题: Is PowerFleet (AIOT) the Fastest Growing Tech Penny Stocks to Buy?
-链接: https://finance.yahoo.com/technology/ai/articles/powerfleet-aiot-fastest-growing-tech-103408814.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 03:33]
+标题: BMW's U.S. business is delivering when it matters most
+链接: https://finance.yahoo.com/markets/stocks/articles/bmws-u-business-delivering-matters-033300819.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:34]
-标题: Geron (GERN) Grants Inducement Stock Options to New Employees
-链接: https://finance.yahoo.com/markets/stocks/articles/geron-gern-grants-inducement-stock-103402930.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:42]
+标题: IBM stock crashes after major warning
+链接: https://finance.yahoo.com/markets/stocks/article/ibm-stock-crashes-after-major-warning-114235587.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Nano Dimension (NNDM) Issues Update on Infinite Epigenetics Combination
-链接: https://finance.yahoo.com/technology/ai/articles/nano-dimension-nndm-issues-infinite-103355317.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:45]
+标题: IBM Craters 20% On 'Disappointing' Results. Big Blue Hit By AI CapEx Shift.
+链接: https://www.investors.com/news/technology/ibm-stock-q2-2026-results/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Century Therapeutics (IPSC) to Present CNTY-813 Data at Scientific Congresses
-链接: https://finance.yahoo.com/healthcare/articles/century-therapeutics-ipsc-present-cnty-103348607.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:08]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures mixed after cooler-than-expected CPI report
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:41]
+标题: Dow Jones' Two Biggest Banks Report Earnings. This One Rises.
+链接: https://www.investors.com/news/jpmorgan-chase-goldman-sachs-bank-earnings-q2-2026-dow-jones-jpm-stock-gs-stock/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:03]
 标题: Massive AI spending has unexpected effect on U.S. inflation
 链接: https://finance.yahoo.com/economy/articles/massive-ai-spending-unexpected-effect-090300525.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Here’s Why TON Strategy (TONX) is Among the 10 Fastest Growing Tech Penny Stocks to Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/why-ton-strategy-tonx-among-103341074.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:40]
+标题: US consumer inflation slows more than expected in June
+链接: https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-slows-more-124053419.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Gloo Holdings (GLOO) Prices Secondary Offering at $3.25
-链接: https://finance.yahoo.com/markets/stocks/articles/gloo-holdings-gloo-prices-secondary-103331047.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:40]
+标题: Goldman Sachs and Wells Fargo Cut Fiserv (FISV) Price Targets
+链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-wells-fargo-cut-124013199.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Autolus Therapeutics (AUTL) Grants Inducement Awards to New Employees
-链接: https://finance.yahoo.com/healthcare/articles/autolus-therapeutics-autl-grants-inducement-103319136.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:40]
+标题: Mizuho Keeps Outperform Rating on Block (XYZ), Backs Neighborhoods
+链接: https://finance.yahoo.com/markets/stocks/articles/mizuho-keeps-outperform-rating-block-124003518.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Ovid Therapeutics (OVID) Appoints Kevin Norrett as Chief Business Officer
-链接: https://finance.yahoo.com/healthcare/articles/ovid-therapeutics-ovid-appoints-kevin-103313866.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:39]
+标题: US Tiger Securities Upgrades Coinbase (COIN) to Buy
+链接: https://finance.yahoo.com/markets/crypto/articles/us-tiger-securities-upgrades-coinbase-123951713.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:04]
-标题: IDBI stake sale advances with revised bids from Fairfax, Emirates NBD
-链接: https://finance.yahoo.com/markets/stocks/articles/idbi-stake-sale-advances-revised-110409646.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:56]
+标题: American Resources’ ReElement Technologies receives $25M US investment to expand rare earth refining capacity
+链接: https://finance.yahoo.com/energy/articles/american-resources-reelement-technologies-receives-125600459.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:33]
-标题: Cibus (CBUS) Welcomes Landmark EU Crop Breeding Decision
-链接: https://finance.yahoo.com/healthcare/articles/cibus-cbus-welcomes-landmark-eu-103305040.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:39]
+标题: Goldman Sachs Raises PayPal (PYPL) Price Target
+链接: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-paypal-pypl-123942015.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:32]
-标题: Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy
-链接: https://finance.yahoo.com/technology/ai/articles/datavault-ai-dvlt-fastest-growing-103258084.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:39]
+标题: Compass Point Raises Robinhood (HOOD) Price Target, Keeps Buy Rating
+链接: https://finance.yahoo.com/markets/stocks/articles/compass-point-raises-robinhood-hood-123932570.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:15]
-标题: Is your advisor scaring you into buying an annuity after saving for retirement? Here’s where you should tell them to go
-链接: https://finance.yahoo.com/markets/stocks/articles/advisor-scaring-buying-annuity-saving-101500752.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:39]
+标题: Shopify (SHOP): Ranks Among the Most Promising Stocks in the Fintech Industry
+链接: https://finance.yahoo.com/markets/stocks/articles/shopify-shop-ranks-among-most-123920835.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:10]
-标题: Tower Semiconductor to invest $3 billion in Japan, backed by government grants
-链接: https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:39]
+标题: Is MercadoLibre (MELI) One of the Most Promising Fintech Stocks to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-one-most-promising-123901356.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:03]
-标题: Lappí boosts Iberian footprint with Alempack acquisition
-链接: https://finance.yahoo.com/small-business/articles/lapp-boosts-iberian-footprint-alempack-110301745.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:55]
+标题: U.S. CPI inflation fell to 3.5% in June 2026 on gasoline drop
+链接: https://finance.yahoo.com/economy/articles/u-cpi-inflation-dropped-3-123928022.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 07:08]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:30]
+标题: Bitcoin and ethereum prices today, Tuesday, July 14, 2026:
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:00]
-标题: Mortgage & refinance interest rates today, Tuesday, July 14, 2026: Rates mixed this morning
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-interest-rates-today-tuesday-july-14-2026-rates-mixed-this-morning-100000024.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:30]
+标题: Rupert Murdoch's estranged son is set to make more from his SpaceX investment than he gained from his father's empire
+链接: https://finance.yahoo.com/markets/stocks/articles/rupert-murdochs-estranged-son-set-123000472.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:00]
-标题: Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-14-2026-lock-in-up-to-410-apy-today-100000616.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:30]
+标题: Warsh's statement to Congress: Fed has 'no tolerance for persistently elevated inflation'
+链接: https://finance.yahoo.com/economy/policy/article/warshs-statement-to-congress-fed-has-no-tolerance-for-persistently-elevated-inflation-123000475.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:53]
-标题: U.S. Treasury Yields Rise as Middle East Tension Flare, Dollar Falls
-链接: https://www.barrons.com/livecoverage/stock-market-news-today-071426/card/u-s-treasury-yields-rise-as-middle-east-tension-flare-dollar-falls-bG7QPyRffqBgHG2PmFh1?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:19]
+标题: Silver prices today, Tuesday, July 14, 2026: Prices fall to Dec. '25 levels as Iran conflict intensifies
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-14-2026-prices-fall-to-dec-25-levels-as-iran-conflict-intensifies-121947723.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:00]
-标题: Welcome to the Tokenpocalypse: Companies rapidly backtrack after encouraging workers to spend with abandon on AI
-链接: https://finance.yahoo.com/technology/ai/articles/welcome-tokenpocalypse-companies-rapidly-backtrack-100000461.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:50]
+标题: What's Wrong With Oklo's Stock?
+链接: https://finance.yahoo.com/markets/stocks/articles/whats-wrong-oklos-stock-125038651.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:00]
-标题: Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:00]
+标题: JPMorgan notches the highest quarterly profit in US banking history
+链接: https://finance.yahoo.com/markets/article/jpmorgan-notches-the-highest-quarterly-profit-in-us-banking-history-110031854.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:50]
-标题: Clothing sales fuel increase in US retail sales
-链接: https://finance.yahoo.com/economy/articles/clothing-sales-fuel-increase-us-105015365.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:15]
+标题: A 'Healthy' U.S. Economy Spurs Bank of America, Wells Fargo Earnings Beat
+链接: https://www.investors.com/news/bank-of-america-wells-fargo-stock-wall-street/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:30]
-标题: China Cuts Saudi Crude Orders as Hormuz Risks and Discounts Reshape Trade
-链接: https://finance.yahoo.com/energy/articles/china-cuts-saudi-crude-orders-093000618.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:14]
+标题: Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst
+链接: https://finance.yahoo.com/technology/article/apples-lawsuit-shows-the-importance-of-ai-devices-for-the-iphone-makers-future-analyst-121457529.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:23]
-标题: Dollar dips ahead of US inflation data, supported by rate outlook
-链接: https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:07]
+标题: Earnings live: Wall Street bank stocks mixed despite profit haul
+链接: https://finance.yahoo.com/markets/live/earnings-live-updates-second-quarter-120718616.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 09:06]
-标题: ECB picks 36 payment firms for digital euro pilot
-链接: https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:50]
+标题: Starlink Mobile Service Could Be Coming to the U.S. Market Soon. Are Top Telecom Stocks in Trouble?
+链接: https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-could-coming-u-125000293.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 08:50]
-标题: World stocks dip as oil rises after Trump's Hormuz levy threat
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:10]
+标题: Oil soars 3.2% as Trump swears the US is 'taking over' the Strait of Hormuz. Protect your riches before the shock hits
+链接: https://finance.yahoo.com/energy/articles/oil-soars-3-2-trump-121000199.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:06]
+标题: Stocks mixed as oil rises after Trump's Hormuz levy threat
 链接: https://finance.yahoo.com/markets/world-indices/articles/asia-markets-choppy-threat-trump-012723429.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:48]
-标题: Bank of America Earnings Top Wall Street Estimates
-链接: https://www.barrons.com/livecoverage/wells-fargo-bank-of-america-goldman-sachs-jpmorgan-chase-citigroup-bank-earnings/card/bank-of-america-earnings-top-wall-street-estimates-pyx6qYO9dgQcKB9K5Ym7?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:05]
+标题: Gold prices today, Tuesday, July 14, 2026: Iran crisis drives prices lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-14-2026-iran-crisis-drives-prices-lower-120548701.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:31]
-标题: Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:00]
+标题: SpaceX Stock Is Only 3% Away From Complete Humiliation
+链接: https://www.investors.com/etfs-and-funds/sectors/spacex-stock-is-only-3-away-from-complete-humiliation/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 12:47]
-标题: Silver prices today, Monday, July 13, 2026: Silver prices falling after latest airstrikes on Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-13-2026-silver-prices-falling-after-latest-airstrikes-on-iran-124725365.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:50]
+标题: Want to Buy SK Hynix? These 3 ETFs Let You Own It and Thousands of Other Stocks.
+链接: https://finance.yahoo.com/markets/stocks/articles/want-buy-sk-hynix-3-125000748.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 10:47]
-标题: Magnificent Seven Stocks Get No Love Even as Tech Bounces Back
-链接: https://www.barrons.com/livecoverage/stock-market-news-today-071426/card/magnificent-seven-get-no-love-from-investors-even-as-tech-bounces-back-R2k14hW5qj32iUcLL6o8?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:00]
+标题: A retired police officer thought he was being scammed, then found a $300K insurance policy in his name
+链接: https://finance.yahoo.com/healthcare/articles/retired-police-officer-thought-being-120000002.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 13:30]
-标题: Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:00]
+标题: Project44 forms two new businesses, launches AI-native LSP44
+链接: https://finance.yahoo.com/technology/ai/articles/project44-forms-two-businesses-launches-120000713.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:53]
+标题: Enfinity Global Tops 535 MW of Operating Solar Capacity in Italy
+链接: https://finance.yahoo.com/energy/articles/enfinity-global-tops-535-mw-115359854.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 11:48]
+标题: Bank of America profit jumps 27% as CEO Brian Moynihan signals 'healthy economic backdrop'
+链接: https://finance.yahoo.com/markets/stocks/article/bank-of-america-profit-jumps-27-as-ceo-brian-moynihan-signals-healthy-economic-backdrop-114802659.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:49]
+标题: Bond Yields Fall, Stock Futures Climb After CPI Report
+链接: https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/bond-yields-fall-stock-futures-climb-after-cpi-report-91SXzxuPBb18TMfJdwqv?siteid=yhoof2&yptr=yahoo
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 12:30]
+标题: Warsh promises inflation will be a 'thing of the past,' cites benefits of AI investment boom
+链接: https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html
+正文: Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 12:41]
+标题: Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock
+链接: https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html
+正文: Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 12:36]
+标题: Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more
+链接: https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html
+正文: These are the stocks posting the largest moves in early trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 00:31]
 标题: 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs
@@ -245,25 +275,15 @@
 链接: https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
 正文: Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 11:36]
-标题: Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures
-链接: https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html
-正文: The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 11:41]
-标题: Stocks making the biggest moves premarket: SK Hynix, Micron, MGM Resorts & more
-链接: https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
 标题: Building expertise in the age of AI: Who trains the next generation?
 链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation
 正文: As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 11:18]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 13:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 11:18]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 13:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
