@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-14 19:04:26
-# 共计 38 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-14 20:51:11
+# 共计 40 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 12:10]
 标题: The Download: Claude’s inner workings, and the future of world models
@@ -10,6 +10,11 @@
 标题: PsiQuantum has a plan to make a massive quantum computer out of light
 链接: https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
 正文: The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero. Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be first to fulfill its promise. In the years since the physicist Richard Feynman first envisioned them in 1981, quantum computers have promised to speed up everything from medical research to AI by harnessing the qualities of quantum particles. Unlike normal computer bits, which can be either a 1 or 0, quantum bits can exist in multiple states at once. And combining enough of those quantum bits together could produce a computer capable of tasks well beyond the reach of today’s conventional machines. But even today’s best quantum prototypes are too small and error-prone to do anything useful. That makes PsiQuantum’s promises for what its computers will ultimately do all the more bold. Consider the company’s hopes for predicting the effects of cytochrome P450 enzymes, which often break down drugs in the body. If pharma companies knew more precisely how they would work on a particular molecule, they could design more effective medications faster. Estimating this for a specific drug can take over 10 years with today’s methods, says Philipp Ernst, vice president of quantum applications for PsiQuantu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 19:51]
+标题: Bonsai 27B：首款可在手机上运行的27B级多模态模型
+链接: https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd
+正文: Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。 🔗 阅读原文：https://prismml.com/news/bonsai-27b via AI HOT · https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 18:33]
 标题: Google 因 AI 训练再遭出版商集体诉讼
@@ -91,10 +96,6 @@
 链接: https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3
 正文: 同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。 🔗 阅读原文：https://playcode.io/blog/real-price-of-frontier-models via AI HOT · https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-13 20:10]
-标题: Target's problems aren't what you think they are
-链接: https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 17:38]
 标题: Analyst Report: Fedex Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -118,6 +119,11 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 12:33]
 标题: Daily – Vickers Top Buyers & Sellers for 07/14/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47605_TopBottomInsiderActivity_1784032421000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 19:50]
+标题: The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
+链接: https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
+正文: Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 16:48]
 标题: Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more
@@ -154,30 +160,35 @@
 链接: https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html
 正文: Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-13 19:15]
-标题: Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible
-链接: https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html
-正文: The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 09:18]
 标题: Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
 链接: https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
 正文: Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
-标题: Building expertise in the age of AI: Who trains the next generation?
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation
-正文: As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.
+标题: How consumers are reshaping the future of mobility
+链接: https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility
+正文: Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new brands and transportation modes.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
+标题: How physician CEOs hone the double-edged sword of clinical training
+链接: https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training
+正文: The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
 标题: Rewiring customer experience for the agentic era
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era
 正文: As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 19:04]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
+标题: Building expertise in the age of AI: Who trains the next generation?
+链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation
+正文: As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 20:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 19:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 20:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
