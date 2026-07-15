@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-15 22:50:57
+# ForwardPulse 原始情报收割 — 2026-07-15 23:51:39
 # 共计 41 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 17:09]
@@ -37,6 +37,11 @@
 链接: https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878
 正文: 我们了解到，阿里巴巴的通义千问（Qwen）将被整合进 Apple Intelligence，作为其面向中国用户的人工智能能力的一部分。此次整合将为 iOS、iPadOS、macOS 和 visionOS 上的中国用户带来基于通义千问的 AI 功能，使他们能够直接在 Apple 设备上访问文本与图像理解、内容生成及其他 AI 功能，无需在应用之间切换。今天，中国网信办公布了七项移动端设备端生成式 AI 服务的备案信息，其中包括 Apple Intelligence、华为的小艺大模型以及 OPPO 的 AndesGPT。 董事长蔡崇信表示，Apple 在最终选择阿里巴巴之前，曾与多家中国公司进行过洽谈。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 10:00]
+标题: OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性
+链接: https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz
+正文: OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。 🔗 阅读原文：https://openai.com/index/unlocking-self-improvement-gpt-red via AI HOT · https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 08:41]
 标题: 国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力
 链接: https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q
@@ -71,11 +76,6 @@
 标题: 每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程
 链接: https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
 正文: 作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上"当世独一档"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启"目标模式"全自动化执行，最长曾连续运行17小时。 🔗 阅读原文：https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw via AI HOT · https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 23:01]
-标题: Codex 周活超700万，两月更新150+项
-链接: https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d
-正文: 7M+ 周活跃 Codex 用户。两个月内 150+ 次更新。 @romainhuet 带你了解 Codex 的最新动态： GPT‑5.6 与 Ultra 通过 /goal 实现并行工作 更快的计算机使用 AppShots 内联编辑 Sites Codex 移动端与 SSH 工作流 从审查到合并的 PR 流程 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 03:07]
 标题: Microsoft CEO adds fuel to Palantir CEO’s AI warning
@@ -150,14 +150,14 @@
 正文: Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: The future of delivering software as a medical device
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
-正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: The CEO’s role in transformation
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation
 正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
+标题: How AI is reshaping the future of the AEC industry
+链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry
+正文: AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: How can the public sector meet the AI moment?
@@ -165,9 +165,9 @@
 正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: How AI is reshaping the future of the AEC industry
-链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry
-正文: AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.
+标题: The future of delivering software as a medical device
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
+正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: Is commercial aerospace ready for a demand reckoning?
@@ -189,10 +189,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge
 正文: Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 22:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 23:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 22:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 23:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
