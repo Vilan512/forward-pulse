@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-14 23:43:02
-# 共计 39 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-15 01:28:55
+# 共计 32 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 12:10]
 标题: The Download: Claude’s inner workings, and the future of world models
@@ -10,6 +10,11 @@
 标题: PsiQuantum has a plan to make a massive quantum computer out of light
 链接: https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
 正文: The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero. Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be first to fulfill its promise. In the years since the physicist Richard Feynman first envisioned them in 1981, quantum computers have promised to speed up everything from medical research to AI by harnessing the qualities of quantum particles. Unlike normal computer bits, which can be either a 1 or 0, quantum bits can exist in multiple states at once. And combining enough of those quantum bits together could produce a computer capable of tasks well beyond the reach of today’s conventional machines. But even today’s best quantum prototypes are too small and error-prone to do anything useful. That makes PsiQuantum’s promises for what its computers will ultimately do all the more bold. Consider the company’s hopes for predicting the effects of cytochrome P450 enzymes, which often break down drugs in the body. If pharma companies knew more precisely how they would work on a particular molecule, they could design more effective medications faster. Estimating this for a specific drug can take over 10 years with today’s methods, says Philipp Ernst, vice president of quantum applications for PsiQuantu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 00:02]
+标题: 每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程
+链接: https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
+正文: 作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上"当世独一档"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启"目标模式"全自动化执行，最长曾连续运行17小时。 🔗 阅读原文：https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw via AI HOT · https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 23:01]
 标题: Codex 周活超700万，两月更新150+项
@@ -96,27 +101,9 @@
 链接: https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf
 正文: 面壁智能CTO曾国洋指出，端侧模型是AI落地的关键路径。其原创方法论"模型风洞"可在小规模实验中预测完整训练效果，并基于"知识密度"提出"面壁定律"：知识密度每3.5个月翻一番。2B参数的MiniCPM表现优于同期8B竞品。面壁已完成高通、联发科、英特尔、英伟达、AMD等芯片适配，新发布的BitCPM-CANN模型系列可在华为昇腾芯片上让同一内存多装约6倍模型。全双工全模态模型MiniCPM-o4.5支持实时打断与情绪调整。团队开发了全球首个完全由AI编写的生产级训练框架ForgeTrain，并引入行为模式库实现无需开口的"默契系统"。 🔗 阅读原文：https://mp.weixin.qq.com/s/s75qDGt5iNqLXyMbjpwxeQ via AI HOT · https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 00:38]
-标题: 商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型
-链接: https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv
-正文: SenseNova-Vision-7B-MoT，现已完全开源：一个模型，覆盖以下所有主要视觉任务： 🔹检测 / OCR / GUI 🔹深度与法线 🔹分割 🔹多视图 它还能通过自然语言定义全新的视觉任务变体——跨越传统任务边界，重新组合视觉能力。 开源内容包括：模型权重 + SenseNova-Vision 语料库（含 5000 万样本子集，以及用于复现其余公开来源数据的完整工具包），供研究与开发使用。 🤗 HF：https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT 🔧GitHub：https://github.com/OpenSenseNova/SenseNova-Vision 💻 试用演示：https://huggingface.co/spaces/sensenova/SenseNova-Vision 📋技术报告：https://arxiv.org/abs/2607.06560 👾Discord：http://discord.gg/BuTXPHmQub —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 00:00]
-标题: 视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元
-链接: https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva
-正文: 新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。 🔗 阅读原文：https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b via AI HOT · https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 03:33]
 标题: BMW's U.S. business is delivering when it matters most
 链接: https://finance.yahoo.com/markets/stocks/articles/bmws-u-business-delivering-matters-033300819.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 17:38]
-标题: Analyst Report: Fedex Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 17:38]
-标题: Market Update: FDX, JPM, VFC
-链接: https://finance.yahoo.com/research/reports/ARGUS_47607_MarketUpdate_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 19:50]
 标题: The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
@@ -153,40 +140,20 @@
 链接: https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 00:31]
-标题: 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs
-链接: https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html
-正文: Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 09:18]
 标题: Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
 链接: https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html
 正文: Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
-标题: How consumers are reshaping the future of mobility
-链接: https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility
-正文: Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new brands and transportation modes.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
+标题: The CEO’s role in transformation
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation
+正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
-标题: How physician CEOs hone the double-edged sword of clinical training
-链接: https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training
-正文: The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
-标题: Rewiring customer experience for the agentic era
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era
-正文: As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-14 00:00]
-标题: Building expertise in the age of AI: Who trains the next generation?
-链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation
-正文: As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-14 23:43]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 01:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-14 23:43]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 01:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
