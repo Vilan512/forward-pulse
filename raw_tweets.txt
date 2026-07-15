@@ -1,10 +1,27 @@
-# ForwardPulse 原始情报收割 — 2026-07-15 17:07:04
-# 共计 83 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-15 18:56:57
+# 共计 47 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 17:09]
+标题: Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
+链接: https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
+正文: OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers. The aim is to find as many different ways to break or hijack a system as possible. The weak spots can then be patched before the final version of the software is released. As LLMs become more complex and get used in a wider variety of tasks—especially in the form of agents, which can interact with computer files, websites, and third-party code as well as other agents—it’s hard for teams of people by themselves to keep up with all the types of attacks that might take place. “The risk surface grows and the blast radius also grows,” says Nikhil Kandpal, a research scientist at OpenAI who co-created GPT-Red. OpenAI built GPT-Red to future-proof its safety testing process. “As more capable models become available, we will have already designed the system that can discover new modes of attack,” says Dylan Hunn, a research scientist at the company and fellow co-creator of GPT-Red. The researchers say it has already come up with new types of attack that had not been seen before. OpenAI focused most of its efforts on a type of attack known as a prompt injection, where a hacker slips an LLM instructions to make it do things its developers or users do not want it to, such as copy confidential information, sabotage a company’s code base, or generate embarrassing or harmful output. In theory, such instructions can be hidden in any text that the LLM might encounter—in code or on a website, for example.&nbsp;&nbsp;&nbsp;&nbsp; Training dojo To build GPT-Red, OpenAI’s researchers took an LLM that had not been trained as a hac
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 12:10]
 标题: The Download: a useful quantum machine and a record-breaking subsea tunnel
 链接: https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.&nbsp; Inside, some 100 stainless-steel cabinets each hold hundreds of chips. On those chips, thousands of light particles will fly through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be the first to build a useful quantum machine. Read the full story on the company’s quest. —James O&#8217;Donnell MIT Technology Review Narrated: inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly aware of the pressure from millions of tons of seawater just above my head. I’m under the iconic fjords of Norway to visit what will soon become the world’s longest and deepest subsea road tunnel—an exceptional engineering feat that will carry drivers deep beneath the North Sea. I’m here to understand how you make a 16.6-mile highway that sits 1,280 feet below the sea at its deepest point. And also—at a time when it can feel hard to get anything done—to reassure myself that ambitious engineering is still possible. That we can still make things.&nbsp; This is our latest story to be turned into an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Jus
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 17:29]
+标题: What building Shippy taught us about building agents
+链接: https://huggingface.co/blog/allenai/shippy-tech-blog
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 17:27]
+标题: Model Routing Is Simple. Until It Isn’t.
+链接: https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 00:00]
+标题: Welcome Inkling by Thinking Machines
+链接: https://huggingface.co/blog/thinkingmachines-inkling
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 00:00]
 标题: Introducing Real World VoiceEQ: Measuring the human quality of voice AI
@@ -75,186 +92,38 @@
 链接: https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd
 正文: Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。 🔗 阅读原文：https://prismml.com/news/bonsai-27b via AI HOT · https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 18:33]
-标题: Google 因 AI 训练再遭出版商集体诉讼
-链接: https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn
-正文: 包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来"100 亿至 1000 亿美元的潜在罚款"。该案在纽约南区联邦地区法院提起。 🔗 阅读原文：https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers via AI HOT · https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 03:07]
 标题: Microsoft CEO adds fuel to Palantir CEO’s AI warning
 链接: https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 09:18]
-标题: Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks sell off
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 18:02]
+标题: Market Update: MS, NKE, W
+链接: https://finance.yahoo.com/research/reports/ARGUS_47622_MarketUpdate_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:45]
-标题: How To Make An Iron Condor Take Off With Broadcom Stock
-链接: https://www.investors.com/research/options/broadcom-avgo-stock-iron-condor-options/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:45]
-标题: Queer Eye’s Tan France says one ‘very American’ money habit makes him 'physically sick’ — here's where he draws the line
-链接: https://finance.yahoo.com/economy/policy/articles/queer-eye-tan-france-says-164500616.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:32]
-标题: Is The Coca-Cola Company (KO) A Good Stock To Buy Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-ko-good-163243200.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:42]
-标题: Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains
-链接: https://finance.yahoo.com/markets/stocks/articles/dell-falls-14-hpe-super-164251809.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:32]
-标题: Stock Market Today: Nasdaq, S&P 500 Weaken; PayPal Surges On Potential Deal News (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-inflation-data-asml-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:27]
-标题: IBM employees watch $400 million vanish as stock hits worst day — a reminder about holding too much company stock
-链接: https://finance.yahoo.com/markets/stocks/articles/ibm-employees-watch-400-million-162722699.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:22]
-标题: Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance
-链接: https://www.investors.com/news/technology/microsoft-stock-hit-with-price-target-cuts-after-flaccid-performance/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:12]
-标题: Stocks rise after soft US inflation reading with Middle East in focus
-链接: https://finance.yahoo.com/news/asian-stocks-gain-drop-us-015011670.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:35]
-标题: What Is the Vanguard Small-Cap Value ETF, and Should You Buy It?
-链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-small-cap-value-etf-163500594.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:12]
-标题: SpaceX shares slide below IPO price for the first time as blistering rally unravels
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-shares-slide-below-ipo-161235621.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:05]
-标题: SpaceX stock on watch after hitting all-time low, dips below IPO price
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-on-watch-after-hitting-all-time-low-dips-below-ipo-price-150542970.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:09]
-标题: Healthcare Bellwether J&J Beats And Raises, But Shares Dip
-链接: https://www.investors.com/news/technology/johnson-johnson-stock-jj-earnings-q2-2026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:07]
-标题: PayPal Surges Amid Stripe, Private Equity Takeover Report. Lowball Offer?
-链接: https://www.investors.com/news/technology/paypal-stock-surges-stripe-private-equity-takeover-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:33]
-标题: SOXS Jumps 11% as Micron Slides on Fears of Fiercer Chinese Memory Chip Competition
-链接: https://finance.yahoo.com/markets/stocks/articles/soxs-jumps-11-micron-slides-163330164.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:03]
-标题: New Dow Jones AI Data Center Play Flashes A Buy Signal
-链接: https://www.investors.com/news/3m-dow-jones-ai-data-center-play-buy-signal/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:01]
-标题: Morgan Stanley Picks Its Top Three Defense Stocks. One Has 100% Upside.
-链接: https://www.investors.com/news/morgan-stanley-northrop-grumman-ftai-aviation-hawkeye-360-defense-aerospace/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:45]
-标题: America made 1,200 new millionaires every day last year — the 4 disciplined habits legendary investors say actually work
-链接: https://finance.yahoo.com/markets/stocks/articles/america-made-1-200-millionaires-154500661.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: RBC Capital Reaffirms Outperform Rating For Verastem (VSTM)
-链接: https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reaffirms-outperform-rating-154312539.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:30]
-标题: This Is the Default ‘Trump Account’ ETF for Newborns. Should You Own It Too?
-链接: https://finance.yahoo.com/markets/stocks/articles/default-trump-account-etf-newborns-163043450.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction
-链接: https://finance.yahoo.com/markets/stocks/articles/sable-offshore-soc-offers-impressive-154310876.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: Larimar Therapeutics (LRMR) Submits Initial Module of BLA For Nomlabofusp Therapy
-链接: https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-lrmr-submits-initial-154308058.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: SAB Biotherapeutics (SABS) and Breakthrough T1D Award Research Grant For SAB-142 Assessment
-链接: https://finance.yahoo.com/healthcare/articles/sab-biotherapeutics-sabs-breakthrough-t1d-154307842.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: Sharplink (SBET) Improves Financial Position With Open Market Stock Repurchase
-链接: https://finance.yahoo.com/markets/stocks/articles/sharplink-sbet-improves-financial-position-154302569.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:37]
-标题: Daily – Vickers Top Buyers & Sellers for 07/15/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47620_TopBottomInsiderActivity_1784119035000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:30]
-标题: Micron vs SanDisk: Which Memory Play Wins the AI Boom?
-链接: https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-memory-play-163033187.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: Here Is Why AtaiBeckley (ATAI) Is One Of The 10 Best Stocks Under $10 That Could Triple
-链接: https://finance.yahoo.com/markets/stocks/articles/why-ataibeckley-atai-one-10-154305765.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: What Makes Lexeo Therapeutics (LXEO) One of The Best Stocks Under $10 That Could Triple
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-lexeo-therapeutics-lxeo-one-154304169.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:43]
-标题: Omeros (OMER) is Amongst The Best Names Under $10 That Could Yield More Than 200% Return
-链接: https://finance.yahoo.com/markets/stocks/articles/omeros-omer-amongst-best-names-154300330.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:42]
-标题: ARS Pharmaceuticals (SPRY) Appoints Donn Casale As The New CEO
-链接: https://finance.yahoo.com/markets/stocks/articles/ars-pharmaceuticals-spry-appoints-donn-154259715.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:37]
-标题: Daily – Vickers Top Insider Picks for 07/15/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47619_InsiderActivity_1784119035000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:30]
-标题: Dell, Micron, SanDisk tumble as AI hardware rally hits reversal
-链接: https://finance.yahoo.com/markets/stocks/articles/dell-micron-sandisk-tumble-ai-163000464.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:42]
-标题: Sagimet Biosciences (SGMT) Attracts Attention After Russel Indexes Inclusion
-链接: https://finance.yahoo.com/markets/stocks/articles/sagimet-biosciences-sgmt-attracts-attention-154257397.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:35]
-标题: Couple raising 4 kids admit they don’t track their purchases ‘unless it bounces.’ Here's how they can turn it around
-链接: https://finance.yahoo.com/small-business/articles/couple-raising-4-kids-admit-153500189.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 15:22]
-标题: IBM Stock: What Wall Street Is Watching Next After 25% Tumble
-链接: https://www.investors.com/news/technology/ibm-stock-q2-2026-slide-wall-street-response/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:26]
-标题: Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 11:15]
-标题: Daily Spotlight: State of Global Demand for U.S. Debt
-链接: https://finance.yahoo.com/research/reports/ARGUS_47616_MarketOutlook_1784114139000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 16:28]
-标题: I Keep Backing Up the Truck and Buying Amazon Because Of This Silicon Secret
-链接: https://finance.yahoo.com/markets/stocks/articles/keep-backing-truck-buying-amazon-162811257.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:04]
-标题: Silver prices today, Wednesday, July 15, 2026: Stuck below $60 as Iran conflict wages on
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-15-2026-stuck-below-60-as-iran-conflict-wages-on-120415508.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 11:54]
-标题: Gold prices today, Wednesday, July 15, 2026: Gold prices not advancing as airstrikes continue
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-15-2026-gold-prices-not-advancing-as-airstrikes-continue-115451898.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 10:00]
+标题: Best CD rates today, Wednesday, July 15, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-15-2026-earn-up-to-410-apy-100000407.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 10:00]
 标题: Mortgage and refinance rates today, Wednesday, July 15, 2026: Mortgage rates mostly higher
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-15-2026-mortgage-rates-mostly-higher-100000000.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 11:15]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47615_TechnicalAnalysis_1784114110000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 11:54]
+标题: Gold prices today, Wednesday, July 15, 2026: Gold prices not advancing as airstrikes continue
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-15-2026-gold-prices-not-advancing-as-airstrikes-continue-115451898.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 10:00]
-标题: Best CD rates today, Wednesday, July 15, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-15-2026-earn-up-to-410-apy-100000407.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:04]
+标题: Silver prices today, Wednesday, July 15, 2026: Stuck below $60 as Iran conflict wages on
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-15-2026-stuck-below-60-as-iran-conflict-wages-on-120415508.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 12:26]
+标题: Bitcoin and ethereum prices today, Wednesday, July 15, 2026: Prices surge after softer inflation report
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-15-2026-prices-surge-after-softer-inflation-report-122602214.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 17:22]
+标题: Anthropic moves closer to mega-IPO as bankers line up investor meetings
+链接: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
+正文: Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 16:28]
 标题: Stocks making the biggest moves midday: SpaceX, Apple, PayPal, Cava, Progressive, Micron & more
@@ -276,7 +145,7 @@
 链接: https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html
 正文: The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 14:23]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 17:31]
 标题: New York Fed President Williams says inflation has peaked, rates 'well positioned'
 链接: https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html
 正文: Williams cited five reasons why he expects the latest price surge has run its course.
@@ -306,35 +175,20 @@
 链接: https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html
 正文: Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 19:50]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 18:45]
 标题: The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
 链接: https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
 正文: Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 17:26]
-标题: Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee
-链接: https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html
-正文: In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 17:29]
-标题: Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people
-链接: https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html
-正文: Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 18:34]
-标题: Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock
-链接: https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html
-正文: Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: The future of delivering software as a medical device
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
-正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: The CEO’s role in transformation
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation
 正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
+标题: The future of delivering software as a medical device
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
+正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: How AI is reshaping the future of the AEC industry
@@ -361,10 +215,10 @@
 链接: https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention
 正文: McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 17:07]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 18:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 17:07]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 18:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
