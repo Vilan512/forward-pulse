@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-15 20:05:10
-# 共计 44 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-15 21:50:02
+# 共计 42 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 17:09]
 标题: Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
@@ -82,26 +82,17 @@
 链接: https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m
 正文: OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol"几乎删除了我 Mac 上的所有文件"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中"过度智能体化"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户"明确且无歧义地禁止"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并"杀死活跃进程、强制移除工作树"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。 🔗 阅读原文：https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning via AI HOT · https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 21:27]
-标题: Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码
-链接: https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v
-正文: 安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。 🔗 阅读原文：https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left via AI HOT · https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 03:07]
 标题: Microsoft CEO adds fuel to Palantir CEO’s AI warning
 链接: https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 18:02]
+标题: Analyst Report: Morgan Stanley
+链接: https://finance.yahoo.com/research/reports/ARGUS_3211_AnalystReport_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 18:02]
 标题: Market Update: MS, NKE, W
 链接: https://finance.yahoo.com/research/reports/ARGUS_47622_MarketUpdate_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 10:00]
-标题: Best CD rates today, Wednesday, July 15, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-15-2026-earn-up-to-410-apy-100000407.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 10:00]
-标题: Mortgage and refinance rates today, Wednesday, July 15, 2026: Mortgage rates mostly higher
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-15-2026-mortgage-rates-mostly-higher-100000000.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 17:22]
 标题: Anthropic moves closer to mega-IPO as bankers line up investor meetings
@@ -169,11 +160,6 @@
 正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: How can the public sector meet the AI moment?
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector
-正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: How AI is reshaping the future of the AEC industry
 链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry
 正文: AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.
@@ -182,6 +168,11 @@
 标题: The future of delivering software as a medical device
 链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
 正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
+标题: How can the public sector meet the AI moment?
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector
+正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
 标题: Is commercial aerospace ready for a demand reckoning?
@@ -203,10 +194,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge
 正文: Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 20:05]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 21:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 20:05]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 21:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
