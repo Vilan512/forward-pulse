@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-15 01:28:55
-# 共计 32 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-15 04:42:33
+# 共计 34 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-14 12:10]
 标题: The Download: Claude’s inner workings, and the future of world models
@@ -10,6 +10,26 @@
 标题: PsiQuantum has a plan to make a massive quantum computer out of light
 链接: https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
 正文: The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero. Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be first to fulfill its promise. In the years since the physicist Richard Feynman first envisioned them in 1981, quantum computers have promised to speed up everything from medical research to AI by harnessing the qualities of quantum particles. Unlike normal computer bits, which can be either a 1 or 0, quantum bits can exist in multiple states at once. And combining enough of those quantum bits together could produce a computer capable of tasks well beyond the reach of today’s conventional machines. But even today’s best quantum prototypes are too small and error-prone to do anything useful. That makes PsiQuantum’s promises for what its computers will ultimately do all the more bold. Consider the company’s hopes for predicting the effects of cytochrome P450 enzymes, which often break down drugs in the body. If pharma companies knew more precisely how they would work on a particular molecule, they could design more effective medications faster. Estimating this for a specific drug can take over 10 years with today’s methods, says Philipp Ernst, vice president of quantum applications for PsiQuantu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 03:51]
+标题: 数据中心已使美国公众电费增加230亿美元，回收成本困难重重
+链接: https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio
+正文: 数据中心对电力的需求已导致美国公众电费增加230亿美元，这一涨价将持续至2028年底。由于电价由州公用事业委员会根据复杂的成本分摊规则设定，数据中心可利用其用电灵活性（如避开系统峰值负荷）规避部分成本分摊，而普通居民难以效仿。监管机构正面临如何公平分配电网基础设施投资成本的挑战。 🔗 阅读原文：https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills via AI HOT · https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 02:30]
+标题: 阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一
+链接: https://aihot.virxact.com/items/cmrlh3k0009h8bi2bwjpgkauw
+正文: 阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。 🔗 阅读原文：https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A via AI HOT · https://aihot.virxact.com/items/cmrlh3k0009h8bi2bwjpgkauw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 02:22]
+标题: Airtap iMessage 新功能：发条短信让 AI 替你操作手机
+链接: https://aihot.virxact.com/items/cmrlh600d09kzbi2bnol6i2xu
+正文: 刚演示完帮我刷 TikTok，转头就跑通了星巴克点单，AI真的无感的刚我点好了一杯美式，感觉Airtap 这步迈得比预想的狠啊。 你不用装 TikTok，也不用装星巴克 App，甚至不用开任何新软件，给手机通讯录里的号码发条 iMessage，它能直接替你选品加购走到结账页，全程靠视觉模拟真人点屏幕，不是对接专属 API。 原推说 “手机 = 装 App 的逻辑要重想”，现在这个判断又实了一步。 也就是说它不仅能替你处理信息，还能替你替你完成交易， 当然最后支付还得你自己接手，毕竟真金白银的账号没人敢直接交出去，信任这道坎所有 Agent 厂商肯定是都绕不过去的， 我觉得当触发服务的门槛，从下载注册一个 App 降到发一条短信，那原来的agent的入口逻辑，真的在一点点碎掉～ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrlh600d09kzbi2bnol6i2xu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 01:52]
+标题: 开源 LLM TODO Skill"阿福"：用 Claude Code 和 Codex 实现知识管理到排期自动化
+链接: https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3
+正文: 作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill"阿福"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。 🔗 阅读原文：https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA via AI HOT · https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 00:02]
 标题: 每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程
@@ -96,15 +116,6 @@
 链接: https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc
 正文: 普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，"AI 作为正常技术"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的"共超智能"愿景。 🔗 阅读原文：https://www.normaltech.ai/p/what-will-be-left-for-us-to-work via AI HOT · https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-14 02:29]
-标题: 面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径
-链接: https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf
-正文: 面壁智能CTO曾国洋指出，端侧模型是AI落地的关键路径。其原创方法论"模型风洞"可在小规模实验中预测完整训练效果，并基于"知识密度"提出"面壁定律"：知识密度每3.5个月翻一番。2B参数的MiniCPM表现优于同期8B竞品。面壁已完成高通、联发科、英特尔、英伟达、AMD等芯片适配，新发布的BitCPM-CANN模型系列可在华为昇腾芯片上让同一内存多装约6倍模型。全双工全模态模型MiniCPM-o4.5支持实时打断与情绪调整。团队开发了全球首个完全由AI编写的生产级训练框架ForgeTrain，并引入行为模式库实现无需开口的"默契系统"。 🔗 阅读原文：https://mp.weixin.qq.com/s/s75qDGt5iNqLXyMbjpwxeQ via AI HOT · https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-14 03:33]
-标题: BMW's U.S. business is delivering when it matters most
-链接: https://finance.yahoo.com/markets/stocks/articles/bmws-u-business-delivering-matters-033300819.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-14 19:50]
 标题: The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
 链接: https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
@@ -150,10 +161,10 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation
 正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 01:28]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 04:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 01:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 04:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
