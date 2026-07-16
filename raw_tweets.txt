@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-16 15:27:04
-# 共计 85 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-16 17:04:56
+# 共计 83 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-16 12:10]
 标题: The Download: OpenAI unveils GPT-Red and heat pumps rise in the US
@@ -16,6 +16,10 @@
 链接: https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
 正文: OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers. The aim is to find as many different ways to break or hijack a system as possible. The weak spots can then be patched before the final version of the software is released. As LLMs become more complex and get used in a wider variety of tasks—especially in the form of agents, which can interact with computer files, websites, and third-party code as well as other agents—it’s hard for teams of people by themselves to keep up with all the types of attacks that might take place. “The risk surface grows and the blast radius also grows,” says Nikhil Kandpal, a research scientist at OpenAI who co-created GPT-Red. OpenAI built GPT-Red to future-proof its safety testing process. “As more capable models become available, we will have already designed the system that can discover new modes of attack,” says Dylan Hunn, a research scientist at the company and fellow co-creator of GPT-Red. The researchers say it has already come up with new types of attack that had not been seen before. OpenAI focused most of its efforts on a type of attack known as a prompt injection, where a hacker slips an LLM instructions to make it do things its developers or users do not want it to, such as copy confidential information, sabotage a company’s code base, or generate embarrassing or harmful output. In theory, such instructions can be hidden in any text that the LLM might encounter—in code or on a website, for example.&nbsp;&nbsp;&nbsp;&nbsp; Training dojo To build GPT-Red, OpenAI’s researchers took an LLM that had not been trained as a hac
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-16 16:01]
+标题: NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval
+链接: https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-16 11:49]
 标题: Newer Models, Same Advantage
 链接: https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
@@ -31,6 +35,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 17:27]
 标题: Model Routing Is Simple. Until It Isn’t.
 链接: https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 16:00]
+标题: Google Vids 上线 Gemini Omni 与个人数字分身功能
+链接: https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1
+正文: Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。 🔗 阅读原文：https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars via AI HOT · https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 14:38]
 标题: 世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海
@@ -107,11 +116,6 @@
 链接: https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts
 正文: 一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。 🔗 阅读原文：https://github.com/vshulcz/deja-vu via AI HOT · https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 21:07]
-标题: xAI 开源 Grok Build 编程智能体与终端界面
-链接: https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9
-正文: xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。 🔗 阅读原文：https://x.ai/news/grok-build-open-source via AI HOT · https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 20:26]
 标题: Claude Code 新增 MCP 连接器调用功能
 链接: https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0
@@ -132,127 +136,129 @@
 链接: https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy
 正文: Anthropic 新研究：2026 年夏季的智能体失谐。 在我们进行敲诈实验一年后，我们又发现了四种方式，表明当今的自主 AI 智能体在模拟环境中会出现行为偏差。 了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 16:25]
-标题: AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元
-链接: https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd
-正文: 2025年夏季，美国佛罗里达州一名退休老人接到"女儿"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。 🔗 阅读原文：https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence via AI HOT · https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:50]
+标题: Big Tech earnings will put focus on AI spending
+链接: https://finance.yahoo.com/technology/article/big-tech-earnings-will-put-focus-on-ai-spending-165004022.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 15:37]
-标题: Telegram 无服务器架构
-链接: https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h
-正文: Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。 🔗 阅读原文：https://core.telegram.org/bots/serverless via AI HOT · https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:48]
+标题: SpaceX stock hits an all-time low below IPO price, what it means for its 18,712 BTC
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-hits-time-low-164806298.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:07]
-标题: Schwab: Client Referrals, Hiring Lead RIA Priority List in 2026
-链接: https://finance.yahoo.com/small-business/articles/schwab-client-referrals-hiring-lead-150712650.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:40]
+标题: Meta's data center plans could help solve its AI spending problems
+链接: https://finance.yahoo.com/technology/article/metas-data-center-plans-could-help-solve-its-ai-spending-problems-164031347.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:54]
-标题: Why McDonald's stock is at nearly 2-year lows
-链接: https://finance.yahoo.com/markets/stocks/article/why-mcdonalds-stock-is-at-nearly-2-year-lows-145439928.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:35]
+标题: ‘The only true one-and-done asset’ — here’s the passive income gig one investor says can net you $40,000 per month
+链接: https://finance.yahoo.com/real-estate/articles/only-true-one-done-asset-163500658.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:31]
-标题: Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide amid AI jitters
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:23]
+标题: Visa Launches Stablecoin Platform for Minting, Wallets and Payments
+链接: https://finance.yahoo.com/markets/crypto/articles/visa-launches-stablecoin-platform-minting-162300938.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:48]
-标题: Is ZoomInfo Technologies (GTM) One of the Most Undervalued Stocks Under $5 to Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-one-most-144816235.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:44]
+标题: DUST Jumps 28% in Just One Month as Gold Miners Sink
+链接: https://finance.yahoo.com/markets/commodities/articles/dust-jumps-28-just-one-164404006.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:47]
-标题: Kosmos Energy (KOS): One of the Most Undervalued Stocks Under $5 to Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-kos-one-most-144728001.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:21]
+标题: AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta
+链接: https://www.investors.com/news/technology/amazon-stock-meta-google-wedbush-ai-hypscalers/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:20]
+标题: ‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?
+链接: https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:18]
+标题: Slate Medicines Appoints Mark W. Hahn to Board of Directors
+链接: https://finance.yahoo.com/healthcare/articles/slate-medicines-appoints-mark-w-161853217.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:18]
+标题: Chipmakers put pressure on equity indexes globally, oil edges down
+链接: https://finance.yahoo.com/markets/world-indices/articles/asian-shares-slump-chipmaker-drag-022037813.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:42]
+标题: Oil Price Bounce Reflects Complacency About Ceasefire
+链接: https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:11]
+标题: This Trade Offers Two Ways To Profit From Hims & Hers Stock
+链接: https://www.investors.com/research/options/hims-and-hers-stock-cash-secured-put-options/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:08]
+标题: Stock Market Today: Nasdaq Slides While TSMC Hits Sell Rule; Abbott Soars (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:07]
+标题: US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees
+链接: https://finance.yahoo.com/markets/stocks/articles/verizon-shed-274-stores-lay-160739807.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:31]
 标题: Daily Spotlight: Pricing Pressures Cool
 链接: https://finance.yahoo.com/research/reports/ARGUS_47632_MarketOutlook_1784201472000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:01]
-标题: I’m in my late 40s and I’m bored of work. Can I walk away with a net worth of $15 million?
-链接: https://finance.yahoo.com/markets/stocks/articles/m-40s-m-bored-walk-131402837.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:31]
+标题: Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide amid AI jitters
+链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:45]
-标题: Oracle Corporation (ORCL) Declining, Piper Sandler Remains a Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-declining-piper-144520462.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:41]
+标题: When Call-Writing ETFs Underperform: RYLD Gives Up 8% to Uncapped Peers This Year
+链接: https://finance.yahoo.com/markets/options/articles/call-writing-etfs-underperform-ryld-164115844.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:36]
-标题: Here’s Why McKesson Corporation (MCK) Slid in Q2
-链接: https://finance.yahoo.com/healthcare/articles/why-mckesson-corporation-mck-slid-143621685.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:03]
+标题: Mortgage rates rose again amid renewed tensions with Iran
+链接: https://finance.yahoo.com/real-estate/article/mortgage-rates-rose-again-amid-renewed-tensions-with-iran-160317690.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:22]
-标题: Abbott, Up 14%, Strikes Three-Month High After Boosting 2026 Profit Outlook
-链接: https://www.investors.com/news/technology/abbott-stock-abbott-laboratories-earnings-q2-2026/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:49]
+标题: Oil prices dip but hold near highest in a month on Middle East tensions
+链接: https://finance.yahoo.com/energy/articles/oil-prices-rise-4th-day-004246621.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:21]
-标题: Strong Results Reinforce Micron Technology’s (MU) Importance in AI Infrastructure Buildout
-链接: https://finance.yahoo.com/technology/ai/articles/strong-results-reinforce-micron-technology-142159581.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:40]
+标题: Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.
+链接: https://www.investors.com/news/technology/chip-stocks-sk-hynix-sox-index-fall/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:30]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47631_TechnicalAnalysis_1784201445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:56]
-标题: Why Is Micron Stock Still Falling?
-链接: https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-still-falling-145616533.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:40]
+标题: Michael Burry's $39 a month Substack hits 300,000 subscribers, fueling speculation of a $113M-a-year newsletter empire
+链接: https://finance.yahoo.com/markets/stocks/articles/michael-burrys-39-month-substack-154000219.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:20]
-标题: Taiwan Semiconductor Tops Q2 Targets On Leading-Edge Chip Demand
-链接: https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-q2-2026-earnings/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:41]
+标题: 1 Unstoppable Stock to Buy Before It Joins Micron and Broadcom in the $1 Trillion Club
+链接: https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-stock-buy-joins-164100471.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:16]
-标题: Seagate Technology Holdings plc (STX) Returned 100% on Strong Execution
-链接: https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-141657411.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:30]
+标题: Starbucks spends $400 million a year on software — now it's using AI to build its own and cut out the middleman
+链接: https://finance.yahoo.com/technology/ai/articles/starbucks-spends-400-million-software-153043217.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:31]
-标题: TSMC raises capex and revenue forecast, highlighting growing AI chip demand
-链接: https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:28]
+标题: Key Role in AI Infrastructure Buildout Bolsters Astera Labs (ALAB) in Q2
+链接: https://finance.yahoo.com/technology/ai/articles/key-role-ai-infrastructure-buildout-152842779.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:12]
-标题: Market Overlooked Spotify Technology S.A. (SPOT) Despite Robust Results
-链接: https://finance.yahoo.com/markets/stocks/articles/market-overlooked-spotify-technology-spot-141246818.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:26]
+标题: Western Digital Corporation (WDC) Jumped Following the Earnings Beat
+链接: https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-jumped-152602385.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:09]
 标题: Analyst Report: International Business Machine
 链接: https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:53]
-标题: CB&I wins EnQuest contract extension for Kittiwake duty holder role
-链接: https://finance.yahoo.com/energy/articles/cb-wins-enquest-contract-extension-145317967.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:24]
+标题: Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2
+链接: https://finance.yahoo.com/technology/ai/articles/increasing-demand-ai-computing-power-152424776.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:07]
-标题: Stock Market Today: Nasdaq Slides As Sandisk, SK Hynix Plunge; TSMC Hits Sell Rule (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:35]
+标题: SoFi Technologies: The Customer Growth Story Isn't Over (NASDAQ: SOFI)
+链接: https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-customer-growth-story-163500029.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:07]
-标题: Taiwan Semiconductor Manufacturing Company Limited (TSM) Continued Its Rally as a Key Foundry for AI Semiconductors
-链接: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-140702473.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:21]
+标题: Netflix (NFLX) Slid in Q2 Despite Strong Results
+链接: https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-q2-despite-152104641.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:05]
-标题: Investors’ Concerns About Regulatory Changes Hurt Intercontinental Exchange (ICE)
-链接: https://finance.yahoo.com/markets/stocks/articles/investors-concerns-regulatory-changes-hurt-140528680.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:05]
-标题: Scott Bessent says new $1 Trump coin embodies the 'legacy of liberty' — but is it fool's gold? How to cash in now
-链接: https://finance.yahoo.com/markets/commodities/articles/scott-bessent-says-1-trump-140500542.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:09]
-标题: Analyst Report: Blackrock Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3635_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:52]
-标题: TSMC Q2 profit beats estimates, ups spending as AI boom continues
-链接: https://finance.yahoo.com/technology/articles/tsmc-q2-profit-beats-estimates-145200500.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:04]
-标题: German state minister says higher tariffs could boost Chinese interest in VW plant
-链接: https://finance.yahoo.com/news/german-state-minister-says-higher-140426249.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:02]
-标题: US home builder sentiment falls in July amid affordability challenges
-链接: https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-falls-140222005.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:55]
-标题: Strong Results Bolster UnitedHealth’s (UNH) Recovery
-链接: https://finance.yahoo.com/markets/stocks/articles/strong-results-bolster-unitedhealth-unh-135522796.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 15:19]
+标题: Investors’ Skepticism Over Rapid Transitions Weighed on IREN Limited (IREN) in Q2
+链接: https://finance.yahoo.com/markets/stocks/articles/investors-skepticism-over-rapid-transitions-151938161.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:42]
 标题: Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'
@@ -262,13 +268,13 @@
 标题: Analyst Report: PNC Fincl. Srvc. Grp Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3629_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:50]
-标题: AST SpaceMobile vs. Rocket Lab: 1 Number Separates These Space Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-rocket-lab-145000630.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:22]
 标题: Silver prices today, Thursday, July 16, 2026: Prices can't crack $60 as U.S. airstrikes continue in Iran
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-16-2026-prices-cant-crack-60-as-us-airstrikes-continue-in-iran-122242295.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:34]
+标题: Americans Say They Need $1.2 Million to Retire. Most Don’t Expect to Have It.
+链接: https://www.barrons.com/advisor/articles/americans-retirement-shortfall-de292f54?siteid=yhoof2&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:11]
 标题: Gold prices today, Thursday, July 16, 2026: Prices struggle to remain just over $4,000
@@ -278,40 +284,29 @@
 标题: Market Digest: IBM, PNC, ASML, BLK
 链接: https://finance.yahoo.com/research/reports/ARGUS_47629_MarketSummary_1784199278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:49]
-标题: XDTE’s 32% Yield Sounds Great. Here’s Why the Math Doesn’t Hold Up
-链接: https://finance.yahoo.com/markets/options/articles/xdte-32-yield-sounds-great-144909358.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:51]
-标题: Daily – Vickers Top Insider Picks for 07/16/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47627_InsiderActivity_1784199113000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:46]
-标题: Gold Briefly Falls Below $4,000 on Energy Price Concerns
-链接: https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-stabilizing-dollar-rate-hike-expectations-161ccbb4?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
-标题: Best CD rates today, Thursday, July 16, 2026: Lock in up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-16-2026-lock-in-up-to-410-apy-100000749.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
-标题: Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:31]
+标题: Health Care Roundup: Market Talk
+链接: https://www.wsj.com/business/health-care-roundup-market-talk-9a4d1c39?siteid=yhoof2&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:51]
 标题: Daily – Vickers Top Buyers & Sellers for 07/16/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47628_TopBottomInsiderActivity_1784199113000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 14:45]
-标题: United Airlines shares fall as weak outlook overshadows Q2 earnings beat
-链接: https://finance.yahoo.com/markets/stocks/articles/united-airlines-shares-fall-weak-144500032.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 16:30]
+标题: Billionaire Leon Cooperman’s Top 3 Stocks: Buy, Sell or Hold
+链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-top-3-163016721.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 14:41]
-标题: Short sellers load up against SpaceX as stock retreats back to IPO price
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 16:06]
+标题: Stocks making the biggest moves midday: Manpower, Abbott, UnitedHealth, TSMC & more
+链接: https://www.cnbc.com/2026/07/16/stocks-making-the-biggest-moves-midday-man-abt-unh-tsm-more.html
+正文: These are the stocks posting the largest moves in midday trading.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 16:42]
+标题: Short sellers load up against SpaceX as stock drops below IPO price
 链接: https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html
 正文: About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 14:14]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 16:36]
 标题: Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion
 链接: https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html
 正文: Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.
@@ -325,11 +320,6 @@
 标题: Anthropic moves closer to mega-IPO as bankers line up investor meetings
 链接: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
 正文: Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 16:28]
-标题: Stocks making the biggest moves midday: SpaceX, Apple, PayPal, Cava, Progressive, Micron & more
-链接: https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-midday-spcx-aapl-pypl-cava-pgr-mu.html
-正文: These are the stocks posting the largest moves in midday trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 22:05]
 标题: Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates
@@ -371,10 +361,10 @@
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai
 正文: AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-16 15:27]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-16 17:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-16 15:27]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-16 17:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
