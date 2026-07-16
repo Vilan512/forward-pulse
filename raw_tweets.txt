@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-16 11:39:41
-# 共计 40 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-16 13:22:54
+# 共计 78 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-16 12:10]
+标题: The Download: OpenAI unveils GPT-Red and heat pumps rise in the US
+链接: https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. It automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers. The aim is to find as many different ways to break or hijack a system as possible. OpenAI gave MIT Technology Review an exclusive peek into the system. Find out how it could keep the company ahead of human attackers. —Will Douglas Heaven Why heat pumps are still so hot in the US —Casey Crownhart It feels as if it should be illegal to even think about heating appliances during the height of summer, but we need to talk about heat pumps.&nbsp; The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. In the US, their sales have doubled over the past 15 years, according to a new report. They’re also winning the heating race against fossil fuels, outpacing natural-gas furnaces by 32% during the first quarter of 2026.&nbsp; These stats are especially striking at this moment, because a key tax credit for heat pumps just ended. So why are heat pumps still so hot? Read the full story for the answer. This article is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Elon Musk discreetly bought a $1 billion gas turbine firm&nbsp;to power GrokHe acquired fossil fuel company APR Energy in May. (Electrek)+ The most likely application will be powering AI data centers. (Engadget)+ The deal was revealed through an FTC filing. (Gizmodo)+ What will power AI’s growth
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-16 10:00]
 标题: Why heat pumps are still so hot in the US
@@ -11,10 +16,9 @@
 链接: https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
 正文: OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers. The aim is to find as many different ways to break or hijack a system as possible. The weak spots can then be patched before the final version of the software is released. As LLMs become more complex and get used in a wider variety of tasks—especially in the form of agents, which can interact with computer files, websites, and third-party code as well as other agents—it’s hard for teams of people by themselves to keep up with all the types of attacks that might take place. “The risk surface grows and the blast radius also grows,” says Nikhil Kandpal, a research scientist at OpenAI who co-created GPT-Red. OpenAI built GPT-Red to future-proof its safety testing process. “As more capable models become available, we will have already designed the system that can discover new modes of attack,” says Dylan Hunn, a research scientist at the company and fellow co-creator of GPT-Red. The researchers say it has already come up with new types of attack that had not been seen before. OpenAI focused most of its efforts on a type of attack known as a prompt injection, where a hacker slips an LLM instructions to make it do things its developers or users do not want it to, such as copy confidential information, sabotage a company’s code base, or generate embarrassing or harmful output. In theory, such instructions can be hidden in any text that the LLM might encounter—in code or on a website, for example.&nbsp;&nbsp;&nbsp;&nbsp; Training dojo To build GPT-Red, OpenAI’s researchers took an LLM that had not been trained as a hac
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 12:10]
-标题: The Download: a useful quantum machine and a record-breaking subsea tunnel
-链接: https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.&nbsp; Inside, some 100 stainless-steel cabinets each hold hundreds of chips. On those chips, thousands of light particles will fly through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be the first to build a useful quantum machine. Read the full story on the company’s quest. —James O&#8217;Donnell MIT Technology Review Narrated: inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly aware of the pressure from millions of tons of seawater just above my head. I’m under the iconic fjords of Norway to visit what will soon become the world’s longest and deepest subsea road tunnel—an exceptional engineering feat that will carry drivers deep beneath the North Sea. I’m here to understand how you make a 16.6-mile highway that sits 1,280 feet below the sea at its deepest point. And also—at a time when it can feel hard to get anything done—to reassure myself that ambitious engineering is still possible. That we can still make things.&nbsp; This is our latest story to be turned into an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Jus
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-16 11:49]
+标题: Newer Models, Same Advantage
+链接: https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-16 00:00]
 标题: Security incident disclosure — July 2026
@@ -27,6 +31,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 17:27]
 标题: Model Routing Is Simple. Until It Isn’t.
 链接: https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 12:17]
+标题: 秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级
+链接: https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p
+正文: 百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。 🔗 阅读原文：https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg via AI HOT · https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 12:06]
+标题: 欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务
+链接: https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol
+正文: 欧盟依据《数字市场法案》（DMA）裁定 Google 必须向竞争对手开放 Android 和 Google Search 的关键部分，包括允许第三方 AI 助手和搜索引擎获得更大访问权限。这两项决定可能削弱 Google 对两大核心平台的控制，并为其 AI 工具 Gemini 的未来格局带来深远影响，同时为竞争对手创造新的发展机会。 🔗 阅读原文：https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma via AI HOT · https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 10:00]
 标题: HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统
@@ -113,6 +127,155 @@
 链接: https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h
 正文: Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。 🔗 阅读原文：https://core.telegram.org/bots/serverless via AI HOT · https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:31]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings
+链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:55]
+标题: Abbott Bounds Higher After Hiking 2026 Profit View On Second-Quarter Beat
+链接: https://www.investors.com/news/technology/abbott-stock-abbott-laboratories-earnings-q2-2026/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:50]
+标题: Oil rises over 1% as Iran threat puts Red Sea route at risk
+链接: https://finance.yahoo.com/energy/articles/oil-prices-rise-4th-day-004246621.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:46]
+标题: Stock Market Today: Tech Futures Slide As Sandisk, SK Hynix Plunge; Nvidia Chipmaker TSMC Falls (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:31]
+标题: Daily Spotlight: Pricing Pressures Cool
+链接: https://finance.yahoo.com/research/reports/ARGUS_47632_MarketOutlook_1784201472000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
+标题: $3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/32-trillion-rotation-from-chips-to-the-magnificent-7-has-left-the-sp-500-going-nowhere-chart-of-the-day-100000821.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:42]
+标题: Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:32]
+标题: Uber Stock Rises After Agreement To Buy Delivery Hero $14.8 Billion
+链接: https://www.investors.com/news/technology/uber-stock-delivery-hero-deal/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:30]
+标题: Heavier cattle, more markets: Argentine ranchers target beef exports
+链接: https://finance.yahoo.com/markets/commodities/articles/heavier-cattle-more-markets-argentine-121739025.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:30]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47631_TechnicalAnalysis_1784201445000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:05]
+标题: GE Aerospace Raises Outlook Despite Delivery Delays
+链接: https://www.wsj.com/business/earnings/ge-aerospace-raises-fy-outlook-on-higher-sales-profit-b5cb031b?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:29]
+标题: European PE’s exit backlog hits decade high
+链接: https://finance.yahoo.com/markets/stocks/articles/european-pe-exit-backlog-hits-122923116.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:22]
+标题: Silver prices today, Thursday, July 16, 2026: Prices can't crack $60 as U.S. airstrikes continue in Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-16-2026-prices-cant-crack-60-as-us-airstrikes-continue-in-iran-122242295.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:11]
+标题: Dow Jones Futures Rise But AI Woes Continue; Taiwan Semi, GE, UnitedHealth Are Key Earnings Movers
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-dell-sandisk-micron-sell-off-spacex-ipo-price-taiwan-semiconductor-ge-aero/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:09]
+标题: Analyst Report: International Business Machine
+链接: https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:01]
+标题: Agropur sells “fine cheese” business to Lactalis
+链接: https://finance.yahoo.com/markets/stocks/articles/agropur-sells-fine-cheese-business-130115301.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:11]
+标题: Gold prices today, Thursday, July 16, 2026: Prices struggle to remain just over $4,000
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-16-2026-prices-struggle-to-remain-just-over-4000-121112341.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:10]
+标题: 'Big Short' investor Michael Burry shorted 6 stocks, and most of them plunged right after. Is there a 'Burry effect'?
+链接: https://finance.yahoo.com/markets/stocks/articles/big-short-investor-michael-burry-121000491.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:01]
+标题: ‘Massive opportunities’ for J.B. Hunt in intermodal shift
+链接: https://finance.yahoo.com/markets/stocks/articles/massive-opportunities-j-b-hunt-120113477.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:00]
+标题: This Once-Deflated Cloud Stock Deserves Another Look. Here's Why.
+链接: https://www.investors.com/research/ibd-stock-analysis/snowflake-stock-snow-ai-data-cloud/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:09]
+标题: Analyst Report: Blackrock Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3635_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:01]
+标题: Nvidia Might Be a Massive Winner as SpaceX’s Orbital Data Centers Take Off
+链接: https://finance.yahoo.com/technology/articles/nvidia-might-massive-winner-spacex-130111175.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:00]
+标题: This Hot Income Stock Is Up 35% This Year, With A Robust Yield
+链接: https://www.investors.com/research/the-income-investor/reit-stocks-american-assets-trust-real-estate-investment-trust-income/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:00]
+标题: 26 Meta employees sue, claiming AI flagged workers on medical and pregnancy leave for layoffs
+链接: https://finance.yahoo.com/technology/ai/articles/26-meta-employees-sue-claiming-120000142.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:51]
+标题: Snowflake unveils $448 million pay plan for CEO tied to ambitious stock targets
+链接: https://finance.yahoo.com/markets/stocks/articles/snowflake-unveils-448-million-pay-115142537.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:50]
+标题: Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal
+链接: https://finance.yahoo.com/healthcare/articles/lilly-enters-psychedelic-drug-race-105046700.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 11:09]
+标题: Analyst Report: PNC Fincl. Srvc. Grp Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3629_AnalystReport_1784200178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:00]
+标题: 3 Dividend Stocks to Buy for Growing Income in July
+链接: https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-growing-130049005.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:54]
+标题: Market Digest: IBM, PNC, ASML, BLK
+链接: https://finance.yahoo.com/research/reports/ARGUS_47629_MarketSummary_1784199278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 13:00]
+标题: META Price Prediction: The Stock Will Hit $700 on This Date
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-price-prediction-stock-hit-130036237.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:51]
+标题: Daily – Vickers Top Buyers & Sellers for 07/16/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47628_TopBottomInsiderActivity_1784199113000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:57]
+标题: Can You Build a Retirement Portfolio Using Only ETFs?
+链接: https://finance.yahoo.com/markets/stocks/articles/build-retirement-portfolio-using-only-125700328.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
+标题: Best CD rates today, Thursday, July 16, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-16-2026-lock-in-up-to-410-apy-100000749.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:51]
+标题: Daily – Vickers Top Insider Picks for 07/16/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47627_InsiderActivity_1784199113000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:55]
+标题: Nasdaq Futures Follow Tumble in South Korea's KOSPI Index
+链接: https://www.barrons.com/livecoverage/stock-market-news-today-071626/card/nasdaq-futures-follow-tumble-in-south-korea-s-kospi-index-9GM9E274E2K7hSKQoPc7?siteid=yhoof2&yptr=yahoo
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-16 12:00]
+标题: Stocks making the biggest moves premarket: UnitedHealth, TSMC, GE Aerospace, J.B. Hunt & more
+链接: https://www.cnbc.com/2026/07/16/stocks-making-the-biggest-moves-premarket-.html
+正文: These are the stocks posting the largest moves in the premarket.
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 17:22]
 标题: Anthropic moves closer to mega-IPO as bankers line up investor meetings
 链接: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
@@ -143,21 +306,6 @@
 链接: https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html
 正文: Williams cited five reasons why he expects the latest price surge has run its course.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 12:21]
-标题: Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'
-链接: https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html
-正文: Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 11:51]
-标题: Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush
-链接: https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html
-正文: The new firm, Yorkville Ives & Co., will combine investment banking, equity research, institutional trading and principal investing.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 11:41]
-标题: Stocks making the biggest moves premarket: BlackRock, PayPal, ASML, Morgan Stanley & more
-链接: https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-premarket-blk-pypl-asml.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 14:58]
 标题: Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes
 链接: https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html
@@ -179,6 +327,11 @@
 正文: Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-16 00:00]
+标题: What the 2026 World Cup reveals about the next generation of sports fans
+链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans
+正文: This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are business leaders paying attention?
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-16 00:00]
 标题: How B.TECH transformed into a technology-powered retailer
 链接: https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer
 正文: The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.
@@ -188,10 +341,10 @@
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai
 正文: AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-16 11:39]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-16 13:22]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-16 11:39]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-16 13:22]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
