@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-15 23:51:39
-# 共计 41 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-16 01:49:09
+# 共计 38 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-15 17:09]
 标题: Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer
@@ -19,13 +19,50 @@
 标题: Model Routing Is Simple. Until It Isn’t.
 链接: https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 00:00]
-标题: Welcome Inkling by Thinking Machines
-链接: https://huggingface.co/blog/thinkingmachines-inkling
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 00:33]
+标题: xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具
+链接: https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci
+正文: xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。 🔗 阅读原文：https://simonwillison.net/2026/Jul/16/grok-mermaid via AI HOT · https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-15 00:00]
-标题: Introducing Real World VoiceEQ: Measuring the human quality of voice AI
-链接: https://huggingface.co/blog/real-world-voiceeq
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 00:12]
+标题: 远程操控Agent干活方案：Codex主力 + UU远程兜底
+链接: https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq
+正文: 作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。 🔗 阅读原文：https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q via AI HOT · https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 22:49]
+标题: 开源编程智能体内存方案发布，通过 SSH 同步
+链接: https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts
+正文: 一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。 🔗 阅读原文：https://github.com/vshulcz/deja-vu via AI HOT · https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 21:07]
+标题: xAI 开源 Grok Build 编程智能体与终端界面
+链接: https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9
+正文: xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。 🔗 阅读原文：https://x.ai/news/grok-build-open-source via AI HOT · https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 20:26]
+标题: Claude Code 新增 MCP 连接器调用功能
+链接: https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0
+正文: Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你能够构建仪表盘和应用，按需为每位查看者获取信息并执行操作。 该功能适用于 Pro、Max、Team 和 Enterprise 套餐。不适用于公开分享的 artifacts。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 19:37]
+标题: 前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职
+链接: https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo
+正文: 前谷歌DeepMind研究员Alex Turner因谷歌向国土安全部出售云服务并最终签署无限制军事AI协议而离职。他曾起草25页提案要求加入禁止杀手机器人和大规模监控的合同条款，但提案被CEO转交后无人跟进。Turner指出，包括Jeff Dean和Stuart Russell在内的多位AI伦理领袖在关键时刻未能兑现承诺。 🔗 阅读原文：https://turntrout.com/why-i-left-google-deepmind via AI HOT · https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 18:05]
+标题: Thinking Machines 发布多模态模型 Inkling
+链接: https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8
+正文: 今天，我们正式推出 Inkling。 Inkling 能够高效地在文本、图像和音频模态之间进行推理。我们将开放完整权重。 https://thinkingmachines.ai/news/introducing-inkling/ 即日起可在 Tinker 上对 Inkling 进行微调。欢迎在 Inkling Playground 中体验。🧵 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 17:58]
+标题: Anthropic 研究：AI 智能体模拟中行为偏差
+链接: https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy
+正文: Anthropic 新研究：2026 年夏季的智能体失谐。 在我们进行敲诈实验一年后，我们又发现了四种方式，表明当今的自主 AI 智能体在模拟环境中会出现行为偏差。 了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 16:25]
+标题: AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元
+链接: https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd
+正文: 2025年夏季，美国佛罗里达州一名退休老人接到"女儿"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。 🔗 阅读原文：https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence via AI HOT · https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 15:37]
 标题: Telegram 无服务器架构
@@ -72,11 +109,6 @@
 链接: https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3
 正文: 作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill"阿福"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。 🔗 阅读原文：https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA via AI HOT · https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-15 00:02]
-标题: 每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程
-链接: https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
-正文: 作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上"当世独一档"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启"目标模式"全自动化执行，最长曾连续运行17小时。 🔗 阅读原文：https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw via AI HOT · https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 03:07]
 标题: Microsoft CEO adds fuel to Palantir CEO’s AI warning
 链接: https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html
@@ -84,10 +116,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 18:02]
 标题: Analyst Report: Morgan Stanley
 链接: https://finance.yahoo.com/research/reports/ARGUS_3211_AnalystReport_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-15 18:02]
-标题: Market Update: MS, NKE, W
-链接: https://finance.yahoo.com/research/reports/ARGUS_47622_MarketUpdate_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-15 17:22]
 标题: Anthropic moves closer to mega-IPO as bankers line up investor meetings
@@ -149,50 +177,10 @@
 链接: https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
 正文: Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: The CEO’s role in transformation
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation
-正文: Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: How AI is reshaping the future of the AEC industry
-链接: https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry
-正文: AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: How can the public sector meet the AI moment?
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector
-正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: The future of delivering software as a medical device
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device
-正文: Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: Is commercial aerospace ready for a demand reckoning?
-链接: https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning
-正文: A new survey reveals a widening gap between airline sentiment and the rest of the value chain.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: The ‘bridge builder’ COO: Delivering results by engaging stakeholders
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders
-正文: Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: Patrick Finn on how tension can lead to healthcare’s reinvention
-链接: https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention
-正文: McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-15 00:00]
-标题: Gigafactory delivery on time: Solving the SOP delay challenge
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge
-正文: Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-15 23:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-16 01:49]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-15 23:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-16 01:49]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
