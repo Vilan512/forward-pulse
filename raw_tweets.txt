@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-17 07:12:23
-# 共计 34 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-17 09:48:33
+# 共计 42 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-17 09:00]
+标题: There’s a lot of hype around perimenopause. Don’t buy it.
+链接: https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/
+正文: Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that occurs a year after a person has had their last period. Perimenopause is the sometimes years-long period before that point, which can also feature all the symptoms we’d typically associate with menopause. Today, information about perimenopause is more prevalent and accessible than ever. If you’re a woman in your 40s and you’re not feeling 100%, chances are there’ll be someone online ready to tell you you’re in perimenopause. And that you might want to start spending your money on blood tests, apps, and supplements or demanding hormone replacement therapy. But as regular readers might have guessed by this point, it’s not that simple. Perimenopause tends to start around the age of 46 or 47. It’s during this time that many women start to experience some symptoms like hot flashes, irregular or unusually heavy periods, or anxiety, for example. And it can be heavy going. “Often symptoms are at their worst in the perimenopause,” says Mary Ann Lumsden, former president of the International Menopause Society. That’s because hormones can fluctuate wildly. Levels of estrogen, progesterone, luteinizing hormone, and follicle-stimulating hormone can roller-coaster before leveling off after menopause. And that’s why, despite what some marketers will claim, there is no test for perimenopause. “You can’t interpret hormone [measures] because they change so much,” says Lumsden. “And that is quite normal.” That doesn’t mean women should have to put up with symptoms. But exactly how those symptoms are treated is another topic that has been clouded by misinformation. Last week, I told a friend about some unusually bad p
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-17 08:57]
+标题: The risk of weather data sabotage is rising
+链接: https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+正文: Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use them to determine which crop variety to sow, when to fertilize, how much to invest in irrigation infrastructure, and how long livestock should graze. Utilities use them to decide where to build solar and wind farms, as well as how to price wholesale electricity. Predictions are used to warn people about extreme weather and to trigger emergency response measures. More recently, weather predictions have become relevant for an emerging industry: prediction markets, where people bet money on all kinds of real-world events, including the weather. However, the temptation to manipulate weather data to get an edge in these markets, combined with a collective move toward data-driven AI weather forecasting, is starting to put the accuracy of weather predictions at risk. These risks are relatively manageable for now, but as experts in the field, we can foresee scenarios where they snowball into far bigger, more systemic problems.&nbsp; To develop weather predictions, we need accurate observations of current conditions. These are collected from several sources, including weather stations at airports, utilities, or transport services. Traditional operational systems like the Weather Research and Forecasting model or the European Centre for Medium-Range Weather Forecast (ECMWF) Integrated Forecasting System combine these observations with numerical approximations in order to estimate future weather patterns.&nbsp; Sometimes, weather stations have issues because of, for example, instrument failures or upgrades in equipment. These can be caught either in real time (through checking and correction) or retroactively. Tr
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-16 12:10]
 标题: The Download: OpenAI unveils GPT-Red and heat pumps rise in the US
@@ -18,6 +28,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-16 11:49]
 标题: Newer Models, Same Advantage
 链接: https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 08:41]
+标题: Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩
+链接: https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u
+正文: Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。 🔗 阅读原文：https://schema-harness.github.io/ via AI HOT · https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 07:53]
+标题: NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一
+链接: https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un
+正文: NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32，768 tokens。 🔗 阅读原文：https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb via AI HOT · https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 07:14]
+标题: 通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms
+链接: https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz
+正文: 通义实验室发布 Wan-Streamer v0.2，这是一款将"听、看、说、演"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。 🔗 阅读原文：https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg via AI HOT · https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 04:57]
 标题: Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头
@@ -109,15 +134,25 @@
 链接: https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67
 正文: Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。 🔗 阅读原文：https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search via AI HOT · https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 07:59]
-标题: 台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利
-链接: https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93
-正文: 台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。 🔗 阅读原文：https://www.ithome.com/0/977/544.htm via AI HOT · https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-16 07:42]
-标题: Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查
-链接: https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x
-正文: Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智能体工作流。该流程支持动态调用变量、注册可调用工具、应用输出护栏（如PII脱敏、脏话过滤、话题范围限制），并可在无需实时电话凭证的情况下运行脚本化通话模拟。教程还涵盖延迟与成本指标追踪、回归式评估检查，以及将智能体逻辑、工具调用、安全检查和通话模拟整合为单一结构化管线。 🔗 阅读原文：https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks via AI HOT · https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 10:00]
+标题: Best CD rates today, Thursday, July 16, 2026: Lock in up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-16-2026-lock-in-up-to-410-apy-100000749.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:11]
+标题: Gold prices today, Thursday, July 16, 2026: Prices struggle to remain just over $4,000
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-16-2026-prices-struggle-to-remain-just-over-4000-121112341.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:22]
+标题: Silver prices today, Thursday, July 16, 2026: Prices can't crack $60 as U.S. airstrikes continue in Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-16-2026-prices-cant-crack-60-as-us-airstrikes-continue-in-iran-122242295.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-16 12:42]
+标题: Bitcoin and ethereum prices today, Thursday, July 16, 2026: Prices rise, ethereum becomes 'increasingly compelling'
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-16-2026-prices-rise-ethereum-becomes-increasingly-compelling-124218108.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-17 03:54]
 标题: India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy
@@ -159,10 +194,10 @@
 链接: https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html
 正文: The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-17 07:12]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-17 09:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-17 07:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-17 09:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
