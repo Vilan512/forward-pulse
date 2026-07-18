@@ -1,9 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-18 15:46:19
-# 共计 41 条来自 6 个信息源
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-17 15:57]
-标题: Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers
-链接: https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+# ForwardPulse 原始情报收割 — 2026-07-18 16:45:04
+# 共计 34 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-18 04:47]
 标题: Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"
@@ -25,19 +21,13 @@
 链接: https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k
 正文: 前沿已经打开：八天内四次前沿发布——Grok 4.5、GPT-5.6、Muse Spark 1.1，以及昨天的Kimi K3；目前有六家实验室的模型在Artificial Analysis智能指数上得分超过50，而六月初只有两家。 @SpaceXAI的Grok 4.5（高，Artificial Analysis智能指数得分：54）于7月8日发布，@OpenAI的GPT-5.6 Sol、Terra和Luna（最高分：59、55、51）以及@AIatMeta的Muse Spark 1.1（极高，51）紧随其后于一天后发布，而@Kimi_Moonshot的Kimi K3于昨天发布，得分57——总体排名第三，领先于Claude Opus 4.8（最高分，56）。 该指数上排名前三的模型现在来自三家不同的实验室，且得分仅相差三分。自7月8日以来发布的模型占据了得分前十中的四个席位，自六月初以来则占据了六个席位。 唯一没有变化的是第一名：Claude Fable 5（最高分，60）自6月9日以来一直保持榜首，但其领先优势已从四分缩小到一分，并且其背后的智能价格已经暴跌。 祝贺@elonmusk、@sama、@finkd以及所有四家实验室的团队，度过了非凡的八天。 关键要点： ➤ 前沿领域在六周内从两家实验室扩展到六家。直到六月，只有Anthropic和OpenAI部署了得分在51或以上的模型。GLM-5.2（最高分）在六月中旬将Z AI带入这一行列；上周新增了SpaceXAI和Meta；今天Kimi K3以57分的成绩使Moonshot AI成为第六家 ➤ Kimi K3以第三名的成绩首次亮相，其智能体和知识工作得分仅次于前两名。K3在GDPval-AA v2上获得1668 Elo，排名第三，仅次于Claude Fable 5（最高分，1760）和GPT-5.6 Sol（最高分，1748）。在AA-Briefcase（我们的长周期知识工作基准测试）上，它以1547 Elo进入第二名——仅次于Claude Fable 5（最高分，1583），领先于GPT-5.6 Sol（最高分，1495）——其分析质量Elo（1760）与Fable 5（1764）基本持平。在其$3/$15的定价下，每个智能指数任务成本为$0.94，它提供了与Claude Opus 4.8（最高分，$1.80）相当的智能，每个任务的成本大约减半 ➤ 近前沿智能在八天内便宜了2-3倍。GPT-5.6 Sol（最高分）的智能指数得分比Claude Fable 5（最高分）低一分，每个任务成本为$1.04，而后者为$2.75。Grok 4.5（高）以$0.31的成本提供54分，不到GPT-5.5（极高，$0.99）的三分之一。在51分这一档，GPT-5.6 Luna（最高分，$0.21）和Muse Spark 1.1（极高，$0.26）的价格低于GLM-5.2（最高分，$0.32），而后者在一周前还是该水平上最便宜的模型。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 16:34]
-标题: Sora 2 视频克隆效果惊人，真假难辨
-链接: https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp
-正文: 一年过去了，依然没有任何东西能接近 Sora 生成的完美视频深度克隆。它捕捉到了我和 Sam 每一个面部肌肉的动作，以及我们走路的方式。 如果你从这段视频中截取一帧我或 Sam 的画面，根本不可能分辨出它是真是假。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:21]
+标题: AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI
+链接: https://finance.yahoo.com/markets/stocks/articles/amd-vs-arm-vs-intel-162100375.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 16:32]
-标题: Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高
-链接: https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk
-正文: Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。 🔗 阅读原文：https://claude.com/blog/working-at-the-frontier-cursor via AI HOT · https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:32]
-标题: This Is the Bond Fund ETF That Actually Likes ‘Higher for Longer’
-链接: https://finance.yahoo.com/markets/options/articles/bond-fund-etf-actually-likes-153234151.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:15]
+标题: Dave Ramsey: 'You can't outearn stupidity' — here's why teachers become millionaires so often and how to follow along
+链接: https://finance.yahoo.com/small-business/articles/dave-ramsey-cant-outearn-stupidity-161500168.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:15]
 标题: Stock Market Week Ahead: Navigating Uncertainty
@@ -51,13 +41,17 @@
 标题: Elon Musk's SpaceX has lost $1T in market cap since mid-June as Starship launch is scrubbed
 链接: https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-lost-1t-150000833.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:17]
+标题: Louis Navellier reveals best tech, energy stocks to buy now
+链接: https://finance.yahoo.com/markets/stocks/articles/louis-navellier-reveals-best-tech-161700185.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:00]
+标题: Oil and Gas Employment Hits a 2026 Low Even as Production Sets Records
+链接: https://finance.yahoo.com/energy/articles/oil-gas-employment-hits-2026-150000486.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 14:06]
 标题: CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.
 链接: https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:29]
-标题: 3 Times It Actually Makes Sense to Claim Social Security at 62
-链接: https://finance.yahoo.com/markets/articles/3-times-actually-makes-sense-152931316.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 13:45]
 标题: France pulled $15B in gold from US vaults, and more European countries may follow. Is a global currency shift coming?
@@ -67,6 +61,10 @@
 标题: This week's AI winners and losers
 链接: https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:11]
+标题: The AI Capex Question Every QQQ Holder Should Be Asking Right Now
+链接: https://finance.yahoo.com/markets/stocks/articles/ai-capex-every-qqq-holder-161100385.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 13:15]
 标题: Scott Bessent assures Americans Fort Knox gold is still there — then reminds them the dollar is no longer backed by it
 链接: https://finance.yahoo.com/economy/policy/articles/scott-bessent-assures-americans-fort-131500660.html
@@ -74,10 +72,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 12:55]
 标题: Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation
 链接: https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:28]
-标题: Which Vanguard Global ETF Is the Better Buy in 2026: VT or VXUS?
-链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-global-etf-better-buy-152801293.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 12:43]
 标题: Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off
@@ -87,6 +81,10 @@
 标题: These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Holds Top Rating
 链接: https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:05]
+标题: Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End?
+链接: https://finance.yahoo.com/markets/stocks/articles/caterpillar-nyse-cat-now-makes-160500854.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 12:00]
 标题: ASML, Snowflake Lead Five Stocks Near Buy Points In Tough Market
 链接: https://www.investors.com/news/asml-snowflake-ai-stocks-near-buy-points/?src=A00220&yptr=yahoo
@@ -95,79 +93,51 @@
 标题: House passes Common Cents Act to help with phasing out the penny. How cash purchases would work if the bill becomes law
 链接: https://finance.yahoo.com/economy/policy/articles/house-passes-common-cents-act-120000839.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:20]
-标题: Plug Power Wins a 50-Megawatt Order in Australia. Here's What It Means for the Hydrogen Stock.
-链接: https://finance.yahoo.com/energy/articles/plug-power-wins-50-megawatt-152000089.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:56]
-标题: The S&P 500 is breaking the earnings playbook: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:55]
-标题: Big banks' record Wall Street profits are increasingly tied to AI
-链接: https://finance.yahoo.com/markets/article/big-banks-record-wall-street-profits-are-increasingly-tied-to-ai-115540382.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:35]
-标题: My in-laws want to sell us their $800,000 home for 50% off — what's the best way to make this family deal work?
-链接: https://finance.yahoo.com/real-estate/articles/laws-want-sell-us-800-113500008.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:30]
-标题: Sell these 4 things before you retire in America — holding can cost you a fortune. How many do you still own?
-链接: https://finance.yahoo.com/small-business/articles/sell-4-things-retire-america-113000157.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:18]
-标题: Which Aerospace and Defense ETF Is the Better Buy: iShares' ITA or First Trust's MISL?
-链接: https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-etf-better-buy-151825493.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:30]
-标题: I left my husband with $3 in my account after he racked up $40K in debt on Pokemon cards. How can I protect my finances?
-链接: https://finance.yahoo.com/small-business/articles/left-husband-3-account-racked-113000368.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 11:15]
-标题: AI can now access your credit cards — how to protect yourself from being scammed
-链接: https://finance.yahoo.com/technology/ai/articles/ai-now-access-credit-cards-111500339.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 17:40]
 标题: Fidelity data breach: Deadline looms for up to $5,000 per customer settlement payouts
 链接: https://finance.yahoo.com/personal-finance/banking/article/fidelity-data-breach-deadline-looms-for-up-to-5000-per-customer-settlement-payouts-174013618.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:17]
-标题: Tesla face 3 major headwinds heading into earnings report
-链接: https://finance.yahoo.com/markets/stocks/articles/tesla-face-3-major-headwinds-151700908.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:03]
+标题: Another popular soda giant closes warehouse operation, cuts 184 jobs
+链接: https://finance.yahoo.com/small-business/articles/another-popular-soda-giant-closes-160300969.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:11]
-标题: Forget EWZ. Franklin’s Brazil Twin Charges Two-Thirds Less, and It’s Up 30% This Year
-链接: https://finance.yahoo.com/markets/stocks/articles/forget-ewz-franklin-brazil-twin-151130657.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 16:00]
+标题: Blockmate Ventures raises C$1M for Wyoming AI data center - ICYMI
+链接: https://finance.yahoo.com/technology/ai/articles/blockmate-ventures-raises-c-1m-160000899.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 10:00]
 标题: Best CD rates today, Saturday, July 18, 2026: Best account provides 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-18-2026-best-account-provides-410-apy-100000054.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:08]
-标题: The Portfolio That Gives You a $2,000 Raise Every Year
-链接: https://finance.yahoo.com/markets/stocks/articles/portfolio-gives-2-000-raise-150801902.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:56]
+标题: Go Big or Go Bigger: Is the Vanguard Mega Cap Growth ETF or S&P 500 Growth ETF the Better Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/big-bigger-vanguard-mega-cap-155601090.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 10:00]
 标题: Mortgage and refinance interest rates today, Saturday, July 18, 2026: Rates lower to start the weekend
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-18-2026-rates-lower-to-start-the-weekend-100000896.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:56]
+标题: The 4% Rule Is Far From Dead. Here's How to Make It Work for You.
+链接: https://finance.yahoo.com/markets/articles/4-rule-far-dead-heres-155600757.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 17:48]
 标题: Analyst Report: Prologis Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1784310510000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:07]
-标题: Discount chain closing 75 stores, admits 1,000s are 'substandard'
-链接: https://finance.yahoo.com/markets/stocks/articles/discount-chain-closing-75-stores-150700942.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-18 15:38]
+标题: This "Hands-Off" ETF Could Be Your Ticket to Becoming a Millionaire
+链接: https://finance.yahoo.com/markets/stocks/articles/hands-off-etf-could-ticket-153800857.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-18 11:31]
 标题: 'WarshGPT': How Wall Street is adapting to the Fed's new era of communication
 链接: https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html
 正文: Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-18 15:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-18 16:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-18 15:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-18 16:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
