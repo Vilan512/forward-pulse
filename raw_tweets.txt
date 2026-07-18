@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-18 04:40:33
-# 共计 25 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-18 06:54:28
+# 共计 28 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-17 12:10]
 标题: The Download: perimenopause misinformation and China’s latest AI leap
@@ -19,6 +19,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-17 15:57]
 标题: Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers
 链接: https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-18 04:47]
+标题: Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"
+链接: https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro
+正文: Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临"某种形式的再分配"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。 🔗 阅读原文：https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out via AI HOT · https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 17:41]
 标题: Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？
@@ -50,6 +55,11 @@
 链接: https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi
 正文: BrowseComp 在 10 个月内从 30% 提升到了 90%。 搜索智能体基准测试正在趋于饱和。 因此我们构建了 LoHoSearch：一个更难的搜索智能体基准测试，其问题是从包含 762 万个实体的维基百科知识图谱中自动生成的，而非由人类编写。 它在搜索空间和结构复杂度上达到了人类标注者无法可靠设计的极限。 在 11 个前沿模型上的结果： → 最佳成绩：34.74%，接下来的 3 个模型集中在 15–16% 左右——而顶尖模型目前在 BrowseComp 上得分约为 90% → 最佳上下文策略在此仅带来 +6.8 个百分点的提升——而在 BrowseComp 上则为 +14 个百分点 544 道问题。11 个领域。树状 + 图结构。 开源。🧵 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 12:11]
+标题: LLM cliché highlighter：一款识别AI写作套话的检测工具
+链接: https://aihot.virxact.com/items/cmrpy1nvp06pubisrn8ne51v6
+正文: Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如"no fluff， no filler， no jargon"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。 🔗 阅读原文：https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter via AI HOT · https://aihot.virxact.com/items/cmrpy1nvp06pubisrn8ne51v6
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 11:10]
 标题: 苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函
 链接: https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz
@@ -80,11 +90,6 @@
 链接: https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz
 正文: 通义实验室发布 Wan-Streamer v0.2，这是一款将"听、看、说、演"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。 🔗 阅读原文：https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg via AI HOT · https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-17 04:57]
-标题: Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头
-链接: https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1
-正文: 谁能想到Claude和GPT双头统治的时代，居然就这么被中国模型撕开了口子。 Kimi K3登顶Frontend Code Arena总榜第一，1679分同时力压Claude Fable 5与GPT-5.6 Sol。 从上一代第18名直冲榜首，整整跃升17个名次，完成了同级模型里绝无仅有的跨越式爆发。 7个前端细分赛道拿下6个第一，品牌营销参考设计数据分析消费产品模拟工具内容创建全线领跑，仅游戏赛道暂居第二。 这不是刷题库的纸面跑分，是全球开发者匿名盲测投出来的真实战力，代码质量交互体验全维度硬碰硬。 更炸裂的是完整模型权重7月27日前就会开放，顶级前端编码能力直接无差别下放给所有开发者。 当开放权重的中国模型能在核心开发赛道正面打赢闭源顶流，维持多年的双巨头格局是不是真的要改写了。 #KimiK3 #Moonshot #AI大模型 #前端开发 #开源AI —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 10:00]
 标题: Mortgage and refinance interest rates today, Friday, July 17, 2026: Rates are mixed today
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-17-2026-rates-are-mixed-today-100000981.html
@@ -97,23 +102,31 @@
 标题: Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 17:48]
-标题: Analyst Report: Prologis Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1784310510000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 12:27]
 标题: Silver prices today, Friday, July 17, 2026: Silver prices hit 8-month lows as airstrikes continue across Iran
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-17-2026-silver-prices-hit-8-month-lows-as-airstrikes-continue-across-iran-122717751.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 12:56]
+标题: Bitcoin and ethereum prices today, Friday, July 17, 2026: Prices ease as conflict in Iran escalates
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-17-2026-prices-ease-as-conflict-in-iran-escalates-125602208.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 17:40]
+标题: Fidelity data breach: Deadline looms for up to $5,000 per customer settlement payouts
+链接: https://finance.yahoo.com/personal-finance/banking/article/fidelity-data-breach-deadline-looms-for-up-to-5000-per-customer-settlement-payouts-174013618.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-17 17:48]
+标题: Analyst Report: Prologis Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1784310510000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-17 11:47]
 标题: Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more
 链接: https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-premarket-nflx-spcx-googl-and-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-18 04:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-18 06:54]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-18 04:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-18 06:54]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
