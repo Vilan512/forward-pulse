@@ -1,5 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-07-20 06:07:15
-# 共计 14 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-20 09:50:30
+# 共计 49 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-20 08:39]
+标题: AI is more likely than humans to form biases when hiring
+链接: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
+正文: The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from experience—and stereotype job applicants more than humans do. As AI companies race to build agentic models that remember the tiniest details about users, they may be handing them ammunition for forming those biases. Researchers at Princeton University and the University of Chicago ran LLMs, including ChatGPT, Claude, and Gemini, through a simulated hiring game, adapted from a psychology study that explored how humans can form stereotypes. Each model was told it had been hired as a consultant by the mayor of a fictional city and was then asked to help hire people for 20 jobs, including doctors, lawyers, child-care aides, and janitors. Candidates came from four fictional ethnic groups: Tufa, Aima, Reku, and Weki.&nbsp; In each round, there was a new job opening and four candidates, one from each group. After the model hired a candidate, it learned whether they succeeded at their job and moved onto the next round. The model was told to make as many successful hires as possible over 40 rounds. Unbeknownst to the models, all candidates were equally likely to succeed at every job. The models quickly started segregating candidates from different groups into different jobs on the basis of early observations of hiring outcomes. For example, when a model was told an Aima had failed as a doctor, a job considered to require high levels of warmth and competence, it veered away from hiring all Aimas as doctors. Instead, it started hiring Aimas as janitors, which the model classified as being less warm and competent than doctors.&nbsp; The models were even more likely to stereotype people by demographic group than the human participants in the original study. On the study’s se
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 08:53]
+标题: 通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型
+链接: https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b
+正文: 通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。 🔗 阅读原文：https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg via AI HOT · https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 08:00]
+标题: 小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案
+链接: https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol
+正文: 小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。 🔗 阅读原文：https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg via AI HOT · https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 07:00]
+标题: 上海科学智能研究院开放科学多模态基础模型"神珍"
+链接: https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04
+正文: 上海科学智能研究院开放科学多模态基础模型"神珍"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。 🔗 阅读原文：https://www.ithome.com/0/979/017.htm via AI HOT · https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 03:54]
 标题: 面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型
@@ -36,32 +56,156 @@
 链接: https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo
 正文: 昆仑万维董事长方汉在WAIC上宣布2026年为"世界模型元年"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g via AI HOT · https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-19 08:10]
-标题: Qwen3.8 开源发布，2.4T 参数模型上线
-链接: https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6
-正文: Qwen3.8 即将发布，并将很快开源权重！🌐 该模型拥有高达 2.4T 的参数，正在持续进化中。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型相媲美，仅次于 Fable 5。 你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来成为首批体验者吧。 迫不及待想听听你用它能做出什么。敬请期待！🚀 Token Plan 国际站：https://www.qwencloud.com/pricing/token-plan 中国站：https://platform.qianwenai.com/pricing/token-plan —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-19 16:54]
 标题: Major car dealer cuts 40% of its locations, issues serious warning
 链接: https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:20]
+标题: Dollar drifts as US-Iran conflict intensifies; sterling edges higher
+链接: https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-us-iran-conflict-052226780.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:59]
+标题: Bonds unsettled as oil and gas climb, earnings loom for AI
+链接: https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:40]
+标题: United Imaging Intelligence not undertaking an "extreme" AI rollout, says co-CEO
+链接: https://finance.yahoo.com/technology/ai/articles/united-imaging-intelligence-not-undertaking-084015332.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:40]
+标题: United Imaging Intelligence not undertaking an "extreme" AI rollout, says co-CEO
+链接: https://finance.yahoo.com/technology/ai/articles/united-imaging-intelligence-not-undertaking-084015549.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-19 21:47]
+标题: Amazon closes another major facility, nearly 500 workers affected
+链接: https://finance.yahoo.com/small-business/articles/amazon-closes-another-major-facility-214700424.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:20]
+标题: China’s Fuel Oil Exports Hit 2026 High as Shipping Demand Rebounds
+链接: https://finance.yahoo.com/energy/articles/china-fuel-oil-exports-hit-082000623.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:15]
+标题: Could AI chip boom make ASML Europe's first trillion-dollar firm?
+链接: https://finance.yahoo.com/technology/ai/articles/could-ai-chip-boom-asml-081518524.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 08:03]
+标题: China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push
+链接: https://finance.yahoo.com/technology/ai/articles/chinas-moonshot-pauses-kimi-subscriptions-080317250.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 07:08]
+标题: KMPG Australia fines staff up to $126,000 for 'unacceptable' misconduct in audit scandal
+链接: https://finance.yahoo.com/markets/stocks/articles/kmpg-australia-fines-staff-126-070843337.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:34]
+标题: Germany’s Berentzen-Gruppe issues profit warning
+链接: https://finance.yahoo.com/economy/policy/articles/germany-berentzen-gruppe-issues-profit-093411579.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 07:01]
+标题: 'I couldn't breathe':South Korea's frenzied stock trading exposes margin loan risks
+链接: https://finance.yahoo.com/markets/stocks/articles/couldnt-breathe-south-koreas-frenzied-063925408.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 06:05]
+标题: Blackstone invests in South Korean robotics supplier Futronic
+链接: https://finance.yahoo.com/technology/articles/blackstone-invests-south-korean-robotics-060542801.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 05:47]
+标题: Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation
+链接: https://finance.yahoo.com/energy/articles/gulf-oil-exports-briefly-recovered-054737186.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 05:07]
+标题: Novartis faces drug pipeline test with valuation premium in focus
+链接: https://finance.yahoo.com/healthcare/articles/novartis-faces-drug-pipeline-test-050330233.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:30]
+标题: S&W adds two independent non-executive directors to board
+链接: https://finance.yahoo.com/small-business/articles/w-adds-two-independent-non-093022224.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 05:02]
+标题: Analysis-Could AI chip boom make ASML Europe's first trillion-dollar firm?
+链接: https://finance.yahoo.com/technology/ai/articles/analysis-could-ai-chip-boom-050243913.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 04:35]
+标题: South Korea's Kospi drops 4.5% as some AI stocks swoon, while oil keeps climbing
+链接: https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 04:05]
+标题: European chemical earnings to test demand recovery after conflict-led pricing boost
+链接: https://finance.yahoo.com/news/european-chemical-earnings-test-demand-040554293.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 03:30]
+标题: The MANIA Stocks Are Tanking. Here's How to Take Advantage of Semiconductor Volatility.
+链接: https://finance.yahoo.com/markets/stocks/articles/mania-stocks-tanking-heres-advantage-033002101.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:26]
+标题: Meta Platforms Looks Set to Abandon a $174 Billion Investment to Fuel Its AI Ambitions
+链接: https://finance.yahoo.com/technology/ai/articles/meta-platforms-looks-set-abandon-092600364.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 03:04]
+标题: Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-19 10:00]
 标题: Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:23]
+标题: India’s SEBI expands forensic auditor panel with 18 new companies
+链接: https://finance.yahoo.com/markets/stocks/articles/india-sebi-expands-forensic-auditor-092345585.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-19 10:00]
 标题: Mortgage and refinance interest rates today, Sunday, July 19, 2026: Rates moved higher last week as Iranian conflict escalated
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:23]
+标题: Nestlé to shut confectionery plant in Hungary
+链接: https://finance.yahoo.com/small-business/articles/nestl-shut-confectionery-plant-hungary-092308308.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:20]
+标题: US futures edge higher as Middle East tensions, oil prices and Big Tech earnings dominate markets: Dow Jones, S&P, Nasdaq, Wall Street
+链接: https://finance.yahoo.com/markets/stocks/articles/us-futures-edge-higher-middle-092004494.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:20]
+标题: President Trump Just Reimposed the Iran Blockade. Here's What That Means for Oil Stocks.
+链接: https://finance.yahoo.com/energy/articles/president-trump-just-reimposed-iran-092000551.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:19]
+标题: Burberry sales climb 5% in Q1 as US and China drive growth
+链接: https://finance.yahoo.com/markets/stocks/articles/burberry-sales-climb-5-q1-091938043.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:19]
+标题: 1 Quantum Computing Stock That Could Be the Next Palantir
+链接: https://finance.yahoo.com/technology/ai/articles/1-quantum-computing-stock-could-091900613.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:16]
+标题: Tata’s Westside plans up to 100 store openings a year – report
+链接: https://finance.yahoo.com/small-business/articles/tata-westside-plans-100-store-091653362.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:14]
+标题: Meta weighs up to $10bn AI compute deal with Anthropic
+链接: https://finance.yahoo.com/technology/ai/articles/meta-weighs-10bn-ai-compute-091430372.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:11]
+标题: ConocoPhillips to acquire 42% stake in bp’s Kirkuk venture
+链接: https://finance.yahoo.com/energy/articles/conocophillips-acquire-42-stake-bp-091144857.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 09:09]
+标题: Cross-border payments fail between institutions, not at the border
+链接: https://finance.yahoo.com/markets/currencies/articles/cross-border-payments-fail-between-090915085.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-20 08:43]
+标题: China's car market heads for worst year since 2021 as sales plunge 20%
+链接: https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html
+正文: Consumer demand for cars in China tumbles following record-high sales of 23.7 million units in 2025.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-19 12:42]
 标题: Kalshi adds 3 million new users as prediction market capitalizes on the World Cup
 链接: https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html
 正文: The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-20 06:07]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-20 09:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-20 06:07]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-20 09:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
