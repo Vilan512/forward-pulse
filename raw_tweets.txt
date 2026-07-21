@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-21 05:12:54
-# 共计 47 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-21 08:09:28
+# 共计 44 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-20 18:00]
 标题: China’s AI models have Trump’s AI world at war with itself
@@ -14,11 +14,21 @@
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-20 08:39]
 标题: AI is more likely than humans to form biases when hiring
 链接: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
-正文: The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from experience—and stereotype job applicants more than humans do. As AI companies race to build agentic models that remember the tiniest details about users, they may be handing them ammunition for forming those biases.&nbsp; Researchers at Princeton University and the University of Chicago ran LLMs, including ChatGPT, Claude, and Gemini, through a simulated hiring game, adapted from a psychology study that explored how humans can form stereotypes. Each model was told it had been hired as a consultant by the mayor of a fictional city and was then asked to help hire people for 20 jobs, including doctors, lawyers, child-care aides, and janitors. Candidates came from four fictional ethnic groups: Tufa, Aima, Reku, and Weki.&nbsp; In each round, there was a new job opening and four candidates, one from each group. After the model hired a candidate, it learned whether they succeeded at their job and moved onto the next round. The model was told to make as many successful hires as possible over 40 rounds. Unbeknownst to the models, all candidates were equally likely to succeed at every job. The models quickly started segregating candidates from different groups into different jobs on the basis of early observations of hiring outcomes. For example, when a model was told an Aima had failed as a doctor, a job considered to require high levels of warmth and competence, it veered away from hiring all Aimas as doctors. Instead, it started hiring Aimas as janitors, which the model classified as being less warm and competent than doctors.&nbsp; The models were even more likely to stereotype people by demographic group than the human participants in the original study. On the stud
+正文: The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from experience—and stereotype job applicants more than humans do. As AI companies race to build agentic models that remember the tiniest details about users, they may be handing them ammunition for forming those biases.&nbsp; Researchers at Princeton University and the University of Chicago ran LLMs, including ChatGPT, Claude, and Gemini, through a simulated hiring game, adapted from a psychology study that explored how humans can form stereotypes. Each model was told it had been hired as a consultant by the mayor of a fictional city and was then asked to help hire people for 20 jobs, including doctors, lawyers, child-care aides, and janitors. Candidates came from four fictional ethnic groups: Tufa, Aima, Reku, and Weki.&nbsp; In each round, there was a new job opening and four candidates, one from each group. After the model hired a candidate, it learned whether they succeeded at their job and moved onto the next round. The model was told to make as many successful hires as possible over 40 rounds. Unbeknownst to the models, all candidates were equally likely to succeed at every job. The models quickly started segregating candidates from different groups into different jobs on the basis of early observations of hiring outcomes. For example, when a model was told an Aima had failed as a doctor, a job considered to require high levels of warmth and competence, it veered away from hiring all Aimas as doctors. Instead, it started hiring Aimas as janitors, which the model classified as being less warm and competent than doctors. Newer models with higher reasoning capabilities, such as OpenAI’s o3 and DeepSeek’s R1, showed stronger biases. The models were even more likel
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-20 15:58]
 标题: Introducing Cosmos 3 Edge
 链接: https://huggingface.co/blog/nvidia/cosmos3edge
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 06:00]
+标题: 通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为"实"
+链接: https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu
+正文: QWEN CHAT 我们正式发布通义万相-图像生成3.0（Qwen-Image-3.0），这是通义万相系列第三代基础图像生成模型。如果说通义万相-图像生成1.0的关键词是"精准"，通义万相-图像生成2.0的关键词是"精准、多样、完整、美观、真实"，那么通义万相-图像生成3.0的核心可以归结为一个字——"实"。 这个"实"体现在三个维度： 内容丰富：支持高达4.5k模型token输入，轻松生成报纸、分镜脚本、试卷等复杂版式。 细节真实：支持精确渲染小至10像素的文字，生动再现毛孔、发丝等细节，呈现栩栩如生的微观级刻画。 知识深厚：原生支持12种语言渲染，模拟网页、游戏、直播等主流界面，并调用丰富的世界知识。 总之，通义万相-图像生成3.0追求的不仅是"好看"，更是"好用"，让图像生成成为真正可落地的生产力工具。 内容丰富# 先看下面这张由通义万相-图像生成3.0生成的图片： 可以看到，通义万相-图像生成3.0能够准确渲染一张数学幻灯片，包括空间关系、数学符号、定理描述等丰富的视觉内容。这些内容布局合理、相对位置恰当，信息量十足。 然而，这并非通义万相-图像生成3.0的真正实力。事实上，这只是其真实能力的"九分之一"，因为这张图片实际上只是通义万相-图像生成3.0生成的一个复杂3×3网格中的一格。我们来看原始图片： 没错——整张上图是由通义万相-图像生成3.0一次性生成的，而非多张图片拼接而成。这张图片的难点在于，每个格子都是一张复杂的信息图；要精确描述整个3×3网格，需要整整3.7k模型token。 这 3.7k 个模型 token 必须完整描绘一幅隧道安全漫画、一堂空间几何课、一篇《出师表》的风格分析、物理抛体运动、生物学寄生虫学讲解、一张右侧胸痛的医学示意图、群论的西罗定理、银行内控管理信息图，以及细胞 DNA 结构对比——每个单元格都包含精确的中英文文本、公式、图表、卡通角色等内容。 然而，这对 Qwen-Image-3.0 来说依然毫不费力——因为 Qwen-Image-3.0 将可接受的指令长度提升到了 4.5k 个模型 token，这意味着该模型能够理解并渲染极其复杂、信息密集的视觉布局。 这是我们提到的“丰富内容”的一个重要特征：内容可以横向扩展。横向扩展体现了模型在语义并置和空间控制方面的能力——即在单张图像中有序地排布多个概念，并使其互不干扰地呈现出来。 除了横向扩展，深度是“丰富内容”的另一个重要特征。 横向扩展考验的是“单张画布上能放置多少个并行元素”，而深度则考验模型的语义解构与逻辑嵌套能力——即能否在单张图像中逐层渲染多个嵌套界面。下面的示例通过一条指令，从外到内依次展示了：VSCode 编程界面 → Qwen Chat 界面 → 微信界面 → 一张手冲咖啡海报。每一层都保留了各自界面的真实风格与细节，形成了“画中画中画”的视觉深度。 以上两个示例分别从横向和纵向维度说明了“丰富内容”的含义。 真实细节# 如果说“丰富内容”解决的是“画多少”的问题，那么“真实细节”解决的则是“画多细”的问题。Qwen-Image-3.0 在微观细节的渲染精度上达到了新高度：10 像素的小字清晰可辨，毛孔和发丝被精细呈现，皮肤质感接近照片级真实感。我们先从精确渲染小字说起。 下图是一张关于鲸鲨的知识信息图，包含大量文字和插图。Qwen-Image-3.0 能够精确渲染每一个区域。 学术论文是对小字渲染的终极考验——密集的 LaTeX 公式、上下标、希腊字母和定理编号，任何一个符号都不能出错。 该模型渲染了一整页代数几何领域的学术论文，包含多行复杂公式推导。上标、下标、花括号、分数线以及多行对齐等 LaTeX 排版元素均被准确呈现，即使在小字号下也保持了极佳的可读性。 Qwen-Image-3.0 还能在逼真的纸张上生成精细文字。下例是 Qwen-Image-3.0 生成的一份报纸，模型不仅准确生成了密集的文字，还模拟了报纸的真实外观。 在编辑任务中，我们同样可以生成精细文字。例如，在下述案例中，模型生成了具有真实风格的批注。 模型在书页上叠加了逼真的红色手写批注——下划线、波浪线、圆圈、箭头和简短评语——笔迹自然流畅，完美模拟了高中课堂笔记的风格。 除了文字和版面的精细还原，“真实细节”在纹理描绘方面同样表现出色。以下是两幅人像摄影示例，模型捕捉到了极为细腻的质感。 除了人像，模型还能描绘其他物体的细腻纹理。 在编辑任务中，我们同样可以生成细节丰富的图像。 面对受损或不完整的传统绘画，该模型能够修复缺失部分，同时忠实保留原有的艺术风格与笔触。 模型完成了这幅鹰战图的修复，笔触与原作保持一致，保留了水墨渐变、羽毛纹理和构图平衡，同时去除了霉斑和破损痕迹。 深度知识# “丰富内容”回答的是“能画得多复杂”，“真实细节”回答的
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 05:54]
+标题: 五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元
+链接: https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr
+正文: 日经研究显示，Meta、Oracle等五家美国科技巨头的隐性债务在约四年内膨胀八倍，达到约1.65万亿美元，超过其实际债务。这些债务主要来自数据中心租赁和GPU供应合同，其中Meta的表外债务约4200亿美元，是其透明债务的近三倍。隐性债务的激增使投资者更难评估风险。 🔗 阅读原文：https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding via AI HOT · https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 03:33]
 标题: 腾讯混元推出Hyra-1.0递归自我改进研究智能体
@@ -95,39 +105,21 @@
 链接: https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b
 正文: 通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。 🔗 阅读原文：https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg via AI HOT · https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 08:00]
-标题: 小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案
-链接: https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol
-正文: 小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。 🔗 阅读原文：https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg via AI HOT · https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 07:00]
-标题: 上海科学智能研究院开放科学多模态基础模型"神珍"
-链接: https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04
-正文: 上海科学智能研究院开放科学多模态基础模型"神珍"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。 🔗 阅读原文：https://www.ithome.com/0/979/017.htm via AI HOT · https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 18:17]
-标题: Jim Cramer says it may be time to trim comeback stock after 441% surge
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-may-time-181700105.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 21:03]
-标题: Jensen Huang's staggering $4 trillion bet shifts Nvidia
-链接: https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 10:00]
-标题: Best high-yield savings interest rates today, Monday, July 20, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-20-2026-earn-up-to-410-apy-100000162.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 10:00]
 标题: Mortgage and refinance rates today, Monday, July 20, 2026: Purchase rates move higher than refi rates
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-20-2026-purchase-rates-move-higher-than-refi-rates-100000822.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 18:33]
-标题: Netflix quietly reveals what AI did to 300 of its programs
-链接: https://finance.yahoo.com/technology/ai/articles/netflix-quietly-reveals-ai-did-183300497.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 10:00]
 标题: HELOC and home equity loan rates today, Monday, July 20, 2026: Rates are incredibly close
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-20-2026-rates-are-incredibly-close-100000883.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 16:52]
+标题: Analyst Report: JB Hunt Transport Services Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1784566355000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 10:00]
+标题: Best high-yield savings interest rates today, Monday, July 20, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-20-2026-earn-up-to-410-apy-100000162.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 10:00]
 标题: Best CD rates today, Monday, July 20, 2026: Lock in up to 4.20% APY
@@ -141,33 +133,29 @@
 标题: Silver prices today, Monday, July 20, 2026: Silver ticks up after violent weekend in Middle East
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-20-2026-silver-ticks-up-after-violent-weekend-in-middle-east-152445143.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 19:13]
-标题: Domino's value deals reveal shift in pizza lovers behavior
-链接: https://finance.yahoo.com/markets/stocks/articles/dominos-value-deals-reveal-shift-191300450.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 16:37]
+标题: Market Update: JBHT
+链接: https://finance.yahoo.com/research/reports/ARGUS_47671_MarketUpdate_1784565455000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 15:29]
 标题: Gold prices today, Monday, July 20, 2026: Gold holds above $4,000 despite continued violence in the Middle East
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-20-2026-gold-holds-above-4000-despite-continued-violence-in-the-middle-east-152926843.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 16:52]
-标题: Analyst Report: JB Hunt Transport Services Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1784566355000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 16:51]
 标题: How to file a renters insurance claim — and what to do if a claim is denied
 链接: https://finance.yahoo.com/personal-finance/insurance/article/how-to-file-a-renters-insurance-claim-165131785.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 11:50]
+标题: Weekly Stock List
+链接: https://finance.yahoo.com/research/reports/ARGUS_47669_StockPicks_1784548244000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 19:34]
 标题: When to buy travel insurance (and when it's too late)
 链接: https://finance.yahoo.com/personal-finance/insurance/article/when-to-buy-travel-insurance-193412516.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 16:37]
-标题: Market Update: JBHT
-链接: https://finance.yahoo.com/research/reports/ARGUS_47671_MarketUpdate_1784565455000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 11:50]
-标题: Weekly Stock List
-链接: https://finance.yahoo.com/research/reports/ARGUS_47669_StockPicks_1784548244000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 21:43]
+标题: Average retirement savings by state: Where are Americans saving the most — and least?
+链接: https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 11:31]
 标题: Daily Spotlight: Three Signals from Dividend Growth
@@ -207,10 +195,10 @@
 链接: https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html
 正文: Consumer demand for cars in China tumbles following record-high sales of 23.7 million units in 2025.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-21 05:12]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-21 08:09]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-21 05:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-21 08:09]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
