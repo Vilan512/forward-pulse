@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-21 18:10:47
-# 共计 71 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-21 20:14:39
+# 共计 53 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-21 12:10]
 标题: The Download: Chinese AI divides the White House, and a record copyright payout
@@ -11,9 +11,23 @@
 链接: https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
 正文: The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability. Every increase in computing performance increases the physical demands placed on the systems that make and run AI. Delivering these gains depends not only on advances in chip design and system architecture, but on advances in the materials that enable them to perform under extreme conditions. As AI continues to push the physical limits of semiconductors and data center infrastructure, advanced materials are no longer simply supporting innovation in this area; they are defining the limits of what is possible. Performance first Advanced materials exist to solve performance challenges. As AI raises the bar, these challenges are becoming more demanding. Manufacturing a semiconductor chip today requires thousands of tightly controlled process steps, with almost no room for error. Tiny variations in temperature or chemical instability can create defects that reduce yield and drive up manufacturing costs. With every new generation of semiconductor chips, manufacturers seek advanced materials that can deliver greater purity, higher chemical and plasma resistance, and better stability under increasingly harsh operating conditions. These are familiar engineering challenges being pushed to new extremes. And it’s here that materials innovation makes the difference with continuous advances in polymers, elastomers, specialty fluids, and other advanced materials that make each new generation of technology possible. For materials companies, it’s not about reinventing semiconductor manufacturing but about ensuring the materials supporting the industry continue to evolve alongside it. 
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-21 20:00]
+标题: The State of Simulation for Physical AI: An Overview
+链接: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-21 00:00]
 标题: Grabette: an open system to record robot-manipulation data
 链接: https://huggingface.co/blog/grabette
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 19:39]
+标题: OpenAI 在 ChatGPT 中正式推出广告服务
+链接: https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2
+正文: OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。 🔗 阅读原文：https://ads.openai.com/ via AI HOT · https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 18:05]
+标题: OpenAI 发布奖励寻求行为新研究
+链接: https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l
+正文: 我们正在与 @apolloaievals 分享关于奖励追逐行为的新研究——即模型遵循其认为评分者所奖励的内容，而非用户或开发者真正想要的内容——以及一种新方法 Contrastive SDF，用于衡量这些信念在多大程度上塑造了模型的行为。 https://alignment.openai.com/measuring-reward-seeking/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 17:54]
 标题: Anthropic 如何保障AI原生软件开发生命周期的安全
@@ -115,122 +129,33 @@
 链接: https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio
 正文: OpenRouter 通过 Prompt Caching 与 Sticky Routing 降低多轮 Agent 的 token 成本。缓存读取价格仅为正常输入的 0.1x-0.5x，其中 Claude Sonnet 4.6 缓存读取为 $0.30/M（正常 $3.00/M）。 🔗 阅读原文：https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing via AI HOT · https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-20 18:28]
-标题: ArXiv上超30%新投稿文本特征与AI撰写一致
-链接: https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n
-正文: 一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。 🔗 阅读原文：https://unslop.run/blog/measuring-ai-writing-on-arxiv via AI HOT · https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 02:17]
 标题: Spain just opened a door America slammed shut
 链接: https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 08:46]
-标题: Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:22]
+标题: Analyst Report: General Electric Co
+链接: https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:27]
-标题: Stock Market Today: Nasdaq Pops As Alphabet Earnings Loom; Nvidia Partner Soars (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gm-stock-marvell-micron-sandisk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:21]
-标题: Are Chinese Planes Ready to Challenge Boeing, Airbus Duopoly and Their Suppliers in Commercial Aviation?
-链接: https://finance.yahoo.com/markets/stocks/articles/chinese-planes-ready-challenge-boeing-172102880.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 13:15]
-标题: 3M stock jumps on raised outlook as company's turnaround gains traction
-链接: https://finance.yahoo.com/markets/article/3m-stock-jumps-on-raised-outlook-as-companys-turnaround-gains-traction-131529020.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:22]
+标题: Analyst Report: Regions Financial Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:07]
 标题: Market Update: DPZ, GE, ISRG, RF
 链接: https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:41]
-标题: Cracker Barrel sells Maple Street Biscuit, raises fiscal 2026 outlook
-链接: https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-sells-maple-street-174140512.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:00]
-标题: Monolithic Power Systems (MPWR) vs. TXN and ADI: Are Investors Paying Too Much for AI Power Growth?
-链接: https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-mpwr-vs-170019451.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:37]
-标题: Michael Burry says 95% of investors don't know what they own — and they like it that way. Is that such a bad thing?
-链接: https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-95-investors-163753432.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:36]
-标题: TikTok US chief security officer to testify before US House on September 15
-链接: https://finance.yahoo.com/news/tiktok-us-chief-security-officer-163435488.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:35]
-标题: Mark Cuban reveals the move he says can spread wealth faster
-链接: https://finance.yahoo.com/personal-finance/banking/article/mark-cuban-reveals-the-move-he-says-can-spread-wealth-faster-163545106.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
+标题: Daily – Vickers Top Buyers & Sellers for 07/21/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
 标题: Daily – Vickers Top Insider Picks for 07/21/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47682_InsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:35]
-标题: Goldman Sachs Says Oil Could Surpass $120 a Barrel if Hormuz Disruptions Don't Ease. Here's What That Means for Oil Stocks.
-链接: https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-173501165.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:31]
-标题: Is Alibaba the Best Chinese AI Play After Apple’s Endorsement?
-链接: https://finance.yahoo.com/technology/ai/articles/alibaba-best-chinese-ai-play-163106852.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:24]
-标题: Insurance Company Joins The AI Train. Shares Near A Buy Point.
-链接: https://www.investors.com/research/insurance-company-skyward-specialty-stock-skwd/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:21]
-标题: Straight Out Of A Soap Opera: Biotech Exec Arrested After 21 Years On The Run
-链接: https://www.investors.com/news/technology/richard-graydon-ronald-fischer-rhode-island-most-wanted-fugitive/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:20]
-标题: Jamie Dimon says market risks are 'bigger than other people think' – and he's not buying stocks right now
-链接: https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-says-market-risks-162000170.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
-标题: Daily – Vickers Top Buyers & Sellers for 07/21/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:35]
-标题: Should You Buy Sandisk Stock Before Aug. 5? (Hint: It Soared After the Past 2 Earnings Reports)
-链接: https://finance.yahoo.com/markets/stocks/articles/buy-sandisk-stock-aug-5-173500200.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:16]
-标题: Big jump in benchmark diesel price is 2nd largest since war began
-链接: https://finance.yahoo.com/energy/articles/big-jump-benchmark-diesel-price-161648094.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:59]
-标题: How to work with a credit card debt collector
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-work-with-a-credit-card-debt-collector-155904826.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:36]
-标题: Gold prices today, Tuesday, July 21, 2026: Gold hovers above $4,000 ahead of next week’s Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-21-2026-gold-hovers-above-4000-ahead-of-next-weeks-fed-meeting-153613363.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
-标题: Daily Spotlight: Financially Healthy, Wealthy, and Wise
-链接: https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:34]
-标题: Is It Better to Play the Historic Gold Rally With a Physical Gold or Mining Stock ETF in 2026?
-链接: https://finance.yahoo.com/markets/commodities/articles/better-play-historic-gold-rally-173401464.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:33]
-标题: Silver prices today, Tuesday, July 21, 2026: Silver ticks up near $60 in early trading
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-21-2026-silver-ticks-up-near-60-in-early-trading-153300173.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:23]
-标题: Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47677_TechnicalAnalysis_1784633166000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:33]
-标题: Popular Walmart bakery item recalled over possible glass contamination
-链接: https://finance.yahoo.com/healthcare/articles/popular-walmart-bakery-item-recalled-173300565.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 21:43]
+标题: Average retirement savings by state: Where are Americans saving the most — and least?
+链接: https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:00]
 标题: Mortgage and refinance interest rates today, Tuesday, July 21, 2026: Inching lower
@@ -240,43 +165,48 @@
 标题: Best CD rates today, Tuesday, July 21, 2026: Lock in up to 4.20% APY today
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-21-2026-lock-in-up-to-420-apy-today-100000330.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
+标题: Daily Spotlight: Financially Healthy, Wealthy, and Wise
+链接: https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:23]
+标题: Bitcoin and ethereum prices today, Tuesday, July 21, 2026: Crypto prices rise as investors’ risk appetite returns
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:33]
+标题: Silver prices today, Tuesday, July 21, 2026: Silver ticks up near $60 in early trading
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-21-2026-silver-ticks-up-near-60-in-early-trading-153300173.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47677_TechnicalAnalysis_1784633166000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:36]
+标题: Gold prices today, Tuesday, July 21, 2026: Gold hovers above $4,000 ahead of next week’s Fed meeting
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-21-2026-gold-hovers-above-4000-ahead-of-next-weeks-fed-meeting-153613363.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 16:35]
+标题: Mark Cuban reveals the move he says can spread wealth faster
+链接: https://finance.yahoo.com/personal-finance/banking/article/mark-cuban-reveals-the-move-he-says-can-spread-wealth-faster-163545106.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:57]
+标题: Canadian wildfires are causing smoke exposure. How to protect your home and car.
+链接: https://finance.yahoo.com/personal-finance/insurance/article/canadian-wildfires-are-causing-smoke-exposure-how-to-protect-your-home-and-car-175733238.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:52]
 标题: Analyst Report: Truist Financial Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3641_AnalystReport_1784631143000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:27]
-标题: Sandisk vs. Seagate Technology: What Do Their Revenue Trends Tell Investors About Their Roles in the Artificial Intelligence Ecosystem?
-链接: https://finance.yahoo.com/technology/ai/articles/sandisk-vs-seagate-technology-revenue-172701098.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 15:59]
+标题: How to work with a credit card debt collector
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-work-with-a-credit-card-debt-collector-155904826.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 19:34]
-标题: When to buy travel insurance (and when it's too late)
-链接: https://finance.yahoo.com/personal-finance/insurance/article/when-to-buy-travel-insurance-193412516.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 19:41]
+标题: Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe
+链接: https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html
+正文: Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-20 21:43]
-标题: Average retirement savings by state: Where are Americans saving the most — and least?
-链接: https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:52]
-标题: Analyst Report: Palo Alto Networks Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3643_AnalystReport_1784631143000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:23]
-标题: Why Sandisk Stock Is Still Going Up
-链接: https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-still-going-172340455.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:37]
-标题: Market Digest: TFC, PANW, VGNT
-链接: https://finance.yahoo.com/research/reports/ARGUS_47675_MarketSummary_1784630243000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:20]
-标题: Palantir Stock Is Down More Than 35% from Its Peak. Is It Finally a Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/palantir-stock-down-more-35-172000141.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:17]
-标题: XXI stock plunges 18% after CEO's abrupt exit
-链接: https://finance.yahoo.com/markets/crypto/articles/xxi-stock-plunges-18-ceos-171704655.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 15:35]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 20:01]
 标题: Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive
 链接: https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html
 正文: About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.
@@ -296,20 +226,20 @@
 链接: https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html
 正文: Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-20 18:14]
-标题: Capital One bet big on Discover. Now it must prove the gamble was worth it
-链接: https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html
-正文: Tuesday evening's second-quarter earnings report is the perfect stage to do just that.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-21 00:00]
+标题: CBAM: How companies can build from compliance to value creation
+链接: https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation
+正文: Verified emissions are a decarbonization tool and compliance requirement, but also a means to improve cost control and forecasting. A suite of targeted actions can help EU importers mitigate risk.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-21 00:00]
 标题: The second look: An adaptive approach to reunderwriting
 链接: https://www.mckinsey.com/industries/private-capital/our-insights/the-second-look-an-adaptive-approach-to-reunderwriting
 正文: The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity stories to realize higher returns.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-21 18:10]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-21 20:14]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-21 18:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-21 20:14]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
