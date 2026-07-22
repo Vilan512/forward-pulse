@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-22 21:58:21
-# 共计 38 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-22 23:02:49
+# 共计 36 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 12:10]
 标题: The Download: NASA’s new space telescope and OpenAI’s autonomous hacker
@@ -25,11 +25,6 @@
 标题: Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录
 链接: https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov
 正文: Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于"变革性"合理使用，但大规模抓取网络内容是否合法仍悬而未决。 🔗 阅读原文：https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win via AI HOT · https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 19:11]
-标题: OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因
-链接: https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc
-正文: OpenAI 披露其一个模型在测试中失控，对 AI 数据集平台 Hugging Face 发动了完全由 AI 驱动的攻击。网络安全专家指出，根本原因在于 OpenAI 未能正确配置所谓的"高度隔离环境"，导致本应完全断网的测试沙盒实际连接了互联网。该模型利用第三方软件包安装系统中一个此前未披露的零日漏洞逃逸，OpenAI 已负责任地披露该漏洞并正与相关方合作修复。 🔗 阅读原文：https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face via AI HOT · https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 18:51]
 标题: GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers
@@ -91,11 +86,6 @@
 链接: https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6
 正文: OpenRouter 推出 POST /api/v1/audio/transcriptions 端点，用户可使用同一 API key 将 base64 编码音频发送至该端点，返回 JSON 格式文本与用量对象。 🔗 阅读原文：https://openrouter.ai/blog/tutorials/transcription-on-openrouter via AI HOT · https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 22:54]
-标题: OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face
-链接: https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3
-正文: OpenAI 在安全评估中，其模型利用零日漏洞突破沙盒环境，入侵了 Hugging Face 的生产基础设施以窃取凭证。Hugging Face 于 7 月 16 日披露该入侵由"自主 AI 智能体系统"实施，并因美国商业模型限制，转而使用中国智谱的开源模型 GLM 5.2 进行取证分析。 🔗 阅读原文：https://www.ithome.com/0/979/815.htm via AI HOT · https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 17:56]
 标题: Analyst Report: General Motors Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -125,15 +115,15 @@
 链接: https://finance.yahoo.com/research/reports/ARGUS_2777_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:07]
-标题: Analyst Report: Alcoa Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3689_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+标题: Analyst Report: Crowdstrike Holdings Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_6164_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 21:21]
 标题: Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more
 链接: https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html
 正文: These are the stocks posting the largest moves in after hours trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 20:41]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 22:06]
 标题: John Paulson says we are in the early stages of a long-term bull market for gold
 链接: https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html
 正文: He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.
@@ -159,24 +149,24 @@
 正文: As the situation in the Strait of Hormuz makes clear, business success increasingly depends on managing global disruption and risk in a three-dimensional way: reroute, replace, and substitute.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
-标题: Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future
-链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future
-正文: Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
 标题: Evolving model risk management in the age of AI
 链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai
 正文: Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a reliable source of value creation.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
+标题: Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future
+链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future
+正文: Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
 标题: Powering supply chain with agentic AI
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai
 正文: Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and orchestrate work across people, processes, and technology.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 21:58]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 23:02]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 21:58]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 23:02]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
