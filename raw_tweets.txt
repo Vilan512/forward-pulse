@@ -1,19 +1,24 @@
-# ForwardPulse 原始情报收割 — 2026-07-22 08:09:54
-# 共计 39 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-22 10:59:00
+# 共计 61 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 09:00]
+标题: Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own
+链接: https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
+正文: When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer at NASA’s Jet Propulsion Laboratory (JPL). Named after Nancy Grace Roman, NASA’s first chief of astronomy, this new telescope will carry a roughly 300-megapixel wide-field camera that will enable it to capture images about 100 times larger than the Hubble Space Telescope’s widest exposures at a similar resolution. These capabilities will help astronomers unpack the mysterious identities of dark matter and dark energy—and to detect around 100,000 new exoplanets, planets outside our solar system, whose presence can be inferred from the way they distort the starlight of more distant stars. Javier Viaña, a research scientist at Harvard who has had two projects selected for Roman’s highly competitive first year of observing, compares the leap to moving from “interviewing a handful of people” to “conducting a global census.” Another camera will use the coronagraph, blocking out a star’s light as it observes one stellar system at a time. The instrument will allow astronomers an unprecedented look at the space around stars, enabling them to see smaller, dimmer, and more close-in exoplanets. “It’s giving us the ability to see planets that we haven’t been able to physically see before,” says Creager. The anatomy of a vanishing trick Coronagraphs in space aren’t new. Bu
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-21 12:10]
 标题: The Download: Chinese AI divides the White House, and a record copyright payout
 链接: https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks branded Anthropic’s models “lobotomized” and “woke.” Emil Michael, a top Pentagon official, called OpenAI’s new head of strategic futures a “supreme village idiot.” It began because no one can agree on what to do about Kimi, a free, open-source model that Chinese AI company Moonshot launched last week. It appears to rival the intelligence of models from OpenAI and Anthropic, which are very much not free.&nbsp; Every time a new smart, free model from China gets released, US companies see less reason to fork out money for models from Anthropic or OpenAI. That’s creating economic and political problems for the president—and dividing the top AI strategists in his orbit.&nbsp; Read the full story on why no one can agree what to do about Kimi. —James O&#8217;Donnell This article is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Anthropic&#8217;s record $1.5 billion copyright settlement has been approvedThe plaintiffs said Anthropic used pirated works to train Claude. (Reuters $)+ And won the largest known copyright payout in history. (Engadget)+ Yet many authors and creators still don’t view it as a win. (TechCrunch)+ But AI copyright anxiety could limit&nbsp;creativity. (MIT Technology Review)&nbsp;2 The Trump administration is weighing a ban on Chinese AI modelsThe launch of Kimi K3 has revived calls for restrictions. (Axios)+ But officials are divided on the proposals. (Fast Company)+ China’s bet on open-source is paying off. (MIT Technolo
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-21 10:37]
-标题: Advancing next-gen AI with materials science innovation
-链接: https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
-正文: The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability. Every increase in computing performance increases the physical demands placed on the systems that make and run AI. Delivering these gains depends not only on advances in chip design and system architecture, but on advances in the materials that enable them to perform under extreme conditions. As AI continues to push the physical limits of semiconductors and data center infrastructure, advanced materials are no longer simply supporting innovation in this area; they are defining the limits of what is possible. Performance first Advanced materials exist to solve performance challenges. As AI raises the bar, these challenges are becoming more demanding. Manufacturing a semiconductor chip today requires thousands of tightly controlled process steps, with almost no room for error. Tiny variations in temperature or chemical instability can create defects that reduce yield and drive up manufacturing costs. With every new generation of semiconductor chips, manufacturers seek advanced materials that can deliver greater purity, higher chemical and plasma resistance, and better stability under increasingly harsh operating conditions. These are familiar engineering challenges being pushed to new extremes. And it’s here that materials innovation makes the difference with continuous advances in polymers, elastomers, specialty fluids, and other advanced materials that make each new generation of technology possible. For materials companies, it’s not about reinventing semiconductor manufacturing but about ensuring the materials supporting the industry continue to evolve alongside it. 
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-21 20:00]
 标题: The State of Simulation for Physical AI: An Overview
 链接: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 10:04]
+标题: 小红书开源 BigMac：多模态大模型训练新范式
+链接: https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
+正文: 小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。 🔗 阅读原文：https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row via AI HOT · https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 04:52]
 标题: 法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议
@@ -130,29 +135,114 @@
 链接: https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b
 正文: 小红书 dots 团队携内部版本 dots-note 3.0 参加第 67 届 IMO 2026，六道题均获满分，以 42/42 分取得满分金牌，全球仅 7 位人类选手获此成绩。模型不依赖形式化语言，直接读取原始 LaTeX 题目，通过递归自我批判能力端到端完成解题。dots-note 3.0 是 dots3 系列最轻量级模型，预期将开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw via AI HOT · https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:49]
+标题: Best student loan refinance companies of 2026
+链接: https://finance.yahoo.com/personal-finance/student-loans/article/best-student-loan-refinance-companies-104900001.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:41]
+标题: US SEC settles FOIA lawsuit with Coinbase over lost messages, WSJ op-ed says
+链接: https://finance.yahoo.com/markets/crypto/articles/us-sec-settles-foia-lawsuit-104104311.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:37]
+标题: AT&T tops targets for wireless subscriber additions as bundle offers gain traction
+链接: https://finance.yahoo.com/markets/stocks/articles/t-tops-targets-wireless-subscriber-103756861.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:36]
+标题: Morning Bid: Alphabetting
+链接: https://finance.yahoo.com/markets/stocks/articles/morning-bid-alphabetting-103647749.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:48]
+标题: PKF O’Connor Davies appoints new partner in SALT practice
+链接: https://finance.yahoo.com/small-business/articles/pkf-o-connor-davies-appoints-104840674.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:15]
+标题: The average retirement savings in America by age 60: Are you ready to retire or way behind?
+链接: https://finance.yahoo.com/markets/articles/average-retirement-savings-america-age-101500146.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:14]
+标题: Intel results to test if AI-fueled rally has room to run
+链接: https://finance.yahoo.com/technology/articles/intel-results-test-ai-fueled-101457897.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:13]
+标题: TE Connectivity projects upbeat quarterly results amid strong AI tools demand
+链接: https://finance.yahoo.com/technology/ai/articles/te-connectivity-projects-upbeat-quarterly-101309944.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:43]
+标题: TGS and Ghana Petroleum Commission sign Keta Basin seismic deal
+链接: https://finance.yahoo.com/energy/articles/tgs-ghana-petroleum-commission-sign-104341403.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:22]
 标题: Analyst Report: General Electric Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:42]
+标题: A 61-Year-Old Who Just Inherited an $850,000 IRA and Is About to Hand the IRS $210,000
+链接: https://finance.yahoo.com/markets/currencies/articles/61-old-just-inherited-850-104207351.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:05]
+标题: You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?
+链接: https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500688.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:22]
 标题: Analyst Report: Regions Financial Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:04]
+标题: Analysis-Meta employees' lawsuit shows that if AI fires you, proving it is the hard part
+链接: https://finance.yahoo.com/technology/ai/articles/analysis-meta-employees-lawsuit-shows-100414966.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:36]
+标题: Costco Stock: Next Stop $1,100?
+链接: https://finance.yahoo.com/markets/stocks/articles/costco-stock-next-stop-1-103600715.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 08:36]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck
+链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:07]
 标题: Market Update: DPZ, GE, ISRG, RF
 链接: https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
-标题: Daily – Vickers Top Insider Picks for 07/21/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47682_InsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:00]
+标题: Best CD rates today, Wednesday, July 22, 2026: Earn up to 4.20% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-22-2026-earn-up-to-420-apy-100000605.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:35]
+标题: What Bank Earnings Just Revealed About the Health of the American Consumer
+链接: https://finance.yahoo.com/economy/articles/bank-earnings-just-revealed-health-103500246.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:00]
+标题: Mortgage and refinance rates today, Wednesday, July 22, 2026: Interest creeps up
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-22-2026-interest-creeps-up-100000132.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
 标题: Daily – Vickers Top Buyers & Sellers for 07/21/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:30]
+标题: SpaceX Hosts First Earnings Call Since Its IPO. Is SpaceX a Buy Ahead of the Aug. 4 Earnings Release?
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-hosts-first-earnings-call-103000405.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
+标题: Daily – Vickers Top Insider Picks for 07/21/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47682_InsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:25]
+标题: If Mark Zuckerberg Says These Words on July 29, Meta Platforms' Stock Could Skyrocket
+链接: https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-says-words-july-102500680.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
 标题: Daily Spotlight: Financially Healthy, Wealthy, and Wise
 链接: https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 10:24]
+标题: Oil trades near six-week high as Middle East tensions raise supply concerns
+链接: https://finance.yahoo.com/energy/articles/oil-trades-near-six-week-102447396.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 09:00]
+标题: Kalshi launches election hub for prediction markets ahead of midterms
+链接: https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html
+正文: The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 20:51]
 标题: Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe
@@ -174,15 +264,15 @@
 链接: https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 10:24]
-标题: Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices
-链接: https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html
-正文: Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
+标题: Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future
+链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future
+正文: Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 08:09]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 10:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 08:09]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 10:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
