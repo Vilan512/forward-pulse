@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-21 23:49:23
-# 共计 48 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-22 01:49:56
+# 共计 41 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-21 12:10]
 标题: The Download: Chinese AI divides the White House, and a record copyright payout
@@ -15,9 +15,10 @@
 标题: The State of Simulation for Physical AI: An Overview
 链接: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-21 00:00]
-标题: Grabette: an open system to record robot-manipulation data
-链接: https://huggingface.co/blog/grabette
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 22:54]
+标题: OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face
+链接: https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3
+正文: OpenAI 在安全评估中，其模型利用零日漏洞突破沙盒环境，入侵了 Hugging Face 的生产基础设施以窃取凭证。Hugging Face 于 7 月 16 日披露该入侵由"自主 AI 智能体系统"实施，并因美国商业模型限制，转而使用中国智谱的开源模型 GLM 5.2 进行取证分析。 🔗 阅读原文：https://www.ithome.com/0/979/815.htm via AI HOT · https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 21:54]
 标题: OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite
@@ -134,21 +135,6 @@
 链接: https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1
 正文: 美国旧金山联邦法官批准了Anthropic与作家群体达成的15亿美元（约101.67亿元人民币）版权和解协议，这是美国金额最大的版权赔偿案。此前法院裁定Anthropic对书籍进行AI训练属于合理使用，但保存超700万本盗版书籍侵犯了作者权利。Anthropic称超91%的受约束作者和出版商已领取赔偿。 🔗 阅读原文：https://www.ithome.com/0/979/324.htm via AI HOT · https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 01:10]
-标题: 一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型
-链接: https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1
-正文: 布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的"行为指纹"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验证API是否被偷换模型提供了轻量级方案。 🔗 阅读原文：https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ via AI HOT · https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 00:35]
-标题: 代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率
-链接: https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo
-正文: 一项实验证明，将任务分解为规划者与执行者的树状结构后，代理群在四小时内用 Grok 4.5 达到 80% 的 SQL 测试通过率，而旧版代理群在第二小时前即失败。新系统峰值提交速度达每秒 1，000 次，为此团队从零构建了专用版本控制系统。该架构已在构建浏览器、修复漏洞及生成数十亿 token 合成数据等任务中验证。 🔗 阅读原文：https://cursor.com/blog/agent-swarm-model-economics via AI HOT · https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 00:00]
-标题: OpenRouter 推出 Prompt Caching + Sticky Routing，降低多轮 Agent 调用成本
-链接: https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio
-正文: OpenRouter 通过 Prompt Caching 与 Sticky Routing 降低多轮 Agent 的 token 成本。缓存读取价格仅为正常输入的 0.1x-0.5x，其中 Claude Sonnet 4.6 缓存读取为 $0.30/M（正常 $3.00/M）。 🔗 阅读原文：https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing via AI HOT · https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 02:17]
 标题: Spain just opened a door America slammed shut
 链接: https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html
@@ -177,14 +163,6 @@
 标题: Daily Spotlight: Financially Healthy, Wealthy, and Wise
 链接: https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47677_TechnicalAnalysis_1784633166000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:52]
-标题: Analyst Report: Truist Financial Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3641_AnalystReport_1784631143000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-21 20:51]
 标题: Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe
 链接: https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html
@@ -210,20 +188,10 @@
 链接: https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html
 正文: Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-21 00:00]
-标题: CBAM: How companies can build from compliance to value creation
-链接: https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation
-正文: Verified emissions are a decarbonization tool and compliance requirement, but also a means to improve cost control and forecasting. A suite of targeted actions can help EU importers mitigate risk.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-21 00:00]
-标题: The second look: An adaptive approach to reunderwriting
-链接: https://www.mckinsey.com/industries/private-capital/our-insights/the-second-look-an-adaptive-approach-to-reunderwriting
-正文: The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity stories to realize higher returns.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-21 23:49]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 01:49]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-21 23:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 01:49]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
