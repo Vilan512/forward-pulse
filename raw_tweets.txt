@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-22 01:49:56
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-22 05:11:30
+# 共计 42 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-21 12:10]
 标题: The Download: Chinese AI divides the White House, and a record copyright payout
@@ -14,6 +14,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-21 20:00]
 标题: The State of Simulation for Physical AI: An Overview
 链接: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 04:21]
+标题: 腾讯设计Agent平台Miora全面开放
+链接: https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
+正文: 腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ via AI HOT · https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 22:54]
 标题: OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face
@@ -90,6 +95,11 @@
 链接: https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl
 正文: 美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。 🔗 阅读原文：https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft via AI HOT · https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 15:26]
+标题: ABot-World-0：单张桌面级GPU实现无限交互式世界生成
+链接: https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y
+正文: 图 1：ABot-World-0 将单张 NVIDIA RTX 5090 GPU 转化为实时交互式世界模拟器，能够在约 19 GiB 的峰值显存预算内，以 720P 分辨率、最高 16 FPS 的帧率实现无限的动作条件化世界展开，动作到首帧延迟为 1.2 秒。 1 引言 人工智能正从生成静态内容迈向生成可进入、可控制且可持续演化的世界。其目标并非生成一系列视觉上合理的片段，而是构建一个持久的生成式环境：在该环境中，动作会改变状态，由此产生的观察结果会指导后续动作，且随着交互的持续，世界始终保持连贯一致。因此，世界模型[33, 6, 19, 64, 16, 51, 25]是迈向通用模拟器的一步：它们必须表征世界的当前状态，预测其在干预下如何演化，并为规划、学习、创造和具身智能提供基础。这是一项系统层面的挑战，而非单一的生成目标。视觉保真度固然必要，但可控性、状态持久性、展开稳定性、延迟、吞吐量和内存占用必须协同优化。大规模视频生成[23, 57, 24, 4, 66, 36, 37, 53, 61]的快速发展提供了日益强大的视觉与动态先验知识，然而，要将这些先验知识转化为响应迅速、可访问的世界，就必须解决闭环问题。 近期已有多个系统在推动这一议程的关键部分。Genie [6] 展示了如何通过推断的潜在动作，从互联网游戏视频中学习可交互环境；而 Genie 2 和 Genie 3 [52, 19] 则进一步证明了更强大的实时动态环境能力。GameNGen [64]、Oasis [16]、WHAM [31]、Runway GWM [55]、Cosmos [51] 和 Waymo World Model [29] 则在游戏、开放世界、物理 AI 和自动驾驶等设计空间的不同方向进行了探索。然而，仅靠扩展视频模型规模，无法解决交互式世界建模中相互耦合的四大瓶颈：获取具有广泛覆盖、时间一致且带有可靠动作监督的数据；在相机导航和具身角色控制两方面同时表达用户意图；防止生成的历史序列在作为下一轮输入时发生漂移；以及在实用硬件上以交互速度部署完整的生成与解码流程。一个系统可能在某一维度上表现强劲，但作为本地、持久的世界模拟器却仍不可用。 数据问题尤为根本。被动式互联网视频提供了视觉多样性，但很少包含同步的控制信号；游戏录像能提供精确的输入，但风格可能较为局限；仿真环境能提供几何结构和可控性，但需要精心设计轨迹。我们将这些来源视为互补而非可互换。我们的数据基础设施融合了 AAA 级游戏数据、仿真引擎数据和真实世界的互联网视频。WorldExplorer 是一个由智能体驱动的采集系统，能够生成同步的多模态游戏与仿真轨迹，并根据训练反馈动态调整采集重点。随后，一个感知来源但统一的处理流水线会执行 14 项确定性检查（覆盖六个质量维度）、基于 VLM 的语义评估、动作标注和结构化语言标注。这使得数据集构建成为世界模型开发中的一个闭环环节：数据分布并非一次性采集完成，而是被主动塑造，以暴露模型在运动、视角、环境和动作模式等方面仍然薄弱的环节。 我们在此基础设施上构建了 ABot-World-0，这是一个以动作条件驱动的视频世界模型，旨在作为控制-一致性-效率耦合的端到端解决方案。该模型采用统一的、帧同步的键盘动作接口，而非独立的潜在动作接口；在数据构建阶段，源生控制与姿态导出的伪动作被映射到同一动作空间，用户在推理时可直接使用该空间。统一的动作表示涵盖了观察者式的场景漫游和演员式的角色运动，而参考角色记忆则为长时间第三人称推演提供了持久的外观信息。这些设计选择使得控制通道成为动力学模型本身的一部分，而非外部后处理接口。 学习流程将视觉动力学质量与在线所需的因果约束分离开来。我们首先在多源动作-视频语料库上训练一个双向教师模型，其中全范围生成为动作条件动力学提供了高质量目标。随后，通过教师强制和 ODE 蒸馏，我们逐步将其转化为因果学生模型，在降低去噪预算的同时保留了可部署的信息模式。关键在于，局部蒸馏本身无法解决闭环生成问题：学生的每一次预测都会改变后续预测的视觉上下文，导致短时训练状态与长时推理状态之间的失配日益加剧。我们引入了 LongForcing，这是一个最终的分布匹配阶段，通过扩展时域的双向教师模型来监督学生的长时自推演。通过对学生自推演施加分布级别的监督，LongForcing 为短时目标仅能微弱覆盖的长时推演上下文提供了修正信号。 实时交互还需要系统层面的协同设计，而不仅仅是几步采样。ABot-World-0 将其因果模型与轻量级 VAE 解码器、内存感知模块调度、低比特 DiT 推理、高效低精度注意力机制以及有界局部上下文 KV 缓存相结合。在其优化的低比特运行范围内，最终的 720P 流式处理管线在单张 NVIDIA RTX 5090 上
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 15:16]
 标题: Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型
 链接: https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj
@@ -125,20 +135,6 @@
 链接: https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr
 正文: 日经研究显示，Meta、Oracle等五家美国科技巨头的隐性债务在约四年内膨胀八倍，达到约1.65万亿美元，超过其实际债务。这些债务主要来自数据中心租赁和GPU供应合同，其中Meta的表外债务约4200亿美元，是其透明债务的近三倍。隐性债务的激增使投资者更难评估风险。 🔗 阅读原文：https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding via AI HOT · https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 03:33]
-标题: 腾讯混元推出Hyra-1.0递归自我改进研究智能体
-链接: https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy
-正文: 腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg via AI HOT · https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-21 01:57]
-标题: Anthropic 与作家群体15亿美元版权和解获批
-链接: https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1
-正文: 美国旧金山联邦法官批准了Anthropic与作家群体达成的15亿美元（约101.67亿元人民币）版权和解协议，这是美国金额最大的版权赔偿案。此前法院裁定Anthropic对书籍进行AI训练属于合理使用，但保存超700万本盗版书籍侵犯了作者权利。Anthropic称超91%的受约束作者和出版商已领取赔偿。 🔗 阅读原文：https://www.ithome.com/0/979/324.htm via AI HOT · https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 02:17]
-标题: Spain just opened a door America slammed shut
-链接: https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 17:22]
 标题: Analyst Report: General Electric Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -152,12 +148,20 @@
 链接: https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
+标题: Daily – Vickers Top Buyers & Sellers for 07/21/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
 标题: Daily – Vickers Top Insider Picks for 07/21/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47682_InsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 14:23]
-标题: Daily – Vickers Top Buyers & Sellers for 07/21/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:00]
+标题: Mortgage and refinance interest rates today, Tuesday, July 21, 2026: Inching lower
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-21-2026-inching-lower-100000388.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 10:00]
+标题: Best CD rates today, Tuesday, July 21, 2026: Lock in up to 4.20% APY today
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-21-2026-lock-in-up-to-420-apy-today-100000330.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-21 11:26]
 标题: Daily Spotlight: Financially Healthy, Wealthy, and Wise
@@ -188,10 +192,10 @@
 链接: https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html
 正文: Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 01:49]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 05:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 01:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 05:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
