@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-23 01:56:47
-# 共计 26 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-23 05:21:03
+# 共计 28 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 12:10]
 标题: The Download: NASA’s new space telescope and OpenAI’s autonomous hacker
@@ -10,6 +10,16 @@
 标题: Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own
 链接: https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
 正文: When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer at NASA’s Jet Propulsion Laboratory (JPL). Named after Nancy Grace Roman, NASA’s first chief of astronomy, this new telescope will carry a roughly 300-megapixel wide-field camera that will enable it to capture images about 100 times larger than the Hubble Space Telescope’s widest exposures at a similar resolution. These capabilities will help astronomers unpack the mysterious identities of dark matter and dark energy—and to detect around 100,000 new exoplanets, planets outside our solar system, whose presence can be inferred from the way they distort the starlight of more distant stars. Javier Viaña, a research scientist at Harvard who has had two projects selected for Roman’s highly competitive first year of observing, compares the leap to moving from “interviewing a handful of people” to “conducting a global census.” Another camera will use the coronagraph, blocking out a star’s light as it observes one stellar system at a time. The instrument will allow astronomers an unprecedented look at the space around stars, enabling them to see smaller, dimmer, and more close-in exoplanets. “It’s giving us the ability to see planets that we haven’t been able to physically see before,” says Creager. The anatomy of a vanishing trick Coronagraphs in space aren’t new. Bu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 04:00]
+标题: 小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%
+链接: https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7
+正文: 小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。 🔗 阅读原文：https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA via AI HOT · https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 02:51]
+标题: AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存"作弊"行为
+链接: https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
+正文: 英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的"作弊"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。 🔗 阅读原文：https://www.ithome.com/0/980/471.htm via AI HOT · https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 23:51]
 标题: OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊
@@ -76,11 +86,6 @@
 链接: https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
 正文: 小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。 🔗 阅读原文：https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row via AI HOT · https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 04:21]
-标题: 腾讯设计Agent平台Miora全面开放
-链接: https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
-正文: 腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ via AI HOT · https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 17:56]
 标题: Analyst Report: General Motors Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -118,10 +123,14 @@
 链接: https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html
 正文: The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 01:56]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-23 00:00]
+标题: The global balance sheet 2026: Imbalance and divergence
+链接: https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 05:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 01:56]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 05:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
