@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-23 05:21:03
+# ForwardPulse 原始情报收割 — 2026-07-23 08:13:38
 # 共计 28 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 12:10]
@@ -10,6 +10,20 @@
 标题: Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own
 链接: https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
 正文: When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer at NASA’s Jet Propulsion Laboratory (JPL). Named after Nancy Grace Roman, NASA’s first chief of astronomy, this new telescope will carry a roughly 300-megapixel wide-field camera that will enable it to capture images about 100 times larger than the Hubble Space Telescope’s widest exposures at a similar resolution. These capabilities will help astronomers unpack the mysterious identities of dark matter and dark energy—and to detect around 100,000 new exoplanets, planets outside our solar system, whose presence can be inferred from the way they distort the starlight of more distant stars. Javier Viaña, a research scientist at Harvard who has had two projects selected for Roman’s highly competitive first year of observing, compares the leap to moving from “interviewing a handful of people” to “conducting a global census.” Another camera will use the coronagraph, blocking out a star’s light as it observes one stellar system at a time. The instrument will allow astronomers an unprecedented look at the space around stars, enabling them to see smaller, dimmer, and more close-in exoplanets. “It’s giving us the ability to see planets that we haven’t been able to physically see before,” says Creager. The anatomy of a vanishing trick Coronagraphs in space aren’t new. Bu
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-23 00:00]
+标题: Bringing Nunchaku 4-bit Diffusion Inference to Diffusers
+链接: https://huggingface.co/blog/nunchaku-diffusers
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 05:47]
+标题: Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型
+链接: https://aihot.virxact.com/items/cmrx3iki50075ro694xrjogs3
+正文: Cactus 推出基于 Gemma 4 的混合模型"Cactus Hybrid"，在模型检查点内嵌入置信度探针，为每个生成答案输出 0-1 之间的结构化置信度分数。高置信度时在设备端直接回答，低分时可自动路由至更大模型。该探针在零音频训练数据下，于四个音频基准上达到 0.79-0.88 AUROC，远超 token 熵基线（均值 0.549），且 MIT 协议开源。 🔗 阅读原文：https://github.com/cactus-compute/cactus-hybrid via AI HOT · https://aihot.virxact.com/items/cmrx3iki50075ro694xrjogs3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 05:13]
+标题: 北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策
+链接: https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3
+正文: 北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。 🔗 阅读原文：https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA via AI HOT · https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 04:00]
 标题: 小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%
@@ -86,18 +100,6 @@
 链接: https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
 正文: 小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。 🔗 阅读原文：https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row via AI HOT · https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 17:56]
-标题: Analyst Report: General Motors Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 17:56]
-标题: Analyst Report: Travelers Cos Inc/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3461_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:26]
-标题: Daily Spotlight: Gold Prices Down from the Clouds
-链接: https://finance.yahoo.com/research/reports/ARGUS_47693_MarketOutlook_1784719618000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 21:21]
 标题: Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more
 链接: https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html
@@ -127,10 +129,10 @@
 标题: The global balance sheet 2026: Imbalance and divergence
 链接: https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 05:21]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 08:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 05:21]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 08:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
