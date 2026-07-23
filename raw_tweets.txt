@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-23 17:10:26
-# 共计 71 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-23 19:00:51
+# 共计 36 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 16:58]
+标题: Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
+链接: https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
+正文: When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept on ice during that time, at around 4 °C (39 °F). They cannot be frozen—in previous attempts, ice has formed, causing all kinds of damage. Matthew Powell Palm at Texas A&amp;M University and his colleagues have an alternative solution—a device that allows organs to be cooled to -4 °C (25 °F) without forming any ice. Now, in new research with pig organs, his team has shown that kidneys, at least, can be supercooled and preserved in the device for days. Once rewarmed, the organs have been successfully transplanted into animals, and they seem to do better than organs kept on ice. The work represents “a landmark achievement,” says Kevin Myer, president and CEO of LifeGift, an organ procurement organization based in Texas, who was not involved in the research. Cooling organs Powell Palm hopes this approach could ultimately help ease the organ shortage crisis. Today, there are more than 104,000 people waiting for a kidney transplant in the US alone. It is estimated that 17 people die every day in the US while waiting for a transplant. That’s partly due to a lack of donated kidneys, but it’s also because many of those that are available never make it to a recipient. In some years, around one in three donated kidneys end up being discarded, often because they end up too degraded to use by the time they reach a recipient. Kidneys can be stored on ice for around 24 hours or placed in devices that aim to mimic the conditions of the body, also for up to around 24 hours. That’s not always long enough to find a suitable recipient and transport the organ, says Myer. Scientists around the world have been working on ways to store organs for longer by cooling them to even chillier temperatures.
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 12:10]
 标题: The Download: energy transmission and US threats against Chinese AI
@@ -19,6 +24,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-23 00:00]
 标题: Bringing Nunchaku 4-bit Diffusion Inference to Diffusers
 链接: https://huggingface.co/blog/nunchaku-diffusers
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 17:01]
+标题: OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体
+链接: https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc
+正文: 安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在"AgentForger"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。 🔗 阅读原文：https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes via AI HOT · https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 16:31]
 标题: 微软MAI模型：以更低成本实现前沿能力规模化
@@ -80,184 +90,39 @@
 链接: https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov
 正文: Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于"变革性"合理使用，但大规模抓取网络内容是否合法仍悬而未决。 🔗 阅读原文：https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win via AI HOT · https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 18:51]
-标题: GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers
-链接: https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09
-正文: GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。 🔗 阅读原文：https://github.com/marcelroed/gigatoken via AI HOT · https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 17:57]
-标题: 微软 MagenticLite 模型全面开源
-链接: https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9
-正文: MagenticLite 的模型现已完全开源。 此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已登陆 Hugging Face，并开放模型权重。 该应用、测试框架以及整个技术栈中的每一个模型，现在都已开放。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 17:30]
-标题: 从提示词到任务：多模态交互单元提升AI智能体效率
-链接: https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk
-正文: # 提示词之后是什么 Karpathy 最近关于将长语音会话用作提示词的帖子，帮助我理解了一种我在构建智能体时经常依赖的提示词技巧。这篇帖子附带的插图《从提示词到任务》用一张图概括了这个想法。 由于找不到更好的术语，我一直把这个单元称为"任务"。一个任务利用多模态提示词，在一次交互中向智能体提供指令和尽可能多的相关上下文。它覆盖的工作单元比单个提示词更大，并且会留下一个可存储的痕迹，日后可以转化为可复用的技能。 一个任务可以包含一段较长的语音解释、当前屏幕画面、精确的文本、标注、转录文本、图像，以及任何其他有助于智能体理解工作的证据。每种模态贡献的内容各不相同。语音承载着推理过程、优先级、示例和不确定性。屏幕向智能体提供当前状态以及工作所需的环境。标注将注意力引导到具体细节上。文本则保留了精确的需求、名称和约束条件。这些信号共同为智能体提供了更丰富的工作表征。 ## 交互过程 这种体验更接近于引导智能体完成一项复杂任务，而非编写一条传统的提示词。我会预先加载那些原本需要在多次交互中才能逐步提供的上下文，然后给智能体留出空间，让它一次性完成更多工作。在实践中，我会在逐步讲解工作时录制一段语音笔记，截取相关的屏幕画面，用快速标注标记出来，然后粘贴智能体所需的精确文本。 当重要信息缺失时，智能体仍然可以提问。根据我的经验，更丰富的任务减少了重复的来回沟通——那种我需要重复说明上下文、指出同样的细节、或者纠正一个本可以从一开始就解决的假设的情况。最近的一个例子是在一个我很少使用的平台上安排发布内容。我录制了一段简短的语音笔记，说明了目标和约束条件，共享了打开排期页面的屏幕，并标注了关键字段。智能体一次性完成了设置，而通常那些关于填写哪些字段、粘贴哪些文案的后续追问再也没有出现。 这也改变了我对 AI 智能体生产力的看法。一个结构清晰的任务让我更有信心把工作交出去，转而去做别的事情。这使得并行工作变得更加可行，因为每个智能体在运行过程中需要的主动监督更少。 ## 为什么有效 卡帕西指出，大语言模型在从冗长、杂乱的口语会话中重建意图方面表现得异常出色。一段随性的发言包含了关于目标、约束条件、关键示例以及说话者不确定性的许多微弱信号。模型能够将这些信号组织成对请求更清晰的表征。 我正在用更多模态来扩展这个思路。口语会话提供了推理过程，而屏幕、文本、注释、转录稿和图像则提供了额外的证据。当一个通道信息嘈杂或不完整时，另一个通道可以帮助消除歧义。 复杂的智能体任务常常在我本意、我明确说出的内容以及智能体能观察到的事物之间的边界上失败。多模态提示词让模型在开始工作之前有更多机会弥合这些差距。 ## 成本与回报 这种方法看起来可能有些过头，有时也确实如此。一个简单的请求仍然值得用一个简单的提示词。我只有在任务运行时间长、对精度要求高、智能体需要导航不熟悉的界面，或者一个错误会导致多轮修正时，才会使用更丰富的任务。 多模态任务也可能因为包含更多上下文而成本更高。根据我的经验，这笔投入通常物有所值。我可以在每一轮交互中完成更大的工作单元，因为智能体从一开始就拥有了它所需的更多上下文。 这对于浏览器使用和计算机使用尤其有用。智能体可以看到环境，听到请求背后的推理过程，跟随识别重要元素的注释，并使用文本获取精确细节。这种组合有助于智能体导航不熟悉的界面。 我目前的一些例子包括：在陌生平台上安排发布、改进写作与编辑、以及优化工件和网页的设计。这些任务涉及许多微小的决策，用传统提示词来编码会非常繁琐，但在展示工作过程时却很容易沟通。在设计优化任务中，各种模态自然对应：语音解释布局哪里不对劲、改动应保留什么；屏幕展示工件的当前状态；标注标记出需要调整的具体间距、组件或区域；文本则提供确切的文案和必须保持不变的约束条件。 ## 从轨迹到技能 我存储这些任务的轨迹，并从中审视重复出现的模式。 有用的模式通常包括：动作序列、我反复强调的约束条件、我应用的质量检查、以及那些能持续改进结果的修正。这些模式可以被提取为可复用的技能，这样下一个智能体就能从一个更强大的工作流程开始。 这种与自动化的关联很重要。一个任务为我提供了一个可检验、可改进、并最终能放入更大循环中的实用单元。更丰富的初始轨迹帮助我理解哪些部分可以可靠地自动化，以及人类的指导在哪些地方仍然能增加价值。 这个过程通常从一个手动任务开始。重复使用会产生轨迹，轨迹揭示出模式，模式则成为可复用的技能。随着时间的推移，工作流程所需的解释越来越少，因为重要的指导已经被捕获下来。 如果你有兴趣了解更多，我将通过我们的学院进行演示、分享并撰写更多相关内容：https://academy.dair.ai/ ## 迈向全模态模型 全模态模型——即原生支持语音、视觉、图像和文本的模型——应该会让这种交互风格变得自然。我们将能够在
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 02:03]
 标题: The oil spike everyone feared never showed up
 链接: https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:40]
-标题: Stock Market Today: Nasdaq Pounded Near Lows, But Micron Up; Trucker Werner Falls Below Entry (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 18:00]
+标题: Analyst Report: Texas Instruments Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3470_AnalystReport_1784829600000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:39]
-标题: Google 2027 Capital Spending Could Boom Near $400 Billion, Predicts JPMorgan
-链接: https://www.investors.com/news/technology/google-stock-falls-negative-free-cash-flow-stokes-ai-spending-fears/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 18:00]
+标题: Analyst Report: International Business Machine
+链接: https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1784829600000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 11:14]
-标题: Daily Spotlight: Market Calm as Earnings Take Center Stage
-链接: https://finance.yahoo.com/research/reports/ARGUS_47706_MarketOutlook_1784805249000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 17:45]
+标题: Market Update: IBM, TXN
+链接: https://finance.yahoo.com/research/reports/ARGUS_47711_MarketUpdate_1784828700000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:50]
-标题: Quantum Computing Stocks Are Falling. Should You Buy IonQ or D-Wave, or Just Stick With Nvidia?
-链接: https://finance.yahoo.com/markets/stocks/articles/quantum-computing-stocks-falling-buy-165000873.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Best CD rates today, Thursday, July 23, 2026: Lock in up to 4.20% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-23-2026-lock-in-up-to-420-apy-100000568.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:32]
-标题: Marvell Stock Trade Setup Aims For A Robust Return From Potentially Big Price Swings
-链接: https://www.investors.com/research/options/marvell-stock-mrvl-chipmaker-tech-options-trade-profit-return-markets/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, July 23, 2026: Interest ticks down
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-23-2026-interest-ticks-down-100000013.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:30]
-标题: This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google
-链接: https://www.investors.com/research/ibd-stock-analysis/datadog-stock-ddog-amazon-aws-microsoft-azure-google-cloud-partnerships/?src=A00220&yptr=yahoo
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-23 18:42]
+标题: Odds of Federal Reserve rate hike surge as oil prices rip higher
+链接: https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html
+正文: Investors are increasingly readying for the Federal Reserve to hike interest rates in September.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:25]
-标题: BlackRock, Strategy and Coinbase Back $15M Bitcoin Security Consortium
-链接: https://finance.yahoo.com/markets/crypto/articles/blackrock-strategy-coinbase-back-15m-162500229.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:24]
-标题: Stocks sink on Big Tech cash burn; oil hits $100 for first time since May
-链接: https://finance.yahoo.com/news/asian-stocks-rise-us-tech-014857854.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 11:12]
-标题: Market Digest: HAL, HAS, SCHW, T
-链接: https://finance.yahoo.com/research/reports/ARGUS_47703_MarketSummary_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:49]
-标题: Why Rollins Stock Is Plummeting Lower Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-rollins-stock-plummeting-lower-164901063.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 08:44]
-标题: Stock market today: Nasdaq drops over 2%, Dow and S&P 500 tumble as Big Tech gets crushed, oil prices surge
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:20]
-标题: Sky Protocol Tops $100M Revenue Again as sUSDS Supply Jumps 149%
-链接: https://finance.yahoo.com/markets/crypto/articles/sky-protocol-tops-100m-revenue-162000140.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:19]
-标题: Vontier Corporation (VNT) Looks Undervalued After an Overdone Selloff
-链接: https://finance.yahoo.com/markets/stocks/articles/vontier-corporation-vnt-looks-undervalued-161927376.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:15]
-标题: Your pension may rely on the ‘optimistic assumption’ that AI will pay off — Moody's sees 'no playbook' for what’s next
-链接: https://finance.yahoo.com/markets/stocks/articles/pension-may-rely-optimistic-assumption-161500980.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 11:12]
-标题: Analyst Report: Charles Schwab Corp/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3657_AnalystReport_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:47]
-标题: Fogo de Chão Promotes Daniel Duran to CFO
-链接: https://finance.yahoo.com/markets/stocks/articles/fogo-ch-o-promotes-daniel-164737094.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:14]
-标题: Why IBM Stock Could Be Stuck In A 'Holding Pattern' After Historic Sell-Off
-链接: https://www.investors.com/news/technology/ibm-stock-q2-2026-ai-capex-holding-pattern/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:11]
-标题: Ultra Clean Holdings (UCTT) Surged on Strong Results and Improving Semiconductor Spending
-链接: https://finance.yahoo.com/markets/stocks/articles/ultra-clean-holdings-uctt-surged-161152100.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:07]
-标题: Orthofix Medical (OFIX) Looks Attractive After CMS Reversed Its Reimbursement
-链接: https://finance.yahoo.com/healthcare/articles/orthofix-medical-ofix-looks-attractive-160726620.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:00]
-标题: Mortgage rates hit highest level since August as oil's rise sparks inflation worries
-链接: https://finance.yahoo.com/economy/article/mortgage-rates-hit-highest-level-since-august-as-oils-rise-sparks-inflation-worries-160050134.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 11:12]
-标题: Analyst Report: AT&T Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3432_AnalystReport_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:47]
-标题: Bank of America targets Nvidia's next $170 billion growth engine
-链接: https://finance.yahoo.com/technology/ai/articles/bank-america-targets-nvidias-next-164700487.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:00]
-标题: Cottage owners expected rental income to cover the mortgage — but hidden fees turned their properties into money pits
-链接: https://finance.yahoo.com/real-estate/articles/cottage-owners-expected-rental-income-160000083.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:58]
-标题: T-Mobile Earnings Beat, Revenue Light. CEO Shoots Down Expanded Starlink Deal.
-链接: https://www.investors.com/news/technology/tmobile-stock-tmus-stock-tmobile-earnings-starlink/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:42]
-标题: “It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.
-链接: https://finance.yahoo.com/small-business/articles/ain-t-bad-got-pay-154202571.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:39]
-标题: Google Stock Falls 7% Amid Questions Over AI Leadership, Gemini 4 Roadmap
-链接: https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 11:12]
-标题: Analyst Report: Halliburton Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_3031_AnalystReport_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:35]
-标题: Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 14:59]
-标题: Everything is going wrong for oil markets right now
-链接: https://finance.yahoo.com/markets/article/everything-is-going-wrong-for-oil-markets-right-now-145945382.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:34]
-标题: Advanced Micro Devices’ (AMD) Returns Validate the Investment Thesis
-链接: https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-returns-153448558.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:34]
-标题: Blackstone CEO Stephen Schwarzman says firm is 'mindful' of 'excessive exuberance' in AI
-链接: https://finance.yahoo.com/markets/article/blackstone-ceo-stephen-schwarzman-says-firm-is-mindful-of-excessive-exuberance-in-ai-153438757.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:55]
-标题: Daily – Vickers Top Buyers & Sellers for 07/23/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47702_TopBottomInsiderActivity_1784804116000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:45]
-标题: This Is My No. 1 Recommended ETF to Buy in July
-链接: https://finance.yahoo.com/markets/stocks/articles/no-1-recommended-etf-buy-164549629.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:33]
-标题: Silver prices today, Thursday, July 23: Silver price hovers near $60, keeping the gold/silver ratio in line with historic averages
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-23-silver-price-hovers-near-60-keeping-the-goldsilver-ratio-in-line-with-historic-averages-153316952.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:28]
-标题: Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.
-链接: https://www.investors.com/news/lockheed-martin-rtx-earnings-defense-pentagon-us-iran/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:26]
-标题: Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 12:00]
-标题: How to trade options: 7 steps from account approval to your first contract
-链接: https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:55]
-标题: Daily – Vickers Top Insider Picks for 07/23/2026
-链接: https://finance.yahoo.com/research/reports/ARGUS_47701_InsiderActivity_1784804116000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:44]
-标题: Why Alphabet Stock Crashed Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-crashed-today-164430809.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 16:43]
-标题: Vanguard Small-Cap Value ETF Outshines State Street on Fees But is It the Better Buy?
-链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-small-cap-value-etf-164300032.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-23 17:10]
+标题: JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter
+链接: https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html
+正文: Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-23 16:56]
 标题: Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'
@@ -279,11 +144,6 @@
 链接: https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html
 正文: He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 17:25]
-标题: Stocks making the biggest moves midday: Super Micro Computer, EQT, AAR, Chubb, Pegasystems & more
-链接: https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-midday-smci-eqt-air-cb-pega.html
-正文: These are the stocks posting the largest moves midday.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-23 00:00]
 标题: How AI will reshape the economics of insurance: A CEO’s guide to strategy
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy
@@ -303,10 +163,10 @@
 链接: https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value
 正文: The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger foundation for delivering care.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 17:10]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 19:00]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 17:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 19:00]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
