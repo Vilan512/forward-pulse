@@ -1,15 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-23 08:13:38
-# 共计 28 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-23 11:01:28
+# 共计 29 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 09:00]
+标题: The power line that could reshape New York’s grid is hitting snags
+链接: https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
+正文: On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE). It opened in May and is officially the longest underground transmission line in North America. An underground power line might not sound all that exciting, but this could be a big deal for the state’s grid planning, and for emissions. It could provide up to 20% of New York City’s electricity demand, largely with abundant hydropower from Quebec. One wrinkle: The line has been down for most of this month, and some experts are concerned about how drought will affect the power supply feeding it. Let’s look at how the CHPE transmission line could help shape the future of our grid, and what barriers it needs to overcome to make a difference. Planning for the CHPE (which is charmingly pronounced “chippy”) started 15 years ago, with the permitting process formally beginning in March 2010. The vision was to build infrastructure to better connect Quebec and southern New York. Over 99% of Quebec’s electricity comes from renewable sources; most demand is met with hydropower, though the province’s wind capacity is growing quickly. New York has some hydropower of its own, as well as nuclear and wind, but the state still relies on fossil fuels for most of its energy generation. Transmission Developers, a company owned by the alternative asset management firm Blackstone, and Hydro-Québec, the province’s manager of generation and transmission, partnered to build CHPE. Construction began in late 2022 and wrapped up earlier this year. The total cost for the privately funded project turned out to be&nbsp; $6 billion. The construction of this line was a feat. It’s made up of a bundle of two high-voltage direct-current power cables, each measuring roughly five inches a
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 12:10]
 标题: The Download: NASA’s new space telescope and OpenAI’s autonomous hacker
 链接: https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. It will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. The technology will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer. Read the full story on the space telescope that could transform the search for distant planets. —Eshan Raul MIT Technology Review Narrated: PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.&nbsp; Inside, some 100 stainless-steel cabinets each hold hundreds of chips. On those chips, thousands of light particles will fly through a maze of optical switches and beam splitters. Each photon must be accounted for, because precisely measuring where it ends up will help answer questions that current computers might take millions of years to solve. This computer, as described, does not exist. It’s the brainchild of a company called PsiQuantum, founded in 2016 by four physicists from UK universities. In a crowded field of deep-pocketed competitors with similarly fantastical visions, the company aims to be the first to build a useful quantum machine. —James O&#8217;Donnell This is our lat
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 09:00]
-标题: Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own
-链接: https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
-正文: When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer at NASA’s Jet Propulsion Laboratory (JPL). Named after Nancy Grace Roman, NASA’s first chief of astronomy, this new telescope will carry a roughly 300-megapixel wide-field camera that will enable it to capture images about 100 times larger than the Hubble Space Telescope’s widest exposures at a similar resolution. These capabilities will help astronomers unpack the mysterious identities of dark matter and dark energy—and to detect around 100,000 new exoplanets, planets outside our solar system, whose presence can be inferred from the way they distort the starlight of more distant stars. Javier Viaña, a research scientist at Harvard who has had two projects selected for Roman’s highly competitive first year of observing, compares the leap to moving from “interviewing a handful of people” to “conducting a global census.” Another camera will use the coronagraph, blocking out a star’s light as it observes one stellar system at a time. The instrument will allow astronomers an unprecedented look at the space around stars, enabling them to see smaller, dimmer, and more close-in exoplanets. “It’s giving us the ability to see planets that we haven’t been able to physically see before,” says Creager. The anatomy of a vanishing trick Coronagraphs in space aren’t new. Bu
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-23 00:00]
 标题: Bringing Nunchaku 4-bit Diffusion Inference to Diffusers
@@ -34,11 +34,6 @@
 标题: AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存"作弊"行为
 链接: https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
 正文: 英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的"作弊"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。 🔗 阅读原文：https://www.ithome.com/0/980/471.htm via AI HOT · https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 23:51]
-标题: OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊
-链接: https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq
-正文: OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。 🔗 阅读原文：https://simonwillison.net/2026/Jul/22/openai-cyberattack via AI HOT · https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 21:00]
 标题: OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试
@@ -95,10 +90,13 @@
 链接: https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2
 正文: Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字体，以及多图融合、图中图和图片编辑。实测显示，其在中文长文本生成、多语言混合排版、UI设计、多图融合与图片编辑等19个场景中均能稳定输出，文字不崩且信息对应准确，图片质量已能与GPT Image2媲美。该模型在国内可直接使用，速度快且价格不贵。 🔗 阅读原文：https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg via AI HOT · https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 10:04]
-标题: 小红书开源 BigMac：多模态大模型训练新范式
-链接: https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
-正文: 小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。 🔗 阅读原文：https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row via AI HOT · https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Best CD rates today, Thursday, July 23, 2026: Lock in up to 4.20% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-23-2026-lock-in-up-to-420-apy-100000568.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, July 23, 2026: Interest ticks down
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-23-2026-interest-ticks-down-100000013.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 21:21]
 标题: Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more
@@ -126,13 +124,18 @@
 正文: The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-23 00:00]
+标题: How Montefiore Einstein turned technology into enterprise value
+链接: https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value
+正文: The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger foundation for delivering care.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-23 00:00]
 标题: The global balance sheet 2026: Imbalance and divergence
 链接: https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 08:13]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 11:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 08:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 11:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
