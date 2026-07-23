@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-22 23:02:49
-# 共计 36 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-23 01:56:47
+# 共计 26 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-22 12:10]
 标题: The Download: NASA’s new space telescope and OpenAI’s autonomous hacker
@@ -10,6 +10,11 @@
 标题: Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own
 链接: https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
 正文: When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system. Ultimately, it could pave the way for a future mission that could snap the first photos of Earth-like worlds. “I hope it’s remembered for it being that critical stepping stone for … finding Earth 2.0,” says Brandon Creager, the instrument’s lead mechanical engineer at NASA’s Jet Propulsion Laboratory (JPL). Named after Nancy Grace Roman, NASA’s first chief of astronomy, this new telescope will carry a roughly 300-megapixel wide-field camera that will enable it to capture images about 100 times larger than the Hubble Space Telescope’s widest exposures at a similar resolution. These capabilities will help astronomers unpack the mysterious identities of dark matter and dark energy—and to detect around 100,000 new exoplanets, planets outside our solar system, whose presence can be inferred from the way they distort the starlight of more distant stars. Javier Viaña, a research scientist at Harvard who has had two projects selected for Roman’s highly competitive first year of observing, compares the leap to moving from “interviewing a handful of people” to “conducting a global census.” Another camera will use the coronagraph, blocking out a star’s light as it observes one stellar system at a time. The instrument will allow astronomers an unprecedented look at the space around stars, enabling them to see smaller, dimmer, and more close-in exoplanets. “It’s giving us the ability to see planets that we haven’t been able to physically see before,” says Creager. The anatomy of a vanishing trick Coronagraphs in space aren’t new. Bu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 23:51]
+标题: OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊
+链接: https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq
+正文: OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。 🔗 阅读原文：https://simonwillison.net/2026/Jul/22/openai-cyberattack via AI HOT · https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 21:00]
 标题: OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试
@@ -76,16 +81,6 @@
 链接: https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
 正文: 腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ via AI HOT · https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 00:00]
-标题: Cursor 发布智能模型路由系统 Cursor Router
-链接: https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh
-正文: Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。 🔗 阅读原文：https://cursor.com/blog/router via AI HOT · https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-22 00:00]
-标题: OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型
-链接: https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6
-正文: OpenRouter 推出 POST /api/v1/audio/transcriptions 端点，用户可使用同一 API key 将 base64 编码音频发送至该端点，返回 JSON 格式文本与用量对象。 🔗 阅读原文：https://openrouter.ai/blog/tutorials/transcription-on-openrouter via AI HOT · https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 17:56]
 标题: Analyst Report: General Motors Co
 链接: https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -97,26 +92,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:26]
 标题: Daily Spotlight: Gold Prices Down from the Clouds
 链接: https://finance.yahoo.com/research/reports/ARGUS_47693_MarketOutlook_1784719618000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:24]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47692_TechnicalAnalysis_1784719456000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:07]
-标题: Analyst Report: Equifax Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3702_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:07]
-标题: Analyst Report: Fifth Third Bancorp
-链接: https://finance.yahoo.com/research/reports/ARGUS_2973_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:07]
-标题: Analyst Report: Bank of New York Mellon Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_2777_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-22 11:07]
-标题: Analyst Report: Crowdstrike Holdings Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_6164_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-22 21:21]
 标题: Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more
@@ -143,30 +118,10 @@
 链接: https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html
 正文: The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
-标题: Chokepoints: How to respond when the global economy gets squeezed
-链接: https://www.mckinsey.com/capabilities/geopolitics/our-insights/chokepoints-how-to-respond-when-the-global-economy-gets-squeezed
-正文: As the situation in the Strait of Hormuz makes clear, business success increasingly depends on managing global disruption and risk in a three-dimensional way: reroute, replace, and substitute.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
-标题: Evolving model risk management in the age of AI
-链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai
-正文: Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a reliable source of value creation.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
-标题: Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future
-链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future
-正文: Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-22 00:00]
-标题: Powering supply chain with agentic AI
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai
-正文: Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and orchestrate work across people, processes, and technology.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-22 23:02]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-23 01:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-22 23:02]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-23 01:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
