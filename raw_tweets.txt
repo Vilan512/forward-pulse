@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-24 01:52:56
-# 共计 28 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-24 05:13:07
+# 共计 29 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 16:58]
 标题: Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
@@ -39,7 +39,7 @@
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 19:43]
 标题: ChatGPT 桌面版上线语音控制多智能体
 链接: https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy
-正文: ChatGPT 语音功能现已登陆桌面应用。 现在，你只需使用语音，就能控制电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个 AI 智能体。 该功能由 GPT-Live 驱动，因此它能够同时进行语音交流、聆听指令，并在应用内协调工作。 该功能于今日面向 Plus、Pro、Business、Edu 及 Enterprise 计划的用户，在 macOS 和 Windows 平台全球上线。 —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy
+正文: ChatGPT 语音功能现已登陆桌面应用。 只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。 该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。 今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。 🔗 阅读原文：https://x.com/OpenAI/status/2080378182469857576 via AI HOT · https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 18:35]
 标题: TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建
@@ -49,7 +49,7 @@
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 17:55]
 标题: ChatGPT 向美国用户推出健康功能
 链接: https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf
-正文: Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health queries (and my wife and I are among those!). You can now securely connect supported medical records so ChatGPT can understand your personal context and be more helpful to you. —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf
+正文: OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。 🔗 阅读原文：https://x.com/gdb/status/2080351159638704615 via AI HOT · https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 17:01]
 标题: OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体
@@ -59,7 +59,7 @@
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 16:31]
 标题: 微软MAI模型：以更低成本实现前沿能力规模化
 链接: https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo
-正文: # 前沿扩散与控制 在一个软件首次拥有真实边际成本的世界里，我们如何确保前沿成果惠及整个生态系统？ 关键在于，要在真实世界场景中优化成本与成果的前沿。具体而言，这意味着为每项任务使用合适的模型，并围绕它优化上下文、技能、工具和智能体编排框架。 这正是我们 MAI 模型家族背后的动机。这些模型从零开始构建，拥有清晰的数据溯源，并针对企业 RLE 中从通用技能到专业技能的迁移学习进行了优化。我们在这条道路上持续取得快速进展。 现在，我们可以将已饱和的前沿能力，通过针对高使用率产品优化的模型，以更低的成本大规模交付，同时继续使用前沿模型来满足前沿需求。我们正在自有产品中验证这一点，从而为所有其他 AI 原生、SaaS 或企业公司创建了一个可复用的模板。 在我们的产品中，来自 OpenAI 和 Anthropic 的前沿模型与 MAI 共同构成了编排系统的一部分。但模型只是爬山系统中的一个环节。编排框架、记忆、上下文、工具、技能、用户交互等，共同塑造了这些智能体系统的评估指标和性能。 确保你处于掌控之中的另一个关键标准是：即使某个特定模型被移除，你的评估指标也应能继续爬山。因此，我们构建了 RLE，让模型在产品系统内部学习，并根据完成客户真正关心的任务来获得奖励。我们针对模型将实际遇到的产品编排框架、交互和结果来训练模型。并在战略上确保编排框架、记忆、上下文、技能都外化于模型之外。 产品特定的评估指标和模型独立性，赋予我们掌控力和一个直接的爬山路径，让我们能够不断优化，直到达到正确的质量-成本目标。我们现在看到，MAI 模型在许多用例中超越了通用前沿模型，同时只使用了极少量的模型 token。 我们相信，最大的机遇在于，在人们日常工作的产品中，将这些所有层面协同优化。并且，当我们的模型能够匹配或超越前沿替代方案时，我们已开始将流量路由到自有产品界面上的 MAI。 我们在 GitHub Copilot、Excel 和 Outlook 上看到了令人鼓舞的初步成果，并开始将同样的方法推广到 Copilot Chat、PowerPoint 等更多产品中。随着整个系统持续进行爬山优化，所有这些成果只会变得更好！ 我们在第一方产品中所做的工作，也正是每一家企业客户可以在其现实世界的智能体系统中，利用自有评估体系、自有 RLE、工作流和上下文所能够实现的。我们正在通过 Foundry 和我们的工具链提供所有这些能力。 更多详情请阅读：https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/ —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo
+正文: 微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。 🔗 阅读原文：https://x.com/satyanadella/status/2080329851127669104 via AI HOT · https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 14:52]
 标题: Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品
@@ -74,7 +74,12 @@
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 12:33]
 标题: 通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜
 链接: https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
-正文: 推出 Qwen-Audio-3.0-TTS。 我们最新的文本转语音模型，提供两个版本： • Flash：实时交互 • Plus：高质量生成 新特性： • 细粒度内联标签控制——[低语]、[愤怒]、[呼吸声] 和 [笑声] • 自由风格的自然语言控制——“读慢一点，像讲睡前故事一样” • 支持 16 种语言 • 即使参考音频有噪音，也能输出干净语音 • 一次生成长文本最长可达 3 分钟 目前在 Artificial Analysis TTS 排行榜上排名第一。 博客：https://funaudiollm.github.io/qwen-audio-3.0-tts/ API：https://www.alibabacloud.com/help/en/model-studio/realtime-tts-user-guide —— 本文由 AI HOT 聚合整理，完整版与更多 AI 动态见 https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
+正文: 阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。 🔗 阅读原文：https://x.com/Alibaba_Qwen/status/2080270065547809133 via AI HOT · https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 11:58]
+标题: MineExplorer：首个《我的世界》分钟级长程任务评测基准发布
+链接: https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18
+正文: 美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg via AI HOT · https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 11:20]
 标题: 昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本
@@ -91,19 +96,18 @@
 链接: https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3
 正文: 北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。 🔗 阅读原文：https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA via AI HOT · https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 04:00]
-标题: 小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%
-链接: https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7
-正文: 小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。 🔗 阅读原文：https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA via AI HOT · https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Best CD rates today, Thursday, July 23, 2026: Lock in up to 4.20% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-23-2026-lock-in-up-to-420-apy-100000568.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 02:51]
-标题: AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存"作弊"行为
-链接: https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
-正文: 英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的"作弊"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。 🔗 阅读原文：https://www.ithome.com/0/980/471.htm via AI HOT · https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, July 23, 2026: Interest ticks down
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-23-2026-interest-ticks-down-100000013.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 02:03]
-标题: The oil spike everyone feared never showed up
-链接: https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-24 02:42]
+标题: U.S., other nations back open-source AI with 'strong security' at China summit
+链接: https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html
+正文: The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-23 20:58]
 标题: Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more
@@ -130,10 +134,10 @@
 链接: https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-premarket-lmt-tsla-googl.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 01:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 05:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 01:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 05:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
