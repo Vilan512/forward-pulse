@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-24 08:09:50
-# 共计 26 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-24 10:54:52
+# 共计 34 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 16:58]
 标题: Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
@@ -16,10 +16,15 @@
 链接: https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
 正文: Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to treat conditions across most major acute and chronic diseases), the complexity is even greater. Scientists explore vast quantities of possible molecules, looking for the rare few that will bind to the right target, remain stable in the human body, and be manufacturable at scale. Today, AI is speeding up these processes and has quickly become a core part of the infrastructure in pharmaceutical R&amp;D. AI-assisted design is a growing part of how biologic drug candidates are developed, and companies like AstraZeneca are actively building its engineering teams to push this further. “Everything we do, whether it’s design, make, test, or analyze, is now computationally enhanced,” says Puja Sapra, senior vice president and head of R&amp;D biologics engineering and oncology targeted discovery at AstraZeneca. “The cycle times are getting shorter while productivity and innovation increase.” Sapra explains that AstraZeneca’s approach follows a build-measure-learn loop. AI generates or prioritizes candidate molecules computationally, predicting which designs are most likely to succeed. Scientists then focus lab resources only on the top-ranked candidates. This leads to a tighter feedback cycle with fewer dead ends, faster iteration, and the ability to go after disease targets that were previously considered untreatable by medicine. Because the number of possible molecular combinations far exceeds what any human team can systematically explore, using AI to narrow and refine the options for testing has become a major focus in biologics drug design. Navigating complex drug design problems Beyond accelerating timelines, AI i
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 09:00]
-标题: The power line that could reshape New York’s grid is hitting snags
-链接: https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
-正文: On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE). It opened in May and is officially the longest underground transmission line in North America. An underground power line might not sound all that exciting, but this could be a big deal for the state’s grid planning, and for emissions. It could provide up to 20% of New York City’s electricity demand, largely with abundant hydropower from Quebec. One wrinkle: The line has been down for most of this month, and some experts are concerned about how drought will affect the power supply feeding it. Let’s look at how the CHPE transmission line could help shape the future of our grid, and what barriers it needs to overcome to make a difference. Planning for the CHPE (which is charmingly pronounced “chippy”) started 15 years ago, with the permitting process formally beginning in March 2010. The vision was to build infrastructure to better connect Quebec and southern New York. The Champlain Hudson Power Express stretches 339 miles from Quebec to Queens. It is officially the longest underground transmission line in North America. Over 99% of Quebec’s electricity comes from renewable sources; most demand is met with hydropower, though the province’s wind capacity is growing quickly. New York has some hydropower of its own, as well as nuclear and wind, but the state still relies on fossil fuels for most of its energy generation. Transmission Developers, a company owned by the alternative asset management firm Blackstone, and Hydro-Québec, the province’s manager of generation and transmission, partnered to build CHPE. Construction began in late 2022 and wrapped up earlier this year. The total cost for the privately funded project turned out to be&nbsp; $6 billio
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 09:48]
+标题: Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因
+链接: https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8
+正文: 英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。 🔗 阅读原文：https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why via AI HOT · https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 09:47]
+标题: Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用
+链接: https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv
+正文: Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。 🔗 阅读原文：https://github.com/izeigerman/claude-thermos via AI HOT · https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 06:48]
 标题: Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频
@@ -91,6 +96,30 @@
 链接: https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
 正文: 昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。 🔗 阅读原文：https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag via AI HOT · https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 12:00]
+标题: How to trade options: 7 steps from account approval to your first contract
+链接: https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:00]
+标题: Best CD rates today, Friday, July 24, 2026: Up to 4.20% APY return
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-24-2026-up-to-420-apy-return-100000599.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:00]
+标题: Mortgage and refinance interest rates today, Friday, July 24, 2026: Dropping below 6.5%
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-24-2026-dropping-below-65-100000803.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:26]
+标题: Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:33]
+标题: Silver prices today, Thursday, July 23: Silver price hovers near $60, keeping the gold/silver ratio in line with historic averages
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-23-silver-price-hovers-near-60-keeping-the-goldsilver-ratio-in-line-with-historic-averages-153316952.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:35]
+标题: Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-24 02:42]
 标题: U.S., other nations back open-source AI with 'strong security' at China summit
 链接: https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html
@@ -121,10 +150,15 @@
 链接: https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-premarket-lmt-tsla-googl.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 08:09]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-24 00:00]
+标题: Author Talks: Why founders misunderstand customer demand
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand
+正文: Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical framework for finding the “ideal” customer.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 10:54]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 08:09]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 10:54]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
