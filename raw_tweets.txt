@@ -1,20 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-24 10:54:52
-# 共计 34 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-24 12:13:45
+# 共计 33 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 16:58]
 标题: Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
 链接: https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
 正文: When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept on ice during that time, at around 4 °C (39 °F). They cannot be frozen—in previous attempts, ice has formed, causing all kinds of damage. Matthew Powell Palm at Texas A&amp;M University and his colleagues have an alternative solution—a device that allows organs to be cooled to -4 °C (25 °F) without forming any ice. Now, in new research with pig organs, his team has shown that kidneys, at least, can be supercooled and preserved in the device for days. Once rewarmed, the organs have been successfully transplanted into animals, and they seem to do better than organs kept on ice. The work represents “a landmark achievement,” says Kevin Myer, president and CEO of LifeGift, an organ procurement organization based in Texas, who was not involved in the research. Cooling organs Powell Palm hopes this approach could ultimately help ease the organ shortage crisis. Today, there are more than 104,000 people waiting for a kidney transplant in the US alone. It is estimated that 17 people die every day in the US while waiting for a transplant. That’s partly due to a lack of donated kidneys, but it’s also because many of those that are available never make it to a recipient. In some years, around one in three donated kidneys end up being discarded, often because they end up too degraded to use by the time they reach a recipient. Kidneys can be stored on ice for around 24 hours or placed in devices that aim to mimic the conditions of the body, also for up to around 24 hours. That’s not always long enough to find a suitable recipient and transport the organ, says Myer. Scientists around the world have been working on ways to store organs for longer by cooling them to even chillier temperatures.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 12:10]
-标题: The Download: energy transmission and US threats against Chinese AI
-链接: https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens. It opened in May and is officially the longest underground transmission line in North America. It could provide up to 20% of New York City’s electricity demand, largely with abundant hydropower from Quebec. One wrinkle: The line has been down for most of this month, and some experts are concerned about how drought will affect the power supply feeding it.&nbsp; Still, the line could help shape the future of our grid, if it can overcome these sorts of snags.&nbsp;Read our story to understand how. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 The US Treasury is threatening to sanction Chinese AI companiesTreasury secretary Scott Bessent has accused Moonshot of improperly distilling Anthropic’s Fable model. (TechCrunch)+&nbsp;Nvidia’s Jensen Huang is arguing that America has nothing to fear from Chinese AI.&nbsp;(Axios)+&nbsp;Like it or not, Chinese models are now part of the global AI infrastructure.&nbsp;(Rest of World)+ China’s AI models have Trump’s AI world at war with itself.&nbsp;(MIT Technology Review) 2 Why the OpenAI hack is the scariest AI mishap yetAI’s capabilities seem to be starting to outpace our current ability to control them. (The Economist&nbsp;$)+ Hugging Face had to turn to a Chinese AI model to rescue it from the hack.&nbsp;(BI) 3 Visually impaired Europeans can now get an implant that restores sigh
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-23 12:00]
-标题: How AI helps scientists design the next generation of medicines
-链接: https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
-正文: Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to treat conditions across most major acute and chronic diseases), the complexity is even greater. Scientists explore vast quantities of possible molecules, looking for the rare few that will bind to the right target, remain stable in the human body, and be manufacturable at scale. Today, AI is speeding up these processes and has quickly become a core part of the infrastructure in pharmaceutical R&amp;D. AI-assisted design is a growing part of how biologic drug candidates are developed, and companies like AstraZeneca are actively building its engineering teams to push this further. “Everything we do, whether it’s design, make, test, or analyze, is now computationally enhanced,” says Puja Sapra, senior vice president and head of R&amp;D biologics engineering and oncology targeted discovery at AstraZeneca. “The cycle times are getting shorter while productivity and innovation increase.” Sapra explains that AstraZeneca’s approach follows a build-measure-learn loop. AI generates or prioritizes candidate molecules computationally, predicting which designs are most likely to succeed. Scientists then focus lab resources only on the top-ranked candidates. This leads to a tighter feedback cycle with fewer dead ends, faster iteration, and the ability to go after disease targets that were previously considered untreatable by medicine. Because the number of possible molecular combinations far exceeds what any human team can systematically explore, using AI to narrow and refine the options for testing has become a major focus in biologics drug design. Navigating complex drug design problems Beyond accelerating timelines, AI i
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 09:48]
 标题: Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因
@@ -86,19 +76,17 @@
 链接: https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
 正文: 阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。 🔗 阅读原文：https://x.com/Alibaba_Qwen/status/2080270065547809133 via AI HOT · https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 11:58]
-标题: MineExplorer：首个《我的世界》分钟级长程任务评测基准发布
-链接: https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18
-正文: 美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg via AI HOT · https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:45]
+标题: Daily – Vickers Top Insider Picks for 07/24/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47714_InsiderActivity_1784889909000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-23 11:20]
-标题: 昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本
-链接: https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
-正文: 昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。 🔗 阅读原文：https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag via AI HOT · https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:45]
+标题: Daily – Vickers Top Buyers & Sellers for 07/24/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47715_TopBottomInsiderActivity_1784889909000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 12:00]
-标题: How to trade options: 7 steps from account approval to your first contract
-链接: https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 12:00]
+标题: How Trump Accounts could impact your child's student aid
+链接: https://finance.yahoo.com/personal-finance/student-loans/article/how-trump-accounts-could-impact-student-aid-103800775.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:00]
 标题: Best CD rates today, Friday, July 24, 2026: Up to 4.20% APY return
@@ -119,6 +107,11 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-23 15:35]
 标题: Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-24 11:50]
+标题: Stocks making the biggest moves premarket: Intel, Oracle, American Express & more
+链接: https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-24 02:42]
 标题: U.S., other nations back open-source AI with 'strong security' at China summit
@@ -155,10 +148,10 @@
 链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand
 正文: Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical framework for finding the “ideal” customer.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 10:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-24 12:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 10:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-24 12:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
