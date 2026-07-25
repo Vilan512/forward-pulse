@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-25 08:54:55
-# 共计 27 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-25 10:21:01
+# 共计 25 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-24 17:03]
 标题: The quest to keep organs alive outside the body
@@ -66,27 +66,9 @@
 链接: https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls
 正文: Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 09:48]
-标题: Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因
-链接: https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8
-正文: 英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-24 09:47]
-标题: Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用
-链接: https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv
-正文: Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 16:17]
 标题: Outdoor giant now closing 91 stores in Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:00]
-标题: Best CD rates today, Friday, July 24, 2026: Up to 4.20% APY return
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-24-2026-up-to-420-apy-return-100000599.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 10:00]
-标题: Mortgage and refinance interest rates today, Friday, July 24, 2026: Dropping below 6.5%
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-24-2026-dropping-below-65-100000803.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-24 12:00]
 标题: How Trump Accounts could impact your child's student aid
@@ -104,6 +86,14 @@
 标题: Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-24-2026-gold-price-remains-below-4100-ahead-of-next-weeks-rate-decision-152726975.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-25 10:00]
+标题: Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-25 10:00]
+标题: Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-25-2026-best-account-provides-420-apy-100000276.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-24 22:43]
 标题: Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others
 链接: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html
@@ -119,10 +109,10 @@
 链接: https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html
 正文: After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-25 08:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-25 10:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-25 08:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-25 10:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
