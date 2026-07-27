@@ -1,5 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-07-27 10:33:41
-# 共计 41 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-27 13:32:41
+# 共计 63 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 12:10]
+标题: The Download: lasers for nuclear fuel, and organ preservation advances
+链接: https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&nbsp; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors. New, cheaper methods to obtain fuel could help ensure that those nuclear projects stay on track. One of those methods is called laser enrichment. It allows you to separate out the material you want (in this case, uranium) from others in a mixture of old waste. A company called Global Laser Enrichment (GLE) is about to start testing whether the technology works at commercial scale. Read our story about their efforts. —Casey Crownhart The quest to keep organs alive outside the body It’s super difficult to freeze organs. Once ice forms in them, they’re done. The ice crystals create all kinds of damage and render the organs unusable. That hasn’t stopped many researchers from trying. In new research, one team has been able to supercool the kidneys of pigs and preserve them for days. The kidneys survived being stored at −4 °C (25 °F) and eventually reimplanted back into pigs. And that’s just the latest development in a field that is positively buzzing. Read about why it’s such an exciting time for organ preservation—and what could be coming next.&nbsp; —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign upto receive it in your inbox every Thursday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Silicon Valley is split over how to respond to Chinese AIIt boils down to whether&nbsp;AI models should be open or closed. (NYT&nbsp;$)+&nbsp;Nvidia, Microsoft and Meta warn that restricting open models would backfire.&nbsp;(CNBC)+&nbsp;AI companies are spending record sums on lobbying Washington.&nbsp;(FT&nbsp;$)+&nbsp;China’s AI m
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 12:00]
+标题: The path to artificial superintelligence
+链接: https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
+正文: Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate patient care without a human making the decisions. “The intelligence is already there. What is missing is the connective tissue that turns four strangers into one team,” explains Vijoy Pandey, senior vice president and general manager of Outshift by Cisco. This “connective tissue” comes from adding a semantic layer—what Outshift calls the “Internet of Cognition”—that enables agents across domains to work together and, critically, “think” together through shared intent, context, and reasoning. This semantic layer relies on a connectivity layer beneath it called the “Internet of Agents,” which allows autonomous agents to discover one another, prove identity, and exchange messages across domains. When used together, they enable “the next step on the road to distributed artificial superintelligence,” says Pandey. From solo silicon savants to the ‘Internet of Cognition’ For years, the AI industry has been focused on growth. Scaling vertically has led to bigger models, trained on more data with more compute. This has produced the reasoning capabilities that can be like a “brain” for AI agents, which can perceive, reason, and act in digital environments. While vertical scaling can produce more capable agents perpetually, to enable agentic problem solving across different systems, companies, and platforms the next axis of scale must be horizontal, says Pandey. Multi-agent systems are already being explored in areas like software engineering, drug discovery, and scientific simulations, but their performances so far have been underwhelming. One study finds a failure rate of between 41% and around 87% when evaluating seven open-source multi-agent sys
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 11:40]
+标题: Closing the data loop in AI-driven drug discovery
+链接: https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
+正文: Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion, with failure rates upward of 90%. AI has become the pharmaceutical industry’s biggest bet on bringing success rates up and timelines down. The faster drug companies can identify, test, and optimize new chemical compounds, the lower the risk of costly failures later in development. “The main cost in drug discovery is still the clinical phase, so trying to reduce risk and increase your success rates there is obviously hugely beneficial,” says Paul Belcher, director of protein research strategy at global life sciences company Cytiva. “AI is one approach that drug companies hope will not only save time and compress timelines, but enable better quality candidates to reach the clinic.” Early use of AI in drug discovery shows potential, but also highlights the need for robust and authentic data, as well as integration in lab systems. AI brings efficiency to the lab One of the most promising early-stage applications of AI in drug discovery is in hit identification. This involves screening libraries of molecular entities against a disease-related target, such as a protein, to find molecules that bind to it. A successful hit gives researchers a starting point for further testing and refinement, with the aim of eventually developing a viable drug. Belcher has seen a shift from empirical screening to predictive design: Instead of physically screening libraries, drug companies are now using AI to design drug candidates from scratch and predict how they will interact with disease targets before committing anything to research and development (R&amp;D). This means companies are no longer limit
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 11:32]
+标题: Building the enterprise environment for agentic AI
+链接: https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
+正文: For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the ability to predictably plan and scale agents. To better understand some of these dependencies, Intel performed thousands of agentic AI workload experiments. Our initial findings create and support five practical lessons for enterprise leaders: Agentic AI is a larger systems problem, not just one of inference. The majority of existing agentic AI harnesses are limited and do not measure overall system performance. Plan capacity is done using agents per virtual CPU (vCPU) density, not agent count. Monitor agent task latency, not just average CPU utilization. Default to scale-out for systems hosting agents. Reserve scale-up for workloads with heavier per-agent compute or architectural constraints. Beyond inference: Agents as workflow automation Agentic AI is more than LLM inference. Its enterprise value depends on the full system, task orchestration, data access, tool execution, latency management, governance, and scalable infrastructure. An agent is a goal-driven automated enterprise workflow process: It plans a multi-step task, calls tools, reads results, and retries when something fails. Enterprise agents are therefore not just an inference problem; they are a systems problem. Defining what good looks like Most agentic AI metrics focus on evaluating the LLM used. Platform teams also need to know how long the tasks take, how many agents a fleet can support, what users experience at the end of the execution process, and how costs change as more agents work simultaneously. A more useful enterprise view looks at six metrics: Task success rate Cost per task Time per task Task throughput Agent density (agents per vC
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-27 09:32]
 标题: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics
@@ -25,148 +45,221 @@
 链接: https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd
 正文: 我们一直在以比以往更快的速度构建！🚀 以下是网页端和移动端的新功能一览： • 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto 你最期待 Suno 的哪些新功能？ 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-26 12:54]
-标题: OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对
-链接: https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m
-正文: OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-26 15:07]
 标题: After 80 stores close, 63-year-old chain gives Chapter 11 warning
 链接: https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:13]
+标题: D-Wave leads quantum stocks higher as AT&T expands computing deal
+链接: https://finance.yahoo.com/markets/article/d-wave-leads-quantum-stocks-higher-as-att-expands-computing-deal-131336800.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:09]
+标题: Fanatics to buy BGC Group assets to launch prediction market exchange
+链接: https://finance.yahoo.com/markets/options/articles/fanatics-buy-bgc-group-assets-130941346.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:06]
+标题: Flex Ltd. (FLEX) Outgrew the Fund’s Small-Cap Mandate on AI Data Center Strength
+链接: https://finance.yahoo.com/markets/stocks/articles/flex-ltd-flex-outgrew-fund-130621301.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:04]
+标题: Why another shocking Meta capex number may keep the stock underwater
+链接: https://finance.yahoo.com/technology/article/why-another-shocking-meta-capex-number-may-keep-the-stock-underwater-130420154.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:28]
+标题: Daily Spotlight: Fed's Favorite Inflation Indicator
+链接: https://finance.yahoo.com/research/reports/ARGUS_47730_MarketOutlook_1785151709000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:10]
+标题: 1 Incredible Reason to Buy Roblox Stock Before It Reports Earnings on July 30
+链接: https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-roblox-131000146.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:00]
+标题: Medicare's 2-year look-back rule can spike premiums by hundreds a month when retirees sell their homes
+链接: https://finance.yahoo.com/healthcare/articles/medicares-2-look-back-rule-130000537.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:58]
+标题: Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement
+链接: https://www.investors.com/news/technology/quantum-computing-stocks-d-wave-att-expand-quantum-agreement/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:56]
+标题: Silver prices today, Monday, July 27, 2026: Silver prices trend higher as Iran airatrikes on pause
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-27-2026-silver-prices-trend-higher-as-iran-airatrikes-on-pause-125654584.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:55]
+标题: Stock Market Today: Dow Jumps 575 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:28]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47729_TechnicalAnalysis_1785151682000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:06]
+标题: SpaceX Stock Is Down 48% From Its High. Here's Why ETFs Are Loading Up Anyway.
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:45]
+标题: Seagate Pulled Back After 450% Rally. Earnings Will Bring AI Stock's Next Test.
+链接: https://www.investors.com/news/technology/seagate-stock-earnings-july-2026-ai-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:44]
+标题: Amphenol Corporation (APH) Regains Appeal on an Improved Growth Outlook
+链接: https://finance.yahoo.com/markets/stocks/articles/amphenol-corporation-aph-regains-appeal-124459016.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:41]
+标题: Abbott Laboratories (ABT) Fell as Guidance and Litigation Concerns Overshadowed Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/abbott-laboratories-abt-fell-guidance-124118455.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:36]
+标题: Why Microsoft, Meta, and Amazon earnings could crush the S&P 500
+链接: https://finance.yahoo.com/markets/article/why-microsoft-meta-and-amazon-earnings-could-crush-the-sp-500-123600155.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:12]
+标题: Analyst Report: Chubb Ltd
+链接: https://finance.yahoo.com/research/reports/ARGUS_2809_AnalystReport_1785150752000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:04]
+标题: Fairlife restarts production after cyberattack, Coca-Cola says
+链接: https://finance.yahoo.com/technology/articles/fairlife-restarts-production-cyberattack-coca-130456370.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:33]
+标题: Gold prices today, Monday, July 27, 2026: Gold prices see positive traction as fighting with Iran has paused
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-27-2026-gold-prices-see-positive-traction-as-fighting-with-iran-has-paused-123327127.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:30]
+标题: Fidelity says retirees now face $185,500 in healthcare costs — up 7.5% from last year, and long-term care isn't included
+链接: https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:24]
+标题: Tesla wins bid to revive UK lawsuit for 5G patents licence
+链接: https://finance.yahoo.com/technology/articles/tesla-wins-bid-revive-uk-114206245.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:23]
+标题: Falling oil prices spark relief rally in global stocks, bonds
+链接: https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:12]
+标题: Analyst Report: Genuine Parts Co
+链接: https://finance.yahoo.com/research/reports/ARGUS_3015_AnalystReport_1785150752000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:02]
+标题: Astrazeneca Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/healthcare/articles/astrazeneca-q2-earnings-call-highlights-130210294.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:18]
+标题: Jensen Quality Growth Equity Strategy Trimmed Its Position in Broadridge Financial Solutions (BR)
+链接: https://finance.yahoo.com/markets/stocks/articles/jensen-quality-growth-equity-strategy-121804668.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:11]
+标题: Cintas Corporation (CTAS) Looks Attractive After Weak Share Performance
+链接: https://finance.yahoo.com/markets/stocks/articles/cintas-corporation-ctas-looks-attractive-121124131.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 08:04]
 标题: Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week
 链接: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:06]
+标题: Alphabet (GOOG) Gained on Strong Cloud Growth and Easing AI Search Concerns
+链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-gained-strong-120636126.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:12]
+标题: Analyst Report: AvalonBay Communities Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2749_AnalystReport_1785150752000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:00]
+标题: Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week
+链接: https://finance.yahoo.com/markets/crypto/articles/strategy-adds-525m-cash-skips-130029748.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:02]
+标题: Saudi PE dealmaking bounces back from 2025 trough
+链接: https://finance.yahoo.com/small-business/articles/saudi-pe-dealmaking-bounces-back-120221006.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:00]
+标题: $25 billion in World Cup prediction market bets and the IRS still hasn't said how winnings are taxed
+链接: https://finance.yahoo.com/markets/options/articles/25-billion-world-cup-prediction-120000884.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:00]
+标题: IDEXX Laboratories (IDXX) Looks Attractive on Recurring Revenue and High Customer Retention
+链接: https://finance.yahoo.com/markets/stocks/articles/idexx-laboratories-idxx-looks-attractive-120000793.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:56]
+标题: Intuit (INTU) Lost Appeal on AI Disruption and Earnings Concerns
+链接: https://finance.yahoo.com/markets/stocks/articles/intuit-intu-lost-appeal-ai-115638804.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:12]
+标题: Analyst Report: SAP SE
+链接: https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1785150752000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:55]
+标题: Goldman Is Bullish on Three Asian Currencies, All Three Are Down in 2026
+链接: https://finance.yahoo.com/markets/currencies/articles/goldman-bullish-three-asian-currencies-125514672.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:56]
+标题: After a Beat, Blackstone (BX) Still Has to Convince the Market
+链接: https://finance.yahoo.com/markets/stocks/articles/beat-blackstone-bx-still-convince-115606883.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:52]
+标题: KLA Corporation (KLAC) Rose on Strong Results and Process Control Demand
+链接: https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-rose-strong-115233662.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:52]
+标题: Earnings live: AstraZeneca stock rises to kick off a busy earnings week
+链接: https://finance.yahoo.com/markets/live/earnings-live-astrazeneca-stock-rises-to-kick-off-a-busy-earnings-week-115207214.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:46]
+标题: The TJX Companies (TJX) Looks Attractive on Market Share Gains and Margin Expansion
+链接: https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-looks-attractive-114605179.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:57]
+标题: Market Digest: NVS, CB, AVB, BYD, CMCSA, GPC, SAP
+链接: https://finance.yahoo.com/research/reports/ARGUS_47727_MarketSummary_1785149852000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:55]
+标题: XLV vs FHLC: Which Healthcare ETF Fits Your Portfolio?
+链接: https://finance.yahoo.com/healthcare/articles/xlv-vs-fhlc-healthcare-etf-125501073.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:43]
+标题: OpenAI to triple workforce at Dublin European headquarters to 350
+链接: https://finance.yahoo.com/technology/ai/articles/openai-triple-workforce-dublin-european-114308671.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:42]
+标题: Meet The 2 S&P 500 CEOs Paid Less Than $500 A Year
+链接: https://www.investors.com/etfs-and-funds/sectors/sp500-meet-the-2-ceos-paid-less-than-500-a-year/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:30]
+标题: Tapping into your 401(k) to buy out your home during a divorce could cost you long term. Here's what expert advise
+链接: https://finance.yahoo.com/markets/articles/tapping-401-k-buy-home-113000703.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 11:23]
+标题: Oil prices hit one-week low after US, Iran pause fighting over weekend
+链接: https://finance.yahoo.com/energy/articles/oil-slips-more-5-us-221044741.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:52]
+标题: Walmart's Stock Is Down 19% From Its High. Is It Too Late to Buy or Right on Time?
+链接: https://finance.yahoo.com/markets/stocks/articles/walmarts-stock-down-19-high-125200611.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
 标题: Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Roth IRAs offer tax-free retirement income — but for some retirees, a traditional IRA saves more money
-链接: https://finance.yahoo.com/markets/currencies/articles/roth-iras-offer-tax-free-100000479.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 12:35]
+标题: Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock
+链接: https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html
+正文: Steve Eisman is warning that investors may be underestimating the risks if the AI boom fails to deliver on lofty expectations.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: 27-year-old NYC locksmith spent $7,000 to launch her business — then one TikTok brought in 60 jobs a week
-链接: https://finance.yahoo.com/small-business/articles/27-old-nyc-locksmith-spent-100000048.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:19]
-标题: Brown-Forman turns down Sazerac takeover bid
-链接: https://finance.yahoo.com/markets/stocks/articles/brown-forman-turns-down-sazerac-101949170.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Mortgage and refinance rates today, Monday, July 27, 2026: Purchase rates higher/lower than refinance rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-27-2026-purchase-rates-higherlower-than-refinance-rates-100000066.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: HELOC and home equity loan rates today, Monday, July 27, 2026: How to choose when rates are nearly identical
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:17]
-标题: Carlyle, Bain in race to buy Wealth Enhancement for $7bn – report
-链接: https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:44]
-标题: Why Did Northrop Grumman (NOC) Fall After Raising Its 2026 Forecast?
-链接: https://finance.yahoo.com/markets/stocks/articles/why-did-northrop-grumman-noc-094444080.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:30]
-标题: Some retirees are choosing to never sell their home — and the reasons are both logical and grim
-链接: https://finance.yahoo.com/real-estate/articles/retirees-choosing-never-sell-home-093000062.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:07]
-标题: Is The Boston Beer Company, Inc. (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines?
-链接: https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-inc-sam-090726209.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:03]
-标题: Global stocks climb, oil slides after pause in Middle East fighting
-链接: https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:15]
-标题: 3 AI Stocks to Buy Now While They Are Still Cheap
-链接: https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-buy-now-101500664.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:00]
-标题: Fed expected to hold rates steady — but an interest rate hike isn't off the table
-链接: https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-26 12:10]
-标题: Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/corporate-america-is-the-most-optimistic-its-been-in-15-years--but-the-markets-still-stuck-chart-of-the-day-121054259.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:10]
-标题: Prediction: This Quantum Computing Stock Is Going to Plummet After Aug. 6
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-quantum-computing-stock-going-101000289.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:05]
-标题: Nebius Just Revealed the Biggest Problem Facing Neocloud Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/nebius-just-revealed-biggest-problem-100500385.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:01]
-标题: Texas Wants to Give Homeowners a Property Tax Break at 55. Could Your State Be Next?
-链接: https://finance.yahoo.com/real-estate/articles/texas-wants-homeowners-property-tax-100154935.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:01]
-标题: Cybertruck Called the Biggest Flop in Automotive History, as Tesla Shares Plummet
-链接: https://finance.yahoo.com/markets/stocks/articles/cybertruck-called-biggest-flop-automotive-100137347.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:57]
-标题: BitMart Becomes Latest Crypto Exchange to Shut Down
-链接: https://finance.yahoo.com/markets/crypto/articles/bitmart-becomes-latest-crypto-exchange-095720508.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:55]
-标题: 3 Stocks For Latin America’s Renewable Power Boom
-链接: https://www.barrons.com/articles/power-stocks-solar-brookfield-14734d12?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:54]
-标题: Micron Rival CXMT’s Stock Soars 466% After IPO as the Memory Boom Takes a Twist
-链接: https://www.barrons.com/articles/micron-stock-cxmt-memory-chip-834b55db?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:53]
-标题: U.S. markets eye earnings season as Middle East tensions ease: Dow Jones, S&P, Nasdaq, Wall Street Futures
-链接: https://finance.yahoo.com/markets/stocks/articles/u-markets-eye-earnings-season-095326735.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:53]
-标题: I Predicted Netflix Would Soar After July 16. The Stock Is Down 6% Instead. Here's Whether I'm Still a Buyer.
-链接: https://finance.yahoo.com/markets/stocks/articles/predicted-netflix-soar-july-16-095300585.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:51]
-标题: KOC agrees $16bn pipeline deal with Blackstone, Brookfield, KKR
-链接: https://finance.yahoo.com/energy/articles/koc-agrees-16bn-pipeline-deal-095140066.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:50]
-标题: If I Could Tell Every Investor 1 Thing About the Next Bear Market, It's This
-链接: https://finance.yahoo.com/markets/stocks/articles/could-tell-every-investor-1-095000509.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:46]
-标题: EU approves Saica’s acquisition of Thimm plants in four countries
-链接: https://finance.yahoo.com/small-business/articles/eu-approves-saica-acquisition-thimm-094620555.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:45]
-标题: Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell 45% From Their Record High. Wall Street's Median Price Target Is $243.81, 111.5% Above the Current Close.
-链接: https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-bought-21-094500931.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:43]
-标题: AI Memory Demand Lifts CXMT to China’s Most Valuable Company
-链接: https://finance.yahoo.com/technology/ai/articles/ai-memory-demand-lifts-cxmt-094356034.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 09:36]
-标题: Solana and Hyperliquid ETFs Continue to See New Inflows. Should Investors Be Bullish on SOL and HYPE?
-链接: https://finance.yahoo.com/markets/crypto/articles/solana-hyperliquid-etfs-continue-see-093600861.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 11:58]
+标题: Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more
+链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-27 00:00]
 标题: Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager
 链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager
 正文: Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-27 10:33]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-27 13:32]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-27 10:33]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-27 13:32]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
