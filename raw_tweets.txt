@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 03:54:59
-# 共计 35 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-28 06:18:43
+# 共计 34 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 18:00]
 标题: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
@@ -35,6 +35,11 @@
 标题: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics
 链接: https://huggingface.co/blog/nvidia/cosmos-h-dreams
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 04:57]
+标题: FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA
+链接: https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
+正文: Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 00:00]
 标题: 如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能
 链接: https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
@@ -65,11 +70,6 @@
 链接: https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3
 正文: GitHub Copilot 推出&quot;Harness&quot;工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 17:50]
-标题: SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持
-链接: https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9
-正文: SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 16:00]
 标题: GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览
 链接: https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy
@@ -80,20 +80,15 @@
 链接: https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa
 正文: Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 15:44]
-标题: Kimi K3 上线 Modal，支持无损加速推理
-链接: https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o
-正文: 很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！ 他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 15:34]
+标题: Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放
+链接: https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4
+正文: 月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 15:25]
 标题: Kimi K3 开源分布式智能体环境 AgentENV
 链接: https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh
 正文: 我们与 kvcache-ai 合作开源了 AgentENV。 AgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。 在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 15:14]
-标题: Kimi K3 开源：2.8T MoE 模型与技术报告
-链接: https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j
-正文: Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 09:00]
 标题: NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化
@@ -157,10 +152,10 @@
 链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 03:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 06:18]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 03:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 06:18]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
