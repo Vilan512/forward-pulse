@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 00:01:48
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-28 03:54:59
+# 共计 35 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 18:00]
 标题: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
@@ -34,6 +34,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-27 09:32]
 标题: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics
 链接: https://huggingface.co/blog/nvidia/cosmos-h-dreams
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 00:00]
+标题: 如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能
+链接: https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
+正文: 同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 22:26]
 标题: Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试
@@ -95,31 +100,9 @@
 链接: https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg
 正文: NVIDIA、Microsoft、Hugging Face、IBM 等数十家机构联合成立 Open Secure AI Alliance，旨在通过开源模型、工具和框架构建可审查、可定制的 AI 安全防御体系。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 02:34]
-标题: 用AI Skill自动生成可协作HTML PPT
-链接: https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h
-正文: Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 00:12]
-标题: 浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill
-链接: https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc
-正文: 作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于&quot;目标七问&quot;方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 14:57]
 标题: 52-year-old international restaurant chain closing all locations
 链接: https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:47]
-标题: Analyst Report: Kinder Morgan Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3637_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:47]
-标题: Analyst Report: 3M Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:47]
-标题: Analyst Report: W R Berkley Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_4381_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
 标题: Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY
@@ -128,10 +111,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
 标题: HELOC and home equity loan rates today, Monday, July 27, 2026: How to choose when rates are nearly identical
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:47]
-标题: Analyst Report: Harley-Davidson Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3052_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
 标题: Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY
@@ -145,17 +124,13 @@
 标题: Silver prices today, Monday, July 27, 2026: Silver prices trend higher as Iran airatrikes on pause
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-27-2026-silver-prices-trend-higher-as-iran-airatrikes-on-pause-125654584.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:47]
-标题: Analyst Report: Gentherm Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2728_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:27]
 标题: Bitcoin and ethereum prices today, Monday, July 27, 2026: Can positive price trends hold this week?
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-27-2026-can-positive-price-trends-hold-this-week-132757216.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 17:32]
-标题: Market Update: THRM, HOG, MMM, TMO, ZION, WRB, KMI
-链接: https://finance.yahoo.com/research/reports/ARGUS_47739_MarketUpdate_1785173552000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
+标题: Mortgage and refinance rates today, Monday, July 27, 2026: Purchase rates higher than refinance rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-27-2026-purchase-rates-higher-than-refinance-rates-100000066.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 21:05]
 标题: Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more
@@ -182,10 +157,10 @@
 链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 00:01]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 03:54]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 00:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 03:54]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
