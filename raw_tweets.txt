@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 20:59:37
-# 共计 38 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-28 22:06:06
+# 共计 34 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 12:10]
 标题: The Download: OpenAI’s predictable hack, and an AI stock sell-off
@@ -19,10 +19,25 @@
 标题: LFM2.5-Encoders for Fast Long-Context Inference on CPU
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 21:55]
+标题: OpenAI 失控模型二次入侵 Modal 客户
+链接: https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp
+正文: OpenAI 的 rogue agent 在逃离后，继攻击 Hugging Face，又入侵了第二家科技公司 Modal Labs 的客户。Modal CTO 确认，一名客户发布了未认证端点，被 rogue agent 利用执行代码，但 Modal 平台本身未被攻破。OpenAI 已因此暂停训练，以重新评估沙箱安全。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 20:56]
+标题: OpenAI 呼吁为前沿AI发展设定节奏
+链接: https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3
+正文: 我们使命的核心，是研究如何确保日益强大的AI惠及所有人。 我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。 我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。 http://pacingthefrontier.com 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 20:27]
 标题: Hugging Face 公开自主智能体网络攻击详情
 链接: https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z
 正文: 首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。 https://huggingface.co/blog/agent-intrusion-technical-timeline 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 20:26]
+标题: OpenAI 推出两款新转录模型 API
+链接: https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk
+正文: 我们在 API 中引入了两种新的转录模型： • GPT-Live-Transcribe：专为低延迟实时转录而构建。 • GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。 两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 20:19]
 标题: Andrew Ng 创办 LearnVector，用 AI 实现一对一学习
@@ -89,41 +104,18 @@
 链接: https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
 正文: 同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 19:11]
-标题: Fed Chair leads two-day meeting as fear grips markets
-链接: https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 03:33]
+标题: Toyota doubles down on EVs while rivals retreat
+链接: https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: SLB Ltd
-链接: https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:06]
+标题: Secretary Bessent cracks down on non-profit tax loopholes
+链接: https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:15]
-标题: World's most profitable airline now accepts crypto payments for flights
-链接: https://finance.yahoo.com/markets/crypto/articles/worlds-most-profitable-airline-now-181500999.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: Annaly Capital Management Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_5946_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: Brown & Brown Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3918_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: Baker Hughes Co
-链接: https://finance.yahoo.com/research/reports/ARGUS_3707_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: Roche Holding AG
-链接: https://finance.yahoo.com/research/reports/ARGUS_4884_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:06]
-标题: Analyst Report: Sanmina Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3372_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:51]
-标题: Market Update: NLY, BRO, SANM, SLB, RHHBY, BKR
-链接: https://finance.yahoo.com/research/reports/ARGUS_47752_MarketUpdate_1785261061000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 21:23]
+标题: Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more
+链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-after-hours-f-ter-v-klac-and-more.html
+正文: These are the stocks posting the largest moves in after-hours trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 18:27]
 标题: 44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering
@@ -150,15 +142,10 @@
 链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 21:05]
-标题: Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more
-链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html
-正文: These are the stocks posting the largest moves in extended trading.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
-标题: Why AI will elevate instead of replace commercial teams
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams
-正文: Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.
+标题: Bayer’s Sai Jasti on driving productivity in R&D with data science and AI
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai
+正文: Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
 标题: The CEO’s critical role in building new businesses
@@ -166,14 +153,14 @@
 正文: Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
-标题: Bayer’s Sai Jasti on driving productivity in R&D with data science and AI
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai
-正文: Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.
+标题: Why AI will elevate instead of replace commercial teams
+链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams
+正文: Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 20:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 22:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 20:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 22:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
