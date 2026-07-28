@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 17:29:04
-# 共计 68 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-28 19:09:38
+# 共计 26 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 12:10]
 标题: The Download: OpenAI’s predictable hack, and an AI stock sell-off
@@ -11,11 +11,6 @@
 链接: https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
 正文: Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on how to draft a stellar personal statement. Even his boss encourages him to make the move. “My team lead tells us all to jump ship to SK Hynix,” says Lee. He and his coworkers are feeling demoralized by the $476,000 bonus that SK Hynix is set to pay its employees, flush with record profits from making the high-bandwidth memory (HBM) chips that power Nvidia’s AI accelerators. The figure dwarfs what chip workers at Samsung are set to receive and is sparking an exodus. As the AI boom heats up, the semiconductor titans are waging a fierce talent war with flashy bonuses, aggressive recruiting, and even a courtroom injunction. Who wins could tilt the race to dominate the next generation of the HBM chips at the heart of the AI boom. “Except for our two team leads, my entire team [of 30 people] just applied to SK Hynix,” Lee says, referring to a job posting the company published in July. Lee, who has worked at Samsung for three years, even applied for an entry-level position at its rival. A coworker, who has worked at Samsung for eight years, applied for the same one. They both got rejected. But they’re hopeful that they’ll get a callback for a posting seeking a more experienced engineer. All employees at Samsung and SK Hynix that MIT Technology Review spoke with asked to be identified by just their last name or a pseudonym because they feared retaliation from their employer. Samsung declined to comment, and SK Hynix did not respond to requests for comment. After prolonged negotiations with its labor union, Samsung struck a deal in May to pay out 10.5% of the semiconductor division’s operating profits to employees as bonuses annually for 10 years, mostly in co
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 18:00]
-标题: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-链接: https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been pushing back against AI scare stories for years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing. OpenAI could—and should—have seen this coming. Here’s what happened, at least according to the two companies involved. A couple of weeks ago, OpenAI started testing the hacking abilities of some of its new models, including GPT‑5.6 Sol (released in June) and what OpenAI describes as “an even more capable pre-release model.” OpenAI pitted its models against a benchmark called ExploitGym, released in May, which challenges LLMs to find ways to exploit hundreds of real-world vulnerabilities found in widely used software, including crucial code that underpins the web. To see what they could do, the researchers removed most of their cybersecurity guardrails. Then they ran the models inside a sandbox that was cut off from the internet except for one link to a third-party piece of software that acted as a proxy to the outside world, so that the models could install code they needed to beat ExploitGym. On July 9, according to reporting by Reuters, OpenAI’s models started trying to break through the proxy. They found an unknown bug in the proxy’s software and used it to access the internet. From there, they broke into Hugging Face’s computer systems on July 11, apparently looking for data sets and solutions that would help them complete the tasks they were being tested on
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-28 16:27]
 标题: The OlmoEarth Platform: Geospatial inference at planetary scale
 链接: https://huggingface.co/blog/allenai/olmoearth-infrastructure
@@ -23,6 +18,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-28 15:01]
 标题: LFM2.5-Encoders for Fast Long-Context Inference on CPU
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 17:16]
+标题: Claude 发现加密算法弱点研究发布
+链接: https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm
+正文: Anthropic 新研究：用 Claude 发现加密弱点。 Claude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。 了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 16:00]
 标题: Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐
@@ -69,183 +69,16 @@
 链接: https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
 正文: 同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 19:08]
-标题: OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作
-链接: https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e
-正文: OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:51]
+标题: Market Update: NLY, BRO, SANM, SLB, RHHBY, BKR
+链接: https://finance.yahoo.com/research/reports/ARGUS_47752_MarketUpdate_1785261061000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 18:45]
-标题: Kimi 发布视觉感知基准 PerceptionBench
-链接: https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09
-正文: Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 18:27]
+标题: 44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering
+链接: https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html
+正文: The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 18:08]
-标题: 用Claude和Python构建技能驱动的金融分析智能体
-链接: https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7
-正文: 本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-27 18:00]
-标题: GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查
-链接: https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3
-正文: GitHub Copilot 推出&quot;Harness&quot;工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 12:56]
-标题: Micron, SK Hynix stocks sink as AI chip sell-off deepens
-链接: https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 08:28]
-标题: Stock market today: Nasdaq bounces back, S&P 500 and Dow rise as earnings, falling oil prices offset chip weakness
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 14:18]
-标题: Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension
-链接: https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:49]
-标题: The chip stock rout hasn't crushed the broader market, but investors should look out for these trends
-链接: https://finance.yahoo.com/markets/article/the-chip-stock-rout-hasnt-crushed-the-broader-market-but-investors-should-look-out-for-these-trends-164913877.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:09]
-标题: Want to Retire at 55? 3 Things to Do Early in Your Career.
-链接: https://finance.yahoo.com/markets/articles/want-retire-55-3-things-170900694.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:36]
-标题: Dow Jones Energy Giant Chevron Eyes Buy Point As Oil Prices Tumble, But ASML Dives Below Key Level
-链接: https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-chevron-stock-cvx-asml-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:33]
-标题: Wall Street’s Trading Boom Just Got a New Leader: Can Morgan Stanley (MS) Keep It?
-链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-trading-boom-just-163349079.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 13:02]
-标题: 6 members of Congress have bought SpaceX stock, including one Democrat
-链接: https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:32]
-标题: Mercedes' mixed bag: Upbeat Q2 results come as German automaker could face US sales ban
-链接: https://finance.yahoo.com/markets/stocks/article/mercedes-mixed-bag-upbeat-q2-results-come-as-german-automaker-could-face-us-sales-ban-163220201.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:07]
-标题: Giant wine and spirits brand files Chapter 11 bankruptcy
-链接: https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:27]
-标题: How to save cash: 7 ways to protect and grow your liquid savings
-链接: https://finance.yahoo.com/personal-finance/banking/article/how-to-save-cash-grow-liquid-savings-162718210.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:25]
-标题: Daktronics, Inc. Q1 2010 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/daktronics-inc-q1-2010-earnings-162534893.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:22]
-标题: OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses
-链接: https://finance.yahoo.com/technology/ai/articles/openai-agent-hacked-hugging-face-162250634.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:19]
-标题: US goods trade deficit shrinks, is still expected to weigh on Q2 GDP growth
-链接: https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-contracts-125003300.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:07]
-标题: Top analyst revamps Google stock price target on key move
-链接: https://finance.yahoo.com/markets/stocks/articles/top-analyst-revamps-google-stock-170700699.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:15]
-标题: Nvidia (NVDA) and Meta (META) Back Open Models: OpenAI and Anthropic’s Model Moats Are at Stake
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-meta-meta-back-161552513.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:13]
-标题: Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck
-链接: https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:08]
-标题: Benchmark price is up, futures down, diesel on its own
-链接: https://finance.yahoo.com/energy/articles/benchmark-price-futures-down-diesel-160858604.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:04]
-标题: Clinical Trials Provider Soars, Clears Buy Point On Solid Q2 Results
-链接: https://www.investors.com/news/iqvia-iqv-stock-earnings-ai-tools/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:31]
-标题: Daily Spotlight: Min Vol: More than a Defensive Strategy
-链接: https://finance.yahoo.com/research/reports/ARGUS_47749_MarketOutlook_1785238296000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:07]
-标题: Chipotle Reports Wednesday With Its Stock 30% Below Its High and 35 Analysts Pointing 30% Higher.
-链接: https://finance.yahoo.com/markets/stocks/articles/chipotle-reports-wednesday-stock-30-170700217.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:04]
-标题: H2 2026 Distressed Outlook: Elevated cost of capital, software debt in focus
-链接: https://finance.yahoo.com/markets/stocks/articles/h2-2026-distressed-outlook-elevated-160408643.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:01]
-标题: SharkNinja Stock Swims To Record High Ahead Of Q2 Report
-链接: https://www.investors.com/news/technology/sharkninja-stock-sn-record-high-before-q2-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:00]
-标题: PayPal Earnings Top Estimates. CEO Lores Does Not Rule Out Stripe Deal
-链接: https://www.investors.com/news/technology/paypal-stock-paypal-earnings-stripe-offer-ceo-commentary/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:00]
-标题: IRS will automatically wipe late-filing penalties up to 25% for taxpayers with a 3-year clean record
-链接: https://finance.yahoo.com/economy/policy/articles/irs-automatically-wipe-filing-penalties-160000158.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:31]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47748_TechnicalAnalysis_1785238264000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:05]
-标题: Dow Jumps 520 Points While Nasdaq Struggles Through Chip Stock Panic
-链接: https://finance.yahoo.com/markets/stocks/articles/dow-jumps-520-points-while-170514025.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 15:57]
-标题: Meta Earnings On Deck. How High Will Zuckerberg's AI Spending Go?
-链接: https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 15:55]
-标题: Unilever Finally Finds Its Volume Button
-链接: https://finance.yahoo.com/markets/stocks/articles/unilever-finally-finds-volume-button-155521193.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:03]
-标题: Dow Jones rises 659 points on Coca-Cola, Sherwin-Williams earnings
-链接: https://finance.yahoo.com/markets/stocks/articles/dow-jones-rises-659-points-170348947.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 12:52]
-标题: Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 12:05]
-标题: Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:06]
-标题: Analyst Report: Lockheed Martin Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3150_AnalystReport_1785236773000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:02]
-标题: These Are the 3 Worst-Performing Stocks on the Nasdaq-100 in 2026. Could They Be Underrated Buys Right Now?
-链接: https://finance.yahoo.com/markets/stocks/articles/3-worst-performing-stocks-nasdaq-170206754.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:40]
-标题: Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
-标题: Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:06]
-标题: Analyst Report: Equity Residential
-链接: https://finance.yahoo.com/research/reports/ARGUS_2945_AnalystReport_1785236773000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 17:01]
-标题: A Goldman Economist Says AI Will Take 15 Years to Show Up in the Economy. A 63-Year-Old Banking His Nest Egg on the AI Boom Should Listen.
-链接: https://finance.yahoo.com/markets/stocks/articles/goldman-economist-says-ai-15-170123297.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
-标题: Best CD rates today, Tuesday, July 28, 2026: Lock in up to 4.15% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-28-2026-lock-in-up-to-415-apy-today-100000665.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 17:21]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 17:40]
 标题: Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say
 链接: https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html
 正文: The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.
@@ -270,30 +103,25 @@
 链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html
 正文: These are the stocks posting the largest moves in extended trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 18:10]
-标题: Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more
-链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-midday-asml-skhy-sap-fbrx-bfb.html
-正文: These are some of the stocks posting the largest midday moves.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 18:06]
-标题: CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day
-链接: https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html
-正文: CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
 标题: Bayer’s Sai Jasti on driving productivity in R&D with data science and AI
 链接: https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai
 正文: Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
+标题: The CEO’s critical role in building new businesses
+链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses
+正文: Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
 标题: Why AI will elevate instead of replace commercial teams
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams
 正文: Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 17:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 19:09]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 17:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 19:09]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
