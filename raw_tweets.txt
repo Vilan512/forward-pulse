@@ -1,10 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 09:30:51
-# 共计 48 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-28 11:50:23
+# 共计 56 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 09:18]
+标题: Samsung’s chip workers are jumping ship to rival SK Hynix
+链接: https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
+正文: Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on how to draft a stellar personal statement. Even his boss encourages him to make the move. “My team lead tells us all to jump ship to SK Hynix,” says Lee. He and his coworkers are feeling demoralized by the $476,000 bonus that SK Hynix is set to pay its employees, flush with record profits from making the high-bandwidth memory (HBM) chips that power Nvidia’s AI accelerators. The figure dwarfs what chip workers at Samsung are set to receive and is sparking an exodus. As the AI boom heats up, the semiconductor titans are waging a fierce talent war with flashy bonuses, aggressive recruiting, and even a courtroom injunction. Who wins could tilt the race to dominate the next generation of the HBM chips at the heart of the AI boom. “Except for our two team leads, my entire team [of 30 people] just applied to SK Hynix,” Lee says, referring to a job posting the company published in July. Lee, who has worked at Samsung for three years, even applied for an entry-level position at its rival. A coworker, who has worked at Samsung for eight years, applied for the same one. They both got rejected. But they’re hopeful that they’ll get a callback for a posting seeking a more experienced engineer. All employees at Samsung and SK Hynix that MIT Technology Review spoke with asked to be identified by just their last name or a pseudonym because they feared retaliation from their employer. Samsung declined to comment, and SK Hynix did not respond to requests for comment. After prolonged negotiations with its labor union, Samsung struck a deal in May to pay out 10.5% of the semiconductor division’s operating profits to employees as bonuses annually for 10 years, mostly in co
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 18:00]
 标题: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 链接: https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been pushing back against AI scare stories for years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing. OpenAI could—and should—have seen this coming. Here’s what happened, at least according to the two companies involved. A couple of weeks ago, OpenAI started testing the hacking abilities of some of its new models, including GPT‑5.6 Sol (released in June) and what OpenAI describes as “an even more capable pre-release model.” OpenAI pitted its models against a benchmark called ExploitGym, released in May, which challenges LLMs to find ways to exploit real-world vulnerabilities found in commonly used software. To see what they could do, the researchers removed most of their cybersecurity guardrails. Then they ran the models inside a sandbox that was cut off from the internet except for one link to a third-party piece of software that acted as a proxy to the outside world, and let them install code that they needed to beat ExploitGym. On July 9, according to reporting by Reuters, OpenAI’s models started trying to break through the proxy. They found an unknown bug in the proxy’s software and used it to access the internet. From there, they broke into Hugging Face’s computer systems on July 11, apparently looking for data sets and solutions that would help them complete their task. Hugging Face announced the hack on July 16.&nbsp; OpenAI did not realize (or at least d
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been pushing back against AI scare stories for years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing. OpenAI could—and should—have seen this coming. Here’s what happened, at least according to the two companies involved. A couple of weeks ago, OpenAI started testing the hacking abilities of some of its new models, including GPT‑5.6 Sol (released in June) and what OpenAI describes as “an even more capable pre-release model.” OpenAI pitted its models against a benchmark called ExploitGym, released in May, which challenges LLMs to find ways to exploit hundreds of real-world vulnerabilities found in widely used software, including crucial code that underpins the web. To see what they could do, the researchers removed most of their cybersecurity guardrails. Then they ran the models inside a sandbox that was cut off from the internet except for one link to a third-party piece of software that acted as a proxy to the outside world, so that the models could install code they needed to beat ExploitGym. On July 9, according to reporting by Reuters, OpenAI’s models started trying to break through the proxy. They found an unknown bug in the proxy’s software and used it to access the internet. From there, they broke into Hugging Face’s computer systems on July 11, apparently looking for data sets and solutions that would help them complete the tasks they were being tested on
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 14:24]
 标题: How lasers could help provide fuel for nuclear reactors
@@ -21,24 +26,15 @@
 链接: https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
 正文: Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate patient care without a human making the decisions. “The intelligence is already there. What is missing is the connective tissue that turns four strangers into one team,” explains Vijoy Pandey, senior vice president and general manager of Outshift by Cisco. This “connective tissue” comes from adding a semantic layer—what Outshift calls the “Internet of Cognition”—that enables agents across domains to work together and, critically, “think” together through shared intent, context, and reasoning. This semantic layer relies on a connectivity layer beneath it called the “Internet of Agents,” which allows autonomous agents to discover one another, prove identity, and exchange messages across domains. When used together, they enable “the next step on the road to distributed artificial superintelligence,” says Pandey. From solo silicon savants to the ‘Internet of Cognition’ For years, the AI industry has been focused on growth. Scaling vertically has led to bigger models, trained on more data with more compute. This has produced the reasoning capabilities that can be like a “brain” for AI agents, which can perceive, reason, and act in digital environments. While vertical scaling can produce more capable agents perpetually, to enable agentic problem solving across different systems, companies, and platforms the next axis of scale must be horizontal, says Pandey. Multi-agent systems are already being explored in areas like software engineering, drug discovery, and scientific simulations, but their performances so far have been underwhelming. One study finds a failure rate of between 41% and around 87% when evaluating seven open-source multi-agent sys
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 11:40]
-标题: Closing the data loop in AI-driven drug discovery
-链接: https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
-正文: Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion, with failure rates upward of 90%. AI has become the pharmaceutical industry’s biggest bet on bringing success rates up and timelines down. The faster drug companies can identify, test, and optimize new chemical compounds, the lower the risk of costly failures later in development. “The main cost in drug discovery is still the clinical phase, so trying to reduce risk and increase your success rates there is obviously hugely beneficial,” says Paul Belcher, director of protein research strategy at global life sciences company Cytiva. “AI is one approach that drug companies hope will not only save time and compress timelines, but enable better quality candidates to reach the clinic.” Early use of AI in drug discovery shows potential, but also highlights the need for robust and authentic data, as well as integration in lab systems. AI brings efficiency to the lab One of the most promising early-stage applications of AI in drug discovery is in hit identification. This involves screening libraries of molecular entities against a disease-related target, such as a protein, to find molecules that bind to it. A successful hit gives researchers a starting point for further testing and refinement, with the aim of eventually developing a viable drug. Belcher has seen a shift from empirical screening to predictive design: Instead of physically screening libraries, drug companies are now using AI to design drug candidates from scratch and predict how they will interact with disease targets before committing anything to research and development (R&amp;D). This means companies are no longer limit
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-27 11:32]
-标题: Building the enterprise environment for agentic AI
-链接: https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
-正文: For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the ability to predictably plan and scale agents. To better understand some of these dependencies, Intel performed thousands of agentic AI workload experiments. Our initial findings create and support five practical lessons for enterprise leaders: Agentic AI is a larger systems problem, not just one of inference. The majority of existing agentic AI harnesses are limited and do not measure overall system performance. Plan capacity is done using agents per virtual CPU (vCPU) density, not agent count. Monitor agent task latency, not just average CPU utilization. Default to scale-out for systems hosting agents. Reserve scale-up for workloads with heavier per-agent compute or architectural constraints. Beyond inference: Agents as workflow automation Agentic AI is more than LLM inference. Its enterprise value depends on the full system, task orchestration, data access, tool execution, latency management, governance, and scalable infrastructure. An agent is a goal-driven automated enterprise workflow process: It plans a multi-step task, calls tools, reads results, and retries when something fails. Enterprise agents are therefore not just an inference problem; they are a systems problem. Defining what good looks like Most agentic AI metrics focus on evaluating the LLM used. Platform teams also need to know how long the tasks take, how many agents a fleet can support, what users experience at the end of the execution process, and how costs change as more agents work simultaneously. A more useful enterprise view looks at six metrics: Task success rate Cost per task Time per task Task throughput Agent density (agents per vC
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-27 09:32]
-标题: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics
-链接: https://huggingface.co/blog/nvidia/cosmos-h-dreams
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 08:33]
 标题: Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%
 链接: https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix
 正文: Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 07:51]
+标题: 火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力
+链接: https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2
+正文: 火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 06:21]
 标题: 德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权
@@ -104,49 +100,89 @@
 标题: 52-year-old international restaurant chain closing all locations
 链接: https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:09]
-标题: Dollar hovers near four-week peak as markets mull Fed hike odds
-链接: https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 08:28]
-标题: Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens
+标题: Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises
 链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 14:54]
-标题: Semiconductor stock charts just formed this bearish shape that signals more potential losses
-链接: https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:24]
+标题: India's June industrial output grows 7.3% y/y on manufacturing boost
+链接: https://finance.yahoo.com/news/indias-june-industrial-output-grows-105612790.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 08:38]
-标题: Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?
-链接: https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:20]
+标题: GSK launches $2.5 billion savings drive to boost drug pipeline
+链接: https://finance.yahoo.com/healthcare/articles/gsk-beats-second-quarter-profit-111025882.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:20]
-标题: Been here before
-链接: https://finance.yahoo.com/markets/stocks/articles/been-here-before-092052259.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:08]
+标题: Core Scientific signs AI infrastructure deal with AMD
+链接: https://finance.yahoo.com/technology/ai/articles/core-scientific-signs-ai-infrastructure-110814795.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 08:16]
-标题: Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation
-链接: https://finance.yahoo.com/healthcare/articles/why-alnylam-best-quarter-ever-081611164.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:51]
+标题: Market Digest: CBRL, EQR, LAZ, LMT, TSCO, CHTR, AGNC
+链接: https://finance.yahoo.com/research/reports/ARGUS_47746_MarketSummary_1785235873000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:19]
-标题: AI Everywhere for Value: New Celent report alert
-链接: https://finance.yahoo.com/technology/ai/articles/ai-everywhere-value-celent-report-091952016.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:34]
+标题: Sabadell to expand AI focus, centralise key functions in restructure
+链接: https://finance.yahoo.com/technology/ai/articles/sabadell-expand-ai-focus-centralise-113449365.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:06]
+标题: Germany's deep tech edge drives acceleration in VC funding
+链接: https://finance.yahoo.com/small-business/articles/germanys-deep-tech-edge-drives-110633256.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: HELOC and home equity loan rates today, Monday, July 27, 2026: How to choose when rates are nearly identical
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:03]
+标题: PayPal presses on with turnaround in pivotal quarter as sale questions linger
+链接: https://finance.yahoo.com/markets/stocks/articles/paypal-presses-turnaround-pivotal-quarter-110310369.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:38]
+标题: Morning Bid: Chip rout snowballs
+链接: https://finance.yahoo.com/markets/stocks/articles/morning-bid-chip-rout-snowballs-103825154.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:16]
-标题: Textiles Recycling Expo USA to return in 2027 after successful debut
-链接: https://finance.yahoo.com/small-business/articles/textiles-recycling-expo-usa-return-091659982.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:36]
+标题: Fitch warns AI market correction emerging as major global credit risk
+链接: https://finance.yahoo.com/technology/ai/articles/fitch-warns-ai-market-correction-103630010.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:14]
+标题: Daily – Vickers Top Buyers & Sellers for 07/28/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47745_TopBottomInsiderActivity_1785233688000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:32]
+标题: Should You Buy Apple Stock Before July 30?
+链接: https://finance.yahoo.com/markets/stocks/articles/buy-apple-stock-july-30-113200170.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:34]
+标题: Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports
+链接: https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:17]
+标题: Mercedes gets shares boost on stable second quarter despite China woes
+链接: https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
+标题: Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:14]
+标题: Daily – Vickers Top Insider Picks for 07/28/2026
+链接: https://finance.yahoo.com/research/reports/ARGUS_47744_InsiderActivity_1785233688000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:31]
+标题: HSBC to set up global AI excellence centre in Singapore
+链接: https://finance.yahoo.com/technology/ai/articles/hsbc-set-global-ai-excellence-113155298.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
+标题: Best CD rates today, Tuesday, July 28, 2026: Lock in up to 4.15% APY today
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-28-2026-lock-in-up-to-415-apy-today-100000665.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
+标题: A 'Super El Niño' is expected to squeeze commodities even further this year
+链接: https://finance.yahoo.com/markets/article/a-super-el-nino-is-expected-to-squeeze-commodities-even-further-this-year-100000389.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 10:00]
+标题: The bond market's danger zone is becoming the new normal: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:26]
+标题: Apnimed scouts $160m IPO to back late-stage sleep apnoea pill development
+链接: https://finance.yahoo.com/healthcare/articles/apnimed-scouts-160m-ipo-back-112615040.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 12:33]
 标题: Gold prices today, Monday, July 27, 2026: Gold prices see positive traction as fighting with Iran has paused
@@ -156,33 +192,30 @@
 标题: Silver prices today, Monday, July 27, 2026: Silver prices trend higher as Iran airatrikes on pause
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-27-2026-silver-prices-trend-higher-as-iran-airatrikes-on-pause-125654584.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:26]
+标题: SpaceX Has Nosedived 50% From Its All-Time High, and It May Realistically Lose Another 50% Before Its Valuation Makes Any Sense
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-nosedived-50-time-high-112600474.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 13:27]
 标题: Bitcoin and ethereum prices today, Monday, July 27, 2026: Can positive price trends hold this week?
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-27-2026-can-positive-price-trends-hold-this-week-132757216.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:16]
-标题: Middle East crisis causes shelf gaps in the UK
-链接: https://finance.yahoo.com/economy/articles/middle-east-crisis-causes-shelf-091634277.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:25]
+标题: Most internal audit teams have untapped leadership talent – survey
+链接: https://finance.yahoo.com/small-business/articles/most-internal-audit-teams-untapped-112510690.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-27 10:00]
-标题: Mortgage and refinance rates today, Monday, July 27, 2026: Purchase rates higher than refinance rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-27-2026-purchase-rates-higher-than-refinance-rates-100000066.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:25]
+标题: Marvell Technology vs. Nvidia: Which Technology Stock Is a Better Buy in 2026?
+链接: https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-nvidia-technology-112501036.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:14]
-标题: Ardagh Group reports 16% emissions cuts in metal packaging
-链接: https://finance.yahoo.com/energy/articles/ardagh-group-reports-16-emissions-091432855.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 11:20]
+标题: UPS Q2 2026 earnings beat estimates, raises full-year revenue outlook
+链接: https://finance.yahoo.com/markets/stocks/articles/ups-q2-2026-earnings-beat-112032472.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:11]
-标题: Why the India-UK trade deal now needs a five-gate implementation ledger
-链接: https://finance.yahoo.com/economy/policy/articles/why-india-uk-trade-deal-091115235.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:08]
-标题: Affording a home's more than a mortgage. How dream homes can drain you
-链接: https://finance.yahoo.com/real-estate/articles/affording-homes-more-mortgage-dream-090858320.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 09:08]
-标题: 1 AI Stock to Buy Before It Soars 150%, According to a Wall Street Analyst (Hint: Not Micron or Sandisk)
-链接: https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800929.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 11:42]
+标题: Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more
+链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html
+正文: These are the stocks posting the largest moves in early trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-27 21:05]
 标题: Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more
@@ -209,10 +242,10 @@
 链接: https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-premarket-mu-fbrx-xom-bkr.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 09:30]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 11:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 09:30]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 11:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
