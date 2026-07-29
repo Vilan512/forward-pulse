@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-28 23:52:14
-# 共计 36 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-29 01:48:14
+# 共计 33 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 12:10]
 标题: The Download: OpenAI’s predictable hack, and an AI stock sell-off
@@ -18,6 +18,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-28 15:01]
 标题: LFM2.5-Encoders for Fast Long-Context Inference on CPU
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:20]
+标题: 1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持
+链接: https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
+正文: OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以&quot;有意识地把控自动化AI开发的前沿进程&quot;。该倡议名为&quot;把控前沿&quot;，重点关注AI未来可能自行开发和改进AI系统的&quot;递归式自我改进&quot;能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要&quot;把控&quot;AI发展速度，让社会有时间建立防护机制。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:00]
+标题: OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换
+链接: https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap
+正文: OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 23:05]
 标题: OpenAI 发布 Codex 安全 CLI 与 SDK
@@ -109,18 +119,9 @@
 链接: https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
 正文: Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 00:00]
-标题: 如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能
-链接: https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
-正文: 同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 03:33]
 标题: Toyota doubles down on EVs while rivals retreat
 链接: https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:06]
-标题: Secretary Bessent cracks down on non-profit tax loopholes
-链接: https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 21:23]
 标题: Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more
@@ -152,25 +153,10 @@
 链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
-标题: Bayer’s Sai Jasti on driving productivity in R&D with data science and AI
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai
-正文: Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
-标题: The CEO’s critical role in building new businesses
-链接: https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses
-正文: Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-28 00:00]
-标题: Why AI will elevate instead of replace commercial teams
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams
-正文: Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-28 23:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 01:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-28 23:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 01:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
