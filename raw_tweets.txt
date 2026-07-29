@@ -1,15 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-07-29 11:14:44
-# 共计 54 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-29 13:47:58
+# 共计 79 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 12:10]
+标题: The Download: a chip talent battle, and deflating AI hype
+链接: https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix.&nbsp;&nbsp; His colleagues are doing the same. They feel&nbsp;demoralized by the $476,000 bonus that SK Hynix is set to pay its employees, flush with record profits from making the high-bandwidth memory (HBM) chips that power Nvidia’s AI accelerators. The figure dwarfs what chip workers at Samsung are set to receive and is sparking an exodus. Read our story about why this fierce talent war could help determine who dominates the next generation of AI chips.&nbsp; —Michelle Kim The AI Hype Index: Unsexy AI Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of what’s shaping the industry right now.&nbsp; The latest edition includes Meta’s creepy glasses, doom-mongering about AI and jobs, and (to some, oddly sexy?) robotic hands. See where it all landed on this month’s index. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 OpenAI’s rogue agent compromised another customerAn unnamed client of a company that provides AI infrastructure, called Modal Labs. (Reuters&nbsp;$)+ OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&nbsp;(MIT Technology Review) 2 Hugging Face has a nonconsensual deepfakes problemResearchers tested nine of the top image editing models it hosts, and found seven&nbsp;will ‘nudify’ images of women. (Wired&nbsp;$)+&nbsp;The shock of seeing your body used in deepfake porn.&nbsp;(MIT Technology Review)3 Investors are only getting more anxious abo
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 08:42]
 标题: The AI Hype Index: Unsexy AI
 链接: https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
 正文: It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy: Grok’s porn-pilled translation feature, Meta’s creepy glasses (which may soon get even creepier), and Big Tech’s emissions (which continue to skyrocket).&nbsp; But while it’s not always the most popular technology, at least AI is paying off for one group: single chip workers in Korea, newly inundated with dating opportunities thanks to their giant bonuses. Who says you can’t buy love?
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 12:10]
-标题: The Download: OpenAI’s predictable hack, and an AI stock sell-off
-链接: https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&nbsp; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been&nbsp;pushing back&nbsp;against AI&nbsp;scare stories&nbsp;for&nbsp;years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing.&nbsp; Here’s why OpenAI could—and should—have seen this coming. This story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 There’s a growing global AI stock sell-off underway&nbsp;Chip and memory stocks are bearing the brunt so far. (FT&nbsp;$)+ It was partly sparked by a report that a Chinese company has started making a key piece of chip equipment for the first time.&nbsp;(The Information&nbsp;$)+&nbsp;Like their US rivals, Chinese AI firms are struggling to find a path to profitability.&nbsp;(NYT&nbsp;$)+ What even is the AI bubble?&nbsp;(MIT Technology Review)2 Some people’s chats with Claude were open to anyone onlineOpenAI had a near-identical issue with ChatGPT last year. (BBC)+&nbsp;Is a secure AI assistant even possible?&nbsp;(MIT Technology Review)3 France just witnessed its first ever “fire cloud”It’s a scary sign of the intensity of the blazes burning there. (Wired&nbsp;$)4 Meta is screwing up its smart glasses rolloutPriv
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-28 16:27]
 标题: The OlmoEarth Platform: Geospatial inference at planetary scale
@@ -18,6 +18,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-28 15:01]
 标题: LFM2.5-Encoders for Fast Long-Context Inference on CPU
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 12:43]
+标题: 腾讯混元开源 AngelSpec 投机解码框架
+链接: https://aihot.virxact.com/items/cms639jt416x6robksy69dzel
+正文: 腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms639jt416x6robksy69dzel
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 12:12]
+标题: SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令
+链接: https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek
+正文: 马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止&quot;脱衣&quot;应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其&quot;范围过度、基于内容限制&quot;，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以&quot;法庭见，混蛋&quot;回应。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 11:54]
+标题: OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司
+链接: https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh
+正文: OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家&quot;公开可用服务&quot;，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为&quot;内部研究原型&quot;，已停用并加密，不会公开发布。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 02:49]
 标题: 在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理
@@ -99,110 +114,198 @@
 链接: https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76
 正文: Personal Computer 现已在 Perplexity Windows 应用中可用。 Personal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。 研究、编码、浏览和构建，全部在一个统一系统中完成。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 13:00]
-标题: Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活
-链接: https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk
-正文: Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 08:20]
+标题: Stock market today: Dow, S&P 500, Nasdaq slip in countdown to Fed decision, AI earnings test
+链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:49]
-标题: Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:30]
+标题: This AI startup has roughly 50 employees, no product and has never published a word of research. It's worth $32 billion
+链接: https://finance.yahoo.com/technology/ai/articles/ai-startup-roughly-50-employees-133000150.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:37]
-标题: Morning Bid: US profit growth mushrooms
-链接: https://finance.yahoo.com/markets/stocks/articles/morning-bid-us-profit-growth-103720497.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:35]
-标题: Why some seniors become millionaires in America — while the majority never do. Are you doing enough?
-链接: https://finance.yahoo.com/small-business/articles/why-seniors-become-millionaires-america-103500061.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:30]
-标题: Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?
-链接: https://finance.yahoo.com/technology/ai/articles/elon-musk-5-warning-americans-103000996.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:20]
+标题: Marsh & McLennan (MRSH) Reinvents Operations with AI Productivity Push
+链接: https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:06]
 标题: Secretary Bessent cracks down on non-profit tax loopholes
 链接: https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:28]
-标题: Apple set for strongest June-quarter sales growth in 5 years
-链接: https://finance.yahoo.com/markets/stocks/articles/apple-set-strongest-june-quarter-102841504.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:16]
+标题: ICON Public Limited Company (ICLR) Surges on Net Book-to-Bill Strength
+链接: https://finance.yahoo.com/markets/stocks/articles/icon-public-limited-company-iclr-131643360.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 08:20]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:16]
+标题: Bitcoin and ethereum prices today, Wednesday, July 29, 2026: Crypto investors watching the Fed decision closely
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:25]
-标题: Bunge beats second-quarter profit estimates on strong processing margins
-链接: https://finance.yahoo.com/markets/stocks/articles/bunge-beats-second-quarter-profit-101158444.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:16]
+标题: Investors are selling Meta as it heads to its earnings report
+链接: https://finance.yahoo.com/markets/article/investors-are-selling-meta-as-it-heads-to-its-earnings-report-131629707.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:12]
-标题: Humana beats quarterly profit estimates as medical costs stay in line
-链接: https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:14]
+标题: Keurig Dr Pepper (KDP) Pops on Strong Beverage Sales
+链接: https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-pops-131447922.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:16]
+标题: Analyst Report: MSCI Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_4456_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 16:47]
 标题: One dividend ETF makes $1,000 a month possible
 链接: https://finance.yahoo.com/markets/stocks/articles/one-dividend-etf-makes-1-164700544.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:05]
-标题: You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?
-链接: https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500603.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 14:18]
+标题: Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension
+链接: https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:04]
-标题: Microsoft set for $190 billion market value swing after earnings results, options indicate
-链接: https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:09]
+标题: Strong Fundamentals Keep Loar Holdings (LOAR) Flying High
+链接: https://finance.yahoo.com/markets/stocks/articles/strong-fundamentals-keep-loar-holdings-130939668.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:03]
-标题: Biogen beats quarterly estimates as newer drugs fuel growth
-链接: https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:07]
+标题: RBC Bearings (RBC) Rolls Ahead on Aerospace Strength
+链接: https://finance.yahoo.com/markets/stocks/articles/rbc-bearings-rbc-rolls-ahead-130734492.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
-标题: Mortgage and refinance rates today, Wednesday, July 29, 2026: Rates up across the board ahead of Fed rate decision
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-29-2026-rates-up-across-the-board-ahead-of-fed-rate-decision-100000462.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:06]
+标题: Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks
+链接: https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:16]
+标题: Analyst Report: KeyCorp
+链接: https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:03]
 标题: Major cannabis company closes 2 facilities, cuts 211 jobs
 链接: https://finance.yahoo.com/small-business/articles/major-cannabis-company-closes-2-180300621.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
-标题: The chip crash is exposing the brutal cost of leverage: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/the-chip-crash-is-exposing-the-brutal-cost-of-leverage-chart-of-the-day-100000401.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:05]
+标题: Private Credit Worries Weigh on Hamilton Lane (HLNE)
+链接: https://finance.yahoo.com/markets/stocks/articles/private-credit-worries-weigh-hamilton-130549739.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
-标题: Best CD rates today, Wednesday, July 29, 2026: Earn up to 4.15% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-29-2026-earn-up-to-415-apy-100000757.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:03]
+标题: SK Hynix's record profit fails to impress investors
+链接: https://finance.yahoo.com/markets/article/sk-hynixs-record-profit-fails-to-impress-investors-130352334.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:01]
+标题: Caterpillar (CAT) Shrugs Off Tariff Hit as Demand ‘Heats Up’
+链接: https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-shrugs-off-tariff-130130811.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:59]
+标题: Zoetis (ZTS) Slid on Weak Response to Great Ideas
+链接: https://finance.yahoo.com/healthcare/articles/zoetis-zts-slid-weak-response-125900328.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:16]
+标题: Analyst Report: Celestica Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2844_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 19:11]
 标题: Fed Chair leads two-day meeting as fear grips markets
 链接: https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 09:30]
-标题: Eni Increases 2026 Buybacks as Production Growth Accelerates
-链接: https://finance.yahoo.com/energy/articles/eni-increases-2026-buybacks-production-093000528.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:58]
+标题: Stock Market Today: Dow Falls As Iran Hostilities Spark Up Again; SK Hynix Slides On Earnings News (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 12:01]
-标题: Microsoft to report Q4 earnings as investors look for return on AI investments
-链接: https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:56]
+标题: SpaceX Vs. HawkEye, Cerebrus: Comparing 2026 IPOs
+链接: https://www.investors.com/news/spacex-ipo-elon-musk-sk-hynix-cerebras-bill-ackman-pershing-square/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 12:13]
-标题: Meta to report Q2 earnings amid AI investing concerns
-链接: https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:55]
+标题: Birkenstock Holding plc (BIRK) Walks Tall on Margins
+链接: https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:56]
-标题: UK’s Arden University launches five apprenticeship programmes
-链接: https://finance.yahoo.com/small-business/articles/uk-arden-university-launches-five-105650351.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:54]
+标题: Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:50]
-标题: RWR vs. XLRE: Which Real Estate ETF Is the Better Buy?
-链接: https://finance.yahoo.com/real-estate/articles/rwr-vs-xlre-real-estate-105014997.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:16]
+标题: Analyst Report: Invesco Ltd
+链接: https://finance.yahoo.com/research/reports/ARGUS_3591_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:50]
-标题: 1 Unstoppable Growth Stock That Could Soar if a Bear Market Is Coming
-链接: https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-growth-stock-could-105000368.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:25]
+标题: What a $3,000 Investment in SpaceX Could Be Worth by 2030
+链接: https://finance.yahoo.com/markets/stocks/articles/3-000-investment-spacex-could-132500737.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:48]
-标题: Prediction: AMD Stock Could Double by 2028. Here's Why
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-could-double-104800088.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:50]
+标题: MarineMax (HZO): Ace River Exit Driven by Opportunity Cost, Not Fundamentals
+链接: https://finance.yahoo.com/markets/stocks/articles/marinemax-hzo-ace-river-exit-125006674.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:47]
+标题: Is RCI Hospitality Holdings (RICK) a Mispriced Opportunity?
+链接: https://finance.yahoo.com/markets/stocks/articles/rci-hospitality-holdings-rick-mispriced-124709637.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:47]
+标题: Meta (META), BlackRock (BLK) Form $14 Billion AI Data Center Venture—Can It Ease the Cost of Meta’s AI Buildout?
+链接: https://finance.yahoo.com/technology/ai/articles/meta-meta-blackrock-blk-form-124707417.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
+标题: The chip crash is exposing the brutal cost of leverage: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/the-chip-crash-is-exposing-the-brutal-cost-of-leverage-chart-of-the-day-100000401.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:16]
+标题: Analyst Report: PayPal Holdings Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3645_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:25]
+标题: Should You Ignore Vertiv? Why ON Semiconductor May Be The Better AI Infrastructure Stock Today
+链接: https://finance.yahoo.com/technology/ai/articles/ignore-vertiv-why-semiconductor-may-132500663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:43]
+标题: ArcBest’s Q2 a step on path to recovery
+链接: https://finance.yahoo.com/markets/stocks/articles/arcbest-q2-step-path-recovery-124312302.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:42]
+标题: What Makes Vox Royalty Corp. (VOXR) an Attractive Long-Term Compounder?
+链接: https://finance.yahoo.com/markets/stocks/articles/makes-vox-royalty-corp-voxr-124248645.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:40]
+标题: C.H. Robinson Faces $604 Million Verdict: What Vicarious Liability and Negligent Hiring Mean for Brokers After Montgomery and Home Depot
+链接: https://finance.yahoo.com/small-business/articles/c-h-robinson-faces-604-124003238.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:35]
+标题: Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:02]
+标题: Daily Spotlight: U.S. the Leader in Drug R&D
+链接: https://finance.yahoo.com/research/reports/ARGUS_47760_MarketOutlook_1785322967000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:20]
+标题: State Street vs. First Trust: Is a Broad Healthcare or Biotech Focus Better for Your Portfolio?
+链接: https://finance.yahoo.com/healthcare/articles/state-street-vs-first-trust-132001505.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:31]
+标题: The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+链接: https://finance.yahoo.com/energy/articles/next-ai-trade-fireside-chat-123130776.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:30]
+标题: Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:30]
+标题: ‘Tariffs have saved General Motors:’ Trump claims import taxes help GM. They'll cost the company up to $3.5 billion
+链接: https://finance.yahoo.com/economy/policy/articles/tariffs-saved-general-motors-trump-123000324.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:29]
+标题: Meta Earnings Preview: This Is The Number To Watch
+链接: https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 11:02]
+标题: Technical Assessment: Bullish in the Intermediate-Term
+链接: https://finance.yahoo.com/research/reports/ARGUS_47759_TechnicalAnalysis_1785322923000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:20]
+标题: With a 6% Yield, Is Verizon Stock a Buy as Turnaround Continues?
+链接: https://finance.yahoo.com/markets/stocks/articles/6-yield-verizon-stock-buy-132000143.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:28]
+标题: Ford Stock Jumps On Upgrade, Earnings Beat; Are Its EV Woes In The Rear View Mirror?
+链接: https://www.investors.com/news/ford-earnings-auto-industry-electric-vehicles-detroit-stock-market-sp-500/?src=A00220&yptr=yahoo
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 12:31]
+标题: Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more
+链接: https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-premarket-biib-vrt-gehc-gnrc.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 21:23]
 标题: Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more
@@ -229,15 +332,15 @@
 链接: https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html
 正文: Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 11:42]
-标题: Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more
-链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html
-正文: These are the stocks posting the largest moves in early trading.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-29 00:00]
+标题: Lion Finance: Competing like a fintech, winning as a bank
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank
+正文: Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 11:14]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 13:47]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 11:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 13:47]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
