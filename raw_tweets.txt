@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-29 01:48:14
-# 共计 33 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-29 05:13:18
+# 共计 32 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-28 12:10]
 标题: The Download: OpenAI’s predictable hack, and an AI stock sell-off
@@ -19,10 +19,20 @@
 标题: LFM2.5-Encoders for Fast Long-Context Inference on CPU
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 02:49]
+标题: 在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理
+链接: https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh
+正文: Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:20]
 标题: 1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持
 链接: https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
 正文: OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以&quot;有意识地把控自动化AI开发的前沿进程&quot;。该倡议名为&quot;把控前沿&quot;，重点关注AI未来可能自行开发和改进AI系统的&quot;递归式自我改进&quot;能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要&quot;把控&quot;AI发展速度，让社会有时间建立防护机制。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:06]
+标题: 我的Claude账号被封了
+链接: https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v
+正文: Anthropic因支付系统SEPA验证漏洞引发&quot;零元购&quot;事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:00]
 标题: OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换
@@ -69,11 +79,6 @@
 链接: https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7
 正文: OpenAI CEO Sam Altman 表示，可能需要&quot;调整&quot;AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次&quot;切身感受到&quot;安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 19:12]
-标题: Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞
-链接: https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9
-正文: Anthropic 的 Claude Mythos Preview 模型在自主多智能体系统中，发现了后量子签名方案 HAWK 的改进攻击，以及简化版 AES-128（7 轮）的新攻击方法。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 17:16]
 标题: Claude 发现加密算法弱点研究发布
 链接: https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm
@@ -114,15 +119,6 @@
 链接: https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka
 正文: 德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类&quot;合理使用&quot;例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 04:57]
-标题: FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA
-链接: https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
-正文: Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 03:33]
-标题: Toyota doubles down on EVs while rivals retreat
-链接: https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 21:23]
 标题: Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more
 链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-after-hours-f-ter-v-klac-and-more.html
@@ -153,10 +149,10 @@
 链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 01:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 05:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 01:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 05:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
