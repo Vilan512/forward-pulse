@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-29 17:05:20
-# 共计 61 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-29 18:59:20
+# 共计 36 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 17:58]
+标题: How an overlooked geothermal plant got a second chance
+链接: https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
+正文: In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new well. With the help of advanced modeling and modern drilling technology, the company was able to identify a better potential well site, drill down thousands of feet, and revive the entire operation. As the world looks for more sources of emissions-free electricity that are available 24-7, Lightning Dock shows there’s still hidden potential deep beneath our feet.&nbsp; Conventional geothermal power plants rely on having the right underground conditions. Water flows through fractured hot rocks to harvest heat and then through a power plant to generate electricity. If the water isn’t hot enough or not enough flows, the power plant can’t work efficiently. Lightning Dock came online in 2013, and the site historically had two production wells that were used to feed the power plant. It’s common to see temperatures drop at a well site over time, typically at a rate of 1 to 2 °F per year. In the period before Zanskar took over the site, Lightning Dock saw temperatures drop by 50 °F over five years, a rate of 10 °F per year. When the company purchased the facility, the water going into the power plant was just 250 °F, while the plant was designed to operate at temperatures of at least 310 °F.&nbsp; When Zanskar mapped the underground conditions at Lightning Dock using advanced modeling techniques, they discovered that the wells were only hitting the very top of the reservoir there. Those production wells were quite shallow (at just 2,500 feet deep) and not in the best location, says Joel Edwards, Zanskar’s cofounder and CEO. The company’s modeling predicted that if the company were to drill another, deeper well in a new spot, the plant would be able to run efficie
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 12:10]
 标题: The Download: a chip talent battle, and deflating AI hype
@@ -11,10 +16,35 @@
 链接: https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
 正文: It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy: Grok’s porn-pilled translation feature, Meta’s creepy glasses (which may soon get even creepier), and Big Tech’s emissions (which continue to skyrocket).&nbsp; But while it’s not always the most popular technology, at least AI is paying off for one group: single chip workers in Korea, newly inundated with dating opportunities thanks to their giant bonuses. Who says you can’t buy love?
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 17:50]
+标题: Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案
+链接: https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7
+正文: Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 17:22]
+标题: OpenAI 为学术研究者免费提供前沿模型
+链接: https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11
+正文: ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。 让未解难题倒下！ 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 17:01]
+标题: Perplexity 开源智能体检测层 Numbat
+链接: https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v
+正文: 今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。 Numbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。 了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 16:30]
+标题: Replit 用环境智能重塑 AI 设计体验
+链接: https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7
+正文: Replit Design 通过环境智能重新构想 AI 设计的用户体验。 你无需输入提示词，也无需设计语言。 每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 16:09]
 标题: 开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B
 链接: https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3
 正文: 一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 16:02]
+标题: Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制
+链接: https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv
+正文: Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型 Lyria 3.5，带来音乐性、歌词质量、人声表现力与创作控制的多项提升。新模型能生成更自然复杂的旋律结构，歌词对提示词的遵循度和结构意识更强，人声更逼真且富有情感，同时支持更便捷地控制输出节奏与时长。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 15:35]
 标题: Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手
@@ -101,140 +131,25 @@
 链接: https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7
 正文: OpenAI CEO Sam Altman 表示，可能需要&quot;调整&quot;AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次&quot;切身感受到&quot;安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-28 17:16]
-标题: Claude 发现加密算法弱点研究发布
-链接: https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm
-正文: Anthropic 新研究：用 Claude 发现加密弱点。 Claude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。 了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 00:09]
 标题: National beer and wine distributor files Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 08:20]
-标题: Stock market today: Dow falls over 800 points, S&P 500 and Nasdaq slide in countdown to Fed decision, AI earnings test
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:37]
-标题: Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts
-链接: https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:29]
-标题: Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve
-链接: https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:26]
-标题: Vinted taps DHL’s Germany collection points to expand second-hand market
-链接: https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:24]
-标题: Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings Views (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:16]
-标题: Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils
-链接: https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:16]
-标题: Oil jumps 7% on escalating Middle East airstrikes
-链接: https://finance.yahoo.com/news/oil-rises-us-iran-tension-032028533.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:13]
-标题: Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It
-链接: https://finance.yahoo.com/markets/stocks/articles/caterpillar-trades-3x-historical-multiple-161312284.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:08]
-标题: 'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus
-链接: https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:05]
-标题: Qualcomm Q3 earnings to highlight AI's impact on smartphone market, data center plans
-链接: https://finance.yahoo.com/technology/article/qualcomm-q3-earnings-to-highlight-ais-impact-on-smartphone-market-data-center-plans-160509349.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:02]
-标题: Explainer-Can J&J finally put the talc litigation behind it?
-链接: https://finance.yahoo.com/healthcare/articles/explainer-j-j-finally-put-160252107.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:03]
-标题: Major cannabis company closes 2 facilities, cuts 211 jobs
-链接: https://finance.yahoo.com/small-business/articles/major-cannabis-company-closes-2-180300621.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:55]
-标题: Apple says UK App Store proposal amounts to price regulation
-链接: https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-155341930.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:46]
-标题: Ram, Jeep parent Stellantis needs to prove turnaround plan is working: H1 earnings preview
-链接: https://finance.yahoo.com/markets/stocks/article/ram-jeep-parent-stellantis-needs-to-prove-turnaround-plan-is-working-h1-earnings-preview-154647532.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:03]
-标题: Nvidia, Micron, AMD sink as SK Hynix results fail to impress, AI trade unwinds
-链接: https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-as-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 19:11]
 标题: Fed Chair leads two-day meeting as fear grips markets
 链接: https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:45]
-标题: Starbucks expected to post another solid quarter with sustained turnaround momentum
-链接: https://finance.yahoo.com/markets/stocks/article/starbucks-expected-to-post-another-solid-quarter-with-sustained-turnaround-momentum-154557895.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 18:48]
+标题: Here's what changed in the second Fed statement under Warsh
+链接: https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html
+正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:37]
-标题: Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle
-链接: https://finance.yahoo.com/markets/crypto/articles/grayscale-calls-hype-cheap-beside-153700194.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 18:58]
+标题: Divided Fed holds interest rates steady, but three members voted to hike
+链接: https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html
+正文: Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:35]
-标题: BNSF CEO assails new rail merger filing, says transcon will raise rates, prices
-链接: https://finance.yahoo.com/economy/policy/articles/bnsf-ceo-assails-rail-merger-153542828.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:21]
-标题: SpaceX stock back under pressure as Q2 earnings approach
-链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-back-under-pressure-as-q2-earnings-approach-152137218.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:48]
-标题: Crypto analyst unveils one factor that could send XRP to $100 trillion
-链接: https://finance.yahoo.com/markets/crypto/articles/crypto-analyst-unveils-one-factor-164818773.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 15:20]
-标题: Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?
-链接: https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 13:16]
-标题: Bitcoin and ethereum prices today, Wednesday, July 29, 2026: Crypto investors watching the Fed decision closely
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:54]
-标题: Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:43]
-标题: Quince Surpasses $2 Billion in Sales
-链接: https://finance.yahoo.com/markets/stocks/articles/quince-surpasses-2-billion-sales-164323892.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 12:35]
-标题: Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
-标题: Mortgage and refinance rates today, Wednesday, July 29, 2026: Rates up across the board ahead of Fed rate decision
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-29-2026-rates-up-across-the-board-ahead-of-fed-rate-decision-100000462.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:43]
-标题: Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade
-链接: https://finance.yahoo.com/markets/stocks/articles/nebius-drops-10-coreweave-sinks-164301885.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 10:00]
-标题: Best CD rates today, Wednesday, July 29, 2026: Earn up to 4.15% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-july-29-2026-earn-up-to-415-apy-100000757.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-28 18:55]
-标题: 7 best life insurance companies of 2026
-链接: https://finance.yahoo.com/personal-finance/insurance/article/best-life-insurance-companies-185541475.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:42]
-标题: Max Out a Trump Account and Your Kid Could Have $185,000 at 18
-链接: https://finance.yahoo.com/markets/stocks/articles/max-trump-account-kid-could-164203940.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 16:47]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 18:08]
 标题: Short sellers are wasting no time pouncing on SK Hynix U.S. shares after their debut this month
 链接: https://www.cnbc.com/2026/07/29/short-sellers-are-wasting-no-time-pouncing-on-sk-hynix-us-shares-after-their-debut-this-month.html
 正文: The rapid buildup in short interest underscores how traders are wasting little time betting against one of AI's biggest hardware beneficiaries.
@@ -249,25 +164,15 @@
 链接: https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-after-hours-f-ter-v-klac-and-more.html
 正文: These are the stocks posting the largest moves in after-hours trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 18:27]
-标题: 44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering
-链接: https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html
-正文: The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-28 17:40]
-标题: Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say
-链接: https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html
-正文: The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-29 00:00]
 标题: Lion Finance: Competing like a fintech, winning as a bank
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank
 正文: Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 17:05]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 18:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 17:05]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 18:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
