@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-30 17:16:08
-# 共计 75 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-30 19:10:58
+# 共计 36 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-30 17:10]
+标题: Montana’s plan to become an experimental medical hub just pushed forward
+链接: https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
+正文: As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can set the price of the drug and sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.&nbsp;&nbsp; Montana’s latest right-to-try legislation is unique. While other jurisdictions with similar laws limit access to drugs to people with terminal illness, in Montana access is theoretically available to anyone who gives informed consent and can pay. That includes people desperate for treatments for rare diseases. It also includes those who are interested in longevity and want to try out drugs pitched as preventive therapies. The state’s Department of Health and Human Services recently finalized rules to implement the law. The rules stipulate that patient consumers provide fully informed consent and that each application be reviewed by a board that includes a Montana-certified doctor, expert scientists, and an ethicist. Supporters of the law stress that they want the process to be responsible. “It will be done in a very rigorous way, with qualified medical professionals and appropriate oversight,” says Matt Kaeberlein, a scientist on the first board, which was formed independently of the state health department. But other experts are worried about the potential for harm in selling unproven treatments to people without oversight from the US Food and Drug Administration. “I would be concerned,” says Aaron Kesselheim, a professor of medicine at Harvard Medical School with expertise in health policy and drug regulation. There has been a growing movement to make unapproved drugs more accessible in the US. But the story of Montana’s law is unique. It’s been driven and dra
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-30 12:10]
 标题: The Download: tricking LLMs, and reviving geothermal plants
@@ -11,14 +16,24 @@
 链接: https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
 正文: It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping and health care. By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system.&nbsp;&nbsp; “There’s a real probability that this is going to be a problem that’s fundamentally unsolvable,” says Charles Ye, an independent researcher and coauthor of the ICML paper. Companies will typically hire teams of human testers to try to come up with novel attacks that break existing guardrails, a process known as red-teaming. Model makers also use LLM super-hackers (such as OpenAI’s GPT-Red) that find and exploit weaknesses in other models to automate parts of this process. The goal is then to take those attacks and train a new model to resist them and anything that looks like them. The problem, says Jasmine Cui, another independent researcher and coauthor of the paper, is that the approach amounts to giving the models a list of things they shouldn’t do. But no list is exhaustive. “It’s like watching The Simpsons and they have Bart writing ‘I will not say something inappropriate to my teacher’ a hundred times,” she says. “And he still does things that are pretty crass anyway.”&nbsp;&nbsp;&nbsp;&nbsp; The researchers started out trying to test how easy it was to persuade LLMs to misbehave. They found that writing instructions in a style that mimicked the text LLMs generate in their chain of thought—a kind of scra
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 17:58]
-标题: How an overlooked geothermal plant got a second chance
-链接: https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
-正文: In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new well. With the help of advanced modeling and modern drilling technology, the company was able to identify a better potential well site, drill down thousands of feet, and revive the entire operation. As the world looks for more sources of emissions-free electricity that are available 24-7, Lightning Dock shows there’s still hidden potential deep beneath our feet.&nbsp; Conventional geothermal power plants rely on having the right underground conditions. Water flows through fractured hot rocks to harvest heat and then through a power plant to generate electricity. If the water isn’t hot enough or not enough flows, the power plant can’t work efficiently. Lightning Dock came online in 2013, and the site historically had two production wells that were used to feed the power plant. It’s common to see temperatures drop at a well site over time, typically at a rate of 1 to 2 °F per year. In the period before Zanskar took over the site, Lightning Dock saw temperatures drop by 50 °F over five years, a rate of 10 °F per year. When the company purchased the facility, the water going into the power plant was just 250 °F, while the plant was designed to operate at temperatures of at least 310 °F.&nbsp; When Zanskar mapped the underground conditions at Lightning Dock using advanced modeling techniques, they discovered that the wells were only hitting the very top of the reservoir there. Those production wells were quite shallow (at just 2,500 feet deep) and not in the best location, says Joel Edwards, Zanskar’s cofounder and CEO. The company’s modeling predicted that if the company were to drill another, deeper well in a new spot, the plant would be able to run efficie
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-30 15:09]
 标题: GPU Management: Why Idle GPUs Are the New Grounded Aircraft
 链接: https://huggingface.co/blog/Dharma-AI/gpu-management
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 17:32]
+标题: OpenRouter 下调 GPT-5.6 Terra/Luna 价格
+链接: https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy
+正文: GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。 OpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。 使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 17:30]
+标题: GitHub Copilot 应用新增堆叠会话与拉取请求功能
+链接: https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n
+正文: GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库中创建一系列相互承接的任务，每个会话可基于前一个会话的成果继续工作。作者通过一个十余年历史的个人项目演示了该功能：先使用 Plan 模式制定前端现代化计划，再通过堆叠会话将 React-Bootstrap 替换工作拆分为独立会话，并自动为每个会话创建对应的拉取请求，避免范围蔓延。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 16:54]
+标题: Perplexity Computer 推出 Projects 功能
+链接: https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u
+正文: 在 Perplexity Computer 上推出 Projects。 随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。 现已向所有用户开放！ 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 15:50]
 标题: RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU
@@ -39,6 +54,11 @@
 标题: FCC 禁止进口中国新型机器人与联网逆变器
 链接: https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1
 正文: 美国 FCC 自 7 月 28 日起禁止进口中国新型&quot;先进机器人设备&quot;和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 10:00]
+标题: GPT-5.6 如何推进性价比前沿
+链接: https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q
+正文: OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 07:43]
 标题: Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展
@@ -65,198 +85,27 @@
 链接: https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg
 正文: 你不需要成为设计师。你只需要知道你想把什么变为现实。 你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。 这就是 Replit Design 背后的愿景。 阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 18:45]
-标题: Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录
-链接: https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o
-正文: 安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 17:50]
-标题: Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案
-链接: https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7
-正文: Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 17:22]
-标题: OpenAI 为学术研究者免费提供前沿模型
-链接: https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11
-正文: ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。 让未解难题倒下！ 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 21:05]
+标题: Markets react to Fed's July interest rate decision
+链接: https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 22:17]
 标题: Jim Cramer says this post-earnings sell-off is a golden buying opportunity
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 17:01]
-标题: OpenAI cuts prices on smaller models as businesses scrutinize AI spend
-链接: https://finance.yahoo.com/news/openai-cuts-prices-smaller-models-170107874.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 19:25]
+标题: How many Americans have no savings?
+链接: https://finance.yahoo.com/personal-finance/banking/article/how-many-americans-have-no-savings-192530574.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 08:22]
-标题: Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:49]
-标题: Coinbase beats much of customer lawsuit over US token sales
-链接: https://finance.yahoo.com/markets/crypto/articles/coinbase-beats-much-customer-lawsuit-164519676.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:46]
-标题: Brookfield Infrastructure Partners L.P. Q2 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-l-p-164616189.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 01:37]
-标题: Overlooked AI stock is growing faster than Nvidia
-链接: https://finance.yahoo.com/technology/ai/articles/overlooked-ai-stock-growing-faster-013700188.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:46]
-标题: Euronet Worldwide, Inc. Q2 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/euronet-worldwide-inc-q2-2026-164614461.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:43]
-标题: Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade
-链接: https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:41]
-标题: Reddit (RDDT) May Walk Away From Google’s (GOOGL) $60 Million-a-Year Deal as AI Search Eats Its Traffic
-链接: https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-may-walk-away-164136219.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:36]
-标题: Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key
-链接: https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 17:03]
-标题: Is Micron Being Squeezed Out Now That SK Hynix and Samsung Have Partnered With Major Chip Companies?
-链接: https://finance.yahoo.com/markets/stocks/articles/micron-being-squeezed-now-sk-170300661.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:35]
-标题: A meat snacks baron and his son turned a failing Wisconsin business into a $1.6 billion-a-year empire. Here's how
-链接: https://finance.yahoo.com/small-business/articles/meat-snacks-baron-son-turned-163500199.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:33]
-标题: AMD Fell 8% as China Unveils New Technology — the Real Risk Is the Multiple, Not the Lithography
-链接: https://finance.yahoo.com/markets/stocks/articles/amd-fell-8-china-unveils-163317303.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:32]
-标题: Saia’s Q3 margin guidance disappoints investors
-链接: https://finance.yahoo.com/markets/stocks/articles/saia-q3-margin-guidance-disappoints-163232017.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:30]
-标题: Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-could-backstop-250-163019894.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:59]
-标题: What a $1,000 Investment in SpaceX at IPO Would Be Worth Today and What Comes Next
-链接: https://finance.yahoo.com/markets/stocks/articles/1-000-investment-spacex-ipo-165900928.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:22]
-标题: Dress Your Portfolio for Success with Reformation IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/dress-your-portfolio-for-success-with-reformation-ipo-162243096.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:15]
-标题: The Market Thinks Texas Instruments (TXN) Is a Boring Analog Chipmaker; AI Data Centers Disagree
-链接: https://finance.yahoo.com/markets/stocks/articles/market-thinks-texas-instruments-txn-161524238.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:10]
-标题: Tesla Looks To Snap Losing Streak As It Hits 10 Million EV Milestone
-链接: https://www.investors.com/news/tesla-stock-electric-vehicle-ev-model-y-elon-musk-optimus-robotaxi/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:07]
-标题: Stock Market Today: Nasdaq Rebounds As Chips Jump; This Medical Name Jams Ahead Of Earnings (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 13:26]
-标题: Daily Spotlight: Consumers and Investment Lift 2Q GDP
-链接: https://finance.yahoo.com/research/reports/ARGUS_47778_MarketOutlook_1785417965000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:52]
-标题: Stock Market Midday, July 30: Microsoft Soars 15%, Boosting Tech Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-july-30-165224476.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:02]
-标题: Worldline cuts revenue growth forecast as bank contract delays slow recovery
-链接: https://finance.yahoo.com/markets/stocks/articles/worldline-cuts-revenue-growth-forecast-160203186.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 19:49]
+标题: Long-term care insurance explained
+链接: https://finance.yahoo.com/personal-finance/insurance/article/long-term-care-insurance-194903621.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 10:00]
-标题: Mortgage rates just hit their highest level in a year — and may be headed higher: Mortgage and refinance interest rates today, Thursday, July 30, 2026
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-just-hit-their-highest-level-in-a-year--and-may-be-headed-higher-mortgage-and-refinance-interest-rates-today-thursday-july-30-2026-100000591.html
+标题: Best CD rates today, Thursday, July 30, 2026: Lock in up to 4.15% APY with a 14-month CD
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-30-2026-lock-in-up-to-415-apy-with-a-14-month-cd-100000132.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:00]
-标题: Former eBay executives allegedly sent live spiders and a bloody pig mask to critics. Now it's costing them $56 million
-链接: https://finance.yahoo.com/small-business/articles/former-ebay-executives-allegedly-sent-160000117.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:57]
-标题: Peter Schiff Warns Bitcoin Faces Bigger Selloff Beyond Tech Rout
-链接: https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-bitcoin-faces-155700182.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:50]
-标题: A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.
-链接: https://finance.yahoo.com/markets/crypto/articles/crypto-index-just-launched-heres-165000187.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:56]
-标题: Coinbase Readies For Earnings. Bitcoin, Miners Jump On AI Trade.
-链接: https://www.investors.com/news/coinbase-stock-earnings-q2-2026-bitcoin-price-cryptocurrency-miners-ai/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:54]
-标题: Hyperscale Data Taps Bitcoin Holdings to Advance $3B AI Campus Deal
-链接: https://finance.yahoo.com/markets/crypto/articles/hyperscale-data-taps-bitcoin-holdings-155400194.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:48]
-标题: Silicon Motion Jumps On Positive Day For Chip Stocks
-链接: https://www.investors.com/news/technology/silicon-motion-simo-stock-q2-2026-earnings-chip-stocks/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:41]
-标题: Micron vs SanDisk: Which Chipmaker Stands Out After the Pullback
-链接: https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-chipmaker-stands-154114021.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:49]
-标题: Microsoft shares set for best day in nearly 18 years as Azure surge validates AI bet
-链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-shares-set-best-day-164900429.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:37]
-标题: Sphere Entertainment Stock Rises On Q2 Revenue Beat
-链接: https://www.investors.com/news/technology/sphere-stock-sphr-q2-2026-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:37]
-标题: Cheap life insurance: How to get coverage
-链接: https://finance.yahoo.com/personal-finance/insurance/article/cheap-life-insurance-153738210.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:37]
-标题: Shell Turns Volatility Into a Cash Machine
-链接: https://finance.yahoo.com/energy/articles/shell-turns-volatility-cash-machine-153721224.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 13:00]
-标题: Equifax's $2.2 million credit reporting settlement: Who qualifies
-链接: https://finance.yahoo.com/personal-finance/banking/article/equifaxs-22-million-credit-reporting-settlement-who-qualifies-130000338.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 11:16]
-标题: Technical Assessment: Bullish in the Intermediate-Term
-链接: https://finance.yahoo.com/research/reports/ARGUS_47773_TechnicalAnalysis_1785410198000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:48]
-标题: Why Altria Stock Is Sinking Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-altria-stock-sinking-today-164812101.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 13:23]
-标题: Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 12:57]
-标题: Silver prices today, Thursday, July 30, 2026: Silver prices remain below $60, even without a rate increase
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-30-2026-silver-prices-remain-below-60-even-without-a-rate-increase-125729235.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 12:33]
-标题: Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 11:11]
-标题: Analyst Report: Coca-Cola Co/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3127_AnalystReport_1785409871000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:47]
-标题: Wells Fargo sees a massive number in Snowflake's future
-链接: https://finance.yahoo.com/markets/stocks/articles/wells-fargo-sees-massive-number-164700029.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 17:35]
-标题: Types of life insurance: A complete guide
-链接: https://finance.yahoo.com/personal-finance/insurance/article/types-of-life-insurance-173512440.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 16:13]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 17:29]
 标题: Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more
 链接: https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-midday-meta-msft-mktx-crox.html
 正文: These are the stocks posting the largest moves in midday trading.
@@ -301,11 +150,6 @@
 链接: https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html
 正文: This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 18:58]
-标题: Divided Fed holds interest rates steady, but three members voted to hike
-链接: https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html
-正文: Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 19:18]
 标题: Short sellers are wasting no time pouncing on SK Hynix U.S. shares after their debut this month
 链接: https://www.cnbc.com/2026/07/29/short-sellers-are-wasting-no-time-pouncing-on-sk-hynix-us-shares-after-their-debut-this-month.html
@@ -321,10 +165,10 @@
 链接: https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world
 正文: As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-30 17:16]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-30 19:10]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-30 17:16]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-30 19:10]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
