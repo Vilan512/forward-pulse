@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-29 23:54:05
-# 共计 35 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-30 01:40:57
+# 共计 29 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-29 17:58]
 标题: How an overlooked geothermal plant got a second chance
@@ -15,6 +15,11 @@
 标题: The AI Hype Index: Unsexy AI
 链接: https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
 正文: It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy: Grok’s porn-pilled translation feature, Meta’s creepy glasses (which may soon get even creepier), and Big Tech’s emissions (which continue to skyrocket).&nbsp; But while it’s not always the most popular technology, at least AI is paying off for one group: single chip workers in Korea, newly inundated with dating opportunities thanks to their giant bonuses. Who says you can’t buy love?
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 23:29]
+标题: 揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作
+链接: https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f
+正文: 一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 20:45]
 标题: Replit Design 发布：AI 赋能设计愿景
@@ -86,34 +91,6 @@
 链接: https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh
 正文: Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:20]
-标题: 1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持
-链接: https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
-正文: OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以&quot;有意识地把控自动化AI开发的前沿进程&quot;。该倡议名为&quot;把控前沿&quot;，重点关注AI未来可能自行开发和改进AI系统的&quot;递归式自我改进&quot;能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要&quot;把控&quot;AI发展速度，让社会有时间建立防护机制。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:06]
-标题: 我的Claude账号被封了
-链接: https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v
-正文: Anthropic因支付系统SEPA验证漏洞引发&quot;零元购&quot;事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:00]
-标题: OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna
-链接: https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m
-正文: OpenAI 发布 GPT-5.6 模型家族，旗舰款 Sol 开启最大推理时在 Artificial Analysis Coding Agent Index 上超越 Claude Fable 5，成本不到后者一半。Terra 智能持平 GPT-5.5 但价格减半，Luna 定价比 Sol 低 80%。该系列通过负载均衡、推测解码等全栈优化实现更高 token 效率。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 00:00]
-标题: OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换
-链接: https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap
-正文: OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 00:09]
-标题: National beer and wine distributor files Chapter 11 bankruptcy
-链接: https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 16:28]
-标题: 56-year-old fast-food giant has closed over half its restaurants
-链接: https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 23:10]
 标题: The U.S. wants Asia to use its AI — but China dominates cheaper models
 链接: https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html
@@ -159,15 +136,10 @@
 链接: https://www.cnbc.com/2026/07/29/stocks-making-the-biggest-moves-premarket-biib-vrt-gehc-gnrc.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-07-29 00:00]
-标题: Lion Finance: Competing like a fintech, winning as a bank
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank
-正文: Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-29 23:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-30 01:40]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-29 23:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-30 01:40]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
