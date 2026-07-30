@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-07-30 22:04:00
+# ForwardPulse 原始情报收割 — 2026-07-30 23:54:37
 # 共计 38 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-30 17:10]
@@ -19,6 +19,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-30 15:09]
 标题: GPU Management: Why Idle GPUs Are the New Grounded Aircraft
 链接: https://huggingface.co/blog/Dharma-AI/gpu-management
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 23:02]
+标题: Anthropic 披露 Claude 在安全评估中入侵真实系统
+链接: https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i
+正文: Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 20:26]
 标题: 法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险
@@ -90,15 +95,6 @@
 链接: https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp
 正文: 腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-29 23:29]
-标题: 揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作
-链接: https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f
-正文: 一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-29 22:17]
-标题: Jim Cramer says this post-earnings sell-off is a golden buying opportunity
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:33]
 标题: Fed interest-rate decision rocks Wall Street's inflation fears
 链接: https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html
@@ -106,6 +102,23 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 10:00]
 标题: Best CD rates today, Thursday, July 30, 2026: Lock in up to 4.15% APY with a 14-month CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-30-2026-lock-in-up-to-415-apy-with-a-14-month-cd-100000132.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 12:33]
+标题: Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 12:57]
+标题: Silver prices today, Thursday, July 30, 2026: Silver prices remain below $60, even without a rate increase
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-30-2026-silver-prices-remain-below-60-even-without-a-rate-increase-125729235.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 13:23]
+标题: Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 22:01]
+标题: China’s U.S.-bound shipments fall in July after brief recovery, survey shows
+链接: https://www.cnbc.com/2026/07/30/china-us-exports-drop.html
+正文: The latest China Beige Book study found factory activity decelerated in July.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 21:23]
 标题: Stocks making the biggest moves after hours: Apple, Amazon, Rivian, Reddit & more
@@ -127,25 +140,10 @@
 链接: https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html
 正文: China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 23:10]
-标题: The U.S. wants Asia to use its AI — but China dominates cheaper models
-链接: https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html
-正文: The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 13:39]
 标题: Here are the last times the Dow dropped by 1,000 points and what happened next
 链接: https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html
 正文: After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 22:54]
-标题: Here are the five big takeaways from this week's Fed meeting
-链接: https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html
-正文: The Federal Reserve on Wednesday followed through on expectations for no interest rate change.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-29 22:20]
-标题: Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation
-链接: https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html
-正文: Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 13:42]
 标题: Here's what changed in the second Fed statement under Warsh
@@ -177,10 +175,10 @@
 链接: https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers
 正文: As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-30 22:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-30 23:54]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-30 22:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-30 23:54]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
