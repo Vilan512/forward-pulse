@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-07-31 13:43:21
-# 共计 46 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-31 15:55:32
+# 共计 75 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-31 12:16]
 标题: The Download: Montana’s new experimental drug rules
@@ -16,10 +16,6 @@
 链接: https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
 正文: As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can set the price of the drug and sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.&nbsp;&nbsp; Montana’s latest right-to-try legislation is unique. While other jurisdictions with similar laws limit access to drugs to people with terminal illness, in Montana access is theoretically available to anyone who gives informed consent and can pay. That includes people desperate for treatments for rare diseases. It also includes those who are interested in longevity and want to try out drugs pitched as preventive therapies. The state’s Department of Health and Human Services recently finalized rules to implement the law. The rules stipulate that patient consumers provide fully informed consent and that each application be reviewed by a board that includes a Montana-certified doctor, expert scientists, and an ethicist. Supporters of the law stress that they want the process to be responsible. “It will be done in a very rigorous way, with qualified medical professionals and appropriate oversight,” says Matt Kaeberlein, a scientist on the first board, which was formed independently of the state health department. But other experts are worried about the potential for harm in selling unproven treatments to people without oversight from the US Food and Drug Administration. “I would be concerned,” says Aaron Kesselheim, a professor of medicine at Harvard Medical School with expertise in health policy and drug regulation. There has been a growing movement to make unapproved drugs more accessible in the US. But the story of Montana’s law is unique. It’s been driven and dra
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-30 15:09]
-标题: GPU Management: Why Idle GPUs Are the New Grounded Aircraft
-链接: https://huggingface.co/blog/Dharma-AI/gpu-management
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 13:00]
 标题: 面壁智能ALIGN：自动对齐智能体与环境接口
 链接: https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv
@@ -30,6 +26,11 @@
 链接: https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n
 正文: 欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 11:07]
+标题: 教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队
+链接: https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga
+正文: 本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 10:57]
 标题: Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统
 链接: https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd
@@ -39,11 +40,6 @@
 标题: MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频
 链接: https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq
 正文: MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 06:56]
-标题: DeepSeek-V4-Flash API公测上线，Agent能力大幅升级
-链接: https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t
-正文: 🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！ 🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！ 查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 06:38]
 标题: 国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍
@@ -110,72 +106,189 @@
 链接: https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu
 正文: 字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 15:50]
-标题: RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU
-链接: https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2
-正文: RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 15:43]
-标题: llm-chat-completions-server 0.1a0 发布
-链接: https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8
-正文: Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 15:02]
-标题: Google DeepMind 发布 Gemini Robotics 2 物理 AI
-链接: https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb
-正文: One brain. For any robot. 🤖 我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 15:00]
-标题: Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人
-链接: https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln
-正文: Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:33]
 标题: Fed interest-rate decision rocks Wall Street's inflation fears
 链接: https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:34]
+标题: Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints
+链接: https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:30]
+标题: Why Starbucks CEO says the pumpkin spice latte won't be on the menu year-round
+链接: https://finance.yahoo.com/markets/article/why-starbucks-ceo-says-the-pumpkin-spice-latte-wont-be-on-the-menu-year-round-153050808.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:30]
+标题: Cencora (COR) Remains Attractive Despite Temporary Headwinds
+链接: https://finance.yahoo.com/healthcare/articles/cencora-cor-remains-attractive-despite-153023210.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:29]
+标题: Credit union vs. bank mortgage: How to choose
+链接: https://finance.yahoo.com/news/credit-union-vs-bank-mortgage-125728226.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:32]
+标题: Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint
+链接: https://finance.yahoo.com/markets/crypto/articles/circle-lands-york-trust-charter-153202072.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:26]
+标题: Data Center Builder Leaps 31% On Earnings As AI Trade Divides
+链接: https://www.investors.com/news/data-center-ai-artificial-intelligence-ies-holdings-quanta-mastec-tech-microsoft-amazon/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:25]
+标题: Business loan requirements: 9 things you will need
+链接: https://finance.yahoo.com/news/business-loan-requirements-8-things-192327728.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:23]
+标题: Datadog (DDOG) Rose on Accelerating Growth and AI-Driven Demand
+链接: https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-rose-accelerating-growth-152322798.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:21]
+标题: Average auto loan interest rates by credit score in 2026
+链接: https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:30]
+标题: A Turnaround Is Brewing At Starbucks. Here’s Where It’ll End The Year
+链接: https://finance.yahoo.com/markets/stocks/articles/turnaround-brewing-starbucks-where-ll-153044353.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:18]
+标题: Why do mortgages get sold? And what you can do about it?
+链接: https://finance.yahoo.com/news/why-mortgage-gets-sold-144001081.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 08:12]
+标题: Stock market today: Dow, S&P 500, Nasdaq seesaw as 10-year yield surges, Big Tech's AI spending ramps up
+链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:12]
+标题: How to get an emergency loan with bad credit
+链接: https://finance.yahoo.com/news/emergency-loan-bad-credit-050028875.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:10]
+标题: What is a foreclosure?
+链接: https://finance.yahoo.com/news/foreclosure-works-avoid-185329423.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:27]
+标题: The Hardest Money Problem in Retirement Isn’t Saving $500,000. It’s Turning It Into a Monthly Paycheck
+链接: https://finance.yahoo.com/markets/currencies/articles/hardest-money-problem-retirement-isn-152754278.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:09]
+标题: Stock Market Checklist Helps Uncover Winners In Hot Biotechs
+链接: https://www.investors.com/how-to-invest/investors-corner/stock-market-checklist-uncovers-biotech-winners/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:05]
+标题: Travel delay insurance: What's covered and what's not
+链接: https://finance.yahoo.com/personal-finance/insurance/article/travel-delay-insurance-150541453.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:03]
+标题: Fed hawks push yields higher, stocks give back gains
+链接: https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:14]
 标题: Analyst Report: Ameriprise Financial Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3876_AnalystReport_1785496444000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:27]
+标题: Strategy reports wider-than-expected Q2 loss amid Bitcoin volatility
+链接: https://finance.yahoo.com/markets/crypto/articles/strategy-reports-wider-expected-q2-152700303.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:03]
+标题: Trillion Dollar Tokenization Opportunity: Equiniti CEO Dan Kramer, Live at Nasdaq
+链接: https://finance.yahoo.com/technology/ai/articles/trillion-dollar-tokenization-opportunity-equiniti-150304995.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:00]
+标题: Meta Dropped, Amazon and Microsoft Rallied: Don’t Panic, Accumulate
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-dropped-amazon-microsoft-rallied-150037870.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:14]
 标题: Analyst Report: NextEra Energy Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_2983_AnalystReport_1785496444000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:25]
+标题: Oklo vs. NuScale vs. Bloom Energy: Which AI-Power Stock Is the Better Buy Now?
+链接: https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bloom-152500656.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:00]
+标题: Cadence Design Systems (CDNS): Agentic Capabilities Improve New Growth Engine
+链接: https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-agentic-150033165.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:59]
+标题: AMD Stock Rebounds With Chips Ahead Of Q2 Report; SpaceX Earnings, Lockup Expiration Loom Large
+链接: https://www.investors.com/research/earnings-preview/amd-stock-rebounds-chips-q2-earnings-shop-ddog-net-software-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:55]
+标题: Three Fed dissenters say rate hike is needed to curb inflation
+链接: https://finance.yahoo.com/economy/policy/articles/feds-hammack-says-tighter-monetary-120230781.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:07]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47787_TechnicalAnalysis_1785496069000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:22]
+标题: BJ’s Restaurants continues traffic-led growth in Q2
+链接: https://finance.yahoo.com/small-business/articles/bj-restaurants-continues-traffic-led-152256275.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:54]
+标题: Dollar eases against yen as intervention risks keep traders wary
+链接: https://finance.yahoo.com/markets/currencies/articles/yen-weakens-intervention-led-surge-002908369.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:54]
+标题: Here’s Why CoStar Group (CSGP) Faces Slow Momentum
+链接: https://finance.yahoo.com/markets/stocks/articles/why-costar-group-csgp-faces-145416106.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:53]
+标题: Bitcoin Slides As Strategy Plans Up To $5 Bil In Crypto Sales
+链接: https://www.investors.com/news/bitcoin-price-falls-strategy-5-billion-crypto-sales-q2-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:53]
+标题: What is a good credit score to buy a house?
+链接: https://finance.yahoo.com/real-estate/articles/good-credit-score-buy-house-145307090.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:00]
 标题: Daily – Vickers Top Buyers & Sellers for 07/31/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47783_TopBottomInsiderActivity_1785495639000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:22]
+标题: Why Dolby Labs Stock Popped Today
+链接: https://finance.yahoo.com/markets/stocks/articles/why-dolby-labs-stock-popped-152209793.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:52]
+标题: HubSpot’s (HUBS) Strong Results Overshadowed by Competitive Concerns
+链接: https://finance.yahoo.com/markets/stocks/articles/hubspot-hubs-strong-results-overshadowed-145226989.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:47]
+标题: Procore Technologies’ (PCOR) SaaS Model Tested in Volatile Market
+链接: https://finance.yahoo.com/markets/stocks/articles/procore-technologies-pcor-saas-model-144705336.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:46]
+标题: Is Schwab Stock A Sweet Buy In Sour Market? Consider These Clues.
+链接: https://www.investors.com/research/ibd-stock-analysis/schwab-stock-schw-time-to-buy-shares-of-financial-giant/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:32]
+标题: Coinbase stock sinks as weak crypto market leads to another quarterly loss
+链接: https://finance.yahoo.com/markets/crypto/article/coinbase-stock-sinks-as-weak-crypto-market-leads-to-another-quarterly-loss-113236213.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 11:00]
 标题: Daily – Vickers Top Insider Picks for 07/31/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47782_InsiderActivity_1785495639000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 13:06]
-标题: Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 15:22]
+标题: My wife retired 2 years ago and I’m still working — is our $12 million net worth enough for me to join her in retirement?
+链接: https://finance.yahoo.com/news/wife-retired-2-years-ago-164807489.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 12:44]
-标题: Silver prices today, Friday, July 31, 2026: Silver briefly rises above $59 after U.S. pauses airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-31-2026-silver-briefly-rises-above-59-after-us-pauses-airstrikes-124419446.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 14:42]
+标题: Guardant Health, Thursday's Stock Of The Day, Spikes After Hiking 2026 Outlook
+链接: https://www.investors.com/research/ibd-stock-of-the-day/guardant-health-stock-buy-point-earnings-colon-cancer/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 12:34]
-标题: Gold prices today, Friday, July 31, 2026: Gold price finally breaks above $4,100 as U.S. paused airstrikes overnight
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-31-2026-gold-price-finally-breaks-above-4100-as-us-paused-airstrikes-overnight-123436216.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-31 14:44]
+标题: How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days
+链接: https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html
+正文: Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 15:37]
-标题: Cheap life insurance: How to get coverage
-链接: https://finance.yahoo.com/personal-finance/insurance/article/cheap-life-insurance-153738210.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-31 12:41]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-31 15:31]
 标题: New York sues Kalshi, says prediction market is running 'illegal gambling operation'
 链接: https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html
 正文: It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-31 12:40]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-31 14:35]
 标题: Fed officials who voted to hike rates say action is needed now against inflation
 链接: https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html
 正文: Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.
@@ -210,10 +323,10 @@
 链接: https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era
 正文: Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-31 13:43]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-31 15:55]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-31 13:43]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-31 15:55]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
