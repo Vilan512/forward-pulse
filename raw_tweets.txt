@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-07-31 08:36:13
-# 共计 35 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-07-31 11:22:16
+# 共计 37 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-31 09:00]
+标题: Montana’s new “right to try” law can’t come soon enough for some
+链接: https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
+正文: Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test revealed creatine transporter deficiency—a rare condition in which the brain and muscles lack the energy they need to develop. There are no cures for Brody’s condition. But DeVault has learned of a company developing a drug that might help. That drug is still in the early stages of development and has only been tested in animals and a small number of healthy adults. Doctors can’t prescribe it. DeVault knows the drug might not work. But he’s doing all he can to access it regardless. And a new law in Montana could make it easier for people in his position to get access to treatments—at least in theory. Today, Brody is three years old. His dad describes him as a happy, curious, and loving little boy who wants to learn. But Brody struggles to communicate. “He’s got no words, really,” says DeVault. “He wants to communicate more than he’s able to … which then turns into frustration.” It’s difficult for Brody to tell his parents whether he’s hot, cold, hungry, thirsty, uncomfortable, or even in pain, says DeVault. He recently found Brody standing on an anthill in the backyard, being bitten by red ants. “These fire ants were just going to town on his feet … and he was just looking,” he says. Brody has muscle weakness too. “He can’t move very fast, he doesn’t have a ton of strength … and it takes a lot of energy for him to walk balanced,” says DeVault. “His arms are skinnier than [those of] his nine-month-old sister.” It’s concerning, but DeVault is most worried about Brody’s neurological development. Toddlers’ brains are exceptionally “plastic”—the first years of a child’s life are thought to be crucial for long-term brain development. A biotechnology company in 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-30 17:10]
 标题: Montana’s plan to become an experimental medical hub just pushed forward
@@ -11,14 +16,14 @@
 链接: https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at a top AI conference earlier this month.&nbsp;&nbsp; The flaw concerns how LLMs identify who or what is giving them instructions. By taking advantage of it, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system. &nbsp; Read our story about the flaw the researchers found, its implications—and why it may never be fixed. —Will Douglas Heaven How an overlooked geothermal plant got a second chance In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new well. With the help of advanced modeling and modern drilling technology, the company was able to identify a better well site, drill down thousands of feet, and revive the entire operation. As the world looks for more sources of emissions-free electricity that are available 24-7, Lightning Dock shows there’s still hidden potential deep beneath our feet.&nbsp;Read the full story. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. MIT Technology Review Narrated: South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a move typical of a
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-07-30 10:15]
-标题: A fundamental flaw leaves LLMs strikingly vulnerable to attack
-链接: https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
-正文: It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping and health care. By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system.&nbsp;&nbsp; “There’s a real probability that this is going to be a problem that’s fundamentally unsolvable,” says Charles Ye, an independent researcher and coauthor of the ICML paper. Companies will typically hire teams of human testers to try to come up with novel attacks that break existing guardrails, a process known as red-teaming. Model makers also use LLM super-hackers (such as OpenAI’s GPT-Red) that find and exploit weaknesses in other models to automate parts of this process. The goal is then to take those attacks and train a new model to resist them and anything that looks like them. The problem, says Jasmine Cui, another independent researcher and coauthor of the paper, is that the approach amounts to giving the models a list of things they shouldn’t do. But no list is exhaustive. “It’s like watching The Simpsons and they have Bart writing ‘I will not say something inappropriate to my teacher’ a hundred times,” she says. “And he still does things that are pretty crass anyway.”&nbsp;&nbsp;&nbsp;&nbsp; The researchers started out trying to test how easy it was to persuade LLMs to misbehave. They found that writing instructions in a style that mimicked the text LLMs generate in their chain of thought—a kind of scra
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-07-30 15:09]
 标题: GPU Management: Why Idle GPUs Are the New Grounded Aircraft
 链接: https://huggingface.co/blog/Dharma-AI/gpu-management
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 09:59]
+标题: MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频
+链接: https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq
+正文: MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-31 06:56]
 标题: DeepSeek-V4-Flash API公测上线，Agent能力大幅升级
@@ -115,18 +120,21 @@
 链接: https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1
 正文: 美国 FCC 自 7 月 28 日起禁止进口中国新型&quot;先进机器人设备&quot;和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-07-30 10:00]
-标题: GPT-5.6 如何推进性价比前沿
-链接: https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q
-正文: OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 16:33]
 标题: Fed interest-rate decision rocks Wall Street's inflation fears
 链接: https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 10:00]
-标题: Best CD rates today, Thursday, July 30, 2026: Lock in up to 4.15% APY with a 14-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-30-2026-lock-in-up-to-415-apy-with-a-14-month-cd-100000132.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-30 12:33]
+标题: Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 10:00]
+标题: Mortgage and refinance interest rates today, Friday, July 31, 2026: Mortgage rates find more room to fall
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-31-2026-mortgage-rates-find-more-room-to-fall-100000678.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-07-31 10:00]
+标题: Best CD rates today, Friday, July 31, 2026: Up to 4.15% APY return
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-31-2026-up-to-415-apy-return-100000041.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-07-30 22:01]
 标题: China’s U.S.-bound shipments fall in July after brief recovery, survey shows
@@ -163,10 +171,10 @@
 链接: https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era
 正文: Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-31 08:36]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-07-31 11:22]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-31 08:36]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-07-31 11:22]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
