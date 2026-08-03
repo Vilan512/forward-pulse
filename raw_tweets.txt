@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-03 17:46:31
-# 共计 60 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-03 19:20:20
+# 共计 32 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-03 18:43]
+标题: Trump’s AI protectionism has come for robotics
+链接: https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.&nbsp; It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be understood not a
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-03 12:08]
 标题: The Download: reward hacking explained, and suspected Iranian cyberattacks
@@ -10,6 +15,11 @@
 标题: Here’s why AI agents lie and cheat to reach their goals
 链接: https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
 正文: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI, the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The Hugging Face incident has attracted intense attention over the past couple of weeks. It’s a dramatic illustration of just how good AI models have gotten at hacking: In order to get into Hugging Face’s databases, the models had to string together several previously undiscovered cybersecurity exploits. But it’s perhaps even more striking as an example of how and why AI systems lie and cheat. And as models get increasingly powerful, the consequences could get far more severe. What is reward hacking? Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them. Back in 2016, Anthropic cofounders Dario Amodei and Jack Clark, who were then working at OpenAI, published a blog post about an AI agent that they had been training to play a boat-racing Flash game called Coast Runners. Instead of driving through the race to the finish line, as the researchers had anticipated, the agent found a corner of the course where it could spin around collecting power-ups, thereby maximizing its score. The Coast Runners story quickly became one of the most famous examples of reward hacking, a phenomenon in which AI agents complete tasks or earn high scores using unintended strategies. Historically, researchers have di
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 17:38]
+标题: 欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元
+链接: https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0
+正文: 欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 16:24]
 标题: AirLLM 实现单块 4GB GPU 运行 70B 模型推理
@@ -61,153 +71,21 @@
 链接: https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0
 正文: OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了&quot;合成谬误&quot;：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 14:04]
-标题: Tech stocks today: Investors eye SpaceX's first earnings report
-链接: https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 09:25]
-标题: Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease
-链接: https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:13]
-标题: This Niche Energy Stock Breaks Out Before Earnings
-链接: https://www.investors.com/news/energy-stock-lpg-breaking-out-before-q1-27-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:07]
-标题: Boeing Stock Lifts Dow After Double Upgrade, FAA Certification
-链接: https://www.investors.com/news/boeing-stock-aerospace-defense/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:07]
-标题: Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention
-链接: https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:05]
-标题: Stock Market Today: Dow Jumps As Amazon Passes $3 Trillion Level; Defense Play Clears Entry (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:04]
-标题: Toyota set to report higher revenue and profit despite global sales slip: Earnings preview
-链接: https://finance.yahoo.com/markets/stocks/article/toyota-set-to-report-higher-revenue-and-profit-despite-global-sales-slip-earnings-preview-170431398.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:00]
-标题: Nvidia Stock Retakes Key Level As Chip Stocks Waver
-链接: https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:18]
-标题: Robinhood scores another win after earnings beat
-链接: https://finance.yahoo.com/markets/stocks/articles/robinhood-scores-another-win-earnings-171814584.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:54]
-标题: Nvidia (NVDA) Uses Own Chips for Design, While AMD (AMD) Relies on Rivals
-链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-uses-own-chips-165445053.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:53]
-标题: Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered
-链接: https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:46]
-标题: CXMT’s 466% IPO Pop Gives Apple (AAPL) Leverage. Why Micron (MU) Investors Should Stay Patient
-链接: https://finance.yahoo.com/markets/stocks/articles/cxmt-466-ipo-pop-gives-164611524.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 13:39]
-标题: Semiconductor stocks pare losses amid fears of increased competition from China
-链接: https://finance.yahoo.com/markets/article/semiconductor-stocks-pare-losses-amid-fears-of-increased-competition-from-china-133938642.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:17]
-标题: Top Healthcare Analyst: A $400 Billion AstraZeneca-Bristol Myers Deal Could “Cut Costs in a Big Way”
-链接: https://finance.yahoo.com/healthcare/articles/top-healthcare-analyst-400-billion-171738899.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:40]
-标题: Read Between These Lines As Eli Lilly, Hot IPO And More Face Key Test
-链接: https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/eli-lilly-twilio-hinge-health-billiontoone-lead-stocks-to-watch-with-earnings-due/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:37]
-标题: Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results
-链接: https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:34]
-标题: Wall St starts the month strong as Mideast deal hopes rise
-链接: https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-mideast-100930076.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:33]
-标题: Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone
-链接: https://finance.yahoo.com/healthcare/articles/jim-cramer-analyzes-johnson-johnson-163351539.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:17]
-标题: The Dow and S&P 500 Flirt With Record Highs
-链接: https://www.barrons.com/livecoverage/stock-market-news-today-080326/card/the-dow-and-s-p-500-flirt-with-record-highs-fAoUCZG81sRKCLBJ3ZsK?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:30]
-标题: Leopold Aschenbrenner was up 439% — then 4x leverage wiped out 67% of his $45B AI hedge fund in one month
-链接: https://finance.yahoo.com/markets/stocks/articles/leopold-aschenbrenner-439-then-4x-163000526.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:24]
-标题: Yen climbs against dollar, euro as traders speculate on further intervention
-链接: https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:24]
-标题: A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap
-链接: https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:24]
-标题: Strategy Sells $105M in Bitcoin, Lifts Dollar Reserve to $4B
-链接: https://finance.yahoo.com/markets/crypto/articles/strategy-sells-105m-bitcoin-lifts-162400828.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:17]
-标题: Valuations Are Falling While the S&P 500 is Flat. That Could Be Great News for the Bulls.
-链接: https://www.barrons.com/articles/valuations-are-falling-while-the-s-p-500-is-flat-that-could-be-great-news-for-the-bulls-684a92a7?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 10:00]
-标题: Mortgage and refinance rates today, Monday, August 3, 2026: Purchase and refi rates mixed to start the week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-3-2026-purchase-and-refi-rates-mixed-to-start-the-week-100000044.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:17]
-标题: Jim Cramer Named Micron Technology (MU) His Top Memory Pick
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-named-micron-technology-161726309.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 16:00]
-标题: Lending circles offer no interest and no collateral — here's why millions still use them to bypass banks
-链接: https://finance.yahoo.com/small-business/articles/lending-circles-offer-no-interest-160000506.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 15:58]
-标题: AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough?
-链接: https://www.investors.com/news/technology/astrazeneca-stock-bristol-myers-squibb-rumored-deal/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:16]
-标题: Robinhood Ventures Fund II targets $200 million IPO
-链接: https://finance.yahoo.com/markets/stocks/articles/robinhood-ventures-fund-ii-targets-171601897.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 15:57]
-标题: Broadcom loses court bid to suspend EU antitrust request for US legal papers
-链接: https://finance.yahoo.com/technology/articles/broadcom-loses-court-bid-suspend-155709395.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 13:12]
-标题: Bitcoin and ethereum prices today, Monday, August 3, 2026: Prices pulling back this morning despite de-escalation with Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-3-2026-prices-pulling-back-this-morning-despite-de-escalation-with-iran-131220661.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 13:00]
-标题: Do you own America's most stolen car? What your insurance won't cover.
-链接: https://finance.yahoo.com/personal-finance/insurance/article/most-stolen-car-in-the-us-130000998.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 12:31]
-标题: Silver prices today, Monday, August 3, 2026: Silver prices open higher thanks to paused airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-3-2026-silver-prices-open-higher-thanks-to-paused-airstrikes-123103873.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 12:01]
-标题: Weekly Stock List
-链接: https://finance.yahoo.com/research/reports/ARGUS_47803_StockPicks_1785758464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:15]
+标题: Analyst Report: Enterprise Products Pntr LP
+链接: https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:15]
-标题: Goldman Sachs Says This Is Where Microsoft’s AI Investments Begin to Pay Off Big Time
-链接: https://finance.yahoo.com/technology/ai/articles/goldman-sachs-says-where-microsoft-171529155.html
+标题: Analyst Report: Valero Energy Corp
+链接: https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 12:16]
-标题: Gold prices today, Monday, August 3, 2026: Gold prices open higher after U.S. pauses planned airstrikes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:15]
+标题: Analyst Report: Stanley Black & Decker Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 10:00]
-标题: HELOC and home equity loan rates today, Monday, August 3, 2026: Just a 2-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:00]
+标题: Market Update: EPD, GLW, LUV, SWK, VLO
+链接: https://finance.yahoo.com/research/reports/ARGUS_47805_MarketUpdate_1785776410000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 10:00]
 标题: Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY
@@ -217,13 +95,25 @@
 标题: Best high-yield savings interest rates today, Monday, August 3, 2026: You can earn up to 4.15% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 11:16]
-标题: Analyst Report: Southern Co/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_3398_AnalystReport_1785755814000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 10:00]
+标题: HELOC and home equity loan rates today, Monday, August 3, 2026: Just a 2-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 17:14]
-标题: Alphabet at $356: Plenty of Room to Buy and Here’s Why
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-356-plenty-room-buy-171445782.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 12:16]
+标题: Gold prices today, Monday, August 3, 2026: Gold prices open higher after U.S. pauses planned airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 12:31]
+标题: Silver prices today, Monday, August 3, 2026: Silver prices open higher thanks to paused airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-3-2026-silver-prices-open-higher-thanks-to-paused-airstrikes-123103873.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 13:00]
+标题: Do you own America's most stolen car? What your insurance won't cover.
+链接: https://finance.yahoo.com/personal-finance/insurance/article/most-stolen-car-in-the-us-130000998.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 13:12]
+标题: Bitcoin and ethereum prices today, Monday, August 3, 2026: Prices pulling back this morning despite de-escalation with Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-3-2026-prices-pulling-back-this-morning-despite-de-escalation-with-iran-131220661.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-03 15:59]
 标题: Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions
@@ -250,10 +140,10 @@
 链接: https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html
 正文: China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-03 17:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-03 19:20]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-03 17:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-03 19:20]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
