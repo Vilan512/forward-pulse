@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-04 14:00:53
-# 共计 73 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-04 16:46:15
+# 共计 77 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-04 12:14]
 标题: The Download: US robot restrictions, and ICE’s DNA grab
@@ -9,11 +9,61 @@
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-03 18:43]
 标题: Trump’s AI protectionism has come for robotics
 链接: https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.&nbsp; It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be understood not a
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.&nbsp; It was a surprise, then, when last week the Federal Communications Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FCC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be un
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-04 13:58]
 标题: Deploy local agents everywhere with LFM2.5-2.6B
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 15:46]
+标题: 商汤 SenseNova U1 开源：统一推理与图像生成
+链接: https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi
+正文: 商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 15:03]
+标题: 蚂蚁百灵发布Ling-3.0-flash开源权重
+链接: https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u
+正文: 今天，我们发布了 Ling-3.0-flash 的开源权重。🎉 官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 15:00]
+标题: NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型
+链接: https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj
+正文: NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 15:00]
+标题: NVIDIA 开源 cuFile API，推动 GPU 直连存储
+链接: https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c
+正文: NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 GPU 可直接读写存储，访问延迟降至微秒级。其 Vera CPU 在两级压缩与加密流水线中吞吐量比 x86 CPU 最高提升 3.21 倍，并联合 40 多家厂商推出 Storage-Next 计划。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 14:58]
+标题: Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议
+链接: https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0
+正文: Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 13:00]
+标题: Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零
+链接: https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y
+正文: Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 13:00]
+标题: Cloudflare 让智能体通过本地追踪调试 Workers
+链接: https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia
+正文: Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 13:00]
+标题: Cloudflare 推出 Agents 平台，率先上线智能体追踪功能
+链接: https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd
+正文: Cloudflare 推出 Cloudflare Agents，将部署在平台上的智能体会话统一到一个视图中，并率先上线 agent tracing 功能。该功能支持 OpenTelemetry 兼容的 Think、Flue 和 AI SDK 等智能体框架，可测量每次模型调用、工具执行和 token 消耗。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 13:00]
+标题: Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线
+链接: https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs
+正文: Cloudflare 推出基于 Workflows 和 Sandbox SDK 的 CI SDK，让平台方直接在 Cloudflare 上运行 CI/CD 流水线，支持构建、lint、类型检查、单元测试、依赖缓存及条件部署。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 13:00]
+标题: Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期
+链接: https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2
+正文: Cloudflare 宣布推出 Agent Development Lifecycle（ADLC），以取代传统 SDLC，让 AI 智能体从仅生成代码扩展到承担更多开发流程。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 12:56]
 标题: 在单颗 AMD MI300X 上运行 DeepSeek V4 Flash
@@ -75,11 +125,6 @@
 链接: https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu
 正文: 我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 20:12]
-标题: EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界
-链接: https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx
-正文: EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求&quot;看起来真实&quot;，而必须&quot;行为正确&quot;。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称&quot;控制是下一个前沿&quot;。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 19:43]
 标题: 微软开源 Orchard 智能体训练框架
 链接: https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f
@@ -90,193 +135,173 @@
 链接: https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0
 正文: 欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 16:24]
-标题: AirLLM 实现单块 4GB GPU 运行 70B 模型推理
-链接: https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1
-正文: AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:00]
+标题: If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today
+链接: https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 15:31]
-标题: OpenRouter 推出 Ori Eval 简化评估流程
-链接: https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6
-正文: 推出 Ori Eval：编写首个评估的最简单方式。 没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。 curl -fsSL https://openrouter.ai/skills/spawn-ori-eval 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:22]
+标题: 'Several steps ahead': Why Palantir stock is surging
+链接: https://finance.yahoo.com/markets/stocks/article/several-steps-ahead-why-palantir-stock-is-surging-162224977.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 14:40]
-标题: 商汤发布 SenseNova U1.5-Lite-Preview 开源模型
-链接: https://aihot.virxact.com/items/cmsdczxnl0138rotj8fjenm4b
-正文: 商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdczxnl0138rotj8fjenm4b
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:21]
+标题: Is Elevance Health (ELV) Entering a Major Earnings Recovery?
+链接: https://finance.yahoo.com/healthcare/articles/elevance-health-elv-entering-major-162157370.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 14:33]
-标题: Google Agent Skills 幕后：如何构建、测试与规模化
-链接: https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8
-正文: Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的&quot;swarm&quot;冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:19]
+标题: Is Lockheed Martin (LMT) a Buying Opportunity After Its 16% Drop?
+链接: https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-buying-opportunity-161911062.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:53]
-标题: Bessent's call to upsize Fed foreign lending facility may not be risk-free
-链接: https://finance.yahoo.com/economy/policy/articles/bessents-call-upsize-fed-foreign-135337321.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:16]
+标题: Is Intercontinental Exchange (ICE) a Buying Opportunity After Its 22% Drop?
+链接: https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-buying-opportunity-161648534.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:46]
-标题: Brewery numbers in Germany drop again in 2025
-链接: https://finance.yahoo.com/economy/articles/brewery-numbers-germany-drop-again-134650916.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:30]
+标题: These 3 Chip Stocks Could Be Entering a New Growth Cycle
+链接: https://finance.yahoo.com/technology/articles/3-chip-stocks-could-entering-163001257.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:45]
-标题: Baron Capital Sees Years of Mid-Teens Growth for Intuitive Surgical (ISRG)
-链接: https://finance.yahoo.com/healthcare/articles/baron-capital-sees-years-mid-134545821.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:14]
+标题: Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.
+链接: https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:44]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 10:01]
+标题: Stock market today: Nasdaq surges, Dow and S&P 500 trade at record highs amid US-Iran optimism, tech rally
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:09]
+标题: Broader Crude Oil Price Weakness Hurt Kosmos Energy Ltd. (KOS) in Q2
+链接: https://finance.yahoo.com/energy/articles/broader-crude-oil-price-weakness-160903037.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:07]
+标题: APA Corp. (APA) Declined Despite Meeting Expectations
+链接: https://finance.yahoo.com/markets/stocks/articles/apa-corp-apa-declined-despite-160752472.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:29]
+标题: Pfizer repels Covid-19 sales tumble to raise 2026 guidance
+链接: https://finance.yahoo.com/healthcare/articles/pfizer-repels-covid-19-sales-162934576.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:06]
+标题: Hotchkis & Wiley Mid-Cap Value Fund is Bullish on Marriott Vacations Worldwide (VAC)
+链接: https://finance.yahoo.com/markets/stocks/articles/hotchkis-wiley-mid-cap-value-160623816.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:04]
+标题: Humana’s (HUM) Path to Recovery and Growth
+链接: https://finance.yahoo.com/healthcare/articles/humana-hum-path-recovery-growth-160456553.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:03]
+标题: Here’s How Intermodal Demand Is Positioning CSX Corp. (CSX) for Growth
+链接: https://finance.yahoo.com/markets/stocks/articles/intermodal-demand-positioning-csx-corp-160347294.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:03]
+标题: Centene Corp. (CNC) Surged on Earnings Beat and Improved Outlook
+链接: https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-surged-earnings-160339963.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:24]
+标题: Why Gartner Inc. Stock Is Soaring Today
+链接: https://finance.yahoo.com/markets/stocks/articles/why-gartner-inc-stock-soaring-162425528.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:02]
+标题: Stock Market Today: Dow Flirts With 54,000; Palantir Spikes, Datadog In A Buy Zone (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:51]
+标题: CoreWeave Sets Asia-Pacific Expansion. Piper Sandler Names Cloud Firm Top AI Pick.
+链接: https://www.investors.com/news/technology/coreweave-stock-crwv-climbs-asia-pacific-expansion-piper/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:49]
+标题: Polymarket Talking Up a $20 Billion Valuation as Kalshi Races For Double That
+链接: https://finance.yahoo.com/markets/stocks/articles/polymarket-talking-20-billion-valuation-154947363.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:49]
+标题: Asmodee Surges on Pokémon Like It’s 1997 Again
+链接: https://finance.yahoo.com/markets/stocks/articles/asmodee-surges-pok-mon-1997-154918315.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:23]
+标题: Toyota raises guidance as first quarter net income jumps 75.6%
+链接: https://finance.yahoo.com/markets/stocks/articles/toyota-raises-guidance-first-quarter-162321522.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:46]
+标题: Chlor-alkali Market Tightening Drives Olin Corp. (OLN) Stock Recovery
+链接: https://finance.yahoo.com/markets/stocks/articles/chlor-alkali-market-tightening-drives-154611702.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:45]
+标题: A $25,000 home repair could wipe out her $27,000 emergency fund — experts say there's a smarter move
+链接: https://finance.yahoo.com/real-estate/articles/25-000-home-repair-could-154500711.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:45]
+标题: Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal
+链接: https://finance.yahoo.com/energy/articles/oil-extends-losses-us-qatar-154500196.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:40]
+标题: Amazon Stock Falls After Rally As Bezos Plans $4 Billion Share Sale
+链接: https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:23]
+标题: Angel investor says Bitcoin has bottomed, sell it and buy Solana
+链接: https://finance.yahoo.com/markets/crypto/articles/angel-investor-says-bitcoin-bottomed-162308696.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:35]
+标题: Argenx SE (ARGX) Prepares to Demonstrate Vyvgart’s Efficacy in Broader Autoimmune Diseases
+链接: https://finance.yahoo.com/healthcare/articles/argenx-se-argx-prepares-demonstrate-153540812.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:34]
+标题: Strong quarter for Expeditors, air freight leads the way
+链接: https://finance.yahoo.com/markets/stocks/articles/strong-quarter-expeditors-air-freight-153423050.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:33]
+标题: Leidos lifts annual forecasts on strong defense demand
+链接: https://finance.yahoo.com/markets/stocks/articles/leidos-lifts-annual-forecasts-strong-153315803.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:31]
+标题: SK Hynix rises as brokerages launch coverage with bullish ratings
+链接: https://finance.yahoo.com/technology/ai/articles/sk-hynix-rises-brokerages-launch-153134939.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:20]
+标题: 3 Magnificent Artificial Intelligence (AI) Stocks to Buy Right Now and Hold for the Next Decade
+链接: https://finance.yahoo.com/technology/ai/articles/3-magnificent-artificial-intelligence-ai-162000683.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:30]
+标题: Does BillionToOne (BLLN) Have Another Major Growth Engine Beyond Prenatal Testing?
+链接: https://finance.yahoo.com/healthcare/articles/does-billiontoone-blln-another-major-153021542.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:25]
+标题: Is Elevance Health (ELV) Positioned for Margin Recovery?
+链接: https://finance.yahoo.com/healthcare/articles/elevance-health-elv-positioned-margin-152550451.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:22]
 标题: Here's Why SpaceX Earnings Could Affect Tesla Stock
 链接: https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:41]
-标题: Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation
-链接: https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:17]
+标题: This Indicator Hasn’t Been This High in 4 Years. It Means the Fed Could Raise Rates in 2026
+链接: https://finance.yahoo.com/economy/policy/articles/indicator-hasn-t-high-4-161707678.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 10:01]
-标题: Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:19]
+标题: Could Gilead Sciences (GILD) Have a Major HIV Growth Engine in Yeztugo?
+链接: https://finance.yahoo.com/healthcare/articles/could-gilead-sciences-gild-major-151946319.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:46]
-标题: Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics
-链接: https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-rockets-17-coherent-134642674.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:17]
+标题: Hugo Boss Finds Profit in a Sales Slump
+链接: https://finance.yahoo.com/markets/stocks/articles/hugo-boss-finds-profit-sales-151759208.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:02]
-标题: Snap stock jumps 6% on improved advertising, World Cup boost
-链接: https://finance.yahoo.com/markets/article/snap-stock-jumps-6-on-improved-advertising-world-cup-boost-130259116.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:17]
+标题: Edwards Lifesciences (EW) Has a Growth Runway Competitors May Struggle to Match
+链接: https://finance.yahoo.com/healthcare/articles/edwards-lifesciences-ew-growth-runway-151732264.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:38]
-标题: Trucking coalition says 194,000 non-domiciled CDLs affected by carrier reforms
-链接: https://finance.yahoo.com/economy/policy/articles/trucking-coalition-says-194-000-133821021.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 12:05]
-标题: Caterpillar stock pops 10% on record quarterly revenue
-链接: https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-10-on-record-quarterly-revenue-120556209.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:37]
-标题: Spotify stock sinks as streaming giant's monthly active users forecast misses estimates
-链接: https://finance.yahoo.com/markets/article/spotify-stock-sinks-as-streaming-giants-monthly-active-users-forecast-misses-estimates-133728671.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:44]
-标题: Saudi Aramco Q2 2026 earnings beat as Iran war lifts oil prices
-链接: https://finance.yahoo.com/energy/articles/saudi-aramco-q2-2026-earnings-134448132.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:35]
-标题: Did Palantir's Big Q2 Beat Slay Worries Over OpenAI, Anthropic?
-链接: https://www.investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:34]
-标题: Philadelphia Fed president says she's keeping an 'open mind' on rates, watching inflation
-链接: https://finance.yahoo.com/economy/policy/article/philadelphia-fed-president-says-shes-keeping-an-open-mind-on-rates-watching-inflation-133424815.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:31]
-标题: Investor Cathie Wood Buys Coinbase And Circle Stocks
-链接: https://finance.yahoo.com/markets/crypto/articles/investor-cathie-wood-buys-coinbase-133100414.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:38]
-标题: SpaceX Earnings Call Today: Top 3 Scenarios Investors Are Watching
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-earnings-call-today-top-133837458.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:30]
-标题: Bitmine Accelerates Stock Buybacks And Continues Buying Ethereum
-链接: https://finance.yahoo.com/markets/stocks/articles/bitmine-accelerates-stock-buybacks-continues-133000732.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:28]
-标题: Dean of Valuation Aswath Damodaran Raises Alarm Bells for Meta, Alphabet, and Microsoft — Should You Be Worried?
-链接: https://finance.yahoo.com/markets/stocks/articles/dean-valuation-aswath-damodaran-raises-132832613.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:28]
-标题: The Merck Product That Absolutely Demolished Wall Street's Forecasts
-链接: https://www.investors.com/news/technology/merck-stock-merck-earnings-q2-2026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:27]
-标题: American Bitcoin’s President Resigns
-链接: https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-president-resigns-132700433.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:38]
-标题: Jeff Bezos files to sell $4 billion in Amazon stock after record high
-链接: https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-files-sell-4-133812157.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:26]
-标题: DeepSeek Matched Gemini 3.6 Flash at 3 Cents Per Benchmark Test. Alibaba (BABA) Is Turning Alphabet’s (GOOGL) China Problem Into a Price War
-链接: https://finance.yahoo.com/technology/ai/articles/deepseek-matched-gemini-3-6-132651313.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:25]
-标题: Clarity Act May Get A Pre-Recess Vote. ARK Makes Crypto Buys. Miners Divided On Results, AI Deals.
-链接: https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:25]
-标题: First U.S. Bitcoin ETF To Close
-链接: https://finance.yahoo.com/markets/crypto/articles/first-u-bitcoin-etf-close-132500973.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:23]
-标题: Ford Jumped, Meta Dropped on Earnings Surprises — Time to Buy or Sell?
-链接: https://finance.yahoo.com/markets/stocks/articles/ford-jumped-meta-dropped-earnings-132356583.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:37]
-标题: Walmart downgraded, Palantir upgraded: Wall Street's top analyst calls
-链接: https://finance.yahoo.com/markets/stocks/articles/walmart-downgraded-palantir-upgraded-wall-133705916.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:19]
-标题: Could Revolution Medicines (RVMD) Become a $20 Billion Cancer Drug Story?
-链接: https://finance.yahoo.com/healthcare/articles/could-revolution-medicines-rvmd-become-131956736.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:17]
-标题: Why AMD is a Yahoo Finance AlphaSpace rockstar
-链接: https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:15]
-标题: Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:36]
-标题: California Water Service (CWT) Q2 2026 Earnings Call Transcript
-链接: https://finance.yahoo.com/markets/stocks/articles/california-water-cwt-q2-2026-133653106.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:05]
-标题: CoreWeave expands into Indonesia, announces first data center in Asia-Pacific
-链接: https://finance.yahoo.com/technology/ai/articles/coreweave-expands-indonesia-announces-first-130550234.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:05]
-标题: Snap Stock Gets Boost After Q2 Report. Why Results Are 'Step In Right Direction'
-链接: https://www.investors.com/news/technology/snap-stock-q2-2026-earnings-snapchat/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:04]
-标题: Transportation capacity falls faster in July, rates remains high
-链接: https://finance.yahoo.com/economy/articles/transportation-capacity-falls-faster-july-130441608.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:03]
-标题: Pfizer Hikes 2026 Sales Outlook By $500 Million On Second-Quarter Beat
-链接: https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q2-2026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:36]
-标题: Pandora North America Names New President
-链接: https://finance.yahoo.com/markets/stocks/articles/pandora-north-america-names-president-133608489.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:03]
-标题: Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-03 14:04]
-标题: Tech stocks today: SpaceX, AMD to report earnings after the bell
-链接: https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 12:21]
-标题: Gold prices today, Tuesday, August 4, 2026: Gold remains above $4,100 with Iran threats looming
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-4-2026-gold-remains-above-4100-with-iran-threats-looming-122138936.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:35]
-标题: Donald Trump's Decision to Halt Iran Strikes Sent Meta Shares Up Nearly 7% in a Single Day. Here's Why Geopolitical Risk Is Still a Wildcard for Tech Stocks.
-链接: https://finance.yahoo.com/markets/stocks/articles/donald-trumps-decision-halt-iran-133500460.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 16:12]
+标题: Bilt Cardholders Hit With Mistaken Collections Notices on Phantom Balances
+链接: https://www.wsj.com/business/bilt-cardholders-hit-with-mistaken-collections-notices-on-phantom-balances-a7e8c8cc?siteid=yhoof2&yptr=yahoo
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 13:31]
 标题: Polymarket in talks for fundraising round at more than $20 billion valuation
 链接: https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html
 正文: The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 13:18]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 16:28]
 标题: Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind
 链接: https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html
 正文: Paulson said voting with the majority last week wasn't a tough decision.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 13:12]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 16:14]
 标题: Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling
 链接: https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html
 正文: The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.
@@ -296,30 +321,25 @@
 链接: https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html
 正文: These are the stocks posting the largest moves after the bell.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-03 15:59]
-标题: Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions
-链接: https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html
-正文: Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-03 19:20]
 标题: California's diesel prices have jumped since the Iran war started, with ripple effects across the country
 链接: https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html
 正文: California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-03 16:44]
-标题: Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams
-链接: https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html
-正文: It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-04 00:00]
 标题: Escaping the pilot trap: Building HR for the agentic era
 链接: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era
 正文: Organizations that create the most effective agentic HR functions don’t just scale pilots. They define the human–agent operating model for the function first, then work backward to implementation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-04 14:00]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-04 00:00]
+标题: Adapting for America’s next chapter: An interview with CQ Brown
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown
+正文: The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next generation of leaders.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-04 16:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-04 14:00]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-04 16:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
