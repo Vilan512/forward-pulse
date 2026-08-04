@@ -1,19 +1,24 @@
-# ForwardPulse 原始情报收割 — 2026-08-04 18:23:07
-# 共计 47 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-04 20:18:47
+# 共计 45 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-04 12:14]
 标题: The Download: US robot restrictions, and ICE’s DNA grab
 链接: https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&nbsp; Humanoid robots usually elicit more cringe than awe: They&nbsp;stumble,&nbsp;kick children, and despite advances are still worse at&nbsp;using their hands&nbsp;than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.&nbsp; It was a surprise, then, when last week the Federal Trade Commission issued a&nbsp;sweeping ban&nbsp;on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots.&nbsp; The decision should be understood not as another chapter in the old China trade playbook, but as evidence that the Trump administration is expanding its protection of the AI industry beyond today’s leading labs. It is now willing to step in on behalf of an emerging robotics sector that is still barely finding its footing.&nbsp;Read our analysis to understand the ban’s potential impact. This&nbsp;story&nbsp;is from The Algorithm, our weekly newsletter all about the latest goings-on in the world of AI.&nbsp;Sign up&nbsp;to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 ICE collected nearly one million people’s DNA last year&nbsp;Most of them have never been convicted of any crime. (Wired&nbsp;$) 2 China is poised to win the technologies of the futureIt’s already a high-tech hardware powerhouse, but it increasingly has its sights set on software too. (New Yorker&nbsp;$)+&nbsp;US tech and political leaders are freaking out, but few seem to agree how to respond.&nbsp;(Vox&nbsp;$)&nbsp;+&nbsp;What’s next for Chinese open-source AI.&nbsp;(MIT Technology Review)3 AI “tokenomics” is a burgeoning new field&nbsp;Businesses are pouring a lot of money into AI. Now 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-03 18:43]
-标题: Trump’s AI protectionism has come for robotics
-链接: https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.&nbsp; It was a surprise, then, when last week the Federal Communications Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FCC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be un
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-04 13:58]
 标题: Deploy local agents everywhere with LFM2.5-2.6B
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 19:10]
+标题: MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行
+链接: https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux
+正文: MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 18:17]
+标题: Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型
+链接: https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh
+正文: Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 17:54]
 标题: OpenRouter 上线 FLUX 3 Video 统一多模态模型
@@ -155,26 +160,9 @@
 链接: https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu
 正文: 我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-03 19:43]
-标题: 微软开源 Orchard 智能体训练框架
-链接: https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f
-正文: Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:00]
 标题: If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today
 链接: https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 10:00]
-标题: Best CD rates today, Tuesday, August 4, 2026: Lock in up to 4.15% APY today
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-4-2026-lock-in-up-to-415-apy-today-100000651.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 12:21]
-标题: Gold prices today, Tuesday, August 4, 2026: Gold remains above $4,100 with Iran threats looming
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-4-2026-gold-remains-above-4100-with-iran-threats-looming-122138936.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:15]
-标题: Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 13:31]
 标题: Polymarket in talks for fundraising round at more than $20 billion valuation
@@ -206,10 +194,10 @@
 链接: https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html
 正文: These are the stocks posting the largest moves after the bell.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-03 19:20]
-标题: California's diesel prices have jumped since the Iran war started, with ripple effects across the country
-链接: https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html
-正文: California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 19:38]
+标题: Goldman traders are on pace for a record year. A close-up look at how they're doing it
+链接: https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html
+正文: In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-04 00:00]
 标题: Escaping the pilot trap: Building HR for the agentic era
@@ -221,10 +209,15 @@
 链接: https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown
 正文: The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next generation of leaders.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-04 18:23]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-04 00:00]
+标题: Author Talks: One size does not fit all
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all
+正文: From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better design starts with broader perspectives.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-04 20:18]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-04 18:23]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-04 20:18]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
