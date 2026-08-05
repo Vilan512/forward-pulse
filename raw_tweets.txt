@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-05 07:35:43
-# 共计 42 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-05 10:26:48
+# 共计 64 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-05 08:06]
+标题: NASA’s new dark energy space telescope can also detect killer asteroids
+链接: https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+正文: At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids. In September, a multi-institutional team of planetary scientists and astronomers will outline how the space telescope is uniquely placed to scan asteroids, and provide information about their trajectories, sizes and compositions. Roman, named after NASA’s first chief astronomer, is equipped with a super-wide-angle, 300-megapixel infrared camera, allowing it to see a large patch of space at any one time—roughly 100 times larger than the Hubble Space Telescope. That will allow it to discover thousands of new planets, tens of thousands of exploding stars, and survey over one billion galaxies in remarkable detail. While doing so, it’ll be looking ‘through’ our solar system, and this is what makes it uniquely well-placed to spot asteroids.&nbsp; A planetary defense pivot Roman was not built for this purpose, but last summer, it was (once again) threatened with significant funding cuts by the Trump administration. “My colleague Rick Cosentino [a planetary scientist at NASA] said to me in July 2025 that we need to show what Roman can do for planetary defense as a way to further increase the visibility of the mission with lawmakers and taxpayers,” says Bryan Holler, a researcher at the Space Telescope Science Institute in Baltimore, Maryland. Holler and his colleagues’ proposal, which will be presented at the Europlanet Science Congress at The Hague in The Netherlands, reveals that Roman’s epic field-of-view and infrared vision allows it to spot small asteroids up to 60 feet long. This is comparable to the asteroid that exploded above the Russian city of Chelyabinsk in 2013, unleashin
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-04 12:14]
 标题: The Download: US robot restrictions, and ICE’s DNA grab
@@ -9,6 +14,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-04 13:58]
 标题: Deploy local agents everywhere with LFM2.5-2.6B
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 08:25]
+标题: NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型
+链接: https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po
+正文: NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 06:46]
+标题: 烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧
+链接: https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71
+正文: 作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 04:21]
 标题: Grok 4.5 免费体验，推荐 Build 工具链
@@ -135,24 +150,97 @@
 链接: https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq
 正文: 工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 08:57]
-标题: Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅
-链接: https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw
-正文: Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 08:12]
-标题: 用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线
-链接: https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps
-正文: 本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 08:12]
-标题: 腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别
-链接: https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4
-正文: 腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 15:00]
 标题: If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today
 链接: https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:10]
+标题: 'I got on my knees and begged': Kevin O'Leary wept over a Rolex, and thinks they beat this 1 big asset. Do you own any?
+链接: https://finance.yahoo.com/markets/stocks/articles/got-knees-begged-kevin-oleary-101000594.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:01]
+标题: SpaceX's first earnings reveal the cost of becoming an AI giant: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/spacexs-first-earnings-reveal-the-cost-of-becoming-an-ai-giant-chart-of-the-day-100100357.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:03]
+标题: Exclusive-JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks
+链接: https://finance.yahoo.com/technology/ai/articles/exclusive-jpmorgan-ceo-dimon-leads-100343220.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:02]
+标题: SpaceX slides as AI spending worries overshadow early returns
+链接: https://finance.yahoo.com/technology/ai/articles/spacex-slides-ai-spending-worries-100228981.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:15]
+标题: Western Union and Rain launch Stablecard tied to USDPT
+链接: https://finance.yahoo.com/markets/crypto/articles/western-union-rain-launch-stablecard-101548470.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 09:36]
+标题: Stock market today: Dow and S&P 500 rise as oil falls, Nasdaq digests tech earnings
+链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:00]
+标题: Mortgage and refinance rates today, Wednesday, August 5, 2026: Rates mixed as Iran negotiations focus on Hormuz
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-august-5-2026-rates-mixed-as-iran-negotiations-focus-on-hormuz-100000767.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:00]
+标题: As bank bonuses soar, PE's biggest firms play catch-up
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-bonuses-soar-pes-biggest-100000763.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:15]
+标题: SpaceX Stock Slumps on Massive Spending
+链接: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/spacex-stock-slumps-on-massive-spending-JfVDeZd1CVENU66fUAix?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:00]
+标题: Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook
+链接: https://finance.yahoo.com/markets/article/sandisk-stock-is-bouncing--how-to-play-earnings-with-limited-risk-alpha-options-playbook-100000967.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:00]
+标题: Best CD rates today, Wednesday, August 5, 2026: Earn up to 4.15% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000064.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:00]
+标题: Wall Street is set for a bonus boom. Big banks have the edge.
+链接: https://finance.yahoo.com/markets/article/wall-street-is-set-for-a-bonus-boom-big-banks-have-the-edge-100000424.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:10]
+标题: Australian Vintage to distribute RTD brand Fellr
+链接: https://finance.yahoo.com/media-advertising/articles/australian-vintage-distribute-rtd-brand-101037226.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 09:46]
+标题: China targets US firms and drone exports after FCC, Xinjiang actions
+链接: https://finance.yahoo.com/economy/policy/articles/china-targets-us-firms-drone-094657733.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 08:27]
+标题: AMD falls as investors seek bigger AI payoff
+链接: https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:10]
+标题: Citadel’s Purchase of Situational’s Stocks at Discount Is Already Paying Off
+链接: https://www.wsj.com/finance/investing/citadels-purchase-of-situationals-stocks-at-discount-is-already-paying-off-62cef121?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:04]
+标题: Merck & Co., Inc. Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/healthcare/articles/merck-co-inc-q2-earnings-100407943.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:04]
+标题: McDonald's Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/mcdonalds-q2-earnings-call-highlights-100406149.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 12:21]
+标题: Gold prices today, Tuesday, August 4, 2026: Gold remains above $4,100 with Iran threats looming
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-4-2026-gold-remains-above-4100-with-iran-threats-looming-122138936.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-04 13:15]
+标题: Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:04]
+标题: Mplx Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/energy/articles/mplx-q2-earnings-call-highlights-100406808.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-05 10:04]
+标题: Deutsche Post Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/deutsche-post-q2-earnings-call-100404684.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-04 22:25]
 标题: Stocks making the biggest moves after the bell: SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts & more
@@ -199,10 +287,10 @@
 链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility
 正文: As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding economic opportunity in a changing nation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-05 07:35]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-05 10:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-05 07:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-05 10:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
