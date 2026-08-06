@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-05 23:51:09
-# 共计 40 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-06 01:46:23
+# 共计 38 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-05 14:56]
 标题: Puzzle Corner
@@ -15,6 +15,26 @@
 标题: NASA’s new dark-energy space telescope can also detect killer asteroids
 链接: https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
 正文: At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids. In September, a multi-institutional team of planetary scientists and astronomers will outline how the space telescope is uniquely placed to scan asteroids and provide information about their trajectories, sizes, and compositions. Roman, named after NASA’s first chief astronomer, is equipped with a super-wide-angle, 300-megapixel infrared camera, allowing it to see a large patch of space at any one time—roughly 100 times larger than is possible with the Hubble Space Telescope. That will allow it to discover thousands of new planets and tens of thousands of exploding stars, and survey over a billion galaxies in remarkable detail. While doing so, it’ll be looking “through” our solar system, and this is what makes it uniquely well placed to spot asteroids. A planetary defense pivot Roman was not built for this purpose, but last summer, it was (once again) threatened with significant funding cuts by the Trump administration. “My colleague Rick Cosentino [a planetary scientist at NASA] said to me in July 2025 that we need to show what Roman can do for planetary defense as a way to further increase the visibility of the mission with lawmakers and taxpayers,” says Bryan Holler, a researcher at the Space Telescope Science Institute in Baltimore. Holler and his colleagues’ proposal, which will be presented at the Europlanet Science Congress at The Hague, reveals that Roman’s epic field of view and infrared vision allow it to spot small asteroids up to 60 feet long. This is comparable to the asteroid that exploded above the Russian city of Chelyabinsk in 2013, unleashing the force of 500,
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-06 01:27]
+标题: Prime Agent：一个具有自我改进能力的RLM代理
+链接: https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr
+正文: Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-06 01:15]
+标题: OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件
+链接: https://aihot.virxact.com/items/cmsgua3ax0hqgro5qo4wr6g7y
+正文: OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgua3ax0hqgro5qo4wr6g7y
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-06 00:37]
+标题: Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移
+链接: https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0
+正文: Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 23:32]
+标题: 英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击
+链接: https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e
+正文: 英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 22:21]
 标题: OpenAI 披露智能体集群秘密协作事件
@@ -126,16 +146,6 @@
 链接: https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx
 正文: 阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 01:35]
-标题: 开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能
-链接: https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj
-正文: 数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-04 23:58]
-标题: LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志
-链接: https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131
-正文: Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-05 20:36]
 标题: Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation
 链接: https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html
@@ -171,30 +181,10 @@
 链接: https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html
 正文: In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-05 00:00]
-标题: In pursuit of progress: Americans’ aspirations for economic mobility
-链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility
-正文: As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding economic opportunity in a changing nation.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-05 00:00]
-标题: How do we reach universal prosperity by 2100?
-链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100
-正文: Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-05 00:00]
-标题: An architect of modern media, a literary champion, and a retail revolutionary
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-4
-正文: Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-05 00:00]
-标题: How AI is redefining category management in distribution
-链接: https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution
-正文: New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic impact.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-05 23:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-06 01:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-05 23:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-06 01:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
