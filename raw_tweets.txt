@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-06 01:46:23
-# 共计 38 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-06 04:57:30
+# 共计 37 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-05 14:56]
 标题: Puzzle Corner
@@ -20,6 +20,11 @@
 标题: Prime Agent：一个具有自我改进能力的RLM代理
 链接: https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr
 正文: Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-06 01:27]
+标题: 分享10个能大幅提升vibe coding幸福感的开源App
+链接: https://aihot.virxact.com/items/cmsgzooby066proxzvq5fhshn
+正文: 作者整理了10个提升vibe coding体验的开源App，涵盖Mac刘海屏改造（Atoll）、窗口预览（DockDoor）、极速启动器（Raycast）、彻底卸载（Pearcleaner）、菜单栏折叠（Thaw）等工具。这些工具均为免费开源，可将重复操作压缩为快捷指令，降低试错成本。作者还提到可用Codex随时为这些开源App添加自定义功能。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsgzooby066proxzvq5fhshn
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-06 01:15]
 标题: OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件
@@ -136,16 +141,6 @@
 链接: https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71
 正文: 作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 04:21]
-标题: Grok 4.5 免费体验，推荐 Build 工具链
-链接: https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad
-正文: 使用 Grok 的最佳方式是通过我们的 Build 工具链。 下载地址：http://X.ai/cli 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-05 02:40]
-标题: Qwen-Image-3.0-Pro 上线 Qwen Cloud
-链接: https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx
-正文: 阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。 🔗 阅读原文 via AI HOT · https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-05 20:36]
 标题: Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation
 链接: https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html
@@ -181,10 +176,10 @@
 链接: https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html
 正文: In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-06 01:46]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-06 04:57]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-06 01:46]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-06 04:57]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
