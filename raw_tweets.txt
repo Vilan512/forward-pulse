@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-10 23:26:23
-# 共计 48 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-11 01:02:42
+# 共计 40 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-10 20:00]
 标题: AI professors are negotiating the new realities of academic research
@@ -29,9 +29,15 @@
 标题: Making Knowledge Distillation Cheap Enough to Run at Scale
 链接: https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-10 00:00]
-标题: Meta is back with Muse Glimmer: local, agentic, multimodal, and open source
-链接: https://huggingface.co/blog/muse-glimmer
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 00:12]
+标题: 微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失
+链接: https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5
+正文: 微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的&quot;记录美好生活&quot;基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-10 23:08]
+标题: Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行
+链接: https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54
+正文: Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-10 21:56]
 标题: 英伟达联合六大机构融资5000亿美元建AI工厂
@@ -93,26 +99,6 @@
 链接: https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em
 正文: 千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击&quot;圆点角标&quot;进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-10 00:52]
-标题: 我花了54个小时，做了一个可能更公平的AI大模型排行榜。
-链接: https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi
-正文: 作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-10 00:46]
-标题: OpenChamber：一个基于代理的开发环境
-链接: https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb
-正文: OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-10 00:00]
-标题: OpenRouter 推出由市场智慧驱动的新版 Auto 路由器
-链接: https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh
-正文: OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-09 23:58]
-标题: NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用
-链接: https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u
-正文: NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置&quot;保持&quot;话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
 标题: Analyst Report: ExxonMobil Holdings Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_3550_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
@@ -121,33 +107,33 @@
 标题: HELOC and home equity loan rates today, Monday, August 10, 2026: A 19-basis-point differential
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-10-2026-a-19-basis-point-differential-100000351.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
+标题: Best CD rates today, Monday, August 10, 2026: Lock in up to 4.35% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
 标题: Analyst Report: Sterling Infrastructure Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
-标题: Best CD rates today, Monday, August 10, 2026: Lock in up to 4.35% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html
+标题: Best high-yield savings interest rates today, Monday, August 10, 2026: Earn up to 4.15% APY with an HYSA
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
 标题: Mortgage and refinance rates today, Monday, August 10, 2026: Rates lower than last week
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-10-2026-rates-lower-than-last-week-100000884.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
-标题: Best high-yield savings interest rates today, Monday, August 10, 2026: Earn up to 4.15% APY with an HYSA
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 12:32]
 标题: Gold prices today, Monday, August 10, 2026: Highest opening price since early June
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-10-2026-highest-opening-price-since-early-june-123242269.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
-标题: Analyst Report: Enbridge Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3799_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 12:42]
 标题: Silver prices today, Monday, August 10, 2026: Silver prices keep rising this morning
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-10-2026-silver-prices-keep-rising-this-morning-124241793.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
+标题: Analyst Report: Enbridge Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3799_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 12:57]
 标题: Bitcoin and ethereum prices today, Monday, August 10, 2026: BTC breaking past $65,000 yet again
@@ -161,21 +147,9 @@
 标题: Market Update: ENB, CVX, EXPE, ORLY, XOM, STRL
 链接: https://finance.yahoo.com/research/reports/ARGUS_47871_MarketUpdate_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 19:51]
-标题: Guide to peer-to-peer (P2P) payment apps: Everything you need to know before sending money
-链接: https://finance.yahoo.com/personal-finance/banking/article/guide-to-peer-to-peer-p2p-payment-apps-195134245.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
 标题: Analyst Report: Chevron Corp
 链接: https://finance.yahoo.com/research/reports/ARGUS_2878_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 17:24]
-标题: Does renters insurance cover fire?
-链接: https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-fire-172417697.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
-标题: Does renters insurance cover theft?
-链接: https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-theft-180353254.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
 标题: Analyst Report: O'Reilly Automotive Inc
@@ -201,20 +175,10 @@
 链接: https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-premarket-aapl-hpe-rklb-and-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-10 00:00]
-标题: Solutions for the Black maternal-health crisis
-链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis
-正文: Joy Rhoden of the American Hospital Association discusses how data, community partnerships, expanded care teams, and a focus on addressing health disparities are essential to improving maternal health outcomes.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-10 00:00]
-标题: Author Talks: The biggest misconceptions about leadership
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-biggest-misconceptions-about-leadership
-正文: What if success depends less on talent than on luck, resilience, and your choices when things go wrong? Former Inflection CEO Mike Grossman challenges conventional wisdom about success and leadership.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-10 23:26]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-11 01:02]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-10 23:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-11 01:02]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
