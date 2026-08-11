@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-11 14:13:15
-# 共计 72 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-11 15:51:40
+# 共计 72 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-11 12:10]
 标题: The Download: the next big thing in LLMs and how AI academic research is shifting
@@ -18,6 +18,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-10 16:25]
 标题: Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS
 链接: https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 14:54]
+标题: 消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级
+链接: https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy
+正文: 英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 13:51]
+标题: 统一 Radix 缓存：为混合模型前缀缓存构建单一树结构
+链接: https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9
+正文: LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 13:51]
+标题: SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning
+链接: https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba
+正文: SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 13:00]
 标题: NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务
@@ -79,199 +94,184 @@
 链接: https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar
 正文: 我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。 但什么决定某个操作是否可以安全运行？看看它是如何工作的： 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:01]
-标题: Home sales slipped again in July as rising mortgage rates discouraged buyers
-链接: https://finance.yahoo.com/real-estate/article/home-sales-slipped-again-in-july-as-rising-mortgage-rates-discouraged-buyers-140155864.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:32]
+标题: Is options trading risky? 8 risks every investor should know.
+链接: https://finance.yahoo.com/personal-finance/investing/article/is-options-trading-risky-153226519.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:21]
-标题: Riot Platforms stock surges on $9.1 billion data center deal with Anthropic
-链接: https://finance.yahoo.com/markets/stocks/article/riot-platforms-stock-surges-on-91-billion-data-center-deal-with-anthropic-132120194.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:30]
+标题: Bankwell Financial's 2026 Outlook: Brooklyn Expansion Drives Strategic Growth in Urban Banking Markets
+链接: https://finance.yahoo.com/markets/stocks/articles/bankwell-financials-2026-outlook-brooklyn-153037511.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 19:30]
-标题: CoreWeave to report second quarter results amid spending, margin concerns
-链接: https://finance.yahoo.com/technology/article/coreweave-to-report-second-quarter-results-amid-spending-margin-concerns-193036479.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:27]
+标题: Is Hims The Next Big Name In Peptides? Shares Recover From Earnings Dive.
+链接: https://www.investors.com/news/technology/hims-stock-hims-hers-health-earnings-q2-2026/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:55]
-标题: JBS reverses decision to close Pennsylvania plant
-链接: https://finance.yahoo.com/small-business/articles/jbs-reverses-decision-close-pennsylvania-135555445.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:53]
-标题: Nvidia (NVDA) Is Going Beyond GPUs in the $500 Billion AI Boom, Wells Fargo Says
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-going-beyond-gpus-135353236.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:24]
+标题: Quantum trade moves beyond science fiction: AlphaCheck
+链接: https://finance.yahoo.com/markets/article/quantum-trade-moves-beyond-science-fiction-alphacheck-152407486.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:27]
 标题: Daily Spotlight: Sovereign Debt Yields
 链接: https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:49]
-标题: The Resilient Bull Case for Red Violet (RDVT): From Dip to Violent Snapback
-链接: https://finance.yahoo.com/markets/stocks/articles/resilient-bull-case-red-violet-134900465.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 10:28]
+标题: Stock market today: Dow, S&P 500, Nasdaq edge higher as US, Iran reach impasse
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:48]
-标题: Australia Cracks Down On Crypto ATMs
-链接: https://finance.yahoo.com/markets/crypto/articles/australia-cracks-down-crypto-atms-134800836.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:30]
+标题: Prediction: SOFI’s Next Chapter Could Be Its Most Important Yet
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-sofi-next-chapter-could-153014445.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:47]
-标题: Baker Hughes Company (BKR) Posted Record Orders, so Why is it Warning About 2026 Spending?
-链接: https://finance.yahoo.com/energy/articles/baker-hughes-company-bkr-posted-134742057.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:21]
+标题: Oil again gains with eyes on potential US-Iran deal; stocks climb
+链接: https://finance.yahoo.com/energy/articles/oil-prices-rise-asia-stocks-014100980.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:53]
-标题: Dune Oil advances Gabar exploration with new seismic program ahead of drilling
-链接: https://finance.yahoo.com/energy/articles/dune-oil-advances-gabar-exploration-135300267.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:05]
+标题: Cherry Hill Mortgage’s 29% Premium Deal: $9B Merger Opens Door to Bigger Upside – Quarterly Update Report
+链接: https://finance.yahoo.com/markets/stocks/articles/cherry-hill-mortgage-29-premium-150508758.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:45]
-标题: Analyzing Mama’s Creations’ (MAMA) Short-Term Pullback
-链接: https://finance.yahoo.com/markets/stocks/articles/analyzing-mama-creations-mama-short-134543303.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:58]
+标题: US fuel exports to Cuba spur chaotic black market
+链接: https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:26]
 标题: Technical Assessment: Bullish in the Intermediate-Term
 链接: https://finance.yahoo.com/research/reports/ARGUS_47878_TechnicalAnalysis_1786447618000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:45]
-标题: MoneyGram Expands Crypto-To-Cash Service
-链接: https://finance.yahoo.com/markets/crypto/articles/moneygram-expands-crypto-cash-134500032.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:57]
+标题: Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges
+链接: https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:44]
-标题: Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Rocket Lab Dives On Earnings News (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:27]
+标题: A Red-Hot Robotics IPO Is 8,000 Times Oversubscribed. SpaceX Drew 4X Demand.
+链接: https://finance.yahoo.com/markets/stocks/articles/red-hot-robotics-ipo-8-152739678.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:44]
-标题: Immersion Investment Views Strata Critical Medical (SRTA) as a “Babushka Doll”
-链接: https://finance.yahoo.com/markets/stocks/articles/immersion-investment-views-strata-critical-134404589.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:55]
+标题: Sharplink Posts $394M Loss as Ether Treasury Weighs on Q2 Results
+链接: https://finance.yahoo.com/markets/crypto/articles/sharplink-posts-394m-loss-ether-145500529.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:51]
-标题: ETL Global adds Fideco Global Business Services in Mauritius
-链接: https://finance.yahoo.com/small-business/articles/etl-global-adds-fideco-global-135144065.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:46]
+标题: Consistent Results Restored Confidence in Forgent Power Solutions (FPS)
+链接: https://finance.yahoo.com/markets/stocks/articles/consistent-results-restored-confidence-forgent-144635619.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 21:00]
-标题: Supermicro to report Q4 results in latest test for AI infrastructure company
-链接: https://finance.yahoo.com/technology/article/supermicro-to-report-q4-results-in-latest-test-for-ai-infrastructure-company-210004983.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 17:11]
+标题: Wendy's has a massive problem: It's closing restaurants left and right
+链接: https://finance.yahoo.com/markets/article/wendys-has-a-massive-problem-its-closing-restaurants-left-and-right-171131528.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:14]
 标题: Daily – Vickers Top Buyers & Sellers for 08/11/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47882_TopBottomInsiderActivity_1786446847000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:34]
-标题: Israeli Defense Contractor Beats Earnings; Stock Sinks Over Iran War Renewal
-链接: https://www.investors.com/news/elbit-systems-iran-war-israel-defense-aerospace/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:42]
+标题: Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?
+链接: https://www.investors.com/research/nvidia-nvda-stock-earnings-august-2026/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:32]
-标题: The Crown Keeps Switching Hands: Apple Inc. (AAPL) vs NVIDIA Corporation (NVDA)
-链接: https://finance.yahoo.com/markets/stocks/articles/crown-keeps-switching-hands-apple-133234263.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:26]
+标题: The S&P 500 Is at Record Highs and Hasn't Been This Expensive in Decades. History Says This Could Happen Next
+链接: https://finance.yahoo.com/markets/stocks/articles/p-500-record-highs-hasnt-152659398.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 10:28]
-标题: Stock market today: Dow, S&P 500, Nasdaq edge higher as US, Iran reach impasse
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:39]
+标题: Who Has the Leverage Right Now? SONAR’s Pricing Power Index Has the Answer
+链接: https://finance.yahoo.com/markets/commodities/articles/leverage-now-sonar-pricing-power-143911378.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:50]
-标题: Alphabet Invested $900 Million Into SpaceX Back in 2015 -- Here's What That Stake Is Worth Now
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-invested-900-million-spacex-135000189.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:38]
+标题: Nvidia Confirms $500 Bil AI Funding Deal. These Stocks Jump.
+链接: https://www.investors.com/news/financial-stocks-jump-nvidia-ai-funding-deal/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:26]
-标题: Kalshi Sued Over Bets On Flight Cancellations
-链接: https://finance.yahoo.com/markets/crypto/articles/kalshi-sued-over-bets-flight-132600988.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:31]
+标题: Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Rocket Lab Falls But Chips Move Up (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:14]
 标题: Daily – Vickers Top Insider Picks for 08/11/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47881_InsiderActivity_1786446847000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:24]
-标题: Trump Media Reports $361 Million Crypto Loss
-链接: https://finance.yahoo.com/markets/crypto/articles/trump-media-reports-361-million-132400842.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 20:23]
-标题: Earnings live updates: Plug Power stock jumps on improved margins, On Holding tanks
-链接: https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-stock-jumps-on-improved-margins-on-holding-tanks-202302733.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:14]
-标题: Honeywell Aerospace (HONA) Trade Settles at Valuation Discount Following Spin-off
-链接: https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-trade-settles-131416921.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:49]
-标题: A Recent Email Within Microsoft Seems to Confirm What Many Suspected: Tech Companies Are Overspending on AI
-链接: https://finance.yahoo.com/technology/ai/articles/recent-email-within-microsoft-seems-134955828.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:13]
-标题: Wall St set for higher open as investors weigh fresh US-Iran peace deal reports
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:28]
+标题: S&P 500 muted as industrials counter tech drag; US-Iran peace prospects rise
 链接: https://finance.yahoo.com/energy/articles/wall-st-futures-muted-us-102532652.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
-标题: Analyst Report: AutoNation Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_2711_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:27]
+标题: JB Global Capital: Lessons from Lululemon’s (LULU) Investment Case
+链接: https://finance.yahoo.com/markets/stocks/articles/jb-global-capital-lessons-lululemon-142709356.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:08]
-标题: Microsoft stock just cleared a big hurdle but still trails the S&P 500
-链接: https://finance.yahoo.com/markets/stocks/article/microsoft-stock-just-cleared-a-big-hurdle-but-still-trails-the-sp-500-130843662.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:06]
-标题: The Changing Dynamics Behind Micron Technology (MU)
-链接: https://finance.yahoo.com/markets/stocks/articles/changing-dynamics-behind-micron-technology-130614043.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:00]
-标题: Put options explained: How trading puts pays off and when it doesn't
-链接: https://finance.yahoo.com/personal-finance/investing/article/put-option-130000345.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:48]
-标题: S&P 500 opens higher as Nvidia rallies on AI infrastructure deal
-链接: https://finance.yahoo.com/markets/stocks/articles/p-500-opens-higher-nvidia-134803090.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:58]
-标题: Cardinal Health Ticks Higher Despite Medical Wholesaler's Mixed Quarter
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:26]
+标题: Cardinal Health Bolts Out Of A Buy Zone Despite Mixed Earnings. Here's Why.
 链接: https://www.investors.com/news/technology/cardinal-health-stock-cardinal-health-earnings-q4-2026/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 14:24]
+标题: Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health
+链接: https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-cuts-dividend-142459308.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
 标题: Analyst Report: Apollo Global Management Inc
 链接: https://finance.yahoo.com/research/reports/ARGUS_3593_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:56]
-标题: United Airlines Holdings Inc. (UAL) Wanted to Merge With Delta Air Lines Inc. (DAL). Here Is Why It Never Happened.
-链接: https://finance.yahoo.com/markets/stocks/articles/united-airlines-holdings-inc-ual-125618628.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:24]
+标题: Oil Is Climbing Again. A Looming Natural Gas Shortage Could Hit US Consumers Even Harder.
+链接: https://finance.yahoo.com/energy/articles/oil-climbing-again-looming-natural-152443000.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:55]
-标题: Hinde Group Boosts Amazon.com (AMZN) Amid AI Capacity Bottlenecks and High Enterprise Backlog in AWS
-链接: https://finance.yahoo.com/markets/stocks/articles/hinde-group-boosts-amazon-com-125556579.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:48]
-标题: Curreen Capital: TriNet (TNET) is a “Crazy-Cheap” Turnaround
-链接: https://finance.yahoo.com/markets/stocks/articles/curreen-capital-trinet-tnet-crazy-124814202.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:47]
-标题: Plug Power Jumps 10% on Margin Turnaround, Raised 2026 Guidance; FuelCell, Bloom Energy Climb
-链接: https://finance.yahoo.com/markets/stocks/articles/plug-power-jumps-10-margin-134723975.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:00]
+标题: Put options explained: How trading puts pays off and when it doesn't
+链接: https://finance.yahoo.com/personal-finance/investing/article/put-option-130000345.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:46]
 标题: Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
-标题: Analyst Report: Merck & Co Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_3209_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 12:06]
 标题: Silver prices today, Tuesday, August 11, 2026: Silver prices keep rising on jobs, Iran news
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-11-2026-silver-prices-keep-rising-on-jobs-iran-news-120655913.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
+标题: Analyst Report: AutoNation Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_2711_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:52]
 标题: Gold prices today, Tuesday, August 11, 2026: Gold remains over $4,400 as Iran situation worsens
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-11-2026-gold-remains-over-4400-as-iran-situation-worsens-115212228.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 13:46]
-标题: Visa's Cheaper Multiple Rests On A Margin Assumption
-链接: https://finance.yahoo.com/markets/stocks/articles/visas-cheaper-multiple-rests-margin-134635549.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:24]
+标题: Where Will IonQ Stock Be in 5 Years?
+链接: https://finance.yahoo.com/markets/stocks/articles/where-ionq-stock-5-years-152400763.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 10:00]
 标题: Mortgage and refinance rates today, Tuesday, August 11, 2026: Rates mostly higher as U.S. 'low-keying' Iran negotiations
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-11-2026-rates-mostly-higher-as-us-low-keying-iran-negotiations-100000050.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
-标题: Analyst Report: Boeing Co/The
-链接: https://finance.yahoo.com/research/reports/ARGUS_2754_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+标题: Analyst Report: Merck & Co Inc
+链接: https://finance.yahoo.com/research/reports/ARGUS_3209_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 10:00]
 标题: Best CD rates today, Tuesday, August 11, 2026: Lock in up to 4.15% APY today on a 14-month CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-11-2026-lock-in-up-to-415-apy-today-on-a-14-month-cd-100000232.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-11 13:56]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:16]
+标题: Plug Power Reports $178 Million in Revenue and Raises Its 2026 Guidance. Here's What PLUG Investors Need to Know.
+链接: https://finance.yahoo.com/markets/stocks/articles/plug-power-reports-178-million-151601522.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 17:24]
+标题: Does renters insurance cover fire?
+链接: https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-fire-172417697.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 18:03]
+标题: Does renters insurance cover theft?
+链接: https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-theft-180353254.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:12]
+标题: Analyst Report: Boeing Co/The
+链接: https://finance.yahoo.com/research/reports/ARGUS_2754_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 15:14]
+标题: HydroGraph Opens Texas Headquarters as 360-Ton Graphene Manufacturing Expansion Advances
+链接: https://finance.yahoo.com/technology/articles/hydrograph-opens-texas-headquarters-360-151444539.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-11 15:45]
+标题: Why JPMorgan is investing big in the 2028 LA Olympics
+链接: https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html
+正文: JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-11 14:15]
 标题: Polymarket makes moves to get house in order before expected boom times for prediction markets this fall
 链接: https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html
 正文: The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.
@@ -301,10 +301,15 @@
 链接: https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html
 正文: Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-11 14:13]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-11 00:00]
+标题: Agentic AI and the future of global business services
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services
+正文: Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-11 15:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-11 14:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-11 15:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
