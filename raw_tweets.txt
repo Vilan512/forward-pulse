@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-11 05:53:01
-# 共计 37 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-11 06:50:47
+# 共计 39 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-10 20:00]
 标题: AI professors are negotiating the new realities of academic research
@@ -28,6 +28,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-10 10:05]
 标题: Making Knowledge Distillation Cheap Enough to Run at Scale
 链接: https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 05:52]
+标题: ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线
+链接: https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw
+正文: ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 05:44]
+标题: 用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线
+链接: https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt
+正文: 本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 04:58]
 标题: 编写智能体时，哪种编程语言最合适？
@@ -100,8 +110,8 @@
 正文: OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获取，用于授权的漏洞研究、漏洞验证和安全测试。该模型旨在应对网络防御窗口不断收窄的挑战，为安全研究人员提供专门工具。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
-标题: Mortgage and refinance rates today, Monday, August 10, 2026: Rates lower than last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-10-2026-rates-lower-than-last-week-100000884.html
+标题: Best CD rates today, Monday, August 10, 2026: Lock in up to 4.35% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
 标题: HELOC and home equity loan rates today, Monday, August 10, 2026: A 19-basis-point differential
@@ -112,8 +122,8 @@
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 10:00]
-标题: Best CD rates today, Monday, August 10, 2026: Lock in up to 4.35% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html
+标题: Mortgage and refinance rates today, Monday, August 10, 2026: Rates lower than last week
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-10-2026-rates-lower-than-last-week-100000884.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-10 12:32]
 标题: Gold prices today, Monday, August 10, 2026: Highest opening price since early June
@@ -163,10 +173,10 @@
 链接: https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-premarket-aapl-hpe-rklb-and-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-11 05:53]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-11 06:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-11 05:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-11 06:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
