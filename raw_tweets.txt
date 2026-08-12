@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-12 18:50:10
-# 共计 47 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-12 19:56:09
+# 共计 40 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-12 18:59]
+标题: Scientists just created female clones of male mice
+链接: https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/
+正文: Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&nbsp; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who was not involved in the research. The feat could change the way scientists think about reproduction, says Takashi Ishiuchi, a reproductive biologist at the University of Yamanashi, who co-led the work. The findings were published in a preprint paper shared on bioRxiv earlier this month, which has not yet been through the peer-review process. “There’s a fixed concept in our scientific field that we need both females and males for reproduction,” says Ishiuchi. “I think we could change this concept.” He and his colleague Shogo Matoba of the Riken BioResource Research Center in Ibaraki also hope their technique could help rescue endangered species, particularly in cases where only a few individuals remain. “It’s exciting to see,” says Ben Novak, lead scientist at the wildlife conservation organization Revive &amp; Restore, who was not involved in the work. “I am confident there will be plenty of applications, particularly for conservation purposes.” Sex change Ishiuchi says he and his colleagues were inspired by the Okinawa rubble goby, a fish that can change its sex in certain situations. If no males are present, a female can do this in order to reproduce with the other females. Males can also change sex to female. This ability to change sex might be useful when it comes to rescuing endangered species, including mammals. There&#8217;s some precedent in the lab—albeit not intentional. In 2009, researchers reported the accidental birth of a single female pup in a batch of 27 clones created from male mouse cells. Sometimes the surviving population of a species falls so low that scientists will try to clone those animals. Cloning isn’t perfect—i
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-12 16:51]
 标题: Scaling AI agents with trustworthy data
@@ -23,6 +28,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-12 14:00]
 标题: LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-12 18:00]
+标题: AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求
+链接: https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi
+正文: AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从&quot;不可用&quot;转变为&quot;可用但不符合路线图&quot;。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的&quot;人类探测器&quot;。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-12 17:57]
 标题: 空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈
@@ -79,20 +89,13 @@
 链接: https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e
 正文: OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方法与预算四类配置组合。数据显示，将搜索预算从 1 轮增至 25 轮可使 BrowseComp 得分近乎翻倍，成本仅增 2.5-7 倍；模型选择比引擎更重要，平均分差 15 分 vs 10 分。失败率高的任务应降低搜索深度以控制成本。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 19:52]
-标题: Mojo 1.0 正式发布：为生态系统增长提供稳定基础
-链接: https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v
-正文: Mojo 语言正式发布 1.0 版本，提供稳定、可用于生产环境的语言基础，自 2023 年首次发布以来已发展成通用语言。自开源标准库以来，近 200 名贡献者合入超 1，100 个拉取请求，改动超 200，000 行代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 17:47]
+标题: Bank of America sends blunt message to Nvidia stock investors
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 19:41]
-标题: ChatGPT 与 Gemini 双双突破 10 亿用户
-链接: https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu
-正文: OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 18:53]
-标题: Runway Seedance 2.5 上线，支持50角色参考
-链接: https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q
-正文: 完整阵容，完整曲目，一次生成一个。 Seedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 18:47]
+标题: Market Update: BTI, MCHP, APTV, TWLO, CAVA
+链接: https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:43]
 标题: Daily Spotlight: Profit Margins Widening
@@ -110,35 +113,7 @@
 标题: Daily – Vickers Top Insider Picks for 08/12/2026
 链接: https://finance.yahoo.com/research/reports/ARGUS_47891_InsiderActivity_1786533981000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 10:00]
-标题: Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 10:00]
-标题: Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-12-2026-fixed-rates-move-higher-100000633.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 09:54]
-标题: Analyst Report: Monster Beverage Corp
-链接: https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:44]
-标题: Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:56]
-标题: Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 09:54]
-标题: Analyst Report: Restaurant Brands Intl Inc
-链接: https://finance.yahoo.com/research/reports/ARGUS_4658_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 12:10]
-标题: Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-12 18:36]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-12 19:15]
 标题: SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low
 链接: https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html
 正文: Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.
@@ -178,11 +153,6 @@
 链接: https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html
 正文: The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-11 18:50]
-标题: Why JPMorgan is investing big in the 2028 LA Olympics
-链接: https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html
-正文: JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-11 20:26]
 标题: Polymarket makes moves to get house in order before expected boom times for prediction markets this fall
 链接: https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html
@@ -213,10 +183,10 @@
 链接: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/scaling-minimobility-industry-leaders-weigh-in-on-whats-needed
 正文: We asked some of the leading players in minimobility to share their insights into what’s preventing broader adoption—and what could enable it. Here’s what they had to say.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-12 18:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-12 19:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-12 18:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-12 19:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
