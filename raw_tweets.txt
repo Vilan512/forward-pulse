@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-08-12 03:56:53
+# ForwardPulse 原始情报收割 — 2026-08-12 05:27:24
 # 共计 45 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-11 17:58]
@@ -19,6 +19,11 @@
 标题: 零基础用户半天上手AI的12步实操流程
 链接: https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg
 正文: 文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 19:52]
+标题: Mojo 1.0 正式发布：为生态系统增长提供稳定基础
+链接: https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v
+正文: Mojo 语言正式发布 1.0 版本，提供稳定、可用于生产环境的语言基础，自 2023 年首次发布以来已发展成通用语言。自开源标准库以来，近 200 名贡献者合入超 1，100 个拉取请求，改动超 200，000 行代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 19:41]
 标题: ChatGPT 与 Gemini 双双突破 10 亿用户
@@ -75,6 +80,11 @@
 链接: https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy
 正文: 英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 14:15]
+标题: 跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流
+链接: https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh
+正文: Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 13:51]
 标题: 统一 Radix 缓存：为混合模型前缀缓存构建单一树结构
 链接: https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9
@@ -109,16 +119,6 @@
 标题: 用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线
 链接: https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt
 正文: 本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 04:58]
-标题: 编写智能体时，哪种编程语言最合适？
-链接: https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1
-正文: 针对&quot;动态语言比静态语言更省 LLM token&quot;的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-11 03:57]
-标题: 消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战
-链接: https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y
-正文: Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-11 11:27]
 标题: Daily Spotlight: Sovereign Debt Yields
@@ -206,10 +206,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market
 正文: The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-12 03:56]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-12 05:27]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-12 03:56]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-12 05:27]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
