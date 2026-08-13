@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-13 11:39:54
-# 共计 40 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-13 12:48:46
+# 共计 43 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 12:10]
+标题: The Download: kids’ thoughts on AI, and female clones of male mice
+链接: https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out to talk to kids about AI, we thought we knew what we’d hear. We expected stories about cheating, inspiring uses, and concerns like deepfakes or job destruction. But what we actually heard from kids aged 10 to 18 had tons of nuance. Many were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. Others worried about cheating, the environmental impact, or AI’s effect on creativity and critical thinking. AI doesn’t yet seem to be something a lot of them are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat. But what surprised us most was how much young people could teach adults about AI.&nbsp; Meet the kids navigating an AI-filled future—and hear what they think of it. Scientists just created female clones of male mice Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&nbsp; The feat could change the way scientists think about reproduction, says Takashi Ishiuchi, a reproductive biologist at the University of Yamanashi, who co-led the work. “There’s a fixed concept in our scientific field that we need both females and males for reproduction,” says Ishiuchi. “I think we could change this concept.” He also hopes the technique could help rescue endangered species, particularly in cases where only a few individuals remain. Find out how it works—and what it could mean for the future of reproduction and conservation. —Jessica Hamzelou What’s behind this summer’s heat, and why 2027 could be wor
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 10:00]
 标题: What’s behind this summer’s heat, and why 2027 could be worse
@@ -20,11 +25,6 @@
 标题: Scaling AI agents with trustworthy data
 链接: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/
 正文: Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data being major blockers. Agentic AI places considerable new demands on enterprise data systems. The shift from answering questions to taking actions means AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context. To make decisions and act in real time, agents also need frictionless access to the organization’s operational systems—for example, those storing its supply chain, point-of-sale, or human resources data. Legacy data systems, even those updated just a few years ago, struggle to meet these demands. DOWNLOAD THE REPORT As AI agents become embedded more widely in enterprise operations, the need to overcome the restrictions of legacy data systems grows more urgent. If Gartner’s prediction that AI agents will augment or automate 50% of business decisions by 2027 proves correct, organizations must eliminate bottlenecks or risk depriving agents of the data they need to make the right decisions at speed. This report, based on a survey of 300 data and technology executives, explores how legacy systems are limiting the effectiveness of AI agents in many organizations. It finds that a handful of organizations—the data leaders—are having greater success with agentic AI and experiencing fewer data limitations as a result of legacy systems. These leaders offer a guide to creating the right data environment for agents to flourish and trusted systems to scale. Key findings from the report include: Few companies currently provide agentic AI with ample access to enterprise data. Across all the surveyed organizations, AI only has access to an a
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-12 12:10]
-标题: The Download: our 35 young innovators and the “censorship-industrial complex”
-链接: https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work, we aim to give readers a sense of what advances to expect in the years to come.&nbsp; As a newsroom, we also use this exercise to help us spot rising talent and get to know some of the best early-career researchers in the fields that we cover. This year, we received 550 nominations. Find out how we whittled them down to 35 of the young innovators shaping the future of technology, and check out last year’s list. —Amy Nordrum How the “censorship-industrial complex” is changing the internet and US policy —Eileen Guo I first heard the term “censorship-industrial complex” on April 15, 2025.&nbsp; That’s when I got the tip that a small office in the US State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&nbsp; And the reason? The office was accused of serving as the department’s central hub in the so-called censorship-industrial complex—a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms allegedly conspiring to suppress conservative and populist speech online under the guise of combating disinformation.&nbsp; I broke the story on April 16. But for me, it was just the start of a deep reporting rabbit hole into an idea that had moved from the fringes of the right-wing internet into the Trump administration. For more on what the narrative means for the internet, r
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-12 16:14]
 标题: Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
@@ -84,54 +84,70 @@
 链接: https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo
 正文: 作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-12 12:00]
-标题: Meta 开源 Muse Glimmer 登陆 OpenRouter
-链接: https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc
-正文: Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！ 这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。 https://openrouter.ai/meta/muse-glimmer-30b 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 17:47]
 标题: Bank of America sends blunt message to Nvidia stock investors
 链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 10:01]
+标题: Stock market today: Dow, S&P 500, Nasdaq trending higher on rate hike bets, earnings
+链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-trending-higher-on-rate-hike-bets-earnings-100145282.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:29]
+标题: Morgan Stanley's Adam Jonas lays out how SpaceX can unlock a long-term bullish stock move
+链接: https://finance.yahoo.com/markets/stocks/article/morgan-stanleys-adam-jonas-lays-out-how-spacex-can-unlock-a-long-term-bullish-stock-move-122945460.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:20]
+标题: Silver prices today, Thursday, August 13, 2026: Silver prices up over 70% YOY with PPI report on deck
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-13-2026-silver-prices-up-over-70-yoy-with-ppi-report-on-deck-122006087.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:14]
+标题: Stock Market Today: Dow Rises Ahead Of Inflation Data; Cisco, AI Name Cerebras Plunge On Earnings (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 22:17]
 标题: AARP issues urgent call on Medicare drug costs
 链接: https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:13]
+标题: Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:30]
+标题: Ondas Q2 2026 earnings: record revenue, raised full-year outlook
+链接: https://finance.yahoo.com/markets/stocks/articles/ondas-q2-2026-earnings-record-123040859.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:30]
+标题: 436,000 sole traders and landlords file first MTD update, says HMRC
+链接: https://finance.yahoo.com/economy/policy/articles/436-000-sole-traders-landlords-123037510.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 18:47]
 标题: Market Update: BTI, MCHP, APTV, TWLO, CAVA
 链接: https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:44]
-标题: Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:27]
+标题: American Airlines leadership shakeup as profit gap widens
+链接: https://finance.yahoo.com/markets/stocks/articles/american-airlines-leadership-shakeup-profit-122733322.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:56]
-标题: Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:25]
+标题: Nebius Q2 2026 earnings: AI cloud revenue surges 454%
+链接: https://finance.yahoo.com/technology/ai/articles/nebius-q2-2026-earnings-ai-122513300.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 12:10]
-标题: Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:05]
+标题: Gold prices today, Thursday, August 13, 2026: Gold up nearly 10% month-over-month ahead of PPI report
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-13-2026-gold-up-nearly-10-month-over-month-ahead-of-ppi-report-120512700.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 10:00]
-标题: Best CD rates today, Thursday, August 13, 2026: Lock in up to 4.30% APY with a 16-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-13-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000968.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:24]
+标题: Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn
+链接: https://finance.yahoo.com/markets/stocks/articles/lumentum-still-down-over-90-122418572.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 10:00]
-标题: Mortgage and refinance interest rates today, Thursday, August 13, 2026: ARM volatility continues
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-arm-volatility-continues-100000704.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:20]
+标题: History Says This Surefire ETF Can Turn $200 per Month Into $1 Million -- With Next to No Effort on Your Part
+链接: https://finance.yahoo.com/markets/stocks/articles/history-says-surefire-etf-turn-122000392.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 13:00]
-标题: What is a covered call? How this options income strategy works.
-链接: https://finance.yahoo.com/personal-finance/investing/article/what-is-a-covered-call-130000003.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 11:43]
-标题: Daily Spotlight: Profit Margins Widening
-链接: https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 13:30]
-标题: Protective puts: How to hedge a portfolio with options
-链接: https://finance.yahoo.com/personal-finance/investing/article/protective-put-133000675.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-13 11:36]
+标题: Stocks making the biggest moves premarket: Tapestry, Yeti, Bullish, StubHub, Cerebras & more
+链接: https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-premarket-.html
+正文: These are the stocks posting the largest moves in the premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-13 02:59]
 标题: This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips
@@ -153,16 +169,6 @@
 链接: https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-midday-wen-hrb-qnt-crwv-cava.html
 正文: These are the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-12 12:12]
-标题: Stocks making the biggest moves premarket: CoreWeave, Super Micro Computer, Nebius, Cava & more
-链接: https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-premarket-crwv-smic-cohr.html
-正文: These are the stocks posting the largest moves premarket.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-12 12:08]
-标题: New York City Council announces probe into prediction market platforms’ marketing strategies
-链接: https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html
-正文: In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-13 01:31]
 标题: EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data
 链接: https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html
@@ -178,10 +184,15 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset
 正文: Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-13 11:39]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-13 00:00]
+标题: How instant payments are transforming the financial landscape
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape
+正文: Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-13 12:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-13 11:39]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-13 12:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
