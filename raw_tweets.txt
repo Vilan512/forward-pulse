@@ -1,10 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-13 14:16:42
-# 共计 61 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-13 15:50:36
+# 共计 65 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 13:41]
 标题: Flock is tightening its rules in response to a growing surveillance backlash
 链接: https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
-正文: The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners. Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. A recent Washington Post investigation found 46 cases in which officers were accused of using Flock&#8217;s cameras for unauthorized purposes like stalking. To combat that, the company will start requiring officers to enter a criminal case number before conducting a search. The system was launched as an option last year but is now required. It’s meant to verify that each search has a legitimate purpose.&nbsp; This is a baseline standard that civil liberties groups have asked for, but officers have found ways around similar safeguards. The ACLU recently found that when Flock required officers to enter a reason for a search, some used generic terms like “investigation” or mocked the prompt entirely; at one Oregon department, officers entered “hehehe” 20 times. Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily. But Flock is now expanding an automatic auditing system that is supposed to catch those who try that, the firm announced today The feature analyzes officer search activity and flags to administrators anyone with suspicious searches. This was also introduced as an option last year but is now mandatory. Flock has not shared specifics on how accurate the automatic auditing tool is, nor opened it up to independent evaluators. Beyond trying to prevent officer abuse, Flock is making changes meant to address broader backlash about how muc
+正文: The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners. Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. A recent Washington Post investigation found 46 cases in which officers were accused of using Flock&#8217;s cameras for unauthorized purposes like stalking. To combat that, the company will start requiring officers to enter a criminal case number before conducting a search. The system was launched as an option last year but is now required. It’s meant to verify that each search has a legitimate purpose.&nbsp; This is a baseline standard that civil liberties groups have asked for, but officers have found ways around similar safeguards. The ACLU recently found that when Flock required officers to enter a reason for a search, some used generic terms like “investigation” or mocked the prompt entirely; at one Oregon department, officers entered “hehehe” 20 times. Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily. But Flock is now expanding an automatic auditing system that is supposed to catch those who try that, the firm announced today. The feature analyzes officer search activity and flags to administrators anyone with suspicious searches. This was also introduced as an option last year but is now mandatory. Flock has not shared specifics on how accurate the automatic auditing tool is, nor opened it up to independent evaluators. Beyond trying to prevent officer abuse, Flock is making changes meant to address broader backlash about how mu
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 12:10]
 标题: The Download: kids’ thoughts on AI, and female clones of male mice
@@ -34,6 +34,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-12 16:14]
 标题: Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
 链接: https://huggingface.co/blog/allenai/olmoearth-embeddings
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 14:04]
+标题: Qwen3.8-2.4T-A95B 开源，硅基流动即日上线
+链接: https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm
+正文: 阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 13:02]
 标题: DeepSeek Harness v0.1 开发者预览版发布
@@ -75,11 +80,6 @@
 链接: https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7
 正文: Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于&quot;丢钥匙&quot;而非&quot;空货架&quot;。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-12 16:10]
-标题: 阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文
-链接: https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue
-正文: 阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-12 16:00]
 标题: 微软首发自研推理模型MAI-Thinking-1
 链接: https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj
@@ -89,105 +89,121 @@
 标题: Bank of America sends blunt message to Nvidia stock investors
 链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:55]
-标题: Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Dive On Earnings (Live Coverage)
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:31]
+标题: Claude AI Just Sold ServiceNow and Inter & Co — Should You Too?
+链接: https://finance.yahoo.com/markets/stocks/articles/claude-ai-just-sold-servicenow-153139629.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:24]
+标题: Stock Market Today: Dow's Gain Vanishes; Credo Technology Approaches New Entry (Live Coverage)
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:55]
-标题: Stocks rise on broad sector strength: AlphaCheck
-链接: https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:21]
+标题: Meta (META) Deletes 756,000 Teen Accounts, But Is It Enough?
+链接: https://finance.yahoo.com/technology/articles/meta-meta-deletes-756-000-152146698.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:54]
-标题: Ducommun Incorporated (DCO)’s Quiet Comeback: How It Doubled Investors’ Money in 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/ducommun-incorporated-dco-quiet-comeback-135438046.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:21]
+标题: Billionaire Bill Ackman Thinks Netflix (NFLX) Will Rebound Despite Slowdown Trends. Is He Right?
+链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-thinks-netflix-152138158.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 22:17]
 标题: AARP issues urgent call on Medicare drug costs
 链接: https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:49]
-标题: Robinhood's second venture fund debuts, drawing retail money into private markets
-链接: https://finance.yahoo.com/small-business/articles/robinhoods-second-venture-fund-debuts-134953508.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:21]
+标题: Stocks rise as traders reduce rate hike bets, oil prices drop
+链接: https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:44]
-标题: Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout?
-链接: https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-clear-beneficiary-134458056.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:18]
+标题: Oil falls more than 3% on weaker global demand outlook and US crude buildup
+链接: https://finance.yahoo.com/news/oil-eases-weaker-demand-outlook-045929013.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:43]
-标题: KLA Corporation (KLAC) Positioned to Benefit from Semiconductor Chip Complexity
-链接: https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-positioned-benefit-134336145.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:07]
+标题: Things are looking up for AI infrastructure companies, for now
+链接: https://finance.yahoo.com/technology/article/things-are-looking-up-for-ai-infrastructure-companies-for-now-150730483.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:42]
-标题: Metaplanet Denies Bitcoin Sale
-链接: https://finance.yahoo.com/markets/crypto/articles/metaplanet-denies-bitcoin-sale-134200849.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:05]
+标题: Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market
+链接: https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:08]
-标题: Frasers Group confirms acquisition of Harvey Nichols, warns of ‘significant restructuring’
-链接: https://finance.yahoo.com/markets/stocks/articles/frasers-group-confirms-acquisition-harvey-140814782.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:28]
+标题: Micron Stock Keeps Rallying. Watch Out for This New Memory-Chip Rival.
+链接: https://www.barrons.com/articles/micron-stock-chinese-memory-chip-threat-5e35bf6e?siteid=yhoof2&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:41]
-标题: CrowdStrike Holdings (CRWD) Gains as Autonomous AI Agents Go Mainstream
-链接: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-gains-autonomous-134148875.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:58]
+标题: Lower Capex Outlook and Leadership Change Weighed on Expand Energy Corp. (EXE)
+链接: https://finance.yahoo.com/energy/articles/lower-capex-outlook-leadership-change-145810733.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:39]
-标题: AI Tailwinds and Faster CyberArk Integration Power Palo Alto Networks (PANW)
-链接: https://finance.yahoo.com/markets/stocks/articles/ai-tailwinds-faster-cyberark-integration-133937437.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:50]
+标题: Devon Energy Corp. (DVN) Slipped Post-Acquisition
+链接: https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 10:01]
 标题: Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings
 链接: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:37]
-标题: Intuitive Surgical (ISRG) Backs Long-Term Moat Amid Near-Term Volatility
-链接: https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-backs-long-133733648.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:44]
+标题: Soft Outlook Overshadows Trimble’s (TRMB) Strong Results
+链接: https://finance.yahoo.com/markets/stocks/articles/soft-outlook-overshadows-trimble-trmb-144409470.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:04]
-标题: Arla warns skills gap poses “food resilience” risk
-链接: https://finance.yahoo.com/economy/articles/arla-warns-skills-gap-poses-140457234.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:40]
+标题: Kalshi In Talks To Raise Money At $40 Billion Valuation
+链接: https://finance.yahoo.com/markets/stocks/articles/kalshi-talks-raise-money-40-144000532.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:35]
-标题: SpaceX Supplier Tumbles After First Earnings Report Since IPO
-链接: https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:36]
+标题: US producer prices unchanged in July; labor market stable
+链接: https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-increase-123917062.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:35]
-标题: Gas Vs. Electric: Global EV Sales Still Rising In 2026, But U.S. Looks Ugly
-链接: https://www.investors.com/news/gas-vs-electric-vehicle-sales-rise-july-2026-gas-prices-trump-iran/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:34]
-标题: SpaceX Jumps: New Grok Model Released; Elon Musk Holds Companywide Meeting
-链接: https://www.investors.com/news/spacex-stock-grok-openai-anthropic-elon-musk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:33]
-标题: Oil falls on weaker demand outlook and higher US stocks
-链接: https://finance.yahoo.com/news/oil-eases-weaker-demand-outlook-045929013.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:35]
+标题: This Biotech Stock Just Gapped Up To A Five-Year High; Here's Why
+链接: https://www.investors.com/news/technology/omeros-stock-omeros-earnings-q2-2026/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-12 18:47]
 标题: Market Update: BTI, MCHP, APTV, TWLO, CAVA
 链接: https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:04]
-标题: He Expects to Retire With Less Than $250,000, Nowhere Near the $1.2 Million Target. His Social Security Timing Matters More Than Ever.
-链接: https://finance.yahoo.com/markets/articles/expects-retire-less-250-000-140416174.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:21]
+标题: IREN Rallies 6% as Microsoft Signs Off on Horizon 1, NVIDIA Grants Exemplar Cloud Status
+链接: https://finance.yahoo.com/markets/stocks/articles/iren-rallies-6-microsoft-signs-152128618.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:27]
-标题: Why this analyst sees another 30% rip in Microsoft stock
-链接: https://finance.yahoo.com/markets/stocks/article/why-this-analyst-sees-another-30-rip-in-microsoft-stock-132716702.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:30]
+标题: ‘Learn to code’ is so 2010 — now AI boot camps are where it’s at for the future of work
+链接: https://finance.yahoo.com/technology/ai/articles/learn-code-2010-now-ai-143000003.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:19]
-标题: Nvidia and Broadcom Deepen AI Financing Push — But Wolfe Sees Long-Term Risks
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:30]
+标题: Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal
+链接: https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:15]
-标题: Nvidia rival Cerebras stock plunges as company swings to quarterly loss
-链接: https://finance.yahoo.com/markets/stocks/article/nvidia-rival-cerebras-stock-plunges-as-company-swings-to-quarterly-loss-131528695.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:30]
+标题: Widening Spreads and Tariff Protection Drive Steel Dynamics’ (STLD) Rally
+链接: https://finance.yahoo.com/markets/stocks/articles/widening-spreads-tariff-protection-drive-143001351.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:14]
-标题: Here’s What Hurt Boston Scientific Corporation (BSX) in Q2
-链接: https://finance.yahoo.com/markets/stocks/articles/hurt-boston-scientific-corporation-bsx-131453714.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:27]
+标题: Bullish Swings to $280M Q2 Net Loss as Digital Asset Sales Fall 44%
+链接: https://finance.yahoo.com/markets/crypto/articles/bullish-swings-280m-q2-net-142700000.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:21]
+标题: HPE Stock Hits a 52-Week High: Is It Too Late to Buy After the Morgan Stanley Upgrade?
+链接: https://finance.yahoo.com/markets/stocks/articles/hpe-stock-hits-52-week-152109139.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:24]
+标题: Dollar falls on flat PPI, cooling rate hike bets
+链接: https://finance.yahoo.com/news/dollar-treads-water-fed-hike-041227590.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:23]
+标题: Nvidia bulls may have a small problem on their hands
+链接: https://finance.yahoo.com/markets/stocks/article/nvidia-bulls-may-have-a-small-problem-on-their-hands-142341243.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:21]
+标题: AI firm Databricks valued at $190 billion as it bags $5 billion in funding
+链接: https://finance.yahoo.com/technology/ai/articles/databricks-valued-190-billion-latest-142120377.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:44]
 标题: Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:19]
+标题: Applied Materials Stock Nearly Tripled On Orders It Cannot Ship Fast Enough
+链接: https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-nearly-tripled-151957249.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 12:20]
 标题: Silver prices today, Thursday, August 13, 2026: Silver prices up over 70% YOY with PPI report on deck
@@ -197,20 +213,16 @@
 标题: Gold prices today, Thursday, August 13, 2026: Gold up nearly 10% month-over-month ahead of PPI report
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-13-2026-gold-up-nearly-10-month-over-month-ahead-of-ppi-report-120512700.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:00]
-标题: Intel’s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target
-链接: https://finance.yahoo.com/markets/stocks/articles/intel-best-growth-15-years-140030886.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:20]
+标题: Trust Stamp posts 22% revenue growth in H1, expands African telecom work
+链接: https://finance.yahoo.com/markets/stocks/articles/trust-stamp-posts-22-revenue-152000629.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 14:00]
-标题: Jim Cramer Says Skip Poet and Buy These 2 Proven Photonics Stocks for AI Data Centers in August
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-skip-poet-140000512.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 15:19]
+标题: 3 Ways to Protect Your Retirement Savings Ahead of the Market’s Most Volatile Months
+链接: https://www.barrons.com/articles/retirement-portfolio-stocks-volatility-875dd91a?siteid=yhoof2&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-13 13:58]
-标题: Nomad Foods slashes EPS forecast on debt restructuring
-链接: https://finance.yahoo.com/markets/stocks/articles/nomad-foods-slashes-eps-forecast-135849452.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-13 13:19]
-标题: 'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-13 15:16]
+标题: 'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom
 链接: https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html
 正文: Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
 
@@ -255,6 +267,11 @@
 正文: Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-13 00:00]
+标题: Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura
+正文: The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-13 00:00]
 标题: How instant payments are transforming the financial landscape
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape
 正文: Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.
@@ -264,10 +281,10 @@
 链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu
 正文: As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-13 14:16]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-13 15:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-13 14:16]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-13 15:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
