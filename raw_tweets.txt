@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-14 12:43:17
-# 共计 31 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-14 14:09:31
+# 共计 58 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-14 12:17]
 标题: The Download: Flock’s new rules, cloning’s future, and children’s cells
@@ -31,14 +31,14 @@
 链接: https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/
 正文: Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may yield to quantum computers one day, but the transition to quantum-resistant algorithms is neither sudden nor insurmountable. For executives concerned about disruption, cost, or complexity, a structured and phased approach exists with trusted technology partners like Intel that are already beginning to deliver the infrastructure to make it possible. A natural evolution, not a cliff edge The &#8220;quantum threat&#8221; narrative often swings between two extremes: imminent catastrophe or distant irrelevance. The reality occupies a more pragmatic middle ground. Quantum computers are highly specialized accelerators that exploit quantum physics to solve specific hard problems. They have the potential to crack modern encryption, but they will not replace classic servers overnight, nor will they instantly break every encryption protocol on the internet. What they will do is gradually shift the security landscape, much as previous cryptographic transitions have done over the past three decades. In late 2024, the Global Risk Institute, a Toronto-based financial services think tank, surveyed 32 quantum computing experts on when a quantum computer could break a 2048-bit RSA key within 24 hours. An average of optimistic and pessimistic estimates from the experts gave it an even 50-50 probability of reaching this code-breaking milestone by 2040. This timeline, uncertain but measurable, creates space for deliberate planning rather than emergency reaction. The near-term focus should be on &#8220;harvest now, decrypt later&#8221; scenarios, where adversaries collect encrypted data t
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 13:41]
-标题: Flock is tightening its rules in response to a growing surveillance backlash
-链接: https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
-正文: The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners. Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. A recent Washington Post investigation found 46 cases in which officers were accused of using Flock&#8217;s cameras for unauthorized purposes like stalking. To combat that, the company will start requiring officers to enter a criminal case number before conducting a search. The system was launched as an option last year but is now required. It’s meant to verify that each search has a legitimate purpose.&nbsp; This is a baseline standard that civil liberties groups have asked for, but officers have found ways around similar safeguards. The ACLU recently found that when Flock required officers to enter a reason for a search, some used generic terms like “investigation” or mocked the prompt entirely; at one Oregon department, officers entered “hehehe” 20 times. Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily. But Flock is now expanding an automatic auditing system that is supposed to catch those who try that, the firm announced today. The feature analyzes officer search activity and flags to administrators anyone with suspicious searches. This was also introduced as an option last year but is now mandatory. Flock has not shared specifics on how accurate the automatic auditing tool is, nor opened it up to independent evaluators. Beyond trying to prevent officer abuse, Flock is making changes meant to address broader backlash about how mu
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-13 17:16]
 标题: Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets
 链接: https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 13:03]
+标题: Cursor 正式并入 SpaceXAI 助力 Grok
+链接: https://aihot.virxact.com/items/cmssyoxc90mssroff4k237ysa
+正文: Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmssyoxc90mssroff4k237ysa
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 11:25]
 标题: dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理
@@ -85,19 +85,113 @@
 链接: https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20
 正文: Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等&quot;迷你应用&quot;。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 14:04]
-标题: Qwen3.8-2.4T-A95B 开源，硅基流动即日上线
-链接: https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm
-正文: 阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 13:02]
-标题: DeepSeek Harness v0.1 开发者预览版发布
-链接: https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl
-正文: DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为&quot;一切皆插件&quot;，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 01:53]
 标题: Resort destination mall and hotel file Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:58]
+标题: Dollar falls on surprise drop in US retail sales
+链接: https://finance.yahoo.com/news/yens-weekly-loss-puts-more-061643422.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:57]
+标题: US retail sales post first decline in nine months in July
+链接: https://finance.yahoo.com/economy/articles/us-retail-sales-unexpectedly-fall-123738457.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 09:36]
+标题: Reddit stock surges after S&P 500 inclusion — here's the platform's next big opportunity
+链接: https://finance.yahoo.com/markets/article/reddit-stock-surges-after-sp-500-inclusion--heres-the-platforms-next-big-opportunity-093635663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:48]
+标题: Navigating Risks and Opportunities in Bentley Systems’ (BSY) AI Strategy
+链接: https://finance.yahoo.com/technology/ai/articles/navigating-risks-opportunities-bentley-systems-134850873.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:59]
+标题: Truss partners with Verito to expand cloud hosting for tax firms
+链接: https://finance.yahoo.com/technology/articles/truss-partners-verito-expand-cloud-135926397.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:45]
+标题: Re-evaluating Moody’s Corporation (MCO) Long-Term Growth Strategy
+链接: https://finance.yahoo.com/markets/stocks/articles/evaluating-moody-corporation-mco-long-134541660.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:44]
+标题: Fund Admits Multi-Year Stock Holdings in Accenture (ACN) Were a “Costly Mistake”
+链接: https://finance.yahoo.com/markets/stocks/articles/fund-admits-multi-stock-holdings-134424118.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:44]
+标题: Stocks subdued as earnings season begins to wind down: AlphaCheck
+链接: https://finance.yahoo.com/markets/article/stocks-subdued-as-earnings-season-begins-to-wind-down-alphacheck-134418155.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:41]
+标题: The AI build-out has a problem that $1 trillion in cash can't fix
+链接: https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:54]
+标题: Calumet (CLMT) Q2 2026 Earnings Call Transcript
+链接: https://finance.yahoo.com/markets/stocks/articles/calumet-clmt-q2-2026-earnings-135425241.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:40]
+标题: Stock Market Today: Dow Falls After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:39]
+标题: EMCOR Group (EME): The Overlooked AI Infrastructure Play?
+链接: https://finance.yahoo.com/technology/ai/articles/emcor-group-eme-overlooked-ai-133913841.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:36]
+标题: Why Taco Bell's former CEO just dissed McDonald's
+链接: https://finance.yahoo.com/markets/article/why-taco-bells-former-ceo-just-dissed-mcdonalds-133600091.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:15]
+标题: Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook
+链接: https://finance.yahoo.com/markets/stocks/article/sandisk-stock-surges-as-wall-street-cheers-flash-memory-makers-bullish-outlook-131502540.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:52]
+标题: Nintendo stock jumps after Pokémon Pokopia hits 5 million sales
+链接: https://finance.yahoo.com/markets/stocks/articles/nintendo-stock-jumps-pok-mon-135247218.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:34]
+标题: JPMorgan Ends Banking Relationship With Polymarket
+链接: https://finance.yahoo.com/markets/crypto/articles/jpmorgan-ends-banking-relationship-polymarket-133400305.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:33]
+标题: Why Did Oscar Health (OSCR) Fall After Record Profit and a Guidance Hike?
+链接: https://finance.yahoo.com/healthcare/articles/why-did-oscar-health-oscr-133340254.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 10:26]
+标题: Stock market today: Dow, S&P 500, Nasdaq waver after stocks hit record high
+链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:52]
+标题: India’s ICAI unveils IFSC-focused compliance courses
+链接: https://finance.yahoo.com/small-business/articles/india-icai-unveils-ifsc-focused-135228893.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:29]
+标题: Why ATI (ATI) Is Emerging as an Aerospace Supply Chain Winner
+链接: https://finance.yahoo.com/markets/stocks/articles/why-ati-ati-emerging-aerospace-132900668.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:28]
+标题: Why Investors Keep Doubting CoStar Group (CSGP)
+链接: https://finance.yahoo.com/markets/stocks/articles/why-investors-keep-doubting-costar-132850025.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:26]
+标题: Evaluating Amphenol’s (APH) AI Infrastructure Play
+链接: https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:51]
+标题: Starz (STRZ) Q2 2026 Earnings Call Transcript
+链接: https://finance.yahoo.com/markets/stocks/articles/starz-strz-q2-2026-earnings-135138163.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:23]
+标题: Blackstone Could Pay $53 for MarineMax (HZO). What Is It Really Buying?
+链接: https://finance.yahoo.com/markets/stocks/articles/blackstone-could-pay-53-marinemax-132343646.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 12:36]
+标题: Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:50]
+标题: Why Resideo Technologies Stock Is Plummeting This Week
+链接: https://finance.yahoo.com/markets/stocks/articles/why-resideo-technologies-stock-plummeting-135040408.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 12:12]
 标题: Silver prices today, Friday, August 14, 2026: Silver over $65 following soft inflation data this week
@@ -106,6 +200,18 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 11:54]
 标题: Gold prices today, Friday, August 14, 2026: Gold prices hold above $4,400 on softening inflation
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-14-2026-gold-prices-hold-above-4400-on-softening-inflation-115406311.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:50]
+标题: Alphabet Turned $900 Million in SpaceX Into $94 Billion — Here’s the Lesson for Investors
+链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-turned-900-million-spacex-135032220.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:50]
+标题: Meta Platforms Is Down 27% From Its Most Recent High. History Says This Could Happen Next
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-down-27-most-135000222.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 13:49]
+标题: S&P Steady After Record Close
+链接: https://finance.yahoo.com/markets/stocks/articles/u-futures-steady-closing-higher-111100706.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-14 10:46]
 标题: Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more
@@ -142,10 +248,10 @@
 链接: https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 12:43]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 14:09]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 12:43]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 14:09]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
