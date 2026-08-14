@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-08-14 03:57:16
+# ForwardPulse 原始情报收割 — 2026-08-14 05:28:55
 # 共计 27 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-13 21:00]
@@ -34,6 +34,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-13 17:16]
 标题: Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets
 链接: https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 04:00]
+标题: 蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环
+链接: https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w
+正文: 蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 23:58]
 标题: 从0到1带你速通DeepSeek Harness。
@@ -90,11 +95,6 @@
 链接: https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9
 正文: 小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 04:32]
-标题: WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式
-链接: https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk
-正文: WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-14 01:02]
 标题: Uber partners with China's Pony.ai for 2,000 robotaxis in Europe
 链接: https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html
@@ -125,10 +125,10 @@
 链接: https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 03:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 05:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 03:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 05:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
