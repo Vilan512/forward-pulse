@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-14 18:41:46
-# 共计 23 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-14 19:42:22
+# 共计 24 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-14 12:17]
 标题: The Download: Flock’s new rules, cloning’s future, and children’s cells
@@ -71,9 +71,9 @@
 正文: 蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 00:00]
-标题: State of Open Models： Summer 2026 Observations
+标题: 2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量
 链接: https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd
-正文: 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd
+正文: 2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 23:58]
 标题: 从0到1带你速通DeepSeek Harness。
@@ -88,6 +88,11 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 01:53]
 标题: Resort destination mall and hotel seek Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-14 19:21]
+标题: Regulators and banks step up scrutiny of prediction markets
+链接: https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html
+正文: The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-14 10:46]
 标题: Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more
@@ -104,10 +109,10 @@
 链接: https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html
 正文: Recent FactSet data show that the rise in earnings is not coming from sales growth alone.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 18:41]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 19:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 18:41]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 19:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
