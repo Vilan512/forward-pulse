@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-08-14 21:16:39
+# ForwardPulse 原始情报收割 — 2026-08-14 22:13:35
 # 共计 25 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-14 12:17]
@@ -24,6 +24,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-14 00:00]
 标题: State of Open Models: Summer 2026 Observations
 链接: https://huggingface.co/blog/state-of-open-models-summer-2026
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 21:23]
+标题: GLM-5.3：中国实验室如何跟上前沿步伐
+链接: https://aihot.virxact.com/items/cmsthuh2y0911ro0xh9cn86ep
+正文: Z.ai 今日发布 GLM-5.3，目前仅限编程套餐使用，API 即将上线，两周后开源权重至 Hugging Face。该模型在多项基准上超越 Moonshot AI 的 Kimi K3，部分指标超过 Claude Fable 5 或 GPT-5.6-Sol，仅约 750B 参数，为 Kimi K3 的三分之一。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsthuh2y0911ro0xh9cn86ep
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-14 19:22]
 标题: Claude 文本水印机制如何运作
@@ -80,11 +85,6 @@
 链接: https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q
 正文: 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-13 21:27]
-标题: Claude 接管应用日常维护：388 个 PR 的实践
-链接: https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9
-正文: Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-14 01:53]
 标题: Resort destination mall and hotel seek Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html
@@ -114,10 +114,10 @@
 链接: https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html
 正文: The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 21:16]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-14 22:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 21:16]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-14 22:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
