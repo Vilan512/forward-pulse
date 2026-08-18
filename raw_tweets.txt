@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-18 13:35:22
-# 共计 63 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-18 14:23:28
+# 共计 64 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 12:10]
 标题: The Download: how people really use AI, and Flock’s design choices
@@ -9,7 +9,7 @@
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 10:06]
 标题: We still don’t know how people are really using AI
 链接: https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
-正文: AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&nbsp; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab. Reuel is co-lead of a new research project, called the AI Observatory, that aims to fill the gap. It’s a public platform that aggregated and analyzed real AI conversations with popular models like Claude and Gemini that were collected with users’ consent through seven existing datasets. The intent is to provide independent sources of information that can help researchers and policymakers assess how people are using generative AI. Highly consequential decisions about AI’s benefits and risks are currently being made on the basis of very limited data, says Reuel. The AI Observatory found that AI use differs significantly across models and has changed over time. Its research shows many more sensitive behaviors than are captured in reports from major AI companies, which they say focus more on work than on personal use. The Anthropic Economic Index is one of the best-known and most widely cited sources of AI usage data, but it has blind spots. As its name suggests, it focuses on work- and productivity-related uses of Claude AI—filtering out conversations that are unrelated to these uses. When the AI Observatory researchers applied Anthropic’s methods to their dataset, they found that nearly half the conversations—48%—would have been filtered out. Those non-work-related conversations were more likely to involve health and relationships (44.2% versus 31.2% in Anthropic’s analysis), adult or illicit topics (7.9% versus 2.1%), harassment and hate (27.5% versus 5.66%), and sexual content (16.7% versus 2.4%). (OpenAI’s 2025 report on ChatGPT, similarly, found that only 30% of consumer use was related to work.) Anthropic has rele
+正文: AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&nbsp; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab.&nbsp; Reuel is co-lead of a new research project, called the AI Observatory, that aims to fill the gap. It’s a public platform that aggregated and analyzed real AI conversations with popular models like Claude and Gemini that were collected with users’ consent through seven existing datasets. The intent is to provide independent sources of information that can help researchers and policymakers assess how people are using generative AI. Highly consequential decisions about AI’s benefits and risks are currently being made on the basis of very limited data, says Reuel. The AI Observatory found that AI use differs significantly across models and has changed over time. Its research shows many more sensitive behaviors than are captured in reports from major AI companies, which they say focus more on work than on personal use. The Anthropic Economic Index is one of the best-known and most widely cited sources of AI usage data, but it has blind spots. As its name suggests, it focuses on work- and productivity-related uses of Claude AI—filtering out conversations that are unrelated to these uses.&nbsp; When the AI Observatory researchers applied Anthropic’s methods to their dataset, they found that nearly half the conversations—48%—would have been filtered out. Those non-work-related conversations were more likely to involve health and relationships (44.2% versus 31.2% in Anthropic’s analysis), adult or illicit topics (7.9% versus 2.1%), harassment and hate (27.5% versus 5.66%), and sexual content (16.7% versus 2.4%). (OpenAI’s 2025 report on ChatGPT, similarly, found that only 30% of consumer use was related to work.) Anthro
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 09:00]
 标题: The role of the astronaut is in flux
@@ -24,7 +24,11 @@
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-17 19:16]
 标题: What Flock’s defenders are missing
 链接: https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes.&nbsp; That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to. Flock has responded with practices aimed at ensuring that officers have a proper cause for every search, like using software to flag abnormal searches and requiring searchers to enter a criminal case number. The changes come with big loopholes, though. For example, officers can enter bogus case numbers, just as they’ve lied to get around other Flock safeguards. The policies also don’t address some of the broader concerns from civil liberties and privacy groups that Flock is turning what was sold as a crime-stopping tool into a mass surveillance network. These criticisms have led to a growing backlash that already has some cities canceling contracts and some states trying to pass laws to limit or ban license plate readers entirely.&nbsp; Amid all this, there have recently been several arguments defending Flock: If these cameras help solve crime, what’s the big deal? On a good day they might help catch a kidnapper, and if not, they’re simply snapping pictures of my car that nobody will bother to look at.&nbsp; Putting aside the unanswered question about the extent to which Flock’s systems actually do solve or prevent crime, this all skips over a more important question: What kind of crime-fighting system has Flock c
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes.&nbsp; That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to. Flock has responded with practices aimed at ensuring that officers have a proper cause for every search, like using software to flag abnormal searches and requiring searchers to enter a criminal case number. The changes come with big loopholes, though. For example, officers can enter bogus case numbers, just as they’ve lied to get around other Flock safeguards. The policies also don’t address some of the broader concerns from civil liberties and privacy groups that Flock is turning what was sold as a crime-stopping tool into a mass surveillance network. These criticisms have led to a growing backlash that already has some cities canceling contracts and some states trying to pass laws to limit or ban license plate readers entirely.&nbsp; Amid all this, there have recently been several arguments defending Flock: If these cameras help solve crime, what’s the big deal? On a good day they might help catch a kidnapper, and if not, they’re simply snapping pictures of my car that nobody will bother to look at.&nbsp; Putting aside the unanswered question about the extent to which Flock’s systems actually do solve or prevent crime, this all skips over a more important question: What kind of crime-fighting system has Fl
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 00:00]
+标题: Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers
+链接: https://huggingface.co/blog/multi-vector-encoder
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-17 19:46]
 标题: Same Cluster, 33 Points More Utilization: What Changed Was the Order
@@ -69,9 +73,69 @@
 标题: Bankrupt Italian chain shuts 50 restaurants, exits state entirely
 链接: https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:59]
+标题: XRP Falls Below $1 For First Time Since 2024
+链接: https://finance.yahoo.com/markets/crypto/articles/xrp-falls-below-1-first-135900489.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:50]
+标题: Global bond sell-off pressures stocks: AlphaCheck
+链接: https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:49]
+标题: Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?
+链接: https://finance.yahoo.com/markets/stocks/articles/could-legence-lgn-major-winner-134914355.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:39]
+标题: Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 03:07]
+标题: 5-star analyst sets alarming SpaceX stock price target
+链接: https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 08:08]
+标题: Stock market today: Nasdaq leads Dow and S&P 500 lower as rising Treasury yields weigh on tech stocks
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:36]
+标题: New Prediction Market Novig Sees $125 Million In Trading Volumes
+链接: https://finance.yahoo.com/markets/crypto/articles/prediction-market-novig-sees-125-133600488.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:35]
+标题: Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes
+链接: https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:33]
+标题: Comcast expands Xfinity security offerings to deepen broadband customer ties
+链接: https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 14:00]
+标题: Intel Owns Just 2 Stocks Worth $620 Million: Here’s What That Concentrated Bet Reveals
+链接: https://finance.yahoo.com/markets/stocks/articles/intel-owns-just-2-stocks-140002626.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:29]
+标题: Cognex Corp’s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength
+链接: https://finance.yahoo.com/markets/stocks/articles/cognex-corp-cgnx-elevated-growth-132913511.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:18]
+标题: Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration
+链接: https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-demand-131822860.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:18]
+标题: Atmus Filtration (ATMU) Posts Record Q2 Sales, Lifts Full-Year Top-Line Guidance
+链接: https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-atmu-posts-record-131801945.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:14]
 标题: Wall Street clearly loves Google stock, 13F filings reveal
 链接: https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:59]
+标题: Home Depot posts 5.7% rise in Q2 net sales
+链接: https://finance.yahoo.com/markets/stocks/articles/home-depot-posts-5-7-135944744.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:13]
+标题: Meta Platforms’ (META) Strong Growth Backdrop Highlights Valuation Disconnect
+链接: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-strong-growth-131359013.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:12]
 标题: Brookfield Corporation’s (BN) Strength Overshadowed by Sector Concerns
@@ -85,13 +149,9 @@
 标题: Microsoft Corporation (MSFT) Valuation Hits Decade Lows as AI Disruption and Spending Fears Weigh on Shares
 链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-valuation-hits-130828695.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 03:07]
-标题: 5-star analyst sets alarming SpaceX stock price target
-链接: https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 08:08]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions as Treasury yields creep higher
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:59]
+标题: Microsoft Is Owed Billions It Hasn’t Collected. One Analyst Says That Line Tells You Who Holds the Power
+链接: https://finance.yahoo.com/markets/stocks/articles/microsoft-owed-billions-hasn-t-135913439.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:05]
 标题: US advisory body says China's data dominance gives it AI advantage
@@ -109,129 +169,74 @@
 标题: London Company Income Equity Strategy Reduced TE Connectivity Ltd. (TEL) Holdings for Strategic Positioning
 链接: https://finance.yahoo.com/markets/stocks/articles/london-company-income-equity-strategy-125817478.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:54]
-标题: Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:47]
-标题: NASA Taps Blue Origin, Firefly For Services. SpaceX Stock Hits Resistance.
-链接: https://www.investors.com/news/spacex-stock-falcon9-starlink-nasa-payload-services-blue-origin-firefly/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:35]
-标题: Strong Shareholder Backing Validates Republic Services’ (RSG) Attractive Valuation
-链接: https://finance.yahoo.com/markets/stocks/articles/strong-shareholder-backing-validates-republic-123541541.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:13]
-标题: Japan’s St Cousair buys another US jam maker
-链接: https://finance.yahoo.com/small-business/articles/japan-st-cousair-buys-another-131310516.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:33]
-标题: Chevron Corporation (CVX) Drops as Oil Price Retreats
-链接: https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-drops-oil-123322272.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:30]
-标题: Betting retirement on the big game? Gen Z investors are gambling on sports as a financial plan
-链接: https://finance.yahoo.com/markets/articles/betting-retirement-big-game-gen-123000699.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:26]
-标题: Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show
-链接: https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:25]
-标题: Life Couriers gains new CEO with sale to private equity firm
-链接: https://finance.yahoo.com/healthcare/articles/life-couriers-gains-ceo-sale-122516957.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:21]
-标题: Home Depot Beats Estimates in a “Frozen” Housing Market
-链接: https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:20]
-标题: Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)
-链接: https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:16]
-标题: Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)
-链接: https://finance.yahoo.com/technology/ai/articles/strong-ai-infrastructure-orders-drive-121646291.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:14]
-标题: Texas Instruments Incorporated (TXN) Attractive on Strategic Advantages
-链接: https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-attractive-121448001.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:09]
-标题: Improving Demand Strengthens Corning (GLW)
-链接: https://finance.yahoo.com/markets/stocks/articles/improving-demand-strengthens-corning-glw-120947860.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:03]
-标题: Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO
-链接: https://finance.yahoo.com/markets/stocks/articles/financial-firepower-signals-confidence-copart-120314079.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:01]
-标题: Brand Legacy Positions KKR (KKR) for Lasting Advantage
-链接: https://finance.yahoo.com/markets/stocks/articles/brand-legacy-positions-kkr-kkr-120118343.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:01]
-标题: Chip designer Velaura AI valued at more than $1 billion after funding round
-链接: https://finance.yahoo.com/technology/ai/articles/chip-designer-velaura-ai-valued-120112868.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:05]
-标题: The Billionaire Famous for Betting Big on Micron Just Bought Airline Stocks
-链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-famous-betting-big-micron-130535913.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:00]
-标题: 11 S&P 500 Stocks Soar To Record Highs In The Blink Of An Eye
-链接: https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-soar-to-record-highs-in-a-blink-of-the-eye/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 12:00]
-标题: Is $2.5M Enough to Spend $100K a Year in Retirement, Or Will Taxes Leave Me Short?
-链接: https://finance.yahoo.com/markets/articles/2-5m-enough-spend-100k-120000788.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 11:59]
-标题: Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains
-链接: https://finance.yahoo.com/markets/live/earnings-live-updates-klarna-stock-plunges-on-trimmed-guidance-home-depot-gains-115925351.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 11:55]
-标题: Hagerty’s (HGTY) Higher Growth Story Remains Mispriced?
-链接: https://finance.yahoo.com/markets/stocks/articles/hagerty-hgty-higher-growth-story-115507049.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:05]
-标题: Target or Lowe’s: Which Stock Is Poised to Soar After Earnings?
-链接: https://finance.yahoo.com/markets/stocks/articles/target-lowe-stock-poised-soar-130522625.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 11:55]
-标题: Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
-链接: https://finance.yahoo.com/markets/stocks/articles/alpha-metallurgical-amr-weathers-rough-115508588.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 11:55]
-标题: ‘Indefensible and ugly’: $20 burritos have Tucker Carlson, JD Vance, Ben Shapiro fighting over America’s inflation woes
-链接: https://finance.yahoo.com/economy/articles/indefensible-ugly-20-burritos-tucker-115500194.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:05]
-标题: Insider Dumps 1,000 Shares After Industrial Stock Surges by 49% in Last Year
-链接: https://finance.yahoo.com/markets/stocks/articles/insider-dumps-1-000-shares-130501565.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 10:00]
-标题: Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.15% APY today on a 14-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-415-apy-today-on-a-14-month-cd-100000469.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:58]
+标题: Billionaire David Tepper’s Top 5 Holdings Just Revealed
+链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-top-5-135822941.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 10:00]
 标题: Mortgage and refinance rates today, Tuesday, August 18, 2026: Generally higher, yet the 30-year holds
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-18-2026-generally-higher-yet-the-30-year-holds-100000411.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:04]
-标题: Qualcomm’s 35% Drop Offers AI Upside Backed By Strong Legacy Cash Flows
-链接: https://finance.yahoo.com/technology/ai/articles/qualcomm-35-drop-offers-ai-130445981.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 10:00]
+标题: Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.15% APY today on a 14-month CD
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-415-apy-today-on-a-14-month-cd-100000469.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 13:57]
-标题: Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:58]
+标题: ETL adds Dutch accounting practice to network
+链接: https://finance.yahoo.com/small-business/articles/etl-adds-dutch-accounting-practice-135805329.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 13:52]
-标题: Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-17-2026-buoyed-by-softer-economic-data-while-industrial-outlook-remains-uncertain-135247624.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 18:40]
+标题: Best credit cards for gas (August 2026)
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-gas-august-2026-184035427.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 13:47]
-标题: Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:58]
+标题: This Stock Is Jumping on Its Big Plans for the Tesla Semi Truck
+链接: https://www.barrons.com/articles/einride-stock-price-tesla-semi-truck-c4e436e9?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 19:13]
+标题: Centralized vs. decentralized exchanges: What's the difference?
+链接: https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 20:01]
+标题: Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund
+链接: https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 20:06]
+标题: So, your emergency savings account is fully funded. What next?
+链接: https://finance.yahoo.com/personal-finance/banking/article/after-emergency-fund-what-next-200634232.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:56]
+标题: SpaceX Stock Drops After Spending $60 Billion to Bolster Musk’s AI Ambitions
+链接: https://www.barrons.com/articles/spacex-stock-price-ai-musk-cursor-e773d2aa?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:53]
+标题: Memory’s Cyclicality is No More, So I Keep Loading Up on Micron
+链接: https://finance.yahoo.com/markets/stocks/articles/memory-cyclicality-no-more-keep-135315335.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:53]
+标题: Baidu Stock Drops as Earnings Show the Perils of Going All-In on AI
+链接: https://www.barrons.com/articles/baidu-earnings-stock-price-01c70406?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:52]
+标题: DA Davidson Reverses Course on Nebius Target Cut in Just 1 Week. What Is Going On?
+链接: https://finance.yahoo.com/markets/stocks/articles/da-davidson-reverses-course-nebius-135251932.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:52]
+标题: Why Micron Stock and Its Memory Peers Are Falling
+链接: https://www.barrons.com/articles/micron-stock-price-memory-chips-bond-yields-3d2aeeb6?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:50]
+标题: Diageo complies with India regulator following rebuke over flavouring
+链接: https://finance.yahoo.com/economy/policy/articles/diageo-complies-india-regulator-following-135034230.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 13:50]
+标题: Top Analyst Sees the S&P 500 at 10,000. He Says He Can’t Find a Reason It Won’t Happen
+链接: https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-p-500-135019360.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 14:22]
+标题: Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
+链接: https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html
+正文: The company is seeking to launch a "US500" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 11:46]
 标题: Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more
@@ -263,10 +268,10 @@
 链接: https://www.cnbc.com/2026/08/17/synchrony-openai.html
 正文: The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-18 13:35]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-18 14:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-18 13:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-18 14:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
