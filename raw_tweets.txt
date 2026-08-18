@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-08-18 18:23:38
+# ForwardPulse 原始情报收割 — 2026-08-18 19:21:07
 # 共计 35 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 12:10]
@@ -21,11 +21,6 @@
 链接: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
 正文: The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&nbsp; But a new study suggests that it might take a while for us to get there. The researchers behind it found that AI agents are not yet capable of conducting open-ended AI research—free-form investigations that have no clear-cut answers and require judgment and taste, which may be integral to building self-improving AI. A multi-institution group of researchers, led by Peter Kirgis and Sayash Kapoor at Princeton University, found that AI agents could solve the engineering problems necessary to do AI research but lacked the judgment and creativity to produce original research at the caliber of&nbsp; papers accepted by a top machine-learning conference. The gap suggests that some of the hyped-up timelines for automating AI research may be running ahead of the evidence. Most existing research on how agents can automate AI research evaluates their ability to complete narrow tasks with checkable answers, such as solving engineering problems or post-training small language models against a benchmark. But making progress in AI research also requires open-ended thinking—choosing a set of hypotheses, deciding what evidence would settle a question, or knowing when to start over.&nbsp; To test agents on those kinds of skills, the researchers in the study proposed a new method of evaluation called “shadow evaluation,” which requires the AI to answer a research question from a high-quality unpublished paper.&nbsp; The researchers asked Anthropic’s Claude Opus 4.8, running on open-source software called OpenClaw, to tackle such questions, in this case from two papers submitted to the prestigious machine-learning conference NeurIPS 2026
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-17 19:16]
-标题: What Flock’s defenders are missing
-链接: https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes.&nbsp; That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to. Flock has responded with practices aimed at ensuring that officers have a proper cause for every search, like using software to flag abnormal searches and requiring searchers to enter a criminal case number. The changes come with big loopholes, though. For example, officers can enter bogus case numbers, just as they’ve lied to get around other Flock safeguards. The policies also don’t address some of the broader concerns from civil liberties and privacy groups that Flock is turning what was sold as a crime-stopping tool into a mass surveillance network. These criticisms have led to a growing backlash that already has some cities canceling contracts and some states trying to pass laws to limit or ban license plate readers entirely.&nbsp; Amid all this, there have recently been several arguments defending Flock: If these cameras help solve crime, what’s the big deal? On a good day they might help catch a kidnapper, and if not, they’re simply snapping pictures of my car that nobody will bother to look at.&nbsp; Putting aside the unanswered question about the extent to which Flock’s systems actually do solve or prevent crime, this all skips over a more important question: What kind of crime-fighting system has Fl
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 18:09]
 标题: How Much Memory Does Your Agent Actually Need?
 链接: https://huggingface.co/blog/ibm-research/altk-evolve-hmm
@@ -37,6 +32,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-17 19:46]
 标题: Same Cluster, 33 Points More Utilization: What Changed Was the Order
 链接: https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 11:00]
+标题: OpenAI 在&quot;关键网络能力&quot;时代放缓模型开发节奏
+链接: https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv
+正文: OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的&quot;关键网络安全能力&quot;阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 11:00]
 标题: OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护
@@ -68,22 +68,9 @@
 链接: https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h
 正文: Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-17 18:46]
-标题: 404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁
-链接: https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9
-正文: 404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 17:10]
 标题: Costco launching Medicare Advantage plans with SCAN Group
 链接: https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 18:40]
-标题: Best credit cards for gas (August 2026)
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-gas-august-2026-184035427.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 19:13]
-标题: Centralized vs. decentralized exchanges: What's the difference?
-链接: https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-17 20:01]
 标题: Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund
@@ -101,10 +88,6 @@
 标题: Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.30% APY today on a 16-month CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-430-apy-today-on-a-16-month-cd-100000469.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 15:18]
-标题: Seller concession limits: How much can you ask for?
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 15:48]
 标题: Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html
@@ -117,9 +100,21 @@
 标题: Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 15:18]
+标题: Seller concession limits: How much can you ask for?
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 17:08]
 标题: State Farm's $5 billion dividend payout is largest in company history: Who's eligible?
 链接: https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:48]
+标题: Life insurance rates: Average costs by age and policy
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-rates-184834481.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:53]
+标题: How to compare life insurance quotes
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-quotes-185319925.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 16:48]
 标题: Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh
@@ -151,10 +146,15 @@
 链接: https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector
 正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-18 18:23]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-18 00:00]
+标题: Reinventing the European pulp and paper operating model
+链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model
+正文: Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-18 19:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-18 18:23]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-18 19:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
