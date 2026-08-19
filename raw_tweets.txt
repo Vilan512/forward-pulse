@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-19 08:25:33
-# 共计 27 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-19 09:24:18
+# 共计 33 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-19 09:00]
+标题: Child-monitoring apps might need a reboot
+链接: https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/
+正文: Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she sought out the support and the community she’d lacked at home. She also discovered how thin the ice can be. “I sent my address to some guy in New Mexico to send me a mug with my name on it,” she recalls. “And then I found a news story like five, 10 years later that he killed somebody.” Those experiences set the course of her career. Wisniewski—now a principal research scientist at the International Computer Science Institute, a nonprofit affiliated with the University of California, Berkeley—has spent well over a decade asking what safety should look like for families navigating an evolving tech landscape, and how to achieve it without sacrificing trust. “I really see the internet as this double-edged sword,” she says.&nbsp; Digital harms have become the defining fear of American parenthood. In the University of Michigan’s 2025 National Poll on Children’s Health, parents’ top three worries had to do with social media, screen time, and internet safety. Nearly half of American teenagers say they have been bullied or harassed online, according to the Pew Research Center. From there, the dangers escalate. Online drug dealers sell counterfeit pills laced with fentanyl. In the first half of 2025, the National Center for Missing &amp; Exploited Children fielded more than 23,000 reports of financial sextortion, in which a predator posing as a peer extracts a sexual image from a child and threatens to publish it unless paid. Chatbots are the newest danger, with companies like OpenAI facing lawsuits for allegedly coaching children toward suicide.&nbsp; Most parents’ first defense is conversation. In Pew surveys, more than nine in 10 say they’ve talked with their teens ab
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 12:10]
 标题: The Download: how people really use AI, and Flock’s design choices
@@ -10,16 +15,6 @@
 标题: We still don’t know how people are really using AI
 链接: https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
 正文: AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&nbsp; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab.&nbsp; Reuel is co-lead of a new research project, called the AI Observatory, that aims to fill the gap. It’s a public platform that aggregated and analyzed real AI conversations with popular models like Claude and Gemini that were collected with users’ consent through seven existing datasets. The intent is to provide independent sources of information that can help researchers and policymakers assess how people are using generative AI. Highly consequential decisions about AI’s benefits and risks are currently being made on the basis of very limited data, says Reuel. The AI Observatory found that AI use differs significantly across models and has changed over time. Its research shows many more sensitive behaviors than are captured in reports from major AI companies, which they say focus more on work than on personal use. The Anthropic Economic Index is one of the best-known and most widely cited sources of AI usage data, but it has blind spots. As its name suggests, it focuses on work- and productivity-related uses of Claude AI—filtering out conversations that are unrelated to these uses.&nbsp; When the AI Observatory researchers applied Anthropic’s methods to their dataset, they found that nearly half the conversations—48%—would have been filtered out. Those non-work-related conversations were more likely to involve health and relationships (44.2% versus 31.2% in Anthropic’s analysis), adult or illicit topics (7.9% versus 2.1%), harassment and hate (27.5% versus 5.66%), and sexual content (16.7% versus 2.4%). (OpenAI’s 2025 report on ChatGPT, similarly, found that only 30% of consumer use was related to work.) Anthro
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 09:00]
-标题: The role of the astronaut is in flux
-链接: https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/
-正文: When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&nbsp; While no space mission can live up to the historic touchdown of Apollo 11—a spectacle that 20% of the world population watched live—Artemis II still attracted massive public interest. It drew tens of millions of viewers and inspired outpourings of “moon joy,” a term coined spontaneously during the mission that became a viral sensation.&nbsp; The expedition is only the first in a planned series of ambitious missions. The Artemis program aims to establish a human base on the south pole of the moon, operated by the US and its international and commercial partners, during the 2030s. China and Russia have teamed up to build their own crewed lunar base in the same region and on a similar timeline. Meanwhile, companies like Blue Origin and SpaceX hope to lock down the burgeoning extraterrestrial tourism market by flying civilian astronauts on private missions, with the long-term dream of taking them to the moon—or even Mars.&nbsp; But some overarching questions about this new era of space exploration linger, including perhaps the most existential one of all: What’s the point? Launching humans into space is dangerous and expensive, and it’s unclear whether it can deliver a better return on investment than we’d get if we were to send robots in our stead to make scientific discoveries or to conduct commercial activities, such as mining. Since the dawn of human spaceflight, this line of questioning has been met with countless answers. We go to space for geopolitical prestige, manifest destiny, spiritual fulfillment, scientific curiosity, and, increasingly, business opportunities.&nbsp; In the wake of Artemis II, a slew of new books suggest that these justifications are subsumed by one unifying fact: Humans have itchy feet, and we are s
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 09:00]
-标题: AI’s recursive self-improvement might not come so quickly after all
-链接: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
-正文: The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&nbsp; But a new study suggests that it might take a while for us to get there. The researchers behind it found that AI agents are not yet capable of conducting open-ended AI research—free-form investigations that have no clear-cut answers and require judgment and taste, which may be integral to building self-improving AI. A multi-institution group of researchers, led by Peter Kirgis and Sayash Kapoor at Princeton University, found that AI agents could solve the engineering problems necessary to do AI research but lacked the judgment and creativity to produce original research at the caliber of&nbsp; papers accepted by a top machine-learning conference. The gap suggests that some of the hyped-up timelines for automating AI research may be running ahead of the evidence. Most existing research on how agents can automate AI research evaluates their ability to complete narrow tasks with checkable answers, such as solving engineering problems or post-training small language models against a benchmark. But making progress in AI research also requires open-ended thinking—choosing a set of hypotheses, deciding what evidence would settle a question, or knowing when to start over.&nbsp; To test agents on those kinds of skills, the researchers in the study proposed a new method of evaluation called “shadow evaluation,” which requires the AI to answer a research question from a high-quality unpublished paper.&nbsp; The researchers asked Anthropic’s Claude Opus 4.8, running on open-source software called OpenClaw, to tackle such questions, in this case from two papers submitted to the prestigious machine-learning conference NeurIPS 2026
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 18:09]
 标题: How Much Memory Does Your Agent Actually Need?
@@ -85,6 +80,34 @@
 标题: Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 15:52]
+标题: Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-18-2026-silver-price-holds-as-investors-weigh-inflation-and-geopolitical-risks-155200076.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 15:57]
+标题: Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 17:08]
+标题: State Farm's $5 billion dividend payout is largest in company history: Who's eligible?
+链接: https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:48]
+标题: Life insurance rates: Average costs by age and policy
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-rates-184834481.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:53]
+标题: How to compare life insurance quotes
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-quotes-185319925.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 19:19]
+标题: Life insurance for seniors: Best options by age and policy
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-for-seniors-191943523.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 19:27]
+标题: U.S. Bank Business Altitude Connect review: Strong travel rewards, limited perks
+链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-altitude-connect-visa-signature-192717265.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-19 06:55]
 标题: Goldman studied where AI is squeezing labor markets. Here's what it found
 链接: https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html
@@ -120,10 +143,10 @@
 链接: https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html
 正文: Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 08:25]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 09:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 08:25]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 09:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
