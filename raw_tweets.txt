@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-19 17:18:40
-# 共计 61 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-19 18:20:37
+# 共计 28 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-19 12:10]
 标题: The Download: AI’s self-improvement problem, and what’s driving the heat
@@ -15,9 +15,15 @@
 标题: LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation
 链接: https://huggingface.co/blog/LiquidAI/qad
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 18:09]
-标题: How Much Memory Does Your Agent Actually Need?
-链接: https://huggingface.co/blog/ibm-research/altk-evolve-hmm
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 17:56]
+标题: 突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法
+链接: https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh
+正文: LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 17:22]
+标题: OpenRouter 加入 Stripe 加速多模型使命
+链接: https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk
+正文: OpenRouter 正在加入 Stripe。 我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。 加入 @Stripe 让我们有机会加速这一使命。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 13:48]
 标题: Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失
@@ -29,6 +35,11 @@
 链接: https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0
 正文: GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 00:00]
+标题: OpenRouter 宣布加入 Stripe
+链接: https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc
+正文: OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 21:26]
 标题: Mojo 语言正式开源，编译器与工具链全面开放
 链接: https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl
@@ -39,170 +50,26 @@
 链接: https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x
 正文: Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。 让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。 从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 18:09]
-标题: 智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准
-链接: https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78
-正文: 智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 17:03]
-标题: Saudi Arabia’s Biggest Driller Expands Into Oman
-链接: https://finance.yahoo.com/energy/articles/saudi-arabia-biggest-driller-expands-170356716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:58]
-标题: ASML Stock Takes A Break After Rebounding
-链接: https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:50]
-标题: Marvell Stock Jumps On Google Chip, Investment Deal
-链接: https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:50]
-标题: Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story
-链接: https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:49]
-标题: Moderna shares double as cancer vaccine data rekindles investor hopes
-链接: https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:44]
-标题: CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves.
-链接: https://www.investors.com/research/options/crowdstrike-stock-crwd-cybersecurity-tech-options-market-trade-earnings-volatility/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 08:11]
-标题: Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:40]
-标题: MemeCore Commits $1B in Tokens to ZeroStack
-链接: https://finance.yahoo.com/markets/crypto/articles/memecore-commits-1b-tokens-zerostack-164000646.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 17:02]
-标题: Sociedad Quimica y Minera Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/sociedad-quimica-y-minera-q2-170226460.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:34]
-标题: Stock Market Today: S&P 500, Nasdaq Lead As Fed Minutes Loom; Lowe's Clears This Resistance Bar (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:30]
-标题: Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty
-链接: https://finance.yahoo.com/economy/policy/articles/capital-one-shut-down-385-163000196.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:23]
-标题: US appeals court revives Signature Bank collapse lawsuit despite FDIC objection
-链接: https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:17]
-标题: Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 17:02]
-标题: Micware Targets Software-Defined Vehicles, Spatial Intelligence Growth After Record Margin
-链接: https://finance.yahoo.com/technology/articles/micware-targets-software-defined-vehicles-170228823.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:14]
-标题: US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields
-链接: https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:14]
-标题: 5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising
-链接: https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:13]
-标题: Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:11]
-标题: Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 17:02]
-标题: TJX Companies Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/tjx-companies-q2-earnings-call-170227218.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:10]
-标题: Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain
-链接: https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-alphabet-stock-googl-stocks-buy-zone-markets/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:08]
-标题: Global yields fall after US Treasury boosts debt buybacks
-链接: https://finance.yahoo.com/news/bond-selloff-slows-stocks-wobble-025827451.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:05]
-标题: IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally
-链接: https://www.investors.com/research/ibd-stock-of-the-day/hinge-health-stock-earnings-rally-cylinder-buyout/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:04]
-标题: Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth
-链接: https://finance.yahoo.com/technology/ai/articles/datavault-ai-agrees-buy-bankwyse-160400344.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 17:00]
-标题: This Stock Has Become Too Important to the AI Revolution to Ignore
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-become-too-important-ai-170037670.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:00]
-标题: Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal
-链接: https://www.investors.com/news/treasury-yields-fall-gold-price-jumps-gdx/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 15:51]
-标题: Indian fintech Navi to raise $100 million ahead of planned IPO
-链接: https://finance.yahoo.com/small-business/articles/indian-fintech-navi-raise-100-155131023.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 15:50]
-标题: Indexed universal life insurance (IUL): Risks, costs, and how it works
-链接: https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 15:50]
-标题: How the soaring federal debt affects you personally
-链接: https://finance.yahoo.com/personal-finance/investing/article/how-the-soaring-federal-debt-affects-you-personally-155000383.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:59]
-标题: Nebius (NBIS) Q2 2026 Earnings Call Transcript
-链接: https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-q2-2026-earnings-165907370.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 10:57]
-标题: Lowe's issues cautious outlook as CEO flags 'pressure' in DIY spending
-链接: https://finance.yahoo.com/markets/stocks/article/lowes-issues-cautious-outlook-as-ceo-flags-pressure-in-diy-spending-105716315.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 15:43]
-标题: Dollar weakens after Treasury boosts long-dated bond repurchases
-链接: https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 10:00]
-标题: Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 10:00]
-标题: Mortgage and refinance interest rates today, Wednesday, August 19, 2026: Surprisingly calm amid bond market volatility
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:57]
-标题: Should You Buy Tesla Stock While It's Trading Below $400?
-链接: https://finance.yahoo.com/markets/stocks/articles/buy-tesla-stock-while-trading-165755166.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:56]
-标题: Broadcom Drags the Nasdaq While the Dow and S&P 500 Climb
-链接: https://finance.yahoo.com/markets/stocks/articles/broadcom-drags-nasdaq-while-dow-165659103.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:48]
 标题: Life insurance rates: Average costs by age and policy
 链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-rates-184834481.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 19:19]
-标题: Life insurance for seniors: Best options by age and policy
-链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-for-seniors-191943523.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 18:53]
 标题: How to compare life insurance quotes
 链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-quotes-185319925.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 16:54]
-标题: Moderna and Merck Just Made History With the First mRNA Cancer Vaccine to Succeed in a Phase 3 Trial. Here's What That Means for Investors.
-链接: https://finance.yahoo.com/healthcare/articles/moderna-merck-just-made-history-165401274.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 19:19]
+标题: Life insurance for seniors: Best options by age and policy
+链接: https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-for-seniors-191943523.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 19:27]
 标题: U.S. Bank Business Altitude Connect review: Strong travel rewards, limited perks
 链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-altitude-connect-visa-signature-192717265.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-19 18:07]
+标题: Fed officials saw need for rate hike if inflation doesn't cool, minutes show
+链接: https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html
+正文: The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-19 15:41]
 标题: Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more
@@ -245,6 +112,11 @@
 正文: Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
+标题: Advancing American healthcare: An interview with Seema Verma
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma
+正文: A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
 标题: Some hard questions about a world of plenty
 链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty
 正文: Plenty may be possible—but what would it take to make it probable?
@@ -254,10 +126,10 @@
 链接: https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth
 正文: Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 17:18]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 18:20]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 17:18]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 18:20]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
