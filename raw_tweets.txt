@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-19 21:17:06
-# 共计 21 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-19 22:15:06
+# 共计 22 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-19 12:10]
 标题: The Download: AI’s self-improvement problem, and what’s driving the heat
@@ -14,6 +14,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-19 13:48]
 标题: LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation
 链接: https://huggingface.co/blog/LiquidAI/qad
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 21:42]
+标题: Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护
+链接: https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4
+正文: Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到&quot;关键网络安全能力阈值&quot;，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 20:42]
+标题: FastMetal 让 Mac 本地 30 秒生成视频
+链接: https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8
+正文: 一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。 FastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。 三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。 📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 17:56]
 标题: 突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法
@@ -35,10 +45,9 @@
 链接: https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc
 正文: OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 21:26]
-标题: Mojo 语言正式开源，编译器与工具链全面开放
-链接: https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl
-正文: Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 10:00]
+标题: Mortgage and refinance interest rates today, Wednesday, August 19, 2026: Surprisingly calm amid bond market volatility
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-19 18:54]
 标题: Fed officials saw need for rate hike if inflation doesn't cool, minutes show
@@ -75,30 +84,25 @@
 链接: https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html
 正文: Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 21:29]
-标题: Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
-链接: https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html
-正文: Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
 标题: Advancing American healthcare: An interview with Seema Verma
 链接: https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma
 正文: A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
-标题: Some hard questions about a world of plenty
-链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty
-正文: Plenty may be possible—but what would it take to make it probable?
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
 标题: Michelle Williams on why public health is public wealth
 链接: https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth
 正文: Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 21:17]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-19 00:00]
+标题: Some hard questions about a world of plenty
+链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty
+正文: Plenty may be possible—but what would it take to make it probable?
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 22:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 21:17]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 22:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
