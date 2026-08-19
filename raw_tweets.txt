@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-18 23:13:26
-# 共计 30 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-19 00:42:56
+# 共计 24 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-18 12:10]
 标题: The Download: how people really use AI, and Flock’s design choices
@@ -24,10 +24,6 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 18:09]
 标题: How Much Memory Does Your Agent Actually Need?
 链接: https://huggingface.co/blog/ibm-research/altk-evolve-hmm
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-18 00:00]
-标题: Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers
-链接: https://huggingface.co/blog/multi-vector-encoder
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 22:27]
 标题: Claude 如何加速蛋白质设计与分析化学研究
@@ -69,25 +65,6 @@
 链接: https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05
 正文: 本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-18 00:00]
-标题: Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型
-链接: https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv
-正文: Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-17 23:58]
-标题: 一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案
-链接: https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf
-正文: 作者基于Reddit上&quot;让Claude真正开始思考&quot;的帖子，引入逻辑学中的&quot;钢人论证&quot;（steelman）概念，并自创了一个&quot;双向钢人Prompt&quot;。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-17 23:22]
-标题: 用 Google 的 Agent Development Kit 构建零信任 AI 智能体
-链接: https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j
-正文: Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 17:10]
-标题: Costco launching Medicare Advantage plans with SCAN Group
-链接: https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 10:00]
 标题: Mortgage and refinance rates today, Tuesday, August 18, 2026: Generally higher, yet the 30-year holds
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-18-2026-generally-higher-yet-the-30-year-holds-100000411.html
@@ -95,6 +72,11 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-18 10:00]
 标题: Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.30% APY today on a 16-month CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-430-apy-today-on-a-16-month-cd-100000469.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 23:58]
+标题: What Chinese liquor maker Moutai's slump says about the country's economy
+链接: https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html
+正文: Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-18 20:55]
 标题: Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more
@@ -126,20 +108,10 @@
 链接: https://www.cnbc.com/2026/08/17/synchrony-openai.html
 正文: The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-18 00:00]
-标题: How can the public sector meet the AI moment?
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector
-正文: AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-18 00:00]
-标题: Reinventing the European pulp and paper operating model
-链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model
-正文: Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-18 23:13]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-19 00:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-18 23:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-19 00:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
