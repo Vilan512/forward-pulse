@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-20 17:20:00
-# 共计 58 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-20 18:25:15
+# 共计 30 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-20 15:42]
 标题: Debates over AI consciousness are a trap
@@ -29,6 +29,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-20 16:52]
 标题: Up to 3.2x Faster Inference with LFM2.5-DSpark
 链接: https://huggingface.co/blog/LiquidAI/lfm25-dspark
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-20 17:56]
+标题: Anthropic 如何开展 AI 教学
+链接: https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65
+正文: Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及&quot;ever-boarding&quot;持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-20 16:52]
 标题: Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍
@@ -65,154 +70,37 @@
 链接: https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8
 正文: 一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。 FastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。 三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。 📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-19 17:56]
-标题: 突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法
-链接: https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh
-正文: LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 23:00]
 标题: Jim Cramer drops stunning take on the economy
 链接: https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:57]
-标题: Futu Holdings Limited Q2 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/futu-holdings-limited-q2-2026-165703553.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:57]
-标题: ScanSource, Inc. Q4 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/scansource-inc-q4-2026-earnings-165701589.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:52]
-标题: Trump administration moves ahead with new crypto rules, with key bill stalled in Congress
-链接: https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 09:03]
 标题: Bank of America sends message on Capital One stock
 链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 08:11]
-标题: Stock market today: Dow, S&P 500, Nasdaq slide as bond yields rebound after Treasury intervention, oil rises
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:51]
-标题: Stock Market Today: Dow Off On 'Economic D-Day' Threat; These Oil Stocks, ETFs Catch Fire (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:38]
-标题: AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance
-链接: https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:24]
-标题: Driver shortages, booming exports reshape US-Mexico freight market
-链接: https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 17:03]
-标题: Walmart Down 9%, Says $4 Gas Is Where Shoppers Start Cutting Back: 'Consumers Are Making Trade-Offs'
-链接: https://finance.yahoo.com/economy/articles/walmart-down-9-says-4-170339973.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:15]
-标题: What is a down payment?
-链接: https://finance.yahoo.com/news/down-payment-200052911.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:10]
-标题: Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case
-链接: https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-lost-customer-161042764.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:10]
-标题: Byline Bancorp (BY): Has This Bank Stock Reached Its Full Potential?
-链接: https://finance.yahoo.com/markets/stocks/articles/byline-bancorp-bank-stock-reached-161032959.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:10]
-标题: Americold Realty Trust (COLD): Why Was This Position Liquidated?
-链接: https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-cold-why-161022314.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 17:02]
-标题: Hovnanian Enterprises Q3 Earnings Call Highlights
-链接: https://finance.yahoo.com/real-estate/articles/hovnanian-enterprises-q3-earnings-call-170226237.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:10]
-标题: UMB Financial (UMBF): Why This Regional Bank Could Be Built for Long-Term Growth
-链接: https://finance.yahoo.com/markets/stocks/articles/umb-financial-umbf-why-regional-161012066.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:08]
-标题: IPG Photonics (IPG): Could a Manufacturing Recovery Spark a Stock Rebound?
-链接: https://finance.yahoo.com/markets/stocks/articles/ipg-photonics-ipg-could-manufacturing-160838268.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:08]
-标题: Huron Consulting Group (HURN): Is AI Fears Overblown for This Consulting Stock?
-链接: https://finance.yahoo.com/markets/stocks/articles/huron-consulting-group-hurn-ai-160826764.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 17:02]
-标题: LSI Industries Q4 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/lsi-industries-q4-earnings-call-170221203.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:07]
-标题: Mercury Systems (MRCY): Is This Defense Stock Entering a New Growth Phase?
-链接: https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-defense-stock-160733259.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:07]
-标题: Leaderboard Chip Stock Called 'Technology Disruptor'
-链接: https://www.investors.com/news/technology/sitime-stock-buy-rating-technology-disruptor/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:07]
-标题: MACOM Technology Solutions (MTSI): Can Data Center and 5G Demand Drive More Upside?
-链接: https://finance.yahoo.com/markets/stocks/articles/macom-technology-solutions-mtsi-data-160716918.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 19:34]
+标题: Best dining credit cards (August 2026)
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/dining-credit-cards-193453435.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 10:00]
-标题: Mortgage rates dropped last week despite heightened bond market volatility: Mortgage and refinance interest rates today, Thursday, August 20, 2026
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-last-week-despite-heightened-bond-market-volatility-mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-100000272.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 17:01]
-标题: The $109,000 Medicare IRMAA Cliff Is Ambushing Retirees: Here Is the Exact Dollar Penalty for Crossing by $1
-链接: https://finance.yahoo.com/healthcare/articles/109-000-medicare-irmaa-cliff-170126074.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:42]
-标题: Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding
-链接: https://finance.yahoo.com/markets/stocks/articles/rationale-behind-baron-focused-growth-154228414.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:40]
-标题: Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:36]
-标题: Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:33]
-标题: Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 17:00]
-标题: Prediction: AMD Stock Will Hit $650 on This Date
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-hit-650-170002128.html
+标题: Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-20-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000072.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 14:52]
 标题: Should you buy a Medicare Advantage plan from Costco? What you'll want to know.
 链接: https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-a-medicare-advantage-plan-from-costco-what-youll-want-to-know-145200301.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 18:07]
-标题: Does renters insurance cover pets, dog bites, and pet damage?
-链接: https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-pets-180714978.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:33]
+标题: Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:58]
-标题: Scott Bessent says Treasury buybacks could exceed $4 billion
-链接: https://finance.yahoo.com/economy/policy/articles/scott-bessent-says-treasury-buybacks-165805430.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:36]
+标题: Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-19 19:34]
-标题: Best dining credit cards (August 2026)
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/dining-credit-cards-193453435.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:56]
-标题: Micron’s $50 Billion Idaho Buildout Is Minting Millionaires and Straining Local Infrastructure
-链接: https://finance.yahoo.com/technology/ai/articles/micron-50-billion-idaho-buildout-165614798.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 16:54]
-标题: Pfizer Stock Is A Race Between New Drugs And Old Patents
-链接: https://finance.yahoo.com/healthcare/articles/pfizer-stock-race-between-drugs-165454073.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 10:00]
-标题: Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-20-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000072.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:40]
+标题: Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-20 17:05]
 标题: Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more
@@ -244,10 +132,10 @@
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai
 正文: Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-20 17:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-20 18:25]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-20 17:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-20 18:25]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
