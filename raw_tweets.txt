@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-21 17:20:15
-# 共计 53 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-21 18:23:32
+# 共计 26 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-21 12:10]
 标题: The Download: threats from space mirrors and credit for AI drugs
@@ -24,6 +24,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-21 00:00]
 标题: Measuring benchmark optimization in speech recognition
 链接: https://huggingface.co/blog/asr-benchmark-optimization
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:58]
+标题: Claude Mythos 5 网络安全能力扩展至更多防御者
+链接: https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s
+正文: Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:56]
+标题: SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启
+链接: https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu
+正文: SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:56]
+标题: Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%
+链接: https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl
+正文: 蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 14:28]
 标题: AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期
@@ -50,139 +65,20 @@
 链接: https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic
 正文: Hugging Face 最新研究引入三项测试量化语音识别中的基准优化（benchmaxxing）现象。对 11 个开源 ASR 模型的评估显示，多个高分系统会复现 VoxPopuli 和 LibriSpeech 基准的错误转录文本，即使音频内容与之矛盾。部分模型甚至依赖声学线索识别基准来源，导致其得分高估了真实转录能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:59]
-标题: Bond yields head higher again, giving back almost all gains since Treasury Department intervention
-链接: https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:59]
-标题: Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'
-链接: https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:50]
-标题: Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up
-链接: https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:45]
-标题: Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag
-链接: https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 23:00]
+标题: AT&T stands to gain as Verizon loses a customer related battle
+链接: https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 11:21]
 标题: Hyundai considers Georgia Metaplant expansion to 800,000 units
 链接: https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:43]
-标题: Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report
-链接: https://finance.yahoo.com/technology/articles/einride-ab-reports-growth-acceleration-164314486.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 17:43]
+标题: Kalshi traders think the bitcoin rally could end the year near current levels
+链接: https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html
+正文: Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 08:05]
-标题: Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges
-链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:41]
-标题: Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth
-链接: https://finance.yahoo.com/markets/stocks/articles/figure-technologies-figr-leverages-blockchain-164103050.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:40]
-标题: U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale
-链接: https://finance.yahoo.com/energy/articles/u-billionaires-piling-argentina-vaca-164010172.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 23:00]
-标题: AT&T stands to gain as Verizon loses a customer related battle
-链接: https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:31]
-标题: Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight
-链接: https://finance.yahoo.com/healthcare/articles/aveanna-healthcare-avah-just-ended-163157568.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:21]
-标题: A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test
-链接: https://finance.yahoo.com/energy/articles/landmark-power-deal-puts-fermi-162120325.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:17]
-标题: Global stocks close out a tough week as bond yields, oil stay high
-链接: https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:16]
-标题: Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 17:02]
-标题: Big Sky Industrial Targets Helium, Carbon Revenue in Phase I Launch
-链接: https://finance.yahoo.com/energy/articles/big-sky-industrial-targets-helium-170203217.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:13]
-标题: Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:11]
-标题: Stock Market Today: Dow Jumps After Sell-Off; Bitcoin Tops $77,000; Gold Miners Shine (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:10]
-标题: Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:10]
-标题: AI Chip Titan Nvidia Headlines Earnings Calendar; Salesforce, Intuit Also On Deck
-链接: https://www.investors.com/research/earnings-preview/nvidia-nvda-stock-earnings-calendar/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 17:00]
-标题: Cramer Targets Stanley Black & Decker as the Pick-and-Shovel Play on Home Renovation Boom
-链接: https://finance.yahoo.com/markets/stocks/articles/cramer-targets-stanley-black-decker-170026054.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:09]
-标题: Three Biotech Stocks Stick Out With Their Stellar Charts
-链接: https://www.investors.com/stock-lists/ibd-50/biotech-stocks-drug-eton-pharmaceuticals-travere-therapeutics-kiniksa-tvtx-knsa/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:01]
-标题: Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities
-链接: https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:42]
-标题: Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone
-链接: https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:33]
-标题: Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity
-链接: https://finance.yahoo.com/energy/articles/golar-lng-glng-just-locked-153353596.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 17:00]
-标题: Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach?
-链接: https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-boom-2x-stock-170014087.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:24]
-标题: Artificial intelligence could push up inflation - SNB's Tschudin says
-链接: https://finance.yahoo.com/economy/policy/articles/artificial-intelligence-could-push-inflation-152413855.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:08]
-标题: Bitcoin Nears $80K as Whales Accumulate, ETF Inflows Fuel Rally: Experts
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-80k-whales-accumulate-150800758.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:03]
-标题: Ross Stores Trounces Earnings, Set To Retake Buy Point
-链接: https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 17:00]
-标题: These 2 High-Yield Stocks Could Thrive If the Fed Starts Hiking Rates Again
-链接: https://finance.yahoo.com/markets/stocks/articles/2-high-yield-stocks-could-170007366.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:55]
-标题: SanDisk Stock Has Gone Parabolic. How China Could End the Party
-链接: https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-gone-parabolic-china-165539980.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 16:50]
-标题: Why I'm Wary of Most Housing Stocks, Except This One
-链接: https://finance.yahoo.com/real-estate/articles/why-im-wary-most-housing-165000345.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 10:00]
-标题: Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 10:00]
-标题: Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 16:21]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 17:38]
 标题: Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more
 链接: https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-midday-mrna-hood-bj-coin.html
 正文: These are some of the stocks posting the largest moves midday.
@@ -222,10 +118,10 @@
 链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle
 正文: Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-21 17:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-21 18:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-21 17:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-21 18:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
