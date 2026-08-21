@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-21 14:25:14
-# 共计 47 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-21 15:24:17
+# 共计 58 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-21 12:10]
 标题: The Download: threats from space mirrors and credit for AI drugs
@@ -34,6 +34,11 @@
 标题: Up to 3.2x Faster Inference with LFM2.5-DSpark
 链接: https://huggingface.co/blog/LiquidAI/lfm25-dspark
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 14:28]
+标题: AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期
+链接: https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe
+正文: Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 13:01]
 标题: 面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型
 链接: https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt
@@ -48,6 +53,11 @@
 标题: 每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究
 链接: https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs
 正文: 一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 00:00]
+标题: 测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型&quot;刷分&quot;现象
+链接: https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic
+正文: Hugging Face 最新研究引入三项测试量化语音识别中的基准优化（benchmaxxing）现象。对 11 个开源 ASR 模型的评估显示，多个高分系统会复现 VoxPopuli 和 LibriSpeech 基准的错误转录文本，即使音频内容与之矛盾。部分模型甚至依赖声学线索识别基准来源，导致其得分高估了真实转录能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-20 20:27]
 标题: Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具
@@ -74,6 +84,74 @@
 链接: https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6
 正文: AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 08:05]
+标题: Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges
+链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:55]
+标题: Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:50]
+标题: A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York
+链接: https://finance.yahoo.com/small-business/articles/pug-protruding-tongue-worlds-ugliest-145000955.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 11:21]
+标题: Hyundai considers Georgia Metaplant expansion to 800,000 units
+链接: https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:49]
+标题: Apple paid 40% of its global taxes to Ireland in last fiscal year
+链接: https://finance.yahoo.com/economy/policy/articles/apple-paid-40-global-taxes-144940102.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:49]
+标题: Moderna Stock Is Just The Start: Why AI-Focused Money Might Flow Into Biotech
+链接: https://www.investors.com/news/moderna-stock-start-of-ai-focused-money-in-biotech/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:46]
+标题: $32 million: The number incoming Apple CEO John Ternus has to beat to measure up to Tim Cook
+链接: https://finance.yahoo.com/technology/article/32-million-the-number-incoming-apple-ceo-john-ternus-has-to-beat-to-measure-up-to-tim-cook-144626360.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:40]
+标题: Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?
+链接: https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 23:00]
+标题: AT&T stands to gain as Verizon loses a customer related battle
+链接: https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:40]
+标题: Florida real estate mogul says your home is ‘a terrible investment’ — and he’d put $100K somewhere else. Is he right?
+链接: https://finance.yahoo.com/real-estate/articles/florida-real-estate-mogul-says-144000147.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:32]
+标题: Stock Market Today: Dow Bounces After Sell-Off; Bitcoin Jumps Near $77K, Ross Pops On Outlook (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:31]
+标题: Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review
+链接: https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:15]
+标题: Crypto Miner Poolin Files For Bankruptcy
+链接: https://finance.yahoo.com/markets/crypto/articles/crypto-miner-poolin-files-bankruptcy-141500892.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:04]
+标题: Saudi Power Procurement signs four BESS agreements worth $1.16bn
+链接: https://finance.yahoo.com/energy/articles/saudi-power-procurement-signs-four-150434913.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:15]
+标题: Indiana family discovers $100K in hidden damage after buying $200K home — Ramsey hosts weigh the $30K gamble to sue
+链接: https://finance.yahoo.com/real-estate/articles/indiana-family-discovers-100k-hidden-141500156.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:10]
+标题: Dollar near three-month low on Treasury buyback worries
+链接: https://finance.yahoo.com/markets/currencies/articles/dollar-falls-as-investors-weigh-us-treasurys-rescue-efforts-053406923.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:05]
+标题: Analysts Dividend On Where Bitcoin Goes From Here
+链接: https://finance.yahoo.com/markets/crypto/articles/analysts-dividend-where-bitcoin-goes-140500964.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:01]
 标题: This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion
 链接: https://www.investors.com/research/ibd-stock-analysis/relay-therapeutics-dynamo-biotech-puts-ai-fueled-breakout-in-motion/?src=A00220&yptr=yahoo
@@ -90,57 +168,21 @@
 标题: The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia’s Trap and Microsoft’s Opportunity
 链接: https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-capex-gap-140007152.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 11:21]
-标题: Hyundai considers Georgia Metaplant expansion to 800,000 units
-链接: https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 13:57]
 标题: Stocks trade higher, lifted by crypto, commodities: AlphaCheck
 链接: https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 13:51]
-标题: Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 13:45]
 标题: Jim Cramer Raves About Airbnb As the Travel Giant Becomes an AI-Powered Play
 链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-raves-airbnb-travel-134543792.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 08:05]
-标题: Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges
-链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:08]
-标题: Zurich Australia finalises $275m ClearView Wealth takeover
-链接: https://finance.yahoo.com/markets/stocks/articles/zurich-australia-finalises-275m-clearview-140825347.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 13:32]
 标题: Applied Industrial’s (AIT) Record Quarter Reignites The Growth Story
 链接: https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:07]
-标题: Bank of America predicts big changes for Apple after Tim Cook
-链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-predicts-big-changes-140700487.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:03]
-标题: UBS lifts UK earnings forecast but keeps market at neutral
-链接: https://finance.yahoo.com/markets/stocks/articles/ubs-lifts-uk-earnings-forecast-140300299.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:03]
-标题: Largo Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/largo-q2-earnings-call-highlights-140300987.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:02]
-标题: BJ's Wholesale Club Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-club-q2-earnings-140259479.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 14:52]
-标题: Should you buy a Medicare Advantage plan from Costco? What you'll want to know.
-链接: https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-a-medicare-advantage-plan-from-costco-what-youll-want-to-know-145200301.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:03]
-标题: Flag Ship Acquisition Eyes AI Compute, Aircraft Engines to Drive Cash Flow Growth
-链接: https://finance.yahoo.com/technology/ai/articles/flag-ship-acquisition-eyes-ai-140300506.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 15:00]
+标题: Marvell’s $12.2 Billion Google Deal Changes the Bull Case for MRVL Stock
+链接: https://finance.yahoo.com/markets/stocks/articles/marvell-12-2-billion-google-150056156.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-20 15:33]
 标题: Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
@@ -154,19 +196,23 @@
 标题: Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:02]
-标题: Flowers Foods Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/flowers-foods-q2-earnings-call-140259029.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:02]
-标题: Prospect Capital Q4 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/prospect-capital-q4-earnings-call-140259652.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:57]
+标题: Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-higher-1-2-145728098.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 10:00]
 标题: Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 14:06]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 14:57]
+标题: Walmart Beat Earnings and Raised Guidance. So Why Did the Stock Crash?
+链接: https://finance.yahoo.com/markets/stocks/articles/walmart-beat-earnings-raised-guidance-145701470.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 10:00]
+标题: Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 15:10]
 标题: Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency
 链接: https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html
 正文: Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.
@@ -201,10 +247,10 @@
 链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle
 正文: Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-21 14:25]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-21 15:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-21 14:25]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-21 15:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
