@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-08-22 05:18:35
+# ForwardPulse 原始情报收割 — 2026-08-22 06:23:48
 # 共计 28 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-21 12:10]
@@ -21,15 +21,15 @@
 链接: https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/
 正文: A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The goal is to test the feasibility of the company’s plans to launch up to 50,000 larger satellites, measuring 54 by 54 meters, and reflect sunlight to Earth on demand. The case for doing this remains somewhat uncertain, but Reflect Orbital has said the goal is to prolong the hours of sunlight for various uses, including solar panel charging, emergency response, and military activities. The launch, which was approved by the Federal Communications Commission in July, has been met with disbelief by astronomers and environmental groups. “This is incompatible with astronomy,” says Samantha Lawler, an astronomer at the University of Regina in Canada. “There is no way you can do this and preserve dark skies.” Miroslav Kocifaj, an astronomer at the Slovak Academy of Sciences, and his colleagues have now calculated the broader effect on the night sky. In a new paper published online and accepted for publication in the space journal Astrophysical Journal Letters, they studied the extent to which the light the satellites beamed to the ground would scatter. They found that within the beam’s target area, intended to be a circular patch five kilometers across, a single Reflect Orbital satellite would appear about 40 times brighter than the full moon in the sky. As far as 14 kilometers away from the center of the beam, the satellite would still be as bright as the full moon.&nbsp; Combining the beams of 400 satellites, which Reflect Orbital eventually plans to do, would yield a light as bright as 10,000 full moons within the five-kilometer area, or 2.4% as bright as the sun. Even up to 80 kilometers away, Kocifaj and his colleagues calculated, this combined be
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-22 04:36]
+标题: 蚂蚁百灵为SGLang推出权重缓存守护进程
+链接: https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y
+正文: 今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:58]
 标题: Claude Mythos 5 网络安全能力扩展至更多防御者
 链接: https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s
 正文: Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:56]
-标题: SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启
-链接: https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu
-正文: SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-21 17:56]
 标题: Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%
@@ -80,13 +80,13 @@
 标题: Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 18:53]
-标题: U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value
-链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 18:25]
 标题: U.S. Bank Smartly Visa Signature Card review: Earn 2% cash back or more on every purchase
 链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-smartly-visa-signature-card-182536863.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-21 18:53]
+标题: U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value
+链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-21 17:43]
 标题: Kalshi traders think the bitcoin rally could end the year near current levels
@@ -123,10 +123,10 @@
 链接: https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html
 正文: Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-22 05:18]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-22 06:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-22 05:18]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-22 06:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
