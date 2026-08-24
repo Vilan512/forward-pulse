@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-24 19:22:00
-# 共计 22 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-24 20:19:12
+# 共计 26 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-24 14:20]
 标题: How to encourage smarter AI use in the classroom
@@ -16,6 +16,11 @@
 链接: https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/
 正文: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&nbsp; Now there are two.&nbsp; Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built?&nbsp; Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama&nbsp;3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, say
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-24 18:02]
+标题: MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议
+链接: https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4
+正文: Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-24 15:00]
 标题: NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍
 链接: https://aihot.virxact.com/items/cmt7e0g7y232wro738qg82x67
@@ -26,25 +31,30 @@
 链接: https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0
 正文: OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-24 12:00]
+标题: GPT-5.6 登陆 Kiro，为开发者提升性价比
+链接: https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44
+正文: GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型。在 Terminal-Bench 2.1 测试中，GPT-5.6 Terra 在 Kiro 内完成任务成本降低约 82%。该更新由 OpenAI 与 AWS 合作优化，旨在以更少迭代和更高 token 价值帮助开发者产出更高质量的代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 02:47]
 标题: Walmart stock price target reset by JPMorgan after earnings
 链接: https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 10:00]
-标题: HELOC and home equity loan rates today, Monday, August 24, 2026: A 19-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-24-2026-a-19-basis-point-differential-100000242.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 10:00]
 标题: Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 10:00]
+标题: Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-24-2026-lock-in-up-to-435-apy-100000203.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 10:00]
 标题: Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 10:00]
-标题: Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-24-2026-lock-in-up-to-435-apy-100000203.html
+标题: HELOC and home equity loan rates today, Monday, August 24, 2026: A 19-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-24-2026-a-19-basis-point-differential-100000242.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 12:39]
 标题: Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
@@ -62,6 +72,10 @@
 标题: Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-24 19:26]
+标题: Best credit cards for groceries (2026)
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/grocery-credit-cards-192642748.html
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-24 18:40]
 标题: Prediction market traders doubtful Bessent’s bond interventions will push yields lower
 链接: https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html
@@ -72,7 +86,7 @@
 链接: https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html
 正文: Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-24 14:02]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-24 20:02]
 标题: Crypto extends gains after biggest 3-day rally since 2023
 链接: https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html
 正文: Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
@@ -92,10 +106,15 @@
 链接: https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html
 正文: Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-24 19:22]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-24 00:00]
+标题: Where AI agents pay off: A practical guide to the economics of agentic workflows
+链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows
+正文: Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-24 20:19]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-24 19:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-24 20:19]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
