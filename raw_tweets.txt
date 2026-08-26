@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-26 18:51:03
-# 共计 40 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-26 21:29:39
+# 共计 36 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 19:00]
+标题: The inside story on why OpenAI agents hacked Hugging Face
+链接: https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
+正文: The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered. But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve. “It’s not something you can solve overnight,” says Kai Chen, who runs OpenAI’s alignment research team. “There are challenges we’ve been tracking for a very long time, and we’re now seeing them with much greater precision.” The Hugging Face hack was a product of months of misbehavior from OpenAI agents, first as they were being trained and then as their abilities were being evaluated. This May, agents in training figured out how to use OpenAI’s infrastructure to communicate with one another and get support with difficult training tasks, including some that were impossible to solve without hacking or otherwise misbehaving. That “message board” was shut down. Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. They were supposed to be isolated from the internet, but by working together they managed to get online, hack Hugging Face, and obtain solutions for the cybersecurity problems that had stumped them. Based on their investigation, OpenAI researchers believe that events during the trainin
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 12:10]
 标题: The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
@@ -21,39 +26,14 @@
 链接: https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
 正文: It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in the water, and across the lake to the Olympic Mountains that define the horizon. It’s gorgeous. And vaguely terrifying. Because if the scene is placid, the messenger is not. Seated across from me at a conference room table, Bill Gates is rocking back and forth in his chair, totally animated. And the more he has to say—about the threats of terror or economic collapse or just losing control of our AI systems—the more agitated I find myself becoming, too. The philanthropist and former Microsoft CEO says he has been growing increasingly alarmed by the rate of change at which AI technology is advancing, especially since guardrails are not keeping pace. In a new essay published today, Gates argues that we have passed the points where multiple potential dangers should have been checked. “We’ve crossed the threshold in terms of [AI’s] bio-capabilities, cyber-capabilities, psychosocial capabilities, job-market-destruction capabilities, and even the lack of control,” he said in an interview with MIT Technology Review about his new memo. “I’m just stunned at the lack of concern and discussion outside of the industry.” In an effort to wake the world up to what he sees as a rapidly growing societal disrupter, the 70-year-old tech titan has begun sounding the alarm as a “shrill voice,” both publicly with his new essay (the first of multiple he plans on the topic) and in meetings with the press, and privately in conversations with industry, government, and civil society leaders. And while Gates is calling attention to a number of issues, his warnings about the bio-capabilities of the current frontier models are especially chilling. “Any model that can make nove
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: Addressing a sticking point in sustainable adhesives
-链接: https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/
-正文: Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not get recycled,” says Patty Ferreira, MBA ’97, CEO and cofounder of&nbsp;Silvis Materials, which is combating this problem with its fully biodegradable cellulose adhesives.&nbsp; When Ferreira began thinking about bio-based adhesives, in 2014, she started by modifying cellulose’s existing role as a stabilizer in adhesive emulsions and replicating the known adhesive properties of more expensive nanocellulose. Today, the formula can make adhesives from virtually every type of plant cellulose, and the&nbsp;MIT Startup Exchange&nbsp;(STEX) is helping Silvis work with packaging and construction companies to test the results. She expects the adhesive to cut production emissions by up to 80% and use half the energy of fossil-based glues. Read more at www.technologyreview.com/alumni-profiles.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: YouTuber finds niche as college admissions mentor
-链接: https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/
-正文: As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and life hacks. He is also the CEO and cofounder of Next Admit, a consulting business that provides help with college essays, applications, and test preparation. “I’m on a mission to help students worldwide succeed inside and outside of school,” he says. Born in Pakistan, Khan moved to the United States when he was six months old and grew up in Connecticut, attending a public high school that rarely sent students to top colleges. “That, coupled with the fact that my parents hadn’t gone through the process themselves, made [applying to colleges] a little bit difficult,” he says. “I wanted to demystify the admissions process for a lot of people in the position I was once in.” Read more at www.technologyreview.com/alumni-profiles.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: Launching youth entrepreneurship
-链接: https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/
-正文: Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education isn’t preparing them.” That’s why in 2012 Stach founded LaunchX, a for-profit entrepreneurship program that helps high school students build practical skills through an intensive summer program in which they start real companies. Stach says that students form teams, identify a problem, and build an actual product or service that they then take to market—often generating preorders or even revenue before the four-week program ends. Raised in Texas and the Carolinas, Stach majored in mechanical engineering at MIT and earned her MBA from Harvard Business School in 2011. She ran her first summer program on MIT’s campus with 30 students in 2013 and says “it kind of snowballed.” LaunchX now serves about 500 students per year across both in-person and online programs. Read more at www.technologyreview.com/alumni-profiles.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: A new stamp on cyberfraud prevention
-链接: https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/
-正文: For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer of ­MaxMind, whose work with IP-address location data and fraud prevention has made it a go-to resource. Streaming companies, security vendors, merchants, and ad-network providers use its signature tool, GeoIP, to determine how and where users are accessing services. This information makes it possible to ensure retail sites are using the correct currency, flag suspicious bank logins, and more. Young’s passion for engineering was shaped by internships, and he has paid it forward by volunteering at his children’s California high school and trying to keep up with what “the next generation of engineers are tinkering with.” The next generation of product innovation at MaxMind excites him too. “Working with my team to try to find patterns in data and solve challenging problems—to me, there’s no greater joy,” he says. Read more at www.technologyreview.com/alumni-profiles.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: AgeLab research inspires an A I startup
-链接: https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/
-正文: When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for his wife, earned an MIT degree in electrical engineering and a master’s in physics from Northeastern. “What I took from MIT was a good education and the feeling I could solve difficult problems,” he says. One such problem: Many older adults “can’t even use a modern cell phone,” he says, “and very few people can use something like an Apple Watch.” So Kiwi Health, which he founded in October 2024, sells a wristband controlled primarily by voice. Wearers can set reminders, make calls, send texts, and share health data, all without navigating screens. AI helps interpret these commands, accounting for the way voices may change with age. The device also measures health metrics and automatically alerts caregivers to falls.&nbsp; Yansen’s hope, he says, is that it can “help seniors live the best life that they can.” Read more at www.technologyreview.com/alumni-profiles.
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: Amping up T cells to target cancer
-链接: https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
-正文: Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can cause severe side effects. Now MIT chemical engineer Daniel Anderson and colleagues at MIT, Harvard, and the University of Houston have reported promising results with a different way of attacking the problem: amplifying the T-cell response to mRNA vaccines. The advance could lead to much more powerful cancer vaccines as well as stronger protection against infectious diseases. Most vaccines generate not only antibodies but also T cells that can activate antigen-­presenting cells, which help tell the immune system what to attack. In their study, the researchers boosted that response with a new type of vaccine adjuvant (a material that can help stimulate the immune system). It consists of mRNA molecules encoding two genes that can switch immune cells into a more active state by turning on certain signaling pathways.&nbsp; In studies of mice modeling bladder cancer, colon carcinoma, melanoma, metastatic lung cancer, and more, injections of lipid nanoparticles containing the mRNA-­encoded adjuvant enabled the immune system to slow growth of some tumors and eradicate many others. This happened even when the mice were not given a vaccine against a specific cancer antigen, but when they were, the response was stronger still.&nbsp; “When these adjuvant mRNAs are included in the vaccines, the number of antigen-targeted T cells is substantially increased. These T cells play an important role in the immune response,” Anderson says. The mRNA adjuvant also enhanced the immune response to immunotherapy drugs called checkpoint blockade inhibitors, which work by lifting a brake that tumor cells put on T 
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-26 00:00]
 标题: Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers
 链接: https://huggingface.co/blog/train-multi-vector-encoder
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 20:10]
+标题: GlucoFM：面向连续血糖监测的基础模型
+链接: https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe
+正文: Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 18:02]
 标题: Claude in Chrome 正式全面上线
@@ -111,6 +91,11 @@
 正文: 腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta7honk0553roj21gque0zw
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 00:00]
+标题: OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统
+链接: https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2
+正文: OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 00:00]
 标题: 用 Sentence Transformers 训练与微调多向量嵌入模型
 链接: https://aihot.virxact.com/items/cmta64hk303hqroj2edkgrcxi
 正文: Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，支持 ColBERT 风格的后交互检索，并配套完整训练流程。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta64hk303hqroj2edkgrcxi
@@ -122,10 +107,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:19]
 标题: Meta, states discuss mid-trial settlement in teen addiction case
 链接: https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 20:57]
-标题: FICO credit scores are holding up, but consumers are under pressure
-链接: https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
@@ -181,10 +162,10 @@
 链接: https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value
 正文: AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise be missed.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 18:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 21:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 18:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 21:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
