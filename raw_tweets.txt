@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-26 11:20:16
-# 共计 56 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-26 12:32:51
+# 共计 59 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 12:10]
+标题: The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+链接: https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from social media. Schools across the US are ditching iPads and Chromebooks for actual books. Kids themselves seem to be embracing this tech skepticism too: the hottest gadget for Gen Alpha is a vintage Sony Walkman. A surprising—maybe troubling—number of people who work in big tech also keep their kids at arm’s distance from technology. They lock down their phones, if they have phones at all, and keep them off social media. Hell, even Mark Zuckerberg doesn’t publicly post his children’s faces on Facebook or Instagram. Yet there is no hiding from technology. It permeates nearly everything, everywhere. We have to prepare our children to live in the actual world we have actually created, not the one we wish we had. How can we help kids survive and thrive in what we have wrought? That&#8217;s what the new Kids issue of MIT Technology Review is all about. With the help of the editors of Anyway, a fantastic magazine for teens and tweens, we explore how young people really feel about AI, the support networks helping kids through the polycrisis, and what happens when a child&#8217;s robot best friend dies. We also ask why kids outlearn AI, whether monitoring apps are really keeping children safe online, how schools can encourage smarter AI use, and what happens when technology begins to reshape childhood itself, courtesy of exclusive new fiction from author and AI ethicist Jenny Williams. Together, these stories examine how childhood is changing in an age of AI—and how we can help kids navigate the world we&#8217;ve made. Subscribe now to read the print issue in full. Bill Gates says we’ve passed AI’s danger thresholds. Now what? —Mat Honan It’s a
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 09:00]
 标题: Raised on AI
@@ -46,23 +51,9 @@
 链接: https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
 正文: Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can cause severe side effects. Now MIT chemical engineer Daniel Anderson and colleagues at MIT, Harvard, and the University of Houston have reported promising results with a different way of attacking the problem: amplifying the T-cell response to mRNA vaccines. The advance could lead to much more powerful cancer vaccines as well as stronger protection against infectious diseases. Most vaccines generate not only antibodies but also T cells that can activate antigen-­presenting cells, which help tell the immune system what to attack. In their study, the researchers boosted that response with a new type of vaccine adjuvant (a material that can help stimulate the immune system). It consists of mRNA molecules encoding two genes that can switch immune cells into a more active state by turning on certain signaling pathways.&nbsp; In studies of mice modeling bladder cancer, colon carcinoma, melanoma, metastatic lung cancer, and more, injections of lipid nanoparticles containing the mRNA-­encoded adjuvant enabled the immune system to slow growth of some tumors and eradicate many others. This happened even when the mice were not given a vaccine against a specific cancer antigen, but when they were, the response was stronger still.&nbsp; “When these adjuvant mRNAs are included in the vaccines, the number of antigen-targeted T cells is substantially increased. These T cells play an important role in the immune response,” Anderson says. The mRNA adjuvant also enhanced the immune response to immunotherapy drugs called checkpoint blockade inhibitors, which work by lifting a brake that tumor cells put on T 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-25 21:00]
-标题: Taking your temperature from the inside
-链接: https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/
-正文: Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by four millimeters. To create it, the researchers built a circuit that can fit on a one-square-­millimeter silicon chip and designed an oscillator based on leakage current—the small current that flows through a circuit when it’s off. Its frequency varies depending on the temperature of the chip’s surroundings. The circuit detects temperature within 0.01 °C and can be powered with a 1.55-volt coin cell battery. A strategy known as backscattering further cuts energy consumption, allowing most of the power requirements to be outsourced to an antenna outside the body. It emits an ultra-high-frequency radio wave, which is modulated by an antenna within the sensor and sent back to the external one. By interpreting the changes in the radio wave, the external antenna can calculate the temperature value. The result is “the smallest ingestible capsule that we have seen for temperature-­sensing paradigms,” says Saransh Sharma, a former MIT postdoc now at the University of Cambridge, who is lead author of a paper on the work.&nbsp; The researchers envision using it to monitor infection, observe patients during and after anesthesia, track fevers in children, help mark ovulation, and more. It could also be used to monitor athletes, soldiers, or anyone else exposed to extreme temperatures.&nbsp; “A sensor like this gives us&nbsp;the ability to monitor infections and identify them early,” says Giovanni Traverso, an associate professor of mechanical engineering and one of the paper’s senior authors, along with MIT provost Anantha Chandrakasan. “That’s very relevant, particularly for at-risk populations like people who are immunosuppressed.” Ultimately, he hopes, it could
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-25 15:14]
 标题: Granite 4.2 LLMs: How They're Built
 链接: https://huggingface.co/blog/ibm-granite/granite-4-2
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-08-25 11:39]
-标题: Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original
-链接: https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 21:12]
-标题: LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪
-链接: https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84
-正文: LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 18:16]
 标题: OpenWorker 新版发布，内置网络安全智能体
@@ -98,117 +89,142 @@
 标题: Louis Navellier has blunt message on Nvidia’s reign before earnings
 链接: https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:17]
+标题: Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:15]
+标题: Warren Buffett is ‘still in the game’: The Omaha Oracle may be making more Berkshire investment decisions than you think
+链接: https://finance.yahoo.com/markets/stocks/articles/warren-buffett-still-game-omaha-121500344.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
+标题: Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.
+链接: https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
+标题: Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:20]
+标题: OpenAI head of data centers Chris Malone exits amid departures
+链接: https://finance.yahoo.com/technology/ai/articles/openai-head-data-centers-chris-122005837.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 08:18]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings
+标题: Stock market today: Dow, S&P 500 futures hold steady ahead of inflation data, Nvidia earnings
 链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:01]
+标题: Stock Market Today: Dow Steady Ahead Of Inflation Data; Nvidia Earnings Due After Close (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
+标题: Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
+标题: Four Fed bank boards wanted rate hike before July 2026 hold
+链接: https://finance.yahoo.com/economy/policy/articles/four-fed-bank-boards-wanted-120828915.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
+标题: This Industrial Leader's Sails Catch AI, Energy, Other Tailwinds
+链接: https://www.investors.com/research/breakout-stocks-technical-analysis/emerson-electric-emr-stock-ai-data-centers/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:59]
+标题: Zoom Stock Retreats As Guidance Underwhelms Amid Consumer Slowdown
+链接: https://www.investors.com/news/technology/zoom-stock-zm-zoom-earnings-q22026/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
+标题: World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results
+链接: https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
+标题: Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.
+链接: https://www.investors.com/news/technology/google-stock-blodget-openai-ipo-netscape/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:07]
+标题: Blockchain Association Urges SEC, CFTC to Bring Equity Perpetuals to US Markets
+链接: https://finance.yahoo.com/markets/crypto/articles/blockchain-association-urges-sec-cftc-120716731.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
+标题: Are you 50 years old with very little savings? Here’s a shockingly simple 3-step plan to retire by 58
+链接: https://finance.yahoo.com/markets/articles/50-years-old-very-little-114500079.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:44]
+标题: Dick's Sporting Goods' stock crash reveals a major problem for struggling Nike
+链接: https://finance.yahoo.com/markets/stocks/article/dicks-sporting-goods-stock-crash-reveals-a-major-problem-for-struggling-nike-114409937.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:42]
+标题: Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets
+链接: https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:38]
+标题: As Cook case smolders, Trump has other paths to shape Fed policy team
+链接: https://finance.yahoo.com/economy/policy/articles/as-cook-case-smolders-trump-has-other-paths-to-shape-fed-policy-team-100943841.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:06]
+标题: Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History.
+链接: https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:30]
+标题: US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says
+链接: https://finance.yahoo.com/economy/policy/articles/us-rates-rise-soon-absent-150621599.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:30]
+标题: 'Day of reckoning': Moody's economist Mark Zandi warns that conditions for economic crisis are falling in place for US
+链接: https://finance.yahoo.com/economy/articles/day-reckoning-moodys-economist-mark-113000488.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:25]
+标题: Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think
+链接: https://finance.yahoo.com/economy/policy/articles/retire-while-trump-president-answer-112500157.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:05]
+标题: More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy
+链接: https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-110500496.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:05]
+标题: Salesforce vs CrowdStrike: One Stock Has the Clearer Path to Outperformance
+链接: https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-crowdstrike-one-stock-120532330.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:52]
 标题: Space tech VC funding tops 2025 in just six months
 链接: https://finance.yahoo.com/technology/articles/space-tech-vc-funding-tops-105200376.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:33]
-标题: Morning Bid: Falling oil calms nervy markets
-链接: https://finance.yahoo.com/markets/articles/morning-bid-falling-oil-calms-103319409.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:15]
-标题: Nearly $4.9T sits in target-date funds — Suze Orman warns you may be ‘far better off’ on your own. Diversify your mix
-链接: https://finance.yahoo.com/markets/articles/nearly-4-9t-sits-target-101500674.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:08]
-标题: Lotus Technology completes acquisition of Lotus UK
-链接: https://finance.yahoo.com/markets/stocks/articles/lotus-technology-completes-acquisition-lotus-110817596.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:09]
-标题: As Cook case smolders, Trump has other paths to shape Fed policy team
-链接: https://finance.yahoo.com/economy/policy/articles/cook-case-smolders-trump-other-100347841.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-26-2026-rates-down-across-the-board-100000670.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
-标题: Investigation into Dodgers owner is a reminder that 'zombie insurers' walk among us — critics warn 'they will blow up'
-链接: https://finance.yahoo.com/economy/policy/articles/investigation-dodgers-owner-reminder-zombie-100000986.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:07]
-标题: Eiffage secures two French hospital contracts worth $154m
-链接: https://finance.yahoo.com/healthcare/articles/eiffage-secures-two-french-hospital-110759509.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Best CD rates today, Wednesday, August 26, 2026: Earn up to 4.30% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-26-2026-earn-up-to-430-apy-100000859.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
-标题: Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 09:35]
-标题: 4 reasons Nvidia stock is lagging
-链接: https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:05]
-标题: Orior cuts sales forecast on pork prices, weather
-链接: https://finance.yahoo.com/markets/stocks/articles/orior-cuts-sales-forecast-pork-110549970.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 09:33]
-标题: Dollar inches higher ahead of US inflation data; Aussie gains on rate bets
-链接: https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:05]
-标题: Swiss food-and-drinks group Orior cuts sales forecast
-链接: https://finance.yahoo.com/markets/stocks/articles/swiss-food-drinks-group-orior-110549435.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 12:07]
-标题: Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-25-2026-gold-hits-3-month-high-this-morning-120736963.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:02]
-标题: Gunvor considers acquiring Silver Hill gas assets for up to $1.5bn
-链接: https://finance.yahoo.com/energy/articles/gunvor-considers-acquiring-silver-hill-110207867.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 12:15]
-标题: Silver prices today, Tuesday, August 25, 2026: Silver prices pull back slightly, but remain over $68
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-25-2026-silver-prices-pull-back-slightly-but-remain-over-68-121558361.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:01]
+标题: J. M. Smucker Q1 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-q1-earnings-120156381.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 12:33]
 标题: Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:01]
-标题: The S&P 500 Has Hit 27 Record Highs in 2026. Here's What History Says Comes Next
-链接: https://finance.yahoo.com/markets/stocks/articles/p-500-hit-27-record-110100517.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
+标题: Is MongoDB (MDB) Stock the Best AI Database Play Before September 1 Earnings?
+链接: https://finance.yahoo.com/technology/ai/articles/mongodb-mdb-stock-best-ai-120042570.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 20:57]
 标题: FICO credit scores are holding up, but consumers are under pressure
 链接: https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:50]
-标题: Billionaire David Tepper Sold Every Single Share of UnitedHealth in Q2. Here's Whether He Made a Costly Mistake.
-链接: https://finance.yahoo.com/healthcare/articles/billionaire-david-tepper-sold-every-105000847.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:58]
+标题: Calm Before the Storm: 3 Semiconductor Giants Share 1 Chart Pattern
+链接: https://finance.yahoo.com/markets/stocks/articles/calm-storm-3-semiconductor-giants-115840805.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:45]
-标题: Nvidia options point to potential $280 billion market value swing after earnings
-链接: https://finance.yahoo.com/markets/options/articles/nvidia-options-point-potential-280-104503544.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:56]
+标题: Futures flat as traders brace for inflation data and Nvidia
+链接: https://finance.yahoo.com/markets/stocks/articles/futures-flat-traders-brace-inflation-115600380.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:43]
-标题: Intuit shares plunge as cautious fiscal 2027 guidance falls short of forecasts
-链接: https://finance.yahoo.com/markets/stocks/articles/intuit-shares-plunge-cautious-fiscal-104320782.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:41]
-标题: Zoom beats quarterly forecasts and raises full-year outlook, but shares fall
-链接: https://finance.yahoo.com/markets/stocks/articles/zoom-beats-quarterly-forecasts-raises-104115822.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:40]
-标题: Billionaire Ken Griffin Increased His Stake in This Dividend King by 547% in Q2. Wall Street Thinks It's Still a Buy.
-链接: https://finance.yahoo.com/markets/stocks/articles/billionaire-ken-griffin-increased-stake-104000985.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:40]
-标题: SpaceX Just Announced a $100 Billion Starship Spaceport in Louisiana. Here's What It Means for Investors.
-链接: https://finance.yahoo.com/markets/stocks/articles/spacex-just-announced-100-billion-104001814.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:39]
-标题: Meta and U.S. states discuss possible settlement in teen social media addiction trial – Bloomberg
-链接: https://finance.yahoo.com/technology/articles/meta-u-states-discuss-possible-103911519.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 11:38]
+标题: Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
+链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-premarket-intu-zm-sedg.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 07:11]
 标题: China's short-drama producers flood the market with cheap bets — and let audiences pick the winners
@@ -230,20 +246,15 @@
 链接: https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html
 正文: The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-25 11:38]
-标题: Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more
-链接: https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-premarket-dks-amd-kura.html
-正文: These are the stocks posting the largest moves in early trading.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-25 13:53]
 标题: Crypto extends gains after biggest 3-day rally since 2023
 链接: https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html
 正文: Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 11:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 12:32]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 11:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 12:32]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
