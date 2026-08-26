@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-26 12:32:51
-# 共计 59 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-26 13:45:35
+# 共计 58 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 12:10]
 标题: The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
@@ -55,6 +55,16 @@
 标题: Granite 4.2 LLMs: How They're Built
 链接: https://huggingface.co/blog/ibm-granite/granite-4-2
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 12:34]
+标题: 通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览
+链接: https://aihot.virxact.com/items/cmta2x13k03t3rolwmr6pzc67
+正文: 通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta2x13k03t3rolwmr6pzc67
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 12:30]
+标题: Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览
+链接: https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay
+正文: 通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 18:16]
 标题: OpenWorker 新版发布，内置网络安全智能体
 链接: https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3
@@ -75,119 +85,81 @@
 链接: https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc
 正文: 在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 13:00]
-标题: Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio
-链接: https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv
-正文: Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 12:58]
-标题: Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升
-链接: https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu
-正文: Apple 推出首款 2nm 芯片 M6，搭载 12 核 CPU、12 核 GPU 及双 16 核神经引擎，统一内存带宽最高 170GB/s，多线程性能较 M5 提升 1.2 倍。M5 Ultra 采用首款四芯片封装架构，最高 36 核 CPU、80 核 GPU，带宽达 1.2TB/s，较 M3 Ultra 提升 50%。两款芯片分别用于新款 Mac mini 与 Mac Studio。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 21:47]
 标题: Louis Navellier has blunt message on Nvidia’s reign before earnings
 链接: https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 08:18]
+标题: Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom
+链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:37]
+标题: Meta To Pay $18 Billion In Federal Settlement. Stock Rallies.
+链接: https://www.investors.com/news/technology/meta-stock-federal-social-media-addiction-suit/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:52]
+标题: Sticky PCE inflation leaves a divided central bank ahead of Fed's Jackson Hole retreat
+链接: https://finance.yahoo.com/economy/policy/article/sticky-pce-inflation-leaves-a-divided-central-bank-ahead-of-feds-jackson-hole-retreat-125248345.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:30]
+标题: State Farm is distributing $5 billion to auto customers — with payouts reaching up to $173
+链接: https://finance.yahoo.com/healthcare/articles/state-farm-distributing-5-billion-133000036.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:36]
+标题: Vanguard to acquire fintech platform Altruist for $4 billion
+链接: https://finance.yahoo.com/markets/stocks/articles/vanguard-acquire-fintech-platform-altruist-133640757.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:23]
+标题: PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech (Live Coverage)
+链接: https://www.investors.com/news/pce-inflation-july-federal-reserve-warsh-jackson-hole/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:10]
+标题: Boston Scientific Hammered After Cyber Attack Tampers With Shipments
+链接: https://www.investors.com/news/technology/boston-scientific-stock-cybersecurity-incident/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:35]
+标题: Vanguard to acquire Altruist in Wealth Management Push
+链接: https://www.barrons.com/advisor/articles/vanguard-to-acquire-altruist-in-wealth-management-push-d7cc5151?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:01]
+标题: Stock Market Today: Dow Steady On Inflation Data; Nvidia Earnings Due After Close (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:49]
+标题: Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.
+链接: https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:49]
+标题: US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5%
+链接: https://finance.yahoo.com/economy/policy/articles/us-inflation-remains-sticky-july-124816701.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:42]
+标题: Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:31]
+标题: Stocks Waver After PCE Report. Nvidia Is the Market's Real Test.
+链接: https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/stocks-waver-after-pce-report-nvidia-is-the-market-s-real-test--rpbNRBw92Lgwsgx01ip3?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:35]
+标题: Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
+链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensable-123500321.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:30]
+标题: India’s Russian Oil Imports Slide From Record High as Supply Tightens
+链接: https://finance.yahoo.com/energy/articles/india-russian-oil-imports-slide-123000849.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:17]
 标题: Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
 链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:15]
-标题: Warren Buffett is ‘still in the game’: The Omaha Oracle may be making more Berkshire investment decisions than you think
-链接: https://finance.yahoo.com/markets/stocks/articles/warren-buffett-still-game-omaha-121500344.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
-标题: Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.
-链接: https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
 标题: Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:20]
-标题: OpenAI head of data centers Chris Malone exits amid departures
-链接: https://finance.yahoo.com/technology/ai/articles/openai-head-data-centers-chris-122005837.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 08:18]
-标题: Stock market today: Dow, S&P 500 futures hold steady ahead of inflation data, Nvidia earnings
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:01]
-标题: Stock Market Today: Dow Steady Ahead Of Inflation Data; Nvidia Earnings Due After Close (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
-标题: Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
-标题: Four Fed bank boards wanted rate hike before July 2026 hold
-链接: https://finance.yahoo.com/economy/policy/articles/four-fed-bank-boards-wanted-120828915.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
-标题: This Industrial Leader's Sails Catch AI, Energy, Other Tailwinds
-链接: https://www.investors.com/research/breakout-stocks-technical-analysis/emerson-electric-emr-stock-ai-data-centers/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:59]
-标题: Zoom Stock Retreats As Guidance Underwhelms Amid Consumer Slowdown
-链接: https://www.investors.com/news/technology/zoom-stock-zm-zoom-earnings-q22026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
-标题: World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results
-链接: https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
-标题: Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.
-链接: https://www.investors.com/news/technology/google-stock-blodget-openai-ipo-netscape/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:07]
-标题: Blockchain Association Urges SEC, CFTC to Bring Equity Perpetuals to US Markets
-链接: https://finance.yahoo.com/markets/crypto/articles/blockchain-association-urges-sec-cftc-120716731.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:45]
-标题: Are you 50 years old with very little savings? Here’s a shockingly simple 3-step plan to retire by 58
-链接: https://finance.yahoo.com/markets/articles/50-years-old-very-little-114500079.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:44]
-标题: Dick's Sporting Goods' stock crash reveals a major problem for struggling Nike
-链接: https://finance.yahoo.com/markets/stocks/article/dicks-sporting-goods-stock-crash-reveals-a-major-problem-for-struggling-nike-114409937.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:42]
-标题: Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets
-链接: https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:38]
-标题: As Cook case smolders, Trump has other paths to shape Fed policy team
-链接: https://finance.yahoo.com/economy/policy/articles/as-cook-case-smolders-trump-has-other-paths-to-shape-fed-policy-team-100943841.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:06]
-标题: Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History.
-链接: https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:30]
-标题: US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says
-链接: https://finance.yahoo.com/economy/policy/articles/us-rates-rise-soon-absent-150621599.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:30]
-标题: 'Day of reckoning': Moody's economist Mark Zandi warns that conditions for economic crisis are falling in place for US
-链接: https://finance.yahoo.com/economy/articles/day-reckoning-moodys-economist-mark-113000488.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:25]
-标题: Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think
-链接: https://finance.yahoo.com/economy/policy/articles/retire-while-trump-president-answer-112500157.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:05]
-标题: More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy
-链接: https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-110500496.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:05]
-标题: Salesforce vs CrowdStrike: One Stock Has the Clearer Path to Outperformance
-链接: https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-crowdstrike-one-stock-120532330.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:52]
-标题: Space tech VC funding tops 2025 in just six months
-链接: https://finance.yahoo.com/technology/articles/space-tech-vc-funding-tops-105200376.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:27]
+标题: J.M. Smucker Q1 2027 earnings beat, raises fiscal 2027 forecast
+链接: https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-q1-2027-132714753.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
@@ -197,36 +169,60 @@
 标题: Best CD rates today, Wednesday, August 26, 2026: Earn up to 4.30% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-26-2026-earn-up-to-430-apy-100000859.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:01]
-标题: J. M. Smucker Q1 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-q1-earnings-120156381.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:22]
+标题: Meta settles multistate teen social media lawsuit for $16.7 billion
+链接: https://finance.yahoo.com/media-advertising/articles/meta-settles-29-states-over-132242399.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 12:33]
-标题: Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:00]
-标题: Is MongoDB (MDB) Stock the Best AI Database Play Before September 1 Earnings?
-链接: https://finance.yahoo.com/technology/ai/articles/mongodb-mdb-stock-best-ai-120042570.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:21]
+标题: Is IBM Stock A Bargain After Its 28% Drawdown?
+链接: https://finance.yahoo.com/markets/stocks/articles/ibm-stock-bargain-28-drawdown-132118821.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 20:57]
 标题: FICO credit scores are holding up, but consumers are under pressure
 链接: https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:58]
-标题: Calm Before the Storm: 3 Semiconductor Giants Share 1 Chart Pattern
-链接: https://finance.yahoo.com/markets/stocks/articles/calm-storm-3-semiconductor-giants-115840805.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:20]
+标题: Kohl’s Falls 6% Despite Raised Guidance and a $150M Tariff Refund, Ross and TJX Hold Flat
+链接: https://finance.yahoo.com/markets/stocks/articles/kohl-falls-6-despite-raised-132046978.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:56]
-标题: Futures flat as traders brace for inflation data and Nvidia
-链接: https://finance.yahoo.com/markets/stocks/articles/futures-flat-traders-brace-inflation-115600380.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:20]
+标题: Cloudflare vs. Palo Alto Networks: Which Cybersecurity Stock Is the Better Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/cloudflare-vs-palo-alto-networks-132000201.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 11:38]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:19]
+标题: TWG Global Mark Walter pushes back on fraud reports amid federal probe
+链接: https://finance.yahoo.com/markets/stocks/articles/twg-global-mark-walter-pushes-131906314.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:19]
+标题: Nvidia, Meta, Intuit, Salesforce, Zoom, Kohl’s, and More Stocks That Explain Today’s Market
+链接: https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:18]
+标题: Rezolve AI Slides 4% on Profit-Taking After a 22% Google Cloud Rally, Alphabet Holds Flat
+链接: https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-slides-4-profit-131836077.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:17]
+标题: Savings Rebound in July
+链接: https://www.barrons.com/livecoverage/pce-inflation-report-fed-rates-gdp-q2/card/savings-rebound-in-july-OBgosxHydRdpf4zw9WhC?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:17]
+标题: Fidelity vs VanEck Healthcare ETFs: Broad Exposure or Pharma Focus
+链接: https://finance.yahoo.com/healthcare/articles/fidelity-vs-vaneck-healthcare-etfs-131701397.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:17]
+标题: Abercrombie & Fitch raises full-year outlook as Q2 earnings top estimates
+链接: https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-raises-full-outlook-131700391.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 13:15]
+标题: These 3 Companies Are Helping to Take Crypto Mainstream. Which Is the Best Crypto Stock to Buy Right Now?
+链接: https://finance.yahoo.com/markets/crypto/articles/3-companies-helping-crypto-mainstream-131500110.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 13:06]
 标题: Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
 链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-premarket-intu-zm-sedg.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 07:11]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 13:20]
 标题: China's short-drama producers flood the market with cheap bets — and let audiences pick the winners
 链接: https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html
 正文: The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.
@@ -251,10 +247,10 @@
 链接: https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html
 正文: Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 12:32]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 13:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 12:32]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 13:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
