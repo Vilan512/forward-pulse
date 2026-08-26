@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-26 16:10:34
-# 共计 61 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-26 18:51:03
+# 共计 40 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 12:10]
 标题: The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
@@ -55,6 +55,26 @@
 标题: Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers
 链接: https://huggingface.co/blog/train-multi-vector-encoder
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 18:02]
+标题: Claude in Chrome 正式全面上线
+链接: https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26
+正文: Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:30]
+标题: Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果
+链接: https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj
+正文: Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:02]
+标题: Warp 如何在 Claude 上构建自我改进的智能体
+链接: https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9
+正文: Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:01]
+标题: Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型
+链接: https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go
+正文: Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 15:32]
 标题: Qwen3.8-Flash 开源，Qwen4 架构预览
 链接: https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie
@@ -95,147 +115,46 @@
 链接: https://aihot.virxact.com/items/cmta64hk303hqroj2edkgrcxi
 正文: Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，支持 ColBERT 风格的后交互检索，并配套完整训练流程。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta64hk303hqroj2edkgrcxi
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 18:16]
-标题: OpenWorker 新版发布，内置网络安全智能体
-链接: https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3
-正文: Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-25 18:02]
-标题: Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑
-链接: https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8
-正文: Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 21:47]
 标题: Louis Navellier has blunt message on Nvidia’s reign before earnings
 链接: https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:58]
-标题: JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth
-链接: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:57]
-标题: DeFi Development Launches Real-Time Solana Data Platform
-链接: https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:53]
-标题: Meta Stock Rises As $18 Billion Social Media Trial Settlement Addresses 'Major Overhang'
-链接: https://www.investors.com/news/technology/meta-stock-federal-social-media-addiction-suit/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:41]
-标题: Stock Market Today: Dow Eases After Inflation Data; Nvidia Slips Before Earnings, Zoom Tanks (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:19]
 标题: Meta, states discuss mid-trial settlement in teen addiction case
 链接: https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 08:18]
-标题: Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:24]
-标题: Oil slips as investors focus on Hormuz talks
-链接: https://finance.yahoo.com/news/oil-prices-fall-2-on-iran-oman-talks-to-reopen-strait-of-hormuz-052337200.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:10]
-标题: Enbridge Buys $600 Million Permian Crude Network
-链接: https://finance.yahoo.com/energy/articles/enbridge-buys-600-million-permian-151012234.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:53]
-标题: JPMorgan Weighs Stablecoin as Bank Push Accelerates
-链接: https://finance.yahoo.com/markets/crypto/articles/jpmorgan-weighs-stablecoin-bank-push-155344255.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:54]
-标题: Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense
-链接: https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:49]
-标题: Inflation Ran a Little Hotter Than Expected in July
-链接: https://finance.yahoo.com/economy/articles/inflation-ran-little-hotter-expected-144912442.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:20]
-标题: Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans
-链接: https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:42]
-标题: Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:52]
-标题: Kevin Warsh Just Got Another Reason to Raise Rates in September
-链接: https://finance.yahoo.com/economy/policy/articles/kevin-warsh-just-got-another-155251514.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:17]
-标题: Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
-标题: Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 20:57]
+标题: FICO credit scores are holding up, but consumers are under pressure
+链接: https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-26-2026-rates-down-across-the-board-100000670.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:50]
-标题: Billionaires Are Quietly Loading Up on Amazon While It Trades Like a Value Stock
-链接: https://finance.yahoo.com/markets/stocks/articles/billionaires-quietly-loading-amazon-while-155000729.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
 标题: Best CD rates today, Wednesday, August 26, 2026: Earn up to 4.30% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-26-2026-earn-up-to-430-apy-100000859.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:43]
-标题: Tokenized deposits could cost banks $700B: Dallas Fed economists
-链接: https://finance.yahoo.com/video/tokenized-deposits-could-cost-banks-154326477.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
+标题: Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-25 20:57]
-标题: FICO credit scores are holding up, but consumers are under pressure
-链接: https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:17]
+标题: Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:40]
-标题: A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit?
-链接: https://finance.yahoo.com/markets/stocks/articles/leading-hedge-fund-just-placed-154000884.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:42]
+标题: Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:39]
-标题: Micron Technology Has Fantastic News for Memory Stock Investors
-链接: https://finance.yahoo.com/markets/stocks/articles/micron-technology-fantastic-news-memory-153900045.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:20]
+标题: Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans
+链接: https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:35]
-标题: Why Intuit Stock Dropped Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-intuit-stock-dropped-today-153506989.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:35]
-标题: Axon Enterprise vs. Booking Holdings: Evaluating Absolute Scale and Sequential Volatility in Quarterly Revenue Trends
-链接: https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-vs-booking-holdings-153501110.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:35]
-标题: Gold Has Soared to $4,600. Is It Too Late to Buy This ETF?
-链接: https://finance.yahoo.com/markets/commodities/articles/gold-soared-4-600-too-153500986.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:34]
-标题: Your 60/40 Portfolio May Be 100% Exposed to a Dying Dollar, Bitwise Says
-链接: https://finance.yahoo.com/markets/crypto/articles/60-40-portfolio-may-100-153442766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:30]
-标题: Palantir Stock Could Be in for a Big September. Here’s Why.
-链接: https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-big-september-153051987.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:30]
-标题: Abercrombie & Fitch Soars 37% on a $100M Tariff Refund and Raised Guidance, Ross and Kohl’s Hold Steady
-链接: https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-soars-37-100m-153035394.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:29]
-标题: XRP Leads Crypto Pullback as Leverage Unwind Tests Rally
-链接: https://finance.yahoo.com/markets/crypto/articles/xrp-leads-crypto-pullback-leverage-152949262.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:29]
-标题: Every Insurer’s Medigap Plan G Covers the Same Benefits. The Premium Isn’t and on Most Policies It Climbs Every Birthday.
-链接: https://finance.yahoo.com/healthcare/articles/every-insurer-medigap-plan-g-152911614.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 15:27]
-标题: Sanmina Stopped Retiring Stock, And Then Its Shares Pulled Back
-链接: https://finance.yahoo.com/markets/stocks/articles/sanmina-stopped-retiring-stock-then-152725617.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 16:15]
+标题: Stocks making the biggest moves midday: Meta, Abercrombie & Fitch, Zoom, Intuit & more
+链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-midday-meta-anf-zm-intu.html
+正文: These are some of the stocks posting the largest moves in midday trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 13:06]
 标题: Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
@@ -252,20 +171,20 @@
 链接: https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html
 正文: It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-25 17:29]
-标题: Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more
-链接: https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-midday-dks-mrvl-amd-kura.html
-正文: These are the stocks posting the largest moves midday.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-26 00:00]
 标题: Cross-border payments: Out of the commodity trap, into the future
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future
 正文: As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here is how industry players can make the pivot.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 16:10]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-26 00:00]
+标题: The decision dividend: How AI creates economic value
+链接: https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value
+正文: AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise be missed.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-26 18:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 16:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-26 18:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
