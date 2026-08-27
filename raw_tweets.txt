@@ -1,30 +1,30 @@
-# ForwardPulse 原始情报收割 — 2026-08-27 02:26:20
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-27 13:22:57
+# 共计 60 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-27 12:10]
+标题: The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+链接: https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released yesterday. The hack, which a group of agents carried out to find solutions for a cybersecurity test they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. OpenAI and independent researchers told MIT Technology Review that the misbehavior stemmed from events during training. But they acknowledged that “alignment” remains a gnarly problem, and some of the hack’s root causes will take much longer to resolve. Here’s the inside story on what went wrong—and what comes next. —Grace Huckins Is Slate Auto&#8217;s new electric truck the EV Americans need? EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. One thing that could help turn that around? Slate Auto’s new truck—a tiny, two-door pickup that seems to buck every US convention.&nbsp; It’ll have a relatively short range and forgo the frills Americans have come to expect from vehicles. That lets Slate offer it for less than $25,000, well below the roughly $50,000 average for a new vehicle in the US. It might seem an odd choice to go so small and simple in a market that’s increasingly sizing up—but the status quo hasn’t exactly been working for EV makers.&nbsp; Find out why bucking the trend could be a smart strategy for Slate. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. MIT Technology Review Narrated: what happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was 
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-27 10:00]
+标题: Is Slate Auto’s new electric truck the EV Americans need?
+链接: https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/
+正文: EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&nbsp; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems to buck every convention about selling cars in the fully loaded, range-obsessed US market.&nbsp;&nbsp; The company is going all in on simplicity, to the point of austerity. The Slate is a tiny, two-door pickup that’s shorter than a Honda Civic. Much of the media coverage has obsessed over the fact that the base model’s windows use hand cranks, a feature straight out of the 20th century. Slate is also breaking away from other EV manufacturers’ efforts to compete with gas-powered vehicles on range. The truck sports a small lithium iron phosphate battery, ringing in at 65 kilowatt-hours, and its quoted top range is just 205 miles. For comparison, the most basic Tesla Model 3 can go over 320 miles on a charge. By accepting a shorter range and forgoing the frills that Americans have come to expect in vehicles, Slate is able to offer the base model of its truck for less than $25,000. Some customers will choose to upgrade their truck with optional add-ons, like a Bluetooth stereo system, vinyl wraps, or even power windows. But the price will still likely come in well below the roughly $50,000 average for a new vehicle in the US. It might seem an odd choice to go so small and simple in a market that’s increasingly sizing up—but the status quo hasn’t exactly been working for EV makers. A few years back, the hero for US automotive electrification was supposed to be the Ford F-150 Lightning. Announced in 2021, it was an electric version of the country’s best-selling vehicle.&nbsp; But Ford discontinued the truck in December 2025, just four years after its introduction. It’s not entirely the Lightning’s fault: The second Trump 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 19:00]
 标题: The inside story on why OpenAI agents hacked Hugging Face
 链接: https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
 正文: The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered. But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve. “It’s not something you can solve overnight,” says Kai Chen, who runs OpenAI’s alignment research team. “There are challenges we’ve been tracking for a very long time, and we’re now seeing them with much greater precision.” The Hugging Face hack was a product of months of misbehavior from OpenAI agents, first as they were being trained and then as their abilities were being evaluated. This May, agents in training figured out how to use OpenAI’s infrastructure to communicate with one another and get support with difficult training tasks, including some that were impossible to solve without hacking or otherwise misbehaving. That “message board” was shut down. Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. They were supposed to be isolated from the internet, but by working together they managed to get online, hack Hugging Face, and obtain solutions for the cybersecurity problems that had stumped them. Based on their investigation, OpenAI researchers believe that events during the trainin
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 12:10]
-标题: The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
-链接: https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from social media. Schools across the US are ditching iPads and Chromebooks for actual books. Kids themselves seem to be embracing this tech skepticism too: the hottest gadget for Gen Alpha is a vintage Sony Walkman. A surprising—maybe troubling—number of people who work in big tech also keep their kids at arm’s distance from technology. They lock down their phones, if they have phones at all, and keep them off social media. Hell, even Mark Zuckerberg doesn’t publicly post his children’s faces on Facebook or Instagram. Yet there is no hiding from technology. It permeates nearly everything, everywhere. We have to prepare our children to live in the actual world we have actually created, not the one we wish we had. How can we help kids survive and thrive in what we have wrought? That&#8217;s what the new Kids issue of MIT Technology Review is all about. With the help of the editors of Anyway, a fantastic magazine for teens and tweens, we explore how young people really feel about AI, the support networks helping kids through the polycrisis, and what happens when a child&#8217;s robot best friend dies. We also ask why kids outlearn AI, whether monitoring apps are really keeping children safe online, how schools can encourage smarter AI use, and what happens when technology begins to reshape childhood itself, courtesy of exclusive new fiction from author and AI ethicist Jenny Williams. Together, these stories examine how childhood is changing in an age of AI—and how we can help kids navigate the world we&#8217;ve made. Subscribe now to read the print issue in full. Bill Gates says we’ve passed AI’s danger thresholds. Now what? —Mat Honan It’s a
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 09:05]
+标题: 我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队
+链接: https://aihot.virxact.com/items/cmtbbhr1c0r0jroamimh5nql2
+正文: 截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtbbhr1c0r0jroamimh5nql2
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 09:00]
-标题: Raised on AI
-链接: https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/
-正文: When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&nbsp; Fast-forward a couple of years to when my second kid came, and I had essentially the opposite reaction. I wanted to make sure I preserved her privacy. I didn’t want her birthday to be a matter of public record or her face to feed the algorithms. In time, I would go back and scrub much of the early footprint I had created for my first child as well.&nbsp; What happened? I watched the promise of the early internet give way to the reality of its potential for abuse. I myself was already fully in the throes of smartphone and social media obsession. My wife, a pediatric nurse, grew increasingly alarmed at the number of children admitted to her hospital struggling with the effects of things like body dysmorphia or cyberbullying as a result of interactions on social media. We became those parents. The ones whose kids carry flip phones and aren’t on TikTok.&nbsp; We are not alone in this. A surprising—maybe troubling—number of people I know who work at big tech companies also keep their kids at arm’s distance from technology. They lock down their phones, if they have phones at all, and keep them off social media. Hell, even Mark Zuckerberg doesn’t publicly post his children’s faces on Facebook or Instagram. &nbsp; If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Jonathan Haidt’s best-selling 2024 book The Anxious Generation helped propel the issue into the mainstream (despite criticisms of his conclusions from some developmental psychologists). Last year, Australia became the first country to enact a social media ban for children under 16. Other nations, from Austria to Indonesia, have followed suit, announcing similar bans. The U
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 09:00]
-标题: AI models flub these intelligence tests. Can you fare any better?
-链接: https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/
-正文: Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur Samuel about an algorithm that learned to play checkers. Chess and the Chinese board game Go are famous AI test beds too.&nbsp; Judged purely on its puzzling skills, AI is improving a lot—and quickly. In late 2024, a team of scientists from Columbia University showed that even the best models could figure out only 18% of the infamous New York Times Connections puzzles; by early 2025, some models could solve them near perfectly every time.&nbsp; But puzzles do more than just highlight the inexorable advance of AI capabilities. Seeing where models succeed and fail—and where we humans still beat them—can provide a useful window into the technology’s strengths and weaknesses. Despite advances, today’s models still fumble: Subtle changes in classic riddles often trip them up, and visual puzzles are a particular weak spot.&nbsp; Here you’ll have the chance to test your wits on puzzles that have stumped models at one time or another. Some might be as tricky for you as they were for the AI; others are so simple that they’ll have you doubting whether AI is really intelligent at all. Each one highlights at least one way in which machine and human cognition differ. If you ace the test, you’ll have proved that you can out-puzzle an AI—at least for now.&nbsp; Spatial Reasoning Let’s start with a domain where humans have a huge advantage: spatial reasoning. If you’ve ever taken an IQ test, you may have done a mental rotation problem. These puzzles ask you to determine whether different images represent the same objects from different angles. Though today’s language models typically have the ability to analyze visual inputs, they still fail abysmally at these
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 07:01]
-标题: Bill Gates says we’ve passed AI’s danger thresholds. Now what?
-链接: https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
-正文: It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in the water, and across the lake to the Olympic Mountains that define the horizon. It’s gorgeous. And vaguely terrifying.&nbsp; Because if the scene is placid, the messenger is not. Seated across from me at a conference room table, Bill Gates is rocking back and forth in his chair, totally animated. And the more he has to say—about the threats of terror or economic collapse or just losing control of our AI systems—the more agitated I find myself becoming, too.&nbsp; The philanthropist and former Microsoft CEO says he has been growing increasingly alarmed by the rate of change at which AI technology is advancing, especially since guardrails are not keeping pace. In a new essay published today, Gates argues that we have passed the points where multiple potential dangers should have been checked. “We’ve crossed the threshold in terms of [AI’s] bio-capabilities, cyber-capabilities, psychosocial capabilities, job-market-destruction capabilities, and even the lack of control,” he said in an interview with MIT Technology Review about his new memo. “I’m just stunned at the lack of concern and discussion outside of the industry.” In an effort to wake the world up to what he sees as a rapidly growing societal disrupter, the 70-year-old tech titan has begun sounding the alarm as a “shrill voice,” both publicly with his new essay (the first of multiple he plans on the topic) and in meetings with the press, and privately in conversations with industry, government, and civil society leaders.&nbsp; And while Gates is calling attention to a number of issues, his warnings about the bio-capabilities of the current frontier models are especially chilling. “Any model 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 05:42]
+标题: 唐杰宣布GLM-5.3 Flash AA登顶OpenRouter
+链接: https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu
+正文: Ox Alpha = GLM-5.3 Flash AA = 57，以1/100的前沿价格， 由纯国产芯片驱动。在OpenRouter上实现了近20%的周token份额（第一）。 感谢大家的支持。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 00:20]
 标题: 英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此
@@ -71,11 +71,6 @@
 链接: https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie
 正文: 通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:11]
-标题: GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40
-链接: https://aihot.virxact.com/items/cmta7bh1k04u6roj2e4pt7bob
-正文: 智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta7bh1k04u6roj2e4pt7bob
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:05]
 标题: 以色列资助的假美国智库试图利用AI进行宣传
 链接: https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh
@@ -86,44 +81,161 @@
 链接: https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo
 正文: 安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 12:30]
-标题: Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览
-链接: https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay
-正文: 通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:00]
+标题: GLM-5.3-Flash：前沿智能进入普惠时代
+链接: https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv
+正文: 智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 08:27]
-标题: 实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧
-链接: https://aihot.virxact.com/items/cmta7fyl104z5roj2ancsmx4g
-正文: 豆包工作（豆包 Work）是当前企业接入Agent门槛最低的路径，但需用飞书账号登录才能解锁满血功能。实测可用手机远程控制最多7台设备、定时任务、自动读取本地skill、侧边栏直接编辑并同步飞书，且管理员看不到聊天记录。作者认为Work Agent是token消耗倍增器，飞书原生生态是豆包工作相比Claude Cowork、Codex Work的核心优势。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta7fyl104z5roj2ancsmx4g
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:11]
+标题: Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 08:04]
-标题: 腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译
-链接: https://aihot.virxact.com/items/cmta7honk0553roj21gque0zw
-正文: 腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta7honk0553roj21gque0zw
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:01]
+标题: Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 11:19]
-标题: Meta, states discuss mid-trial settlement in teen addiction case
-链接: https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: Zoom Beat Every Estimate and Fell Anyway. Citizens Says That’s Exactly the Point
+链接: https://finance.yahoo.com/markets/stocks/articles/zoom-beat-every-estimate-fell-130057593.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
-标题: Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-26-2026-rates-down-across-the-board-100000670.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: World stocks steady as Nvidia boost tempers Jackson Hole caution
+链接: https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 10:00]
-标题: Best CD rates today, Wednesday, August 26, 2026: Earn up to 4.30% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-26-2026-earn-up-to-430-apy-100000859.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:05]
+标题: Rackspace Scott Anthony Sells 48,780 Shares for $207,315
+链接: https://finance.yahoo.com/markets/stocks/articles/rackspace-scott-anthony-sells-48-130501616.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:08]
-标题: Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 08:21]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech
+链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:17]
-标题: Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:55]
+标题: Keeping a Close Watch: Garrett Motion’s (GTX) Rising Share Price and Future Returns
+链接: https://finance.yahoo.com/markets/stocks/articles/keeping-close-watch-garrett-motion-125516235.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 12:42]
-标题: Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:43]
+标题: Regeneron Pharmaceuticals (REGN) Adjusts Course Amid Mixed Results in Melanoma Drug Trials
+链接: https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-adjusts-course-124300443.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
+标题: Asure Software Targets Growth With Tax Services, Cross-Selling and AsureWorks
+链接: https://finance.yahoo.com/small-business/articles/asure-software-targets-growth-tax-130242063.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:30]
+标题: Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:30]
+标题: Think $600K isn’t enough to retire? Here’s how your nest egg could actually keep growing after you stop working
+链接: https://finance.yahoo.com/markets/articles/think-600k-isn-t-enough-123000055.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:15]
+标题: Dow Jones Futures: Techs Set To Run? Nvidia, CrowdStrike, Okta, Salesforce Jump On Earnings
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:15]
+标题: Weak Asian Oil Imports Challenge Claims of Surge in Hormuz Transits
+链接: https://finance.yahoo.com/energy/articles/weak-asian-oil-imports-challenge-121500821.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
+标题: Canadian Imperial Bank of Commerce Q3 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/canadian-imperial-bank-commerce-q3-130241528.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:13]
+标题: Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:11]
+标题: Dollar recoups some losses as focus shifts to Fed remarks at Jackson Hole
+链接: https://finance.yahoo.com/news/dollar-recoups-some-losses-as-focus-shifts-to-fed-remarks-at-jackson-hole-090226201.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:05]
+标题: Enbridge Brings KKR and Apollo Into C$2.7 Billion Westcoast Pipeline Deal
+链接: https://finance.yahoo.com/energy/articles/enbridge-brings-kkr-apollo-c-120500024.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
+标题: Agnico Eagle Stock Rapidly Approaches Buy Point Amid Gold Rally
+链接: https://www.investors.com/stock-lists/ibd-big-cap-20/agnico-eagle-stock-buy-point-gold-rally/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
+标题: Gaotu Techedu Q2 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/gaotu-techedu-q2-earnings-call-130241033.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
+标题: This Investment Management Stock Is In A Buy Zone, With Support From Big Money Buyers
+链接: https://www.investors.com/research/the-income-investor/ares-investment-management-stock-buy-zone-dividend-income-investing/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
+标题: NetEase’s (NTES) Old Hits Are Still Doing The Heavy Lifting
+链接: https://finance.yahoo.com/markets/stocks/articles/netease-ntes-old-hits-still-120024365.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:56]
+标题: CrowdStrike Earnings Beat As AI Adoption Drives Endpoint Upgrades
+链接: https://www.investors.com/news/technology/crowdtrike-stock-crwd-crowdstrike-earnings-news-q22026/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:56]
+标题: China launches year-long auto quality drive, mandates defect recalls
+链接: https://finance.yahoo.com/news/china-launches-long-auto-quality-115607875.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
+标题: Delivery Hero H1 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/delivery-hero-h1-earnings-call-130241656.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:53]
+标题: Daqo (DQ) Cuts Its Losses While Betting On An AI Pivot
+链接: https://finance.yahoo.com/technology/ai/articles/daqo-dq-cuts-losses-while-115328641.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 21:31]
+标题: Nvidia is looking more like the central bank of AI: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/nvidia-is-looking-more-like-the-central-bank-of-ai-chart-of-the-day-213156835.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:46]
+标题: Dollar Stores In Earnings Spotlight; One Soars, The Other Plummets
+链接: https://www.investors.com/news/dollar-tree-dollar-general-earnings-five-below-walmart-target/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: Pet Retail, Jewelry and Footwear: Analysts Weigh in on 3 Consumer Comeback Stories
+链接: https://finance.yahoo.com/markets/stocks/articles/pet-retail-jewelry-footwear-analysts-130042162.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: Prediction: Micron Could Be the Most Important AI Stock After Nvidia
+链接: https://finance.yahoo.com/markets/stocks/articles/prediction-micron-could-most-important-130025862.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: Peter Thiel Has Steadily Sold Down His Palantir Stake for Years, Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.
+链接: https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-130000155.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:20]
+标题: Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans
+链接: https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 10:00]
+标题: Mortgage and refinance interest rates today, Thursday, August 27, 2026: Fixed rates rise, 5/1 ARM falls
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-fixed-rates-rise-51-arm-falls-100000669.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 10:00]
+标题: Best CD rates today, Thursday, August 27, 2026: Lock in up to 4.30% APY with a 16-month or 18-month CD
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-27-2026-lock-in-up-to-430-apy-with-a-16-month-or-18-month-cd-100000374.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
+标题: The Benefits of Point-of-Sale Modernization
+链接: https://finance.yahoo.com/small-business/articles/benefits-point-sale-modernization-130000287.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 12:20]
+标题: Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive
+链接: https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html
+正文: The policymaker stopped just short of calling for an interest rate hike.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 12:31]
+标题: Stocks making the biggest moves premarket: Nvidia, HP, Salesforce, Dollar General, Everpure & more
+链接: https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-premarket-nvda-hp-crm-dg-p.html
+正文: These are the stocks posting the largest moves premarket.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 05:34]
+标题: Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+链接: https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html
+正文: The Chinese AI company said it had already launched the model globally in stealth mode for a week.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 21:31]
 标题: Stocks making the biggest moves after hours: Nvidia, Salesforce, CrowdStrike, Urban Outfitters and more
@@ -135,25 +247,20 @@
 链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-midday-meta-anf-zm-intu.html
 正文: These are some of the stocks posting the largest moves in midday trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 13:06]
-标题: Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
-链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-premarket-intu-zm-sedg.html
-正文: These are the stocks posting the largest moves premarket.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 13:20]
-标题: China's short-drama producers flood the market with cheap bets — and let audiences pick the winners
-链接: https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html
-正文: The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 00:01]
-标题: HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 03:42]
+标题: HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech
 链接: https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html
 正文: It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-27 02:26]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-27 00:00]
+标题: Pacsun’s Gen Z playbook: Listen, learn, and let go
+链接: https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go
+正文: Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-27 13:22]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-27 02:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-27 13:22]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
