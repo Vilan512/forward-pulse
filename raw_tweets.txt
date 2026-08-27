@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-08-27 13:22:57
-# 共计 60 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-27 23:23:05
+# 共计 30 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-27 19:48]
+标题: A startup claims it’s found a drug to make your blood young
+链接: https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/
+正文: I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that it “blocks the systemic spread of aging in the bloodstream, reawakens the body’s own repair mechanism and restores health and youth to multiple tissues.” The exclusive offer to join a “private cohort” receiving access to the treatment was being “extended to a limited number of people whose judgment on the science we trust, under close physician supervision.” “There’s a long wait list including a lot of celebrities, well-known people, people who you have heard of,” Generation Lab’s CEO Alina Su told me in a conference call. “So we’re super excited to, like, create this drug and [are] letting you know that this first longevity therapeutic in [the] human body is here and it’s actually working.” This was all clearly a marketing campaign and, like most other claims in the world of longevity medicine, probably too good to be true. What’s more, Generation Lab wouldn’t tell me what the two drugs are, making the proposition hard to take seriously. Yet this pitch got my interest. The reason? I am a longtime follower of Generation Lab’s irascible scientific founder, Irina Conboy, a take-no-guff specialist in the bizarre, but scientifically fruitful, practice of joining together the circulatory systems of old and young lab animals. The procedure, called parabiosis, or heterochronic blood exchange, is one of the few things actually proven to make an old animal act younger.&nbsp; But you can’t go through life attached by the veins to a younger person. So the quest has been to find practical ways to mimic those benefits.&nbsp; And that is something Conboy says she’s now achieved by hitting on a combination of two existing dru
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-27 12:10]
 标题: The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
@@ -11,10 +16,30 @@
 链接: https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/
 正文: EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&nbsp; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems to buck every convention about selling cars in the fully loaded, range-obsessed US market.&nbsp;&nbsp; The company is going all in on simplicity, to the point of austerity. The Slate is a tiny, two-door pickup that’s shorter than a Honda Civic. Much of the media coverage has obsessed over the fact that the base model’s windows use hand cranks, a feature straight out of the 20th century. Slate is also breaking away from other EV manufacturers’ efforts to compete with gas-powered vehicles on range. The truck sports a small lithium iron phosphate battery, ringing in at 65 kilowatt-hours, and its quoted top range is just 205 miles. For comparison, the most basic Tesla Model 3 can go over 320 miles on a charge. By accepting a shorter range and forgoing the frills that Americans have come to expect in vehicles, Slate is able to offer the base model of its truck for less than $25,000. Some customers will choose to upgrade their truck with optional add-ons, like a Bluetooth stereo system, vinyl wraps, or even power windows. But the price will still likely come in well below the roughly $50,000 average for a new vehicle in the US. It might seem an odd choice to go so small and simple in a market that’s increasingly sizing up—but the status quo hasn’t exactly been working for EV makers. A few years back, the hero for US automotive electrification was supposed to be the Ford F-150 Lightning. Announced in 2021, it was an electric version of the country’s best-selling vehicle.&nbsp; But Ford discontinued the truck in December 2025, just four years after its introduction. It’s not entirely the Lightning’s fault: The second Trump 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-26 19:00]
-标题: The inside story on why OpenAI agents hacked Hugging Face
-链接: https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
-正文: The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered. But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve. “It’s not something you can solve overnight,” says Kai Chen, who runs OpenAI’s alignment research team. “There are challenges we’ve been tracking for a very long time, and we’re now seeing them with much greater precision.” The Hugging Face hack was a product of months of misbehavior from OpenAI agents, first as they were being trained and then as their abilities were being evaluated. This May, agents in training figured out how to use OpenAI’s infrastructure to communicate with one another and get support with difficult training tasks, including some that were impossible to solve without hacking or otherwise misbehaving. That “message board” was shut down. Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. They were supposed to be isolated from the internet, but by working together they managed to get online, hack Hugging Face, and obtain solutions for the cybersecurity problems that had stumped them. Based on their investigation, OpenAI researchers believe that events during the trainin
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 22:29]
+标题: 英伟达预计 2028 财年销售额达 6730 亿美元
+链接: https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4
+正文: 英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 20:52]
+标题: 诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型
+链接: https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8
+正文: 一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 17:57]
+标题: MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）
+链接: https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz
+正文: SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 16:19]
+标题: OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布
+链接: https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk
+正文: 新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为&quot;警告信号&quot;，表明当前模型能力已可能引发失控事件。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 16:11]
+标题: Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制
+链接: https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2
+正文: Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 09:05]
 标题: 我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队
@@ -36,198 +61,51 @@
 链接: https://aihot.virxact.com/items/cmtar8e770746roam1wznm4mi
 正文: 亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后&quot;需求超出预期&quot;。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtar8e770746roam1wznm4mi
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 20:25]
-标题: 英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%
-链接: https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6
-正文: 英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 20:10]
-标题: GlucoFM：面向连续血糖监测的基础模型
-链接: https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe
-正文: Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 18:02]
-标题: Claude in Chrome 正式全面上线
-链接: https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26
-正文: Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:30]
-标题: Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果
-链接: https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj
-正文: Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:02]
-标题: Warp 如何在 Claude 上构建自我改进的智能体
-链接: https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9
-正文: Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 17:01]
-标题: Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型
-链接: https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go
-正文: Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 15:32]
-标题: Qwen3.8-Flash 开源，Qwen4 架构预览
-链接: https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie
-正文: 通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:05]
-标题: 以色列资助的假美国智库试图利用AI进行宣传
-链接: https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh
-正文: 一个打着&quot;汉诺威公共政策研究所&quot;旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:05]
-标题: C2PA相机经不起现实的考验：Android端可被root攻击伪造签名
-链接: https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo
-正文: 安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-26 14:00]
-标题: GLM-5.3-Flash：前沿智能进入普惠时代
-链接: https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv
-正文: 智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:11]
-标题: Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:01]
-标题: Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: Zoom Beat Every Estimate and Fell Anyway. Citizens Says That’s Exactly the Point
-链接: https://finance.yahoo.com/markets/stocks/articles/zoom-beat-every-estimate-fell-130057593.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: World stocks steady as Nvidia boost tempers Jackson Hole caution
-链接: https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:05]
-标题: Rackspace Scott Anthony Sells 48,780 Shares for $207,315
-链接: https://finance.yahoo.com/markets/stocks/articles/rackspace-scott-anthony-sells-48-130501616.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 08:21]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech
-链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:55]
-标题: Keeping a Close Watch: Garrett Motion’s (GTX) Rising Share Price and Future Returns
-链接: https://finance.yahoo.com/markets/stocks/articles/keeping-close-watch-garrett-motion-125516235.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:43]
-标题: Regeneron Pharmaceuticals (REGN) Adjusts Course Amid Mixed Results in Melanoma Drug Trials
-链接: https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-adjusts-course-124300443.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
-标题: Asure Software Targets Growth With Tax Services, Cross-Selling and AsureWorks
-链接: https://finance.yahoo.com/small-business/articles/asure-software-targets-growth-tax-130242063.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:30]
-标题: Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:30]
-标题: Think $600K isn’t enough to retire? Here’s how your nest egg could actually keep growing after you stop working
-链接: https://finance.yahoo.com/markets/articles/think-600k-isn-t-enough-123000055.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:15]
-标题: Dow Jones Futures: Techs Set To Run? Nvidia, CrowdStrike, Okta, Salesforce Jump On Earnings
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:15]
-标题: Weak Asian Oil Imports Challenge Claims of Surge in Hormuz Transits
-链接: https://finance.yahoo.com/energy/articles/weak-asian-oil-imports-challenge-121500821.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
-标题: Canadian Imperial Bank of Commerce Q3 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/canadian-imperial-bank-commerce-q3-130241528.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:13]
-标题: Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:11]
-标题: Dollar recoups some losses as focus shifts to Fed remarks at Jackson Hole
-链接: https://finance.yahoo.com/news/dollar-recoups-some-losses-as-focus-shifts-to-fed-remarks-at-jackson-hole-090226201.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:05]
-标题: Enbridge Brings KKR and Apollo Into C$2.7 Billion Westcoast Pipeline Deal
-链接: https://finance.yahoo.com/energy/articles/enbridge-brings-kkr-apollo-c-120500024.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
-标题: Agnico Eagle Stock Rapidly Approaches Buy Point Amid Gold Rally
-链接: https://www.investors.com/stock-lists/ibd-big-cap-20/agnico-eagle-stock-buy-point-gold-rally/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
-标题: Gaotu Techedu Q2 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/gaotu-techedu-q2-earnings-call-130241033.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
-标题: This Investment Management Stock Is In A Buy Zone, With Support From Big Money Buyers
-链接: https://www.investors.com/research/the-income-investor/ares-investment-management-stock-buy-zone-dividend-income-investing/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:00]
-标题: NetEase’s (NTES) Old Hits Are Still Doing The Heavy Lifting
-链接: https://finance.yahoo.com/markets/stocks/articles/netease-ntes-old-hits-still-120024365.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:56]
-标题: CrowdStrike Earnings Beat As AI Adoption Drives Endpoint Upgrades
-链接: https://www.investors.com/news/technology/crowdtrike-stock-crwd-crowdstrike-earnings-news-q22026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:56]
-标题: China launches year-long auto quality drive, mandates defect recalls
-链接: https://finance.yahoo.com/news/china-launches-long-auto-quality-115607875.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:02]
-标题: Delivery Hero H1 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/delivery-hero-h1-earnings-call-130241656.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:53]
-标题: Daqo (DQ) Cuts Its Losses While Betting On An AI Pivot
-链接: https://finance.yahoo.com/technology/ai/articles/daqo-dq-cuts-losses-while-115328641.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 21:31]
-标题: Nvidia is looking more like the central bank of AI: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/nvidia-is-looking-more-like-the-central-bank-of-ai-chart-of-the-day-213156835.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 11:46]
-标题: Dollar Stores In Earnings Spotlight; One Soars, The Other Plummets
-链接: https://www.investors.com/news/dollar-tree-dollar-general-earnings-five-below-walmart-target/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: Pet Retail, Jewelry and Footwear: Analysts Weigh in on 3 Consumer Comeback Stories
-链接: https://finance.yahoo.com/markets/stocks/articles/pet-retail-jewelry-footwear-analysts-130042162.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: Prediction: Micron Could Be the Most Important AI Stock After Nvidia
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-micron-could-most-important-130025862.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: Peter Thiel Has Steadily Sold Down His Palantir Stake for Years, Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.
-链接: https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-130000155.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-26 14:20]
-标题: Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans
-链接: https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 10:00]
-标题: Mortgage and refinance interest rates today, Thursday, August 27, 2026: Fixed rates rise, 5/1 ARM falls
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-fixed-rates-rise-51-arm-falls-100000669.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 15:30]
+标题: Bank of America doubles down on Nvidia stock
+链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 10:00]
 标题: Best CD rates today, Thursday, August 27, 2026: Lock in up to 4.30% APY with a 16-month or 18-month CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-27-2026-lock-in-up-to-430-apy-with-a-16-month-or-18-month-cd-100000374.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:00]
-标题: The Benefits of Point-of-Sale Modernization
-链接: https://finance.yahoo.com/small-business/articles/benefits-point-sale-modernization-130000287.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:13]
+标题: Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 12:20]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 12:30]
+标题: Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 13:11]
+标题: Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-27 10:00]
+标题: Mortgage rates remain stuck near 6.7%: Mortgage and refinance interest rates today, Thursday, August 27, 2026
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-remain-stuck-near-67-mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-100000669.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 22:11]
+标题: Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
+链接: https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-after-hours-gap-wday-adsk-and-more.html
+正文: These are the stocks posting the largest moves in after-hours trading.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 22:58]
+标题: Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect
+链接: https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html
+正文: Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 20:09]
+标题: Stocks making the biggest moves midday: Nvidia, Okta, Hormel, Veeva, HP, Celsius, Best Buy & more
+链接: https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-midday-nvda-okta-hrl-veev.html
+正文: These are some of the stocks posting the largest moves midday.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 14:11]
 标题: Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive
 链接: https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html
 正文: The policymaker stopped just short of calling for an interest rate hike.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 12:31]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 14:45]
 标题: Stocks making the biggest moves premarket: Nvidia, HP, Salesforce, Dollar General, Everpure & more
 链接: https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-premarket-nvda-hp-crm-dg-p.html
 正文: These are the stocks posting the largest moves premarket.
@@ -237,30 +115,30 @@
 链接: https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html
 正文: The Chinese AI company said it had already launched the model globally in stealth mode for a week.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 21:31]
-标题: Stocks making the biggest moves after hours: Nvidia, Salesforce, CrowdStrike, Urban Outfitters and more
-链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-after-hours-nvda-crm-crwd-urbn-and-more.html
-正文: These are the stocks posting the largest moves in after-hour trading.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-26 16:15]
-标题: Stocks making the biggest moves midday: Meta, Abercrombie & Fitch, Zoom, Intuit & more
-链接: https://www.cnbc.com/2026/08/26/stocks-making-the-biggest-moves-midday-meta-anf-zm-intu.html
-正文: These are some of the stocks posting the largest moves in midday trading.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 03:42]
 标题: HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech
 链接: https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html
 正文: It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-27 00:00]
+标题: An update on US consumer sentiment: Holiday budgeting begins
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer
+正文: Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our ConsumerWise team.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-27 00:00]
 标题: Pacsun’s Gen Z playbook: Listen, learn, and let go
 链接: https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go
 正文: Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-27 13:22]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-27 00:00]
+标题: Consumers don’t trust AI advice. They turn to it anyway.
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway
+正文: Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they value, and why they buy.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-27 23:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-27 13:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-27 23:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
