@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-08-28 20:30:43
-# 共计 24 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-29 02:57:19
+# 共计 22 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-28 12:35]
 标题: The Download: a secretive antiaging drug and joining virtual power plants
@@ -10,6 +10,11 @@
 标题: How to sign up for a virtual power plant—and decide whether you should
 链接: https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/
 正文: MIT Technology Review’s How To series helps you get things done.&nbsp; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such as smart thermostats, electric-vehicle chargers, home batteries, and solar panels) that a utility can control. Usually that means commanding the devices to draw less electricity during peak hours. For example, the utility might adjust your thermostat or delay or slow EV charging when electricity demand is high.&nbsp; In exchange, the utility offers VPP participants a discount on their energy bills and, in some cases, a signing bonus. Seth Frader-Thompson, CEO and cofounder of EnergyHub, a software company that helps utility companies run VPP programs, says a smart thermostat program may offer an initial bonus of roughly $50 to $150, plus about $25 to $50 per year, while home battery and EV devices could yield hundreds or thousands of dollars in annual savings. The amount of power the utility might throttle in any one home is small. But it adds up, Frader-Thompson says. “When you put it together at the scale of hundreds of thousands, or millions, it has a pretty profound impact,” he says, equivalent to “firing up a power plant.” As of 2023, there were already more than 500 VPP programs operating in the US alone, and the number has only grown since, especially with big players like Google starting to invest in this technology to help power their data centers. An estimated 4 million households with smart thermostats were enrolled in a VPP program as of last year.&nbsp; But the approach is still new, and some programs may still have some kinks to work out, says Severin Borenstein, faculty director of UC Berkeley’s Energy Institute at Haas and member of the board of governors of the California Independent System Operator, which manages most o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-29 01:47]
+标题: OpenAI 终止与 Cursor 合作，11 月 12 日生效
+链接: https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4
+正文: OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-28 18:24]
 标题: OpenAI 攻击 Hugging Face 事件的 5 个教训
@@ -51,35 +56,32 @@
 链接: https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg
 正文: 腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 23:32]
-标题: Midjourney 开放 V8.2 图像编辑模型测试
-链接: https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9
-正文: Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-28 06:00]
+标题: OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险
+链接: https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x
+正文: OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 23:01]
-标题: Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型
-链接: https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6
-正文: Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:03]
+标题: 183-year-old giant tool company closes factory, lays off dozens
+链接: https://finance.yahoo.com/markets/stocks/articles/183-old-giant-tool-company-160300042.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 22:29]
-标题: 英伟达预计 2028 财年销售额达 6730 亿美元
-链接: https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4
-正文: 英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:17]
+标题: Okta’s AI boom just created a new security problem
+链接: https://finance.yahoo.com/technology/ai/articles/okta-ai-boom-just-created-161700485.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-27 20:52]
-标题: 诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型
-链接: https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8
-正文: 一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:17]
+标题: Dunkin' comes back to major market after 12-year absence
+链接: https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 20:00]
 标题: Corn and wheat prices jump to highest prices in more than three years
 链接: https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html
 正文: Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 19:32]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-29 02:23]
 标题: U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court
 链接: https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html
-正文: The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.
+正文: The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 15:22]
 标题: September Fed decision is now a coin flip as rate hike odds increase post Warsh
@@ -91,30 +93,15 @@
 链接: https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-premarket-pypl-afrm-gap-mrvl.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 01:35]
-标题: Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit
-链接: https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html
-正文: U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-27 22:11]
-标题: Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
-链接: https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-after-hours-gap-wday-adsk-and-more.html
-正文: These are the stocks posting the largest moves in after-hours trading.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 11:39]
 标题: Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect
 链接: https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html
 正文: Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-28 00:00]
-标题: The new management playbook for AI: How to move faster and create more value
-链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value
-正文: Scale is where the value is. Enabling scale depends on how strong your foundations are.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-28 20:30]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-29 02:57]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-28 20:30]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-29 02:57]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
