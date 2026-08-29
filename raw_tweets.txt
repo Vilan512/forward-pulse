@@ -1,15 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-08-29 02:57:19
-# 共计 22 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-29 09:41:54
+# 共计 26 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-28 12:35]
 标题: The Download: a secretive antiaging drug and joining virtual power plants
 链接: https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the chance to write about—and even receive—their new rejuvenation treatment. This wasn’t just any antiaging treatment, either. A company fact sheet says that it “blocks the systemic spread of aging in the bloodstream, reawakens the body’s own repair mechanism and restores health and youth to multiple tissues.” The approach is based on research by Generation Lab’s irascible scientific founder, Irina Conboy. She found that joining the circulatory systems of old and young mice improved the old animals’ ability to heal from injury. Conboy now says she has found a combination of two existing drugs that can produce youthful effects without the need for any bodily fluid exchange. But Generation Lab won’t reveal what the drugs are, making the proposition hard to take seriously. Read the full story on the drug combo that claims to “stop the spread of aging.” How to sign up for a virtual power plant—and decide whether you should Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. That’s the idea behind a virtual power plant, or VPP, a collection of household devices (such as smart thermostats, EV chargers, and solar panels) that a utility can control, usually by commanding them to draw less electricity during peak hours. In exchange, participants receive a discount on their energy bills and, in some cases, a signing bonus. Here’s how to sign up for a VPP—and decide whether it’s worth it. —Eshan Raul This story is part of MIT Technology Review’s How To series, which gives you practical advice on getting things done. C
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-28 09:00]
-标题: How to sign up for a virtual power plant—and decide whether you should
-链接: https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/
-正文: MIT Technology Review’s How To series helps you get things done.&nbsp; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such as smart thermostats, electric-vehicle chargers, home batteries, and solar panels) that a utility can control. Usually that means commanding the devices to draw less electricity during peak hours. For example, the utility might adjust your thermostat or delay or slow EV charging when electricity demand is high.&nbsp; In exchange, the utility offers VPP participants a discount on their energy bills and, in some cases, a signing bonus. Seth Frader-Thompson, CEO and cofounder of EnergyHub, a software company that helps utility companies run VPP programs, says a smart thermostat program may offer an initial bonus of roughly $50 to $150, plus about $25 to $50 per year, while home battery and EV devices could yield hundreds or thousands of dollars in annual savings. The amount of power the utility might throttle in any one home is small. But it adds up, Frader-Thompson says. “When you put it together at the scale of hundreds of thousands, or millions, it has a pretty profound impact,” he says, equivalent to “firing up a power plant.” As of 2023, there were already more than 500 VPP programs operating in the US alone, and the number has only grown since, especially with big players like Google starting to invest in this technology to help power their data centers. An estimated 4 million households with smart thermostats were enrolled in a VPP program as of last year.&nbsp; But the approach is still new, and some programs may still have some kinks to work out, says Severin Borenstein, faculty director of UC Berkeley’s Energy Institute at Haas and member of the board of governors of the California Independent System Operator, which manages most o
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-29 07:32]
+标题: 开放世界多智能体环境中的自主数学发现
+链接: https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn
+正文: 在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-29 07:00]
+标题: 在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据
+链接: https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4
+正文: Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-29 04:31]
+标题: 智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御
+链接: https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli
+正文: 智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-29 01:47]
 标题: OpenAI 终止与 Cursor 合作，11 月 12 日生效
@@ -46,32 +56,37 @@
 链接: https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw
 正文: 斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-28 08:36]
-标题: AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具
-链接: https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew
-正文: 一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-28 06:03]
-标题: 腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线
-链接: https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg
-正文: 腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-28 06:00]
-标题: OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险
-链接: https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x
-正文: OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:03]
 标题: 183-year-old giant tool company closes factory, lays off dozens
 链接: https://finance.yahoo.com/markets/stocks/articles/183-old-giant-tool-company-160300042.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:17]
+标题: Dunkin' comes back to major market after 12-year absence
+链接: https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:17]
 标题: Okta’s AI boom just created a new security problem
 链接: https://finance.yahoo.com/technology/ai/articles/okta-ai-boom-just-created-161700485.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 16:17]
-标题: Dunkin' comes back to major market after 12-year absence
-链接: https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 10:00]
+标题: Mortgage and refinance interest rates today, Friday, August 28, 2026: Rates down ahead of Warsh speech at Jackson Hole
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-28-2026-rates-down-ahead-of-warsh-speech-at-jackson-hole-100000635.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 10:00]
+标题: Best CD rates today, Friday, August 28, 2026: Up to 4.30% APY return available
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-28-2026-up-to-430-apy-return-available-100000073.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 11:18]
+标题: Bitcoin and ethereum prices today, Friday, August 28, 2026: Bitcoin moves above $81,000 before falling back
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-28-2026-bitcoin-moves-above-81000-before-falling-back-111816647.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 11:56]
+标题: Gold prices today, Friday, August 28, 2026: Gold steady as markets prepare for Warsh speech
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-28-2026-gold-steady-as-markets-prepare-for-warsh-speech-115654858.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-28 12:09]
+标题: Silver price today, Friday, August 28, 2026: Silver rising before Warsh takes the stage
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-august-28-2026-silver-rising-before-warsh-takes-the-stage-120957222.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-28 20:00]
 标题: Corn and wheat prices jump to highest prices in more than three years
@@ -98,10 +113,10 @@
 链接: https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html
 正文: Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-29 02:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-29 09:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-29 02:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-29 09:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
