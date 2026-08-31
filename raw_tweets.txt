@@ -1,5 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-08-31 14:38:24
-# 共计 57 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-08-31 20:30:41
+# 共计 30 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-31 18:00]
+标题: Hugging Face hack could indicate cultural issues at OpenAI
+链接: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test. It’s a wild story. On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here.&nbsp; The day before OpenAI released that report, I spoke with David Krueger, a computer science professor and prominent alignment expert who took leave from the University of Montreal to found and lead an AI safety nonprofit called Evitable. He said what he had really hoped to see in the report was an analysis of the human factors behind the incident. “When you look at accidents and incidents, oftentimes people try to find the technical source of failure, but that can give a very inaccurate and misleading sense of why the failure occurred,” he said. “If people are just cutting corners all the time, if people are not in a culture that prioritizes safety and has appropriate incentives and structures, [accidents] are kind of bound to happen.” The report did not meet Krueger’s hopes. Its 38 pages detail a multi-month progression of agent misbehavior that culminated in the Hugging Face hack, explore the technical reasons why that misbehavior occurred, and enumerate the steps being taken to prevent similar events in the future. But there’s no consideration of the role that company culture may have played in the incident, and the report includes few references to specific human errors.&nbsp; That’s all the more concerning because the references to human error in the report suggest that significant cultural issues could be at play. Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior. Because that behavior occurred during t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 17:03]
+标题: Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面
+链接: https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1
+正文: Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 15:24]
+标题: Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导
+链接: https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63
+正文: Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会&quot;牺牲&quot;或&quot;死亡&quot;，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 11:35]
 标题: DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8
@@ -21,6 +36,11 @@
 链接: https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19
 正文: OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 00:00]
+标题: Tom Tunguz 谈前沿 AI 的准入分层：访问权成为新的稀缺资源
+链接: https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw
+正文: Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权而非价格成为新的稀缺资源。文中列举 Salesforce 将 Claude 设为 CRM 与 Slack 默认模型并推出 Claudeforce 合作。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-30 23:59]
 标题: 理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同
 链接: https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw
@@ -30,105 +50,13 @@
 标题: Goldman Sachs sends blunt message on oil price, economy
 链接: https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:22]
-标题: Arbitrator Rules Gemini Not At Fault For Collapse Of Earn Lending
-链接: https://finance.yahoo.com/markets/crypto/articles/arbitrator-rules-gemini-not-fault-142200064.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:21]
-标题: Strategy Bought $370 Million Of Bitcoin Last Week
-链接: https://finance.yahoo.com/markets/crypto/articles/strategy-bought-370-million-bitcoin-142100501.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:20]
-标题: Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck
-链接: https://finance.yahoo.com/markets/article/energy-stocks-lead-in-subdued-final-trading-day-of-august-utilities-under-pressure-alphacheck-142014111.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:57]
-标题: Scotts Miracle-Gro's biggest challenge: Overcoming young homeowners who are OK with dandelions in their lawn
-链接: https://finance.yahoo.com/markets/article/scotts-miracle-gros-biggest-challenge-overcoming-young-homeowners-who-are-ok-with-dandelions-in-their-lawn-135714271.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:20]
-标题: MP Materials Stock: Bull vs. Bear on This Top Rare Earth Bet
-链接: https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-bull-vs-142000457.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:55]
-标题: What Makes Dominion Energy (D) an Attractive Bet?
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-dominion-energy-d-attractive-135522118.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:52]
-标题: Martin Marietta Materials (MLM) Stock Pulls Back on Expectations, Fundamentals Intact
-链接: https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-stock-135247614.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:51]
-标题: Entegris (ENTG) Surged on Increased Demand
-链接: https://finance.yahoo.com/markets/stocks/articles/entegris-entg-surged-increased-demand-135110193.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:48]
-标题: Stock Market Today: Dow Falls, Oil Prices Jump As U.S., Iran Exchange New Strikes (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:19]
-标题: Bill.com's $1 Billion Buyback Is a Big Vote of Confidence
-链接: https://finance.yahoo.com/markets/stocks/articles/bill-coms-1-billion-buyback-141901260.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:42]
-标题: Tyler Technologies (TYL) Boosts 2030 Financial Goals After Successful Cloud Transition
-链接: https://finance.yahoo.com/markets/stocks/articles/tyler-technologies-tyl-boosts-2030-134223842.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 11:38]
-标题: Stock market today: Dow, S&P 500, Nasdaq fall as US strikes Iran, rate-hike bets jump
-链接: https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:38]
-标题: Mobility Global (MBGL): A Promising New Player in the Automotive Sector
-链接: https://finance.yahoo.com/markets/stocks/articles/mobility-global-mbgl-promising-player-133854452.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:22]
-标题: GameStop stock jumps with eBay investment expected to boost Q2 profit
-链接: https://finance.yahoo.com/markets/article/gamestop-stock-jumps-with-ebay-investment-expected-to-boost-q2-profit-132222237.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:17]
-标题: PG&E, Edison Head for Biggest Stock Drop in Years on California Wildfire Legislation
-链接: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/pg-e-edison-head-for-biggest-stock-drop-in-years-on-california-wildfire-legislation-M0IinB8pyEibcOyZpMbQ?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:30]
-标题: S&P Global’s (SPGI) Remaining Divisions Showcase Strong Profitability Post Spin-Out
-链接: https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-remaining-divisions-133015336.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:27]
-标题: Nvidia’s (NVDA) Investment in OpenAI Highlights Circular Financing Concerns
-链接: https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-investment-openai-highlights-132702307.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:25]
-标题: The US debt crisis just got uglier: Number to know
-链接: https://finance.yahoo.com/markets/article/the-us-debt-crisis-just-got-uglier-number-to-know-132557041.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:22]
-标题: Bitcoin and ethereum prices today, Monday, August 31, 2026: Higher rate expectations pressure crypto prices lower
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-31-2026-higher-rate-expectations-pressure-crypto-prices-lower-132222145.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:10]
-标题: Pfizer and Starbucks: One Turnaround Is Built to Last, and One Isn’t
-链接: https://finance.yahoo.com/markets/stocks/articles/pfizer-starbucks-one-turnaround-built-141019310.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:52]
-标题: Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:37]
-标题: Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-31-2026-gold-sinks-following-us-strikes-on-iran-123744944.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
-标题: Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
 标题: Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:09]
-标题: Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End
-链接: https://finance.yahoo.com/technology/ai/articles/meta-60-billion-ai-machine-140955185.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
+标题: Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
 标题: HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential
@@ -138,76 +66,34 @@
 标题: Best CD rates today, Monday, August 31, 2026: Lock in up to 4.30% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:08]
-标题: She Took Her First RMD in April Instead of December. The Second One Came Due Nine Months Later, in the Same Tax Year, and Cost Her a Medicare Bracket.
-链接: https://finance.yahoo.com/markets/options/articles/she-took-her-first-rmd-140802588.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:37]
+标题: Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-31-2026-gold-sinks-following-us-strikes-on-iran-123744944.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:08]
-标题: Gold Futures Lose Ground as Oil Picks Up
-链接: https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:52]
+标题: Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:08]
-标题: Arizona Gold & Silver appoints Yale Simpson as independent director
-链接: https://finance.yahoo.com/markets/stocks/articles/arizona-gold-silver-appoints-yale-140800299.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:22]
+标题: Bitcoin and ethereum prices today, Monday, August 31, 2026: Higher rate expectations pressure crypto prices lower
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-31-2026-higher-rate-expectations-pressure-crypto-prices-lower-132222145.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:07]
-标题: Chevron and Exxon Mobil Rise 3% as U.S. Strikes on Iran Push WTI Crude Oil to $86
-链接: https://finance.yahoo.com/energy/articles/chevron-exxon-mobil-rise-3-140704085.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 19:38]
+标题: Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
+链接: https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html
+正文: The path toward the move still looks cluttered.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:06]
-标题: They Delayed Social Security Because the Lake House Was Their Safety Net. Then the Lake Dried Up.
-链接: https://finance.yahoo.com/markets/articles/delayed-social-security-because-lake-140638562.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 19:49]
+标题: Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more
+链接: https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html
+正文: These are some of the stocks posting the largest moves midday.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:05]
-标题: Executive Waves Goodbye to 10,000 Shares of Growth Stock, Valued at $310,000
-链接: https://finance.yahoo.com/markets/stocks/articles/executive-waves-goodbye-10-000-140501354.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:05]
-标题: Berkshire Bought a Homebuilder the Same Month JPMorgan Committed $750 Billion to Housing
-链接: https://finance.yahoo.com/real-estate/articles/berkshire-bought-homebuilder-same-month-140500571.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:02]
-标题: CrowdStrike Rallies 4% as Fal.Con Puts Falcon on Google Cloud and Arms Partners With AI Agents
-链接: https://finance.yahoo.com/technology/ai/articles/crowdstrike-rallies-4-fal-con-140254771.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:02]
-标题: ONEOK Bets $4.4B on Brazos as Apollo Injects $9B for Permian Growth
-链接: https://finance.yahoo.com/energy/articles/oneok-bets-4-4b-brazos-140200951.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 14:00]
-标题: Prediction: Nvidia Stock Will Trade at $350 on This Date
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-trade-350-140053281.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:57]
-标题: Fed Chair Warsh's Jackson Hole Debut: What He Said, and Didn't Say, About Rate Hikes
-链接: https://finance.yahoo.com/economy/policy/articles/fed-chair-warshs-jackson-hole-135708514.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:56]
-标题: OpenAI’s ChatGPT Ads Hit $1 Billion in Annualized Revenue in Just 200 Days — Now Sam Altman Is Taking the Business Global
-链接: https://finance.yahoo.com/media-advertising/articles/openai-chatgpt-ads-hit-1-135620984.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:55]
-标题: Marriott Vacations Insider Sells 2,500 Shares for $300,000
-链接: https://finance.yahoo.com/markets/stocks/articles/marriott-vacations-insider-sells-2-135501282.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:54]
-标题: Nvidia investing $3.5 billion in MediaTek for AI chip partnership
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-5-billion-135408846.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:52]
-标题: The Floor Under Micron's Worst Case Is Written Into Its Contracts, Not Memory Prices
-链接: https://finance.yahoo.com/markets/stocks/articles/floor-under-microns-worst-case-135202920.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:50]
-标题: This Thesis for Marvell Technology Keeps Me Accumulating Amid Tailwinds
-链接: https://finance.yahoo.com/markets/stocks/articles/thesis-marvell-technology-keeps-accumulating-135022748.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 12:35]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 15:15]
 标题: Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI
 链接: https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html
 正文: The insurance broker said the merger will create the premiere U.S. middle-market platform.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 12:00]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 18:22]
 标题: Kalshi partners with brokerage Alpaca as it tries to build its international audience
 链接: https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html
 正文: The prediction market platform and the financial infrastructure and brokerage startup are working to get Kalshi's event contracts to global investors.
@@ -217,7 +103,7 @@
 链接: https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-premarket-cvx-pcg-gme-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 12:17]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 15:22]
 标题: Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says
 链接: https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html
 正文: An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.
@@ -232,10 +118,25 @@
 链接: https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html
 正文: Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-31 14:38]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-31 00:00]
+标题: Europe on the move: A conversation with Boerse Stuttgart Group’s CEO
+链接: https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo
+正文: With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-31 00:00]
+标题: Revolutionizing semiconductor fab operations with AI
+链接: https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai
+正文: AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-08-31 00:00]
+标题: AstraZeneca’s Bob Li on the MARS mission to eliminate cancer
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer
+正文: Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-08-31 20:30]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-31 14:38]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-08-31 20:30]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
