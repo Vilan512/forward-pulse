@@ -1,10 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-09-01 00:13:46
-# 共计 27 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-01 05:53:43
+# 共计 25 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-08-31 18:00]
 标题: The Hugging Face hack could indicate cultural issues at OpenAI
 链接: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
 正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test. It’s a wild story. On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here.&nbsp; The day before OpenAI released that report, I spoke with David Krueger, a computer science professor and prominent alignment expert who took leave from the University of Montreal to found and lead an AI safety nonprofit called Evitable. He said what he had really hoped to see in the report was an analysis of the human factors behind the incident. “When you look at accidents and incidents, oftentimes people try to find the technical source of failure, but that can give a very inaccurate and misleading sense of why the failure occurred,” he said. “If people are just cutting corners all the time, if people are not in a culture that prioritizes safety and has appropriate incentives and structures, [accidents] are kind of bound to happen.” The report did not meet Krueger’s hopes. Its 38 pages detail a multi-month progression of agent misbehavior that culminated in the Hugging Face hack, explore the technical reasons why that misbehavior occurred, and enumerate the steps being taken to prevent similar events in the future. But there’s no consideration of the role that company culture may have played in the incident, and the report includes few references to specific human errors.&nbsp; That’s all the more concerning because the references to human error in the report suggest that significant cultural issues could be at play. Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior. Because that behavior occurred during t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 00:07]
+标题: Anthropic 研究：训练一个错位的奖励寻求者模型
+链接: https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi
+正文: Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 23:00]
 标题: Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施
@@ -26,40 +31,29 @@
 链接: https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie
 正文: DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 04:00]
-标题: ChatGPT Ads 年化收入达 10 亿美元并全球扩展
-链接: https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0
-正文: ChatGPT Ads 年化收入运行率突破 10 亿美元，并扩展至全球市场。该广告业务通过免费和低价选项，支持更多人使用 AI 服务。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 15:33]
+标题: Firearms retailer files Chapter 11 bankruptcy as gun sales drop
+链接: https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 00:36]
-标题: 基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了
-链接: https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0
-正文: MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时&quot;AI 电视台&quot;。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 00:24]
-标题: AI 智能体自主协作攻破 Hugging Face 服务器
-链接: https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19
-正文: OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 00:37]
-标题: Goldman Sachs sends blunt message on oil price, economy
-链接: https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
-标题: Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 17:17]
+标题: 161-year-old kids clothing giant closes 29 more stores
+链接: https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
 标题: Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
-标题: HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html
+标题: Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
 标题: Best CD rates today, Monday, August 31, 2026: Lock in up to 4.30% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 10:00]
+标题: HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:37]
 标题: Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
@@ -72,10 +66,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:22]
 标题: Bitcoin and ethereum prices today, Monday, August 31, 2026: Higher rate expectations pressure crypto prices lower
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-31-2026-higher-rate-expectations-pressure-crypto-prices-lower-132222145.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 20:39]
-标题: Uphold review 2026: One account for crypto, metals, and cash
-链接: https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 19:38]
 标题: Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
@@ -107,20 +97,20 @@
 链接: https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html
 正文: An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 04:57]
-标题: China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit
-链接: https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html
-正文: Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 11:28]
 标题: Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury
 链接: https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html
 正文: Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 00:13]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-01 00:00]
+标题: Asia’s 75-point gap: Moving consumers from retirement angst to action
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action
+正文: Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 05:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 00:13]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 05:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
