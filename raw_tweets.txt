@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-01 19:01:41
-# 共计 24 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-01 22:12:45
+# 共计 33 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 19:10]
+标题: How AI plotted an interstellar journey to Alpha Centauri
+链接: https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/
+正文: A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&nbsp; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the spacecraft will follow a novel trajectory discovered by an AI system developed by Physical Superintelligence (PSI), an AI physics research lab. PSI is launching today with $58 million in funding led by Breakthrough Energy, a climate-focused investment group founded by Microsoft cofounder Bill Gates. It’s not the first time this has been tried. In 2016, the billionaire tech investor Yuri Milner announced an interstellar mission called Breakthrough Starshot to launch humanity’s first spacecraft to Alpha Centauri. The plan was to use powerful lasers that would propel tiny probes to a fifth of the speed of light—fast enough to reach Alpha Centauri within 20 years. Milner pledged $100 million toward a proof of concept. But a decade later, nothing has launched. “We didn’t want to do another Breakthrough Starshot,” says Philip Johnston, the cofounder and president of the Fermi Explorer Mission. “We’re dead set on something actually launching.” The new mission, currently funded by individual private donors, is expected to cost just $15 million. To stick to that budget, “we are not constraining ourselves to doing it in a human lifetime,” says Johnston. “Let’s just figure out the way to get to another star.” The spacecraft will carry cargo weighing at least one kilogram. That will include artistic and scientific payloads, messages, and a copy of the Golden Record, a gold-plated disc of Earth’s sounds and images that NASA attached to its two Voyager probes in 1977 as a message to any civilization that might find them. Engineering an interstellar journey is extremely difficult. Alpha Centauri is about 25 trillion miles away from Earth. One of the fastest
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 14:00]
 标题: Making the AI-powered case for legacy modernization
@@ -16,14 +21,28 @@
 链接: https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/
 正文: Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help it grow. This could help reduce the need for chemical fertilizer, production of which accounts for roughly 2% of global greenhouse-gas emissions. It could also cut costs for farmers, a big boon—especially as the Iran war has sent energy and fertilizer prices skyrocketing in recent months.&nbsp; Humans have used biological fertilizers like manure for thousands of years, and companies have long been developing microbial fertilizers, including some that rely on genetic engineering. But it’s difficult to engineer microbes that can reliably provide nitrogen for crops while also thriving themselves.&nbsp; A startup called Switch Bioworks is taking a new approach that essentially allows microbes to establish themselves and grow into healthy colonies before shifting into nitrogen-producing mode. “We have to reinvent fertilizer,”&nbsp; says Tim Schnabel, the company’s founder and CEO. The air is nearly 80% nitrogen, but plants can’t use that “free” nitrogen directly because it doesn’t react readily with other elements. Instead, they rely on so-called fixed nitrogen, which has been converted into more reactive compounds such as ammonia. In nature, microbes can perform this nitrogen fixation. Some plants, like legumes, even have symbiotic relationships with nitrogen-fixing bacteria, housing them in nodules in their roots. Synthetic fertilizer is essentially industrial nitrogen fixation via the Haber-Bosch process, which uses natural gas to make ammonia that’s applied to fields. Biological fertilizers aim to replace some of the synthetic fertilizer with microbes that can help fix nitrogen for plants. But one challenge microbial fertilizer companies have run into is
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-01 21:39]
+标题: BenchMIRT: What are LLM benchmarks actually measuring?
+链接: https://huggingface.co/blog/allenai/benchmirt
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-01 00:00]
 标题: Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
 链接: https://huggingface.co/blog/webgpu-kernels
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 18:16]
-标题: Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%
-链接: https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl
-正文: Anthropic 发布 Claude Fable 5.1，输入/输出价格维持 $10/$50 per million tokens，缓存读取降 75% 至 $0.25，官方估算典型工作负载成本约降 25%、重度 Agent 场景最高约 45%，但按 token 计费的订阅不享受降价。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 20:12]
+标题: Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%
+链接: https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd
+正文: Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 19:43]
+标题: Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现
+链接: https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo
+正文: Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 18:29]
+标题: Claude Fable 5.1 上线 OpenRouter
+链接: https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z
+正文: Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 17:08]
 标题: Google DeepMind 为 Gemini 推出 agentic 视频理解功能
@@ -34,6 +53,11 @@
 标题: Google Workspace 推出图像创作编辑工具 Google Pics
 链接: https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
 正文: Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 13:00]
+标题: OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布
+链接: https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h
+正文: OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 12:40]
 标题: 路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治
@@ -60,9 +84,34 @@
 链接: https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe
 正文: Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 20:39]
-标题: Uphold review 2026: One account for crypto, metals, and cash
-链接: https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 15:33]
+标题: Denny’s rival dining chain files for Chapter 11 bankruptcy
+链接: https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:00]
+标题: Best CD rates today, Tuesday, September 1, 2026: Lock in up to 4.30% APY today with multiple offers
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-1-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000821.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:08]
+标题: Gold prices today, Tuesday, September 1, 2026: Gold moves lower as rate-hike expectations grow
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:18]
+标题: Silver prices today, Tuesday, September 1, 2026: Silver prices sliding as higher rates feel inevitable
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-1-2026-silver-prices-sliding-as-higher-rates-feel-inevitable-121826094.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:35]
+标题: Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:00]
+标题: Mortgage and refinance interest rates today, Tuesday, September 1, 2026: Fixed rates move higher following U.S. airstrikes near Hormuz
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-1-2026-fixed-rates-move-higher-following-us-airstrikes-near-hormuz-100000288.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 20:52]
+标题: Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more
+链接: https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-after-hours-dell-mdb-gtlb-and-more.html
+正文: These are the stocks posting the largest moves in after-hours trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 18:57]
 标题: Prediction market traders think job creation rebounded in August
@@ -84,16 +133,6 @@
 链接: https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html
 正文: The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 19:38]
-标题: Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
-链接: https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html
-正文: The path toward the move still looks cluttered.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 19:49]
-标题: Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more
-链接: https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html
-正文: These are some of the stocks posting the largest moves midday.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 18:51]
 标题: China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit
 链接: https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html
@@ -109,10 +148,10 @@
 链接: https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value
 正文: In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 19:01]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 22:12]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 19:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 22:12]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
