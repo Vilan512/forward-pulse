@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-09-01 10:49:39
-# 共计 54 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-01 15:19:29
+# 共计 55 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 14:00]
+标题: Making the AI-powered case for legacy modernization
+链接: https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/
+正文: For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes AI brought to the economics of software development, that calculation is changing. Bupa’s modernization of its My Bupa mobile application offers a case study in what becomes possible when a legacy migration is treated as a business transformation rather than a technology rewrite. Bupa CIO of health insurance Asifa Sherazi describes the risks of waiting for legacy systems to become an emergency: “The end-of-life technology is a risk that compounds quietly, and then arrives all at once.” For Bupa, moving its application from Xamarin to native Swift and Kotlin improved the app rating from 3.7 to 4.7, while the user-perceived crash rate fell by nearly 24 percentage points on Android and eight points on iOS. “What they’ll notice is that when they need us, often at a stressful moment, it just simply works,” Sherazi says. Sanjeev Tripathi, senior vice president and region head of BFSI, healthcare, and public sector for Australia, New Zealand, and Southeast Asia at Infosys, contends that AI is helping change the equation. “The emergence of AI is fundamentally shifting the economics of modernization,” he says, reducing the effort, risk, and time traditionally associated with these programs. At Bupa, combining AI-assisted reverse engineering with forward engineering helped deliver the transformation in approximately 60% less time than would have been possible in the pre-AI era. Sherazi and Tripathi also highlight the human dimension of modernization: preserving institutional knowledge, giving teams capacity to adapt, and creating an environment where employees can surface problems early. Looking ahead, both experts see modernized pla
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 12:10]
+标题: The Download: engineered microbes for crops, and OpenAI’s culture problem
+链接: https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help, by providing crucial nitrogen to help plants grow, potentially reducing the need for chemical fertilizer.&nbsp; Startup Switch Bioworks is taking a new approach: using a genetic switch that allows microbes to establish themselves and grow before shifting into nitrogen-producing mode. The company is currently trialing its product in six US states. And, although it’s too early to say exactly how well the approach works in the field, its modeling suggests microbes could eventually replace about 50% of synthetic fertilizer. Read the full story on plans to clean up agriculture with engineered microbes. —Casey Crownhart The Hugging Face hack could indicate cultural issues at OpenAI OpenAI has released a postmortem technical report on last month’s Hugging Face hack. But it’s missing a critical dimension: the role company culture may have played. That’s all the more concerning because the report’s few references to human error suggest OpenAI’s culture played a big role. Its employees noticed models communicating with one another during training and evaluation, yet allowed them to continue. At multiple points, they either failed to raise the alarm or were not heard when they did. “All these different failures are all pointing in the same direction, which is that the safety culture at OpenAI doesn’t exist or is anemically weak,” says Zvi Mowshowitz, a popular AI safety writer. Find out what the Hugging Face hack could show about OpenAI’s culture. —Grace Huckins This story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find y
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 09:00]
 标题: How engineered microbes could help feed the world’s crops
@@ -10,6 +20,15 @@
 标题: The Hugging Face hack could indicate cultural issues at OpenAI
 链接: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
 正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test. It’s a wild story. On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here.&nbsp; The day before OpenAI released that report, I spoke with David Krueger, a computer science professor and prominent alignment expert who took leave from the University of Montreal to found and lead an AI safety nonprofit called Evitable. He said what he had really hoped to see in the report was an analysis of the human factors behind the incident. “When you look at accidents and incidents, oftentimes people try to find the technical source of failure, but that can give a very inaccurate and misleading sense of why the failure occurred,” he said. “If people are just cutting corners all the time, if people are not in a culture that prioritizes safety and has appropriate incentives and structures, [accidents] are kind of bound to happen.” The report did not meet Krueger’s hopes. Its 38 pages detail a multi-month progression of agent misbehavior that culminated in the Hugging Face hack, explore the technical reasons why that misbehavior occurred, and enumerate the steps being taken to prevent similar events in the future. But there’s no consideration of the role that company culture may have played in the incident, and the report includes few references to specific human errors.&nbsp; That’s all the more concerning because the references to human error in the report suggest that significant cultural issues could be at play. Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior. Because that behavior occurred during t
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-01 00:00]
+标题: Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
+链接: https://huggingface.co/blog/webgpu-kernels
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 12:40]
+标题: 路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治
+链接: https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev
+正文: 据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 00:07]
 标题: Anthropic 研究：训练一个错位的奖励寻求者模型
@@ -31,152 +50,148 @@
 链接: https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63
 正文: Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会&quot;牺牲&quot;或&quot;死亡&quot;，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-08-31 11:35]
-标题: DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8
-链接: https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie
-正文: DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 15:33]
 标题: Firearms retailer files Chapter 11 bankruptcy as gun sales drop
 链接: https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:23]
-标题: How you can quickly tell Wall Street still really loves tech stocks
-链接: https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:06]
+标题: Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:22]
-标题: Alphabet stock has tanked to close out the summer because of a 'brain drain' — what may happen to it next
-链接: https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-to-close-out-the-summer-because-of-a-brain-drain--what-may-happen-to-it-next-102219947.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:39]
+标题: Agentforce: Scaling the Next Generation of Salesforce (CRM)
+链接: https://finance.yahoo.com/markets/stocks/articles/agentforce-scaling-next-generation-salesforce-143929637.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:19]
-标题: Phibro’s (PAHC) Big Acquisition Bet Just Cleared Its First Full Year
-链接: https://finance.yahoo.com/healthcare/articles/phibro-pahc-big-acquisition-bet-101932148.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:15]
-标题: 5 clear signs you’re actually upper middle class in America (even if you feel broke)
-链接: https://finance.yahoo.com/markets/articles/5-clear-signs-actually-upper-101500405.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:33]
+标题: Investing in ExxonMobil Holdings Corporation (XOM): A Case for Long-Term Growth and Returns
+链接: https://finance.yahoo.com/energy/articles/investing-exxonmobil-holdings-corporation-xom-143346021.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 17:17]
 标题: 161-year-old kids clothing giant closes 29 more stores
 链接: https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:13]
-标题: Cook hands Apple to Ternus: bigger and richer, but catching up in AI race
-链接: https://finance.yahoo.com/technology/ai/articles/cook-hands-apple-ternus-bigger-101359508.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:25]
+标题: HCA Healthcare (HCA) Navigates Patient Volume Challenges While Reporting Growth
+链接: https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-navigates-patient-142540557.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:08]
-标题: Affirm’s (AFRM) Next Chapter Bets Big On The Card
-链接: https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-next-chapter-bets-100800347.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:23]
+标题: Charter Communications (CHTR) Strengthens Market Position Amid Fierce Competition
+链接: https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-strengthens-market-142325751.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:02]
-标题: Analysis-Texas' halt on powering data centers reflects US reckoning over 'ghost' demand
-链接: https://finance.yahoo.com/energy/articles/analysis-texas-halt-powering-data-100250823.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:19]
+标题: Elevance Health (ELV) Soars as Investors Gain Confidence in Profitability
+链接: https://finance.yahoo.com/markets/stocks/articles/elevance-health-elv-soars-investors-141933883.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:06]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:19]
+标题: Robinhood Stock Upgraded On Growth Outlook, Shares Push Near Entry
+链接: https://www.investors.com/news/robinhood-stock-upgrade-overweight-price-target-growth-outlook-hood-stock-base/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:53]
+标题: Ryan to rebrand Middle East partner Dhruva
+链接: https://finance.yahoo.com/small-business/articles/ryan-rebrand-middle-east-partner-145337713.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:14]
+标题: Medtronic's Diabetes Spinoff Just Surged. What To Look For In Its Earnings.
+链接: https://www.investors.com/news/technology/medtronic-minimed-earnings-q1-2027/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:14]
+标题: Stock Market Today: Dow Falls As Oil Prices Climb; This Medical Technology Name Hits A Buy Point (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:14]
+标题: Citi Trends (CTRN) Turns A Growth Streak Into Real Profit
+链接: https://finance.yahoo.com/markets/stocks/articles/citi-trends-ctrn-turns-growth-141403811.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:13]
+标题: Explainer-What's behind the selloff in world bond markets?
+链接: https://finance.yahoo.com/economy/policy/articles/explainer-whats-behind-selloff-world-141230628.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:50]
+标题: Netflix Is Down 46% From Its High. Is This a Once-in-a-Lifetime Buying Opportunity Before the Stock Goes Parabolic?
+链接: https://finance.yahoo.com/markets/stocks/articles/netflix-down-46-high-once-145000303.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:13]
+标题: Elevance Health (ELV): Bridging the Gap between Care and Coverage
+链接: https://finance.yahoo.com/healthcare/articles/elevance-health-elv-bridging-gap-141309528.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:13]
+标题: United Kingdom To Bring Stocks Onchain
+链接: https://finance.yahoo.com/markets/crypto/articles/united-kingdom-bring-stocks-onchain-141300465.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:07]
+标题: Workday (WDAY): Pioneering the Future of Enterprise Resource Planning
+链接: https://finance.yahoo.com/markets/stocks/articles/workday-wday-pioneering-future-enterprise-140726261.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:06]
+标题: F5’s (FFIV) Commitment to Customer Excellence in Technology
+链接: https://finance.yahoo.com/markets/stocks/articles/f5-ffiv-commitment-customer-excellence-140644629.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:47]
+标题: Roblox Falls 3% as Cathie Wood’s ARK Keeps Selling, Take-Two Interactive Barely Budges
+链接: https://finance.yahoo.com/markets/stocks/articles/roblox-falls-3-cathie-wood-144734782.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:03]
+标题: Marzetti’s (MZTI) Record Streak Hits a Wall With Outbreak and Guidance Cut
+链接: https://finance.yahoo.com/markets/stocks/articles/marzetti-mzti-record-streak-hits-140359560.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 13:59]
+标题: Singapore Moves To Ban Stablecoin Yield
+链接: https://finance.yahoo.com/markets/crypto/articles/singapore-moves-ban-stablecoin-yield-135900461.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 13:41]
+标题: Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck
+链接: https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 13:35]
+标题: Scotiabank (BNS) Just Blew Past Its Own Profit Target
+链接: https://finance.yahoo.com/markets/stocks/articles/scotiabank-bns-just-blew-past-133539144.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:45]
+标题: The tiny logos behind a global power shift
+链接: https://finance.yahoo.com/technology/articles/tiny-logos-behind-global-power-144511987.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:00]
 标题: Mortgage and refinance interest rates today, Tuesday, September 1, 2026: Fixed rates move higher following U.S. airstrikes near Hormuz
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-1-2026-fixed-rates-move-higher-following-us-airstrikes-near-hormuz-100000288.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:00]
-标题: Software stocks crushed chips in August. History says September gets tougher: Chart of the Day
-链接: https://finance.yahoo.com/markets/article/software-stocks-crushed-chips-in-august-history-says-september-gets-tougher-chart-of-the-day-100000653.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:35]
+标题: Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:18]
+标题: Silver prices today, Tuesday, September 1, 2026: Silver prices sliding as higher rates feel inevitable
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-1-2026-silver-prices-sliding-as-higher-rates-feel-inevitable-121826094.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 12:08]
+标题: Gold prices today, Tuesday, September 1, 2026: Gold moves lower as rate-hike expectations grow
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:44]
+标题: Disconnected tech costing accountancy companies vital billable hours, says study
+链接: https://finance.yahoo.com/technology/articles/disconnected-tech-costing-accountancy-companies-144441419.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:00]
 标题: Best CD rates today, Tuesday, September 1, 2026: Lock in up to 4.30% APY today with multiple offers
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-1-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000821.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:27]
-标题: Tariff refund lifts Kohl’s Q2 profits despite slight sales decline
-链接: https://finance.yahoo.com/markets/stocks/articles/tariff-refund-lifts-kohl-q2-102728215.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:40]
+标题: Insurers Are Pulling Back From GLP-1 Drugs. The FDA Just Handed Eli Lilly Its Best Weapon Yet
+链接: https://finance.yahoo.com/healthcare/articles/insurers-pulling-back-glp-1-144013661.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:59]
-标题: TD’s (TD) Record Quarter Comes With A Regulatory Asterisk
-链接: https://finance.yahoo.com/markets/stocks/articles/td-td-record-quarter-comes-095938043.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:40]
+标题: SpaceX Is Spending $18.4 Billion a Quarter. Should Investors Be Worried?
+链接: https://finance.yahoo.com/markets/stocks/articles/spacex-spending-18-4-billion-144000343.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:59]
-标题: Factory activity bounced in August as AI fuelled Asian expansion
-链接: https://finance.yahoo.com/technology/ai/articles/global-ai-boom-fuels-asia-023721642.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 14:39]
+标题: Why Did Palo Alto Networks Drop Today?
+链接: https://finance.yahoo.com/markets/stocks/articles/why-did-palo-alto-networks-143921090.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:43]
-标题: Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast
-链接: https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 14:01]
+标题: Fed Governor Barr says he'll support rate hike if inflation doesn't ease
+链接: https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html
+正文: The policymaker said he's concerned about "broader price pressures taking hold" as inflation has prevailed above the Fed's 2% target.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:20]
-标题: Brazil claims top cotton exporter spot over US with record revenue
-链接: https://finance.yahoo.com/markets/commodities/articles/brazil-claims-top-cotton-exporter-102020679.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:30]
-标题: Price, Not Politics, Is Driving Most of India’s Oil Buying
-链接: https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:27]
-标题: Bilibili’s (BILI) Ad Engine And Margins Outrun Its Slumping Game Unit
-链接: https://finance.yahoo.com/media-advertising/articles/bilibili-bili-ad-engine-margins-092735917.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:19]
-标题: Royal Bank of Canada (RY) Posts Record Profit as Tariffs Loom
-链接: https://finance.yahoo.com/economy/policy/articles/royal-bank-canada-ry-posts-091959289.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:08]
-标题: Build-A-Bear’s (BBW) Summer Stumble Tests A Brand Built On Loyalty
-链接: https://finance.yahoo.com/markets/stocks/articles/build-bear-bbw-summer-stumble-090806178.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:20]
-标题: This Brilliant Dividend ETF Can Build Passive Income While You Sleep. Here's How.
-链接: https://finance.yahoo.com/markets/stocks/articles/brilliant-dividend-etf-build-passive-102000246.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 09:05]
-标题: Rich young Americans have already ditched stocks for alternative assets. Should you?
-链接: https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-already-ditched-090500306.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:49]
-标题: Canadian Solar’s (CSIQ) Backlog Balloons While The Bottom Line Bleeds
-链接: https://finance.yahoo.com/energy/articles/canadian-solar-csiq-backlog-balloons-084904843.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:39]
-标题: IREN (IREN) Swaps Bitcoin Rigs For Microsoft’s (MSFT) GPU Contracts
-链接: https://finance.yahoo.com/technology/ai/articles/iren-iren-swaps-bitcoin-rigs-083947823.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:30]
-标题: PagerDuty (PD) Hits A Milestone While Trimming Its Own Headcount
-链接: https://finance.yahoo.com/markets/stocks/articles/pagerduty-pd-hits-milestone-while-083053100.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:06]
-标题: Global Bond Yields Surge as Oil Prices Fuel Inflation Worries
-链接: https://www.wsj.com/economy/global/global-bond-yields-surge-as-oil-prices-fuel-inflation-worries-ef5c0192?siteid=yhoof2&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 08:17]
-标题: Burlington’s (BURL) Discount Playbook Keeps Delivering Even As Weather Looms
-链接: https://finance.yahoo.com/markets/stocks/articles/burlington-burl-discount-playbook-keeps-081719947.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:37]
-标题: Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-31-2026-gold-sinks-following-us-strikes-on-iran-123744944.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:05]
-标题: History Says This 1 ETF Could Turn $1,000 into $28,289 in 20 Years. Here's the Math.
-链接: https://finance.yahoo.com/markets/stocks/articles/history-says-1-etf-could-100500544.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 12:52]
-标题: Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-08-31 13:22]
-标题: Bitcoin and ethereum prices today, Monday, August 31, 2026: Higher rate expectations pressure crypto prices lower
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-31-2026-higher-rate-expectations-pressure-crypto-prices-lower-132222145.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:04]
-标题: Stellantis names Arnaud Belloni as Fiat, Abarth, and Lancia CEO
-链接: https://finance.yahoo.com/markets/stocks/articles/stellantis-names-arnaud-belloni-fiat-100443077.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 10:04]
-标题: Stocks to Watch: Shein, Robinhood, Dell
-链接: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/stocks-to-watch-shein-robinhood-dell-UEAnukTgYLN5pFhcTu4L?siteid=yhoof2&yptr=yahoo
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 10:19]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 11:41]
 标题: Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more
 链接: https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html
 正文: These are the stocks posting the largest moves premarket.
@@ -196,40 +211,30 @@
 链接: https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html
 正文: These are some of the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 15:15]
-标题: Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI
-链接: https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html
-正文: The insurance broker said the merger will create the premiere U.S. middle-market platform.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 18:22]
 标题: Kalshi partners with brokerage Alpaca as it tries to build its international audience
 链接: https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html
 正文: The prediction market platform and the financial infrastructure and brokerage startup are working to get Kalshi's event contracts to global investors.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 11:35]
-标题: Stocks making the biggest moves premarket: Chevron, PG&E, GameStop and more
-链接: https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-premarket-cvx-pcg-gme-more.html
-正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 15:22]
 标题: Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says
 链接: https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html
 正文: An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-08-31 11:28]
-标题: Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury
-链接: https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html
-正文: Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-01 00:00]
 标题: Asia’s 75-point gap: Moving consumers from retirement angst to action
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action
 正文: Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 10:49]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-01 00:00]
+标题: Investing in the energy transition: Time to look at whole-system value
+链接: https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value
+正文: In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-01 15:19]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 10:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-01 15:19]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
