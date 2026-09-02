@@ -1,20 +1,24 @@
-# ForwardPulse 原始情报收割 — 2026-09-02 10:14:18
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-02 14:49:18
+# 共计 67 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-02 14:00]
+标题: Facilitating AI integration with simplicity at scale
+链接: https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/
+正文: As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than 100 sites across more than 30 countries, the answer has been to make integration and simplification a priority. The company adopted a “simplify-first, then-innovate mindset,” says Harish Manohar, SAP IT director at Jabil, recognizing that adding new technologies without first reducing complexity risks creating more risk. The goal is to standardize processes, consolidate where possible, and establish a more consistent data backbone across the organization. “Any innovation without simplification is going to add more complexity,” Manohar says. That philosophy also changes how Jabil approaches modernization. “Any modernization or transformation should add measurable business value,” Manohar says. The company is focused on connecting processes end-to-end across its supply chain and creating a foundation that can scale consistently across regions. Integration comes first because, as Manohar puts it, “the backbone of any contemporary or modern organization is data.” Before organizations can optimize, automate, or apply AI, data needs to flow seamlessly across systems. But doing that across a global organization is hardly straightforward. Jabil’s more than 100 sites operate with different levels of process maturity, legacy systems, and localized workflows, while regulated businesses bring additional compliance requirements. As such, standardizing across different regions and business environments means changing processes and governance without disrupting the operations already in place. The value of that work extends beyond the technology to the people using it. Integrated workflows can offer employe
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-02 12:10]
+标题: The Download: AI puzzles and a path to our nearest star system
+链接: https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article about an algorithm that learned to play checkers. Chess and Go are famous AI test beds too. Judged purely on its puzzling skills, AI is improving a lot—and quickly. In late 2024, even the best models could figure out only 18% of the infamous New York Times Connections puzzles; by early 2025, some could solve them nearly perfectly every time. But puzzles do more than highlight AI’s progress. Seeing where models succeed and fail, and where humans still beat them, offers a window into the technology’s strengths and weaknesses. We’ve gathered seven puzzles that have stumped models at one time or another—now it’s your turn to see how you fare. Take our test to find out whether you can outsmart AI.&nbsp; —Grace Huckins This article is from our latest print magazine, which is all about kids. Subscribe now to get all our future issues. How AI plotted an interstellar journey to Alpha Centauri A nonprofit organization called the Fermi Explorer Mission announced yesterday that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. To get there, it will follow a novel trajectory discovered by an AI system developed by PSI, a physics research lab. Explore how AI found a new route to Alpha Centauri—and what the mission could tell us about alien life. —Michelle Kim MIT Technology Review Narrated: the role of the astronaut is in flux We go to space for geopolitical prestige, manifest destiny, spiritual fulfillment, scientific curiosity, and, increasingly, business opport
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 19:10]
 标题: How AI plotted an interstellar journey to Alpha Centauri
 链接: https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/
 正文: A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&nbsp; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the spacecraft will follow a novel trajectory discovered by an AI system developed by Physical Superintelligence (PSI), an AI physics research lab. PSI is launching today with $58 million in funding led by Breakthrough Energy, a climate-focused investment group founded by Microsoft cofounder Bill Gates. It’s not the first time this has been tried. In 2016, the billionaire tech investor Yuri Milner announced an interstellar mission called Breakthrough Starshot to launch humanity’s first spacecraft to Alpha Centauri. The plan was to use powerful lasers that would propel tiny probes to a fifth of the speed of light—fast enough to reach Alpha Centauri within 20 years. Milner pledged $100 million toward a proof of concept. But a decade later, nothing has launched. “We didn’t want to do another Breakthrough Starshot,” says Philip Johnston, the cofounder and president of the Fermi Explorer Mission. “We’re dead set on something actually launching.” The new mission, currently funded by individual private donors, is expected to cost just $15 million.&nbsp; To stick to that budget, “we are not constraining ourselves to doing it in a human lifetime,” says Johnston. “Let’s just figure out the way to get to another star.”&nbsp; The spacecraft will carry cargo weighing at least one kilogram. That will include artistic and scientific payloads, messages, and a copy of the Golden Record, a gold-plated disc of Earth’s sounds and images that NASA attached to its two Voyager probes in 1977 as a message to any civilization that might find them. Engineering an interstellar journey is extremely difficult. Alpha Centauri is about 25 trillion miles away from Earth. One of
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 14:00]
-标题: Making the AI-powered case for legacy modernization
-链接: https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/
-正文: For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes AI brought to the economics of software development, that calculation is changing. Bupa’s modernization of its My Bupa mobile application offers a case study in what becomes possible when a legacy migration is treated as a business transformation rather than a technology rewrite. Bupa CIO of health insurance Asifa Sherazi describes the risks of waiting for legacy systems to become an emergency: “The end-of-life technology is a risk that compounds quietly, and then arrives all at once.” For Bupa, moving its application from Xamarin to native Swift and Kotlin improved the app rating from 3.7 to 4.7, while the user-perceived crash rate fell by nearly 24 percentage points on Android and eight points on iOS. “What they’ll notice is that when they need us, often at a stressful moment, it just simply works,” Sherazi says. Sanjeev Tripathi, senior vice president and region head of BFSI, healthcare, and public sector for Australia, New Zealand, and Southeast Asia at Infosys, contends that AI is helping change the equation. “The emergence of AI is fundamentally shifting the economics of modernization,” he says, reducing the effort, risk, and time traditionally associated with these programs. At Bupa, combining AI-assisted reverse engineering with forward engineering helped deliver the transformation in approximately 60% less time than would have been possible in the pre-AI era. Sherazi and Tripathi also highlight the human dimension of modernization: preserving institutional knowledge, giving teams capacity to adapt, and creating an environment where employees can surface problems early. Looking ahead, both experts see modernized pla
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-01 12:10]
-标题: The Download: engineered microbes for crops, and OpenAI’s culture problem
-链接: https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help, by providing crucial nitrogen to help plants grow, potentially reducing the need for chemical fertilizer.&nbsp; Startup Switch Bioworks is taking a new approach: using a genetic switch that allows microbes to establish themselves and grow before shifting into nitrogen-producing mode. The company is currently trialing its product in six US states. And, although it’s too early to say exactly how well the approach works in the field, its modeling suggests microbes could eventually replace about 50% of synthetic fertilizer. Read the full story on plans to clean up agriculture with engineered microbes. —Casey Crownhart The Hugging Face hack could indicate cultural issues at OpenAI OpenAI has released a postmortem technical report on last month’s Hugging Face hack. But it’s missing a critical dimension: the role company culture may have played. That’s all the more concerning because the report’s few references to human error suggest OpenAI’s culture played a big role. Its employees noticed models communicating with one another during training and evaluation, yet allowed them to continue. At multiple points, they either failed to raise the alarm or were not heard when they did. “All these different failures are all pointing in the same direction, which is that the safety culture at OpenAI doesn’t exist or is anemically weak,” says Zvi Mowshowitz, a popular AI safety writer. Find out what the Hugging Face hack could show about OpenAI’s culture. —Grace Huckins This story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find y
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-02 13:49]
+标题: Real-Time Intelligence with IBM Time Series Models on Confluent
+链接: https://huggingface.co/blog/ibm-research/real-time-intelligence
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-01 21:39]
 标题: BenchMIRT: What are LLM benchmarks actually measuring?
@@ -75,75 +79,180 @@
 链接: https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
 正文: Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 13:00]
-标题: OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布
-链接: https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h
-正文: OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 12:40]
-标题: 路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治
-链接: https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev
-正文: 据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 15:33]
 标题: Denny’s rival dining chain files for Chapter 11 bankruptcy
 链接: https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 08:26]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures fall as US-Iran war escalates, inflation jitters return
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:38]
+标题: Google defeats US bid to force ad tech sale
+链接: https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook
-链接: https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:34]
+标题: NVIDIA and Equinix Deepen Their AI Inference Partnership. Here’s What It Means for Both Stocks
+链接: https://finance.yahoo.com/technology/ai/articles/nvidia-equinix-deepen-ai-inference-143402756.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:31]
+标题: Where credit card balances are highest, and what it says about a K-shaped economy
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/where-credit-card-balances-are-highest-and-what-it-says-about-a-k-shaped-economy-143144084.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:30]
+标题: XRP ETFs Attract $170 million Of Capital In 11 Days
+链接: https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-170-million-143000518.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 01:12]
+标题: Costco shuts down a key service with no notice
+链接: https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:28]
+标题: Strategy CEO Defends Bitcoin Purchases And Sales
+链接: https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-defends-bitcoin-purchases-142800716.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:17]
+标题: How CrowdStrike (CRWD) is Defending Against Evolving Threats
+链接: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-defending-against-evolving-141715106.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:16]
+标题: Stock Market Today: Dow Up On Surprise Jobs Data; Dell Tries To Break Out (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:53]
+标题: Bond yields still high as investors weigh rate hike risk: AlphaCheck
+链接: https://finance.yahoo.com/markets/article/bond-yields-still-high-as-investors-weigh-rate-hike-risk-alphacheck-135357686.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 16:53]
 标题: Citi says investors should consider buying tumbling tech stock
 链接: https://finance.yahoo.com/markets/stocks/articles/citi-says-investors-consider-buying-165315833.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Mortgage and refinance interest rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:11]
+标题: Here’s What Weighed on Nu Holdings (NU) in Q2
+链接: https://finance.yahoo.com/markets/stocks/articles/weighed-nu-holdings-nu-q2-141129976.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Best CD rates today, Wednesday, September 2, 2026: Earn up to 4.30% APY with Marcus
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-2-2026-earn-up-to-430-apy-with-marcus-100000651.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:10]
+标题: Dell's Monster Quarterly Beat Shows Continued AI Momentum
+链接: https://www.investors.com/news/technology/dell-stock-jumps-monster-fiscal-q2-beat/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:55]
-标题: Here's the biggest thing keeping AI stock investors up at night
-链接: https://finance.yahoo.com/markets/stocks/article/heres-the-biggest-thing-keeping-ai-stock-investors-up-at-night-095513638.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:09]
+标题: OPEC+ likely to keep oil output policy unchanged on Sunday, sources say
+链接: https://finance.yahoo.com/energy/articles/opec-likely-keep-oil-output-140907521.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:01]
+标题: The Future of Website Building with Wix.com (WIX)
+链接: https://finance.yahoo.com/markets/stocks/articles/future-website-building-wix-com-140112857.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 16:03]
 标题: Apple's accusations are making things uncomfortable for OpenAI
 链接: https://finance.yahoo.com/technology/ai/articles/apples-accusations-making-things-uncomfortable-160300847.html
 
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:58]
+标题: Fed's Williams ties rising bond yields to strong economy, CNBC reports
+链接: https://finance.yahoo.com/economy/policy/articles/feds-williams-ties-rising-bond-135815131.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:56]
+标题: Uber Plans Layoffs For 10% Of Workforce In Restructuring. Stock Rises.
+链接: https://www.investors.com/news/technology/uber-stock-layoffs-10-percent/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 20:56]
+标题: Dell stock surges on record orders for AI servers
+链接: https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
+标题: AST SpaceMobile Soars 12% on Berenberg’s $92 Price Target, Planet Labs Climbs 5%
+链接: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-soars-12-berenberg-142015264.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:42]
+标题: 10-year Treasury touches highest level since 2023 as oil prices stay elevated
+链接: https://finance.yahoo.com/markets/article/10-year-treasury-touches-highest-level-since-2023-as-oil-prices-stay-elevated-134238599.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:41]
+标题: Your grocery bill could rise even faster next year — here's why
+链接: https://finance.yahoo.com/markets/article/your-grocery-bill-could-rise-even-faster-next-year--heres-why-134148018.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:38]
+标题: Intercontinental Exchange (ICE) Stays Resilient Amidst Competition and Innovation
+链接: https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-stays-resilient-133814022.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:37]
+标题: Trading Volumes On Kalshi And Polymarket Fell 15% In August
+链接: https://finance.yahoo.com/markets/crypto/articles/trading-volumes-kalshi-polymarket-fell-133700809.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
+标题: Why Palo Alto Networks Stock Crashed Today
+链接: https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-142013901.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:36]
+标题: Entertainment Unleashed: Sphere Entertainment’s (SPHR) Innovative Approaches
+链接: https://finance.yahoo.com/media-advertising/articles/entertainment-unleashed-sphere-entertainment-sphr-133635919.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:30]
+标题: India Boosts Far East Russian Oil Imports as War Upends Trade Routes
+链接: https://finance.yahoo.com/energy/articles/india-boosts-far-east-russian-133000476.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:27]
+标题: Exploring Semiconductor Resurgence: Lam Research’s (LRCX) Role in Advanced Chip Manufacturing
+链接: https://finance.yahoo.com/technology/articles/exploring-semiconductor-resurgence-lam-research-132749439.html
+
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Corero spikes 10% on $3.9 million UK telecom and NeoCloud deals
-链接: https://finance.yahoo.com/technology/articles/corero-spikes-10-3-9-100000630.html
+标题: Mortgage and refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:58]
-标题: Understanding a hotel’s duty of care
-链接: https://finance.yahoo.com/small-business/articles/understanding-hotel-duty-care-095857705.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
+标题: This Stock Trades at a Fraction of Its Own Projected $23.6 Billion Value. Here's Why the Market Isn't Buying It.
+链接: https://finance.yahoo.com/markets/stocks/articles/stock-trades-fraction-own-projected-142000803.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:54]
-标题: Five States Where Your $1 Million 401(k) Won’t Last Past Age 75. Make Sure You Know Your Risk
-链接: https://finance.yahoo.com/markets/articles/five-states-where-1-million-095456044.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:24]
+标题: Strength in Specialty: Carpenter Technology’s (CRS) Drive in Aerospace Materials
+链接: https://finance.yahoo.com/markets/stocks/articles/strength-specialty-carpenter-technology-crs-132437581.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:50]
-标题: Big Oil vs. Midstream: Which Side of the Barrel Pays Better Right Now?
-链接: https://finance.yahoo.com/energy/articles/big-oil-vs-midstream-side-095000579.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:24]
+标题: MongoDB Stock Tumbles Despite An Earnings Beat. Here's Why.
+链接: https://www.investors.com/news/technology/mongodb-stock-q2-2026-earnings-report/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:49]
-标题: ‘Anyone Can Become a Millionaire’ for $100 a Month, Ramsey’s Own Show Just Priced It at $2,275
-链接: https://finance.yahoo.com/markets/stocks/articles/anyone-become-millionaire-100-month-094902497.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:19]
+标题: Ecommerce Evolution: Shopify’s (SHOP) AI-Driven Approach to Retail Success
+链接: https://finance.yahoo.com/technology/ai/articles/ecommerce-evolution-shopify-shop-ai-131924519.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:48]
-标题: A $450,000 Traditional IRA vs. Roth IRA at Age 62: The Hidden Tax Bracket Trap
-链接: https://finance.yahoo.com/markets/currencies/articles/450-000-traditional-ira-vs-094837172.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:19]
+标题: Kazera secures mining right for Sea Concession 2A in Northern Cape
+链接: https://finance.yahoo.com/markets/commodities/articles/kazera-secures-mining-sea-concession-141913551.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 09:46]
-标题: Mondelēz, PepsiCo and pladis join forces for circular packaging trial
-链接: https://finance.yahoo.com/technology/articles/mondel-z-pepsico-pladis-join-094609073.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 11:26]
+标题: Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:59]
+标题: Silver price today, Wednesday, September 2, 2026: Silver prices fall further following second wave of attacks
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-2-2026-silver-prices-fall-further-following-second-wave-of-attacks-105910854.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:45]
+标题: Gold price today, Wednesday, September 2, 2026: Gold slips further as military actions escalate in Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:18]
+标题: Why Dutch Bros Stock Fell 26% in August
+链接: https://finance.yahoo.com/markets/stocks/articles/why-dutch-bros-stock-fell-141852791.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
+标题: Best CD rates today, Wednesday, September 2, 2026: Earn up to 4.30% APY with Marcus
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-2-2026-earn-up-to-430-apy-with-marcus-100000651.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:15]
+标题: Sundar Pichai’s Credibility Crisis: The AI Model That Never Came
+链接: https://finance.yahoo.com/technology/ai/articles/sundar-pichai-credibility-crisis-ai-141540669.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 13:45]
+标题: New York Fed's Williams says yield surge due to strong economic prospects
+链接: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
+正文: The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 11:40]
+标题: Stocks making the biggest moves premarket: Vertiv, Sirius, Dell, MongoDB & more
+链接: https://www.cnbc.com/2026/09/02/stocks-making-the-biggest-moves-premarket-vrt-siri-dell-mdb.html
+正文: These are the stocks posting the largest moves premarket.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 11:09]
+标题: Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now
+链接: https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html
+正文: In an appearance on CNBC's "Squawk Box," Greg Abel said that yields in the country are still relatively low.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 09:23]
 标题: Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster
@@ -160,16 +269,6 @@
 链接: https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html
 正文: Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 14:01]
-标题: Fed Governor Barr says he'll support rate hike if inflation doesn't ease
-链接: https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html
-正文: The policymaker said he's concerned about "broader price pressures taking hold" as inflation has prevailed above the Fed's 2% target.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-01 11:41]
-标题: Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more
-链接: https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 00:11]
 标题: Hugging Face's new duck robot is selling fast. A Chinese chip powers it
 链接: https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html
@@ -180,10 +279,15 @@
 链接: https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html
 正文: Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-02 10:14]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-02 00:00]
+标题: Climbing higher: Securing Switzerland’s competitiveness in a changing landscape
+链接: https://www.mckinsey.com/featured-insights/insights-on-europe/climbing-higher-securing-switzerlands-competitiveness-in-a-changing-landscape
+正文: Switzerland remains one of Europe’s most attractive locations for multinationals—but attractiveness is no longer self-sustaining. The question is not whether it stays attractive, but whether it actively fosters the conditions that sustain it.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-02 14:49]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-02 10:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-02 14:49]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
