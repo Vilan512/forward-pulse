@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-02 14:49:18
-# 共计 67 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-02 18:15:12
+# 共计 32 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-02 14:00]
 标题: Facilitating AI integration with simplicity at scale
@@ -24,15 +24,45 @@
 标题: BenchMIRT: What are LLM benchmarks actually measuring?
 链接: https://huggingface.co/blog/allenai/benchmirt
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 17:10]
+标题: 美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用
+链接: https://aihot.virxact.com/items/cmtkdrsid000erobq8vn0zy1s
+正文: 美国司法部在 OpenAI 与纽约时报的版权诉讼中提交意见书，主张用受版权文本训练 LLM 一般应属合理使用，称模型训练具有非凡转换性，并以国家安全为由警告全面许可要求会削弱美国 AI 开发者竞争力。该意见书属建议性质、不约束法院，仍将数据获取方式与具体输出是否复制受保护段落作为独立问题留给法院逐案判断。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkdrsid000erobq8vn0zy1s
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 17:01]
+标题: Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现
+链接: https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30
+正文: Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:35]
+标题: Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准
+链接: https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob
+正文: Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:29]
+标题: Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式
+链接: https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec
+正文: Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:18]
+标题: Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型
+链接: https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98
+正文: Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 15:28]
+标题: 什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环
+链接: https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj
+正文: Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 14:35]
+标题: OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆
+链接: https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj
+正文: OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 03:50]
 标题: 美团 LongCat-2.0 上线 Cline 免费试用
 链接: https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl
 正文: 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 03:33]
-标题: Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1
-链接: https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc
-正文: Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 03:32]
 标题: UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验
@@ -43,11 +73,6 @@
 标题: Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿
 链接: https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje
 正文: 通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 02:28]
-标题: UC Berkeley 团队发布 Vero 基准：测试 AI 智能体能否构建形式化验证的软件仓库
-链接: https://aihot.virxact.com/items/cmtjh8t5k06jorobvfq21a6e2
-正文: UC Berkeley 等机构发布 Vero，据称是首个要求智能体在仓库级同时编写实现与证明的基准，含 43 个多模块 Lean 4 实例、743 个计分 API 和 2705 条形式化规范。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtjh8t5k06jorobvfq21a6e2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 02:26]
 标题: Nvidia 接近以 129 亿美元收购 Hugging Face
@@ -64,185 +89,14 @@
 链接: https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo
 正文: Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 18:13]
-标题: Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%
-链接: https://aihot.virxact.com/items/cmtj0fqet001lroh9hyk6rqu0
-正文: Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtj0fqet001lroh9hyk6rqu0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 17:08]
-标题: Google DeepMind 为 Gemini 推出 agentic 视频理解功能
-链接: https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os
-正文: Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-01 16:00]
-标题: Google Workspace 推出图像创作编辑工具 Google Pics
-链接: https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
-正文: Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 15:33]
-标题: Denny’s rival dining chain files for Chapter 11 bankruptcy
-链接: https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:38]
-标题: Google defeats US bid to force ad tech sale
-链接: https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:34]
-标题: NVIDIA and Equinix Deepen Their AI Inference Partnership. Here’s What It Means for Both Stocks
-链接: https://finance.yahoo.com/technology/ai/articles/nvidia-equinix-deepen-ai-inference-143402756.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:31]
-标题: Where credit card balances are highest, and what it says about a K-shaped economy
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/where-credit-card-balances-are-highest-and-what-it-says-about-a-k-shaped-economy-143144084.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:30]
-标题: XRP ETFs Attract $170 million Of Capital In 11 Days
-链接: https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-170-million-143000518.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 01:12]
-标题: Costco shuts down a key service with no notice
+标题: Costco shuts down key service without notice
 链接: https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:28]
-标题: Strategy CEO Defends Bitcoin Purchases And Sales
-链接: https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-defends-bitcoin-purchases-142800716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:17]
-标题: How CrowdStrike (CRWD) is Defending Against Evolving Threats
-链接: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-defending-against-evolving-141715106.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:16]
-标题: Stock Market Today: Dow Up On Surprise Jobs Data; Dell Tries To Break Out (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:53]
-标题: Bond yields still high as investors weigh rate hike risk: AlphaCheck
-链接: https://finance.yahoo.com/markets/article/bond-yields-still-high-as-investors-weigh-rate-hike-risk-alphacheck-135357686.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 16:53]
-标题: Citi says investors should consider buying tumbling tech stock
-链接: https://finance.yahoo.com/markets/stocks/articles/citi-says-investors-consider-buying-165315833.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:11]
-标题: Here’s What Weighed on Nu Holdings (NU) in Q2
-链接: https://finance.yahoo.com/markets/stocks/articles/weighed-nu-holdings-nu-q2-141129976.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:10]
-标题: Dell's Monster Quarterly Beat Shows Continued AI Momentum
-链接: https://www.investors.com/news/technology/dell-stock-jumps-monster-fiscal-q2-beat/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:09]
-标题: OPEC+ likely to keep oil output policy unchanged on Sunday, sources say
-链接: https://finance.yahoo.com/energy/articles/opec-likely-keep-oil-output-140907521.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:01]
-标题: The Future of Website Building with Wix.com (WIX)
-链接: https://finance.yahoo.com/markets/stocks/articles/future-website-building-wix-com-140112857.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 16:03]
-标题: Apple's accusations are making things uncomfortable for OpenAI
-链接: https://finance.yahoo.com/technology/ai/articles/apples-accusations-making-things-uncomfortable-160300847.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:58]
-标题: Fed's Williams ties rising bond yields to strong economy, CNBC reports
-链接: https://finance.yahoo.com/economy/policy/articles/feds-williams-ties-rising-bond-135815131.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:56]
-标题: Uber Plans Layoffs For 10% Of Workforce In Restructuring. Stock Rises.
-链接: https://www.investors.com/news/technology/uber-stock-layoffs-10-percent/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-01 20:56]
-标题: Dell stock surges on record orders for AI servers
-链接: https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
-标题: AST SpaceMobile Soars 12% on Berenberg’s $92 Price Target, Planet Labs Climbs 5%
-链接: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-soars-12-berenberg-142015264.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:42]
-标题: 10-year Treasury touches highest level since 2023 as oil prices stay elevated
-链接: https://finance.yahoo.com/markets/article/10-year-treasury-touches-highest-level-since-2023-as-oil-prices-stay-elevated-134238599.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:41]
-标题: Your grocery bill could rise even faster next year — here's why
-链接: https://finance.yahoo.com/markets/article/your-grocery-bill-could-rise-even-faster-next-year--heres-why-134148018.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:38]
-标题: Intercontinental Exchange (ICE) Stays Resilient Amidst Competition and Innovation
-链接: https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-stays-resilient-133814022.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:37]
-标题: Trading Volumes On Kalshi And Polymarket Fell 15% In August
-链接: https://finance.yahoo.com/markets/crypto/articles/trading-volumes-kalshi-polymarket-fell-133700809.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
-标题: Why Palo Alto Networks Stock Crashed Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-142013901.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:36]
-标题: Entertainment Unleashed: Sphere Entertainment’s (SPHR) Innovative Approaches
-链接: https://finance.yahoo.com/media-advertising/articles/entertainment-unleashed-sphere-entertainment-sphr-133635919.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:30]
-标题: India Boosts Far East Russian Oil Imports as War Upends Trade Routes
-链接: https://finance.yahoo.com/energy/articles/india-boosts-far-east-russian-133000476.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:27]
-标题: Exploring Semiconductor Resurgence: Lam Research’s (LRCX) Role in Advanced Chip Manufacturing
-链接: https://finance.yahoo.com/technology/articles/exploring-semiconductor-resurgence-lam-research-132749439.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Mortgage and refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:20]
-标题: This Stock Trades at a Fraction of Its Own Projected $23.6 Billion Value. Here's Why the Market Isn't Buying It.
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-trades-fraction-own-projected-142000803.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:24]
-标题: Strength in Specialty: Carpenter Technology’s (CRS) Drive in Aerospace Materials
-链接: https://finance.yahoo.com/markets/stocks/articles/strength-specialty-carpenter-technology-crs-132437581.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:24]
-标题: MongoDB Stock Tumbles Despite An Earnings Beat. Here's Why.
-链接: https://www.investors.com/news/technology/mongodb-stock-q2-2026-earnings-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 13:19]
-标题: Ecommerce Evolution: Shopify’s (SHOP) AI-Driven Approach to Retail Success
-链接: https://finance.yahoo.com/technology/ai/articles/ecommerce-evolution-shopify-shop-ai-131924519.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:19]
-标题: Kazera secures mining right for Sea Concession 2A in Northern Cape
-链接: https://finance.yahoo.com/markets/commodities/articles/kazera-secures-mining-sea-concession-141913551.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 11:26]
-标题: Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:59]
-标题: Silver price today, Wednesday, September 2, 2026: Silver prices fall further following second wave of attacks
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-2-2026-silver-prices-fall-further-following-second-wave-of-attacks-105910854.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:45]
-标题: Gold price today, Wednesday, September 2, 2026: Gold slips further as military actions escalate in Iran
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:18]
-标题: Why Dutch Bros Stock Fell 26% in August
-链接: https://finance.yahoo.com/markets/stocks/articles/why-dutch-bros-stock-fell-141852791.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 10:00]
-标题: Best CD rates today, Wednesday, September 2, 2026: Earn up to 4.30% APY with Marcus
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-2-2026-earn-up-to-430-apy-with-marcus-100000651.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 14:15]
-标题: Sundar Pichai’s Credibility Crisis: The AI Model That Never Came
-链接: https://finance.yahoo.com/technology/ai/articles/sundar-pichai-credibility-crisis-ai-141540669.html
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 13:45]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 17:21]
 标题: New York Fed's Williams says yield surge due to strong economic prospects
 链接: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
-正文: The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.
+正文: New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-02 11:40]
 标题: Stocks making the biggest moves premarket: Vertiv, Sirius, Dell, MongoDB & more
@@ -284,10 +138,20 @@
 链接: https://www.mckinsey.com/featured-insights/insights-on-europe/climbing-higher-securing-switzerlands-competitiveness-in-a-changing-landscape
 正文: Switzerland remains one of Europe’s most attractive locations for multinationals—but attractiveness is no longer self-sustaining. The question is not whether it stays attractive, but whether it actively fosters the conditions that sustain it.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-02 14:49]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-02 00:00]
+标题: Why progress is more physical than we think
+链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/why-progress-is-more-physical-than-we-think
+正文: From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-02 00:00]
+标题: Private equity confirms a timeless principle: Purchase price matters
+链接: https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters
+正文: Recent data shows that buyout firms that maintain strict price discipline are delivering significantly higher MOIC than their peers.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-02 18:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-02 14:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-02 18:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
