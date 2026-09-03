@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-03 12:22:41
-# 共计 46 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-03 16:46:19
+# 共计 60 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-03 12:10]
+标题: The Download: rethinking child safety and fossil-fueled farming
+链接: https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails, and chats, issuing alerts whenever an algorithm flags something it deems dangerous. These tools have had genuine successes, preventing suicide attempts, intercepting predators, and averting school shootings. But they can also cause harm themselves, from false alarms and unnecessary interventions to damaged trust and anxiety. Child-safety researchers say better approaches exist. Here’s what they think those could look like. —Kelly Clancy This article is from our latest print magazine, which is all about kids. Subscribe now to get every issue as soon as it lands. Agriculture relies on fossil fuels. It’s costing us. Fertilizer prices have been on a roller coaster this year, driven in part by trade disruptions and high natural-gas prices. That’s because natural gas is both an energy source and a chemical input in the production of ammonia, a key fertilizer ingredient. The war in Iran has pushed natural-gas prices higher and disrupted fertilizer trade through the Strait of Hormuz—and its closure could make access harder still for some of the world’s poorest countries. Let’s take a closer look at the surging fertilizer prices, and how a few climate-friendly alternatives could bring farmers some relief. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 New York City has banned AI in elementary and middle schoolsThe one-year moratorium will affect 600,000 students. (Politico)+ It applies to any sof
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-03 10:00]
 标题: Agriculture relies on fossil fuels. It’s costing us.
@@ -11,10 +16,9 @@
 链接: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/
 正文: As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains uneven, with many organizations still working through isolated pilots. WATCH THE WEBCAST For Arun Chandra, chief operating officer at NiCE, the first step is moving beyond experimentation for its own sake. “Everybody&#8217;s trying to figure out what can we do with this technology?” he says. But scaling requires a clearer connection to business strategy: Organizations need to define whether they are trying to increase revenue, reduce costs, or pursue another strategic or financial objective. From there, they need to rethink the workflows where agents will operate instead of just layering AI onto existing processes. “The last thing you want to do is to apply AI on an outdated or an inefficient workflow,” Chandra says. That shift requires organizations to treat agentic AI as a cohesive system. Agents need access to the data, knowledge, and context required to make effective decisions, as well as connections to back-end systems if they are expected to take action. Fragmented information can undermine those capabilities: “The efficacy of these AI agents is purely a function of the context, the knowledge, and the data they can ingest and use,” Chandra says. The organizational implications are equally noteworthy. Scaling agents can create a new form of fragmentation if teams build isolated systems that don’t connect with one another, while governance, privacy, security, and change management become more important as agents take on more consequential work. Chandra argues that AI agents should ultimately be held to the same standards as human workers, with organizations thinking of their workforce as a combination of humans and A
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-02 14:00]
-标题: Facilitating AI integration with simplicity at scale
-链接: https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/
-正文: As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than 100 sites across more than 30 countries, the answer has been to make integration and simplification a priority. The company adopted a “simplify-first, then-innovate mindset,” says Harish Manohar, SAP IT director at Jabil, recognizing that adding new technologies without first reducing complexity risks creating more risk. The goal is to standardize processes, consolidate where possible, and establish a more consistent data backbone across the organization. “Any innovation without simplification is going to add more complexity,” Manohar says. That philosophy also changes how Jabil approaches modernization. “Any modernization or transformation should add measurable business value,” Manohar says. The company is focused on connecting processes end-to-end across its supply chain and creating a foundation that can scale consistently across regions. Integration comes first because, as Manohar puts it, “the backbone of any contemporary or modern organization is data.” Before organizations can optimize, automate, or apply AI, data needs to flow seamlessly across systems. But doing that across a global organization is hardly straightforward. Jabil’s more than 100 sites operate with different levels of process maturity, legacy systems, and localized workflows, while regulated businesses bring additional compliance requirements. As such, standardizing across different regions and business environments means changing processes and governance without disrupting the operations already in place. The value of that work extends beyond the technology to the people using it. Integrated workflows can offer employe
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-03 13:13]
+标题: NeoMME: an efficient Multimodal-native and Multilingual Encoder
+链接: https://huggingface.co/blog/Hcompany/neomme
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-03 00:00]
 标题: Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
@@ -28,9 +32,15 @@
 标题: Training a coding model to paint watercolours with TRL and OpenEnv
 链接: https://huggingface.co/blog/train-to-paint-with-code
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-02 13:49]
-标题: Real-Time Intelligence with IBM Time Series Models on Confluent
-链接: https://huggingface.co/blog/ibm-research/real-time-intelligence
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 15:02]
+标题: Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍
+链接: https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0
+正文: Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 11:59]
+标题: NVIDIA 宣布以 129.303 亿美元收购 Hugging Face
+链接: https://aihot.virxact.com/items/cmtli5yd109u4row52i1xg9j4
+正文: NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtli5yd109u4row52i1xg9j4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 04:49]
 标题: METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告
@@ -77,107 +87,145 @@
 链接: https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth
 正文: GitHub 工程师 Erik Kristensen 分享了 Copilot 降本的四项改动：选择性压缩工具输出、移除 view 工具行号前缀（线下推理成本降约 5%，线上用户日均推理成本降约 3%）、压缩 task-tool 提示词（每轮省约 1300 token，每活跃小时归一化成本降 2.9%）、后台任务完成后直接交付结果（AI Credits 用量降约 2.3%）。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 17:01]
-标题: Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现
-链接: https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30
-正文: Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:28]
+标题: Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'
+链接: https://finance.yahoo.com/markets/stocks/articles/sony-dismisses-ps5-buyers-508m-162827002.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:35]
-标题: Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准
-链接: https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob
-正文: Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:16]
+标题: Lake Victoria Gold Reports High-Grade Gold Intercepts at Imwelo as It Advances Metallurgical Testing
+链接: https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-reports-high-161602054.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:29]
-标题: Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式
-链接: https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec
-正文: Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:14]
+标题: Retailer's Turnaround 'Defies Belief,' Attempts To Retake Entry On Q2 Results
+链接: https://www.investors.com/news/five-below-earnings-q2-2026-sales-growth-traffic-margins-tariffs-price-target-outlook-five-stock-buy-point/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 16:18]
-标题: Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型
-链接: https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98
-正文: Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:07]
+标题: Does Janus Living (JAN) Have an Attractive Runway for Long-Term Growth?
+链接: https://finance.yahoo.com/markets/stocks/articles/does-janus-living-jan-attractive-160707135.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 15:28]
-标题: 什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环
-链接: https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj
-正文: Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 10:00]
+标题: Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 14:35]
-标题: OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆
-链接: https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj
-正文: OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:25]
+标题: 4 Reasons to Buy Medtronic Stock Like There's No Tomorrow
+链接: https://finance.yahoo.com/markets/stocks/articles/4-reasons-buy-medtronic-stock-162500873.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:11]
-标题: Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:11]
-标题: Stock Market Today: Dow Rises As Treasury Yields Fall; Broadcom Falls On Earnings (Live Coverage)
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:59]
+标题: Stock Market Today: Dow Pops 600 Points On This Signal From Fed; Microsoft, Amazon, Nvidia Gain (Live Coverage)
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:06]
-标题: Chemours (CC) Enters the AI Cooling Market with New Refrigerants
-链接: https://finance.yahoo.com/technology/ai/articles/chemours-cc-enters-ai-cooling-120607312.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:57]
+标题: Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers
+链接: https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-positioned-multiple-long-155718430.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:00]
-标题: This Manufactured Home Player Is In A Buy Zone With A 5.5% Yield
-链接: https://www.investors.com/research/the-income-investor/umh-properties-stock-real-estate-investment-trust-reit-income-investor/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:56]
+标题: Billionaire Portfolios: Top 2 Real Estate Stocks With High Dividend Yields
+链接: https://finance.yahoo.com/real-estate/articles/billionaire-portfolios-top-2-real-155623278.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:13]
-标题: QSR’s 20 Best Franchise Deals for 2026
-链接: https://finance.yahoo.com/small-business/articles/qsr-20-best-franchise-deals-133221998.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:00]
-标题: This Stock Strategy Printed Money — Until It Just Stopped Working
-链接: https://www.investors.com/etfs-and-funds/etfs/sp500-stock-strategy-printed-money-until-it-just-stopped-working/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 11:59]
-标题: Biohaven (BHVN) Cashes In On Its Biggest Epilepsy Bet
-链接: https://finance.yahoo.com/healthcare/articles/biohaven-bhvn-cashes-biggest-epilepsy-115939514.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:23]
+标题: Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy
+链接: https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 08:15]
-标题: Stock market today: Dow, S&P 500, Nasdaq futures waver as investors weigh Middle East tensions
+标题: Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease
 链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:13]
-标题: Fidelity's FIGB vs iShares' IEI: Which Bond ETF Wins?
-链接: https://finance.yahoo.com/markets/options/articles/fidelitys-figb-vs-ishares-iei-121301115.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:55]
+标题: Broadcom Forecasts Steep Ramp In AI Revenue
+链接: https://www.investors.com/news/technology/broadcom-stock-steep-ai-revenue-ramp-forecast/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:05]
-标题: Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More
-链接: https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120546364.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:50]
+标题: WaterBridge Infrastructure’s (WBI) Approach to Managing Water Resources
+链接: https://finance.yahoo.com/markets/stocks/articles/waterbridge-wbi-approach-managing-water-155026934.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:05]
-标题: AppLovin’s Algorithmic Moat Is Vulnerable, Says Investor: Why $1.9B Quarterly Revenue Isn’t Enough to Justify a Buy
-链接: https://finance.yahoo.com/markets/stocks/articles/applovin-algorithmic-moat-vulnerable-says-120510003.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:20]
+标题: Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat
+链接: https://finance.yahoo.com/markets/stocks/articles/bloom-energy-spikes-8-risk-162059642.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 11:52]
-标题: Central Garden & Pet (CENT) Raises Guidance Even As Sales Slide
-链接: https://finance.yahoo.com/markets/stocks/articles/central-garden-pet-cent-raises-115213578.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:40]
+标题: Diamond Hill Remains Bullish on United States Lime & Minerals (USLM) Despite Margin Headwinds
+链接: https://finance.yahoo.com/markets/stocks/articles/diamond-hill-remains-bullish-united-154013765.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:05]
-标题: I Think iShares Bitcoin Trust (IBIT) Is the Best Bitcoin ETF to Buy Right Now
-链接: https://finance.yahoo.com/markets/crypto/articles/think-ishares-bitcoin-trust-ibit-120500862.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 20:59]
+标题: Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy'
+链接: https://finance.yahoo.com/markets/article/broadcom-stock-falls-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:02]
-标题: EnQuest H1 Earnings Call Highlights
-链接: https://finance.yahoo.com/energy/articles/enquest-h1-earnings-call-highlights-120216999.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:35]
+标题: Ryman Hospitality (RHP) Gains from Resilient Cash Flow Generation
+链接: https://finance.yahoo.com/markets/stocks/articles/ryman-hospitality-rhp-gains-resilient-153503455.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:02]
-标题: Campbell's Q4 Earnings Call Highlights
-链接: https://finance.yahoo.com/markets/stocks/articles/campbells-q4-earnings-call-highlights-120216028.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:31]
+标题: NextEra, Santee Cooper Point to Real Dollar Savings From AI Deployments
+链接: https://finance.yahoo.com/technology/ai/articles/nextera-santee-cooper-point-real-153136767.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:20]
+标题: HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations
+链接: https://finance.yahoo.com/markets/stocks/articles/hubspot-ceo-rangan-yamini-sells-162001905.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:29]
+标题: U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.
+链接: https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:28]
+标题: Diamond Hill Stayed Focused on Magnolia Oil & Gas (MGY) After the Geopolitical Selloff
+链接: https://finance.yahoo.com/energy/articles/why-diamond-hill-stayed-focused-152858564.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:24]
+标题: Ducommun (DCO) Benefits as Defense Spending and Commercial Aerospace Rebound
+链接: https://finance.yahoo.com/markets/stocks/articles/ducommun-dco-benefits-defense-spending-152442851.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:09]
+标题: Here’s What Boosted Astrana Health (ASTH) in Q2
+链接: https://finance.yahoo.com/healthcare/articles/boosted-astrana-health-asth-q2-150951781.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:17]
+标题: Nearly 200-year-old retailer exits an entire market
+链接: https://finance.yahoo.com/small-business/articles/nearly-200-old-retailer-exits-161700765.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:01]
+标题: Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-Teens EPS Growth for Years?
+链接: https://finance.yahoo.com/markets/stocks/articles/believe-arthur-j-gallagher-ajg-150133494.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 15:01]
+标题: Bullish Option Traders Might Like This Play On Dell Stock
+链接: https://www.investors.com/research/options/dell-stock-bull-put-spread-options/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 14:56]
+标题: Mastercard (MA) Stays Resilient with AI Integration and Payment Duopoly
+链接: https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stays-resilient-ai-145603430.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:15]
+标题: Core Scientific Director Elizabeth Crain Buys 6,000 Shares
+链接: https://finance.yahoo.com/markets/stocks/articles/core-scientific-director-elizabeth-crain-161501138.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 14:55]
+标题: Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat
+链接: https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-bets-open-banking-145555831.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 14:47]
+标题: Social Security: See what's really changing in 2027
+链接: https://finance.yahoo.com/personal-finance/investing/article/social-security-see-whats-really-changing-in-2027-144723278.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 11:35]
 标题: Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:01]
-标题: Diversifying in September? iShares Emerging Markets ETF vs. iShares World ETF Compared.
-链接: https://finance.yahoo.com/markets/stocks/articles/diversifying-september-ishares-emerging-markets-120101330.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 11:16]
+标题: Silver price today, Thursday, September 3, 2026: Silver prices rise following short-lived airstrikes
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-3-2026-silver-prices-rise-following-short-lived-airstrikes-111653911.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 12:00]
-标题: 5 Elite Dividend Stocks That Pay You Every Single Month
-链接: https://finance.yahoo.com/markets/stocks/articles/5-elite-dividend-stocks-pay-120008874.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:14]
+标题: Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends
+链接: https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-booking-holdings-161400620.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 11:04]
+标题: Gold price today, Thursday, September 3, 2026: Gold moves higher on hopes that Iran war reescalation will be short-lived
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-3-2026-gold-moves-higher-on-hopes-that-iran-war-reescalation-will-be-short-lived-110444019.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 16:08]
+标题: ’65 Months of Above Target Inflation’: Powell’s Legacy May Echo Arthur Burns
+链接: https://finance.yahoo.com/economy/policy/articles/65-months-above-target-inflation-160831928.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-03 11:35]
 标题: Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more
@@ -195,14 +243,19 @@
 正文: New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
+标题: At last, customers first: AI-powered personalization can help banks create value
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value
+正文: Banks can better compete against digital-first rivals by using AI to deliver more effective, hyperpersonalized customer engagement. Here are four key components of this strategy.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
 标题: Made in America, again? Rethinking US manufacturing resilience
 链接: https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience
 正文: Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-03 12:22]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-03 16:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-03 12:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-03 16:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
