@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-04 20:04:11
-# 共计 29 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-04 22:39:24
+# 共计 26 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 18:39]
 标题: Architecting memory and storage in the AI era
@@ -15,6 +15,11 @@
 标题: Data from drones in Ukraine is fueling a new Wild West marketplace
 链接: https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
 正文: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life.&nbsp;&nbsp; For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances.&nbsp; Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development.&nbsp;&nbsp; Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 20:13]
+标题: OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放
+链接: https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7
+正文: OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 18:37]
 标题: Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明
@@ -86,26 +91,6 @@
 链接: https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
 正文: Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 21:46]
-标题: Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和
-链接: https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
-正文: Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 21:13]
-标题: Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首
-链接: https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda
-正文: Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 20:55]
-标题: Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现
-链接: https://aihot.virxact.com/items/cmtm0r9z00tmkrow5gtxa5j36
-正文: Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm0r9z00tmkrow5gtxa5j36
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 20:23]
-标题: ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍
-链接: https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf
-正文: Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-04 17:53]
 标题: White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled
 链接: https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html
@@ -136,10 +121,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive
 正文: Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&amp;L and cash impact within 12 to 24 months.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 20:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 22:39]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 20:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 22:39]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
