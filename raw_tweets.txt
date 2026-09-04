@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-03 22:02:14
-# 共计 52 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-04 00:33:14
+# 共计 38 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-03 12:10]
 标题: The Download: rethinking child safety and fossil-fueled farming
@@ -20,17 +20,20 @@
 标题: NeoMME: an efficient Multimodal-native and Multilingual Encoder
 链接: https://huggingface.co/blog/Hcompany/neomme
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
-链接: https://huggingface.co/blog/grpo-with-trl-ifstruct
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 23:24]
+标题: Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑
+链接: https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
+正文: Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: Give Your Coding Agents a Memory You Own
-链接: https://huggingface.co/blog/funes
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 22:28]
+标题: OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型
+链接: https://aihot.virxact.com/items/cmtm3lnrg022wrooelnc62oo9
+正文: OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm3lnrg022wrooelnc62oo9
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: Training a coding model to paint watercolours with TRL and OpenEnv
-链接: https://huggingface.co/blog/train-to-paint-with-code
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 21:46]
+标题: Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和
+链接: https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
+正文: Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 21:16]
 标题: OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问
@@ -167,49 +170,6 @@
 链接: https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza
 正文: Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费
-链接: https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf
-正文: xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来两周可免费使用并邀请全组织成员，包括没有现有席位的员工。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级
-链接: https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi
-正文: OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: xAI 设计 Grok Bot：为持久化智能体重构交互界面
-链接: https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb
-正文: xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: Tom Tunguz 解析 Meta Muse Spark 双轨定价背后的数据换算力逻辑
-链接: https://aihot.virxact.com/items/cmtltscl80m18row5tw9bb0qw
-正文: Tom Tunguz 分析 Meta 发布 Muse Spark 模型及双轨 API 定价：Standard Tier（muse-spark-1.3）输入 $1.25/m。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtltscl80m18row5tw9bb0qw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层
-链接: https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld
-正文: Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 00:00]
-标题: 用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现
-链接: https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug
-正文: Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-02 23:50]
-标题: 美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用
-链接: https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86
-正文: 美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 23:10]
-标题: Why you can't find McDonald's $3 value menu
-链接: https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-02 22:48]
-标题: The 5 best debit cards for kids and teens
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-debit-cards-for-kids-and-teens-224825436.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-03 11:35]
 标题: Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more
 链接: https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html
@@ -220,35 +180,10 @@
 链接: https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html
 正文: China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
-标题: Shapers and founders: The traits behind outsized value creation in Asia
-链接: https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-the-traits-behind-outsized-value-creation-in-asia
-正文: A set of common traits underlies Asian founders’ success: Passion for their work, ongoing curiosity, boundless energy, and a strong belief in their people.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
-标题: Author Talks: What the world’s best owner-CEOs get right
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right
-正文: How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful founder-CEOs—and how leaders everywhere can apply them.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
-标题: The power of purpose, culture, and grit: An interview with JoAnne Bass
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/the-power-of-purpose-culture-and-grit-an-interview-with-joanne-bass
-正文: The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
-标题: At last, customers first: AI-powered personalization can help banks create value
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value
-正文: Banks can better compete against digital-first rivals by using AI to deliver more effective, hyperpersonalized customer engagement. Here are four key components of this strategy.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-03 00:00]
-标题: Made in America, again? Rethinking US manufacturing resilience
-链接: https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience
-正文: Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-03 22:02]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 00:33]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-03 22:02]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 00:33]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
