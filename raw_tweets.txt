@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-04 17:54:44
-# 共计 62 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-04 20:04:11
+# 共计 29 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 18:39]
+标题: Architecting memory and storage in the AI era
+链接: https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/
+正文: The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while also supporting an increasingly intelligent edge of IoT and consumer devices. However, in this inference-driven landscape, every delay, bottleneck, or wasted watt directly affects human outcomes and operating costs.&nbsp; This shift changes what infrastructure must deliver. Performance, latency, memory bandwidth, storage throughput, and networking cannot be optimized in silos. Inference workloads are continuous, geographically distributed, and highly sensitive to response time, requiring systems designed for scale, resilience, and efficiency from the start. “We tend to think of AI as a single workload, and it’s not. It’s thousands, it’s millions, it’s billions of different workloads,” says Jim McGregor, founder and principal analyst, Tirias Research. AI inference changes the optimization problem from one of raw compute to coordinated infrastructure—memory, storage, and networking. For business leaders, the priority is clear: AI infrastructure decisions must balance cost, flexibility, and future readiness. The winners will be organizations that improve performance per watt, reduce environmental footprint, and remove memory and storage bottlenecks before they limit growth. AI inference requires a new architectural approach Systems for AI need to be rearchitected because shoehorning modern AI systems into legacy infrastructure limits AI’s transformative potential. Purpose-built architectures are essential to realize the true value of AI, from accelerating scientific discovery to creating truly autonomous digital agents. Traditional enterprise IT has been able to rely on relatively 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 12:10]
 标题: The Download: selling battlefield drone data and AI reshaping language
@@ -10,6 +15,21 @@
 标题: Data from drones in Ukraine is fueling a new Wild West marketplace
 链接: https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
 正文: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life.&nbsp;&nbsp; For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances.&nbsp; Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development.&nbsp;&nbsp; Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 18:37]
+标题: Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明
+链接: https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi
+正文: Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 17:45]
+标题: OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking
+链接: https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj
+正文: 据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 17:38]
+标题: OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信
+链接: https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq
+正文: OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 17:23]
 标题: GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击
@@ -25,11 +45,6 @@
 标题: 英伟达两年从零建起近千亿美元股权投资组合
 链接: https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789
 正文: 据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 12:41]
-标题: 路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理
-链接: https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg
-正文: 路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 11:33]
 标题: Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法
@@ -56,6 +71,16 @@
 链接: https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q
 正文: 作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:00]
+标题: xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省
+链接: https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8
+正文: xAI 让 Grok Bot 访问供应商支出、合同和使用数据，创建的 Haggle Bot 已识别超过 10 万美元直接节省，包括在一个 SaaS 产品中找到 43 个 90 天无活动的付费席位（节省 $14，220），在另一个产品中找出每年 $85，662 的未用 SKU。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:00]
+标题: Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮
+链接: https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy
+正文: Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 23:24]
 标题: Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑
 链接: https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
@@ -81,167 +106,12 @@
 链接: https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf
 正文: Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 19:42]
-标题: François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现
-链接: https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7
-正文: François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 19:31]
-标题: Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍
-链接: https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw
-正文: Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 18:01]
-标题: OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议
-链接: https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu
-正文: OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:34]
-标题: Americold (COLD) Raised $1.1B by Contributing 12 Warehouses to a Joint Venture. Is Deleveraging Worth Ceding 70% of the Economics?
-链接: https://finance.yahoo.com/real-estate/articles/americold-cold-raised-1-1b-173422100.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:33]
-标题: Commvault (CVLT) Triples Its Cloud Safety Net While Wall Street Cools
-链接: https://finance.yahoo.com/markets/stocks/articles/commvault-cvlt-triples-cloud-safety-173309595.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 08:10]
-标题: Stock market today: Dow, S&P 500, Nasdaq slip as hot jobs report fuels Fed rate-hike bets
-链接: https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:22]
-标题: Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit
-链接: https://finance.yahoo.com/markets/stocks/articles/zegna-zgn-direct-sales-surge-172258738.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:22]
-标题: Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:22]
-标题: Revolution Med (RVMD) Priced Rasonque at $39,800 per 30-Day Supply. Can Access Match the Clinical Breakthrough?
-链接: https://finance.yahoo.com/healthcare/articles/revolution-med-rvmd-priced-rasonque-172228096.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:18]
-标题: Hormel (HRL) Expanded Adjusted Operating Margin Despite a Volume Decline. Can Cost Savings Carry the Turnaround?
-链接: https://finance.yahoo.com/markets/stocks/articles/hormel-hrl-expanded-adjusted-operating-171850605.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:35]
-标题: Down 84% From Its High, Is NuScale Power a Bargain Hiding in Plain Sight?
-链接: https://finance.yahoo.com/markets/stocks/articles/down-84-high-nuscale-power-173500854.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:16]
-标题: Murphy Oil (MUR) Strikes Black Gold While Profits Multiply Tenfold
-链接: https://finance.yahoo.com/energy/articles/murphy-oil-mur-strikes-black-171622340.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:15]
-标题: Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?
-链接: https://finance.yahoo.com/markets/stocks/articles/science-applications-saic-grew-revenue-171604286.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:14]
-标题: Dell Afterglow Continues. These Other Stocks Top Buy Points.
-链接: https://www.investors.com/stock-lists/new-highs/dell-stock-vodafone-vod-stock/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:13]
-标题: KNOT Offshore Partners LP Q2 2026 Earnings Call Summary
-链接: https://finance.yahoo.com/markets/stocks/articles/knot-offshore-partners-lp-q2-171303273.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:33]
-标题: Here's How Rubrik Stock Gained 28.6% Last Month
-链接: https://finance.yahoo.com/markets/stocks/articles/heres-rubrik-stock-gained-28-173313208.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:10]
-标题: After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks
-链接: https://www.investors.com/research/options/microsoft-stock-msft-software-tech-options-markets-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:59]
-标题: GameStop (GME) Plans to Use $358M of Cash to Reduce Dilution in Its Note Exchange. Is Liquidity Being Put to Better Use?
-链接: https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-plans-358m-cash-165918904.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:55]
-标题: IBD Stock Of The Day Exelixis Hits Earnings Snag — And Then Breaks Out
-链接: https://www.investors.com/research/ibd-stock-of-the-day/exelixis-stock-break-out-second-quarter-2026/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 10:00]
-标题: Bitcoin's $80,000 breakout just failed after a blowout jobs report
-链接: https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:33]
-标题: Popular women's retailer closes 38 stores worldwide
-链接: https://finance.yahoo.com/markets/stocks/articles/popular-womens-retailer-closes-38-173300507.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:40]
-标题: This Oil Stock Flirts With Entry As Profits Surge 108% Amid Strait Of Hormuz Crisis
-链接: https://www.investors.com/stock-lists/stock-spotlight/oil-stock-equinor-eqnr-profits-surge-strait-of-hormuz/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:32]
-标题: Salesforce (CRM) Grew Agentforce and Data 360 ARR More Than 200%. Is AI Finally Becoming Material to Growth?
-链接: https://finance.yahoo.com/technology/ai/articles/salesforce-crm-grew-agentforce-data-163207657.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:28]
-标题: Aon (AON) is Paying $17B for USI. Can $395M of Synergies Justify Another Debt-Funded Megadeal?
-链接: https://finance.yahoo.com/markets/stocks/articles/aon-aon-paying-17b-usi-162842766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:27]
-标题: Record Diesel Prices Push Brent Toward $95
-链接: https://finance.yahoo.com/energy/articles/record-diesel-prices-push-brent-162700945.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:30]
-标题: My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?
-链接: https://finance.yahoo.com/real-estate/articles/wife-70s-move-california-bigger-101500321.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:26]
-标题: BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?
-链接: https://finance.yahoo.com/healthcare/articles/biomarin-bmrn-secured-20-u-162639879.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:24]
-标题: Adobe Names New CEO As Earnings Approach And AI Fears Persist; Navan, SailPoint Also Due
-链接: https://www.investors.com/research/earnings-preview/adobe-stock-earnings-ai-fears-sailpoint-earnings/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:14]
-标题: MIMRYLO Approval Triggered $275M Payments for Protagonist (PTGX). Are Royalties the Better Commercial Model?
-链接: https://finance.yahoo.com/healthcare/articles/mimrylo-approval-triggered-275m-payments-161422910.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:29]
-标题: Billions in U.S. Savings Bonds Have Stopped Earning Interest and Their Owners Don’t Know It. The Ones in Your Parents’ Drawer Went Silent at Exactly Year 30
-链接: https://finance.yahoo.com/markets/currencies/articles/billions-u-savings-bonds-stopped-172918026.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:13]
-标题: AMC Jumps 9% After Aron Declares War on Robinhood
-链接: https://finance.yahoo.com/markets/stocks/articles/amc-jumps-9-aron-declares-161357535.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:09]
-标题: Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review
-链接: https://www.investors.com/news/stock-market-falls-rebounds-snowflake-dell-tesla-jobs-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:01]
-标题: Diesel prices hit an all-time high, pressuring economy ahead of midterms
-链接: https://finance.yahoo.com/markets/article/diesel-prices-hit-an-all-time-high-pressuring-economy-ahead-of-midterms-160135911.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 16:01]
-标题: Teva (TEVA) Backed a Bid of Up to $125M in Cash Plus Assumed Liabilities for BioXcel’s Assets. Is Bankruptcy-Sale Risk Worth the At-Home Opportunity?
-链接: https://finance.yahoo.com/healthcare/articles/teva-teva-backed-bid-125m-160126538.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:24]
-标题: What Pays Adobe Stock Owners While The Freemium Bet Waits
-链接: https://finance.yahoo.com/markets/stocks/articles/pays-adobe-stock-owners-while-172415240.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:22]
-标题: BYD vs. Rivian: Evaluating the Better Automotive Stock to Buy for 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/byd-vs-rivian-evaluating-better-172242108.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 17:21]
-标题: Why Marvell Stock Rallied Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-rallied-today-172150765.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-03 18:19]
-标题: U.S. Bank Shield Visa Card review: 0% APR for 21 months on purchases and balance transfers
-链接: https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-shield-visa-card-181913823.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-04 17:53]
 标题: White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled
 链接: https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html
 正文: Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-04 16:00]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-04 19:07]
 标题: Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more
 链接: https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html
 正文: These are the stocks posting the largest moves midday.
@@ -266,10 +136,10 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive
 正文: Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&amp;L and cash impact within 12 to 24 months.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 17:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 20:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 17:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 20:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
