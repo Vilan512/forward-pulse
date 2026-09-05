@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-04 22:39:24
-# 共计 26 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-05 00:29:19
+# 共计 21 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 18:39]
 标题: Architecting memory and storage in the AI era
@@ -15,6 +15,16 @@
 标题: Data from drones in Ukraine is fueling a new Wild West marketplace
 链接: https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
 正文: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life.&nbsp;&nbsp; For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances.&nbsp; Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development.&nbsp;&nbsp; Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 22:52]
+标题: Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元
+链接: https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292
+正文: 据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 22:52]
+标题: GPT-6 Astra 开始向 Plus 和 Business 用户推出
+链接: https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2
+正文: Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 20:13]
 标题: OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放
@@ -66,31 +76,6 @@
 链接: https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2
 正文: Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:07]
-标题: OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线
-链接: https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz
-正文: OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:07]
-标题: 开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot
-链接: https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q
-正文: 作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:00]
-标题: xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省
-链接: https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8
-正文: xAI 让 Grok Bot 访问供应商支出、合同和使用数据，创建的 Haggle Bot 已识别超过 10 万美元直接节省，包括在一个 SaaS 产品中找到 43 个 90 天无活动的付费席位（节省 $14，220），在另一个产品中找出每年 $85，662 的未用 SKU。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-04 00:00]
-标题: Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮
-链接: https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy
-正文: Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-03 23:24]
-标题: Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑
-链接: https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
-正文: Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-04 17:53]
 标题: White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled
 链接: https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html
@@ -111,20 +96,10 @@
 链接: https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-04 00:00]
-标题: Utilities at an inflection point: Four strategic evolutions ahead
-链接: https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead
-正文: European utilities face a period of discontinuity: Electrification, renewables, flexibility needs, AI, and policy shifts are reshaping economics, driving four strategic responses as industry structure is redefined.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-04 00:00]
-标题: Voices on Quality: Unlocking warranty value in consumer automotive
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive
-正文: Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&amp;L and cash impact within 12 to 24 months.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-04 22:39]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-05 00:29]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-04 22:39]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-05 00:29]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
