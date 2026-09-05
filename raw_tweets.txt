@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-05 05:05:05
-# 共计 26 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-05 09:41:29
+# 共计 29 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 18:39]
 标题: Architecting memory and storage in the AI era
@@ -11,10 +11,25 @@
 链接: https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the Biden White House. Battlefields in Ukraine are littered with the remnants of drones. But behind all that wreckage, there’s a new gold mine for the defense sector: the data those drones generate. Ukraine has begun making millions of data points gathered during tens of thousands of drone flights available to military contractors and commercial companies. It’s a quick way to attract funding and partnerships, but it turns the front line into a model training site, using the chaos of war to create conditions that AI companies struggle to reproduce. As this new industry takes shape, we need a regulatory system that ensures battlefield data isn’t treated like ordinary commercial material. Read the full op-ed on why battlefield data needs new rules. Mother tongue —“Mother Tongue” is a short fiction story by author and AI ethicist Jenny Williams “Daddy?” Theo curled against my side in bed. “Where do words go when they die? “Well, kiddo,” I said, scratching my beard. “Words aren’t really alive to begin with. Not like you and I are alive.”Inside, Theo’s AI companion teaches him strange songs in a language his father doesn’t understand. But outside, the world is edging toward disaster. A mysterious agentic system called Tingsu has emerged in a nuclear-armed country, and no one seems to understand what it wants. Read the full short story about what happens when AI begins to reshape language. This story is from our latest print magazine, which is all about kids. Subscribe now to get every issue as soon as it lands. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Ope
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-04 09:25]
-标题: Data from drones in Ukraine is fueling a new Wild West marketplace
-链接: https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/
-正文: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life.&nbsp;&nbsp; For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances.&nbsp; Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development.&nbsp;&nbsp; Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experi
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-05 07:56]
+标题: 费马大定理的 Lean 4 机器检查完整证明开源发布
+链接: https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun
+正文: Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-05 07:53]
+标题: 塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起
+链接: https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511
+正文: 据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-05 07:41]
+标题: OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半
+链接: https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3
+正文: OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-05 07:09]
+标题: OpenAI 说明 wiki 事件并着手制定对齐事故披露框架
+链接: https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka
+正文: OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-05 00:42]
 标题: 奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出
@@ -77,12 +92,12 @@
 正文: GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 10:00]
-标题: Best CD rates today, Friday, September 4, 2026: Up to 4.35% APY return available with 18-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with-18-month-cd-100000753.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 10:00]
 标题: Mortgage and refinance interest rates today, Friday, September 4, 2026: ARM rates continue to surge ahead of jobs report
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-4-2026-arm-rates-continue-to-surge-ahead-of-jobs-report-100000896.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 10:00]
+标题: Best CD rates today, Friday, September 4, 2026: Up to 4.35% APY return available with 18-month CD
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with-18-month-cd-100000753.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-04 10:55]
 标题: Gold price today, Friday, September 4, 2026: Gold price lifts ahead of jobs report
@@ -116,10 +131,10 @@
 链接: https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html
 正文: These are the stocks posting the largest moves in the premarket.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-05 05:05]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-05 09:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-05 05:05]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-05 09:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
