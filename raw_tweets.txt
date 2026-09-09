@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-08 22:11:49
-# 共计 44 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-09 00:53:41
+# 共计 35 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-08 12:10]
 标题: The Download: our 35 Innovators Under 35 this year
@@ -29,6 +29,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-08 14:23]
 标题: Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic
 链接: https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 00:09]
+标题: GPT-6 Astra推理等级怎么选才最省Token
+链接: https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
+正文: 卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 23:55]
+标题: Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争
+链接: https://aihot.news/items/cmttbyra803k5rofpxjajvkez
+正文: OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttbyra803k5rofpxjajvkez
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 23:48]
+标题: Meta 智能体产品 Muse 开放体验，官方回应用户好评
+链接: https://aihot.news/items/cmttchnc104jvrofp05adlcv6
+正文: Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttchnc104jvrofp05adlcv6
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 21:58]
 标题: Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑
@@ -95,20 +110,6 @@
 链接: https://aihot.news/items/cmts9dr2m029hrobq86wrny37
 正文: Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmts9dr2m029hrobq86wrny37
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 00:17]
-标题: GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录
-链接: https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt
-正文: 作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 00:00]
-标题: Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉
-链接: https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc
-正文: Tom Tunguz 引用 OpenAI 内部数据，分析其 3x 研究生产力增益的来源：每名研究员 8 小时班次对应 3.14 个 agent 工作日，通常并行运行 4 个 agent。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 00:03]
-标题: EU regulators send early warning to Oracle ahead of earnings
-链接: https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 01:37]
 标题: 102-year-old mall retailer quietly closes 25 stores
 链接: https://finance.yahoo.com/small-business/articles/102-old-mall-retailer-quietly-013700033.html
@@ -128,14 +129,6 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 11:34]
 标题: Bitcoin and ethereum prices today, Tuesday, September 8, 2026: Crypto prices sliding as U.S.-Iran fighting continues
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 16:20]
-标题: 401(k) savers are setting records. How to catch up if you're behind.
-链接: https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 17:18]
-标题: Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-08 21:59]
 标题: How one hedge-fund manager built his firm to be powered entirely by AI agents
@@ -162,49 +155,15 @@
 链接: https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html
 正文: More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-07 23:23]
-标题: China says it will pump $54 billion into banks and insurers — but their stocks still fell
-链接: https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html
-正文: With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-08 12:32]
 标题: White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled
 链接: https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html
 正文: Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Global Farmer Insights 2026
-链接: https://www.mckinsey.com/industries/agriculture/our-insights/global-farmer-insights
-正文: Our biennial global survey of 5,500 farmers finds that they are becoming selective in their spending in the face of economic pressures. AI is making inroads, even as survey respondents rely on trusted advisers for purchasing guidance.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Creating value from AI and digital capabilities in logistics operations
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/creating-value-from-ai-and-digital-capabilities-in-logistics-operations
-正文: As AI and digital capabilities become more widely adopted in logistics operations, the companies seeing returns from their investments are doing three things differently.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Geopolitics and the geometry of global trade: September 2026 update
-链接: https://www.mckinsey.com/mgi/our-research/global-trade-regional-updates
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Your budget is killing your strategy: four imperatives for CFOs
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/your-budget-is-killing-your-strategy-four-imperatives-for-cfos
-正文: The traditional annual budget process is broken. It is rigid, backward-looking, and not operationally fit to keep up with today's fast-moving markets. Top-performing companies are outpacing peers by budgeting differently. Matthew Maloney, Karen McLoughlin, and Michele Tam join us to discuss their recent article on how top-performing companies are transforming the budget from a control mechanism to a dynamic road map for driving growth. They share how leading CFOs are more closely linking the budget to strategic priorities, and how harnessing AI enables a data-driven, forward-looking approach.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Modernizing for the mission: An interview with Jamie Wolff
-链接: https://www.mckinsey.com/pre-read-content/modernizing-for-the-mission-an-interview-with-jamie-wolff
-正文: The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the mission and a relentless pace of change in mind.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-08 00:00]
-标题: Smart rail infrastructure: Laying the digital tracks for resilient networks
-链接: https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks
-正文: Adopting digital and AI advances can help rail infrastructure technology address long-standing challenges. Where should operators prioritize?
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-08 22:11]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 00:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-08 22:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 00:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
