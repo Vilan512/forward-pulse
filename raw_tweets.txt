@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-09 14:55:38
-# 共计 78 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-09 18:12:57
+# 共计 40 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-09 12:10]
 标题: The Download: OpenAI’s turning point for math and a battery record
@@ -20,6 +20,15 @@
 标题: What OpenAI’s latest controversy tells us about the future of math
 链接: https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/
 正文: OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations that OpenAI used NYU mathematician Tristan Buckmaster’s and Anthropic employee Levent Alpöge’s AI-assisted work on the problem as a jumping-off point and failed to credit them. OpenAI has denied the accusations. It remains uncertain if OpenAI’s models made use of the work completed by Buckmaster and Alpöge, though Sébastien Bubeck, a member of the technical staff at OpenAI, said in a press briefing that the team was inspired to pursue the problem after hearing a rumor about Buckmaster and Alpöge’s efforts. But whether or not OpenAI’s models took advantage of Buckmaster and Alpöge’s research, this episode may mark a turning point in the history of mathematics. AI models now seem essential for making progress on the most important mathematical problems of our time, and solving them may demand resources only available at a couple of frontier AI companies, which often defy the norms of academic collaboration that undergird most mathematical progress. If that’s the future we are headed for, it is unclear how human mathematicians will fit into it.&nbsp; The problem that OpenAI claims to have solved is known as the Navier–Stokes existence and smoothness problem. It is one of seven Millennium Prize Problems selected by the Clay Mathematics Institute in 2000. Solutions come with a one million dollar prize; before today, only one other Millennium Prize Problem had been solved.&nbsp; The Navier–Stokes problem concerns a set of equations that describes how fluids, such as water and air, flow over time. The equations are widely used in the field of fluid dynamics, and they have proven powerful, but physicists and
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-09 15:36]
+标题: IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
+链接: https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 14:37]
+标题: GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻
+链接: https://aihot.news/items/cmtud99z117yurofph84r3cio
+正文: OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtud99z117yurofph84r3cio
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 13:27]
 标题: Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响
@@ -86,222 +95,51 @@
 链接: https://aihot.news/items/cmttchnc104jvrofp05adlcv6
 正文: Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttchnc104jvrofp05adlcv6
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 21:58]
-标题: Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑
-链接: https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w
-正文: Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 21:06]
 标题: OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra
 链接: https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt
 正文: OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 18:02]
-标题: Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议
-链接: https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va
-正文: Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 17:35]
-标题: Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑
-链接: https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410
-正文: Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 17:32]
-标题: NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认
-链接: https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix
-正文: NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 17:25]
-标题: Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降
-链接: https://aihot.news/items/cmtsy52b401faro5wv9smnfmk
-正文: Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsy52b401faro5wv9smnfmk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 17:23]
-标题: OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺
-链接: https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor
-正文: OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 17:01]
-标题: Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法
-链接: https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti
-正文: Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 16:10]
-标题: Dwarkesh Patel 研究：预训练进步主要来自数据改进
-链接: https://aihot.news/items/cmtsx0wm4041jrob5liwjypsq
-正文: Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtsx0wm4041jrob5liwjypsq
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:34]
-标题: “Being Too Prudent Is Actually Reckless”: Cramer as the Safe Bond Fund Loses Money Over 5 Years
-链接: https://finance.yahoo.com/markets/stocks/articles/being-too-prudent-actually-reckless-143432898.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:34]
-标题: Alphyn Capital on Its Special-Situation Investment: AnaptysBio (ANAB)
-链接: https://finance.yahoo.com/markets/stocks/articles/alphyn-capital-special-situation-investment-143413266.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:34]
-标题: What is the 'Lean FIRE' movement, and how can it help you reach financial independence?
-链接: https://finance.yahoo.com/personal-finance/banking/article/what-is-the-lean-fire-movement-143401919.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:32]
-标题: Evaluating Visa’s (V)Long-Term Moat
-链接: https://finance.yahoo.com/markets/stocks/articles/evaluating-visa-v-long-term-143227201.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:29]
-标题: Analyzing Amazon’s (AMZN) Reinvestment Flywheel in the AI Era
-链接: https://finance.yahoo.com/markets/stocks/articles/analyzing-amazon-amzn-reinvestment-flywheel-142925704.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:33]
-标题: Should You Grab Nebius In Anticipation of Full Capacity Pricing?
-链接: https://finance.yahoo.com/markets/stocks/articles/grab-nebius-anticipation-full-capacity-143330716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:26]
-标题: Alphabet (GOOG) Surges Over 20% Revenue Growth, Cloud Strength
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-over-20-142626204.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:21]
-标题: Arauca Capital’s Investment Thesis for Versabank (VBNK)
-链接: https://finance.yahoo.com/markets/stocks/articles/arauca-capital-investment-thesis-versabank-142148766.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 08:04]
-标题: Stock market today: Dow, S&P 500, Nasdaq slip as oil prices hit $100
-链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:17]
-标题: Alphabet (GOOG) Exit: Monetizing Derivative Gains and Securing Returns
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-exit-monetizing-derivative-141704201.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:31]
-标题: Saipem wins Osman Gazi FPU commissioning contract in Türkiye
-链接: https://finance.yahoo.com/energy/articles/saipem-wins-osman-gazi-fpu-143122374.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:15]
-标题: ‘Unholy developments’: Jim Cramer warns interest rates are unlikely to drop — bolster your portfolio before a reckoning
-链接: https://finance.yahoo.com/economy/policy/articles/unholy-developments-jim-cramer-warns-141500224.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:09]
-标题: Meta stock surges with Wall Street bullish on new AI agent
-链接: https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:09]
-标题: Stock Market Today: Dow Off 350 Points As Oil Surges; Chevron Shares Move Past A Buy Point (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:05]
-标题: Beyond AI Buzz: Carvana (CVNA) Shines as Hidden Gem
-链接: https://finance.yahoo.com/markets/stocks/articles/beyond-ai-buzz-carvana-cvna-140519999.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:31]
-标题: Morrisons partners with Instaleap to streamline online order fulfilment
-链接: https://finance.yahoo.com/small-business/articles/morrisons-partners-instaleap-streamline-online-143113145.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:03]
-标题: Jersey Mike's First Earnings Report Since IPO: A Hero Or Sub-Standard?
-链接: https://www.investors.com/news/jersey-mikes-jmke-stock-earnings-report/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:59]
-标题: Flattened Premiums Undermine Arch Capital Group Ltd.’s (ACGL) Consistent Gains
-链接: https://finance.yahoo.com/markets/stocks/articles/flattened-premiums-undermine-arch-capital-135907556.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:58]
-标题: Rising Markets Lift Primerica’s (PRI) Investment Sales Outlook
-链接: https://finance.yahoo.com/markets/stocks/articles/rising-markets-lift-primerica-pri-135802709.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:57]
-标题: Bond yields tick higher as oil tops $100: AlphaCheck
-链接: https://finance.yahoo.com/markets/article/bond-yields-tick-higher-as-oil-tops-100-alphacheck-135740415.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:30]
-标题: Prediction: This Could Be the Next AI Stock to Join the $5 Trillion Club
-链接: https://finance.yahoo.com/markets/stocks/articles/prediction-could-next-ai-stock-143009031.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:57]
-标题: Newly minted tech millionaires are now clamoring for financial advice
-链接: https://finance.yahoo.com/markets/article/newly-minted-tech-millionaires-are-now-clamoring-for-financial-advice-135732903.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:55]
-标题: Hewlett Packard Enterprise (HPE)’s AI Boom Fuels Growth, Margins, and Healthier Outlook
-链接: https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-hpe-ai-135550535.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:55]
-标题: What Makes Choice Hotels International (CHH) an Attractive Investment Bet?
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-choice-hotels-international-chh-135543680.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:54]
-标题: Overroute raises $5.5M to expand AI freight execution platform
-链接: https://finance.yahoo.com/technology/ai/articles/overroute-raises-5-5m-expand-135439896.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:30]
-标题: 2 Dividend Stocks Built to Hold Up When Markets Don't
-链接: https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-built-hold-143000716.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:53]
-标题: Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent
-链接: https://www.investors.com/news/technology/meta-stock-jumps-muse-ai-agent/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:46]
-标题: Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'
-链接: https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:44]
-标题: Premium Flattening Hits Kinsale Capital Group (KNSL) Stock Performance
-链接: https://finance.yahoo.com/markets/stocks/articles/premium-flattening-hits-kinsale-capital-134443876.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:38]
-标题: U.S. Bancorp To Launch Its Own Stablecoin
-链接: https://finance.yahoo.com/markets/crypto/articles/u-bancorp-launch-own-stablecoin-133800310.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:29]
-标题: Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More
-链接: https://finance.yahoo.com/markets/stocks/articles/apple-raising-streaming-prices-next-142940021.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 12:10]
-标题: Brent oil crosses $100 for first time in two months as Middle East conflict flares
-链接: https://finance.yahoo.com/markets/commodities/article/brent-oil-crosses-100-for-first-time-in-two-months-as-middle-east-conflict-flares-121035800.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 13:36]
-标题: Jim Cramer Says Five Below (FIVE) is a “Buy, Buy, Buy”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-five-below-133617374.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 11:25]
-标题: Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:59]
-标题: Silver price today, Wednesday, September 9, 2026: Silver prices hold in the $66 range as U.S.-Iranian attacks continue
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:28]
-标题: FuelCell Energy (FCEL) Q3 2026 Earnings Call Transcript
-链接: https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-q3-2026-142802008.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:41]
-标题: Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 20:50]
+标题: Home insurance rates are up 47% nationwide. See the states where rates rose the most.
+链接: https://finance.yahoo.com/personal-finance/insurance/article/home-insurance-rates-are-up-47-nationwide-see-the-states-where-rates-rose-the-most-205039646.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
 标题: Best CD rates today, Wednesday, September 9, 2026: Earn up to 4.35% APY with Marcus
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-9-2026-earn-up-to-435-apy-with-marcus-100000741.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:28]
-标题: REX American Resources (REX) Q2 2026 Earnings Call Transcript
-链接: https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-q2-142802881.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
 标题: Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise
 链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 16:20]
-标题: 401(k) savers are setting records. How to catch up if you're behind.
-链接: https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:41]
+标题: Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:26]
-标题: 3 Monthly Dividend ETFs to Buy Hand Over Fist Before September’s Fed Meeting
-链接: https://finance.yahoo.com/markets/stocks/articles/3-monthly-dividend-etfs-buy-142627685.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:59]
+标题: Silver price today, Wednesday, September 9, 2026: Silver prices hold in the $66 range as U.S.-Iranian attacks continue
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 17:18]
-标题: Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 11:25]
+标题: Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 14:34]
+标题: What is the 'Lean FIRE' movement, and how can it help you reach financial independence?
+链接: https://finance.yahoo.com/personal-finance/banking/article/what-is-the-lean-fire-movement-143401919.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 15:03]
+标题: Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.
+链接: https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 15:20]
+标题: How long should you wait between credit card applications?
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-09 17:41]
+标题: Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more
+链接: https://www.cnbc.com/2026/09/09/stocks-making-the-biggest-moves-midday-meta-csr-aapl-casy-sig.html
+正文: These are the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-09 12:00]
 标题: Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more
@@ -337,10 +175,15 @@
 链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-key-to-ai-value-is-hiding-in-plain-sight-your-operating-model
 正文: New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices and executing them effectively.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 14:55]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
+标题: Building profitable EVs: Ten structural design moves to cut material costs
+链接: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs
+正文: With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 18:12]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 14:55]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 18:12]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
