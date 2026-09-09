@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-09-09 05:35:14
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-09 10:27:06
+# 共计 55 条来自 8 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-09 09:00]
+标题: Batteries just broke another record in the US
+链接: https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/
+正文: Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of batteries installed in 2026, a 20% increase over last year. This growth is being driven by a combination of cheaper batteries and an urgent need for more energy storage capacity as renewables such as solar and onshore wind power are added to the grid.&nbsp; Massive, utility-scale systems are leading the way; they’re responsible for most of the record-setting quarter. Seven new gigascale battery installations (those with a capacity of over one gigawatt-hour) came online during the three-month stretch, according to the report, published by Benchmark Mineral Intelligence and the Solar Energy Industries Association. “It really came down to a handful of big projects,” says Shan Tomouk, energy storage and energy lead for Benchmark Mineral Intelligence. But there was also growth in the category of so-called behind-the-meter batteries, which include both residential and industrial battery storage systems. These projects, generally smaller than utility-scale installations, are typically owned and operated by homeowners or businesses rather than utilities or power providers.&nbsp; In the behind-the-meter category, data centers led the way, making up about three-quarters of new batteries in the commercial sector. But residential batteries saw a sharp slowdown. These systems are often installed in homes to store power from solar panels or serve as a backup source in case of a blackout. Home installations are projected to drop by 16% in 2026 compared with last year, according to the report. That drop happened largely because a tax credit that helped subsidize home battery systems ended in 2025, Tomouk says. Home installations should recover by the end of the decade,
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-09 08:18]
+标题: Understanding the thermal ceiling in portable power
+链接: https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/
+正文: Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity. The charger may be capable of delivering more, but the device simply stops taking it. For anyone building products in the portable power category, this creates an uncomfortable gap between specification and experience. A device rated at 25 watts is accurate in the sense that it can deliver 25 watts. Whether it delivers 25 watts for the duration of a charge is a different question, and one the specification does not answer. The specification gap The gap matters commercially because it is invisible at the point of purchase and obvious in use. Consumers compare wattage figures on packaging. They don’t compare thermal curves, because thermal curves are not published publicly. The result is a category where products differentiate on a number that describes peak output rather than sustained output, and where the actual user experience of two products with identical specifications can diverge substantially. This is particularly acute in magnetic wireless charging. Inductive power transfer generates heat at both the transmitting and receiving coils, and the magnetic attachment that makes these products convenient also places the heat source in direct contact with the device it is charging. Convenience and thermal performance are working against each other by design. The industry&#8217;s response for the past several years has been materials science. Graphite sheets, thermal interface materials, conductive housings, and heat-spreading layers have all improved how efficiently accumulated heat moves away from the source. Each generation has been incrementally better than the last. But passive dissipation h
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-09 03:10]
 标题: What OpenAI’s latest controversy tells us about the future of math
@@ -35,6 +45,41 @@
 标题: Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic
 链接: https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 09:34]
+标题: 纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明
+链接: https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g
+正文: 纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 09:20]
+标题: NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识
+链接: https://aihot.news/items/cmttwa2j30pktrofpw67b9pby
+正文: NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttwa2j30pktrofpw67b9pby
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 09:17]
+标题: Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明
+链接: https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb
+正文: Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 08:37]
+标题: 美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型
+链接: https://aihot.news/items/cmttulwa90npwrofpsde4lc0k
+正文: NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttulwa90npwrofpsde4lc0k
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 08:00]
+标题: 《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI
+链接: https://aihot.news/items/cmttva2tg0oezrofpagfj7986
+正文: 《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttva2tg0oezrofpagfj7986
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 07:10]
+标题: Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议
+链接: https://aihot.news/items/cmtts0bi50l1frofpe39el7a1
+正文: Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtts0bi50l1frofpe39el7a1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 06:41]
+标题: 曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请
+链接: https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg
+正文: 路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 00:27]
 标题: OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异
 链接: https://aihot.news/items/cmttklkuj0chfrofpzacvz20x
@@ -44,11 +89,6 @@
 标题: GPT-6 Astra推理等级怎么选才最省Token
 链接: https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
 正文: 卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 23:55]
-标题: Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争
-链接: https://aihot.news/items/cmttbyra803k5rofpxjajvkez
-正文: OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttbyra803k5rofpxjajvkez
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 23:48]
 标题: Meta 智能体产品 Muse 开放体验，官方回应用户好评
@@ -105,20 +145,74 @@
 链接: https://aihot.news/items/cmtt0pw2p018pro9owlhpi092
 正文: OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtt0pw2p018pro9owlhpi092
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 10:00]
-标题: OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答
-链接: https://aihot.news/items/cmtszna9e04isro5woti0ixg6
-正文: OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtszna9e04isro5woti0ixg6
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:03]
+标题: Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 07:20]
-标题: 数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过
-链接: https://aihot.news/items/cmtscjydz01garow6gi54pft9
-正文: 特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtscjydz01garow6gi54pft9
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 08:04]
+标题: Stock market today: Dow, S&P 500, Nasdaq futures hold steady as oil prices near $100
+链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 05:58]
-标题: Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元
-链接: https://aihot.news/items/cmts9dr2m029hrobq86wrny37
-正文: Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmts9dr2m029hrobq86wrny37
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
+标题: Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
+标题: Best CD rates today, Wednesday, September 9, 2026: Earn up to 4.35% APY with Marcus
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-9-2026-earn-up-to-435-apy-with-marcus-100000741.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 09:46]
+标题: Jersey Mike's Faces Key Test With First Earnings Report Since IPO
+链接: https://www.investors.com/news/jersey-mikes-jmke-stock-earnings-report/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:15]
+标题: Sterling Rises as Markets Raise BOE Rate Hike Expectations
+链接: https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:07]
+标题: Can Micron Catch Up to Nvidia's $5.5 Trillion Market Cap?
+链接: https://finance.yahoo.com/markets/stocks/articles/micron-catch-nvidias-5-5-100700144.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:06]
+标题: Google to Invest $15 Billion on AI Infrastructure in Finland
+链接: https://www.wsj.com/business/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:05]
+标题: Bloom Energy Delivered Power to an Oracle Data Center in 55 Days. Here's Why That Number Matters More Than the Revenue Beat.
+链接: https://finance.yahoo.com/energy/articles/bloom-energy-delivered-power-oracle-100500731.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:04]
+标题: JSW, Volkswagen sign non-binding MoU for 51:49 India JV – report
+链接: https://finance.yahoo.com/technology/articles/jsw-volkswagen-sign-non-binding-100430675.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:03]
+标题: The 63-to-70 Roth Conversion Window: How a $1.3 Million Couple Cuts Their Lifetime Tax Bill by $185,000
+链接: https://finance.yahoo.com/markets/options/articles/63-70-roth-conversion-window-100332939.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:03]
+标题: IonQ Investor Day Unveils Superion Roadmap, SkyWater-Powered Growth Strategy
+链接: https://finance.yahoo.com/technology/ai/articles/ionq-investor-day-unveils-superion-100318103.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:03]
+标题: The Gym Group H1 Earnings Call Highlights
+链接: https://finance.yahoo.com/markets/stocks/articles/gym-group-h1-earnings-call-100317979.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 11:10]
+标题: Gold prices today, Tuesday, September 8, 2026: Gold moves lower following fresh escalations with Iran
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-8-2026-gold-moves-lower-following-fresh-escalations-with-iran-111035525.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 11:19]
+标题: Silver prices today, Tuesday, September 8, 2026: Silver prices holding over $66 as Iran conflict wages on
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-8-2026-silver-prices-holding-over-66-as-iran-conflict-wages-on-111935447.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-08 11:34]
+标题: Bitcoin and ethereum prices today, Tuesday, September 8, 2026: Crypto prices sliding as U.S.-Iran fighting continues
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-09 06:26]
+标题: Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal
+链接: https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html
+正文: The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-09 04:12]
 标题: China's EV makers shift gears to focus on humanoids as car market slows
@@ -145,20 +239,20 @@
 链接: https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-premarket-pton-roiv-bsx.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-08 08:16]
-标题: Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks
-链接: https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html
-正文: More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-08 12:32]
 标题: White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled
 链接: https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html
 正文: Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 05:35]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
+标题: The key to AI value is hiding in plain sight: Your operating model
+链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-key-to-ai-value-is-hiding-in-plain-sight-your-operating-model
+正文: New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices and executing them effectively.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 10:27]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 05:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 10:27]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
