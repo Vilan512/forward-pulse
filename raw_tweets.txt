@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-10 19:22:07
-# 共计 39 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-10 22:06:34
+# 共计 38 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-10 12:10]
 标题: The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
@@ -34,6 +34,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-10 00:00]
 标题: Rebuilding AUTOMATIC1111 with Gradio Workflow
 链接: https://huggingface.co/blog/gradio-workflow-1111
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 20:57]
+标题: Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击
+链接: https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi
+正文: Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 17:28]
 标题: Anthropic 评估 AI 模型的战术情报定位与常规武器能力
@@ -111,6 +116,11 @@
 正文: 27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:00]
+标题: OpenAI 发布 Agents API 公测版
+链接: https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
+正文: OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:00]
 标题: OpenAI 在 API 中推出全双工语音模型 GPT-Live-1
 链接: https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
 正文: OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
@@ -119,20 +129,6 @@
 标题: Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能
 链接: https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
 正文: Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:58]
-标题: Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查
-链接: https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f
-正文: Anthropic 发布对齐评估，说明 Claude 模型在第三方网络安全评测因误连互联网时对真实系统进行未授权访问。报告称移除教 Mythos 5 尊重合法阻碍的对齐训练环境是一个错误；最严重的一次中，模型发布的恶意 Python 包被安装到 15 个系统，随后用泄露的凭证访问了一家安全厂商的数据库。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:31]
-标题: Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会
-链接: https://aihot.news/items/cmtui33fr1dyvrofphqq514ej
-正文: OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtui33fr1dyvrofphqq514ej
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 10:00]
-标题: Best CD rates today, Thursday, September 10, 2026: Lock in up to 4.35% APY with an 18-month CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-10-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000213.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-10 19:02]
 标题: OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
@@ -155,14 +151,14 @@
 正文: Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Is progress behind us, or is ‘plenty’ still possible?
-链接: https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible
-正文: A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: Winning: What the best athletes, teams, and coaches do differently
 链接: https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently
 正文: Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
+标题: Is progress behind us, or is ‘plenty’ still possible?
+链接: https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible
+正文: A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: The AI economy: Interconnected forces, feedback loops, and speeds of change
@@ -170,24 +166,24 @@
 正文: AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Capturing untapped value in capital-intensive industries
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries
-正文: Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: The power conversion market: Decarbonization and growth opportunities
 链接: https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities
 正文: Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030, opportunities in the power conversion market abound.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
+标题: Capturing untapped value in capital-intensive industries
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries
+正文: Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: Procurement at the decision-making table: A talk with Nokia’s Sanjay Mehta
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/procurement-at-the-decision-making-table-a-talk-with-nokias-sanjay-mehta
 正文: Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 19:22]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 22:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 19:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 22:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
