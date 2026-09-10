@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-09 23:41:30
-# 共计 42 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-10 02:14:47
+# 共计 35 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-09 12:10]
 标题: The Download: OpenAI’s turning point for math and a battery record
@@ -24,6 +24,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-09 15:36]
 标题: IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
 链接: https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:34]
+标题: Suno v6 发布，支持图片、视频和语音备忘录生成音乐
+链接: https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
+正文: Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:08]
+标题: 27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局
+链接: https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
+正文: 27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:31]
 标题: Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会
@@ -75,6 +85,11 @@
 链接: https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo
 正文: Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 13:00]
+标题: OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案
+链接: https://aihot.news/items/cmturgfqq0c5prorpcycuemwl
+正文: OpenAI 宣布推动强制性、基于能力的国家 AI 安全监管，并正式支持四项已通过加州议会的法案：SB 813（独立安全评估基础设施）、AB 1405（AI 审计师标准）、SB 1119（未成年人保护）、AB 1864（防范 AI 生物威胁）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmturgfqq0c5prorpcycuemwl
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 11:00]
 标题: OpenAI 发布 GPT-6 Astra，面向专业工作场景
 链接: https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h
@@ -120,41 +135,14 @@
 链接: https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg
 正文: 路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 00:27]
-标题: OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异
-链接: https://aihot.news/items/cmttklkuj0chfrofpzacvz20x
-正文: OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttklkuj0chfrofpzacvz20x
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 00:09]
-标题: GPT-6 Astra推理等级怎么选才最省Token
-链接: https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
-正文: 卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttcqkx404pprofp0jwc34zu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 00:00]
-标题: OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留
-链接: https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh
-正文: OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 同理服务欧盟。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-08 23:48]
-标题: Meta 智能体产品 Muse 开放体验，官方回应用户好评
-链接: https://aihot.news/items/cmttchnc104jvrofp05adlcv6
-正文: Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmttchnc104jvrofp05adlcv6
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
 标题: Best CD rates today, Wednesday, September 9, 2026: Earn up to 4.35% APY with Marcus
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-9-2026-earn-up-to-435-apy-with-marcus-100000741.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:00]
-标题: Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:41]
-标题: Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-09 10:59]
-标题: Silver price today, Wednesday, September 9, 2026: Silver prices hold in the $66 range as U.S.-Iranian attacks continue
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-10 01:53]
+标题: Ant International partners with Visa, Mastercard on developing AI payments
+链接: https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html
+正文: Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-09 17:41]
 标题: Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more
@@ -176,29 +164,10 @@
 链接: https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html
 正文: As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
-标题: How AI Is Reshaping What Clients Expect from Financial Advisors
-链接: https://www.mckinsey.com/cn/updates/how-ai-is-reshaping-what-clients-expect-from-financial-advisors
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
-标题: Building profitable EVs: Ten structural design moves to cut material costs
-链接: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs
-正文: With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
-标题: Author Talks: Why leadership intelligence matters in the AI age
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-leadership-intelligence-matters-in-the-ai-age
-正文: Lessons from cognitive science can help leaders become wiser, more inspiring, and more resilient. McKinsey Senior Adviser Caroline Webb explains why human intelligence is a growing leadership advantage.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-09 00:00]
-标题: The key to AI value is hiding in plain sight: Your operating model
-链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-key-to-ai-value-is-hiding-in-plain-sight-your-operating-model
-正文: New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices and executing them effectively.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-09 23:41]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 02:14]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-09 23:41]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 02:14]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
