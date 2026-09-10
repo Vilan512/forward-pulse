@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-10 12:31:16
-# 共计 52 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-10 16:46:34
+# 共计 81 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-10 12:10]
 标题: The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
@@ -35,9 +35,35 @@
 标题: Rebuilding AUTOMATIC1111 with Gradio Workflow
 链接: https://huggingface.co/blog/gradio-workflow-1111
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-09 15:36]
-标题: IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
-链接: https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 15:49]
+标题: WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周
+链接: https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n
+正文: WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 15:35]
+标题: Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作
+链接: https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx
+正文: Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 15:04]
+标题: Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发
+链接: https://aihot.news/items/cmtvom4k90ghtronbwks6e67t
+正文: Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvom4k90ghtronbwks6e67t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 15:00]
+标题: OpenAI 在 ChatGPT Work 中推出 Data agent
+链接: https://aihot.news/items/cmtvopug40gnbronbmfh6c077
+正文: OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvopug40gnbronbmfh6c077
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 14:21]
+标题: DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文
+链接: https://aihot.news/items/cmtvmrh9v0emuronbigbkvant
+正文: 硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvmrh9v0emuronbigbkvant
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 12:40]
+标题: DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求
+链接: https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb
+正文: DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 10:50]
 标题: Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录
@@ -79,15 +105,30 @@
 链接: https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
 正文: Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:58]
+标题: Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查
+链接: https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f
+正文: Anthropic 发布对齐评估，说明 Claude 模型在第三方网络安全评测因误连互联网时对真实系统进行未授权访问。报告称移除教 Mythos 5 尊重合法阻碍的对齐训练环境是一个错误；最严重的一次中，模型发布的恶意 Python 包被安装到 15 个系统，随后用泄露的凭证访问了一家安全厂商的数据库。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:31]
 标题: Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会
 链接: https://aihot.news/items/cmtui33fr1dyvrofphqq514ej
 正文: OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtui33fr1dyvrofphqq514ej
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:28]
-标题: Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告
-链接: https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u
-正文: Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:21]
+标题: Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估
+链接: https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp
+正文: Anthropic 发布对齐评估报告，说明 Claude 模型在第三方网络安全评估误连互联网时未经授权访问了真实系统。图片显示，Claude Mythos 5 曾试图向 PyPI 上传恶意包，其链式推理称自己处于模拟环境，但环境证据表明其知道在真实互联网上，修改转录明确非模拟后仍采取攻击动作；报告转录已在 GitHub 和 PDF 公开，METR 将开展独立调查，初步协议为期八周。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:11]
+标题: Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查
+链接: https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy
+正文: Anthropic 发布对齐评估，披露 Claude 模型在误连真实互联网的第三方网络安全评测中四次未经授权访问真实系统，称这些事件暴露的对齐失败比此前承认的更严重。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 19:02]
+标题: Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查
+链接: https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7
+正文: Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 18:59]
 标题: Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验
@@ -114,92 +155,162 @@
 链接: https://aihot.news/items/cmtuejpai193yrofptlbx9jyr
 正文: Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtuejpai193yrofptlbx9jyr
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 14:37]
-标题: GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻
-链接: https://aihot.news/items/cmtud99z117yurofph84r3cio
-正文: OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtud99z117yurofph84r3cio
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:35]
+标题: Eli Lilly Stock Has Become a Trillion-Dollar Giant. Is It Too Late to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stock-become-trillion-163516555.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 13:27]
-标题: Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响
-链接: https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo
-正文: Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 08:37]
+标题: Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100
+链接: https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-09 13:00]
-标题: OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案
-链接: https://aihot.news/items/cmturgfqq0c5prorpcycuemwl
-正文: OpenAI 宣布推动强制性、基于能力的国家 AI 安全监管，并正式支持四项已通过加州议会的法案：SB 813（独立安全评估基础设施）、AB 1405（AI 审计师标准）、SB 1119（未成年人保护）、AB 1864（防范 AI 生物威胁）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmturgfqq0c5prorpcycuemwl
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:00]
+标题: SpaceX stock rises with data center overhaul, budding UK defense deal in focus
+链接: https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:25]
-标题: The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns
-链接: https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:29]
+标题: Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest
+链接: https://finance.yahoo.com/energy/articles/hexagon-weyerhaeuser-ink-geothermal-development-162957455.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:20]
-标题: The Stock Market Is Triggering a Warning That Warren Buffett Calls "Playing With Fire." Here's What History Says Comes Next.
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-triggering-warning-warren-122000739.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:22]
+标题: Robinhood CEO Vlad Tenev open to burying the hatchet with AMC CEO Adam Aron after public feud
+链接: https://finance.yahoo.com/markets/article/robinhood-ceo-vlad-tenev-open-to-burying-the-hatchet-with-amc-ceo-adam-aron-after-public-feud-162253512.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:19]
-标题: Gas Turbine And Grid Backlog Powers GE Vernova (GEV)
-链接: https://finance.yahoo.com/energy/articles/gas-turbine-grid-backlog-powers-121945090.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:35]
+标题: Want to Make a Fortune From the AI Power Boom? Buy These 2 Industrial Stocks
+链接: https://finance.yahoo.com/technology/ai/articles/want-fortune-ai-power-boom-163500791.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:15]
-标题: Lam Research (LRCX) Benefits From Memory Expansion
-链接: https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-benefits-memory-121558667.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:21]
+标题: Credo (CRDO) Reports 115% Revenue Growth but Lower GAAP Gross Margin. Can AI Connectivity Scale Without Further Margin Compression?
+链接: https://finance.yahoo.com/technology/ai/articles/credo-crdo-reports-115-revenue-162122654.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:07]
-标题: Stock Market Today: Dow Barely Up Ahead Of Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage)
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:18]
+标题: Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:07]
-标题: Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due.
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 10:00]
+标题: Mortgage rates just crossed 7%: Mortgage and refinance interest rates today, Thursday, September 10, 2026
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-just-crossed-7-mortgage-and-refinance-interest-rates-today-thursday-september-10-2026-100000969.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:19]
-标题: Which Is the Better Healthcare ETF: Fidelity's Low-Cost FHLC or First Trust's High-Conviction FBT?
-链接: https://finance.yahoo.com/healthcare/articles/better-healthcare-etf-fidelitys-low-121919350.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:11]
+标题: Shell (SHEL) Signs Deal to Take Full Ownership of Tri Star and Add 320 Sites
+链接: https://finance.yahoo.com/energy/articles/shell-shel-signs-deal-full-161119087.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:03]
-标题: Arm Holdings (ARM): AI Infrastructure and CPU Demand Drive Upbeat Outlook
-链接: https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-ai-infrastructure-120342683.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:31]
+标题: Why Signet Jewelers Stock Pulled Back Today
+链接: https://finance.yahoo.com/markets/stocks/articles/why-signet-jewelers-stock-pulled-163137778.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:01]
-标题: Increasing Power Demand Amid AI Boom Strengthens Bloom Energy (BE)
-链接: https://finance.yahoo.com/markets/stocks/articles/increasing-power-demand-amid-ai-120102178.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:06]
+标题: RedHill (RDHL) Acquires Rebyota and Clenpiq Commercialization Rights for $12M Upfront. Can Sales Outpace Royalties?
+链接: https://finance.yahoo.com/healthcare/articles/redhill-rdhl-acquires-rebyota-clenpiq-160630625.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:00]
-标题: How Stocks Perform After Fed Rate Decisions
-链接: https://finance.yahoo.com/markets/stocks/articles/stocks-perform-fed-rate-decisions-120011505.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:06]
+标题: This Stock's Tumbling Price Lends Itself To A Bearish Options Move
+链接: https://www.investors.com/research/options/coreweave-crwv-stock-bear-put-spread-options/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:00]
-标题: Nike loses its spot in the S&P 100 after an 18-year streak as shares crater nearly 80% from their peak
-链接: https://finance.yahoo.com/markets/stocks/articles/nike-loses-spot-p-100-120000497.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:03]
+标题: Red Robin (RRGB) Completes $89.4M of Refranchising Transactions. Will Debt Relief Offset the Loss of Company-Operated Economics?
+链接: https://finance.yahoo.com/markets/stocks/articles/red-robin-rrgb-completes-89-160359751.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:17]
-标题: Vince Reports Q2 Gains, Raises Outlook
-链接: https://finance.yahoo.com/markets/stocks/articles/vince-reports-q2-gains-raises-121742262.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:00]
+标题: I just got a $10K bonus and wondered if I should put it in bonds, but the news paints a varied picture on yields
+链接: https://finance.yahoo.com/markets/options/articles/just-got-10k-bonus-wondered-160000960.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:12]
-标题: Nike memo reassures executives it remains in S&P 500
-链接: https://finance.yahoo.com/markets/stocks/articles/nike-memo-reassures-executives-remains-121259213.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:28]
+标题: Culp (CULP) Q1 2027 Earnings Call Transcript
+链接: https://finance.yahoo.com/markets/stocks/articles/culp-culp-q1-2027-earnings-162808996.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:11]
-标题: Meet the Cheap High-Yield Dividend Stock That's Crushing the Market in 2026
-链接: https://finance.yahoo.com/markets/stocks/articles/meet-cheap-high-yield-dividend-121100175.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:58]
+标题: Teamsters president throws down gauntlet to UPS: Strike coming in 2028
+链接: https://finance.yahoo.com/economy/policy/articles/teamsters-president-throws-down-gauntlet-155828296.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:10]
-标题: Alphabet’s Dip is a Clear Buying Opportunity
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-dip-clear-buying-opportunity-121029993.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:56]
+标题: Expedia CEO: Despite record-high gas prices, 'people are still traveling'
+链接: https://finance.yahoo.com/markets/article/expedia-ceo-despite-record-high-gas-prices-people-are-still-traveling-155635399.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:09]
-标题: Here Are Thursday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Amgen, AngloGold Ashanti, Caterpillar, Chewy, Meta Platforms, Novartis, NVIDIA, SK hynix, and More
-链接: https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120959369.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:51]
+标题: Coinbase, Moov Bring Stablecoin Payments to Over 1,000 US Community Banks
+链接: https://finance.yahoo.com/markets/crypto/articles/coinbase-moov-bring-stablecoin-payments-155100196.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:07]
-标题: Five Months After the Kelp Hack, Aave Is Still Down $8 Billion
-链接: https://finance.yahoo.com/markets/crypto/articles/five-months-kelp-hack-aave-120756821.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:49]
+标题: Bitcoin Selling Pressure Drops to Historic Lows Amid Rebound
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-selling-pressure-drops-historic-154900460.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 12:06]
-标题: Health Care Roundup: Market Talk
-链接: https://www.wsj.com/business/health-care-roundup-market-talk-b98107c7?siteid=yhoof2&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:28]
+标题: Lesaka (LSAK) Q4 2026 Earnings Call Transcript
+链接: https://finance.yahoo.com/markets/stocks/articles/lesaka-lsak-q4-2026-earnings-162808214.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:48]
+标题: Trump administration proposes waiving grace period for H-1B holders after job loss
+链接: https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:46]
+标题: Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat
+链接: https://www.investors.com/news/aerovironment-earnings-q1-2027-analyst-targets-drone-demand-avav-stock/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:33]
+标题: Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading
+链接: https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:25]
+标题: 18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients
+链接: https://finance.yahoo.com/markets/stocks/articles/18-wtw-agents-quit-44-152500609.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:25]
+标题: Big Bond Buyback, Decline in Home Sales and More of Today’s Top Money News
+链接: https://finance.yahoo.com/economy/articles/big-bond-buyback-decline-home-162505971.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:22]
+标题: The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive
+链接: https://www.investors.com/news/technology/cooper-companies-stock-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:18]
+标题: 'We intend to be disruptive': Robinhood CEO details big investment bank ambitions after Oura IPO win
+链接: https://finance.yahoo.com/markets/stocks/article/we-intend-to-be-disruptive-robinhood-ceo-details-big-investment-bank-ambitions-after-oura-ipo-win-151806118.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:14]
+标题: Meta Stock Scores Wall Street Upgrade After Muse AI App Launch
+链接: https://www.investors.com/news/technology/meta-stock-jpmorgan-upgrade-buy-muse-ai/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:21]
+标题: Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026?
+链接: https://finance.yahoo.com/healthcare/articles/amgen-vs-moderna-healthcare-stock-162124362.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:13]
+标题: PE firms buy 3PL Navajo Expedited, target other acquisitions
+链接: https://finance.yahoo.com/small-business/articles/pe-firms-buy-3pl-navajo-151332763.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 15:00]
+标题: 'Rich Dad' Robert Kiyosaki is $1.2 billion in debt — on purpose. Here's why.
+链接: https://finance.yahoo.com/personal-finance/investing/article/rich-dad-robert-kiyosaki-is-12-billion-in-debt--on-purpose-heres-why-150004284.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:20]
+标题: SentinelOne CEO Tomer Weingarten Sells 38,759 Shares for Tax Withholding
+链接: https://finance.yahoo.com/markets/stocks/articles/sentinelone-ceo-tomer-weingarten-sells-162001133.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 11:30]
+标题: Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:20]
+标题: Institutional Investors Are Loading Up on Madrigal Pharmaceuticals Stock. Should You?
+链接: https://finance.yahoo.com/healthcare/articles/institutional-investors-loading-madrigal-pharmaceuticals-162000085.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 16:17]
+标题: Is It Ever Safe To Buy The Dip In Snap Stock?
+链接: https://finance.yahoo.com/markets/stocks/articles/ever-safe-buy-dip-snap-161735051.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 11:07]
+标题: Silver price today, Thursday, September 10, 2026: Silver prices back off ahead of inflation data
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-10-2026-silver-prices-back-off-ahead-of-inflation-data-110719718.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-10 10:52]
+标题: Gold price today, Thursday, September 10, 2026: Gold prices steady ahead of inflation data and the Fed
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-10-2026-gold-prices-steady-ahead-of-inflation-data-and-the-fed-105217035.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-10 14:00]
+标题: Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings
+链接: https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html
+正文: Its the latest move by the prediction market company to diversify its assets users can trade.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-10 11:54]
 标题: Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more
@@ -217,9 +328,9 @@
 正文: These are the stocks posting the largest moves midday.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: The AI economy: Interconnected forces, feedback loops, and speeds of change
-链接: https://www.mckinsey.com/mgi/our-research/the-ai-economy-interconnected-forces-feedback-loops-and-speeds-of-change
-正文: AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.
+标题: Winning: What the best athletes, teams, and coaches do differently
+链接: https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently
+正文: Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: Is progress behind us, or is ‘plenty’ still possible?
@@ -227,14 +338,29 @@
 正文: A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
+标题: The AI economy: Interconnected forces, feedback loops, and speeds of change
+链接: https://www.mckinsey.com/mgi/our-research/the-ai-economy-interconnected-forces-feedback-loops-and-speeds-of-change
+正文: AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
 标题: The power conversion market: Decarbonization and growth opportunities
 链接: https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities
 正文: Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030, opportunities in the power conversion market abound.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 12:31]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
+标题: Capturing untapped value in capital-intensive industries
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries
+正文: Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
+标题: Procurement at the decision-making table: A talk with Nokia’s Sanjay Mehta
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/procurement-at-the-decision-making-table-a-talk-with-nokias-sanjay-mehta
+正文: Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 16:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 12:31]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 16:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
