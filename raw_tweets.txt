@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-10 22:06:34
-# 共计 38 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-11 00:41:58
+# 共计 28 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-10 12:10]
 标题: The Download: a “God-driven” cryptocurrency and a solar engineering roadmap
@@ -30,10 +30,6 @@
 标题: Healthcare AI’s next test is integration
 链接: https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/
 正文: The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who spend significant time searching through fragmented data, these advances are helping reduce cognitive burden and make high-value information easier to access. But healthcare leaders should not confuse model capability with operational capability. Healthcare’s administrative challenges are caused by fragmented information, fragmented workflows, and fragmented accountability, not a lack of information. The industry has spent decades investing in systems that capture activity: electronic health records, billing platforms, payer portals, scheduling systems, call center platforms, and analytics applications. Each system records something important. But few were designed to reason across the full chain of decisions that determines whether patients get timely access, clinicians have the right documentation and providers are reimbursed appropriately. This is the problem that AI must now confront. Revenue cycle is becoming one of healthcare AI’s proving grounds The revenue cycle is the process healthcare providers use to get paid for care — from scheduling and registration through coding, billing, payer follow-up, and payment collection. It is unusually suited to rigorous AI deployment because it combines high transaction volume, complex reasoning, structured and unstructured data, measurable outcomes, and significant operational variation. It also sits at the intersection of financial performance, patient access, and administrative workload. A single claim can be influenced by patient insurance information, clinical documentation, coding rules, payer
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-10 00:00]
-标题: Rebuilding AUTOMATIC1111 with Gradio Workflow
-链接: https://huggingface.co/blog/gradio-workflow-1111
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 20:57]
 标题: Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击
@@ -80,6 +76,11 @@
 链接: https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb
 正文: DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 12:00]
+标题: Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务
+链接: https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil
+正文: Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 10:50]
 标题: Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录
 链接: https://aihot.news/items/cmtveyrm2000mronbnrnl0gez
@@ -105,30 +106,10 @@
 链接: https://aihot.news/items/cmtv48yni0oq5rorpf4o74549
 正文: DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtv48yni0oq5rorpf4o74549
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:34]
-标题: Suno v6 发布，支持图片、视频和语音备忘录生成音乐
-链接: https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
-正文: Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:08]
-标题: 27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局
-链接: https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
-正文: 27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:00]
-标题: OpenAI 发布 Agents API 公测版
-链接: https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
-正文: OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvywm6902omrojit3fo7bjv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:00]
-标题: OpenAI 在 API 中推出全双工语音模型 GPT-Live-1
-链接: https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
-正文: OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-10 00:00]
-标题: Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能
-链接: https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
-正文: Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-11 00:19]
+标题: The iPhone Duo enters China’s crowded foldable market — and faces a price test
+链接: https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html
+正文: Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-10 19:02]
 标题: OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
@@ -150,40 +131,10 @@
 链接: https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html
 正文: Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Winning: What the best athletes, teams, and coaches do differently
-链接: https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently
-正文: Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Is progress behind us, or is ‘plenty’ still possible?
-链接: https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible
-正文: A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: The AI economy: Interconnected forces, feedback loops, and speeds of change
-链接: https://www.mckinsey.com/mgi/our-research/the-ai-economy-interconnected-forces-feedback-loops-and-speeds-of-change
-正文: AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: The power conversion market: Decarbonization and growth opportunities
-链接: https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities
-正文: Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030, opportunities in the power conversion market abound.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Capturing untapped value in capital-intensive industries
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries
-正文: Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-10 00:00]
-标题: Procurement at the decision-making table: A talk with Nokia’s Sanjay Mehta
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/procurement-at-the-decision-making-table-a-talk-with-nokias-sanjay-mehta
-正文: Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-10 22:06]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-11 00:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-10 22:06]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-11 00:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
