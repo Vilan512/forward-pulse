@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-14 20:04:10
-# 共计 19 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-14 23:36:51
+# 共计 38 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-14 17:54]
 标题: The AI industry has taken a doomer turn. What now?
@@ -21,25 +21,109 @@
 链接: https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth, senior AI editor Will Douglas Heaven, and AI reporter Grace Huckins for a subscriber-only conversation unpacking the debate around AI extinction. They’ll explore where the fears come from, whether they hold any water and, if they do, what we should do about them. Register now to attend on Tuesday, September 15 at 16:00 BST / 11:00am EST / 8:00am PST. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. This geneticist’s age-reversal tech could help restore sight Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family, and his own 23andMe test came back with a mutation for macular degeneration, a top cause of vision loss in old age. That obsession extends to his work. Lu is behind one of the coolest results in rejuvenation science and eye research: an age-reversal technique called reprogramming that repaired the optic nerves of blind mice, restoring their vision. Now, nearly the same genetic therapy he developed as a student has entered human clinical trials. Learn more about Lu’s work on restoring sight with age-reversal therapy. —Antonio Regalado Yuancheng (Ryan) Lu is one of the biotechnology and health honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here, or explore the full list across the biotechnology and health, AI, computing and robotics, and climate and energy categories. The 
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 19:56]
+标题: GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗
+链接: https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm
+正文: Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 19:15]
+标题: Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力
+链接: https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw
+正文: Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 17:21]
+标题: DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名
+链接: https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp
+正文: DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 17:09]
+标题: Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线
+链接: https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e
+正文: Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 16:32]
+标题: 硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文
+链接: https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli
+正文: 硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 15:46]
+标题: Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值
+链接: https://aihot.news/items/cmu1g31xf07frrocnmjfagq29
+正文: Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1g31xf07frrocnmjfagq29
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 12:40]
+标题: 恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析
+链接: https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh
+正文: 作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 09:59]
 标题: 小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先
 链接: https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq
 正文: 小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 13:38]
-标题: Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising AI and war tensions
-链接: https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 00:00]
+标题: Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题
+链接: https://aihot.news/items/cmu1hrr070dycrocndfax0y0c
+正文: Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1hrr070dycrocndfax0y0c
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 03:35]
 标题: Another coffeehouse files for Chapter 11 as costs, prices rise
 链接: https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 20:01]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 01:03]
+标题: AI agents to start spending your money with Visa, Mastercard
+链接: https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 02:03]
+标题: 38-year-old beloved steakhouse chain closing over 40 locations
+链接: https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 14:07]
+标题: National specialty clothing chain closing all its stores
+链接: https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
+标题: HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
+标题: Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
+标题: Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
+标题: Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:18]
+标题: Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:29]
+标题: Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:42]
+标题: Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 13:01]
+标题: Chase Home Lendings' mortgage rate sale returns for a 3-week run
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 16:28]
+标题: How gold IRAs fit into a diversified retirement portfolio
+链接: https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 20:34]
 标题: Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide
 链接: https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html
 正文: The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 17:26]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 20:49]
 标题: Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike
 链接: https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html
 正文: With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
@@ -59,7 +143,7 @@
 链接: https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 13:18]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 20:56]
 标题: China says AI CEOs' call for a slowdown is 'fear mongering'
 链接: https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html
 正文: Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.
@@ -84,10 +168,10 @@
 链接: https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty
 正文: Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its strengths to choose another century of plenty.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-14 20:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-14 23:36]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-14 20:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-14 23:36]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
