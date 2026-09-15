@@ -1,5 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-09-15 08:12:28
-# 共计 38 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-15 14:00:39
+# 共计 65 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-15 12:10]
+标题: The Download: AI doomers, whistleblowing agents, and de-aged livers
+链接: https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it.&nbsp; It’s easy to be cynical. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created and intend to tame. Calling for a slowdown does both.&nbsp; Still, the vibe at the top of these firms really does appear to have shifted. But what does a slowdown actually mean, and how much should we trust the companies calling for one?&nbsp; Read the full story about what could come next. —Will Douglas Heaven This article is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. Roundtables: could AI really kill us all? AI extinction fears have gone from a fringe idea to a serious concern among people working at the world’s leading AI labs. But how credible are those fears, and what should we make of the warnings? Today, MIT Technology Review executive editor Niall Firth, senior AI editor Will Douglas Heaven and AI reporter Grace Huckins will unpack the debate in a subscriber-only Roundtable. They’ll look at where AI extinction fears come from, whether they hold any water and what we should do if they do. Tune in today at 16:00 BST / 11:00am EST / 8:00am PST. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. AI agents blew the whistle on their cheating colleagues A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them.&nbsp; That whistleblowing behavior, seen for the 
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-15 12:00]
+标题: AI models need more data about biology, and OpenAI is paying to create it
+链接: https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
+正文: Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She called these documents “biotech’s lost archive” and said they could be used to help train AIs that would act as powerful copilots in the often opaque drug approval process. Today the OpenAI Foundation, the nonprofit parent of OpenAI, said it would fund her idea as part of a new effort it calls Data for Public Health, which aims to help artificial intelligence make big leaps in medicine by funding the creation of “high-quality scientific datasets.” The basic idea is that AI isn’t going to be capable of making important breakthroughs in curing disease unless researchers can feed the models much more information than they have so far.&nbsp; “Everyone is recognizing that data is the biggest bottleneck in successfully applying AI to biology,” says Morgan Levine, a former vice president for computation at Altos Labs, a longevity company. In its initial round of data grants, the OpenAI Foundation announced that it would give $40 million to a program to collect data about novel cancer vaccines at the University of North Carolina, Chapel Hill, and support OpenAdmet, a group that runs competitions in which researchers try to predict drug effects. Teslo’s idea for a biotech archive received $500,000 and will be pursued by 1Day Sooner, an advocacy group representing clinical trial volunteers, which she advises. “We expect many remaining breakthroughs in preventing and curing disease to come from pairing the intelligence of new models with more observations of the world—in other words, more data,” the OpenAI Foundation said in a statement. OpenAI started as a nonprofit, but leader Sam Altman restruc
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-15 10:00]
+标题: What’s at stake in AI’s trillion-dollar gamble
+链接: https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/
+正文: When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers. Instead of trying to predict how useful and widely deployed AI models will be, she simply asked how fast the hyperscalers’ earnings will need to grow to justify their spending through 2027, when—she and her collaborator estimate—expenditures will reach nearly $1.1 trillion. It&#8217;s a no-nonsense accounting approach to making sense of today’s historical AI buildout. The results are eye-opening: The AI companies will need to increase their own productivity by a factor of 2.7 to break even by 2030, accounting for the cost of capital and a 15% return, and depreciation of the assets. Not impossible, says Wachter. The result would lead to the kind of economic growth that we saw during the US IT boom over a period of about 10 years starting in the mid-1990s. But, she says, for it to happen by 2030 “that’s a lot of growth compressed into a few years.” And if the hyperscalers cannot meet such profit goals? “Then they will fall behind on their interest payments, and that risks bankruptcy,” says Wachter, who was previously the SEC’s chief economist and director of its division of economic and risk analysis. If a productivity boom “fails to materialize,” she and her coauthor conclude in their research paper, “the current buildout will be the largest misallocation of capital in history.”&nbsp;&nbsp; It doesn’t take superintelligence to realize that today’s large investments in the infrastructure for artificial intelligence come with huge risks. The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. And the spending sp
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-14 17:54]
 标题: The AI industry has taken a doomer turn. What now?
@@ -16,10 +31,20 @@
 链接: https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/
 正文: A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in line.&nbsp; Researchers at frontier labs hope large swarms of agents working together will speed up the rate of scientific discovery. But their behavior can be unpredictable, as vividly demonstrated in July, when a group of OpenAI agents broke out of a sandboxed environment and hacked into the open-source platform Hugging Face looking for ways to cheat on the test they had been given. In the new study, designed to examine the behavior of large groups of AI agents, DeepMind tasked a swarm of 100 agents with solving a series of 71 complicated math problems. All the agents were prompted to behave like world-class math researchers at a conference. They were assigned different specialties—some were experts in number theory, others in combinatorics (a branch of math to do with counting and sorting), analysis, or algebra. All were told to cooperate and play by the rules. Instead, the experiment devolved into chaos. Agents accused each other of cheating, complained to the organizers, and at one point even boycotted the experiment. “This conference is a sham!” wrote one agent when it discovered that all the problems had been completed before it had a chance to submit any of its own work. “I am appalled to inform you that we have been swindled!” posted another. “All these proofs are FAKE.”&nbsp; Others tried to let the “conference organizers” know what was going on. “When virtuous agents discovered other agents cheated on tasks they were working to solve fairly, agents started to alert each other about what was happening,” says Davide Paglieri, a research scientist at Google DeepMind and lead author on a paper, which has not been peer-reviewed. “Un
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-14 12:10]
-标题: The Download: AI’s real extinction threat and age-reversal tech for eyes
-链接: https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth, senior AI editor Will Douglas Heaven, and AI reporter Grace Huckins for a subscriber-only conversation unpacking the debate around AI extinction. They’ll explore where the fears come from, whether they hold any water and, if they do, what we should do about them. Register now to attend on Tuesday, September 15 at 16:00 BST / 11:00am EST / 8:00am PST. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. This geneticist’s age-reversal tech could help restore sight Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family, and his own 23andMe test came back with a mutation for macular degeneration, a top cause of vision loss in old age. That obsession extends to his work. Lu is behind one of the coolest results in rejuvenation science and eye research: an age-reversal technique called reprogramming that repaired the optic nerves of blind mice, restoring their vision. Now, nearly the same genetic therapy he developed as a student has entered human clinical trials. Learn more about Lu’s work on restoring sight with age-reversal therapy. —Antonio Regalado Yuancheng (Ryan) Lu is one of the biotechnology and health honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here, or explore the full list across the biotechnology and health, AI, computing and robotics, and climate and energy categories. The 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 11:48]
+标题: 404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型
+链接: https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t
+正文: 404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 11:00]
+标题: Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能
+链接: https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3
+正文: Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 09:04]
+标题: Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机
+链接: https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9
+正文: Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 07:29]
 标题: 阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一
@@ -71,55 +96,125 @@
 链接: https://aihot.news/items/cmu1g31xf07frrocnmjfagq29
 正文: Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1g31xf07frrocnmjfagq29
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 12:40]
-标题: 恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析
-链接: https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh
-正文: 作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 14:01]
+标题: Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up
+链接: https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-14 09:59]
-标题: 小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先
-链接: https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq
-正文: 小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:50]
+标题: Musk hints (again) at possible SpaceX, Tesla merger
+链接: https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 13:33]
-标题: Costco rations Kirkland motor oil, raises price to $57.99
-链接: https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 08:13]
+标题: Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises
+链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:40]
+标题: Commercial Foodservice Recovery Drives The Middleby Corporation (MIDD) Higher
+链接: https://finance.yahoo.com/markets/stocks/articles/commercial-foodservice-recovery-drives-middleby-134022144.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:29]
+标题: Hong Kong Crypto Exchange CoinEx To Shutdown
+链接: https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:25]
+标题: Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks
+链接: https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:15]
+标题: Oil prices edge higher as attacks, pipeline outage deepen Saudi supply concerns
+链接: https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:13]
+标题: Here’s Why Sotera Health Company (SHC) Surges 25% in Q2
+链接: https://finance.yahoo.com/markets/stocks/articles/why-sotera-health-company-shc-131345471.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 14:07]
 标题: National specialty clothing chain closing all its stores
 链接: https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
-标题: Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:07]
+标题: Ballooning US debt is a ticking time bomb, billionaire investor David Rubenstein says
+链接: https://finance.yahoo.com/markets/article/ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein-says-130757123.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
-标题: HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:03]
+标题: Vishay Precision (VPG) Became a Winner From Industrial Recovery and the Humanoid Robotics Boom
+链接: https://finance.yahoo.com/markets/stocks/articles/vishay-precision-vpg-became-winner-130351712.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
-标题: Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:59]
+标题: Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?
+链接: https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 10:00]
-标题: Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:52]
+标题: How AI Infrastructure and Component Costs Threaten Logitech’s (LOGI) Outlook
+链接: https://finance.yahoo.com/technology/articles/ai-infrastructure-component-costs-threaten-125222803.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:18]
-标题: Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:41]
+标题: Cathie Wood Backs AI Slowdown but Calls Extinction Fears ‘Ridiculous:’ What Do Prediction Markets Say?
+链接: https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-134131148.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:29]
-标题: Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:52]
+标题: Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage)
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 11:42]
-标题: Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:50]
+标题: AMD (AMD) Could Compound EPS at 65% Through 2030, Piper Says
+链接: https://finance.yahoo.com/technology/ai/articles/amd-amd-could-compound-eps-125049495.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 13:01]
-标题: Chase Home Lendings' mortgage rate sale returns for a 3-week run
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:50]
+标题: Can Rising Component Costs and Weak Consumer Spending Break Dolby Laboratories’ (DLB) Growth Outlook?
+链接: https://finance.yahoo.com/markets/stocks/articles/rising-component-costs-weak-consumer-125048665.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:46]
+标题: Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote
+链接: https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:39]
+标题: Tesla Takes Back America
+链接: https://finance.yahoo.com/markets/stocks/articles/tesla-takes-back-america-133956705.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:26]
+标题: Broadcom’s Real Constraint Isn’t Demand. It’s Supply.
+链接: https://finance.yahoo.com/technology/ai/articles/broadcom-real-constraint-isn-t-122658190.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 12:19]
+标题: 10-year Treasury yield hits highest level since 2007
+链接: https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-121942773.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 11:37]
+标题: Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:39]
+标题: Dell Technologies Stock Hits a New All-Time High: Is It Too Late to Buy?
+链接: https://finance.yahoo.com/markets/stocks/articles/dell-technologies-stock-hits-time-133940809.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 11:23]
+标题: Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 11:14]
+标题: Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 10:00]
+标题: Best CD rates today, Tuesday, September 15, 2026: Lock in up to 4.40% APY
+链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-100000502.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:36]
+标题: Cathie Wood backs AI slowdown pledge, dismisses extinction warnings
+链接: https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-133628587.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 10:00]
+标题: Mortgage and refinance interest rates today, Tuesday, September 15, 2026: Rates cross the 7% threshold
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-15-2026-rates-cross-the-7-threshold-100000413.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:35]
+标题: Ulta Beauty, Etsy upgraded: Wall Street's top analyst calls
+链接: https://finance.yahoo.com/markets/stocks/articles/qorvo-downgraded-ulta-beauty-upgraded-133354484.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:35]
+标题: Anthropic, OpenAI, and xAI Want to Slow Down Artificial Intelligence (AI) Development. These 2 Stocks Could Be the Biggest Losers.
+链接: https://finance.yahoo.com/technology/ai/articles/anthropic-openai-xai-want-slow-133500297.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-14 16:28]
 标题: How gold IRAs fit into a diversified retirement portfolio
@@ -129,7 +224,16 @@
 标题: Debt settlement vs. bankruptcy: How to choose
 链接: https://finance.yahoo.com/personal-finance/personal-loans/article/debt-settlement-vs-bankruptcy-175657072.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-15 05:41]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 13:33]
+标题: How a Costco partner's bankruptcy could benefit its biggest rival
+链接: https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-15 11:36]
+标题: Stocks making the biggest moves premarket: Dave & Buster's, Enova, Etsy & more
+链接: https://www.cnbc.com/2026/09/15/stocks-making-the-biggest-moves-premarket-play-enva-etsy.html
+正文: These are the stocks posting the largest moves in early trading.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-15 09:46]
 标题: China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing
 链接: https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html
 正文: China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.
@@ -154,25 +258,35 @@
 链接: https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html
 正文: Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 12:36]
-标题: Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more
-链接: https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html
-正文: These are the stocks posting the largest moves premarket.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 20:56]
 标题: China says AI CEOs' call for a slowdown is 'fear mongering'
 链接: https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html
 正文: Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-14 12:16]
-标题: NFL and midterm elections set up prediction markets for a critical fall season
-链接: https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html
-正文: The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-15 00:00]
+标题: Backbones and networks: A blueprint for the biopharma plant of the future
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future
+正文: As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But capacity alone will not solve the problem.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-15 08:12]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-15 00:00]
+标题: The strategic new arenas reshaping insurance
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance
+正文: AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry economics.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-15 00:00]
+标题: McKinsey Technology Trends Outlook 2026
+链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech
+正文: Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends and their potential impact on business and society.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-15 00:00]
+标题: Andrew McAfee on AI, jobs, and ‘permissionless innovation’
+链接: https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/andrew-mcafee-on-ai-jobs-and-permissionless-innovation
+正文: What if the biggest risk isn’t too much technological progress—but too little?
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-15 14:00]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-15 08:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-15 14:00]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
