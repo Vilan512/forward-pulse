@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-16 13:54:17
-# 共计 61 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-16 17:52:00
+# 共计 48 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-16 15:00]
+标题: Meet a mouse whose brain cortex is made up of human cells
+链接: https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/
+正文: Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&nbsp; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is being reported today in the journal Nature by a team at Stanford University, led by neuroscientist Sergiu Pașca.&nbsp; Pașca’s group previously showed that human brain “organoids”—small blobs of neural tissue—could survive, and even function, after being injected into the heads of baby rodents. Now, Pașca has taken things a step further by genetically modifying mice so their brains don’t fully develop in the first place. These modified mice are missing most cells of both the cortex and the hippocampus, two key brain areas. That creates much more room for the human cells to take hold, he says. “Human cells that are placed in these animals will divide, will grow, and within a few weeks to a few months they will take most of that space,” he says. Pașca says one surprising discovery is that the mice lacking brain tissue seemed fairly normal—they walked around and squeaked. But they did have memory problems. In a maze test, they couldn’t remember what parts they’d explored.&nbsp; The mice with the added human cells, by contrast, performed better on the maze test. That means the human tissue is playing some role in the animals’ cognition. Pașca believes what he is calling “xenocortical mice” could be useful in studying brain injuries. However, the report is also a dramatic demonstration of “the combined power of genetic engineering and stem-cell technology to reshape biology,” says Carsten Charlesworth, a scientist who works in a different Stanford lab and was not involved in the research. Already, brain organoids are being tested in labs to see if they can be connected to computers to play video games. Other scientists have proposed using them like r
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-16 12:47]
 标题: Building the materials foundation for AI
@@ -11,14 +16,20 @@
 链接: https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of uncertainties. So she started with a “remarkable fact” that is not in question: a handful of so-called hyperscalers are investing huge amounts of money to build AI data centers. Instead of trying to predict how widely deployed AI models will be, Wachter asked how fast the hyperscalers’ earnings will need to grow to justify their spending through 2027, when expenditures are expected to reach nearly $1.1 trillion. The results are eye-opening. AI companies will need to achieve an extraordinary increase in productivity just to break even by 2030. Take a closer look at what it will take for the AI buildout to pay off. —David Rotman AI models need more data about biology, and OpenAI is paying to create it AI needs much more information to make important breakthroughs in curing disease. So last year Ruxandra Teslo, a policy analyst, posted an idea for supercharging medical AI systems: use data from failed biotech companies. By bidding at bankruptcy proceedings, she argued, it might be possible to obtain detailed regulatory filings, manufacturing strategies and safety data, creating what she called “biotech’s lost archive.”&nbsp; The OpenAI Foundation, the nonprofit parent of OpenAI, announced this week that it will fund her idea, paying to create “high-quality scientific datasets.” Learn more about their new effort. —Antonio Regalado Our Roundables on AI’s extinction threat is now available on demand As frontier models become more capable, warnings about AI extinction have become widespread in Silicon Valley. But are the threats really as dangerous as they’re presented? In the latest MIT Technology Review Roundt
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-15 17:47]
-标题: Roundtables: Could AI really kill us all?
-链接: https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/
-正文: Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do. Recorded on September 15, 2026 Speakers: Niall Firth, Executive Editor, Will Douglas Heaven, Senior AI editor, and Grace Huckins, AI reporter Related Stories Here’s why AI agents lie and cheat to reach their goals AI’s recursive self-improvement might not come so quickly after all Bill Gates says we’ve passed AI’s danger thresholds. Now what? The inside story on why OpenAI agents hacked Hugging Face
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-16 16:51]
+标题: Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能
+链接: https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf
+正文: Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-15 16:00]
-标题: Your Agent Aced the Task. Will It Do It Again?
-链接: https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-16 16:28]
+标题: Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF
+链接: https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe
+正文: Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-16 14:01]
+标题: 微软 AI CEO 警告&quot;模型福利&quot;论调
+链接: https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q
+正文: 微软 AI CEO Mustafa Suleyman 发文反对&quot;模型福利&quot;理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-16 13:00]
 标题: OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify
@@ -35,166 +46,49 @@
 链接: https://aihot.news/items/cmu352k2908t9rosaotpsx42c
 正文: Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu352k2908t9rosaotpsx42c
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 17:21]
-标题: Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划
-链接: https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y
-正文: Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 17:05]
-标题: Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking
-链接: https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm
-正文: Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 16:00]
-标题: Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言
-链接: https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s
-正文: Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 15:41]
-标题: Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂
-链接: https://aihot.news/items/cmu2utske02sjrowk2zs2agim
-正文: Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2utske02sjrowk2zs2agim
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-15 14:30]
-标题: 生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频
-链接: https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7
-正文: 生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:43]
-标题: Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”
-链接: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 14:34]
-标题: Fed meeting live updates: Fed interest rate decision looms, with traders anticipating first hike in 3 years
-链接: https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 08:03]
 标题: Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision
 链接: https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:25]
-标题: The Bull Case for Netflix’s (NFLX) New Growth Engine
-链接: https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:33]
+标题: US DFC approves $500 million in guarantees to boost US exports to emerging markets
+链接: https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 17:26]
-标题: Rich Dad Poor Dad author warns biggest crash in history has started
-链接: https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 10:00]
+标题: Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:22]
-标题: What Makes Mettler-Toledo International (MTD) an Attractive Bet?
-链接: https://finance.yahoo.com/markets/stocks/articles/makes-mettler-toledo-international-mtd-132254501.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:22]
-标题: Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed
-链接: https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:20]
-标题: Why Axon Got Slammed By Convertible: It's The Cash Flow
-链接: https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:20]
-标题: Mesa man loses $449,328 home after HOA forecloses over $977 in missed assessments — lawyers say it's not uncommon
-链接: https://finance.yahoo.com/real-estate/articles/mesa-man-loses-449-328-132000949.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:41]
-标题: Not Starship. Not Starlink. This Is the Part of SpaceX's Business That Could Lift It Into the $3 Trillion Club.
-链接: https://finance.yahoo.com/technology/ai/articles/not-starship-not-starlink-part-134100336.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:10]
-标题: Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030
-链接: https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:07]
-标题: Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes
-链接: https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:05]
-标题: Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally
-链接: https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:35]
-标题: Wall Street Sees 56% Upside in Broadcom After Summer Selloff
-链接: https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-56-upside-133544963.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:02]
-标题: Oscar Health's Big ACA Gamble Is Paying Off. Here's The Caveat.
-链接: https://www.investors.com/news/oscar-health-stock-medical-costs-aca-investor-update/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:47]
-标题: Stock Market Today: Dow Rises Ahead Of Likely Fed Hike, Warsh Comments; Intel, SK Hynix Jump (Live Coverage)
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:14]
+标题: Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)
 链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:45]
-标题: Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next
-链接: https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:12]
+标题: Wall Street bets on a rate hike, but the Fed decision could be a close call
+链接: https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:37]
-标题: US retail sales rebound sharply in August
-链接: https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:35]
-标题: 3 Nuclear Energy Stocks to Buy Before 2026 Ends
-链接: https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-buy-133500859.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:31]
-标题: LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment
-链接: https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:30]
-标题: Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?
-链接: https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:28]
-标题: Liberty Capital (GLIBK) Acquires Quintillion in $360M Synergistic Deal
-链接: https://finance.yahoo.com/markets/stocks/articles/liberty-capital-glibk-acquires-quintillion-122805699.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:21]
-标题: Can the Cox Acquisition Reverse Charter Communications’ (CHTR) Broadband Growth Concerns?
-链接: https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:35]
-标题: Insider at Legendary Travel Stock Waves Goodbye to $2.3 Million Worth of Shares
-链接: https://finance.yahoo.com/markets/stocks/articles/insider-legendary-travel-stock-waves-133501793.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:21]
-标题: What Happens When Strong Uptrends Meet Bullish Sentiment?
-链接: https://finance.yahoo.com/markets/stocks/articles/happens-strong-uptrends-meet-bullish-122107436.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:18]
-标题: Robert Half (RHI): Can a Slow Recruitment Recovery Turn a Former Buying Mistake Into a Winner?
-链接: https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-slow-recruitment-121817621.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:17]
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:00]
 标题: S&P 500 Trucking Stock Craters On CFO's Warning
 链接: https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:15]
-标题: Alluvium Increases HCA Healthcare (HCA) Holdings After Its 17.5% Selloff
-链接: https://finance.yahoo.com/markets/stocks/articles/alluvium-increases-hca-healthcare-hca-121528197.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:35]
+标题: Only 11 of 237 Active Dividend Funds Beat SCHD’s Index
+链接: https://finance.yahoo.com/markets/stocks/articles/only-11-237-active-dividend-173513653.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:32]
-标题: Fed Meeting Interest Rate Decision Preview: How Will Stocks React?
-链接: https://finance.yahoo.com/markets/stocks/articles/fed-meeting-interest-rate-decision-133204578.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 16:55]
+标题: Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst
+链接: https://www.investors.com/news/bloom-energy-stock-jumps-on-meaningful-data-center-catalyst/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:12]
-标题: Bond market woes likely a factor for Fed, but intervention seen as unlikely
-链接: https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:11]
-标题: Alluvium Bought More Ryanair (RYAAY) on Weakness — Then Trimmed After the Rebound
-链接: https://finance.yahoo.com/markets/stocks/articles/alluvium-bought-more-ryanair-ryaay-121120647.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 12:07]
-标题: Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 16:39]
+标题: Guardant Health Nears Buy Point As Sales Outlook Brightens
+链接: https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 11:25]
 标题: Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:27]
-标题: Another airline cancels all flights for 30 days amid financial troubles
-链接: https://finance.yahoo.com/economy/articles/another-airline-cancels-flights-30-132729346.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:33]
+标题: The Fed Has a Chance to Help the Long Treasury Market. Will it Deliver?
+链接: https://www.barrons.com/livecoverage/stock-market-news-today-091626/card/the-fed-has-a-chance-to-help-the-long-treasury-market-will-it-deliver--SUkLMLbbmBkzvVd8sBJX?siteid=yhoof2&yptr=yahoo
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 10:51]
 标题: Silver price today, Wednesday, September 16, 2026: Silver prices rise in anticipation of the Fed
@@ -205,32 +99,81 @@
 链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 10:25]
-标题: 5 signs you might be a good fit for debt settlement
+标题: 6 signs you might be a good fit for debt settlement
 链接: https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 10:00]
 标题: Best CD rates today, Wednesday, September 16, 2026: Earn up to 4.40% APY with Happen Bank
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-16-2026-earn-up-to-440-apy-with-happen-bank-100000125.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:26]
-标题: Are AI and Automation the Key to Onshoring?
-链接: https://finance.yahoo.com/technology/ai/articles/ai-automation-key-onshoring-132643000.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:33]
+标题: Palantir, Microsoft’s biggest warning gets real for AI stocks
+链接: https://finance.yahoo.com/technology/ai/articles/palantir-microsoft-biggest-warning-gets-173300865.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 10:00]
-标题: Mortgage and refinance rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 19:44]
+标题: Credit card application denied? Here’s what to do next
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-application-denied-194416584.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 17:50]
-标题: Can you have two of the same credit card?
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:30]
+标题: Chevron Doesn’t Need Oil to Hit New Highs. Here’s What Could Drive the Stock Instead
+链接: https://finance.yahoo.com/markets/stocks/articles/chevron-doesn-t-oil-hit-173012308.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 13:26]
-标题: XRP Drops 9% to $1.28 as the CLARITY Act Fails: What’s Next for the Coin That Needed It Most?
-链接: https://finance.yahoo.com/markets/crypto/articles/xrp-drops-9-1-28-132621984.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 20:41]
+标题: Gold and the U.S. dollar: Why they often move in opposite directions
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-15 15:38]
-标题: Clarity Act cloture vote fails: What it means for your crypto holdings
-链接: https://finance.yahoo.com/personal-finance/investing/article/clarity-act-cloture-vote-fails-what-it-means-for-your-crypto-holdings-153849029.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:29]
+标题: Trump outpaces all of Congress in stock trades while backing a ban that excludes him
+链接: https://finance.yahoo.com/markets/stocks/articles/trump-outpaces-congress-stock-trades-172904856.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:28]
+标题: Cerebras Stock Has Been Cut in Half. It Still Costs About 145 Times Next Year's Estimated Earnings.
+链接: https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-cut-half-still-172801447.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:27]
+标题: SEC Charges New Jersey Man With $16 Million Ponzi Scheme
+链接: https://www.barrons.com/advisor/articles/sec-alleged-ponzi-scheme-christians-ghana-407c9549?siteid=yhoof2&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:22]
+标题: Bitcoin ETF Outflows Hit $450mn as CLARITY Act Stalls in Senate
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-hit-450mn-172252010.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:22]
+标题: U.S. retail sales beat expectations with 1.2% gain in August
+链接: https://finance.yahoo.com/economy/articles/u-retail-sales-beat-expectations-172249929.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:22]
+标题: Bitcoin Falls Under $76,000 After the Senate Stalls the CLARITY Act. Why BTC Took the Smallest Hit at 1.5%
+链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-under-76-000-172205663.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:22]
+标题: Mountain Mike’s Pizza Appoints Sheena Dougher Chief Marketing Officer
+链接: https://finance.yahoo.com/media-advertising/articles/mountain-mike-pizza-appoints-sheena-172203108.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:20]
+标题: Retirees Who Ended Up Alone in The Villages Say Nobody Warned Them What It Would Cost
+链接: https://finance.yahoo.com/small-business/articles/retirees-ended-alone-villages-nobody-172055632.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:20]
+标题: Academy Sports Director Marley Sells 10,432 Shares at $53.25
+链接: https://finance.yahoo.com/markets/stocks/articles/academy-sports-director-marley-sells-172002411.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:17]
+标题: Former Advisor Gets 7 Years for $10M Fraud
+链接: https://finance.yahoo.com/markets/stocks/articles/former-advisor-gets-7-years-171703418.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:17]
+标题: Casual Mexican restaurant chain closes more locations, 3 remain
+链接: https://finance.yahoo.com/small-business/articles/casual-mexican-restaurant-chain-closes-171700483.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-16 17:16]
+标题: The One Cost Line UnitedHealth Stock Has Not Caught Up To Yet
+链接: https://finance.yahoo.com/healthcare/articles/one-cost-line-unitedhealth-stock-171653661.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-16 16:26]
+标题: Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think
+链接: https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html
+正文: Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-16 11:44]
 标题: Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more
@@ -248,14 +191,19 @@
 正文: These are the stocks posting the largest moves midday.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-16 00:00]
+标题: The agentic transformation office: Redefining the economics of change
+链接: https://www.mckinsey.com/capabilities/transformation/our-insights/the-agentic-transformation-office-redefining-the-economics-of-change
+正文: Successful transformations no longer require an army of people at the center.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-16 00:00]
 标题: The decade to redefine UK banking
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking
 正文: UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial transaction layer, and rebuilding the cost base.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-16 13:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-16 17:52]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-16 13:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-16 17:52]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
