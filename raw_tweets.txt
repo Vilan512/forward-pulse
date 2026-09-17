@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-09-17 20:49:19
+# ForwardPulse 原始情报收割 — 2026-09-17 23:16:57
 # 共计 30 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-17 12:10]
@@ -11,10 +11,25 @@
 链接: https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/
 正文: Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate and energy category. Each one has a fascinating story and is tackling an important challenge. I think it’s worth zooming out and considering the energy and climate awardees as a group. Taken together, these innovators and their work can tell us something about where climate tech is at this moment—and where it’s heading. AI is the dominant technology story, both for its potential and its challenges. We split the innovators into four main categories this year: biotech, climate and energy, computing and robotics, and AI. It probably won’t surprise you that AI features heavily in the work of many innovators in other categories. Climate innovator Jae-Won Chung, for example, built software to make AI more energy-efficient. By measuring the energy demands of open-source models, he hopes the industry can better understand and address the impact of AI. (If this work sounds familiar, it’s because we spoke with him last year for our investigation into AI’s energy demands.) But AI also has the potential to improve many areas of research. Jing Wei is using AI to track pollution more effectively, essentially using machine learning to fill in gaps in data from disparate sources like satellites and weather stations. Zhonghua Zheng developed AI climate models that work better for cities, a well-known blind spot for traditional models. We need better ways to get the critical materials used to build new technologies. As we begin to rely on new technologies to power our world, we’ll see a major shift in the materials we need to build them. Lithium is a prime example: The metal underpins lithium-ion batteries, which are crucial not only for electric vehicles, but also f
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 20:21]
-标题: Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据
-链接: https://aihot.news/items/cmu5z60qg07n0roiq06x24vut
-正文: Anthropic 发布测量框架，公开三项内部指标以帮助外界了解前沿实验室的 AI 开发节奏。截至 2026 年 8 月，Claude 在 26% 的 Anthropic AI 研发工作中处于主导角色，90% 以上的工作至少达到协作级；内部平台约有 3 万个 Agent，10 亿多次决策中 0.002% 被在线监控拦截；7 月一周内约 6% 的 AI 研发算力用于安全工作。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu5z60qg07n0roiq06x24vut
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 22:33]
+标题: Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务
+链接: https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg
+正文: Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 22:01]
+标题: 纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop
+链接: https://aihot.news/items/cmu62wp5j08tkrofj60s4kfwv
+正文: 纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu62wp5j08tkrofj60s4kfwv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 20:49]
+标题: Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照
+链接: https://aihot.news/items/cmu605ozy000arok0lxr4x1y8
+正文: Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu605ozy000arok0lxr4x1y8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 20:34]
+标题: OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为
+链接: https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd
+正文: OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 19:49]
 标题: Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码
@@ -71,11 +86,6 @@
 链接: https://aihot.news/items/cmu5xn9rv05yfroiqd91x2qk7
 正文: Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu5xn9rv05yfroiqd91x2qk7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-16 22:58]
-标题: OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例
-链接: https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu
-正文: OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-17 10:00]
 标题: Best CD rates today, Thursday, September 17, 2026: Lock in up to 4.40% APY with a 2-year CD
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-17-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000275.html
@@ -105,16 +115,6 @@
 链接: https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
 正文: Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-16 21:23]
-标题: Here are five key takeaways from Wednesday's Fed rate hike
-链接: https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html
-正文: The Fed on Wednesday delivered a much-expected interest rate hike.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-16 21:07]
-标题: Fed approves interest rate hike, signals one more to come this year
-链接: https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html
-正文: The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
 标题: The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre
@@ -140,10 +140,10 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples
 正文: Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-17 20:49]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-17 23:16]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-17 20:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-17 23:16]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
