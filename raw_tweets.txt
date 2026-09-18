@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-17 23:16:57
-# 共计 30 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-18 02:20:19
+# 共计 23 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-17 12:10]
 标题: The Download: mice with part-human brains and climate tech innovators
@@ -10,6 +10,16 @@
 标题: Meet the innovators under 35 shaping climate tech
 链接: https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/
 正文: Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate and energy category. Each one has a fascinating story and is tackling an important challenge. I think it’s worth zooming out and considering the energy and climate awardees as a group. Taken together, these innovators and their work can tell us something about where climate tech is at this moment—and where it’s heading. AI is the dominant technology story, both for its potential and its challenges. We split the innovators into four main categories this year: biotech, climate and energy, computing and robotics, and AI. It probably won’t surprise you that AI features heavily in the work of many innovators in other categories. Climate innovator Jae-Won Chung, for example, built software to make AI more energy-efficient. By measuring the energy demands of open-source models, he hopes the industry can better understand and address the impact of AI. (If this work sounds familiar, it’s because we spoke with him last year for our investigation into AI’s energy demands.) But AI also has the potential to improve many areas of research. Jing Wei is using AI to track pollution more effectively, essentially using machine learning to fill in gaps in data from disparate sources like satellites and weather stations. Zhonghua Zheng developed AI climate models that work better for cities, a well-known blind spot for traditional models. We need better ways to get the critical materials used to build new technologies. As we begin to rely on new technologies to power our world, we’ll see a major shift in the materials we need to build them. Lithium is a prime example: The metal underpins lithium-ion batteries, which are crucial not only for electric vehicles, but also f
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-18 00:08]
+标题: TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比
+链接: https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu
+正文: TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 23:36]
+标题: ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增
+链接: https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz
+正文: ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 22:33]
 标题: Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务
@@ -71,25 +81,6 @@
 链接: https://aihot.news/items/cmu5ocffd0duoroqoykax6pm1
 正文: Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu5ocffd0duoroqoykax6pm1
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 00:26]
-标题: GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust
-链接: https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp
-正文: GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 00:09]
-标题: 用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度
-链接: https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux
-正文: 自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-17 00:00]
-标题: Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致
-链接: https://aihot.news/items/cmu5xn9rv05yfroiqd91x2qk7
-正文: Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu5xn9rv05yfroiqd91x2qk7
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-17 10:00]
-标题: Best CD rates today, Thursday, September 17, 2026: Lock in up to 4.40% APY with a 2-year CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-17-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000275.html
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-17 17:59]
 标题: Securitize jumps after regulators greenlight some tokenized U.S. stock trading
 链接: https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html
@@ -115,35 +106,10 @@
 链接: https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
 正文: Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
-标题: The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre
-链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre
-正文: Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
-标题: Why transformations stall—and where only CEOs make the difference
-链接: https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference
-正文: Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
-标题: Europe’s new AI edge? The emerging application layer opportunity
-链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity
-正文: As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
-标题: Aftershocks: Energy security beyond the Strait of Hormuz crisis
-链接: https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis
-正文: The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-17 00:00]
-标题: Here’s why some US industrial companies achieve higher multiples
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples
-正文: Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-17 23:16]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-18 02:20]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-17 23:16]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-18 02:20]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
