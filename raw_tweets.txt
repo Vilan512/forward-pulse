@@ -1,15 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-19 09:59:24
-# 共计 26 条来自 6 个信息源
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-18 12:10]
-标题: The Download: AI’s extinction risk and bioweapons threat
-链接: https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could AI really kill us all? But attendees had more questions than we had time to answer, so we asked senior AI editor Will Douglas Heaven and AI reporter Grace Huckins to tackle some of the best ones.&nbsp; The questions they tried to answer include: am I going to die? Why should AI kill us, if at all? Is AI really dangerous, or is it just tech companies drumming up PR? And what steps can be taken to make sure AI is controlled, monitored and regulated effectively? Here are their responses. —Will Douglas Heaven and Grace Huckins The specter of AI-enabled bioweapons is a wake-up call for biotech One of the ways AI could potentially cause catastrophic harm is by aiding the design and creation of bioweapons. In 2022, researchers found that it was remarkably easy to do this with an AI “molecule generator” built to develop drugs. In less than six hours, the model generated 40,000 molecules that could serve as chemical warfare agents.&nbsp; Today, AI tools can answer questions on almost every area of science, while advances in gene editing and synthetic biology have made biotech tools more accessible. There are safeguards, but none are ironclad. However, scientists disagree about how serious the risk is anyway. Find out why it’s easier than ever to design killer pathogens. —Jessica Hamzelou This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. The role of the astronaut is in flux We go to space for geopolitical prestige, manifest destiny, spiritual fulfillment, scientific curiosity, and, increasingly, business opportunities. In the wake of Artemis II, a slew of new books suggest that thes
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-18 11:29]
-标题: Could AI really kill us all? Your questions, answered.
-链接: https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/
-正文: On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and AI reporter Grace Huckins to round up some of the best questions attendees submitted and try their best to answer them. Thanks to all who submitted questions! Am I gonna die? Yes, eventually. Unfortunately, my journalistic powers of prognostication aren’t powerful enough for me to tell you how. But it certainly could be because of AI. AI-powered drones have already killed people in Ukraine, and AI-driven cyberattacks on hospitals will surely claim victims before long.&nbsp; Could AI go even further, and kill all of us? Less likely. But some people—quirky people, but undeniably knowledgeable about AI—have been warning for years that this could happen. And while I’m not yet stockpiling canned food or trying to get in good with a bunker-owning megabillionaire, I have noticed that the doomers’ predictions about AI capabilities and alignment have, over the past couple of years, proved disconcertingly accurate. That certainly doesn’t mean that their more dire forecasts will come true, but it’s enough for me to sit up and take notice. — Grace Huckins Are you going to die because of AI? I’d say there’s a non-zero chance. Let’s say you’re unlucky enough to be the victim of a freakish near-future event or accident. Maybe it’s a cyberattack carried out by a swarm of AI agents on critical infrastructure. Sadly, a scenario like that now no longer feels as far-fetched as it once did. Or maybe a novel AI-designed pathogen cuts through the population. Or the world economy crashes, causing conflicts and famine. Both plausible, but I think less likely.&nbsp; Are we all going to die because of AI? Nope. There are no circumstances outside of apocalyptic science fiction in wh
+# ForwardPulse 原始情报收割 — 2026-09-19 13:45:03
+# 共计 42 条来自 5 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-19 05:50]
 标题: WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司
@@ -66,35 +56,113 @@
 链接: https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw
 正文: 《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-18 11:00]
-标题: Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明
-链接: https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped
-正文: Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:30]
+标题: Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why
+链接: https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-18 10:35]
-标题: 逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS
-链接: https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l
-正文: 开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:28]
+标题: High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters
+链接: https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-stocks-throw-132809422.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 10:00]
-标题: Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:16]
+标题: Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas
+链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 10:48]
-标题: Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:45]
+标题: Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell
+链接: https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 11:08]
-标题: Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-18-2026-silver-prices-recover-quickly-hitting-weekly-high-today-110854090.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:38]
+标题: Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?
+链接: https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 11:40]
-标题: Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-18-2026-crypto-prices-rise-as-investors-move-past-claritys-failure-114025818.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:26]
+标题: Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks
+链接: https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-fomc-132601621.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 10:00]
-标题: Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates climb above 7%
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-climb-above-7-100000327.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:35]
+标题: Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module
+链接: https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:30]
+标题: Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall
+链接: https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:29]
+标题: Stock Market Week Ahead: Keeping An Eye Out For Change
+链接: https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:25]
+标题: Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich
+链接: https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:20]
+标题: Renting in The Villages Costs Less Than Owning and the Owners Are Starting to Notice
+链接: https://finance.yahoo.com/real-estate/articles/renting-villages-costs-less-owning-132031762.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:05]
+标题: ‘You’re gonna get there’: Dave Ramsey tells divorced mom, 51, with no savings she can retire a millionaire. Here’s how
+链接: https://finance.yahoo.com/small-business/articles/gonna-dave-ramsey-tells-divorced-120500452.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:00]
+标题: Bill Ackman's Pershing Square IPO Breaks Out
+链接: https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:00]
+标题: Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points
+链接: https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:00]
+标题: YardFlow lands over 200-site yard automation deal
+链接: https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:15]
+标题: Is Markel the New Berkshire Hathaway Blueprint for Value Investors Post-Buffett?
+链接: https://finance.yahoo.com/markets/stocks/articles/markel-berkshire-hathaway-blueprint-value-131506670.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:00]
+标题: Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked
+链接: https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 11:59]
+标题: Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day
+链接: https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 11:55]
+标题: Nestlé Loses the Keys to Its Russian Business
+链接: https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 11:45]
+标题: 5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them
+链接: https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:14]
+标题: History Says This Investment Strategy Can Build a $1 Million Portfolio. Here's How.
+链接: https://finance.yahoo.com/markets/stocks/articles/history-says-investment-strategy-build-131400477.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 11:45]
+标题: ‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage
+链接: https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:02]
+标题: Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales
+链接: https://finance.yahoo.com/technology/articles/motorola-solutions-eyes-defense-drone-130200808.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:00]
+标题: What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?
+链接: https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 13:00]
+标题: Every New Reactor Needs Fuel: 3 Uranium Stocks Positioned for the Nuclear Buildout
+链接: https://finance.yahoo.com/energy/articles/every-reactor-needs-fuel-3-130017285.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:55]
+标题: Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?
+链接: https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-19 12:55]
+标题: Is Micron's 9% Dip a Warning Sign or Buying Opportunity?
+链接: https://finance.yahoo.com/markets/stocks/articles/microns-9-dip-warning-sign-125500354.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-18 17:41]
 标题: Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.
@@ -105,20 +173,10 @@
 链接: https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html
 正文: The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-18 11:48]
-标题: Stocks making the biggest moves premarket: Netflix, Nucor, Xenon Pharmaceuticals & more
-链接: https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-premarket-nflx-nue-xene.html
-正文: These are the stocks posting the largest moves premarket.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-18 12:04]
-标题: Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'
-链接: https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html
-正文: Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-19 09:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-19 13:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-19 09:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-19 13:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
