@@ -1,5 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-09-21 00:40:54
-# 共计 12 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-21 05:41:39
+# 共计 15 条来自 5 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 02:50]
+标题: 通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑
+链接: https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj
+正文: 通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 01:52]
+标题: 数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境
+链接: https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
+正文: 作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-20 20:20]
 标题: Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故
@@ -21,11 +31,6 @@
 链接: https://aihot.news/items/cmu9tfhu904turokx2vfjy34f
 正文: Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu9tfhu904turokx2vfjy34f
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-20 02:00]
-标题: 阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重
-链接: https://aihot.news/items/cmu96vqg8035srodqu63q13w4
-正文: 阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmu96vqg8035srodqu63q13w4
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 14:07]
 标题: Key Christmas retailer files for Chapter 11 bankrutpcy
 链接: https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html
@@ -34,23 +39,31 @@
 标题: Dollar General CEO raises major red flag about consumers
 链接: https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 10:00]
-标题: Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 16:47]
+标题: Chevron CEO sends a strong message on oil price and the economy
+链接: https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 18:17]
+标题: T-Mobile and Verizon face a new broadband rival
+链接: https://finance.yahoo.com/technology/articles/t-mobile-verizon-face-broadband-181700799.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 10:00]
 标题: Best CD rates today, Sunday, September 20, 2026: Lock in up to 4.40% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-20-2026-lock-in-up-to-440-apy-100000852.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-20 10:00]
+标题: Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-20 12:47]
 标题: ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies
 链接: https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html
 正文: Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-21 00:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-21 05:41]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-21 00:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-21 05:41]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
