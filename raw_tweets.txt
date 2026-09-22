@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-21 21:26:53
-# 共计 40 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-22 00:25:07
+# 共计 33 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-21 12:20]
 标题: The Download: investigating deaths at the US border’s “virtual wall”
@@ -29,10 +29,6 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-21 13:44]
 标题: Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
 链接: https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-21 00:00]
-标题: tokenizers v1: encode, decode and scaling, measured
-链接: https://huggingface.co/blog/tokenizers-v1
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 21:08]
 标题: 小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3
@@ -99,16 +95,6 @@
 链接: https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
 正文: 作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 00:00]
-标题: Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍
-链接: https://aihot.news/items/cmubhvftd10qjrolnr7q9k3lt
-正文: Tomer Tunguz 撰文提出最新一波 AI 正在接管软件中的 if-then 判断原语，Jev 与 SemIf 这类专用决策器以数百毫秒返回结果，成本比传统生成式调用低约 76x 到 209x。作者在自己的 Agent 中替换了约四分之一的调用，在 98 条人工核验的生产邮件线程上，Jev 达到 80%、本地 SemIf 达到 82% 的分类准确率，高于生产模型的 47%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubhvftd10qjrolnr7q9k3lt
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 00:00]
-标题: xAI 发布 Grok 4.7，主打编码与知识工作
-链接: https://aihot.news/items/cmubfarpy0xtirolnplntl9p1
-正文: xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubfarpy0xtirolnplntl9p1
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 04:15]
 标题: Burger chain cancels breakfast at hundreds of restaurants
 链接: https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html
@@ -118,20 +104,20 @@
 链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
 标题: Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html
+标题: HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
 标题: Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
+标题: Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 13:35]
 标题: Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions
@@ -159,30 +145,10 @@
 链接: https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html
 正文: Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-21 00:00]
-标题: WIRED: The AI playbook top companies use
-链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use
-正文: McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-21 00:00]
-标题: The economics of AI
-链接: https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-economics-of-ai
-正文: AI is getting more expensive for companies. As rising token usage and workflow complexity make costs harder to predict, leaders need new ways to manage AI economics.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-21 00:00]
-标题: Novartis’s Christian Diehl on scaling AI beyond the demo
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo
-正文: Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-21 00:00]
-标题: AI drug discovery: Focusing on what matters most
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most
-正文: AI is accelerating drug discovery, but investment has concentrated in molecule design—the stage with the best data and clearest tools. The industry’s real constraint lies elsewhere: identifying and validating the right disease mechanism.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-21 21:26]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 00:25]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-21 21:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 00:25]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
