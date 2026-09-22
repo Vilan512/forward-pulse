@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-22 00:25:07
-# 共计 33 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-22 05:39:00
+# 共计 29 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-21 12:20]
 标题: The Download: investigating deaths at the US border’s “virtual wall”
@@ -29,6 +29,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-21 13:44]
 标题: Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
 链接: https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 02:02]
+标题: 卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案
+链接: https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq
+正文: 作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 01:49]
+标题: Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8
+链接: https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
+正文: Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
+标题: OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
+链接: https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
+正文: OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 21:08]
 标题: 小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3
@@ -85,55 +100,23 @@
 链接: https://aihot.news/items/cmuaytowf0c4oroln02tacq0c
 正文: Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuaytowf0c4oroln02tacq0c
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 02:50]
-标题: 通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑
-链接: https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj
-正文: 通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 01:52]
-标题: 数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境
-链接: https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
-正文: 作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmualyqxc0nztro5tbldva2bh
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 04:15]
-标题: Burger chain cancels breakfast at hundreds of restaurants
-链接: https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 14:37]
 标题: Bank of America says buy tumbling shares of aviation giant
 链接: https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 18:17]
+标题: Global diesel shortage from Iran, Ukraine wars to last into 2027
+链接: https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 02:41]
+标题: Here's who we know is going to the Trump-Xi dinner so far
+链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
+正文: Very little is known about which Chinese business executives, if any, are expected to attend.
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY
-链接: https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 10:00]
-标题: Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 13:35]
-标题: Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 13:54]
-标题: Silver prices today, Monday, September 21, 2026: Silver prices rising ahead of U.S.-China summit
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-21-2026-silver-prices-rising-ahead-of-us-china-summit-135458890.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 14:26]
-标题: Work from home? Here are 5 ways to save money on remote work expenses.
-链接: https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 14:34]
-标题: Bitcoin and ethereum prices today, Monday, September 21, 2026: Crypto prices hit highest levels in 8 months
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-21-2026-crypto-prices-hit-highest-levels-in-8-months-143444230.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 01:30]
+标题: Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year
+链接: https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html
+正文: JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-21 11:40]
 标题: Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more
@@ -145,10 +128,15 @@
 链接: https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html
 正文: Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 00:25]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
+标题: Winning hearts in an age of infinite travel choices
+链接: https://www.mckinsey.com/industries/travel/our-insights/winning-hearts-in-an-age-of-infinite-travel-choices
+正文: Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 05:39]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 00:25]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 05:39]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
