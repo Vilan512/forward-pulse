@@ -1,10 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-22 15:17:00
-# 共计 67 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-22 19:24:38
+# 共计 57 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-22 13:42]
 标题: Roundtables: The Deadly Failures of The Virtual Border Wall
 链接: https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/
-正文: The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Our findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Join MIT Technology Review editors and reporters for a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands. REGISTER NOW Speakers: Mat Honan, editor in chief, James O&#8217;Donnell, senior AI reporter, and Eileen Guo, features and investigations reporter Related Stories The US spent billions on border surveillance. Why can’t it catch people before they die? How we made the first comprehensive map of deaths along the US border’s “virtual wall” 4 ways to address the failures we found along the US border’s “virtual wall”
+正文: The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Our findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Join MIT Technology Review editors and reporters for a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands. REGISTER NOW Speakers: Mat Honan, editor in chief, James O&#8217;Donnell, senior AI reporter, and Eileen Guo, senior features and investigations reporter Related Stories The US spent billions on border surveillance. Why can’t it catch people before they die? How we made the first comprehensive map of deaths along the US border’s “virtual wall” 4 ways to address the failures we found along the US border’s “virtual wall”
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-22 12:10]
 标题: The Download: why AI’s latest breakthroughs and fears may be more hype than reality
@@ -17,6 +17,10 @@
 正文: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings—which are designed to portray their software is not only powerful but incipient “artificial general intelligence.” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.”&nbsp; As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have a
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-22 00:00]
+标题: How UK AISI and EvalEval Are Making Benchmark Results Reproducible
+链接: https://huggingface.co/blog/evaleval-aisi
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-22 00:00]
 标题: Transformers now runs llama.cpp quants
 链接: https://huggingface.co/blog/transformers-llama-cpp-quants
 
@@ -24,10 +28,95 @@
 标题: Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
 链接: https://huggingface.co/blog/omlx
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:48]
+标题: GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%
+链接: https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe
+正文: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:28]
+标题: Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手
+链接: https://aihot.news/items/cmud0p2rl03ipro1flr9w7tnn
+正文: Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud0p2rl03ipro1flr9w7tnn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:25]
+标题: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%
+链接: https://aihot.news/items/cmud0p2rm03irro1f0azwgip8
+正文: OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud0p2rm03irro1f0azwgip8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:23]
+标题: OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter
+链接: https://aihot.news/items/cmud0p2q603inro1fm32430f8
+正文: OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud0p2q603inro1fm32430f8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:20]
+标题: Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平
+链接: https://aihot.news/items/cmud02r5503swro7nhqpu7dgu
+正文: Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud02r5503swro7nhqpu7dgu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:19]
+标题: GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%
+链接: https://aihot.news/items/cmud102ad03urro1fdmzfqj9w
+正文: OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud102ad03urro1fdmzfqj9w
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:16]
+标题: GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送
+链接: https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji
+正文: OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 17:48]
+标题: Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode
+链接: https://aihot.news/items/cmucz06v905eironivy08mtvk
+正文: Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucz06v905eironivy08mtvk
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 17:41]
+标题: Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58
+链接: https://aihot.news/items/cmucyny580521roni2aiyh9xj
+正文: Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucyny580521roni2aiyh9xj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:53]
+标题: Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%
+链接: https://aihot.news/items/cmucwy58v0rskroedmv35n8ji
+正文: Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwy58v0rskroedmv35n8ji
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:45]
+标题: Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%
+链接: https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw
+正文: Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:44]
+标题: Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5
+链接: https://aihot.news/items/cmucxgaki0sfkroed0n804wg5
+正文: Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxgaki0sfkroed0n804wg5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:41]
+标题: Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%
+链接: https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5
+正文: Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:38]
+标题: Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型
+链接: https://aihot.news/items/cmucxceh40salroedruwhn0ee
+正文: Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxceh40salroedruwhn0ee
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 16:31]
+标题: Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型
+链接: https://aihot.news/items/cmucwpqty0rj8roedzxz1496u
+正文: Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwpqty0rj8roedzxz1496u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 15:13]
+标题: Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一
+链接: https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r
+正文: 通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 14:38]
 标题: LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API
 链接: https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
 正文: LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 14:35]
+标题: Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌
+链接: https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33
+正文: Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 12:59]
 标题: Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售
@@ -48,6 +137,11 @@
 标题: Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8
 链接: https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 正文: Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
+标题: OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
+链接: https://aihot.news/items/cmucxyky704ftronibjzp4dos
+正文: OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxyky704ftronibjzp4dos
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
 标题: OpenRouter 推出 Batch API，批量推理可享半价
@@ -89,167 +183,46 @@
 链接: https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7
 正文: 不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 19:41]
-标题: Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56
-链接: https://aihot.news/items/cmubni6yr03ihro4v6pea4amm
-正文: Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubni6yr03ihro4v6pea4amm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 17:06]
-标题: 马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三
-链接: https://aihot.news/items/cmubi4zxl110orolnqaltv0qp
-正文: Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubi4zxl110orolnqaltv0qp
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 08:06]
-标题: Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil retreats, AI trade powers market
-链接: https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:07]
-标题: Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom
-链接: https://finance.yahoo.com/markets/article/meta-muse-ai-may-throw-gas-on-the-labor-displacement-problem--but-its-not-all-doom-and-gloom-150747149.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:05]
-标题: Marram Exits PayPal Holdings (PYPL) Due to Thesis Breakdown
-链接: https://finance.yahoo.com/markets/stocks/articles/marram-exits-paypal-holdings-pypl-150511889.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 09:48]
-标题: Why Muse just added billions to Meta's market cap
-链接: https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-21 18:17]
-标题: Global diesel shortage from Iran, Ukraine wars to last into 2027
-链接: https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:00]
-标题: Silver Beech’s Investment Thesis for Arthur J. Gallagher (AJG)
-链接: https://finance.yahoo.com/markets/stocks/articles/silver-beech-investment-thesis-arthur-150059517.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:56]
-标题: Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens
-链接: https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-attract-nearly-1-145600491.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:50]
-标题: This Fund Trimmed Matson (MATX) on Strength
-链接: https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:48]
-标题: Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)
-链接: https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 12:39]
 标题: Kalshi asks CFTC to allow margin trading on prediction markets
 链接: https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:46]
-标题: Resilient Cash Flows and Organic Drivers Position McGrath RentCorp (MGRC) for Long-Term Growth
-链接: https://finance.yahoo.com/markets/stocks/articles/resilient-cash-flows-organic-drivers-144630290.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:43]
-标题: Durable Business Strengths Underpin Vontier Corp’s (VNT) Long-Term Growth Outlook
-链接: https://finance.yahoo.com/markets/stocks/articles/durable-business-strengths-underpin-vontier-144342201.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:38]
-标题: Trump Accounts could help lower-income families most. Few have signed up.
-链接: https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:28]
-标题: GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares
-链接: https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:29]
-标题: How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground
-链接: https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:28]
-标题: This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths
-链接: https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:25]
-标题: Strong Results Lifted CTS Corporation (CTS) in Q2
-链接: https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-cts-corporation-142559440.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:22]
-标题: Subscription Pivot and SCBA Replacement Cycle Set to Drive MSA Safety’s (MSA) Margin Expansion
-链接: https://finance.yahoo.com/markets/stocks/articles/subscription-pivot-scba-replacement-cycle-142237408.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:05]
-标题: ‘Primal Scream From Commercial Real Estate’: A CEO Says $1 Trillion in Property Debt Now Faces Refinancing at Nearly Double Its Original Rate, Adding an Estimated $600,000 a Year in Interest on a Typical Building
-链接: https://finance.yahoo.com/real-estate/articles/primal-scream-commercial-real-estate-150552077.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:20]
-标题: Benchmark diesel sets new record; futures signaling relief?
-链接: https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:19]
-标题: Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)
-链接: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:18]
-标题: AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally
-链接: https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:02]
-标题: Why On Holding Stock Popped Today
-链接: https://finance.yahoo.com/markets/stocks/articles/why-holding-stock-popped-today-150252563.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:14]
-标题: Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years
-链接: https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:10]
-标题: Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2
-链接: https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141047976.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:10]
-标题: Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2
-链接: https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:07]
-标题: Fed's Williams says rate-control toolkit is working well
-链接: https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:02]
-标题: Analog Devices Sees Double-Digit Growth Into 2027 on Data Center, Industrial Demand
-链接: https://finance.yahoo.com/markets/stocks/articles/analog-devices-sees-double-digit-150211734.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:06]
-标题: Minot Light’s Bullish Stance on Rockwell Medical (RMTI)
-链接: https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 13:58]
-标题: 5 Questions With: Boston Questrom’s Leadership Team
-链接: https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 11:47]
-标题: Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January
-链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 11:15]
-标题: Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week
-链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:01]
-标题: How Long Does It Take to Build $1,600 a Month in Dividend Income on $1,000 a Month in Savings?
-链接: https://finance.yahoo.com/markets/stocks/articles/long-does-build-1-600-150132748.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:43]
-标题: Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record
-链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:00]
-标题: Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:01]
-标题: Roundtable Files 8-K: Projects $90-$100 Million in 2027 Revenue and Annualized Adjusted EBITDA-Positive Operations
-链接: https://finance.yahoo.com/technology/ai/articles/roundtable-files-8-k-projects-150100602.html
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:00]
 标题: Best CD rates today, Tuesday, September 22, 2026: Lock in up to 4.40% APY
 链接: https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-22-2026-lock-in-up-to-440-apy-100000744.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 15:00]
-标题: The More Complicated Chips Become, the More Interesting Synopsys Gets
-链接: https://finance.yahoo.com/technology/ai/articles/more-complicated-chips-become-more-150058767.html
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:43]
+标题: Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record
+链接: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 11:15]
+标题: Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week
+链接: https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 11:47]
+标题: Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January
+链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:38]
+标题: Trump Accounts could help lower-income families most. Few have signed up.
+链接: https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 16:57]
+标题: What credit score do you need for a balance transfer credit card?
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:00]
+标题: Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 18:00]
+标题: Should you apply for multiple credit cards at once?
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 17:45]
+标题: Stocks making the biggest moves midday: Lennar, Capri, Vicor, Amgen & more
+链接: https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-midday-len-cpri-vicr-amg.html
+正文: These are the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 12:28]
 标题: Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds
@@ -261,7 +234,7 @@
 链接: https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 02:41]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 16:13]
 标题: Here's who we know is going to the Trump-Xi dinner so far
 链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
 正文: Very little is known about which Chinese business executives, if any, are expected to attend.
@@ -282,14 +255,19 @@
 正文: Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
+标题: Ready to ramp? How US manufacturers can scale at pace
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace
+正文: US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
 标题: Value is the compass. Consumers set the pace.
 链接: https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace
 正文: In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 15:17]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 19:24]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 15:17]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 19:24]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
