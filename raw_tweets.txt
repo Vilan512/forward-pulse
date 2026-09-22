@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-22 19:24:38
-# 共计 57 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-22 22:33:17
+# 共计 59 条来自 8 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-22 13:42]
 标题: Roundtables: The Deadly Failures of The Virtual Border Wall
@@ -28,10 +28,50 @@
 标题: Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
 链接: https://huggingface.co/blog/omlx
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:48]
-标题: GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%
-链接: https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe
-正文: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 21:25]
+标题: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%
+链接: https://aihot.news/items/cmud73hd204tvrora52lp47l0
+正文: OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud73hd204tvrora52lp47l0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 21:00]
+标题: OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具
+链接: https://aihot.news/items/cmud4mu5303n5roa915w7f1ja
+正文: OpenAI 为 GPT-6 系列推出改进的提示词缓存系统，默认提高缓存命中率，对 30 分钟窗口内复用的合格共享前缀提供最高 90% 的缓存输入 token 折扣。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud4mu5303n5roa915w7f1ja
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 20:12]
+标题: Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为
+链接: https://aihot.news/items/cmud52j4i003droralpe8a53b
+正文: Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud52j4i003droralpe8a53b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 19:41]
+标题: Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降
+链接: https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv
+正文: Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 19:29]
+标题: Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse
+链接: https://aihot.news/items/cmud3b5q504b9rov6qig73auy
+正文: Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud3b5q504b9rov6qig73auy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 19:29]
+标题: Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布
+链接: https://aihot.news/items/cmud3aisf04anrov691zrlhcg
+正文: Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud3aisf04anrov691zrlhcg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 19:03]
+标题: 五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一
+链接: https://aihot.news/items/cmud57mjw02snrora28mvi2h0
+正文: 五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud57mjw02snrora28mvi2h0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 19:03]
+标题: 五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡
+链接: https://aihot.news/items/cmud32gov0427rov6rcxw9xlf
+正文: 据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud32gov0427rov6rcxw9xlf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:59]
+标题: Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%
+链接: https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp
+正文: Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:28]
 标题: Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手
@@ -62,6 +102,11 @@
 标题: GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送
 链接: https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji
 正文: OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:00]
+标题: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%
+链接: https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3
+正文: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 17:48]
 标题: Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode
@@ -113,11 +158,6 @@
 链接: https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
 正文: LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 14:35]
-标题: Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌
-链接: https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33
-正文: Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 12:59]
 标题: Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售
 链接: https://aihot.news/items/cmucoqh360i0jroedps8dr2es
@@ -139,6 +179,11 @@
 正文: Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
+标题: Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%
+链接: https://aihot.news/items/cmud77i8r04yerorajpj343j2
+正文: Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud77i8r04yerorajpj343j2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
 标题: OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
 链接: https://aihot.news/items/cmucxyky704ftronibjzp4dos
 正文: OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxyky704ftronibjzp4dos
@@ -157,31 +202,6 @@
 标题: OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
 链接: https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
 正文: OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 21:08]
-标题: 小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3
-链接: https://aihot.news/items/cmubr2enk04a1rociadivcsjt
-正文: 小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubr2enk04a1rociadivcsjt
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 21:03]
-标题: 小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数
-链接: https://aihot.news/items/cmubqsb9b03v9rocigei56crg
-正文: 小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubqsb9b03v9rocigei56crg
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 20:51]
-标题: 小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型
-链接: https://aihot.news/items/cmubqsb9l03vbrociqf22sr07
-正文: 小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubqsb9l03vbrociqf22sr07
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 20:18]
-标题: 小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升
-链接: https://aihot.news/items/cmubpn8sw05u5ro4vlvacy22d
-正文: Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubpn8sw05u5ro4vlvacy22d
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-21 20:11]
-标题: 不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方
-链接: https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7
-正文: 不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 12:39]
 标题: Kalshi asks CFTC to allow margin trading on prediction markets
@@ -203,21 +223,10 @@
 标题: Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html
 
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:38]
-标题: Trump Accounts could help lower-income families most. Few have signed up.
-链接: https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 16:57]
-标题: What credit score do you need for a balance transfer credit card?
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:00]
-标题: Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%
-链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html
-
-[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 18:00]
-标题: Should you apply for multiple credit cards at once?
-链接: https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 22:13]
+标题: CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation
+链接: https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html
+正文: The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 17:45]
 标题: Stocks making the biggest moves midday: Lennar, Capri, Vicor, Amgen & more
@@ -234,7 +243,7 @@
 链接: https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 16:13]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 20:07]
 标题: Here's who we know is going to the Trump-Xi dinner so far
 链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
 正文: Very little is known about which Chinese business executives, if any, are expected to attend.
@@ -255,6 +264,11 @@
 正文: Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
+标题: The future of healthy living: A $16.4 trillion opportunity
+链接: https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity
+正文: New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9 percent to the global economy by 2050.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
 标题: Ready to ramp? How US manufacturers can scale at pace
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace
 正文: US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels.
@@ -264,10 +278,10 @@
 链接: https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace
 正文: In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 19:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 22:33]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 19:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 22:33]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
