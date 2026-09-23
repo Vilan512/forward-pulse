@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-23 01:04:51
-# 共计 47 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-23 07:01:12
+# 共计 49 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-22 13:42]
 标题: Roundtables: The Deadly Failures of The Virtual Border Wall
@@ -15,6 +15,16 @@
 标题: Don’t be fooled by this summer of AI hype
 链接: https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
 正文: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings—which are designed to portray their software is not only powerful but incipient “artificial general intelligence.” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.”&nbsp; As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have a
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 05:18]
+标题: OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩
+链接: https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n
+正文: OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 01:24]
+标题: Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一
+链接: https://aihot.news/items/cmudfo3yi090orogg6bl51tiq
+正文: 通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmudfo3yi090orogg6bl51tiq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 00:00]
 标题: OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目
@@ -141,11 +151,6 @@
 链接: https://aihot.news/items/cmucwpqty0rj8roedzxz1496u
 正文: Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucwpqty0rj8roedzxz1496u
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 15:13]
-标题: Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一
-链接: https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r
-正文: 通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 14:38]
 标题: LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API
 链接: https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6
@@ -160,16 +165,6 @@
 标题: Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来
 链接: https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf
 正文: Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 02:02]
-标题: 卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案
-链接: https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq
-正文: 作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 01:49]
-标题: Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8
-链接: https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
-正文: Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 12:39]
 标题: Kalshi asks CFTC to allow margin trading on prediction markets
@@ -190,6 +185,22 @@
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 11:47]
 标题: Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 14:38]
+标题: Trump Accounts could help lower-income families most. Few have signed up.
+链接: https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 16:57]
+标题: What credit score do you need for a balance transfer credit card?
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 10:00]
+标题: Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%
+链接: https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html
+
+[来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 18:00]
+标题: Should you apply for multiple credit cards at once?
+链接: https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-23 00:58]
 标题: CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation
@@ -216,15 +227,10 @@
 链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
 正文: Very little is known about which Chinese business executives, if any, are expected to attend.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 01:30]
-标题: Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year
-链接: https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html
-正文: JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-23 01:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-23 07:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-23 01:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-23 07:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
