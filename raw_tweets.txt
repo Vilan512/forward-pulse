@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-22 22:33:17
-# 共计 59 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-23 01:04:51
+# 共计 47 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-22 13:42]
 标题: Roundtables: The Deadly Failures of The Virtual Border Wall
@@ -16,17 +16,15 @@
 链接: https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/
 正文: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings—which are designed to portray their software is not only powerful but incipient “artificial general intelligence.” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.”&nbsp; As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have a
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: How UK AISI and EvalEval Are Making Benchmark Results Reproducible
-链接: https://huggingface.co/blog/evaleval-aisi
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 00:00]
+标题: OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目
+链接: https://aihot.news/items/cmude350u077jroggw7odbigk
+正文: OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmude350u077jroggw7odbigk
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: Transformers now runs llama.cpp quants
-链接: https://huggingface.co/blog/transformers-llama-cpp-quants
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
-链接: https://huggingface.co/blog/omlx
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 23:46]
+标题: Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战
+链接: https://aihot.news/items/cmudch57g05bqroggl65fi9vo
+正文: Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmudch57g05bqroggl65fi9vo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 21:25]
 标题: OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%
@@ -67,11 +65,6 @@
 标题: 五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡
 链接: https://aihot.news/items/cmud32gov0427rov6rcxw9xlf
 正文: 据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud32gov0427rov6rcxw9xlf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:59]
-标题: Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%
-链接: https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp
-正文: Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 18:28]
 标题: Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手
@@ -178,31 +171,6 @@
 链接: https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 正文: Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%
-链接: https://aihot.news/items/cmud77i8r04yerorajpj343j2
-正文: Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud77i8r04yerorajpj343j2
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本
-链接: https://aihot.news/items/cmucxyky704ftronibjzp4dos
-正文: OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucxyky704ftronibjzp4dos
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: OpenRouter 推出 Batch API，批量推理可享半价
-链接: https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh
-正文: OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp
-链接: https://aihot.news/items/cmuckj3gv09kiroed6m91iyre
-正文: Hugging Face 宣布 transformers 支持直接运行 GGUF 量化模型，通过 from_pretrained 传入 gguf_file 即可加载 Hub 上的 GGUF checkpoint，并复用 ggml 的 Metal 内核。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuckj3gv09kiroed6m91iyre
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 00:00]
-标题: OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用
-链接: https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
-正文: OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy
-
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-22 12:39]
 标题: Kalshi asks CFTC to allow margin trading on prediction markets
 链接: https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html
@@ -223,7 +191,7 @@
 标题: Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January
 链接: https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 22:13]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-23 00:58]
 标题: CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation
 链接: https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html
 正文: The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.
@@ -243,7 +211,7 @@
 链接: https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-premarket-baba-dgx-onon-gme.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 20:07]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 23:43]
 标题: Here's who we know is going to the Trump-Xi dinner so far
 链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
 正文: Very little is known about which Chinese business executives, if any, are expected to attend.
@@ -253,35 +221,10 @@
 链接: https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html
 正文: JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
-标题: Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz
-链接: https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-through-uncertainty-a-talk-with-former-us-energy-secretary-ernest-moniz
-正文: The physicist and policymaker says the coming decade will be defined by a race for electrons—and that nuclear power, grid investment, and new public-private models will be part of the picture.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
-标题: Winning hearts in an age of infinite travel choices
-链接: https://www.mckinsey.com/industries/travel/our-insights/winning-hearts-in-an-age-of-infinite-travel-choices
-正文: Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
-标题: The future of healthy living: A $16.4 trillion opportunity
-链接: https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity
-正文: New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9 percent to the global economy by 2050.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
-标题: Ready to ramp? How US manufacturers can scale at pace
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace
-正文: US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-22 00:00]
-标题: Value is the compass. Consumers set the pace.
-链接: https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace
-正文: In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-22 22:33]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-23 01:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-22 22:33]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-23 01:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
