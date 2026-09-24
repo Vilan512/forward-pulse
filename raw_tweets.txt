@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-24 19:37:55
-# 共计 33 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-24 22:50:46
+# 共计 30 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-24 12:10]
 标题: The Download: a bid to scrap the virtual wall and AI hits Climate Week
@@ -14,6 +14,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-24 14:08]
 标题: Accelerating vision-language models with LFM2.5-VL-DSpark
 链接: https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-24 18:26]
+标题: GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程
+链接: https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df
+正文: GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-24 17:19]
 标题: 安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式
@@ -90,26 +95,6 @@
 链接: https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
 正文: 澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:46]
-标题: AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类
-链接: https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
-正文: 联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:26]
-标题: Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件
-链接: https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd
-正文: 澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:23]
-标题: Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度
-链接: https://aihot.news/items/cmueurvwl03tvroyqdzcth166
-正文: Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmueurvwl03tvroyqdzcth166
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 20:12]
-标题: 团队分享提升 Agent Harness Token 效率的提示词
-链接: https://aihot.news/items/cmuek0q2c05foroynclaijp3z
-正文: 一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuek0q2c05foroynclaijp3z
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-24 17:12]
 标题: Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation
 链接: https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html
@@ -155,10 +140,10 @@
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen
 正文: At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a catalyst for growth.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-24 19:37]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-24 22:50]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-24 19:37]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-24 22:50]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
