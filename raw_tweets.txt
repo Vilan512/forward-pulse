@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-23 21:53:57
-# 共计 48 条来自 8 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-24 00:07:32
+# 共计 43 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-23 17:10]
 标题: A congressional representative just proposed killing America’s border tower program
@@ -24,6 +24,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-23 18:41]
 标题: How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows
 链接: https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 22:54]
+标题: 阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统
+链接: https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
+正文: 澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuepgrq30eh3royntmaj59h4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:46]
+标题: AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类
+链接: https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
+正文: 联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:40]
+标题: Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量
+链接: https://aihot.news/items/cmuemnn9m07yproynbzmmumd3
+正文: Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuemnn9m07yproynbzmmumd3
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 21:26]
 标题: Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件
@@ -105,6 +120,16 @@
 链接: https://aihot.news/items/cmue2etyn0k5broghxiolkkpi
 正文: OpenAI 宣布向乌克兰政府开放其 Daybreak 计划，支持民用基础设施的网络防御，与乌克兰数字化转型部合作提供识别软件漏洞、开发和测试修复的工具。乌克兰 CERT-UA 在 2025 年处理了近 6，000 起网络事件；此前法国、德国、波兰等欧洲防御方已使用其网络模型，其中 CERT Polska 借此发现第三方路由软件中的 6 个漏洞，厂商已发布修复。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmue2etyn0k5broghxiolkkpi
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 12:00]
+标题: Cursor 发布 Rollouts 和 Security Reviewer 开发机器人
+链接: https://aihot.news/items/cmuepgodc0egsroynju6bomql
+正文: Cursor 发布两款软件开发机器人 Rollouts 和 Security Reviewer，帮助团队更快把安全可靠的代码送入生产环境。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuepgodc0egsroynju6bomql
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 12:00]
+标题: Cursor 提升 agent 长时运行 token 效率，用户成本降低 7%
+链接: https://aihot.news/items/cmuepgodc0egrroyn9ves9c7r
+正文: Cursor 通过改进 agent harness，在不降低 agent 质量的情况下将用户 token 成本降低 7%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuepgodc0egrroyn9ves9c7r
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 10:00]
 标题: OpenAI 联合 80 多位心理健康专家发布开放基准 MentalHealthBench
 链接: https://aihot.news/items/cmuej4po304d9royn5mcmjacv
@@ -124,31 +149,6 @@
 标题: Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一
 链接: https://aihot.news/items/cmudfo3yi090orogg6bl51tiq
 正文: 通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmudfo3yi090orogg6bl51tiq
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 00:00]
-标题: Tomer Tunguz：AI 最重要的市场在中段而非前沿模型
-链接: https://aihot.news/items/cmuej9tln04hproynr12xpgt5
-正文: Tomer Tunguz 分析认为企业 AI 用量集中在需要足够智能且价格可负担的多步骤工作流中段市场，降价竞争正是证据。Anthropic 前沿模型 Fable 5.1 上线前十二天仅占网关支出的 3.7%，大型企业账户的前沿模型 token 消耗占比从 8 月初的 53% 降至 9 月的 45%；Cursor 用微调 Kimi K2.5 将成本降低 86%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuej9tln04hproynr12xpgt5
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 00:00]
-标题: Modal 详解如何以万亿 token 规模服务 Kimi K2.6 编码 Agent 推理
-链接: https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly
-正文: Modal 分享为编码 Agent 提供万亿参数模型 Kimi K2.6 推理服务的优化实践，优化后单副本每用户性能提升 2.8x、副本整体吞吐提升 5.6x，单个服务日处理数千亿 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-23 00:00]
-标题: OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目
-链接: https://aihot.news/items/cmude350u077jroggw7odbigk
-正文: OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmude350u077jroggw7odbigk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 23:46]
-标题: Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战
-链接: https://aihot.news/items/cmudch57g05bqroggl65fi9vo
-正文: Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmudch57g05bqroggl65fi9vo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-22 22:38]
-标题: Artificial Analysis 评测：GPT-6 Sol 和 Luna 以约一半成本保持与 GPT-5.6 系列相近的 Intelligence Index 得分
-链接: https://aihot.news/items/cmud9s4pn001groggnqsackao
-正文: Artificial Analysis 发文指出，GPT-6 Sol 和 Luna 在 Intelligence Index 中得分与各自前代相近，但 token 定价下降约 50%，将单任务成本减半。其图表展示了各代 OpenAI 模型在智能与单任务成本之间的权衡曲线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmud9s4pn001groggnqsackao
 
 [来源: Yahoo_Finance] [分类: 股票基金] [时间: 2026-09-23 10:00]
 标题: Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall
@@ -174,6 +174,11 @@
 标题: Understanding ATM withdrawal limits: How much cash can you withdraw per day?
 链接: https://finance.yahoo.com/personal-finance/banking/article/understanding-atm-withdrawal-limits-214042237.html
 
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-23 23:59]
+标题: U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit
+链接: https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html
+正文: The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.
+
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-23 17:15]
 标题: Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more
 链接: https://www.cnbc.com/2026/09/23/stocks-making-the-biggest-moves-midday-mcd-cbrl-baba-wor-.html
@@ -194,40 +199,10 @@
 链接: https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html
 正文: The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-22 23:43]
-标题: Here's who we know is going to the Trump-Xi dinner so far
-链接: https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
-正文: Very little is known about which Chinese business executives, if any, are expected to attend.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-23 00:00]
-标题: Maintenance meets AI: A proven approach for asset-heavy industries
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries
-正文: Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-23 00:00]
-标题: Harnessing AI to make mining safer
-链接: https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer
-正文: AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue and automating dangerous tasks.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-23 00:00]
-标题: India’s new insurance track: The marathon becomes an AI-led decathlon
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon
-正文: As India’s economy continues to ramp up, insurers have an opportunity to capture value by improving productivity, modernizing operating models, and scaling technology and AI across the enterprise.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-23 00:00]
-标题: Author Talks: The business of owning a sports team
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team
-正文: How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-23 00:00]
-标题: Rewiring procurement in resources: Making judgment an enduring asset
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-procurement-in-resources-making-judgment-an-enduring-asset
-正文: For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-23 21:53]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-24 00:07]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-23 21:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-24 00:07]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
