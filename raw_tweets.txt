@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-25 17:38:33
-# 共计 19 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-25 20:53:39
+# 共计 25 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-25 12:10]
 标题: The Download: the Pentagon’s AI-powered lie detector and young organ limits
@@ -15,6 +15,41 @@
 标题: Young organs may not be a fountain of youth for recipients
 链接: https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/
 正文: Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously transplanted, and people can live younger and younger, and even achieve immortality,” Russia’s Vladimir Putin reportedly told China’s Xi Jinping. He seems to have been referring to the “replacement” theory of longevity, which has been supported by multiple experiments that involved physically stitching young mice to old ones. Something about the young blood rejuvenated the old mice. Perhaps young organs could rejuvenate world leaders in their 70s, too. Unfortunately for Putin, new research pours a little cold water on this idea. Studies on transplanted hearts in both mice and humans suggest that new hearts soon adopt the biological age of the recipient, no matter how young they were to begin with. The finding could be important for transplantation, but it also highlights just how complex aging—and rejuvenation—are. Jesse Poganik at Brigham and Women’s Hospital in Boston is one of the many scientists trying to understand exactly what it is about the bodies of young mice that rejuvenates old ones. Plenty of research has focused on seeking the secrets of youth in young blood. But what if it’s something about young organs instead? To find out, he and his colleagues performed a set of heart transplants in mice. In humans, heart transplants typically involve removing a damaged or injured heart and replacing it with another from a donor who is usually much younger than the recipient. (When Poganik assessed hospital records, he found that most recipients were about 20 years older than their donors.) The mouse transplants were different: Mice received a second heart, implanted in the neck—a procedure that’s slightly simpler and allo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 19:48]
+标题: Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿
+链接: https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s
+正文: Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 19:27]
+标题: Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展
+链接: https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep
+正文: Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 18:13]
+标题: Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化
+链接: https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck
+正文: Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 18:09]
+标题: Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式
+链接: https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr
+正文: Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 18:00]
+标题: GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流
+链接: https://aihot.news/items/cmuha4bdk063qro3buzyc19hv
+正文: GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuha4bdk063qro3buzyc19hv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 17:59]
+标题: Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末
+链接: https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk
+正文: 物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 17:46]
+标题: Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算
+链接: https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8
+正文: Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-25 15:48]
 标题: OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露
@@ -56,12 +91,7 @@
 链接: https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c
 正文: 《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-24 18:26]
-标题: GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程
-链接: https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df
-正文: GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-25 16:27]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-25 18:27]
 标题: Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more
 链接: https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html
 正文: These are the stocks posting the largest moves midday.
@@ -85,10 +115,10 @@
 链接: https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html
 正文: U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-25 17:38]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-25 20:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-25 17:38]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-25 20:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
