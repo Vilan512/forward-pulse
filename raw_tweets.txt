@@ -1,17 +1,86 @@
-# ForwardPulse 原始情报收割 — 2026-09-28 06:07:51
-# 共计 6 条来自 4 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-28 14:44:36
+# 共计 22 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 12:10]
+标题: The Download: rogue agent liability and the AI Hype Index
+链接: https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test.&nbsp; Many experts say it’s only a matter of time until there’s a more damaging incident where AI agents bypass sandboxes to access systems they shouldn’t.&nbsp; But the big question is: How do we hold companies liable when they lose control of their AI agents? —Michelle Kim The AI Hype Index Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of what’s shaping the industry right now. The latest edition includes Chinese chipmakers, German wiki sites, and American Terminators. See where it all landed on this month’s index. —Michelle Kim Roundtables: the deadly failures of the virtual border wall Last week, we published an MIT Technology Review investigation that found more than a thousand people died within the advertised range of surveillance towers along the US border.Later today, our editor-in-chief Mat Honan, senior AI reporter James O’Donnell and senior reporter for features and investigations Eileen Guo will join a subscriber-only conversation about the investigation, and its implications.Register now to attend on Monday, September 28 at 7:00pm BST / 2:00pm EDT / 11:00am PDT.Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables.Read the full MIT Technology Review investigation here. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology 1 OpenAI says it has paused training its models The decision comes after its agents interac
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 08:06]
+标题: Who’s liable when AI agents go rogue?
+链接: https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
+正文: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijacked a German wiki site and the coding platform RubyGems in May to share test answers. Earlier this month, Anthropic disclosed four incidents in which its model Claude hacked into third-party systems during cybersecurity exercises. Just last week, Google confirmed that its model Gemini had been caught hacking other companies too. The researcher who uncovered the OpenAI website hijack has warned it’s likely that similar undiscovered episodes are out there. And many say it’s only a matter of time until there’s another, possibly more damaging incident where AI agents bypass sandboxes to access systems they shouldn’t.&nbsp; So the big question is: How do we hold companies liable when they lose control of their AI agents? Reporting OpenAI didn’t disclose the German wiki incident or the RubyGems incident until a group of external researchers uncovered them, and it still has not disclosed some crucial details about the Hugging Face hack. That limits our understanding of what exactly went wrong and how to prevent it from happening again. But you might be surprised to learn that OpenAI likely wasn’t legally required to disclose these incidents. (OpenAI did not respond to a request for comment.) State AI transparency laws like California’s SB 53, New York’s RAISE Act, and Illinois’s SB 315 require that AI developers report “critical safety incidents.” These are defined as incidents that cause more than 50 deaths or physical injuries or $1 billion in damage. They also include incidents where 
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-28 09:44]
+标题: Holo4: powering generalist computer-use agents
+链接: https://huggingface.co/blog/Hcompany/holo4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:47]
+标题: 北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗
+链接: https://aihot.news/items/fxee0mj2zabmuypu49wy699z8
+正文: 据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fxee0mj2zabmuypu49wy699z8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:44]
+标题: H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本
+链接: https://aihot.news/items/y1thdkq6a9giiitpxb6e13hwo
+正文: H Company 发布通用计算机使用智能体模型系列 Holo4，含 27B dense 和 35B-A3B MoE 两个尺寸，并基于 Nemotron 3 Nano Omni 推出 Holotron4 Nano。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y1thdkq6a9giiitpxb6e13hwo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:33]
+标题: 英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统
+链接: https://aihot.news/items/l8gn0lz5n5t5zh50w7132enx8
+正文: 英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l8gn0lz5n5t5zh50w7132enx8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:12]
+标题: 英伟达联合超100家伙伴推出开放代理安全平台
+链接: https://aihot.news/items/qnf8fa8fygvfw23p9if6pvj5c
+正文: 2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qnf8fa8fygvfw23p9if6pvj5c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:00]
+标题: MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年
+链接: https://aihot.news/items/usolnb7i6x3qmicwmoza9dpvl
+正文: MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。 🔗 阅读原文 via AIHOT · https://aihot.news/items/usolnb7i6x3qmicwmoza9dpvl
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 07:33]
+标题: Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式
+链接: https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m
+正文: Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 07:22]
+标题: Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%
+链接: https://aihot.news/items/zkdby2t1m0py60rlf2cyevbl5
+正文: Fireworks AI 推出 Ember-1，这是基于 Moonshot AI 开源权重 Kimi K3 进行后训练的专用模型。该模型通过优化内部推理过程，在保持任务准确率的同时将生成的推理 Token 减少了约 40%。与单纯降低推理努力程度不同，Ember-1 保留了有用的自我反思并削减了冗余循环。基准测试显示，其在 Terminal Bench 2.1 和 DeepSWE 1.1 上表现优于 K3 Max，且在生产环境 A/B 测试中实现了显著的成本节约。目前仅通过 Fireworks Serverless API 以研究预览形式提供，未开放权重。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zkdby2t1m0py60rlf2cyevbl5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 06:58]
+标题: 澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件
+链接: https://aihot.news/items/jf16ia86miglhn1hkx6dhksbv
+正文: 澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jf16ia86miglhn1hkx6dhksbv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 04:31]
 标题: Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显
 链接: https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr
 正文: Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。 🔗 阅读原文 via AIHOT · https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-27 09:27]
-标题: Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法
-链接: https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or
-正文: Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-27 16:00]
+标题: NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离
+链接: https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o
+正文: NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。 🔗 阅读原文 via AIHOT · https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 02:49]
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-27 16:00]
+标题: NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱
+链接: https://aihot.news/items/q5uxhmt17ywcspz44neanmel7
+正文: NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。 🔗 阅读原文 via AIHOT · https://aihot.news/items/q5uxhmt17ywcspz44neanmel7
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 11:29]
+标题: Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more
+链接: https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html
+正文: These are the stocks posting the largest moves premarket.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 08:31]
+标题: U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies
+链接: https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html
+正文: The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 07:22]
 标题: Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold
 链接: https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html
 正文: U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.
@@ -21,10 +90,20 @@
 链接: https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html
 正文: The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-28 06:07]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-28 00:00]
+标题: The AI-powered future of care
+链接: https://www.mckinsey.com/industries/healthcare/our-insights/the-ai-powered-future-of-care
+正文: AI won’t replace clinicians, but it can improve quality, increase access, and reshape the workforce, payments, and patient volumes. Today, AI can perform some 16 to 22 percent of US outpatient care.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-28 00:00]
+标题: Convenience or discovery: Which mission will your store serve?
+链接: https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve
+正文: As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-28 14:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-28 06:07]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-28 14:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
