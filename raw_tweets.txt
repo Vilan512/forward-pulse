@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-09-28 14:44:36
-# 共计 22 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-28 20:56:30
+# 共计 43 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 17:03]
+标题: When can we say AI made a scientific discovery?
+链接: https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report. And this AI-powered lab, the company said, had made its first discovery.&nbsp; To understand what Anthropic says its system did, imagine you’re flipping through a library of millions of DNA sequences, amassed as scientists sequence more and more of the living world. One step toward a breakthrough might be finding a peculiar sequence that encodes an interesting enzyme, perhaps. Then you’d need to figure out what that enzyme does and, eventually, how to manipulate it to do something useful. What Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. But if you read through Anthropic’s announcement, which calls this pattern “reminiscent” of what led to the gene-editing technology CRISPR that “has already transformed science and medicine,” it sounds as if this army of agents really found something of note.&nbsp; These claims have angered some biologists. A viral post from one, subsequently endorsed by the chair and CEO of the drugmaker Eli Lilly, said that “finding a weird cluster of genes and repeats is often the easy part. The hard part, and where the real discoveries come from, is figuring out what the system actually does.” The agents helped with some laboratory grunt work, in other words. But a discovery it is not.&nbsp; It’s a reminder that even if AI does something impressive—like finding a pattern in a mass of biological data that would be difficult to perceive with human eyes alone—the result itself may not constitute a breakthro
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 12:10]
 标题: The Download: rogue agent liability and the AI Hype Index
@@ -14,6 +19,106 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-28 09:44]
 标题: Holo4: powering generalist computer-use agents
 链接: https://huggingface.co/blog/Hcompany/holo4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 19:54]
+标题: Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%
+链接: https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c
+正文: Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。 🔗 阅读原文 via AIHOT · https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 19:08]
+标题: Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变
+链接: https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b
+正文: Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 19:00]
+标题: GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞
+链接: https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
+正文: GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。 🔗 阅读原文 via AIHOT · https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:36]
+标题: Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%
+链接: https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz
+正文: Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:31]
+标题: Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5
+链接: https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1
+正文: Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:30]
+标题: Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测
+链接: https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s
+正文: Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:25]
+标题: Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug
+链接: https://aihot.news/items/ir0q60kimsv4skbvijgn9l0yo
+正文: Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ir0q60kimsv4skbvijgn9l0yo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:08]
+标题: Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%
+链接: https://aihot.news/items/oj5l22xux3cszvar5h8pnb6gz
+正文: Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oj5l22xux3cszvar5h8pnb6gz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:04]
+标题: Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%
+链接: https://aihot.news/items/pa8kb07r7pwq4634oqsc74u30
+正文: Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pa8kb07r7pwq4634oqsc74u30
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:04]
+标题: Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%
+链接: https://aihot.news/items/zln0tfucemeg0u13nty5l1xt4
+正文: Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快 30% 以上，写作更清晰，适合快速来回交互。定位上与为复杂判断工作打造的 Claude Opus 5.5 区分，Sonnet 5.5 擅长范围明确的日常任务、修复 bug 以及制作文档、幻灯片和表格。模型即日起全量可用，Claude Haiku 5.5 将在未来几周加入该系列。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zln0tfucemeg0u13nty5l1xt4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:04]
+标题: Anthropic 发布 Claude Sonnet 5.5
+链接: https://aihot.news/items/bwsummhexyofxfa9zev9dck85
+正文: Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bwsummhexyofxfa9zev9dck85
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:03]
+标题: Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型
+链接: https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh
+正文: Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型。官方称其相比 Sonnet 5 是明确升级，运行速度快 30% 以上，且多数任务成本最多降低 30%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:02]
+标题: Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿
+链接: https://aihot.news/items/pvm41ni6zt9jioei0w85zviho
+正文: Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pvm41ni6zt9jioei0w85zviho
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:02]
+标题: Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%
+链接: https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7
+正文: Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 17:58]
+标题: Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%
+链接: https://aihot.news/items/x8r8kta42au39pp06f02shk9f
+正文: Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x8r8kta42au39pp06f02shk9f
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 17:09]
+标题: OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件
+链接: https://aihot.news/items/utlli05ofg17l8l9piwz0we87
+正文: OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。 🔗 阅读原文 via AIHOT · https://aihot.news/items/utlli05ofg17l8l9piwz0we87
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 17:04]
+标题: Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿
+链接: https://aihot.news/items/a9232gqkdvffzddxfcywal2ng
+正文: Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/a9232gqkdvffzddxfcywal2ng
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 17:00]
+标题: Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%
+链接: https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4
+正文: Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 16:43]
+标题: OpenAI 暂停前沿模型训练，因多起智能体对齐事件
+链接: https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9
+正文: OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 15:41]
+标题: Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁
+链接: https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v
+正文: Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 09:47]
 标题: 北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗
@@ -55,20 +160,20 @@
 链接: https://aihot.news/items/jf16ia86miglhn1hkx6dhksbv
 正文: 澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jf16ia86miglhn1hkx6dhksbv
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 06:02]
+标题: UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案
+链接: https://aihot.news/items/xzz70gkzl87ypmq36y8hmo2rs
+正文: UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xzz70gkzl87ypmq36y8hmo2rs
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 04:31]
 标题: Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显
 链接: https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr
 正文: Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。 🔗 阅读原文 via AIHOT · https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-27 16:00]
-标题: NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离
-链接: https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o
-正文: NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。 🔗 阅读原文 via AIHOT · https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-27 16:00]
-标题: NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱
-链接: https://aihot.news/items/q5uxhmt17ywcspz44neanmel7
-正文: NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。 🔗 阅读原文 via AIHOT · https://aihot.news/items/q5uxhmt17ywcspz44neanmel7
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 17:53]
+标题: Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market
+链接: https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html
+正文: Almost half of the stocks in the S&amp;P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 11:29]
 标题: Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more
@@ -85,10 +190,10 @@
 链接: https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html
 正文: U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-27 15:35]
-标题: Debt-hungry AI companies face increased risk as bond yields spike
-链接: https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html
-正文: The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-28 00:00]
+标题: Navigating the new normal: Building resilience in fuel retail trading
+链接: https://www.mckinsey.com/industries/oil-and-gas/our-insights/navigating-the-new-normal-building-resilience-in-fuel-retail-trading
+正文: Commodity markets have entered a new era of persistent volatility. For fuel retailers, this is a chance to strengthen resilience and unlock value, but only with strategic investment and a shift in mindset.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-28 00:00]
 标题: The AI-powered future of care
@@ -100,10 +205,10 @@
 链接: https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve
 正文: As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-28 14:44]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-28 20:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-28 14:44]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-28 20:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
