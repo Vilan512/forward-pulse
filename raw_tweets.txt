@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-29 13:34:23
-# 共计 28 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-29 18:59:56
+# 共计 39 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-29 12:10]
 标题: The Download: climate tech companies to watch and AI’s discovery problem
@@ -21,24 +21,83 @@
 链接: https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/
 正文: Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Our findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands. Speakers: Mat Honan, editor in chief, James O&#8217;Donnell, senior AI reporter, and Eileen Guo, senior features and investigations reporter Recorded on September 28, 2026 Related Stories The US spent billions on border surveillance. Why can’t it catch people before they die? How we made the first comprehensive map of deaths along the US border’s “virtual wall” 4 ways to address the failures we found along the US border’s “virtual wall”
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 17:03]
-标题: When can we say AI made a scientific discovery?
-链接: https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report. And this AI-powered lab, the company said, had made its first discovery.&nbsp; To understand what Anthropic says its system did, imagine you’re flipping through a library of millions of DNA sequences, amassed as scientists sequence more and more of the living world. One step toward a breakthrough might be finding a peculiar sequence that encodes an interesting enzyme, perhaps. Then you’d need to figure out what that enzyme does and, eventually, how to manipulate it to do something useful. What Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. But if you read through Anthropic’s announcement, which calls this pattern “reminiscent” of what led to the gene-editing technology CRISPR that “has already transformed science and medicine,” it sounds as if this army of agents really found something of note.&nbsp; These claims have angered some biologists. A viral post from one, subsequently endorsed by the chair and CEO of the drugmaker Eli Lilly, said that “finding a weird cluster of genes and repeats is often the easy part. The hard part, and where the real discoveries come from, is figuring out what the system actually does.” The agents helped with some laboratory grunt work, in other words. But a discovery it is not.&nbsp; It’s a reminder that even if AI does something impressive—like finding a pattern in a mass of biological data that would be difficult to perceive with human eyes alone—the result itself may not constitute a breakthro
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-29 15:30]
+标题: NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
+链接: https://huggingface.co/blog/nvidia/kumo-tabular
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-29 13:07]
 标题: Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents
 链接: https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:15]
+标题: Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名
+链接: https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n
+正文: Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:11]
+标题: OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作
+链接: https://aihot.news/items/tvt0vwx0azyf8ranz8rgjjxey
+正文: OpenAI 宣布 Codex cloud environments 上线，用户关掉笔记本后智能体仍可继续工作。可复用的云环境预置仓库、依赖、脚本和设置，减少配置时间、加快启动。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tvt0vwx0azyf8ranz8rgjjxey
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:53]
+标题: OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use
+链接: https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j
+正文: OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。 🔗 阅读原文 via AIHOT · https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:47]
+标题: ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用
+链接: https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
+正文: ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:36]
+标题: OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动
+链接: https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
+正文: OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动，拥有自己的云端电脑、浏览器和 24/7 后台工作能力，可经插件连接超 4,000 个应用，并支持在 ChatGPT、Slack 或 Teams 中沟通。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:29]
+标题: ChatGPT 推出 Space 团队协作功能与交互式文档 pages
+链接: https://aihot.news/items/e4a2k70bkqzz23di75itqnegk
+正文: ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e4a2k70bkqzz23di75itqnegk
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:23]
+标题: OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新
+链接: https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed
+正文: OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 16:05]
+标题: Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%
+链接: https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w
+正文: Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:53]
+标题: Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择
+链接: https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea
+正文: Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。 🔗 阅读原文 via AIHOT · https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:45]
+标题: Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜
+链接: https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o
+正文: Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。 🔗 阅读原文 via AIHOT · https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:30]
+标题: NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一
+链接: https://aihot.news/items/tcf79upi169og7ftecq28pps2
+正文: NVIDIA 发布开源表格基础模型 Kumo Tabular，对带标签表格做单次前向推理即可完成分类和回归，无需训练、调参或特征工程。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tcf79upi169og7ftecq28pps2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 14:22]
+标题: OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标
+链接: https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95
+正文: OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 14:00]
+标题: Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请
+链接: https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28
+正文: Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 09:03]
 标题: IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图
 链接: https://aihot.news/items/k8sujz02e95ov1206fwycu9ci
 正文: IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。 🔗 阅读原文 via AIHOT · https://aihot.news/items/k8sujz02e95ov1206fwycu9ci
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 08:26]
-标题: OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布
-链接: https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2
-正文: OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 02:21]
 标题: 路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元
@@ -54,6 +113,11 @@
 标题: Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门
 链接: https://aihot.news/items/ojft30prd1oss7mf78quyvq2o
 正文: 据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ojft30prd1oss7mf78quyvq2o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 00:00]
+标题: Tomer Tunguz 解析 Anthropic 与 OpenAI 的市场分层竞争与企业计费策略
+链接: https://aihot.news/items/oswch3jncrszq25mikmeoq8di
+正文: VC Tomer Tunguz 分析认为 2026 年 AI 竞争重心从技术创新转向商业模式创新。Anthropic 于 2026 年 3 月推出企业按量计费后单季收入翻倍至 65b 美元 run rate；约三个月后 OpenAI 将其最便宜模型 Luna 降价 80%，run rate 接近 70b 美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oswch3jncrszq25mikmeoq8di
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 23:21]
 标题: OpenAI 上线对齐失效报告网站，披露九起智能体失控事件
@@ -80,26 +144,6 @@
 链接: https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
 正文: GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。 🔗 阅读原文 via AIHOT · https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:31]
-标题: Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5
-链接: https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1
-正文: Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 18:30]
-标题: Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测
-链接: https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s
-正文: Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 17:00]
-标题: Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%
-链接: https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4
-正文: Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 15:41]
-标题: Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁
-链接: https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v
-正文: Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 12:00]
 标题: Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity
 链接: https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html
@@ -110,9 +154,9 @@
 链接: https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 10:00]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 14:37]
 标题: Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount
-链接: https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html
+链接: https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html
 正文: President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 07:19]
@@ -120,20 +164,30 @@
 链接: https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html
 正文: China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-28 17:53]
-标题: Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market
-链接: https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html
-正文: Almost half of the stocks in the S&amp;P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
 标题: Workforce in motion: Skills and pathways to future jobs in the United States
 链接: https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states
 正文: AI, automation, and broader structural trends are accelerating the reallocation of work across the US economy. Capturing its benefits requires developing new professional pathways and skills, and reducing barriers between declining and growing occupations.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-29 13:34]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
+标题: The next phase of government AI economics
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics
+正文: Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
+标题: Make life better: Mikhail Lomtadze’s customer-first philosophy
+链接: https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy
+正文: Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
+标题: How leaders are turning AI into growth
+链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/how-leaders-are-turning-ai-into-growth
+正文: Nearly 90 percent of companies are investing in AI, but only 6 percent see material impact. The difference is in how they approach it.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-29 18:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-29 13:34]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-29 18:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
