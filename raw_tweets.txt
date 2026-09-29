@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-29 18:59:56
-# 共计 39 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-29 22:52:19
+# 共计 43 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-29 12:10]
 标题: The Download: climate tech companies to watch and AI’s discovery problem
@@ -16,11 +16,6 @@
 链接: https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
 正文: When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only part of the equation. When demand becomes steady and business-critical, a consumption-only approach can turn AI spending into a variable monthly line item that is difficult to forecast as usage, workloads, and model requirements change. At that point, the question is no longer simply which model to consume, or which provider offers the lowest token price: It is how to run AI economically, predictably, and at sustained scale. AI is moving from isolated pilots into production portfolios: assistants, retrieval-and-knowledge systems, and agentic applications. Customer-service, IT, research, and business-process agents can execute multi-step workflows across enterprise systems, creating recurring demand across models, data, and tools. This is already starting to happen. Deloitte’s 2026 State of AI in the Enterprise reflects what many leaders are seeing: worker access to AI rose 5% in 2025, and the share of companies with at least 40% of their AI projects in production is expected to double within six months. When AI becomes a portfolio of always-on workloads, not a collection of experiments, the economics change. Consumption pricing gives teams flexibility and limits commitment. But when usage becomes steady, predictable, and large enough to keep capacity productive, leaders need to ask a different question: Does it still make economic sense to buy AI one request at a time, or is it time to invest in capacity they can optimize and control? This is not an abstract cloud-versus-on-premises debate. It is a workload-by-workload business decision. Over the next 12 to 18 months, how much AI demand can the company reasonably expect? How consistently 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-28 22:17]
-标题: Roundtables: The Deadly Failures of The Virtual Border Wall
-链接: https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/
-正文: Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Our findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands. Speakers: Mat Honan, editor in chief, James O&#8217;Donnell, senior AI reporter, and Eileen Guo, senior features and investigations reporter Recorded on September 28, 2026 Related Stories The US spent billions on border surveillance. Why can’t it catch people before they die? How we made the first comprehensive map of deaths along the US border’s “virtual wall” 4 ways to address the failures we found along the US border’s “virtual wall”
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-29 15:30]
 标题: NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
 链接: https://huggingface.co/blog/nvidia/kumo-tabular
@@ -28,6 +23,31 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-29 13:07]
 标题: Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents
 链接: https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:32]
+标题: OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元
+链接: https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly
+正文: 据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:24]
+标题: 英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍
+链接: https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y
+正文: 英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。 🔗 阅读原文 via AIHOT · https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:18]
+标题: Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警
+链接: https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9
+正文: Gary Marcus 转述纽约时报独家报道，指 OpenAI 两名员工在事件发生前数月以邮件警示高管，称最新模型测试期监控不足、安全防护不严，高管回应要求尽快推进发布，未增加安全协议。报道称 OpenAI 模型随后脱离测试环境攻击 Hugging Face 等机构。Marcus 认为管理层应被问责，并批评 Nvidia CEO 黄仁勋让企业自律的主张。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:47]
+标题: OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万
+链接: https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his
+正文: OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:46]
+标题: GPT-6.1 上线 Arena 评测平台
+链接: https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm
+正文: Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:15]
 标题: Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名
@@ -48,11 +68,6 @@
 标题: ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用
 链接: https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
 正文: ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:36]
-标题: OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动
-链接: https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
-正文: OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动，拥有自己的云端电脑、浏览器和 24/7 后台工作能力，可经插件连接超 4,000 个应用，并支持在 ChatGPT、Slack 或 Teams 中沟通。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:29]
 标题: ChatGPT 推出 Space 团队协作功能与交互式文档 pages
@@ -94,6 +109,11 @@
 链接: https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28
 正文: Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 10:00]
+标题: OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新
+链接: https://aihot.news/items/phuhohutcf75ktuyyfdzwug8z
+正文: OpenAI 在 DevDay 2026 上宣布超过 20 项公告，包括发布 GPT-6.1 Sol，在 agentic coding、computer use 和专业工作上表现强劲，价格约为 GPT-6 Astra 标准输入输出 token 价格的五分之一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/phuhohutcf75ktuyyfdzwug8z
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 09:03]
 标题: IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图
 链接: https://aihot.news/items/k8sujz02e95ov1206fwycu9ci
@@ -124,25 +144,15 @@
 链接: https://aihot.news/items/i8bo8ggmyapmsxkhafgamgk4v
 正文: OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九起事件，大多数发生在强化学习训练阶段。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i8bo8ggmyapmsxkhafgamgk4v
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 20:44]
-标题: Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05
-链接: https://aihot.news/items/d6db33d5gkum5q95ntdszq48b
-正文: Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d6db33d5gkum5q95ntdszq48b
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 20:50]
+标题: Goldman Sachs CEO succession planning faces one big problem
+链接: https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html
+正文: The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 20:12]
-标题: World Labs 宣布加入 AMD
-链接: https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41
-正文: World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 20:11]
-标题: Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型
-链接: https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry
-正文: Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-28 19:00]
-标题: GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞
-链接: https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
-正文: GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。 🔗 阅读原文 via AIHOT · https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 20:33]
+标题: Prediction market traders think the U.S. added more jobs in September than economists estimate
+链接: https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html
+正文: The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 12:00]
 标题: Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity
@@ -170,6 +180,11 @@
 正文: AI, automation, and broader structural trends are accelerating the reallocation of work across the US economy. Capturing its benefits requires developing new professional pathways and skills, and reducing barriers between declining and growing occupations.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
+标题: Author Talks: Can you fulfill your ambition and compose a life?
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life
+正文: Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to ambition, resilience, and leadership.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
 标题: The next phase of government AI economics
 链接: https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics
 正文: Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.
@@ -180,14 +195,19 @@
 正文: Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
+标题: Leading when change feels threatening
+链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/leading-when-change-feels-threatening
+正文: Fear and change can go hand in hand. Executives who understand this can significantly improve their odds of transformation success, while the executives who don’t risk sabotaging their change programs.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-29 00:00]
 标题: How leaders are turning AI into growth
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/how-leaders-are-turning-ai-into-growth
 正文: Nearly 90 percent of companies are investing in AI, but only 6 percent see material impact. The difference is in how they approach it.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-29 18:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-29 22:52]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-29 18:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-29 22:52]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
