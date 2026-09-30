@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-30 14:26:22
-# 共计 44 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-30 19:44:39
+# 共计 42 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 12:10]
 标题: The Download: OpenAI’s chief research officer explains its hacking response
@@ -11,9 +11,49 @@
 链接: https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
 正文: Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia’s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer. Chen oversees OpenAI’s research teams. The recent agent hacks were accidents that happened during the testing of experimental models on his watch. In a lot of ways, the buck stops with him.&nbsp; I sat down with Chen in London last Friday to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem. Later that same day, OpenAI put out a report detailing yet another incident—the first since the company says it took measures to prevent them—in which its agents once again broke out and accessed the public internet when they were not meant to. Over the weekend, OpenAI announced that it had paused the training of its latest models. A company spokesperson says: “We will resume only when we’re confident we have additional safeguards and alignments in place. We are working on these now. This is not the first time we’ve paused to take such measures, nor do we expect it to be the last as AI capabilities continue to advance.” OpenAI also says that it is now reviewing logs of agent activity dating back to January 2026 to understand what happened in these hacks. The way Chen sees it, the Hugging Face incident tri
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-29 15:30]
-标题: NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
-链接: https://huggingface.co/blog/nvidia/kumo-tabular
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-30 00:00]
+标题: Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
+链接: https://huggingface.co/blog/open-tts-leaderboard
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 18:49]
+标题: Perplexity 开放 Computer 邮件委托入口并限时免费运行任务
+链接: https://aihot.news/items/zdncjvjrmmknlsf9tevjlrnrg
+正文: Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zdncjvjrmmknlsf9tevjlrnrg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 18:47]
+标题: Trump 推动二十余家科技公司签署自愿性 AI 安全协议
+链接: https://aihot.news/items/huhcnz3mwim553m2t8c0jhh4b
+正文: 约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/huhcnz3mwim553m2t8c0jhh4b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 18:42]
+标题: GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名
+链接: https://aihot.news/items/t1wnqaj3xyl90ilvgy4poyc45
+正文: Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t1wnqaj3xyl90ilvgy4poyc45
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 17:25]
+标题: Jensen Huang 称行业领袖在白宫签署超级智能协定
+链接: https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n
+正文: 多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 16:20]
+标题: FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查
+链接: https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw
+正文: FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 15:03]
+标题: Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印
+链接: https://aihot.news/items/deivg466iwv9ypddacud3hd7d
+正文: Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/deivg466iwv9ypddacud3hd7d
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 15:00]
+标题: MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手
+链接: https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj
+正文: MIT、CMU、NYU 与 Stanford 的研究人员开发出 AI 系统 Ataraxos，在隐藏信息棋盘战棋 Stratego 上大幅超越世界顶级人类选手，论文发表于 Nature。 🔗 阅读原文 via AIHOT · https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 14:58]
+标题: Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时
+链接: https://aihot.news/items/d3byj8l8prs0dpe0j1ontvd96
+正文: Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d3byj8l8prs0dpe0j1ontvd96
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 12:41]
 标题: Hugging Face CEO 称收到数千条私信，将花几天逐一处理
@@ -25,10 +65,15 @@
 链接: https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h
 正文: 蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 02:25]
-标题: Google 与白宫及科技领袖签署 White House Accord on Super Intelligence
-链接: https://aihot.news/items/rykd5ehzsa334zhi0cp2b9ypg
-正文: Sundar Pichai 宣布 Google 在与特朗普总统、JD Vance、Speaker Johnson 及政府与科技领袖会晤后，签署了 White House Accord on Super Intelligence 及 Joint Commitment on Frontier Responsibilities。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rykd5ehzsa334zhi0cp2b9ypg
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 12:00]
+标题: ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元
+链接: https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
+正文: ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 10:30]
+标题: OpenAI 披露并处置一起有组织的模型蒸馏攻击行动
+链接: https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
+正文: OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨在系统性提取模型受保护的推理内容，最早活动出现在 7 月第一周。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 02:01]
 标题: DeepSeek 开源面向华为昇腾平台的基础设施组件
@@ -54,6 +99,11 @@
 标题: PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞
 链接: https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1
 正文: PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
+标题: Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流
+链接: https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4
+正文: Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
 标题: OpenRouter 教程：如何测试 AI Agent 的工具调用准确性
@@ -85,87 +135,12 @@
 链接: https://aihot.news/items/hxdv40od8cwti1sfmkmursiop
 正文: 据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hxdv40od8cwti1sfmkmursiop
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:24]
-标题: 英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍
-链接: https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y
-正文: 英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。 🔗 阅读原文 via AIHOT · https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 19:20]
+标题: Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more
+链接: https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html
+正文: These are the stocks posting the largest moves midday.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:18]
-标题: Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警
-链接: https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9
-正文: Gary Marcus 转述纽约时报独家报道，指 OpenAI 两名员工在事件发生前数月以邮件警示高管，称最新模型测试期监控不足、安全防护不严，高管回应要求尽快推进发布，未增加安全协议。报道称 OpenAI 模型随后脱离测试环境攻击 Hugging Face 等机构。Marcus 认为管理层应被问责，并批评 Nvidia CEO 黄仁勋让企业自律的主张。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:47]
-标题: OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万
-链接: https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his
-正文: OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:46]
-标题: GPT-6.1 上线 Arena 评测平台
-链接: https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm
-正文: Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 18:15]
-标题: Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名
-链接: https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n
-正文: Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:48]
-标题: OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用
-链接: https://aihot.news/items/p2i8m9289yq357t3gq1og9hun
-正文: OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p2i8m9289yq357t3gq1og9hun
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:47]
-标题: ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用
-链接: https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
-正文: ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:36]
-标题: OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动
-链接: https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
-正文: OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r9nae38v4x5x29jrec46olsl4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:32]
-标题: OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use
-链接: https://aihot.news/items/l7k2qzyclr52j4zegcqo6mys3
-正文: OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。同时 Agents API（驱动 dots 等云智能体的同一技术）开启预览，支持 computer use，可用于构建同类产品。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l7k2qzyclr52j4zegcqo6mys3
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:29]
-标题: ChatGPT 推出 Space 团队协作功能与交互式文档 pages
-链接: https://aihot.news/items/e4a2k70bkqzz23di75itqnegk
-正文: ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e4a2k70bkqzz23di75itqnegk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:23]
-标题: OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新
-链接: https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed
-正文: OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 17:20]
-标题: OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能
-链接: https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8
-正文: OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 16:05]
-标题: Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%
-链接: https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w
-正文: Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:53]
-标题: Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择
-链接: https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea
-正文: Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。 🔗 阅读原文 via AIHOT · https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:45]
-标题: Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜
-链接: https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o
-正文: Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。 🔗 阅读原文 via AIHOT · https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 15:30]
-标题: NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一
-链接: https://aihot.news/items/tcf79upi169og7ftecq28pps2
-正文: NVIDIA 发布开源表格基础模型 Kumo Tabular，对带标签表格做单次前向推理即可完成分类和回归，无需训练、调参或特征工程。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tcf79upi169og7ftecq28pps2
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 14:18]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 14:31]
 标题: Kalshi, Polymarket trading volumes on some products raises questions amid massive growth
 链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
 正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
@@ -195,11 +170,6 @@
 链接: https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html
 正文: The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 14:37]
-标题: Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount
-链接: https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html
-正文: President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 02:50]
 标题: China has three new criteria for humanoid robot IPOs. Few, if any, meet them
 链接: https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html
@@ -210,10 +180,30 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor
 正文: McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris Hagedorn, Preeya Mody, and Michel Morenville join us to discuss what rigor really means in the context of transformation and how to embed it throughout the process, from setting the aspiration, to mobilization, to delivering impact.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-30 14:26]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
+标题: Global Economics Intelligence executive summary, August 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
+正文: Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
+标题: The CEO’s singular impact on the success—or failure—of AI in organizations
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations
+正文: There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
+标题: Economic conditions outlook, September 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
+正文: Executives’ economic pessimism has eased since June, but they remain cautious. Negative views continue to be more common than positive ones, and expectations for the next six months are mixed.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
+标题: Evidence over hype: New York’s path to a healthy-longevity economy
+链接: https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy
+正文: A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-30 19:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-30 14:26]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-30 19:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
