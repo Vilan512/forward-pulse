@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-30 19:44:39
-# 共计 42 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-09-30 23:20:28
+# 共计 41 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 12:10]
 标题: The Download: OpenAI’s chief research officer explains its hacking response
@@ -14,6 +14,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-30 00:00]
 标题: Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
 链接: https://huggingface.co/blog/open-tts-leaderboard
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 21:35]
+标题: Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%
+链接: https://aihot.news/items/m49i2ro59f3lqy8ocoghr9f2j
+正文: Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m49i2ro59f3lqy8ocoghr9f2j
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 21:09]
+标题: OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平
+链接: https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3
+正文: OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 20:01]
+标题: Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放
+链接: https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh
+正文: Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 18:49]
 标题: Perplexity 开放 Computer 邮件委托入口并限时免费运行任务
@@ -120,28 +135,18 @@
 链接: https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn
 正文: OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合成数据保留分布和失败模式。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 23:13]
-标题: OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务
-链接: https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q
-正文: OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 21:47]
-标题: OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新
-链接: https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp
-正文: 作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-29 19:52]
-标题: OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元
-链接: https://aihot.news/items/hxdv40od8cwti1sfmkmursiop
-正文: 据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hxdv40od8cwti1sfmkmursiop
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 23:14]
+标题: Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'
+链接: https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html
+正文: Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 19:20]
 标题: Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more
 链接: https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html
 正文: These are the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 14:31]
-标题: Kalshi, Polymarket trading volumes on some products raises questions amid massive growth
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 21:09]
+标题: Kalshi, Polymarket trading volumes on some products raise questions amid massive growth
 链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
 正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
 
@@ -160,16 +165,6 @@
 链接: https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html
 正文: China must "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 20:50]
-标题: Goldman Sachs CEO succession planning faces one big problem
-链接: https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html
-正文: The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-29 20:33]
-标题: Prediction market traders think the U.S. added more jobs in September than economists estimate
-链接: https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html
-正文: The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 02:50]
 标题: China has three new criteria for humanoid robot IPOs. Few, if any, meet them
 链接: https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html
@@ -186,24 +181,24 @@
 正文: Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: The CEO’s singular impact on the success—or failure—of AI in organizations
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations
-正文: There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
 标题: Economic conditions outlook, September 2026
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
 正文: Executives’ economic pessimism has eased since June, but they remain cautious. Negative views continue to be more common than positive ones, and expectations for the next six months are mixed.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
+标题: The CEO’s singular impact on the success—or failure—of AI in organizations
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations
+正文: There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
 标题: Evidence over hype: New York’s path to a healthy-longevity economy
 链接: https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy
 正文: A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-30 19:44]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-30 23:20]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-30 19:44]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-30 23:20]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
