@@ -1,20 +1,39 @@
-# ForwardPulse 原始情报收割 — 2026-10-01 10:35:23
-# 共计 30 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-01 17:11:52
+# 共计 30 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-01 12:10]
+标题: The Download: AI “mind-reading” and creative uses for small batteries
+链接: https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at. The researchers hope the “mindreading” tool could reveal more about how the brain works. It could also help locked-in people communicate and, incredibly, maybe even allow scientists to recreate the content of dreams. But other scientists warn that a similar approach could reveal people’s inner thoughts and mental imagery, potentially without their consent. Here’s how AI is getting closer to reading images from the brain. —Jessica Hamzelou How smaller, distributed batteries could help the grid Large, utility-scale battery installations are coming online quickly around the world. But there’s been pushback from communities, especially population-dense ones like NYC, because of concerns about relatively rare but high-profile battery fires. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places, from induction stovetops to food carts. By deploying these more consumer-focused batteries, the companies are helping people directly, cutting pollution or power bills. These units are small on their own, but could add up to a lot of capacity. And as batteries get cheaper, they could find their way into more corners of our lives. Here’s why batteries could help ease pressure on the grid. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-01 10:32]
+标题: An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+链接: https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
+正文: A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&nbsp; In the image above, for example, the left-hand image of each pair is what the user actually saw—and its right-hand counterpart is what the model reconstructed from the brain scan.&nbsp;&nbsp; Michal Irani, who developed the tool with her colleagues at the Weizmann Institute of Science in Rehovot, Israel, hopes her “mind-reading” tool will ultimately reveal more about how the brain works, and could perhaps be used to help locked-in people communicate, or allow scientists to re-create the content of dreams.&nbsp; Judy Illes, a neuroethicist and professor of neurology at the University of British Columbia in Canada, who was not involved in the research, describes the work as “magnificent.” “The idea [of using this approach] to help people with neurologic conditions … therapeutically is tremendously exciting,” she says. But other scientists warn that a similar approach could be used to reveal people’s inner thoughts and mental imagery, potentially without their consent. “The results seem very impressive,” says Tommy Sprague, a neuroscientist at the University of California, Santa Barbara. “But if there’s a way to surreptitiously extract information about what you’re thinking about, then …150 years of sci-fi can come true anytime, and that’s worrisome in a lot of ways.” Peeking into the brain Neuroscientists have been working for years on ways to use functional magnetic resonance imaging (fMRI) to reconstruct what people see and what’s going on in their minds. The first attempts produced images that were blurry and hard to make sense of. Advances in technology—both in the fMRI scans themselves and in the tools used to make sense of the results—have led to improvements over the years. Irani and her colleagues started by analyzing publ
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-01 10:00]
 标题: How smaller, distributed batteries could help the grid
 链接: https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/
 正文: If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places, from induction stovetops to food carts. By deploying these more consumer-focused batteries, the companies are helping people directly, cutting pollution or power bills. And these units, while small on their own, could add up to a lot of capacity. Large, utility-scale battery installations are coming online quickly around the world. But there’s been some pushback from communities—especially population-dense ones like NYC—because of concerns about relatively rare but high-profile battery fires. “The number-one challenge that large-scale centralized energy storage providers have is the fact that their benefits are abstract and their costs are concrete,” said David Hammer, cofounder of PopWheels, at a New York Climate Week event on September 24. PopWheels built a battery-swapping system for delivery drivers who zip around the city on e-bikes. Drivers swap out depleted batteries for fresh ones at a cabinet, avoiding the need to stop and charge. There are about 50 cabinets across New York City, and about 2,500 batteries in circulation, Hammer says. The company recently started providing its batteries to food cart operators, allowing them to replace the gas generators they currently rely on. About four of its batteries can supply five kilowatt-hours of electricity, enough to roughly cover a day’s operation for many carts. Others are looking inside homes. Copper, for example, is a company building induction stoves with integrated batteries. The appliances allow residents to cook if the power goes out, and they could also help homeowners avoid expensive electrical upgrades, because the battery provides some of the power when the stove is in use. “We’r
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 12:10]
-标题: The Download: OpenAI’s chief research officer explains its hacking response
-链接: https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face, the company is still dealing with the fallout. Last week brought news of another hack, this time into Australia’s national health-care system, which the government says OpenAI did not report for 84 days. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer. In many ways, the buck stops with Chen. I sat down with him to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem. Here’s what he told me about making models safer—and why the world is better off with OpenAI in it. —Will Douglas Heaven Our Roundables on the deadly failures of the virtual border wall is now available on demand On Monday, MIT Technology Review hosted an exclusive Roundtables conversation about our investigation into the deadly failures of the US’s “virtual wall” of border surveillance towers. Editor-in-chief Mat Honan, senior AI reporter James O’Donnell, and senior reporter for features and investigations Eileen Guo discussed what the investigation reveals about border surveillance technology and the people who have died in the borderlands. The full event is now available to watch on demand. Subscribe to MIT Technology Review for exclusive access to the discussion and all our other Roundtables. Read the full “Dying on Camera” investigation here. MIT Technology Review Narrated: smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had a
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-01 15:01]
+标题: Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
+链接: https://huggingface.co/blog/allenai/olmocore3
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 10:40]
-标题: “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
-链接: https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
-正文: Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia’s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer. Chen oversees OpenAI’s research teams. The recent agent hacks were accidents that happened during the testing of experimental models on his watch. In a lot of ways, the buck stops with him.&nbsp; I sat down with Chen in London last Friday to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem. Later that same day, OpenAI put out a report detailing yet another incident—the first since the company says it took measures to prevent them—in which its agents once again broke out and accessed the public internet when they were not meant to. Over the weekend, OpenAI announced that it had paused the training of its latest models. A company spokesperson says: “We will resume only when we’re confident we have additional safeguards and alignments in place. We are working on these now. This is not the first time we’ve paused to take such measures, nor do we expect it to be the last as AI capabilities continue to advance.” OpenAI also says that it is now reviewing logs of agent activity dating back to January 2026 to understand what happened in these hacks. The way Chen sees it, the Hugging Face incident tri
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 16:51]
+标题: Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名
+链接: https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f
+正文: Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 12:05]
+标题: OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容
+链接: https://aihot.news/items/uxe9v0hypn93df9ogn6glwled
+正文: OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uxe9v0hypn93df9ogn6glwled
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 10:54]
+标题: Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效
+链接: https://aihot.news/items/i35lar26hjm4djheowz5ytplm
+正文: Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i35lar26hjm4djheowz5ytplm
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 07:38]
 标题: Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群
@@ -45,6 +64,11 @@
 标题: OpenRouter 指南：用置信度阈值实现模型分级升级路由
 链接: https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo
 正文: OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 23:00]
+标题: 英国 AISI 加强安全措施后恢复大部分危险能力评估
+链接: https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv
+正文: 英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 21:35]
 标题: Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%
@@ -81,40 +105,15 @@
 链接: https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n
 正文: 多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 16:20]
-标题: FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查
-链接: https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw
-正文: FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-01 16:48]
+标题: Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more
+链接: https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html
+正文: These are some of the stocks posting the largest moves midday.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 15:03]
-标题: Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印
-链接: https://aihot.news/items/deivg466iwv9ypddacud3hd7d
-正文: Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/deivg466iwv9ypddacud3hd7d
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 15:00]
-标题: MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手
-链接: https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj
-正文: MIT、CMU、NYU 与 Stanford 的研究人员开发出 AI 系统 Ataraxos，在隐藏信息棋盘战棋 Stratego 上大幅超越世界顶级人类选手，论文发表于 Nature。 🔗 阅读原文 via AIHOT · https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 14:58]
-标题: Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时
-链接: https://aihot.news/items/d3byj8l8prs0dpe0j1ontvd96
-正文: Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d3byj8l8prs0dpe0j1ontvd96
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 12:41]
-标题: Hugging Face CEO 称收到数千条私信，将花几天逐一处理
-链接: https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0
-正文: Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。 🔗 阅读原文 via AIHOT · https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 12:30]
-标题: 蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级
-链接: https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h
-正文: 蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 12:00]
-标题: ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元
-链接: https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
-正文: ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-01 15:14]
+标题: Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more
+链接: https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html
+正文: These are the stocks posting the largest moves in the premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 23:44]
 标题: Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'
@@ -126,25 +125,25 @@
 链接: https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html
 正文: These are the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 21:09]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-01 14:24]
 标题: Kalshi, Polymarket trading volumes on some products raise questions amid massive growth
 链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
 正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 11:38]
-标题: Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more
-链接: https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html
-正文: These are the stocks posting the largest moves premarket.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-01 00:00]
 标题: The cash hiding in plain sight
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight
 正文: Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-01 10:35]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-01 00:00]
+标题: Modernizing for the mission: An interview with Jamie Wolff
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff
+正文: The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the mission and a relentless pace of change in mind.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-01 17:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-01 10:35]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-01 17:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
