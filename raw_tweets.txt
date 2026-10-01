@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-09-30 23:20:28
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-01 03:14:59
+# 共计 29 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 12:10]
 标题: The Download: OpenAI’s chief research officer explains its hacking response
@@ -11,9 +11,25 @@
 链接: https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
 正文: Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia’s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer. Chen oversees OpenAI’s research teams. The recent agent hacks were accidents that happened during the testing of experimental models on his watch. In a lot of ways, the buck stops with him.&nbsp; I sat down with Chen in London last Friday to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem. Later that same day, OpenAI put out a report detailing yet another incident—the first since the company says it took measures to prevent them—in which its agents once again broke out and accessed the public internet when they were not meant to. Over the weekend, OpenAI announced that it had paused the training of its latest models. A company spokesperson says: “We will resume only when we’re confident we have additional safeguards and alignments in place. We are working on these now. This is not the first time we’ve paused to take such measures, nor do we expect it to be the last as AI capabilities continue to advance.” OpenAI also says that it is now reviewing logs of agent activity dating back to January 2026 to understand what happened in these hacks. The way Chen sees it, the Hugging Face incident tri
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
-链接: https://huggingface.co/blog/open-tts-leaderboard
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 00:09]
+标题: Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%
+链接: https://aihot.news/items/p3cwq54s9gugqpmljv3xm97lv
+正文: Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p3cwq54s9gugqpmljv3xm97lv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 00:00]
+标题: OpenRouter 发布 Agent 模型成本与质量权衡选型框架
+链接: https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz
+正文: OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 00:00]
+标题: OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request
+链接: https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw
+正文: OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 00:00]
+标题: OpenRouter 指南：用置信度阈值实现模型分级升级路由
+链接: https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo
+正文: OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 21:35]
 标题: Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%
@@ -90,52 +106,7 @@
 链接: https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
 正文: OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨在系统性提取模型受保护的推理内容，最早活动出现在 7 月第一周。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 02:01]
-标题: DeepSeek 开源面向华为昇腾平台的基础设施组件
-链接: https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3
-正文: DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 01:48]
-标题: 纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视
-链接: https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y
-正文: 《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 01:41]
-标题: Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除
-链接: https://aihot.news/items/tezd4474gysof1re07lje1xc3
-正文: Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tezd4474gysof1re07lje1xc3
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 01:40]
-标题: GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨
-链接: https://aihot.news/items/rag4wqxxj3qhsk4m61swzqpw9
-正文: GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rag4wqxxj3qhsk4m61swzqpw9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞
-链接: https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1
-正文: PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流
-链接: https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4
-正文: Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: OpenRouter 教程：如何测试 AI Agent 的工具调用准确性
-链接: https://aihot.news/items/qu0zwrg9img0cfv03vtgmopbs
-正文: OpenRouter 发布教程，讲解如何测试 AI Agent 的工具调用准确性，将失败拆分为工具选择错误和参数错误两类分别测试。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qu0zwrg9img0cfv03vtgmopbs
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试
-链接: https://aihot.news/items/lq71il0lehssgkular7zs5ybl
-正文: OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lq71il0lehssgkular7zs5ybl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 00:00]
-标题: OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测
-链接: https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn
-正文: OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合成数据保留分布和失败模式。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 23:14]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 23:44]
 标题: Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'
 链接: https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html
 正文: Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.
@@ -165,40 +136,10 @@
 链接: https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html
 正文: China must "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 02:50]
-标题: China has three new criteria for humanoid robot IPOs. Few, if any, meet them
-链接: https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html
-正文: China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: How to drive transformations with rigor
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor
-正文: McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris Hagedorn, Preeya Mody, and Michel Morenville join us to discuss what rigor really means in the context of transformation and how to embed it throughout the process, from setting the aspiration, to mobilization, to delivering impact.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: Global Economics Intelligence executive summary, August 2026
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
-正文: Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: Economic conditions outlook, September 2026
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook
-正文: Executives’ economic pessimism has eased since June, but they remain cautious. Negative views continue to be more common than positive ones, and expectations for the next six months are mixed.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: The CEO’s singular impact on the success—or failure—of AI in organizations
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations
-正文: There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-09-30 00:00]
-标题: Evidence over hype: New York’s path to a healthy-longevity economy
-链接: https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy
-正文: A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-09-30 23:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-01 03:14]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-09-30 23:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-01 03:14]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
