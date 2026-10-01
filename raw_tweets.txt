@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-01 03:14:59
-# 共计 29 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-01 10:35:23
+# 共计 30 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-01 10:00]
+标题: How smaller, distributed batteries could help the grid
+链接: https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/
+正文: If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places, from induction stovetops to food carts. By deploying these more consumer-focused batteries, the companies are helping people directly, cutting pollution or power bills. And these units, while small on their own, could add up to a lot of capacity. Large, utility-scale battery installations are coming online quickly around the world. But there’s been some pushback from communities—especially population-dense ones like NYC—because of concerns about relatively rare but high-profile battery fires. “The number-one challenge that large-scale centralized energy storage providers have is the fact that their benefits are abstract and their costs are concrete,” said David Hammer, cofounder of PopWheels, at a New York Climate Week event on September 24. PopWheels built a battery-swapping system for delivery drivers who zip around the city on e-bikes. Drivers swap out depleted batteries for fresh ones at a cabinet, avoiding the need to stop and charge. There are about 50 cabinets across New York City, and about 2,500 batteries in circulation, Hammer says. The company recently started providing its batteries to food cart operators, allowing them to replace the gas generators they currently rely on. About four of its batteries can supply five kilowatt-hours of electricity, enough to roughly cover a day’s operation for many carts. Others are looking inside homes. Copper, for example, is a company building induction stoves with integrated batteries. The appliances allow residents to cook if the power goes out, and they could also help homeowners avoid expensive electrical upgrades, because the battery provides some of the power when the stove is in use. “We’r
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-09-30 12:10]
 标题: The Download: OpenAI’s chief research officer explains its hacking response
@@ -10,6 +15,16 @@
 标题: “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer
 链接: https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
 正文: Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia’s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer. Chen oversees OpenAI’s research teams. The recent agent hacks were accidents that happened during the testing of experimental models on his watch. In a lot of ways, the buck stops with him.&nbsp; I sat down with Chen in London last Friday to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem. Later that same day, OpenAI put out a report detailing yet another incident—the first since the company says it took measures to prevent them—in which its agents once again broke out and accessed the public internet when they were not meant to. Over the weekend, OpenAI announced that it had paused the training of its latest models. A company spokesperson says: “We will resume only when we’re confident we have additional safeguards and alignments in place. We are working on these now. This is not the first time we’ve paused to take such measures, nor do we expect it to be the last as AI capabilities continue to advance.” OpenAI also says that it is now reviewing logs of agent activity dating back to January 2026 to understand what happened in these hacks. The way Chen sees it, the Hugging Face incident tri
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 07:38]
+标题: Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群
+链接: https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
+正文: Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 04:44]
+标题: ChatGPT 现可直接构建并部署 MCP 服务器
+链接: https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs
+正文: ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 00:09]
 标题: Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%
@@ -101,11 +116,6 @@
 链接: https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
 正文: ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-09-30 10:30]
-标题: OpenAI 披露并处置一起有组织的模型蒸馏攻击行动
-链接: https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
-正文: OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨在系统性提取模型受保护的推理内容，最早活动出现在 7 月第一周。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gq8k1ru5wb2hx8ihtno5rrlrf
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 23:44]
 标题: Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'
 链接: https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html
@@ -126,20 +136,15 @@
 链接: https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 08:45]
-标题: Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices
-链接: https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html
-正文: Singapore state investor Temasek plans to open offices in Riyadh and Abu Dhabi by the first half of 2027, its most significant Mideast expansion to date.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-01 00:00]
+标题: The cash hiding in plain sight
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight
+正文: Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-09-30 03:39]
-标题: Beijing warns of retaliation if Europe imposes curbs on Chinese businesses
-链接: https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html
-正文: China must "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-01 03:14]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-01 10:35]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-01 03:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-01 10:35]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
