@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-02 01:53:42
-# 共计 27 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-02 07:45:38
+# 共计 28 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-01 12:10]
 标题: The Download: AI “mind-reading” and creative uses for small batteries
@@ -15,6 +15,10 @@
 标题: How smaller, distributed batteries could help the grid
 链接: https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/
 正文: If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places, from induction stovetops to food carts. By deploying these more consumer-focused batteries, the companies are helping people directly, cutting pollution or power bills. And these units, while small on their own, could add up to a lot of capacity. Large, utility-scale battery installations are coming online quickly around the world. But there’s been some pushback from communities—especially population-dense ones like NYC—because of concerns about relatively rare but high-profile battery fires. “The number-one challenge that large-scale centralized energy storage providers have is the fact that their benefits are abstract and their costs are concrete,” said David Hammer, cofounder of PopWheels, at a New York Climate Week event on September 24. PopWheels built a battery-swapping system for delivery drivers who zip around the city on e-bikes. Drivers swap out depleted batteries for fresh ones at a cabinet, avoiding the need to stop and charge. There are about 50 cabinets across New York City, and about 2,500 batteries in circulation, Hammer says. The company recently started providing its batteries to food cart operators, allowing them to replace the gas generators they currently rely on. About four of its batteries can supply five kilowatt-hours of electricity, enough to roughly cover a day’s operation for many carts. Others are looking inside homes. Copper, for example, is a company building induction stoves with integrated batteries. The appliances allow residents to cook if the power goes out, and they could also help homeowners avoid expensive electrical upgrades, because the battery provides some of the power when the stove is in use. “We’r
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-02 04:01]
+标题: AutoSynthData: Generating Training Data for Enterprise Agents
+链接: https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-01 15:01]
 标题: Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
@@ -100,15 +104,10 @@
 链接: https://aihot.news/items/i35lar26hjm4djheowz5ytplm
 正文: Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i35lar26hjm4djheowz5ytplm
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 07:38]
-标题: Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群
-链接: https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
-正文: Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 04:44]
-标题: ChatGPT 现可直接构建并部署 MCP 服务器
-链接: https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs
-正文: ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 06:03]
+标题: Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC
+链接: https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html
+正文: Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-01 18:50]
 标题: Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more
@@ -125,10 +124,15 @@
 链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
 正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-02 01:53]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-02 00:00]
+标题: State of Consumer Africa 2026: Meeting the pragmatic shopper
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper
+正文: Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how consumer-facing companies can respond.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-02 07:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-02 01:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-02 07:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
