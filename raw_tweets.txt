@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-02 19:40:45
-# 共计 35 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-02 23:26:22
+# 共计 37 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-02 15:49]
 标题: Redefining enterprise intelligence with autonomous AI
@@ -28,6 +28,31 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-02 04:01]
 标题: AutoSynthData: Generating Training Data for Enterprise Agents
 链接: https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 21:09]
+标题: Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%
+链接: https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3
+正文: Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 20:37]
+标题: Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点
+链接: https://aihot.news/items/e54qt77e1upo9oqowk38fply1
+正文: Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e54qt77e1upo9oqowk38fply1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 19:48]
+标题: GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型
+链接: https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn
+正文: Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 19:33]
+标题: Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿
+链接: https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc
+正文: Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 19:11]
+标题: Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文
+链接: https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
+正文: Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 18:07]
 标题: ChatGPT 推出 Finances 财务管理功能
@@ -84,30 +109,15 @@
 链接: https://aihot.news/items/u7s37k3i99ayei0ja1kj6ay4j
 正文: Epoch AI 发布研究，估算 2025–27 年出货的 HBM 硬件全面部署后可运行约 30–170 百万并发前沿模型智能体，相当于每周约 1.4–7.2 亿全职员工的工作时长。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u7s37k3i99ayei0ja1kj6ay4j
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 00:00]
+标题: Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文
+链接: https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj
+正文: Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 23:44]
 标题: NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast
 链接: https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i
 正文: GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 22:43]
-标题: Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型
-链接: https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm
-正文: Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 21:18]
-标题: FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成
-链接: https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph
-正文: Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 20:37]
-标题: FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑
-链接: https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj
-正文: Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-01 20:35]
-标题: Suno 推出 Speech beta：语音与背景音乐一体生成
-链接: https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2
-正文: Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 17:52]
 标题: Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more
@@ -164,10 +174,10 @@
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready
 正文: Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-02 19:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-02 23:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-02 19:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-02 23:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
