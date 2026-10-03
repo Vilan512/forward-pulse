@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-03 03:01:48
-# 共计 26 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-03 09:32:29
+# 共计 21 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-02 15:49]
 标题: Redefining enterprise intelligence with autonomous AI
@@ -11,23 +11,14 @@
 链接: https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages, figures that are meant to provide a better way to measure the age-related health of our organs and bodies. Over six months, around 500 of us will try to reverse our biological age using a bunch of different measures. There’s even a leaderboard! But is it even possible to measure whether someone is getting younger?&nbsp; Read the full story on the controversy around biological age measurements and how I’ll test them myself. This story is from The Checkup, our weekly biotech newsletter. Sign up to receive it in your inbox every Thursday. Opinion: Don’t be fooled—LLMs don’t reason —Thore Graepel Ten years ago, I watched a program I helped build stun the world by beating Go champion Lee Sedol. AlphaGo won after making a move so strange that some commentators thought it was a programming glitch. It was AlphaGo’s powers of reasoning that made this creative choice—and these are powers that today’s AI lacks.&nbsp; This is why I recently left my position at Google DeepMind. I believe we need a fresh approach to machine reasoning, one that draws on AlphaGo’s architecture. Here’s why today’s AI doesn’t really reason—and what it would take to change that. Thore Graepel is chair of machine learning at University College London. He was a core member of the AlphaGo team at DeepMind. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 OpenAI says rogue agents may have affected more than 100 org
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-02 09:00]
-标题: A new contest pits competitors against each other in a race to biological youth
-链接: https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/
-正文: This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure the age-related health of our organs and bodies. Over a six-month period, around 500 of us will try to reverse our biological age as measured in a bunch of different ways. There’s even a leaderboard! The winners will include the person who shows the greatest difference between their chronological and biological age, as well as the person who manages to reverse their biological age the most. The competition is the brainchild of the neuroscientist and physician Christin Glorioso, who is also founder and CEO of NeuroAge Therapeutics. The company offers tools to track brain health and aging and is running a trial to find out if biological brain age can predict the onset of Alzheimer’s disease. Glorioso says she has several goals for the Younger contest. The first, she tells me, is to “explain to the world what aging clocks are.” Regular Checkup readers will be familiar with these tools, but for the uninitiated, they are basically designed to measure biological age. Many measure chemical signatures that form a layer on top of our DNA and seem to change with age. But others might involve looking at proteins or lipids in blood. Some are designed to measure functional health, while others predict when a person will die. There are more than a hundred clocks out there, and they probably each capture a specific aspect of the biological process of aging. These clocks are proving very useful for scientists, who use them to study aging and development in humans and many other species. But using them to estimate the biological age of an individual person is more controversial. They’re just not good enough for that yet. Part of the problem is that we do
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-02 08:00]
-标题: Don’t be fooled—LLMs don’t reason
-链接: https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
-正文: On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. It wasn’t. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time. “I thought AlphaGo was based on probability calculation and that it was merely a machine,” Lee said afterwards. “But when I saw this move, I changed my mind. Surely, AlphaGo is creative.” When Deep Blue defeated then reigning world chess champion Garry Kasparov in 1997, it did so by looking six to eight moves ahead per player and evaluating 200 million chess positions per second, using rules hard-coded by humans. Go is a vastly more complex game. A stone’s worth depends on how distant groups and territory unfold over dozens of moves. Computing even a fraction of the possible outcomes would take a supercomputer billions of years. To win, AlphaGo had to sense who was ahead at a glance and even invent moves no human had thought to play. That is why many accounts of AlphaGo’s match against Lee portray move 37 as a flash of pure machine intuition. But that is a misunderstanding. It was actually AlphaGo’s powers of reasoning that made this creative choice—and these are powers that today’s AI lacks. If we want future AI systems to produce trustworthy results and really novel insights in fields like science and medicine, we need to equip them with genuine reasoning capabilities of this kind. AlphaGo is made up of two systems. The first, its policy network, was trained to guess what move a strong human would play. This “intuitive” part regarded move 37 as nothing special—a play that had a roughly one in 10,000 chance of being made by an expert human player. What made AlphaGo choose it was the program’s search machinery, which looked beyond immediate plausibility
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-02 15:19]
 标题: Open-sourcing AstaBrief, the fast report-generation model in Asta
 链接: https://huggingface.co/blog/allenai/astabrief
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-02 04:01]
-标题: AutoSynthData: Generating Training Data for Enterprise Agents
-链接: https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 06:18]
+标题: OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件
+链接: https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok
+正文: 据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 21:09]
 标题: Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%
@@ -79,16 +70,6 @@
 链接: https://aihot.news/items/epb245so8hb7m1r74gumw2dze
 正文: NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/epb245so8hb7m1r74gumw2dze
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 08:00]
-标题: Ai2 开源 8B 科学报告生成模型 AstaBrief
-链接: https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i
-正文: Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 07:23]
-标题: Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管
-链接: https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq
-正文: Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 17:52]
 标题: Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more
 链接: https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html
@@ -114,15 +95,10 @@
 链接: https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html
 正文: Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 06:03]
-标题: Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC
-链接: https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html
-正文: Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-03 03:01]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-03 09:32]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-03 03:01]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-03 09:32]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
