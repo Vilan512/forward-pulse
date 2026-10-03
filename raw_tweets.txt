@@ -1,19 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-10-03 14:28:33
-# 共计 18 条来自 6 个信息源
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-02 15:49]
-标题: Redefining enterprise intelligence with autonomous AI
-链接: https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/
-正文: Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has produced fragmentation. Intelligence can accumulate in silos so that sales agents are unaware of open support tickets, for instance, or marketing systems are personalizing content without visibility into what finance already knows about a customer. Each function may perform well in isolation, but the enterprise as a whole learns little and has less information to act upon. DOWNLOAD THE REPORT The shift from AI as a tool to AI as an operating model—what we call the “agentic shift” in this report—demands something more fundamental than better models or faster infrastructure. It requires connecting people, processes, and data in real time, along with the governance and control to act on that intelligence reliably. This means rethinking both architecture and operating models simultaneously. First, rebuilding data infrastructure for accessibility rather than volume. Second, replacing fixed tech stacks with composable architectures that can evolve as models and tools change. And, lastly, resolving questions of AI sovereignty, including where intelligence runs, who controls it, and how it operates across organizational and jurisdictional boundaries. Key findings include the following: Enterprise AI’s scaling problem is structural. Process-first companies are pulling ahead. Global AI spending is rising sharply and model capabilities are advancing faster than most organizations can integrate them. Yet the majority of enterprises are still not growing revenue through AI or fundamentally rethinking how they operate. The companies generating sustained returns share a common discipline. They treat process redesign as the work that precedes mode
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-02 15:19]
-标题: Open-sourcing AstaBrief, the fast report-generation model in Asta
-链接: https://huggingface.co/blog/allenai/astabrief
+# ForwardPulse 原始情报收割 — 2026-10-03 18:27:21
+# 共计 12 条来自 4 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 10:00]
 标题: 【AIHOT 通知】订阅地址换到 aihot.news 了，请更新
 链接: https://aihot.news/agent?tab=rss
 正文: 你正在用旧地址 aihot.virxact.com 订阅 AIHOT。AIHOT 已换到新域名 aihot.news，旧地址将于 2026 年 10 月 31 日起只做跳转，之后会停用。 请在阅读器里把这个订阅的地址换成 https://aihot.news/feed.xml，内容和以前一样。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 15:50]
+标题: LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300
+链接: https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z
+正文: LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 06:18]
 标题: OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件
@@ -45,45 +41,20 @@
 链接: https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
 正文: Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mnp85zt9o921l7c28rzor00qy
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 18:07]
-标题: ChatGPT 推出 Finances 财务管理功能
-链接: https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn
-正文: ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 16:15]
-标题: Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
-链接: https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
-正文: Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 16:15]
-标题: OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理
-链接: https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk
-正文: OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-02 15:53]
-标题: Google Project Suncatcher 首颗原型卫星发射入轨
-链接: https://aihot.news/items/ljyywltag6vvryw193ryz7lgd
-正文: Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ljyywltag6vvryw193ryz7lgd
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-03 13:12]
 标题: Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election
 链接: https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html
 正文: With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 17:52]
-标题: Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more
-链接: https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html
-正文: These are some of the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-02 18:49]
 标题: How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%
 链接: https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html
 正文: Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-03 14:28]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-03 18:27]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-03 14:28]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-03 18:27]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
