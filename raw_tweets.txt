@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-04 12:57:43
-# 共计 9 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-04 17:16:49
+# 共计 8 条来自 5 个信息源
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-03 22:56]
 标题: The Agent Said It Was Done. The Database Disagreed.
@@ -16,11 +16,6 @@
 正文: Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 未知时间]
-标题: Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点
-链接: https://aihot.news/items/e54qt77e1upo9oqowk38fply1
-正文: Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e54qt77e1upo9oqowk38fply1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 未知时间]
 标题: Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
 链接: https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
 正文: Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
@@ -30,15 +25,15 @@
 链接: https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
 正文: Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-03 13:12]
-标题: Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election
-链接: https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html
-正文: With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-04 12:57]
+标题: Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried
+链接: https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html
+正文: Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-04 12:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-04 17:16]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-04 12:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-04 17:16]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
