@@ -1,10 +1,24 @@
-# ForwardPulse 原始情报收割 — 2026-10-03 21:54:25
-# 共计 6 条来自 4 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-04 00:15:12
+# 共计 9 条来自 5 个信息源
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-03 22:56]
+标题: The Agent Said It Was Done. The Database Disagreed.
+链接: https://huggingface.co/blog/microsoft/thinkingbox
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 10:00]
 标题: 【AIHOT 通知】订阅地址换到 aihot.news 了，请更新
 链接: https://aihot.news/agent?tab=rss
 正文: 你正在用旧地址 aihot.virxact.com 订阅 AIHOT。AIHOT 已换到新域名 aihot.news，旧地址将于 2026 年 10 月 31 日起只做跳转，之后会停用。 请在阅读器里把这个订阅的地址换成 https://aihot.news/feed.xml，内容和以前一样。
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 22:56]
+标题: Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体
+链接: https://aihot.news/items/gqh4yclcjmaci6uhur56580uh
+正文: Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gqh4yclcjmaci6uhur56580uh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 21:52]
+标题: Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善
+链接: https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m
+正文: Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-03 15:50]
 标题: LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300
@@ -21,10 +35,10 @@
 链接: https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html
 正文: With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-03 21:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-04 00:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-03 21:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-04 00:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
