@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-06 20:40:20
-# 共计 41 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-07 00:14:47
+# 共计 35 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-06 16:40]
 标题: Weight-loss drugs show signs of slowing biological aging, say drugmakers
@@ -54,6 +54,26 @@
 标题: Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance
 链接: https://huggingface.co/blog/tiiuae/falcon-emirati
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 23:01]
+标题: OpenAI 发布内部前沿模型产出的数学研究成果
+链接: https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl
+正文: OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 20:57]
+标题: GitHub 重建 Git 基础设施，应对智能体规模开发
+链接: https://aihot.news/items/iq15z1msend1ocusxt2phyms7
+正文: GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iq15z1msend1ocusxt2phyms7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 20:47]
+标题: ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办
+链接: https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
+正文: ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 19:57]
+标题: Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2
+链接: https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug
+正文: Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 19:26]
 标题: 亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑
 链接: https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58
@@ -89,11 +109,6 @@
 链接: https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm
 正文: Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 13:25]
-标题: Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重
-链接: https://aihot.news/items/mjxlbx06wrnbd9v3dt4nrkkwu
-正文: Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mjxlbx06wrnbd9v3dt4nrkkwu
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 12:00]
 标题: Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾
 链接: https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h
@@ -119,35 +134,15 @@
 链接: https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc
 正文: 作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 00:00]
-标题: Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型
-链接: https://aihot.news/items/pa9kik9bpq8rv2jrgd40emcze
-正文: Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pa9kik9bpq8rv2jrgd40emcze
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 00:00]
-标题: Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用
-链接: https://aihot.news/items/d17jcexm93lo85zkz3iil08c9
-正文: Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d17jcexm93lo85zkz3iil08c9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 00:00]
-标题: Vercel COO 讲解如何用 Agent 自动化 Inbound 销售
-链接: https://aihot.news/items/clggowmf6nncm154a78nnizft
-正文: Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。 🔗 阅读原文 via AIHOT · https://aihot.news/items/clggowmf6nncm154a78nnizft
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 00:00]
-标题: Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2
-链接: https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy
-正文: Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。 🔗 阅读原文 via AIHOT · https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-05 23:56]
-标题: Anthropic Cowork 改为云端运行模型推理与 VM
-链接: https://aihot.news/items/oj7q14paghhkh66541sg0xdgy
-正文: Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oj7q14paghhkh66541sg0xdgy
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 未知时间]
 标题: Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
 链接: https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
 正文: Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 22:23]
+标题: Chart: A look at the S&P 500's remarkable and defiant trip to a new record
+链接: https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html
+正文: The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 18:46]
 标题: How event contract bundles are boosting volume on prediction markets
@@ -164,40 +159,15 @@
 链接: https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html
 正文: Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-05 21:24]
-标题: House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty
-链接: https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html
-正文: A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-05 20:41]
-标题: Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency
-链接: https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html
-正文: The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 18:41]
 标题: Kalshi, Polymarket trading volumes on some products raise questions amid massive growth
 链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
 正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-06 00:00]
-标题: Using production rates to excel at executing construction projects
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects
-正文: As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to optimize schedules, improve productivity, and make delivery predictable.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-06 00:00]
-标题: Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic
-链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic
-正文: From shipping and rare earths to energy and security, the Arctic is gaining importance in the global economy. The Financial Times’ Rana Foroohar explores its role in a new era of great-power competition.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-06 00:00]
-标题: Medtech needs more than a market rotation to win back investors
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors
-正文: With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-06 20:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-07 00:14]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-06 20:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-07 00:14]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
