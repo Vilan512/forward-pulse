@@ -1,19 +1,88 @@
-# ForwardPulse 原始情报收割 — 2026-10-07 14:04:46
-# 共计 23 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-07 20:20:21
+# 共计 32 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-07 12:10]
 标题: The Download: weight-loss drugs slowing aging and carbon dioxide batteries
 链接: https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly and Novo Nordisk say patients taking their GLP-1 drugs age less quickly, according to molecular “aging clocks” that track changes in DNA or levels of key proteins.&nbsp; The findings add to speculation that GLP-1 drugs could be acting on basic causes of aging and might be true longevity treatments. But how much can we read into these results? Read the full story on what the new findings reveal about GLP-1 drugs and aging. —Antonio Regalado 10 Climate Tech Companies to Watch: Energy Dome and its carbon dioxide batteries Energy Dome is one of MIT Technology Review’s10 Climate Tech Companies to Watch 2026, available exclusively to subscribers. Solar and wind are among the cheapest and quickest ways to add electricity to the grid. But they’re subject to variations in weather patterns, so supplies can be intermittent. Energy Dome has an unusual solution: massive batteries that use compressed carbon dioxide to store energy for when the grid needs it. Compressing gas to store energy isn’t new. Utilities have used compressed air in underground caverns to hang on to reserves for decades. But Energy Dome’s approach doesn’t require any specific geology to work, so it could be more easily scaled to help grids around the world. Here’s how the company is using carbon dioxide to store renewable energy. —Casey Crownhart Subscribers can now access the full 10 Climate Tech Companies to Watch, spanning everything from mobile flood barriers and electric buses to next-generation nuclear reactors. MIT Technology Review Narrated: Don’t be fooled—LLMs don’t reason —Thore Graepel, a core member of DeepMind’s AlphaGo team Ten years ago, I watched
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-06 16:40]
-标题: Weight-loss drugs show signs of slowing biological aging, say drugmakers
-链接: https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/
-正文: Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate with time, or, in newer versions, by tracking levels of key proteins. Both companies found that overweight or diabetic patients taking the drugs, called GLP-1s, had reduced biological age compared to those taking a placebo, although the difference varied widely, depending on which type of clock was used, and what organ was tested.&nbsp; Overall, the difference was around “two to three years,” according to Nikolaj Roed, a global project leader at Novo, who says the company has been seeing “improved biological age in our patients across trials and across different tissues.”&nbsp; The findings add to wide speculation among scientists that GLP-1 drugs, as they are known, are acting on basic causes of aging and might be a true longevity treatment. “Two years is a pretty strong effect, in my book,” says Steve Horvath, a professor at the University of California, Los Angeles, who’s credited with inventing aging clocks. Horvath says the emerging data could provide “evidence that these GLP-1 drugs are actually what is known as geroprotectors, medications that slow or possibly even reverse biologic aging.” The companies shared their findings over the weekend during Aging Research &amp; Drug Discovery, a conference devoted to seeking scientific remedies for old age. While that quest has not yet produced any clear-cut success, some scientists now think Novo’s drug semaglutide (sold under the names Ozempic and Wegovy) is coming close. “In an unhealthy population, I do think it’s an anti-aging drug,” says Vadim Gladyshev, a Harvard biologist who assisted Novo with its molecular measurements. “But in a healthy population, no one knows.” The drugs cau
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-07 16:54]
+标题: Multimodal open d1 decision models for the edge
+链接: https://huggingface.co/blog/LiquidAI/open-d1
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-07 12:45]
 标题: One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO
 链接: https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 19:12]
+标题: Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43
+链接: https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6
+正文: Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:49]
+标题: LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载
+链接: https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
+正文: LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:45]
+标题: NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC
+链接: https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
+正文: NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:14]
+标题: Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格
+链接: https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv
+正文: Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:10]
+标题: Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题
+链接: https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k
+正文: Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:08]
+标题: Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度
+链接: https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5
+正文: Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:01]
+标题: Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10
+链接: https://aihot.news/items/zn6imszjo14gki6kr2uyydknp
+正文: Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zn6imszjo14gki6kr2uyydknp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:00]
+标题: OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI
+链接: https://aihot.news/items/uir31g728myjry383z17txvrw
+正文: OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uir31g728myjry383z17txvrw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:33]
+标题: Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）
+链接: https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf
+正文: Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:21]
+标题: Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%
+链接: https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv
+正文: Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:00]
+标题: Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架
+链接: https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l
+正文: Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 14:46]
+标题: 亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑
+链接: https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy
+正文: 亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 14:12]
+标题: Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成
+链接: https://aihot.news/items/don06si59xc143ed92gdmlnvo
+正文: Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。 🔗 阅读原文 via AIHOT · https://aihot.news/items/don06si59xc143ed92gdmlnvo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 14:01]
+标题: a16z 解析德州为何让数据中心排队等电
+链接: https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki
+正文: a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 12:45]
 标题: Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平
@@ -24,6 +93,21 @@
 标题: Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534
 链接: https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
 正文: Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
+标题: Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
+链接: https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
+正文: Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
+标题: Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
+链接: https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
+正文: Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
+标题: vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
+链接: https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
+正文: Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 23:01]
 标题: OpenAI 发布内部前沿模型产出的数学研究成果
@@ -40,45 +124,15 @@
 链接: https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
 正文: ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 19:57]
-标题: Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2
-链接: https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug
-正文: Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 18:42]
+标题: Fed officials see another hike coming, but no sign as to when, minutes show
+链接: https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html
+正文: The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 19:26]
-标题: 亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑
-链接: https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58
-正文: 亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 17:32]
-标题: DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与
-链接: https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j
-正文: 据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 17:32]
-标题: Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议
-链接: https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili
-正文: Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 17:02]
-标题: Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑
-链接: https://aihot.news/items/sah5vczzr22l9ieb4bxrpoowd
-正文: Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。 🔗 阅读原文 via AIHOT · https://aihot.news/items/sah5vczzr22l9ieb4bxrpoowd
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 15:20]
-标题: DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布
-链接: https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu
-正文: ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 14:21]
-标题: Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测
-链接: https://aihot.news/items/gyfo8loe7gfo6fmgt762027fp
-正文: Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gyfo8loe7gfo6fmgt762027fp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 未知时间]
-标题: Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署
-链接: https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
-正文: Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zfrloexd1672w3tse0utp4jgb
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 16:52]
+标题: Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more
+链接: https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html
+正文: These are the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 12:53]
 标题: Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more
@@ -95,20 +149,10 @@
 链接: https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html
 正文: The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 18:46]
-标题: How event contract bundles are boosting volume on prediction markets
-链接: https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html
-正文: Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 18:41]
-标题: Kalshi, Polymarket trading volumes on some products raise questions amid massive growth
-链接: https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html
-正文: Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-07 14:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-07 20:20]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-07 14:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-07 20:20]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
