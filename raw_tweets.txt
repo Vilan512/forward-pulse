@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-07 20:20:21
-# 共计 32 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-08 00:36:21
+# 共计 26 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-07 12:10]
 标题: The Download: weight-loss drugs slowing aging and carbon dioxide batteries
@@ -14,6 +14,11 @@
 标题: One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO
 链接: https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 20:21]
+标题: GPT-6 Luna Decisions 上架 OpenRouter
+链接: https://aihot.news/items/x40bi9csoomsdaflejehop22y
+正文: OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x40bi9csoomsdaflejehop22y
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 19:12]
 标题: Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43
 链接: https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6
@@ -25,9 +30,9 @@
 正文: LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:45]
-标题: NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC
+标题: NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC
 链接: https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
-正文: NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
+正文: NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:14]
 标题: Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格
@@ -94,36 +99,6 @@
 链接: https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
 正文: Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
-标题: Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索
-链接: https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
-正文: Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
-标题: Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M
-链接: https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
-正文: Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qawfhyw1v10hv75bld8ogbjgj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 00:00]
-标题: vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍
-链接: https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
-正文: Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 23:01]
-标题: OpenAI 发布内部前沿模型产出的数学研究成果
-链接: https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl
-正文: OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 20:57]
-标题: GitHub 重建 Git 基础设施，应对智能体规模开发
-链接: https://aihot.news/items/iq15z1msend1ocusxt2phyms7
-正文: GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iq15z1msend1ocusxt2phyms7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-06 20:47]
-标题: ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办
-链接: https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
-正文: ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qhhq4hxjw53ywfzwwgyn2uoak
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 18:42]
 标题: Fed officials see another hike coming, but no sign as to when, minutes show
 链接: https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html
@@ -144,15 +119,10 @@
 链接: https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html
 正文: Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-06 22:23]
-标题: Chart: A look at the S&P 500's remarkable and defiant trip to a new record
-链接: https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html
-正文: The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-07 20:20]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-08 00:36]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-07 20:20]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-08 00:36]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
