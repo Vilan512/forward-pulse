@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-08 14:14:18
-# 共计 29 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-08 20:23:15
+# 共计 30 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-08 12:10]
 标题: The Download: AI roadblocks for humanoids and portable rubber dams
@@ -21,14 +21,55 @@
 链接: https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/
 正文: Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure. That makes responsible deployment central to the next wave of industrial automation. “How do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?” asks Arti Garg, chief technologist at AVEVA. The challenge is particularly acute as newer AI systems become more capable but also harder to predict and explain. One foundation for making that transition work is data. Industrial systems often contain information across telemetry, service logs, engineering documents, and other disparate sources. Newer technologies can help connect and correlate that information more quickly, giving operators real-time support when diagnosing problems. AI-powered robots could take that a step further by gathering information in hazardous environments without requiring workers to enter them. But greater autonomy also requires new approaches to governance. AVEVA’s framework for responsible AI emphasizes security, efficiency, and human safety and oversight. Garg argues that AI should augment rather than replace people in critical decision loops, with guardrails determining where automated systems can act and where human supervisors remain responsible. Sustainability is another part of that equation. AI can help manage complex power systems as renewable generation grows, while organizations also need better ways to understand AI’s own environmental footprint. Garg is involved in an IEEE working group developin
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-07 16:54]
-标题: Multimodal open d1 decision models for the edge
-链接: https://huggingface.co/blog/LiquidAI/open-d1
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 20:02]
+标题: Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名
+链接: https://aihot.news/items/jxxgoidojk52fkcs2fz0fkjzy
+正文: Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jxxgoidojk52fkcs2fz0fkjzy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 19:01]
+标题: 如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频
+链接: https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf
+正文: ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 18:51]
+标题: Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index
+链接: https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold
+正文: Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 18:17]
+标题: 部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域
+链接: https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p
+正文: AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 17:08]
+标题: Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index
+链接: https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30
+正文: Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 16:42]
+标题: Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半
+链接: https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss
+正文: Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 16:21]
+标题: LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock
+链接: https://aihot.news/items/l846t7ycr11aqcasu45nowosp
+正文: LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l846t7ycr11aqcasu45nowosp
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 15:53]
+标题: Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线
+链接: https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z
+正文: Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 13:01]
 标题: Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体
 链接: https://aihot.news/items/cal34hameqt3bh6d52vaqt58v
 正文: Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cal34hameqt3bh6d52vaqt58v
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 12:00]
+标题: Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南
+链接: https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8
+正文: Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 09:24]
 标题: Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行
@@ -50,65 +91,35 @@
 链接: https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg
 正文: ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 20:21]
-标题: GPT-6 Luna Decisions 上架 OpenRouter
-链接: https://aihot.news/items/x40bi9csoomsdaflejehop22y
-正文: OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x40bi9csoomsdaflejehop22y
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 00:36]
+标题: OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡
+链接: https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n
+正文: OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:49]
-标题: LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载
-链接: https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
-正文: LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 00:00]
+标题: Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能
+链接: https://aihot.news/items/winsvtlfubhjfi0wnone83j5c
+正文: Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/winsvtlfubhjfi0wnone83j5c
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:45]
-标题: NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC
-链接: https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
-正文: NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 00:00]
+标题: Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate
+链接: https://aihot.news/items/vemmtcq70ojxkk343dse8qfuc
+正文: Google AI Edge 团队以 Apache 2.0 许可开源 ML Drift，一个跨平台端侧 GPU 推理计算引擎，作为 LiteRT 的核心 GPU 加速层。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vemmtcq70ojxkk343dse8qfuc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:14]
-标题: Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格
-链接: https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv
-正文: Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 00:00]
+标题: Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障
+链接: https://aihot.news/items/col84h6b3pdq383v6iuju3a9v
+正文: Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。 🔗 阅读原文 via AIHOT · https://aihot.news/items/col84h6b3pdq383v6iuju3a9v
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:10]
-标题: Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题
-链接: https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k
-正文: Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 00:00]
+标题: OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群
+链接: https://aihot.news/items/b33i6chgxghls2v7bng0wr0nr
+正文: OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过假 persona Mia Clark 控制拉美智库 Social Research Center，评分达 Category 5，是报告以来首个 Category 5；伊朗来源的 Bogus Bylines 用 7 个假记者身份在全球十几家中小媒体投放近 100 篇长文，评分 Category 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b33i6chgxghls2v7bng0wr0nr
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:08]
-标题: Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度
-链接: https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5
-正文: Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:01]
-标题: Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10
-链接: https://aihot.news/items/zn6imszjo14gki6kr2uyydknp
-正文: Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zn6imszjo14gki6kr2uyydknp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 18:00]
-标题: OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI
-链接: https://aihot.news/items/uir31g728myjry383z17txvrw
-正文: OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uir31g728myjry383z17txvrw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:33]
-标题: Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）
-链接: https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf
-正文: Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:21]
-标题: Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%
-链接: https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv
-正文: Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 16:00]
-标题: Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架
-链接: https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l
-正文: Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-07 14:46]
-标题: 亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑
-链接: https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy
-正文: 亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-08 17:51]
+标题: Little relief expected for gas prices ahead of Election Day, according to prediction markets
+链接: https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html
+正文: Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-08 12:28]
 标题: Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more
@@ -125,20 +136,15 @@
 链接: https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html
 正文: Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 18:42]
-标题: Fed officials see another hike coming, but no sign as to when, minutes show
-链接: https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html
-正文: The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-08 00:00]
+标题: The playbook for seeing around geopolitical corners
+链接: https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners
+正文: From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-07 16:52]
-标题: Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more
-链接: https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html
-正文: These are the stocks posting the largest moves midday.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-08 14:14]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-08 20:23]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-08 14:14]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-08 20:23]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
