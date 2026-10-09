@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-10-09 19:55:25
+# ForwardPulse 原始情报收割 — 2026-10-09 23:44:07
 # 共计 23 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-09 12:10]
@@ -30,6 +30,21 @@
 标题: Impactful scheduling for GPU clusters
 链接: https://huggingface.co/blog/allenai/impactful-scheduling
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 22:11]
+标题: Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索
+链接: https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y
+正文: Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。 🔗 阅读原文 via AIHOT · https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 22:06]
+标题: Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）
+链接: https://aihot.news/items/dz0806tu82swoo3jh1twrumb6
+正文: Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dz0806tu82swoo3jh1twrumb6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 19:56]
+标题: Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴
+链接: https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama
+正文: Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 18:41]
 标题: Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%
 链接: https://aihot.news/items/mz4js4r6916dip5ojpett06io
@@ -54,21 +69,6 @@
 标题: Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43
 链接: https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd
 正文: Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 23:02]
-标题: OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元
-链接: https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti
-正文: 据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 21:36]
-标题: Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index
-链接: https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r
-正文: Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-08 20:02]
-标题: Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名
-链接: https://aihot.news/items/jxxgoidojk52fkcs2fz0fkjzy
-正文: Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jxxgoidojk52fkcs2fz0fkjzy
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-09 18:57]
 标题: Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more
@@ -105,10 +105,10 @@
 链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth
 正文: As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to harness the technology’s power?
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-09 19:55]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-09 23:44]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-09 19:55]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-09 23:44]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
