@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-10 20:23:32
-# 共计 11 条来自 4 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-10 23:59:55
+# 共计 10 条来自 4 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 21:30]
+标题: OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境
+链接: https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp
+正文: 文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 13:56]
 标题: MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了
@@ -31,25 +36,15 @@
 链接: https://aihot.news/items/kurqidh0vhim22o3emphqjv46
 正文: Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kurqidh0vhim22o3emphqjv46
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 22:11]
-标题: Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索
-链接: https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y
-正文: Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。 🔗 阅读原文 via AIHOT · https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 22:06]
-标题: Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）
-链接: https://aihot.news/items/dz0806tu82swoo3jh1twrumb6
-正文: Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dz0806tu82swoo3jh1twrumb6
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-10 15:00]
 标题: JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity
 链接: https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html
 正文: Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-10 20:23]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-10 23:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-10 20:23]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-10 23:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
