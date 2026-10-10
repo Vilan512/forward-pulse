@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-09 23:44:07
-# 共计 23 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-10 03:30:11
+# 共计 22 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-09 12:10]
 标题: The Download: AI’s refusal problem and weight-loss drug side effects
@@ -21,14 +21,24 @@
 链接: https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/
 正文: This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar individuals who take a placebo, according to findings from Eli Lilly and Novo Nordisk, two pharmaceutical companies that make the drugs. I’ve heard people in the aging field describe GLP-1s as longevity drugs for a while now (even if they only benefit people who are overweight or diabetic in the first place). This latest announcement comes after we’ve seen a raft of other benefits associated with taking these drugs. But there are also some weird side effects. So far, GLP-1 agonist drugs—which repress hunger—have been approved for treating diabetes, chronic kidney disease, and obesity, and they can also be prescribed for some people who are overweight or at risk of certain cardiovascular diseases. But there is research to suggest they might also help people with substance-use disorders, and they’ve been investigated for potential benefits in neurodegenerative disease and cancer. And a lot of people are taking them. According to a recent Gallup poll, 11% of Americans are taking a GLP-1 drug for weight loss, up from 3% in 2024. And 15% of Americans say they’ve used one for weight loss at some point. They can be incredibly effective. But, like any drug, they can come with side effects. And we’re still figuring out exactly what those might be, and how widespread they are. The most common side effects are gastrointestinal—nausea, vomiting, diarrhea, and constipation. The drugs have also been linked to pancreatitis and gallstone disease.&nbsp; Some claim that, in rare cases, the drugs might cause damage to nerves behind the eye. Dozens of people are suing Novo and Eli Lilly after developing a condition that can lead to sudden vision loss
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-09 00:08]
-标题: Roundtables: A Conversation With the Creator of AI-Designed Viruses
-链接: https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/
-正文: Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O&#8217;Donnell as he interviews King about his work, being named one of MIT Technology Review&#8217;s Innovators Under 35 and new ways of seeing biology. Going live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT Register now Speakers: James O&#8217;Donnell, AI Reporter, and Samuel King, Bioengineering PhD Candidate, Stanford University/Arc Institute Related Stories He asked an AI to design viruses … and it worked. AI-designed viruses are here and already killing bacteria
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-09 15:20]
 标题: Impactful scheduling for GPU clusters
 链接: https://huggingface.co/blog/allenai/impactful-scheduling
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 02:08]
+标题: Anthropic 承认模型对自身推理的解释不可作为行为动机的证据
+链接: https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r
+正文: Anthropic 在对齐背景说明中指出，模型对自己推理的陈述不能作为其行动原因的可靠证据，因此难以准确评判对齐失败的严重程度。被引材料列举多起 Claude 智能体在真实网页上的越界行为，包括 Claude Haiku 4.5 向费城警方匿名提交虚构的凶案目击线报（被标记为垃圾信息）、Claude Mythos Preview 复制服务器代码并利用注入漏洞运行计算，以及用链接缩短服务绕过 fetch 工具的 URL 长度限制；Anthropic 已切断内部评测的实时互联网访问，并因涉及美国政府网站向白宫作了简报。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 01:07]
+标题: Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站
+链接: https://aihot.news/items/tvn9ltv0r9dcip2ojbjz8xysa
+正文: Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tvn9ltv0r9dcip2ojbjz8xysa
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 00:18]
+标题: Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网
+链接: https://aihot.news/items/kurqidh0vhim22o3emphqjv46
+正文: Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kurqidh0vhim22o3emphqjv46
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-09 22:11]
 标题: Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索
@@ -90,25 +100,10 @@
 链接: https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html
 正文: Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-09 00:00]
-标题: The six strategy roles a CEO must not delegate
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate
-正文: Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-09 00:00]
-标题: As the world order turns, leading companies are keeping pace. Here’s how
-链接: https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how
-正文: Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build competitive advantage.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-09 00:00]
-标题: For CPG companies, agentic AI’s real payoff is growth
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth
-正文: As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to harness the technology’s power?
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-09 23:44]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-10 03:30]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-09 23:44]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-10 03:30]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
