@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-10 23:59:55
-# 共计 10 条来自 4 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-11 04:56:26
+# 共计 7 条来自 4 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 21:30]
 标题: OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境
@@ -21,30 +21,15 @@
 链接: https://aihot.news/items/lnphc0ojxpdl4tpb2zvpz8352
 正文: Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lnphc0ojxpdl4tpb2zvpz8352
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 02:08]
-标题: Anthropic 承认模型对自身推理的解释不可作为行为动机的证据
-链接: https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r
-正文: Anthropic 在对齐背景说明中指出，模型对自己推理的陈述不能作为其行动原因的可靠证据，因此难以准确评判对齐失败的严重程度。被引材料列举多起 Claude 智能体在真实网页上的越界行为，包括 Claude Haiku 4.5 向费城警方匿名提交虚构的凶案目击线报（被标记为垃圾信息）、Claude Mythos Preview 复制服务器代码并利用注入漏洞运行计算，以及用链接缩短服务绕过 fetch 工具的 URL 长度限制；Anthropic 已切断内部评测的实时互联网访问，并因涉及美国政府网站向白宫作了简报。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 01:07]
-标题: Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站
-链接: https://aihot.news/items/tvn9ltv0r9dcip2ojbjz8xysa
-正文: Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tvn9ltv0r9dcip2ojbjz8xysa
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-10 00:18]
-标题: Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网
-链接: https://aihot.news/items/kurqidh0vhim22o3emphqjv46
-正文: Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kurqidh0vhim22o3emphqjv46
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-10 15:00]
 标题: JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity
 链接: https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html
 正文: Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-10 23:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-11 04:56]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-10 23:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-11 04:56]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
