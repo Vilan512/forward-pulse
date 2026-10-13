@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-13 12:22:00
-# 共计 22 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-13 19:40:20
+# 共计 33 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-13 12:00]
+标题: The Download: open model trade-offs and geothermal power’s promise
+链接: https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack risk. Its core concern was that it is freely available for anyone to download and modify. The warning was the latest flashpoint in a debate over whether frontier AI models should be open or kept behind the doors of frontier labs. Safety advocates warn that open models can be misused by bad actors, while supporters argue they could prevent a handful of companies from controlling this powerful technology. Here’s why the debate over open AI is more complicated than it seems. —Grace Huckins This story is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. Read more from the series here.&nbsp; 10 Climate Tech Companies to Watch: Fervo Energy and its plan to streamline geothermal power Fervo Energy is one of MIT Technology Review’s10 Climate Tech Companies to Watch 2026, available exclusively to subscribers. Fervo Energy wants to expand geothermal power beyond the handful of places where it has traditionally been practical. The company uses horizontal drilling and hydraulic fracturing to open pathways through underground rock, potentially making geothermal development possible in far more places. Now, Fervo is betting that AI’s power boom will help scale up enhanced geothermal energy. With a $2.2 billion public offering and an expanded agreement with Google, it plans to build larger plants and drive down costs. But can its approach work beyond Utah and Nevada? Read the full story to find out. —Eshan Raul Subscribers can now access the full 10 Climate Tech Companies to Watch, spanning everything from sustainable cement to shipping containers pa
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-13 10:00]
 标题: Open models have real benefits. Do they outweigh the risks?
@@ -11,6 +16,60 @@
 链接: https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/
 正文: When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around $15,000) for the workspace data in Google, Notion, Figma, and Slack. “At least all that stuff we were doing for two and a half years is worth something to someone somewhere,” he says. The sale was brokered by a company called SimpleClosure, part of a new growth sector in tech: businesses catering to dying startups. Estimates from Carta and AngelList show shutdowns rising between 26% and 56% annually in recent years, and an end-of-life ecosystem—including coaches, “death doulas,” and firms that help handle the legal, tax, and operational headaches of going ­belly-up—has emerged. Now tech undertakers are selling the data remains to AI labs. SimpleClosure added data sales to its services in April. Its Asset Hub platform helps founders sell their code and workspace data—emails, chats, documents. Buyers include foundation AI labs, vendors that construct simulated workspaces for AI training, and mature tech companies building their own models. Asset Hub has handled over 150 deals and expects to return over $10 million to startups by the end of 2026. CEO Dori Yona has seen these transactions, once rare and “somewhat taboo,” become increasingly routine, with 47% of SimpleClosure deals now including code or data sales. And it’s got company. Industry rival Sunset also has a rapidly growing data resale business. Founder and CEO Brendan Mahony says Sunset values a dying client’s assets by head count, years in operation, volume of data, and how the team used its tools. Particle board, he says, is a good analogy: “This operational exhaust data is like the wood shavings that everyone thought had no value, but it actually has a ton.”&nbsp; Demand for defunct comp
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-13 17:05]
+标题: Run fast, private agents on-device with LFM2.5-24B-A2B
+链接: https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 18:00]
+标题: Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
+链接: https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
+正文: Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 17:43]
+标题: Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金
+链接: https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe
+正文: Greg Brockman 转述 XBOW 团队借助 OpenAI 的 GPT-5.6 Sol，用 6 天和 40000 美元算力找到 Chrome 关键漏洞，获 Google 2026 年规则下首笔 250000 美元全链漏洞赏金，影响约 10 亿 Windows Chrome 用户。被引用的原文称有情报机构老兵的团队过去需约 6 个月做同类漏洞，作者认为攻防双方发现关键漏洞的成本都在坍缩，防守方可先用这些工具测试自己的代码。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:26]
+标题: Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter
+链接: https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
+正文: Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon 🔗 阅读原文 via AIHOT · https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:05]
+标题: Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用
+链接: https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o
+正文: Google Gemini 宣布新前沿模型 Gemini 4 Argon 正在 Gemini 应用中逐步推出，定位是把复杂想法变为现实。作者还预告将以推文串介绍 Gemini 4 Argon 及应用内最新更新如何提升每条提示词的效果。 🔗 阅读原文 via AIHOT · https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:01]
+标题: Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%
+链接: https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f
+正文: Google DeepMind 发布 Gemini 4 Argon，定位为通用物理推理模型，在 Embodied Reasoning（ERQA）基准上以纯推理得分 87%，超过其他前沿模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:00]
+标题: Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型
+链接: https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
+正文: Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。 🔗 阅读原文 via AIHOT · https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 15:58]
+标题: ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲
+链接: https://aihot.news/items/tggiswcje6mz1ti081jfbro43
+正文: ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tggiswcje6mz1ti081jfbro43
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 12:59]
+标题: Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI
+链接: https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40
+正文: Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 12:59]
+标题: LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹
+链接: https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov
+正文: LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 12:23]
+标题: Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney
+链接: https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc
+正文: Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 12:00]
 标题: NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市
 链接: https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10
@@ -21,15 +80,15 @@
 链接: https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8
 正文: LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 10:32]
-标题: Character.AI 申请 Chapter 11 破产，Disney 以 2000 万美元牵头竞购部分资产
-链接: https://aihot.news/items/tusbrzz9718b9rzgrvjuren63
-正文: Character.AI 已在美国申请 Chapter 11 破产保护，以推进出售公司及资产，负债估计在 5000 万至 1 亿美元之间。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tusbrzz9718b9rzgrvjuren63
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 10:29]
 标题: 面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行
 链接: https://aihot.news/items/fidy0y9chlgs0puyn96qkmj1b
 正文: 面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fidy0y9chlgs0puyn96qkmj1b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 09:00]
+标题: Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图
+链接: https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj
+正文: Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。他提出图 API 存在类似 CAP 定理的取舍，类型安全、并行与快照三者不可兼得，并以此解释为何在 pydantic-graph V2 移除持久化、将持久执行交给 Temporal。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 08:06]
 标题: 千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售
@@ -41,35 +100,30 @@
 链接: https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c
 正文: Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
+标题: Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK
+链接: https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui
+正文: Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
+标题: Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型
+链接: https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj
+正文: Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。 🔗 阅读原文 via AIHOT · https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
+标题: Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移
+链接: https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i
+正文: Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 20:59]
 标题: Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期
 链接: https://aihot.news/items/kcwro19vl7dr5jgcjgec7mive
 正文: 据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kcwro19vl7dr5jgcjgec7mive
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 19:25]
-标题: 用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程
-链接: https://aihot.news/items/amjmxvrvj57q7752kgihp9p9q
-正文: 一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。 🔗 阅读原文 via AIHOT · https://aihot.news/items/amjmxvrvj57q7752kgihp9p9q
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 18:21]
-标题: Anthropic 的 Claude 向费城警方误提交虚假凶案线索
-链接: https://aihot.news/items/figd7mthwgisg8imtkrs0tn5z
-正文: Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。 🔗 阅读原文 via AIHOT · https://aihot.news/items/figd7mthwgisg8imtkrs0tn5z
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 18:04]
-标题: Meta Muse Wonder 系列上线 Agent Arena，分数即将公布
-链接: https://aihot.news/items/lj23e9c9bhqwm2dee2hbgcmor
-正文: Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lj23e9c9bhqwm2dee2hbgcmor
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 17:36]
-标题: AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构
-链接: https://aihot.news/items/w2408fxlrc7tc7nt3ivrzh9ys
-正文: AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w2408fxlrc7tc7nt3ivrzh9ys
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-12 13:03]
-标题: 微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署
-链接: https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q
-正文: 微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 18:46]
+标题: JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts
+链接: https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html
+正文: JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 11:49]
 标题: Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more
@@ -86,25 +140,25 @@
 链接: https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html
 正文: Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-12 18:18]
-标题: The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging
-链接: https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html
-正文: The S&amp;P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 02:58]
 标题: Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack
 链接: https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html
 正文: The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-12 15:37]
-标题: Inflation likely peaked for 2026 but will remain sticky, according to prediction markets
-链接: https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html
-正文: Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-13 00:00]
+标题: Why the future of capital projects belongs to digital and AI-enabled teams
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams
+正文: Digital and AI are changing the way capital projects are selected, designed, procured, built, and steered. Leaders are moving beyond pilots to rewire how projects are planned and delivered.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-13 12:22]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-13 00:00]
+标题: Why medtechs can’t afford to overlook customer experience
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/why-medtechs-cant-afford-to-overlook-customer-experience
+正文: Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed into products from day one, not added as a post-sale service.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-13 19:40]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-13 12:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-13 19:40]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
