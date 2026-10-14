@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-14 02:49:54
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-14 08:13:43
+# 共计 30 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-13 12:00]
 标题: The Download: open model trade-offs and geothermal power’s promise
@@ -19,6 +19,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-13 17:05]
 标题: Run fast, private agents on-device with LFM2.5-24B-A2B
 链接: https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 02:58]
+标题: Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励
+链接: https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi
+正文: Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 01:02]
 标题: Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra
@@ -54,11 +59,6 @@
 标题: ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR
 链接: https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq
 正文: NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 19:15]
-标题: XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金
-链接: https://aihot.news/items/ekphiltd4fdsskdlueleul8qa
-正文: XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ekphiltd4fdsskdlueleul8qa
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 18:00]
 标题: Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
@@ -115,12 +115,7 @@
 链接: https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj
 正文: Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。他提出图 API 存在类似 CAP 定理的取舍，类型安全、并行与快照三者不可兼得，并以此解释为何在 pydantic-graph V2 移除持久化、将持久执行交给 Temporal。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 08:06]
-标题: 千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售
-链接: https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi
-正文: 千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 02:48]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 03:41]
 标题: China's exports and imports surge past expectations in September
 链接: https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html
 正文: The country's customs agency released September trade data on Wednesday.
@@ -145,20 +140,10 @@
 链接: https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html
 正文: These are the stocks posting the largest moves before the bell.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 06:20]
-标题: Visa gets Beijing's green light for bank card business after 40 years of working with China
-链接: https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html
-正文: The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 02:58]
-标题: Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack
-链接: https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html
-正文: The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-14 02:49]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-14 08:13]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-14 02:49]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-14 08:13]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
