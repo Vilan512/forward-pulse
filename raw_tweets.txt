@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-14 14:12:55
-# 共计 27 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-14 19:05:08
+# 共计 30 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-14 12:10]
 标题: The Download: faking blood and the future of batteries
@@ -11,9 +11,24 @@
 链接: https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/
 正文: Its call sign was Morphine 1-2. &nbsp; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like this only at night, and with all lights turned off.&nbsp; As it passed near the city of Karmah, in the eastern side of Al-Anbar province, an insurgent fired a portable missile launcher. The tail gunner, who likely saw the shot roaring in, yelled for the pilot to make an evasive move. But the missile had already locked on, and the ensuing blast started a fire on board. After the pilot battled the failing machine for 58 agonizing seconds, Morphine 1-2 plunged to the ground. All seven crew members were killed. &nbsp; Why was the helo there in daylight? “It was getting blood and bringing it back. It was [on] what we call a ‘blood run,’ and [it’s] the highest of priorities besides casualty evacuation,” explains Lieutenant Commander Robert Murray, a Navy officer and program manager at DARPA, the Defense Advanced Research Projects Agency, who studied this incident as an intelligence officer. Today, a chronic shortage of blood in both the military and civilian worlds is fueling a race to develop synthetic alternatives. About 90% of preventable battlefield deaths are due to hemorrhage—bleeding that happens when a blood vessel ruptures—and it’s the leading cause of maternal deaths worldwide. A study published in Transfusion in 2025 found that of 1.2 million trauma patients in the United States who potentially needed blood before reaching a hospital, just 1% received it. The shortage results in about 10,000 preventable deaths each year in the US, according to the American College of Surgeons. Globally, that figure is likely in the millions.&nbsp; One reason for the shortfall is that blood has a storage problem. Whole blood lasts o
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-13 17:05]
-标题: Run fast, private agents on-device with LFM2.5-24B-A2B
-链接: https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-14 16:12]
+标题: HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
+链接: https://huggingface.co/blog/allenai/hiro-acev2
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 17:26]
+标题: Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜
+链接: https://aihot.news/items/loovm0yfvzmgzmv1yp1mm3up4
+正文: Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/loovm0yfvzmgzmv1yp1mm3up4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 17:00]
+标题: LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口
+链接: https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27
+正文: LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。 🔗 阅读原文 via AIHOT · https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 15:00]
+标题: MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍
+链接: https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9
+正文: MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 12:50]
 标题: Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO
@@ -30,6 +45,21 @@
 链接: https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
 正文: Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 00:00]
+标题: Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资
+链接: https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa
+正文: Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 00:00]
+标题: xAI 发布 Grok Voice 3.0 语音模型
+链接: https://aihot.news/items/qld0z3p2gztpolbmviizsm66u
+正文: xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qld0z3p2gztpolbmviizsm66u
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 00:00]
+标题: Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查
+链接: https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz
+正文: Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。 🔗 阅读原文 via AIHOT · https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 22:56]
 标题: 实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra
 链接: https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi
@@ -45,11 +75,6 @@
 链接: https://aihot.news/items/ob6ryetyialrnqhyjusr2s1iz
 正文: Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ob6ryetyialrnqhyjusr2s1iz
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 20:06]
-标题: Character.ai 破产文件显示 AI 商业模式难以为继
-链接: https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8
-正文: Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 19:48]
 标题: OpenAI 办公室发现窃密录音装置，涉事员工被捕
 链接: https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov
@@ -60,37 +85,22 @@
 链接: https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq
 正文: NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 18:00]
-标题: Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%
-链接: https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
-正文: Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:26]
-标题: Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter
-链接: https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
-正文: Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon 🔗 阅读原文 via AIHOT · https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 16:00]
-标题: Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型
-链接: https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
-正文: Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。 🔗 阅读原文 via AIHOT · https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 15:58]
-标题: ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲
-链接: https://aihot.news/items/tggiswcje6mz1ti081jfbro43
-正文: ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tggiswcje6mz1ti081jfbro43
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 18:48]
+标题: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos
+链接: https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
+正文: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 11:36]
 标题: Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more
 链接: https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 13:11]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 17:08]
 标题: Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million
 链接: https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html
 正文: Morgan Stanley topped expectations on the top and bottom lines for the third quarter.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 14:07]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 16:49]
 标题: Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty
 链接: https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html
 正文: Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.
@@ -125,10 +135,15 @@
 链接: https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain
 正文: The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right governance, expertise, and operating model.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-14 14:12]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-14 00:00]
+标题: Rewiring capital projects to boost construction productivity
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity
+正文: McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of complex capital projects.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-14 19:05]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-14 14:12]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-14 19:05]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
