@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-13 23:32:15
-# 共计 37 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-14 02:49:54
+# 共计 33 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-13 12:00]
 标题: The Download: open model trade-offs and geothermal power’s promise
@@ -19,6 +19,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-13 17:05]
 标题: Run fast, private agents on-device with LFM2.5-24B-A2B
 链接: https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 01:02]
+标题: Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra
+链接: https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
+正文: Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 22:56]
+标题: 实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra
+链接: https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi
+正文: Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 22:00]
+标题: Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析
+链接: https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96
+正文: Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 21:27]
 标题: Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2
@@ -105,25 +120,10 @@
 链接: https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi
 正文: 千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 01:09]
-标题: Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet
-链接: https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c
-正文: Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
-标题: Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK
-链接: https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui
-正文: Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
-标题: Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型
-链接: https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj
-正文: Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。 🔗 阅读原文 via AIHOT · https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-13 00:00]
-标题: Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移
-链接: https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i
-正文: Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-14 02:48]
+标题: China's exports and imports surge past expectations in September
+链接: https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html
+正文: The country's customs agency released September trade data on Wednesday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 23:05]
 标题: Goldman says investors are looking for 'profitable' Chinese business growth overseas
@@ -150,35 +150,15 @@
 链接: https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html
 正文: The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 01:26]
-标题: 'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil
-链接: https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html
-正文: Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-13 02:58]
 标题: Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack
 链接: https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html
 正文: The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-13 00:00]
-标题: The AI operating system: A new way for CEOs to run the enterprise
-链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise
-正文: An AI operating system can become an enterprise’s “second brain,” but only if CEOs rethink how management itself evolves.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-13 00:00]
-标题: Why the future of capital projects belongs to digital and AI-enabled teams
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams
-正文: Digital and AI are changing the way capital projects are selected, designed, procured, built, and steered. Leaders are moving beyond pilots to rewire how projects are planned and delivered.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-13 00:00]
-标题: Why medtechs can’t afford to overlook customer experience
-链接: https://www.mckinsey.com/industries/life-sciences/our-insights/why-medtechs-cant-afford-to-overlook-customer-experience
-正文: Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed into products from day one, not added as a post-sale service.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-13 23:32]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-14 02:49]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-13 23:32]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-14 02:49]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
