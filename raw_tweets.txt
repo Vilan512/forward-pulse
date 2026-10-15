@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-10-15 20:44:47
+# ForwardPulse 原始情报收割 — 2026-10-15 23:26:59
 # 共计 53 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-15 12:10]
@@ -25,10 +25,6 @@
 标题: Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint
 链接: https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-15 09:08]
-标题: Apertus 1.5 Release Notes
-链接: https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-15 00:00]
 标题: Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
 链接: https://huggingface.co/blog/meta-muse-spark-open
@@ -36,6 +32,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-15 00:00]
 标题: Welcome FLUX.3 Image Klein in Diffusers
 链接: https://huggingface.co/blog/flux-3
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 21:15]
+标题: Krea 3 图像模型通过 ComfyUI Partner Nodes 上线
+链接: https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd
+正文: Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 20:09]
 标题: Claude Opus 5.5 fast mode 结束研究预览并移除等待名单
@@ -163,6 +164,16 @@
 正文: Hugging Face 团队介绍 FLUX.3 Image Klein 模型发布首日即可在 Diffusers 中使用，单个模型支持文生图、多参考图生图和边界框布局控制。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 00:00]
+标题: Anthropic Code Review 正式可用，面向 Team 和 Enterprise 组织
+链接: https://aihot.news/items/wmxwoemumqiq2yfrjngl3a5rc
+正文: Anthropic 宣布 Claude 的 Code Review 结束研究预览，正式向 Claude Team 和 Enterprise 组织开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wmxwoemumqiq2yfrjngl3a5rc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 00:00]
+标题: SGLang 为 816B 开源多模态 MoE 模型 Muse Spark Open 提供 Day-0 支持
+链接: https://aihot.news/items/uszbj5nmdutp2pw789lr42hhj
+正文: SGLang 团队宣布对 Meta 开源多模态 MoE 模型 Muse Spark Open（816B 参数、约 42B 激活、1M token 上下文）提供 Day-0 推理支持，权重提供 NVFP4 和 BF16 两种格式。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uszbj5nmdutp2pw789lr42hhj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 00:00]
 标题: vLLM 提供 Muse Spark Open Day 0 支持
 链接: https://aihot.news/items/pps3hhirbnlrmk2nxph3fpprt
 正文: vLLM 与 Meta Superintelligence Labs 合作，在发布当天即支持开源 MoE 模型 Muse Spark Open。该模型总参数 816B、每 token 激活 42B、上下文窗口 1M，面向长程智能体编码工作流。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pps3hhirbnlrmk2nxph3fpprt
@@ -202,25 +213,15 @@
 链接: https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8
 正文: 当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 23:13]
-标题: 欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%
-链接: https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql
-正文: 欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-15 23:00]
+标题: People in China are spending nearly as much of their income as Americans on healthcare
+链接: https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html
+正文: Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 22:02]
-标题: Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放
-链接: https://aihot.news/items/rraljkr6dlbt4wabpcogmdlfv
-正文: Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rraljkr6dlbt4wabpcogmdlfv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 21:36]
-标题: Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值
-链接: https://aihot.news/items/whbmvotra7659u98jmj00oegi
-正文: Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 &quot;idleCompaction&quot;: false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。 🔗 阅读原文 via AIHOT · https://aihot.news/items/whbmvotra7659u98jmj00oegi
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-14 21:32]
-标题: Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测
-链接: https://aihot.news/items/yp2h3luqmkip3si23h4pnfmvb
-正文: Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yp2h3luqmkip3si23h4pnfmvb
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-15 20:48]
+标题: Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more
+链接: https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html
+正文: These are the stocks posting the largest moves in extended trading.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-15 19:53]
 标题: Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding
@@ -238,6 +239,11 @@
 正文: European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-15 00:00]
+标题: The judgment bottleneck: Balancing AI and human speeds in strategy
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy
+正文: Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-15 00:00]
 标题: Place, purpose, and the path to economic mobility
 链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility
 正文: Where you live shapes far more than you’d think. New research points to how community, place, and connection relate to getting ahead.
@@ -247,15 +253,10 @@
 链接: https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors
 正文: New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more resilient.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-15 00:00]
-标题: The judgment bottleneck: Balancing AI and human speeds in strategy
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy
-正文: Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-15 20:44]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-15 23:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-15 20:44]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-15 23:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
