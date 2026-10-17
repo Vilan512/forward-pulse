@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-16 23:09:03
-# 共计 32 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-17 02:15:36
+# 共计 18 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-16 18:00]
 标题: Roundtables: A Conversation With the Creator of AI-Designed Viruses
@@ -30,14 +30,6 @@
 标题: Kids are outsmarting social media bans. That’s not a problem we need to solve.
 链接: https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/
 正文: Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early 2027, and the EU has announced its own plan to prohibit social media for kids under 15. But early lessons from Australia, which enacted a ban in 2024, show that these sorts of age restrictions are easily circumvented. A study published earlier this year found that four in five teens under 16 made their way onto barred platforms. Teens have successfully explored many tactics for bypassing bans, from using a sibling’s face for ID to drawing fake facial hair.&nbsp; Some proponents of bans have called for an increased focus on enforcement that blocks these workarounds. But circumvention is a signal, not a nuisance or something to be simply deterred. The fact that kids are actively looking for ways to outwit the bans highlights their limitations. Social media bans suppress kids’ access to information, including information that’s essential to their development, identity formation, and socialization, especially during adolescence. Worse, further restriction is likely to backfire. Closing loopholes in age gates could harm kids by pushing them toward less-moderated, higher-risk corners of the web. It also degrades privacy and security for everyone by forcing people to submit sensitive personal information to prove their age. In our work, we’ve found that parents and kids both want smarter, more nuanced policies that protect children, families, and their rights. That can take the form of mandating stronger limits on data collection by companies, or giving families flexible tools to control content and access on their own terms.&nbsp; Age gates won’t bring about the desired change, nor will they simplify parenting in the digital world. At 
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-16 01:44]
-标题: Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
-链接: https://huggingface.co/blog/nvidia/scaling-indic-pretraining
-
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: Welcome Beam: a 501B open model you can own, customize, and scale
-链接: https://huggingface.co/blog/reflection-beam
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 22:22]
 标题: Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一
@@ -74,56 +66,6 @@
 链接: https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4
 正文: 据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 02:03]
-标题: Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现
-链接: https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip
-正文: 可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:54]
-标题: 消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元
-链接: https://aihot.news/items/ldwt1jervkxlsh99322u661fc
-正文: 路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ldwt1jervkxlsh99322u661fc
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:18]
-标题: 可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考
-链接: https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw
-正文: 可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%
-链接: https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d
-正文: PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计
-链接: https://aihot.news/items/kovelcbltjj7xf054h8mffaxo
-正文: Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kovelcbltjj7xf054h8mffaxo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%
-链接: https://aihot.news/items/jc7pyt619xhznn9j28apoedto
-正文: AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jc7pyt619xhznn9j28apoedto
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API
-链接: https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56
-正文: SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用
-链接: https://aihot.news/items/f14brdupsvks0k2hoang4lx6w
-正文: Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/f14brdupsvks0k2hoang4lx6w
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-16 00:00]
-标题: vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持
-链接: https://aihot.news/items/d0pow9b93paydjtg2i76ang83
-正文: vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d0pow9b93paydjtg2i76ang83
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-15 23:36]
-标题: Musk 称 xAI 2027 年底算力目标可能超过 10GW
-链接: https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6
-正文: Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-16 16:29]
 标题: Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more
 链接: https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html
@@ -139,20 +81,10 @@
 链接: https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-16 00:00]
-标题: Getting real about AI: How AI agents are changing the economics of software engineering
-链接: https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering
-正文: Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what it takes to turn autonomous agents into measurable business value.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-16 00:00]
-标题: What is a forward-deployed engineer?
-链接: https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer
-正文: Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-16 23:09]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-17 02:15]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-16 23:09]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-17 02:15]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
