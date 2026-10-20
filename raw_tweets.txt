@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-20 17:38:31
-# 共计 35 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-20 21:01:46
+# 共计 36 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-20 20:07]
+标题: Astrolab’s upcoming rover will run the first LLMs on the moon
+链接: https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/
+正文: Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series of vehicles NASA has contracted from Astrolab, including future buggies that will move Artemis astronauts across the moon’s surface. Fitted with deformable wheels engineered for the rugged terrain and designed to survive at least 150 hours of the frigid lunar night, FLIP will carry 20 scientific payloads, including a lidar 3D mapper and a sensor to measure concentrations of the isotope helium-3 in lunar regolith. The rover will also carry a high-performance computer made by HPE that will be the first to run LLMs on the moon’s surface. Such software could ultimately help enable greater autonomy and real-time intelligent decision-making in space on future missions, eliminating the time delays and limited bandwidth that often plague long-distance communications between ground control on Earth and robots elsewhere in the solar system. “The time delay, for example, on Mars can be up to 20 minutes,” Mark Fernandez, the chief scientist and principal investigator at HPE, said during a press conference introducing the project. “On the moon it’s reduced, but still, you are looking at stale data. In fact, the Soviets lost two rovers in the past because of operator errors caused by the time delay.” During FLIP’s mission, specialized custom-built LLMs will run a series of experiments to prove that the technology can operate reliably in the extreme environment of the moon. They will analyze data from the onboard cameras and the lidar mapper to aid with safe navigation in the lunar terrain and distill insights it gleans from the gathered data, reducing the amount of information the rover needs to transmit back home. Surviving the extreme China’s Chang’e-6 rover, 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-20 15:20]
 标题: The new economics of enterprise AI
@@ -31,15 +36,9 @@
 链接: https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/
 正文: In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&nbsp; Kids love a taste test, but they’re also discerning, and Dodge wasn’t sure what they would make of his product, a blend featuring both meat and mushrooms. As students swarmed the table and tapped out their opinions on an iPad or scanned a QR code to use their phones, Dodge asked those who lingered to guess what kind of vegetable might have been mixed into the meat. Few of them could—the meatballs had tasted like moist, flavorful beef.&nbsp; The school enrolls a few thousand students, and Dodge estimates that the majority of them came by. In the end, the survey showed that 92% of those who tried the meatballs wanted them on the menu; they easily cleared the bar to be added for the 2026–2027 school year. Comments described their flavor as “bussin’.”&nbsp; Through his consulting company, K–12 Food Solutions, Dodge was testing a new product called 50/Cut from the company Joyn. The proprietary blend of seemingly simple ingredients—available as meatballs, burgers, and ground meat—could help solve one of the most intractable challenges of the climate crisis, at least on the individual level: getting people to eat less meat, particularly beef. Livestock production accounts for somewhere between 10% and 20% of all greenhouse-gas emissions related to human activity, and nearly two-thirds of that comes from ruminants like cows raised for meat and dairy products. Beef herds create four times the emissions of dairy herds per kilo of food produced. And for US households, food makes up as much as 30% of emissions.&nbsp; Unlike other polluting sectors, such as electricity and transportation, cattle farming has little potential for a big fix. Ruminants produce about 30% of the metha
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-19 18:22]
-标题: Making the internet better for AI agents might make it worse for everyone else
-链接: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&nbsp;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules govern what they can access and how they behave. The web, after all, is designed primarily for people, even if we occasionally have to solve puzzles and captchas to prove we are not bots. But this is being entirely upended by the release of personal AI agents, which can do things for you online, like booking flights or hotel rooms. They have recently been unleashed at scale by the launch of apps like OpenAI’s Dots and Meta’s Muse. Muse was downloaded 5 million times in its first month, and agentic web traffic tripled from August to September.&nbsp; The mingling of these agents with human visitors—on an internet designed largely to prioritize people—has gone poorly, with many websites blocking AI agents that consumers have sent to negotiate prices or plan vacations. Still, if the demand for agents keeps going up, the internet will be increasingly redesigned for them instead of us.&nbsp; Such changes are coming because agents really do mark a third category of web visitor. They’re not humans, of course, and they use the internet at machine speed. But they’re not quite bots, either, because they’re acting on behalf of individual people to do tasks that can be perfectly legitimate and useful. They just work faster than a person would.&nbsp; Since agents don’t fit into the systems we have for differentiating bots from people, some platforms (especially the more security-conscious ones) have opted to just ban them entirely. TechCrunch recently reported people having trouble deploying their agents to websites ranging from Pizza Hut to Yelp, which doesn’t allow AI to book restaurant reservations. Amazon has blocked Muse’s agents and is
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-19 17:45]
-标题: “We were looking at it wrong”: The explosive claim that’s upended the AI world
-链接: https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/
-正文: “I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is that LLMs might in fact be far easier to understand—and thus to monitor and control—than people previously thought. If true (and we’ll come back to that), it’s a huge deal. After a summer filled with revelations that swarms of agents built by top firms like OpenAI and Anthropic have been breaking their containment and causing havoc on the public internet—often while those companies weren’t aware of what their agents were up to—the AI industry is desperate to get a better handle on the technology it has built. That’s one reason the blog post landed with such force. “I think this may be remembered as a major moment in scientific history,” one AI researcher posted on X: “I feel like my understanding of what a neural net is has been catapulted into the future by five years or something.” Another called it “the most important AI paper of the year.” Not everyone is convinced, however. What Cammarata has shared is little more than a hunch, says Chris Potts at Stanford University, who leads a team that is trying to understand how LLMs work. “As far as I can tell, nothing about this blog post makes the problems any easier,” he says. “It would not have occurred to me to say this at all, but very prominent people on social media seem to believe that it is an all-encompassing breakthrough.” I talked to Cammarata the day after his post blew up. He says he was surprised by the response: “I didn’t expect people to update [their beliefs about AI] quite as much as they did.”&nbsp; “I just really enjoy looking at neural networks,” he says. “Honestly, I really like doing this stuff. And after looking a lot, I have a hopeful story.” Knotted networks It h
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 18:17]
+标题: NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation
+链接: https://huggingface.co/blog/nvidia/cosmos3-h-dreams
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 16:09]
 标题: FairStress: A deeper evaluation of fairness in LLM decision-making
@@ -60,6 +59,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 00:00]
 标题: MPS in PyTorch 2.15
 链接: https://huggingface.co/blog/mps-pytorch-2-15
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 20:40]
+标题: SpaceX 财报显示 AI 业务超预期，收入占比达 52% 并重回盈利
+链接: https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb
+正文: SpaceX 发布三季度财报，AI 相关业务表现好于投资者预期，AI 已占公司收入的 52%。第三季度营收 146 亿美元，其中更名后的 Super Intelligence 业务线（包括近期收购的 Cursor、Grok 和 neocloud 业务，算力达 1.7 GW）是主要增长动力，另有约 10 亿美元与比特币价格回升相关的收入。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 17:42]
+标题: fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一
+链接: https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty
+正文: fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 16:34]
 标题: Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理
@@ -116,20 +125,10 @@
 链接: https://aihot.news/items/v26pyuir21k0m4r02acyz6v4g
 正文: Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v26pyuir21k0m4r02acyz6v4g
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 20:21]
-标题: FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
-链接: https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1
-正文: 美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 18:34]
-标题: fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max
-链接: https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km
-正文: fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 18:18]
-标题: DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一
-链接: https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm
-正文: Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 20:54]
+标题: Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more
+链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html
+正文: Here are some of the companies making headlines after the closing bell.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 16:45]
 标题: Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more
@@ -161,10 +160,15 @@
 链接: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era
 正文: Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from new builds toward servicing and renewals—while OEMs prepare for future opportunities.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-20 17:38]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-20 00:00]
+标题: Securing software in the age of AI: Red Hat CTO Chris Wright
+链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright
+正文: Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-20 21:01]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-20 17:38]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-20 21:01]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
