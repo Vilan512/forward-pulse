@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-19 22:07:44
-# 共计 31 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-20 01:22:40
+# 共计 30 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-19 18:22]
 标题: Making the internet better for AI agents might make it worse for everyone else
@@ -31,9 +31,10 @@
 链接: https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/
 正文: MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale. There is no physical law stopping us from writing the entire Encyclopædia Britannica on the head of a pin, he argued, or from storing every book ever written in something the size of a dust speck—or, ultimately, from arranging matter atom by atom. Biology already did versions of this (a living cell keeps its instructions in a wisp of DNA), so all of this was plainly permitted by the laws of physics. We simply had not built the tools yet. In other words, there was plenty of room at the bottom. He was right, and for decades we descended into that space almost for free. The transistor—the switch at the heart of computer chips—repeatedly halved in size so that chips doubled in density; a computer that once filled a room now fits inside a watch. But that easy descent has now stalled, and the clearest sign is the buildout of data centers. Six of the biggest hyperscalers, the companies that run the world’s largest such facilities, are on track to spend more than $700 billion this year on computing infrastructure, about twice the record they set in 2025, pouring concrete and copper and silicon into new sites faster than the electrical grid can feed them. That buildout buys performance by brute force, adding more of what we already know how to make. The other kind of progress, the kind that made computer chips better, is the one that is quietly running out. The trend lines that tracked the dramatic improvements of the 20th-century information age are now bending—or breaking—with the dawn of the 21st century’s intelligence age. Moore’s L
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-19 00:00]
-标题: TorchNeuron: running HF models on AWS Trainium is easier than ever
-链接: https://huggingface.co/blog/hf-torchneuron
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 00:26]
+标题: Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号
+链接: https://aihot.news/items/awmaqqunma83599eii4g3akgw
+正文: 作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。 🔗 阅读原文 via AIHOT · https://aihot.news/items/awmaqqunma83599eii4g3akgw
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 20:21]
 标题: FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹
@@ -70,6 +71,11 @@
 链接: https://aihot.news/items/qh6pvehounuylklti7i0zl124
 正文: Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qh6pvehounuylklti7i0zl124
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 15:05]
+标题: 美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品
+链接: https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka
+正文: 美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 15:00]
 标题: Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu
 链接: https://aihot.news/items/nk19eo4eud45d47tmwxm684iu
@@ -98,12 +104,27 @@
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 12:45]
 标题: AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端
 链接: https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
-正文: AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。 🔗 阅读原文 via AIHOT · https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
+正文: AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。 🔗 阅读原文 via AIHOT · https://aihot.news/items/szf3v3re4888fzekwoohhu8b4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 12:00]
+标题: OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力
+链接: https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo
+正文: OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 07:03]
 标题: 蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型
 链接: https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd
 正文: 蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-19 07:00]
+标题: Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒
+链接: https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8
+正文: Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。 🔗 阅读原文 via AIHOT · https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 00:33]
+标题: Three big takeaways from the IMF-World Bank meetings
+链接: https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html
+正文: Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-19 16:42]
 标题: Anthropic is AI trade's last big hope for a major IPO this year
@@ -120,35 +141,10 @@
 链接: https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html
 正文: With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-19 00:00]
-标题: Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity
-链接: https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity
-正文: Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year for every woman and potentially contribute more than 7 billion Swiss francs in annual GDP by 2040.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-19 00:00]
-标题: The next era of US retirement: Four shifts redefining competition
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition
-正文: The US retirement industry is entering a new era. Four shifts, from AI to product innovation, are redefining where value will be created.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-19 00:00]
-标题: The hidden opportunity in the next $2 trillion of US–Latin America trade
-链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade
-正文: Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in one of the world’s biggest economic corridors.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-19 00:00]
-标题: The state of business aviation in 2026: Resilient, despite headwinds
-链接: https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds
-正文: Our inaugural business aviation article finds that demand for private aviation services continues to grow, straining supply chains and infrastructure. Leaders will be those that respond quickly.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-19 00:00]
-标题: Building businesses that last
-链接: https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last
-正文: What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-19 22:07]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-20 01:22]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-19 22:07]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-20 01:22]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
