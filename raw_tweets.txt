@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-21 10:52:19
-# 共计 32 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-21 15:45:19
+# 共计 37 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-21 12:10]
+标题: The Download: introducing the Impossible issue
+链接: https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about living on other planets or uploading our brains. But also because scientists and engineers who won’t give up on daring endeavors remind us what technology is supposed to do: make life better, safer, healthier, even more joyful. That’s the ambition behind the stories in our new Impossible issue. We explore bold attempts to make synthetic blood, build cities on the moon, and attain cognitive immortality. We investigate AI’s ability to say no, a bionic eye that can restore sight, and high hopes for blended meat. Plus, we check in on six technologies that have been “coming soon” for years. This issue is for the folks with the audacity to try, and refuse to let anyone—themselves included— tell them no. We hope you enjoy the ride. Subscribe now to read the full print issue. Astrolab’s upcoming rover will run the first LLMs on the moon Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to the moon as early as next month. The mission will test whether LLMs can enable greater autonomy and real-time intelligent decision-making in the extreme lunar environment. But the moon will present formidable challenges, from extreme temperatures to intense cosmic radiation. Find out how the lunar rover could change the future of space exploration. —Tereza Pultarova How to study a swiftly melting climate disaster In Alaska’s Denali National Park, a 2013 lightning fire burned nearly 35,000 acres, stripping away the insulating layer that preserves permafrost. It’s given scientists a rare opportunity to study how fires reshape permafrost and carbon storage
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-21 09:00]
 标题: We can do impossible things
@@ -46,37 +51,57 @@
 链接: https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/
 正文: When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into Boston Harbor in 1773.&nbsp; But after a year of research, Brown reached a different conclusion: The label was made nearly a century later. The decisive clue came when he read the Chinese text in Cantonese rather than Mandarin, as previous scholars had done. He found that the characters had been used phonetically, in slightly variant forms across contemporary sources, to represent the name of Smith, Archer &amp; Co., a US firm that acquired Asian tea for shipment to American markets during the 1860s and 1870s. COURTESY OF MIT GLOBAL HUMANITIES Working with the Wells family, he traced the label to a relative who traveled from Michigan to California during the Gold Rush era before returning and operating a business known as the California Tea Store. Brown argues that claims for its revolutionary pedigree probably developed later, amid the centennial commemorations of the 1870s. The discovery does not make the label historically insignificant, he says. Instead, what began as an inquiry into a supposed artifact of the Boston Tea Party became a study of how ordinary objects acquire historical authority, and how historical memory itself is made. “History is never finished,” he says. “Even objects that have sat in museums for decades can reveal entirely new stories when we ask new questions.”&nbsp;
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-20 21:00]
-标题: Melt it, spin it, use it again
-链接: https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/
-正文: The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&nbsp; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those fibers would have to be separated for recycling—a process that isn’t practical. But the MIT team found a way to create a similarly stretchy yarn from two variations of polyethylene, a material commonly used in milk jugs and grocery bags. Because they come from the same chemical family, the yarn can be melted as is. Svetlana Boriskina, who led the work as a research scientist in the Department of Mechanical Engineering, says a garment made from this material could then be spun into new yarn for a next generation of clothing. Even after 10 cycles of melting and respinning, the yarn stays as strong and flexible as conventional thread.&nbsp; “Now we have something that can be knitted and woven,” Boriskina says. “That is the next stage.” Someday, the researchers hope, a polyethylene garment could be dropped in a collection bin and sent to a recycling facility, promoting a more sustainable, circular textile economy.&nbsp;
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 14:58]
+标题: Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
+链接: https://huggingface.co/blog/ibm-granite/granite-speech-5
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 10:41]
-标题: NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models
-链接: https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 12:51]
+标题: NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability
+链接: https://huggingface.co/blog/nvidia/kumo-forecast
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 16:09]
 标题: FairStress: A deeper evaluation of fairness in LLM decision-making
 链接: https://huggingface.co/blog/allenai/fairstress
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 15:19]
-标题: ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model
-链接: https://huggingface.co/blog/ibm-research/altk-evolve-bc
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 14:04]
+标题: OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞
+链接: https://aihot.news/items/bavicabx07y6kwr5x5r3se8g4
+正文: OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bavicabx07y6kwr5x5r3se8g4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 10:11]
-标题: NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台
-链接: https://aihot.news/items/b4mzaobsnurkv83h81ceel1yq
-正文: NVIDIA 在 GTC Berlin 宣布全球主要电信运营商正在把网络改造为分布式智能平台，在数据中心、城域站点和基站部署 NVIDIA 加速计算。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b4mzaobsnurkv83h81ceel1yq
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:57]
+标题: OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件
+链接: https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw
+正文: OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 10:00]
-标题: NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能
-链接: https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh
-正文: NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:44]
+标题: Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据
+链接: https://aihot.news/items/rmwtbq3o8rnr9kfjbgric6qew
+正文: Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rmwtbq3o8rnr9kfjbgric6qew
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:43]
+标题: ChinaTalk 解读中国商务部 AI 技术出口管制新规草案
+链接: https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
+正文: 中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:30]
+标题: Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站
+链接: https://aihot.news/items/z9nqeyi6p0br6knhkrt3xd3n6
+正文: Wiz Research 披露 PHP 核心中的多个内存安全漏洞（CVE-2026-109618/109619，CVSS 最高 9.2），实现无需认证的远程代码执行与内存泄露，影响至少追溯到 PHP 5.4 的近十年版本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z9nqeyi6p0br6knhkrt3xd3n6
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 12:00]
+标题: OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden
+链接: https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r
+正文: OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 04:50]
 标题: SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源
 链接: https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq
 正文: Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 04:50]
+标题: OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索
+链接: https://aihot.news/items/indtvl01y865vrsp81h64q7j4
+正文: OpenAI、PerturbAI 与 Scripps Research 联合发布研究，用数千个由 GPT‑Rosalind 驱动的 AI 智能体并行分析数百万小鼠脑细胞的全脑 CRISPR atlas，32 分钟内完成分析与文献解读，并称人工逐一分析需数月至一年。 🔗 阅读原文 via AIHOT · https://aihot.news/items/indtvl01y865vrsp81h64q7j4
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 04:32]
 标题: WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺
@@ -123,15 +148,15 @@
 链接: https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j
 正文: Tessl 博客引用 Jellyfish 2026 年 9 月 AI Engineering Trends 数据指出，中位数公司已有 22% 的合并 PR 由自主编码 Agent 撰写（90 分位达 53%），但仅约 0.6% 的 PR 由 Agent 评审合并（前 10% 公司为 9%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 12:32]
-标题: 美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器
-链接: https://aihot.news/items/u6kqfrgiqrhbpxn012nlisd66
-正文: 据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u6kqfrgiqrhbpxn012nlisd66
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-21 15:30]
+标题: Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge
+链接: https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html
+正文: Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 12:00]
-标题: llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪
-链接: https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd
-正文: IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-21 11:49]
+标题: Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more
+链接: https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 22:55]
 标题: Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more
@@ -148,10 +173,10 @@
 链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html
 正文: These are the stocks posting the largest moves in early trading.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-21 10:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-21 15:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-21 10:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-21 15:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
