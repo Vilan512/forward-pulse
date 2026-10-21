@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-21 15:45:19
-# 共计 37 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-21 19:47:56
+# 共计 36 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-21 12:10]
 标题: The Download: introducing the Impossible issue
@@ -51,22 +51,36 @@
 链接: https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/
 正文: When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into Boston Harbor in 1773.&nbsp; But after a year of research, Brown reached a different conclusion: The label was made nearly a century later. The decisive clue came when he read the Chinese text in Cantonese rather than Mandarin, as previous scholars had done. He found that the characters had been used phonetically, in slightly variant forms across contemporary sources, to represent the name of Smith, Archer &amp; Co., a US firm that acquired Asian tea for shipment to American markets during the 1860s and 1870s. COURTESY OF MIT GLOBAL HUMANITIES Working with the Wells family, he traced the label to a relative who traveled from Michigan to California during the Gold Rush era before returning and operating a business known as the California Tea Store. Brown argues that claims for its revolutionary pedigree probably developed later, amid the centennial commemorations of the 1870s. The discovery does not make the label historically insignificant, he says. Instead, what began as an inquiry into a supposed artifact of the Boston Tea Party became a study of how ordinary objects acquire historical authority, and how historical memory itself is made. “History is never finished,” he says. “Even objects that have sat in museums for decades can reveal entirely new stories when we ask new questions.”&nbsp;
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 18:26]
+标题: NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required
+链接: https://huggingface.co/blog/nvidia/kumo-relational
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 17:35]
+标题: How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications
+链接: https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 16:04]
+标题: Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.
+链接: https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 14:58]
 标题: Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
 链接: https://huggingface.co/blog/ibm-granite/granite-speech-5
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 12:51]
-标题: NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability
-链接: https://huggingface.co/blog/nvidia/kumo-forecast
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 17:40]
+标题: 研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞
+链接: https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e
+正文: AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。 🔗 阅读原文 via AIHOT · https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-20 16:09]
-标题: FairStress: A deeper evaluation of fairness in LLM decision-making
-链接: https://huggingface.co/blog/allenai/fairstress
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 16:35]
+标题: OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响
+链接: https://aihot.news/items/b31hjqo2l088vfydp5gcdyv8p
+正文: OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b31hjqo2l088vfydp5gcdyv8p
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 14:04]
-标题: OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞
-链接: https://aihot.news/items/bavicabx07y6kwr5x5r3se8g4
-正文: OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bavicabx07y6kwr5x5r3se8g4
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 16:00]
+标题: Microsoft Research 与合作者证明 31 年历史的 KLS 猜想
+链接: https://aihot.news/items/y1fd2c0s3ydociygdah7apvme
+正文: Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，表明对数凹分布的最优平面切割与任意形状切割的差距不随维度增长，以普适常数为界。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y1fd2c0s3ydociygdah7apvme
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:57]
 标题: OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件
@@ -79,9 +93,9 @@
 正文: Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rmwtbq3o8rnr9kfjbgric6qew
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:43]
-标题: ChinaTalk 解读中国商务部 AI 技术出口管制新规草案
+标题: ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响
 链接: https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
-正文: 中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
+正文: ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。 🔗 阅读原文 via AIHOT · https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 13:30]
 标题: Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站
@@ -92,6 +106,11 @@
 标题: OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden
 链接: https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r
 正文: OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 07:00]
+标题: OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复
+链接: https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0
+正文: OpenAI 宣布在过去两个月牵头维护者、研究者与安全厂商联盟，修复 PHP 的关键漏洞，其中 Calif 用 GPT-5.6 Sol 发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞，PHP 维护者主导修复和发布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 04:50]
 标题: SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源
@@ -114,6 +133,11 @@
 正文: OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 00:00]
+标题: Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当
+链接: https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj
+正文: Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于&quot;盲扫&quot;超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 00:00]
 标题: 蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming
 链接: https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q
 正文: 蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github.com/vllm-project/humming。 🔗 阅读原文 via AIHOT · https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q
@@ -127,26 +151,6 @@
 标题: SpaceX 财报显示 AI 业务超预期，占收入 52%
 链接: https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb
 正文: SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 17:42]
-标题: fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一
-链接: https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty
-正文: fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 16:34]
-标题: Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理
-链接: https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j
-正文: Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 16:00]
-标题: Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端
-链接: https://aihot.news/items/lh8vm7yp332xoffhqoscusss4
-正文: Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(&quot;cuda&quot;) 改为 .to(&quot;tpu&quot;)。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lh8vm7yp332xoffhqoscusss4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-20 16:00]
-标题: 编程 Agent 增长遭遇人类评审瓶颈：Tessl 博客解析信任赤字
-链接: https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j
-正文: Tessl 博客引用 Jellyfish 2026 年 9 月 AI Engineering Trends 数据指出，中位数公司已有 22% 的合并 PR 由自主编码 Agent 撰写（90 分位达 53%），但仅约 0.6% 的 PR 由 Agent 评审合并（前 10% 公司为 9%）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-21 15:30]
 标题: Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge
@@ -163,20 +167,10 @@
 链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html
 正文: Here are some of the companies making headlines after the closing bell.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 16:45]
-标题: Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more
-链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html
-正文: These are the stocks posting the largest moves midday.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 16:35]
-标题: Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more
-链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html
-正文: These are the stocks posting the largest moves in early trading.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-21 15:45]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-21 19:47]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-21 15:45]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-21 19:47]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
