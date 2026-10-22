@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-22 17:45:12
-# 共计 28 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-22 20:59:54
+# 共计 33 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 18:48]
+标题: The Foundations of Scalable AI
+链接: https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/
+正文: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard&#8217;s Center for AI &amp; Insights (CAI), advancing the firm&#8217;s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard&#8217;s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 12:10]
 标题: The Download: computing’s next leap and permafrost’s climate threat
@@ -29,9 +34,20 @@
 标题: Ensemble forecasting with IBM Granite time-series models
 链接: https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 18:26]
-标题: NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required
-链接: https://huggingface.co/blog/nvidia/kumo-relational
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:04]
+标题: Claude 网页、桌面和移动端将默认启用 auto mode
+链接: https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
+正文: Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 19:00]
+标题: OpenAI 正式发布 Decisions API，面向低延迟低成本小决策
+链接: https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
+正文: OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 18:01]
+标题: Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science
+链接: https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u
+正文: Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 15:53]
 标题: Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%
@@ -128,10 +144,20 @@
 链接: https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2
 正文: The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 17:45]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
+标题: Focus, scale, fund: The AI playbook CPG leaders are missing
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing
+正文: Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
+标题: Federal permitting’s uneven economic impact, and what companies can do about it
+链接: https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it
+正文: Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 20:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 17:45]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 20:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
