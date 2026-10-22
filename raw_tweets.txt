@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-21 22:54:38
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-22 01:06:07
+# 共计 31 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-21 12:10]
 标题: The Download: introducing the Impossible issue
@@ -56,6 +56,16 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-21 14:58]
 标题: Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
 链接: https://huggingface.co/blog/ibm-granite/granite-speech-5
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 00:06]
+标题: 卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
+链接: https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
+正文: 作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 17:59]
+标题: OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线
+链接: https://aihot.news/items/hhfrsh3lfmud3u56r6ozp64oa
+正文: NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hhfrsh3lfmud3u56r6ozp64oa
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 17:40]
 标题: 研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞
@@ -122,21 +132,6 @@
 链接: https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv
 正文: OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 00:00]
-标题: Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当
-链接: https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj
-正文: Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于&quot;盲扫&quot;超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 00:00]
-标题: Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作
-链接: https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx
-正文: Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-21 00:00]
-标题: 蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming
-链接: https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q
-正文: 蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github.com/vllm-project/humming。 🔗 阅读原文 via AIHOT · https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-21 15:30]
 标题: Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge
 链接: https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html
@@ -147,15 +142,10 @@
 链接: https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html
 正文: These are the stocks posting the largest moves premarket.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-10-20 22:55]
-标题: Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more
-链接: https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html
-正文: Here are some of the companies making headlines after the closing bell.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-21 22:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 01:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-21 22:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 01:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
