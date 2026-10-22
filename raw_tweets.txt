@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-22 20:59:54
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-22 23:55:03
+# 共计 37 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 21:17]
+标题: Designing an AI serving harness built to last
+链接: https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/
+正文: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management, scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability. For technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it. Start with the workload, not the model There is no universally “best” model or AI architecture. There is only the right solution for the business problem. A customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures. The workload defines the constraints. The constraints should determine the architecture. That sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic. A model that produces marginally better 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 18:48]
 标题: The Foundations of Scalable AI
@@ -26,6 +31,10 @@
 链接: https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/
 正文: Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure planning. As inference scales, the data footprint grows with it Traditionally, AI infrastructure conversations have centered on the compute-intensive process of training a model. Training is finite: a run starts, burns through compute, and ends. But inference runs continuously, every time a model answers a prompt. For infrastructure planning, that difference matters: A training run is a project you can budget for and retire. Inference doesn’t retire; every inference request leaves something behind. Take AI-generated video. In this workload, the back-end spend can be significant. From internal measurements, WD found that an 8-second clip (returned to a user as a 3.97MB 720p file) left more than 500MB of associated data behind on the back end, including logs, cached context, immediate renders, backups, and safety records. That’s a 130x increase over the output file size the user saw. Scale this to an enterprise generating longer, higher resolution video and the back-end footprint grows into the hundreds of gigabytes per clip. And that back-end footprint is growing fast. McKinsey projects AI inference demand will grow at a 35% CAGR through 2030, versus 22% for training, making up more than 40% of total data center demand by the end of the decade. A recent WD-sponsored IDC global white paper that surveyed 763 IT and business decision makers found that nearly 95% of respondents reported an increase in data volume due to generative AI over the past 12 months, with roughly 61% reporting gr
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-22 22:24]
+标题: Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
+链接: https://huggingface.co/blog/microsoft/thinkingbox-training
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-22 16:11]
 标题: OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
 链接: https://huggingface.co/blog/allenai/olmoearth-v1-3
@@ -34,10 +43,20 @@
 标题: Ensemble forecasting with IBM Granite time-series models
 链接: https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:24]
+标题: Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体
+链接: https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb
+正文: Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:04]
 标题: Claude 网页、桌面和移动端将默认启用 auto mode
 链接: https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
 正文: Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 19:45]
+标题: The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑
+链接: https://aihot.news/items/w7axcg0e1y7uoyro92cmanong
+正文: The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w7axcg0e1y7uoyro92cmanong
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 19:00]
 标题: OpenAI 正式发布 Decisions API，面向低延迟低成本小决策
@@ -135,6 +154,11 @@
 正文: Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
+标题: Focus, scale, fund: The AI playbook CPG leaders are missing
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing
+正文: Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
 标题: Asia’s energy reckoning: Securing the energy system to drive growth
 链接: https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth
 正文: Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.
@@ -145,19 +169,14 @@
 正文: The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: Focus, scale, fund: The AI playbook CPG leaders are missing
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing
-正文: Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
 标题: Federal permitting’s uneven economic impact, and what companies can do about it
 链接: https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it
 正文: Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 20:59]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 23:55]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 20:59]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 23:55]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
