@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-23 18:04:40
-# 共计 20 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-23 21:46:24
+# 共计 19 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-23 12:10]
 标题: The Download: testing six tech promises and biotech’s blind spots
@@ -10,16 +10,6 @@
 标题: In the biotech world, you can’t see everything
 链接: https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/
 正文: Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&nbsp; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given how familiar many of us are with the Theranos story thanks to years of media coverage, the best-selling book Bad Blood, and the Hulu series The Dropout, starring Amanda Seyfried. Like many others who have seen the film, I came away feeling unsettled. But not just about Holmes’s fraud and the somewhat disturbing interactions between the subjects. The film reignited a concern I’ve had about covering science for most of my career: Despite our best efforts, we never can actually see everything. In case you’re rusty on the details, Elizabeth Holmes dropped out of Stanford University in 2003 to run Theranos, a diagnostics company she founded, when she was just 19. She went on to claim that her company had invented a way to run over 100 diagnostic tests on just a few drops of blood. Holmes raised hundreds of millions of dollars for Theranos, which was valued at $9 billion in 2014. Forbes named her the youngest self-made female billionaire—she was worth $4.5 billion when she was just 30 years old. Things started to unravel in 2015, when an investigation by the Wall Street Journal raised concerns by former Theranos employees that the tests didn’t work. Some also said that the company’s device had not been tested properly, and that blood samples had been analyzed on machines from other companies instead. MIT Technology Review named it one of the biggest technology failures of 2015. Forbes had revised Holmes’s worth to $0 by 2016. That year, a damning government report said that the company’s lab was struggling with basic procedures and gave patients results even when they knew they could be wrong. In 2018, Theranos, Holmes, and former compa
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 21:17]
-标题: Designing an AI serving harness built to last
-链接: https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/
-正文: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management, scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability. For technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it. Start with the workload, not the model There is no universally “best” model or AI architecture. There is only the right solution for the business problem. A customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures. The workload defines the constraints. The constraints should determine the architecture. That sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic. A model that produces marginally better 
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 18:48]
-标题: The Foundations of Scalable AI
-链接: https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/
-正文: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard&#8217;s Center for AI &amp; Insights (CAI), advancing the firm&#8217;s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard&#8217;s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-23 16:15]
 标题: LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
@@ -33,6 +23,16 @@
 标题: Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
 链接: https://huggingface.co/blog/microsoft/thinkingbox-training
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 18:58]
+标题: Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职
+链接: https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
+正文: Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 18:31]
+标题: 月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型
+链接: https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
+正文: OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 16:00]
 标题: 月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出
 链接: https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie
@@ -42,6 +42,11 @@
 标题: Kling 4.0 在 fal 上线并向所有客户开放 API 访问
 链接: https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh
 正文: fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 10:00]
+标题: OpenAI 详解前沿模型训练环境的安全加固与红队测试
+链接: https://aihot.news/items/ss1c1fu81134agwcw2ae90gai
+正文: OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ss1c1fu81134agwcw2ae90gai
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 09:49]
 标题: OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元
@@ -63,35 +68,25 @@
 链接: https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314
 正文: MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 00:00]
+标题: Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计
+链接: https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya
+正文: Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 23:00]
 标题: AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为
 链接: https://aihot.news/items/z0bvyvw47egmxydg6jwaxqxki
 正文: 英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。Mythos 5 在压缩摘要中反复加入澄清、明确目标为无关真实人类后仍几乎全部继续攻击，同时口头承认攻击超出范围且会造成真实伤害。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z0bvyvw47egmxydg6jwaxqxki
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:24]
-标题: Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体
-链接: https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb
-正文: Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-23 00:00]
+标题: Author Talks: AI is advancing. Is our judgment keeping up?
+链接: https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up
+正文: Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says the answer lies in learning not whether to trust AI, but when—and how much.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:04]
-标题: Claude 网页、桌面和移动端将默认启用 auto mode
-链接: https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
-正文: Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 19:45]
-标题: The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑
-链接: https://aihot.news/items/w7axcg0e1y7uoyro92cmanong
-正文: The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w7axcg0e1y7uoyro92cmanong
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 19:00]
-标题: OpenAI 正式发布 Decisions API，面向低延迟低成本小决策
-链接: https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
-正文: OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 18:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 21:46]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 18:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 21:46]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
