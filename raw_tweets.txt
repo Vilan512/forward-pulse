@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-23 02:39:47
-# 共计 29 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-23 08:06:43
+# 共计 24 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 21:17]
 标题: Designing an AI serving harness built to last
@@ -39,9 +39,10 @@
 标题: OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
 链接: https://huggingface.co/blog/allenai/olmoearth-v1-3
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-22 07:51]
-标题: Ensemble forecasting with IBM Granite time-series models
-链接: https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 06:04]
+标题: WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员
+链接: https://aihot.news/items/mc8widr5lukck9npmgeat917x
+正文: 据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mc8widr5lukck9npmgeat917x
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 01:06]
 标题: MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B
@@ -108,35 +109,10 @@
 链接: https://aihot.news/items/r557iovkk5v7ddt8py86ejctv
 正文: Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r557iovkk5v7ddt8py86ejctv
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 06:32]
-标题: Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图
-链接: https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v
-正文: OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 05:36]
-标题: Kling 4.0 现已上线 OnSolo
-链接: https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5
-正文: 可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 05:13]
-标题: NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告
-链接: https://aihot.news/items/eme8i9igoadxb3beb902byfz0
-正文: NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eme8i9igoadxb3beb902byfz0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 03:16]
-标题: WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并
-链接: https://aihot.news/items/nag5wgod0havrmodeo75pwnge
-正文: WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nag5wgod0havrmodeo75pwnge
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 03:13]
-标题: Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元
-链接: https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
-正文: 据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 02:39]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 08:06]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 02:39]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 08:06]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
