@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-23 13:57:21
-# 共计 25 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-23 18:04:40
+# 共计 20 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-23 12:10]
 标题: The Download: testing six tech promises and biotech’s blind spots
@@ -21,6 +21,10 @@
 链接: https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/
 正文: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard&#8217;s Center for AI &amp; Insights (CAI), advancing the firm&#8217;s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard&#8217;s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-23 16:15]
+标题: LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
+链接: https://huggingface.co/blog/allenai/litpivot
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-23 00:00]
 标题: Does Your Model Run on AWS Trainium? Look It Up
 链接: https://huggingface.co/blog/torch-neuronx-model-support
@@ -29,9 +33,15 @@
 标题: Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
 链接: https://huggingface.co/blog/microsoft/thinkingbox-training
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-22 16:11]
-标题: OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
-链接: https://huggingface.co/blog/allenai/olmoearth-v1-3
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 16:00]
+标题: 月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出
+链接: https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie
+正文: 月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。 🔗 阅读原文 via AIHOT · https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 15:00]
+标题: Kling 4.0 在 fal 上线并向所有客户开放 API 访问
+链接: https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh
+正文: fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 09:49]
 标题: OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元
@@ -78,45 +88,10 @@
 链接: https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
 正文: OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 18:01]
-标题: Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science
-链接: https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u
-正文: Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 16:00]
-标题: Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为
-链接: https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro
-正文: Anthropic 发布对 Claude Mythos 5 对齐问题的评估报告。 🔗 阅读原文 via AIHOT · https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 15:53]
-标题: Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%
-链接: https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4
-正文: Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。 🔗 阅读原文 via AIHOT · https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 15:32]
-标题: METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞
-链接: https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7
-正文: METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 15:25]
-标题: PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应
-链接: https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46
-正文: PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 14:23]
-标题: 404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局
-链接: https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum
-正文: 404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的&quot;Black October&quot;恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 14:02]
-标题: Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息
-链接: https://aihot.news/items/fjyan16f0mvfywabd78m70hv3
-正文: Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fjyan16f0mvfywabd78m70hv3
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 13:57]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 18:04]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 13:57]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 18:04]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
