@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-22 23:55:03
-# 共计 37 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-23 02:39:47
+# 共计 29 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-22 21:17]
 标题: Designing an AI serving harness built to last
@@ -42,6 +42,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-22 07:51]
 标题: Ensemble forecasting with IBM Granite time-series models
 链接: https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 01:06]
+标题: MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B
+链接: https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314
+正文: MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 20:24]
 标题: Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体
@@ -128,55 +133,10 @@
 链接: https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
 正文: 据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 02:33]
-标题: AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘
-链接: https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x
-正文: 作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 02:17]
-标题: 消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO
-链接: https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek
-正文: 据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 00:06]
-标题: 卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月
-链接: https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
-正文: 作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-22 00:00]
-标题: Anthropic 指南：何时把子智能体合并进主 Agent 循环
-链接: https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il
-正文: Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: The State of Grocery Retail Europe: Implications for packaging players
-链接: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players
-正文: Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: Focus, scale, fund: The AI playbook CPG leaders are missing
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing
-正文: Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: Asia’s energy reckoning: Securing the energy system to drive growth
-链接: https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth
-正文: Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2
-链接: https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2
-正文: The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-22 00:00]
-标题: Federal permitting’s uneven economic impact, and what companies can do about it
-链接: https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it
-正文: Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-22 23:55]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-23 02:39]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-22 23:55]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-23 02:39]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
