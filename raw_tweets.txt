@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-24 17:43:41
-# 共计 8 条来自 3 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-24 19:59:57
+# 共计 6 条来自 3 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-24 14:30]
 标题: Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视
@@ -21,20 +21,10 @@
 链接: https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
 正文: OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 18:58]
-标题: Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职
-链接: https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
-正文: Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 18:31]
-标题: 月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型
-链接: https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
-正文: OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-24 17:43]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-24 19:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-24 17:43]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-24 19:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
