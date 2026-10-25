@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-24 22:18:32
-# 共计 6 条来自 3 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-25 00:42:08
+# 共计 5 条来自 3 个信息源
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-24 14:30]
 标题: Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视
@@ -16,15 +16,10 @@
 链接: https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s
 正文: 月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-23 22:55]
-标题: OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露
-链接: https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
-正文: OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-24 22:18]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-25 00:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-24 22:18]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-25 00:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
