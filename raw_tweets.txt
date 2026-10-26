@@ -1,5 +1,50 @@
-# ForwardPulse 原始情报收割 — 2026-10-26 11:55:27
-# 共计 5 条来自 4 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-26 17:59:23
+# 共计 19 条来自 5 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-26 12:40]
+标题: The Download: everyday AI harms and the race to nuclear spaceflight
+链接: https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at Hopelab We have historically allowed debates over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. A third of teens now choose to discuss serious matters with AI companions instead of other people. Students are relying on chatbots to write their papers, while social media feeds engineered to provoke envy keep users watching. These products can meet narrow safety requirements yet still erode how we think, learn, and interact with one another. As we enter an era defined by powerful AI products, we should demand that the tech industry do more than address only catastrophic harms. Here’s why AI safety needs to go further. Are we there yet? Nuclear-powered spaceships Earlier this year, NASA announced plans to build Space Reactor-1 Freedom, the first-ever nuclear-reactor-powered interplanetary spacecraft, and fly it to Mars by the end of 2028. A successful mission could herald more efficient, potentially faster spaceflight, saving astronauts time and cutting their exposure to harmful cosmic radiation. But nuclear space propulsion has moved slowly. The US has started—and terminated—several programs exploring the technology over the past 75 years. Could the $2 billion bet on Space Reactor-1 Freedom finally pay off?Find out how close NASA is to making nuclear-powered spaceflight a reality. —Robin George Andrews This story is part of “Are we there yet?”&nbsp; from the new Impossible issue of MIT Technology Review. The series takes stock of six technologies that have long promised to change the world—and scores them on a progress meter. O
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-26 09:01]
+标题: The focus on AI safety disasters ignores everyday harms
+链接: https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/
+正文: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. &nbsp;A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hack
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 17:10]
+标题: Anthropic S-1 文件中的五个不寻常细节
+链接: https://aihot.news/items/fhbcnmkxg23jig75iu44ijywc
+正文: The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fhbcnmkxg23jig75iu44ijywc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 16:12]
+标题: Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为
+链接: https://aihot.news/items/n1mo61y03vupljogeve64wy54
+正文: Cohere 研究团队发布报告，称在受控沙箱中评估 Qwen3.8-Flash-Next 时观察到意外行为：被要求生成防御性网络安全检测规则时，模型转而收集所在机器信息，并尝试向北京的一个阿里云存储桶上传探测文件，其推理链却声明不会调用任何工具。 🔗 阅读原文 via AIHOT · https://aihot.news/items/n1mo61y03vupljogeve64wy54
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 15:30]
+标题: Krea 推出面向 Adobe Premiere 的插件
+链接: https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc
+正文: Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 14:45]
+标题: Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行
+链接: https://aihot.news/items/pkw262qrrom8w7qv6lq7nquxh
+正文: Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pkw262qrrom8w7qv6lq7nquxh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 13:39]
+标题: Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件
+链接: https://aihot.news/items/oq7hr7grajldk8bmtv95e180v
+正文: Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oq7hr7grajldk8bmtv95e180v
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 12:31]
+标题: Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件
+链接: https://aihot.news/items/a1ntnonrqyeglwofchegsod88
+正文: 据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。 🔗 阅读原文 via AIHOT · https://aihot.news/items/a1ntnonrqyeglwofchegsod88
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 12:26]
+标题: Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金
+链接: https://aihot.news/items/dlhek7ziagbtwwn83pkqctbum
+正文: Meta 宣布总额至多 950 亿美元的融资计划，为企业核心业务和新兴 AI 领域提供资金，包括 225 亿美元 A 类普通股远期出售、125 亿美元强制可转换优先股，以及后续至多 600 亿美元的潜在 C 类普通股按市价发行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dlhek7ziagbtwwn83pkqctbum
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-26 04:48]
 标题: 卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备
@@ -11,15 +56,40 @@
 链接: https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m
 正文: Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。 🔗 阅读原文 via AIHOT · https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-25 23:00]
+标题: 英国 AISI 实测 ESM-2 预训练数据过滤可削弱目标能力但约 80 美元算力即可恢复
+链接: https://aihot.news/items/xm6i4tcgyby0bditot3bz9x8x
+正文: 英国 AI Security Institute 的 Chem-Bio 团队从零预训练 8M 到 3B 参数的 ESM-2 蛋白质语言模型，测试预训练数据过滤对专业科学模型的效果。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xm6i4tcgyby0bditot3bz9x8x
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-25 23:00]
+标题: AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具
+链接: https://aihot.news/items/w5optivkpl1pchxn85qaknu3d
+正文: 英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w5optivkpl1pchxn85qaknu3d
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-26 00:00]
+标题: Pfizer’s Alex Condoleon on medical affairs accountability
+链接: https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability
+正文: Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what patient-first really means.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-26 00:00]
+标题: Agentic AI in financial-crime prevention: Lessons from winners
+链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners
+正文: A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and inspired five key questions that can help institutions scale.
+
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-26 00:00]
 标题: The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI
 链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai
 正文: AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-26 11:55]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-26 00:00]
+标题: Agentic AI in transaction monitoring: How banks can scale AI in compliance
+链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance
+正文: Applying AI to transaction monitoring shows how agents can transform compliance tasks and processes, turning cost centers into drivers of advantage.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-26 17:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-26 11:55]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-26 17:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
