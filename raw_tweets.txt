@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-10-28 16:54:12
-# 共计 23 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-28 21:26:55
+# 共计 29 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 20:32]
+标题: Creating AI value with enterprise context
+链接: https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
+正文: Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. DOWNLOAD THE REPORT An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all. Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes. “There’s a big gap between what the models are capable of and how the models are actually being useful inside organizations,” says Prukalpa Sankar, co-founder of Atlan. “For every real-life intent and purpose, artificial general intelligence is already here. It’s just not really useful in most companies today.” The missing layer, Sankar says, is context, or how well AI understands a business. A context layer is the architectural infrastructure that sits between an organization’s business systems (for example, systems of record and data, and its AI platforms). It translates enterprise intelligence into governed, machine-usable context for AI agents or models and helps knowledge compound. “Without a context layer for 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 12:10]
 标题: The Download: dead startups fueling AI and interspecies communication
@@ -14,9 +19,40 @@
 标题: NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt
 链接: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-27 17:16]
-标题: Build specialized multimodal models with LFM3
-链接: https://huggingface.co/blog/LiquidAI/lfm3
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 20:05]
+标题: Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%
+链接: https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
+正文: Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:51]
+标题: Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性
+链接: https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas
+正文: Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:11]
+标题: Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft
+链接: https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8
+正文: Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:09]
+标题: 犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code
+链接: https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm
+正文: Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:01]
+标题: Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先
+链接: https://aihot.news/items/hoim4l9scskfj0obspicyucpw
+正文: Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hoim4l9scskfj0obspicyucpw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:00]
+标题: Google DeepMind 发布 Gemini 4 Carbon 前沿模型
+链接: https://aihot.news/items/fjeloaahylonpc0pv5tduusud
+正文: Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fjeloaahylonpc0pv5tduusud
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:51]
+标题: Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发
+链接: https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v
+正文: Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:09]
 标题: GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品
@@ -42,6 +78,11 @@
 标题: Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一
 链接: https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg
 正文: 网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 10:00]
+标题: OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式
+链接: https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr
+正文: OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。 🔗 阅读原文 via AIHOT · https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 09:32]
 标题: Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字
@@ -78,16 +119,6 @@
 链接: https://aihot.news/items/o5s4s2z9njz29hgd7im06gzrf
 正文: 作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/o5s4s2z9njz29hgd7im06gzrf
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-27 20:00]
-标题: Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成
-链接: https://aihot.news/items/t13kjmoalf8m0luymjchvrysk
-正文: Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t13kjmoalf8m0luymjchvrysk
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-27 17:31]
-标题: Azeem Azhar 图解 Anthropic S-1 财务数据
-链接: https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn
-正文: Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-28 00:00]
 标题: Rewiring securities services for a new era of competition and growth
 链接: https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth
@@ -103,10 +134,10 @@
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce
 正文: Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and evolving, with early evidence showing companies are not yet equipped to meet the rising demand.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-28 16:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-28 21:26]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-28 16:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-28 21:26]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
