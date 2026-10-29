@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-29 19:58:28
-# 共计 32 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-29 23:48:18
+# 共计 33 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 12:10]
 标题: The Download: AI agent tracking and climate feedback loops
@@ -16,11 +16,6 @@
 链接: https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/
 正文: Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of observations and studies are at last providing a sharper sense of just how powerful these cascading effects could be. And, by extension, they’re showing how much faster the planet may warm in this century. A study in Environmental Research Letters in September, synthesizing the results of previous papers, found that the additional carbon dioxide and methane released from thawing permafrost, intensifying wildfires, hotter lakes and reservoirs, and wetter, warmer wetlands alone could drive global average temperatures up 0.2 °C to 0.4 °C this century. That would come on top of the 2.6°C of warming above preindustrial levels that modelers are already expecting through 2100. The additional heat could subject many of the world’s cities to monthslong heat waves and expose hundreds of millions of people to flooding.&nbsp; None of the models that inform the major UN climate reports, which assess how much the planet will likely warm under various emissions scenarios, account for all these feedback effects. Many of them don’t incorporate any. That leaves a huge blind spot in our understanding of how much the world could actually warm in the coming decades—and how rapidly nations will need to slash emissions to stay within critical boundaries. A separate analysis published in One Earth in March, which examined what the feedback problem means for our international climate goals, concluded that the world may be much further off track than is widely believed. It found that just three regional sources of warming-driven emissions—thawing permafrost, increasing fires in boreal forests, and warming tropical wet
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 20:32]
-标题: Creating AI value with enterprise context
-链接: https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
-正文: Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. DOWNLOAD THE REPORT An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all. Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes. “There’s a big gap between what the models are capable of and how the models are actually being useful inside organizations,” says Prukalpa Sankar, co-founder of Atlan. “For every real-life intent and purpose, artificial general intelligence is already here. It’s just not really useful in most companies today.” The missing layer, Sankar says, is context, or how well AI understands a business. A context layer is the architectural infrastructure that sits between an organization’s business systems (for example, systems of record and data, and its AI platforms). It translates enterprise intelligence into governed, machine-usable context for AI agents or models and helps knowledge compound. “Without a context layer for 
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 13:37]
 标题: Granite Switch 4.1.1 — Update models like you update software
 链接: https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
@@ -36,6 +31,21 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
 标题: Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms
 链接: https://huggingface.co/blog/anydecisionmodel
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 21:00]
+标题: Figma 讲解如何训练专用画布编辑模型
+链接: https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg
+正文: Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 20:08]
+标题: Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑
+链接: https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec
+正文: Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。 🔗 阅读原文 via AIHOT · https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 20:07]
+标题: Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型
+链接: https://aihot.news/items/eq47lph0rzobf8cr950saiu8r
+正文: Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eq47lph0rzobf8cr950saiu8r
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 19:10]
 标题: Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧
@@ -122,15 +132,10 @@
 链接: https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z
 正文: OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 22:35]
-标题: Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链
-链接: https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn
-正文: Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 20:05]
-标题: Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%
-链接: https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
-正文: Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness
+链接: https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v
+正文: Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
 标题: Global Economics Intelligence executive summary, September 2026
@@ -138,19 +143,19 @@
 正文: Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
-标题: The algorithm isn’t the advantage–the team is
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is
-正文: FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
 标题: Banking on AI: How a new operating model can transform distressed credit management
 链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management
 正文: Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 19:58]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
+标题: The algorithm isn’t the advantage–the team is
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is
+正文: FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 23:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 19:58]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 23:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
