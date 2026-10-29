@@ -1,28 +1,76 @@
-# ForwardPulse 原始情报收割 — 2026-10-29 07:50:43
-# 共计 24 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-29 14:48:11
+# 共计 33 条来自 6 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 12:10]
+标题: The Download: AI agent tracking and climate feedback loops
+链接: https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI agents are taking unauthorized actions, from hacking websites to accessing private government files. In many cases, they’ve eluded the very researchers and safety teams tasked with monitoring them.&nbsp; As agents roll out across critical sectors, from finance to government to medicine, we must be able to monitor them in real time to prevent potentially devastating consequences. And while safety depends on monitoring, monitoring requires observability. ​​In other words, we need to know what the agent did and why it did it. Because right now, we’re effectively flying blind when deploying these tools.&nbsp; Here’s what needs to change. Our climate models have a big, dangerous blind spot Climate change itself increasingly fuels climate change. Rising greenhouse gas concentrations are driving up global temperatures, creating dangerous feedback loops that aren’t fully represented in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming. Now, a growing number of observations and studies are indicating how powerful these cascading effects could be. By extension, they’re also showing how much faster the planet may warm this century. Read more about the dangerous feedback loops accelerating global warming. —James Temple This article is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. Are we there yet? Solid-state batteries&nbsp; Lithium-ion batteries power everything from personal electronics to grid-scale energy storage, but their liquid electrolytes have drawbacks, not least a troubling tendency to catch fire. 
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 10:11]
+标题: We urgently need to monitor AI agents’ actions in real time
+链接: https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
+正文: This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem that’s by no means confined to OpenAI. In the months since, Anthropic, Google, and Meta have also disclosed incidents in which their agents have gone off track. And worryingly, in many cases the agents eluded the very researchers and safety teams tasked with monitoring them.&nbsp; AI agents are taking unauthorized actions, and the companies building and running them are mostly relying on luck and hindsight to mitigate any harmful impacts. They must do more to ensure safety. That’s why EU regulators and US agencies are rightfully calling for agent developers and deployers to monitor agents in real time. But these rules assume that companies can see what their agents are doing and why—when in reality, they lack sufficient visibility.&nbsp; Imagine a bank hiring a thousand new employees who can access customer accounts and sensitive information, but the employees’ ID badges change every day, it’s not clear whether a manager ever reviewed or authorized their work, and nobody logs the changes employees make to approval processes. That lack of visibility is where we are with agents today. As agents roll out across critical sectors, from finance to government to medicine, we must be able to monitor them in real time to prevent wide-ranging and potentially devastating consequences.&nbsp; And while safety depends on monitoring, monitoring requires observability: the capacity to capture what the system did, process it into signals, and present those to humans or automated oversight systems. In other words, we need to know what the agent did and why it did it. And as our recent research shows, current agent frameworks—the software that runs
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 10:00]
+标题: Our climate models have a big, dangerous blind spot
+链接: https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/
+正文: Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of observations and studies are at last providing a sharper sense of just how powerful these cascading effects could be. And, by extension, they’re showing how much faster the planet may warm in this century. A study in Environmental Research Letters in September, synthesizing the results of previous papers, found that the additional carbon dioxide and methane released from thawing permafrost, intensifying wildfires, hotter lakes and reservoirs, and wetter, warmer wetlands alone could drive global average temperatures up 0.2 °C to 0.4 °C this century. That would come on top of the 2.6°C of warming above preindustrial levels that modelers are already expecting through 2100. The additional heat could subject many of the world’s cities to monthslong heat waves and expose hundreds of millions of people to flooding.&nbsp; None of the models that inform the major UN climate reports, which assess how much the planet will likely warm under various emissions scenarios, account for all these feedback effects. Many of them don’t incorporate any. That leaves a huge blind spot in our understanding of how much the world could actually warm in the coming decades—and how rapidly nations will need to slash emissions to stay within critical boundaries. A separate analysis published in One Earth in March, which examined what the feedback problem means for our international climate goals, concluded that the world may be much further off track than is widely believed. It found that just three regional sources of warming-driven emissions—thawing permafrost, increasing fires in boreal forests, and warming tropical wet
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 20:32]
 标题: Creating AI value with enterprise context
 链接: https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
 正文: Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. DOWNLOAD THE REPORT An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all. Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes. “There’s a big gap between what the models are capable of and how the models are actually being useful inside organizations,” says Prukalpa Sankar, co-founder of Atlan. “For every real-life intent and purpose, artificial general intelligence is already here. It’s just not really useful in most companies today.” The missing layer, Sankar says, is context, or how well AI understands a business. A context layer is the architectural infrastructure that sits between an organization’s business systems (for example, systems of record and data, and its AI platforms). It translates enterprise intelligence into governed, machine-usable context for AI agents or models and helps knowledge compound. “Without a context layer for 
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 12:10]
-标题: The Download: dead startups fueling AI and interspecies communication
-链接: https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s since turned the company’s digital archives into tens of thousands of dollars, selling its codebase and workspace data. He’s part of a growing market in which companies that help shut down startups sell their data to AI labs. Demand has grown as training labs hit the limits of public and synthetic datasets, with buyers seeking real-world records to help train AI agents. But the sales raise legal and ethical questions. Read the full story on the AI labs buying up the remains of failed startups. —Matthew King Are we there yet? Interspecies communication&nbsp; Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us.&nbsp; Decoding how animals communicate with one another could reveal the inner lives of other species—and give humans a window onto how they see the world. A growing arsenal of devices and advances in AI have made it easier to study their howls, squeaks, and clicks, but making sense of it all remains complex. Find out how close we are to interspecies communication. —Cassandra Willyard This story is part of “Are we there yet?”, our series that takes stock of six technologies that have long promised to change the world—and scores them on a progress meter. We’re exploring each one in The Download, so stay tuned, and subscribe to read the rest of the stories in our new Impossible issue. MIT Technology Review Narrated: what it would take to build a city on the moon The US and China are racing to build bases on the moon, with NASA hoping to establish a small lunar city by the end of the century. But the moon is a tremendously hostile place to set up camp. A sprawling luna
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 13:37]
+标题: Granite Switch 4.1.1 — Update models like you update software
+链接: https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-28 12:00]
-标题: Pairing industrial AI autonomy and human control
-链接: https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: Welcome Le Chonk: Mistral Large 4 on Hugging Face
+链接: https://huggingface.co/blog/mistral-large4
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms
+链接: https://huggingface.co/blog/anydecisionmodel
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-28 14:58]
 标题: NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt
 链接: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:21]
+标题: 404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工
+链接: https://aihot.news/items/x7qd347blfo2409za7srbypzw
+正文: 404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x7qd347blfo2409za7srbypzw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:00]
+标题: SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账
+链接: https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9
+正文: The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 13:42]
+标题: 纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋
+链接: https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx
+正文: 据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 13:30]
+标题: The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进
+链接: https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9
+正文: The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。 🔗 阅读原文 via AIHOT · https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 10:16]
+标题: Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务
+链接: https://aihot.news/items/wry19y87ktlbmfwu581jjffj7
+正文: Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wry19y87ktlbmfwu581jjffj7
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 06:13]
 标题: Addy Osmani 谈你可能对 Claude 过度提示了
 链接: https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
 正文: Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型
+链接: https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi
+正文: Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
 标题: OpenRouter 教程：用 LLM 从 PDF 中抽取表格
@@ -89,30 +137,25 @@
 链接: https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v
 正文: OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 11:38]
-标题: 面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型
-链接: https://aihot.news/items/zd8g1y3609zl72lnwis70owqt
-正文: 面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zd8g1y3609zl72lnwis70owqt
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
+标题: The algorithm isn’t the advantage–the team is
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is
+正文: FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 10:56]
-标题: Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一
-链接: https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg
-正文: 网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。 🔗 阅读原文 via AIHOT · https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
+标题: Global Economics Intelligence executive summary, September 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
+正文: Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 10:00]
-标题: OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式
-链接: https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr
-正文: OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。 🔗 阅读原文 via AIHOT · https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
+标题: Banking on AI: How a new operating model can transform distressed credit management
+链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management
+正文: Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 09:32]
-标题: Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字
-链接: https://aihot.news/items/gxwqce1swocfo9bp3dgqy3dnj
-正文: Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gxwqce1swocfo9bp3dgqy3dnj
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 07:50]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 14:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 07:50]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 14:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
