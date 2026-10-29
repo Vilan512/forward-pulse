@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-29 14:48:11
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-29 19:58:28
+# 共计 32 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 12:10]
 标题: The Download: AI agent tracking and climate feedback loops
@@ -26,6 +26,10 @@
 链接: https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready
+链接: https://huggingface.co/blog/announcing-project-protostar
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
 标题: Welcome Le Chonk: Mistral Large 4 on Hugging Face
 链接: https://huggingface.co/blog/mistral-large4
 
@@ -33,14 +37,45 @@
 标题: Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms
 链接: https://huggingface.co/blog/anydecisionmodel
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-28 14:58]
-标题: NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt
-链接: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 19:10]
+标题: Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧
+链接: https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu
+正文: 作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 17:00]
+标题: 腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench
+链接: https://aihot.news/items/nb40aoihhydhoo0acp0rcyaol
+正文: 腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nb40aoihhydhoo0acp0rcyaol
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 17:00]
+标题: OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则
+链接: https://aihot.news/items/rccreyesa3aeph7jasj5spv29
+正文: OpenAI 更新其公开的 Model Spec，将指导原则重组为五项核心价值观：忠实于人类意图、最小化伤害、诚实透明、促进人类自主和关怀。更新新增了关于上下文理解、监督和自主性的指导，调整了部分行为默认值，退出了大部分详细风格指南，并将模型称呼从 the assistant 改为 GPT。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rccreyesa3aeph7jasj5spv29
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 16:56]
+标题: Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍
+链接: https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu
+正文: Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。 🔗 阅读原文 via AIHOT · https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 16:36]
+标题: Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能
+链接: https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h
+正文: Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:36]
+标题: Wiz 分析智能体攻击的七大指纹与发展趋势
+链接: https://aihot.news/items/mdcygre4ettjdbca7sq6vu7zx
+正文: Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mdcygre4ettjdbca7sq6vu7zx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:27]
+标题: Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型
+链接: https://aihot.news/items/rph54wkrnzjpvov4cv0mxqatl
+正文: Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rph54wkrnzjpvov4cv0mxqatl
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:21]
-标题: 404 Media 调查 Proton 内部 AI 转型：CEO Andy Yen 强推全面用 AI 并重面试员工
+标题: 404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化
 链接: https://aihot.news/items/x7qd347blfo2409za7srbypzw
-正文: 404 Media 采访八名在职和一名前 Proton 员工，并查阅 Slack 记录、会议录音和 CTO 的 AI 宣言，披露 CEO Andy Yen 强推 AI 导致的恐惧文化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x7qd347blfo2409za7srbypzw
+正文: 404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x7qd347blfo2409za7srbypzw
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 14:00]
 标题: SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账
@@ -62,10 +97,20 @@
 链接: https://aihot.news/items/wry19y87ktlbmfwu581jjffj7
 正文: Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wry19y87ktlbmfwu581jjffj7
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 09:00]
+标题: OpenAI 详解如何检测前沿模型失准行为
+链接: https://aihot.news/items/ck2bk0ns12i2hkg4ae0eoeabv
+正文: OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ck2bk0ns12i2hkg4ae0eoeabv
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 06:13]
 标题: Addy Osmani 谈你可能对 Claude 过度提示了
 链接: https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
 正文: Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
+标题: vLLM 发布 Mistral Large 4 Day 0 支持
+链接: https://aihot.news/items/x6x8nkxn5mqc55umit3clj1tf
+正文: vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x6x8nkxn5mqc55umit3clj1tf
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
 标题: Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型
@@ -87,55 +132,10 @@
 链接: https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
 正文: Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m5st8pvirbas7phreshbzkrc9
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:51]
-标题: Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性
-链接: https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas
-正文: Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:11]
-标题: Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft
-链接: https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8
-正文: Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:09]
-标题: 犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code
-链接: https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm
-正文: Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:01]
-标题: Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先
-链接: https://aihot.news/items/hoim4l9scskfj0obspicyucpw
-正文: Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hoim4l9scskfj0obspicyucpw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 17:00]
-标题: Google DeepMind 发布 Gemini 4 Carbon 前沿模型
-链接: https://aihot.news/items/fjeloaahylonpc0pv5tduusud
-正文: Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fjeloaahylonpc0pv5tduusud
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:51]
-标题: Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发
-链接: https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v
-正文: Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:09]
-标题: GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品
-链接: https://aihot.news/items/xonc43xgcx39303i40k8022rl
-正文: GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xonc43xgcx39303i40k8022rl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:07]
-标题: GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草
-链接: https://aihot.news/items/s3m3uzabqoxxed9ae50b73qvc
-正文: GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。 🔗 阅读原文 via AIHOT · https://aihot.news/items/s3m3uzabqoxxed9ae50b73qvc
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:00]
-标题: a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程
-链接: https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t
-正文: a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-28 16:00]
-标题: OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局
-链接: https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v
-正文: OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
+标题: Global Economics Intelligence executive summary, September 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
+正文: Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
 标题: The algorithm isn’t the advantage–the team is
@@ -143,19 +143,14 @@
 正文: FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
-标题: Global Economics Intelligence executive summary, September 2026
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
-正文: Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
 标题: Banking on AI: How a new operating model can transform distressed credit management
 链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management
 正文: Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 14:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 19:58]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 14:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 19:58]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
