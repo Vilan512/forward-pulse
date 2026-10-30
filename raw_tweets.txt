@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-10-29 23:48:18
-# 共计 33 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-10-30 03:40:29
+# 共计 26 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-10-29 12:10]
 标题: The Download: AI agent tracking and climate feedback loops
@@ -20,17 +20,20 @@
 标题: Granite Switch 4.1.1 — Update models like you update software
 链接: https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready
-链接: https://huggingface.co/blog/announcing-project-protostar
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-30 00:51]
+标题: Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络
+链接: https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj
+正文: Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: Welcome Le Chonk: Mistral Large 4 on Hugging Face
-链接: https://huggingface.co/blog/mistral-large4
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-30 00:00]
+标题: OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个
+链接: https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi
+正文: OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms
-链接: https://huggingface.co/blog/anydecisionmodel
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 23:42]
+标题: Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元
+链接: https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl
+正文: 亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 21:00]
 标题: Figma 讲解如何训练专用画布编辑模型
@@ -117,45 +120,10 @@
 链接: https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
 正文: Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: vLLM 发布 Mistral Large 4 Day 0 支持
-链接: https://aihot.news/items/x6x8nkxn5mqc55umit3clj1tf
-正文: vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x6x8nkxn5mqc55umit3clj1tf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型
-链接: https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi
-正文: Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。 🔗 阅读原文 via AIHOT · https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: OpenRouter 教程：用 LLM 从 PDF 中抽取表格
-链接: https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z
-正文: OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。 🔗 阅读原文 via AIHOT · https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-10-29 00:00]
-标题: Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness
-链接: https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v
-正文: Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
-标题: Global Economics Intelligence executive summary, September 2026
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
-正文: Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
-标题: Banking on AI: How a new operating model can transform distressed credit management
-链接: https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management
-正文: Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-10-29 00:00]
-标题: The algorithm isn’t the advantage–the team is
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is
-正文: FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-29 23:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-10-30 03:40]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-29 23:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-10-30 03:40]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
