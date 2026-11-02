@@ -1,25 +1,20 @@
-# ForwardPulse 原始情报收割 — 2026-11-01 23:24:22
-# 共计 5 条来自 3 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-02 03:34:30
+# 共计 4 条来自 3 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 00:19]
+标题: 数字生命卡兹克分享折腾一年的Agent自动化系统架构
+链接: https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier
+正文: 自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。系统分为自动化中台、Agent执行、CI中台和飞书决策四层：中台用rules.json统一管理事件触发和Agent调度，本地MacMini跑Agent任务，自建CI中台完成审查、检查、合并、发布、核实五步，只在删数据、花钱、改方向等关键决策时通过飞书卡片找作者拍板。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-01 20:09]
 标题: Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力
 链接: https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk
 正文: Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。他引用 @dmwlff 的帖子，其中提到 ultrathink 已回归 Claude Code CLI，此前因显得怪异且可能令人困惑曾被关闭。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-01 00:22]
-标题: OpenAI 12月起将ChatGPT与Codex合并为统一Token额度
-链接: https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp
-正文: 作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。作者回顾此前按条数计费的历史、一个月内Codex Pro额度先降后恢复的运营反复，以及社区在GitHub上提issue抗议的反应，认为合并与IPO预期下的算力成本压力有关。 🔗 阅读原文 via AIHOT · https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-01 00:00]
-标题: OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本
-链接: https://aihot.news/items/yww15c701iat30p8ttjf029ij
-正文: OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yww15c701iat30p8ttjf029ij
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-01 23:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-02 03:34]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-01 23:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-02 03:34]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
