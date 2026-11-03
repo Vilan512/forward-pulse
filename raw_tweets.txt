@@ -1,39 +1,51 @@
-# ForwardPulse 原始情报收割 — 2026-11-03 11:29:33
-# 共计 22 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-03 18:51:33
+# 共计 26 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-03 13:10]
+标题: The Download: controlling AI agents and “Super Intelligence” loyalty tests
+链接: https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. While game theory predicts how rational actors behave under particular rules, reverse game theory designs rules to elicit the behavior we want. Think of splitting a cake: if one person cuts it and the other gets first choice, the cutter has an incentive to make the portions equal. Researchers believe the approach could align AI more closely with our rules and instructions. But big questions remain about whether these mechanisms will work in practice. Here’s how reverse game theory could help make AI agents behave. —Amit Katwala Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test At the end of September, President Trump signed an executive order with just one directive: government agencies must rebrand artificial intelligence as “Super Intelligence.” One month on, the rebrand is slowly appearing across government websites and documents, but it hasn&#8217;t caught on with everyone. Even some of the biggest names in tech still use “AI.” But the bigger concern is the new term becoming a political loyalty test: Those who use it signal allegiance to the administration. Those who don’t become targets for attacks. So one month in, who’s on board? —James O&#8217;Donnell This story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Today’s midterms will test AI’s influence on US politicsCandidates are betting that AI regulation will sway voters to their side. (Axios)+ Angry constituents could derail Elon Musk’s Republican bets. (BI)+ Te
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-03 10:43]
 标题: How “reverse game theory” could keep AI agents in check
 链接: https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
-正文: A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized servers, or release poison gas into major cities and kill us all. Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear. Claude, for instance, has its constitution—a sort of moral code. The trouble is, these techniques don’t seem to work particularly well: Models have been shown to deliberately underperform on tests, hide their intentions, and mislead their evaluators.&nbsp; Now some alignment researchers believe that reverse game theory, also known as mechanism design, might get better results. Where game theory tries to predict how rational actors will behave when given a particular set of rules, reverse game theory attempts to design rules that will elicit the kinds of behavior we want to encourage. An example of mechanism design in the real world might be the classic strategy for splitting a piece of cake in two: One person cuts the cake and the other gets the first choice of pieces. This incentivizes the cutter to make the pieces as even as possible. Other examples include surge pricing in ride-hailing apps, which encourages drivers to be available at busy times, and second-price auctions, where the winning bidder pays the price of the second-highest bid instead of the highest. Platforms use these auctions to sell online advertising because they encourage buyers to bid close to the maximum they are willing to pay. In AI, mechanism design starts from the premise that we may never be able to understand enough about the internal workings of frontier models to make sure they are aligned. This means 
+正文: A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized servers, or release poison gas into major cities and kill us all. Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear. Claude, for instance, has its constitution—a sort of moral code. The trouble is, these techniques don’t seem to work particularly well: Models have been shown to deliberately underperform on tests, hide their intentions, and mislead their evaluators.&nbsp; Now some alignment researchers believe that reverse game theory, also known as mechanism design, might get better results. Where game theory tries to predict how rational actors will behave when given a particular set of rules, reverse game theory attempts to design rules that will elicit the kinds of behavior we want to encourage. An example of mechanism design in the real world might be the classic strategy for splitting a piece of cake in two: One person cuts the cake and the other gets the first choice of pieces. This incentivizes the cutter to make the pieces as even as possible. Other examples include surge pricing in ride-hailing apps, which encourages drivers to be available at busy times, and second-price auctions, where the winning bidder pays the price of the second-highest bid instead of the highest. Platforms use these auctions to sell online advertising because they encourage buyers to bid close to the maximum they are willing to pay. In AI, mechanism design starts from the premise that we may never be able to understand enough about the internal workings of frontier models to make sure they are aligned. This means we s
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-03 04:18]
 标题: Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
 链接: https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/
 正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That term beat out other contenders, including “Extreme Intelligence” and “Supreme Intelligence,” offered by the president in a poll on X a couple of weeks earlier.&nbsp; Rebrands are, of course, now a White House tradition: Trump has changed names to project US dominance of certain bodies of water (the Gulf of America and Lake America), to signal new institutional priorities (Department of War), or simply to leave his mark on storied places (see the ongoing fight over renaming the Kennedy Center).&nbsp; The stated reason for this name change is that today’s AI systems “amplify human ingenuity” rather than merely “imitate” intelligence, and the government’s terminology should reflect that. But if this rebrand follows the pattern of others, its effects will extend beyond government.&nbsp; It will turn a choice of words into a political loyalty test: Those who use the new term demonstrate allegiance to the administration, and those who don’t become marks for attacks (recall that the Trump administration barred the Associated Press from some White House press events after the news outlet did not adopt the term “Gulf of America”).&nbsp; But most Americans go months without ever pondering what to call the major lake between New York and Canada. AI, on the other hand, is at the center of our national conversation and a technology two-thirds of Americans report interacting with multiple times a week. It might be the boldest rebrand yet.&nbsp; So one month in, who’s on board? Let’s start with the government itself. The term “Super Intelligence”—or simply “SI”—now appears more often on government solicitations, like a new req
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-02 17:00]
-标题: Raising the quality of insights in agentic analytics
-链接: https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/
-正文: In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate leaves much to be desired. Fewer than half of agent-generated insights at the organizations surveyed for this report lead to business improvement. And while most respondents praise the quality of their agents’ descriptive insights, reviews of their prescriptive insights—those on which actions are based—are decidedly mixed. DOWNLOAD THE REPORT Failure to produce insights that improve the business deprives organizations of their desired return on investment in agentic analytics. Worse, flawed insights that trigger incorrect actions can cause reputational or financial damage. This report gauges how companies view the quality of the outputs produced by their analytics agents and explores how organizations are seeking to boost insight quality and get their agents working harder for the business. Some key findings from the report include the following: Agentic analytics is only just starting to deliver. On average, 48% of insights generated by analytics agents at the surveyed companies lead to actions that improve the business. That is a marked advance from the 37% average the respondents say generated such actions one year ago. But it means that more than half of the insights generated by analytics agents today are still failing to help businesses. Better quality of insights leads to clear business advantage. At a small cohort of organizations, which we term “insight leaders,” AI agents perform much better than the average. In this group, more than 70% of agent insights lead to actions that improve the business. The insight leaders also give the quality of their agents’ insights higher marks than do the total respondents overall. Th
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-03 17:15]
+标题: StateBench: Testing how language models track state changes over long documents
+链接: https://huggingface.co/blog/allenai/statebench
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-02 13:10]
-标题: Stop counting tokens, start counting what ships
-链接: https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/
-正文: When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive. The financial pressure is already visible. Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code. GitHub Copilot moved from flat-rate pricing to metered credits. Gartner predicts that AI coding token costs will surpass average developer salaries by 2028. The natural response is rationing usage caps, seat limits, and approvals before developers launch agents. But blanket limits can restrict the workflows delivering value. They also optimize the wrong number. Cost per token measures consumption, not results. Some spending reflects waste, including retries and runaway loops. Some represents the work of shipping software. A meter cannot distinguish them, and neither can a spending cap. Measure the software that ships A better measure is cost per merged pull request: total AI-assisted development cost divided by the number of changes that pass review and are merged. Track rework and defects alongside it so cheaper changes do not conceal lower quality. If that cost falls as AI usage rises, without compromising quality, developers are converting more consumption into useful software. The question is not how many tokens they use, but how much finished work the investment produces. Improving that equation requires two changes: reserve expensive inference for tasks that need it, and lower the cost of routine work. Match the model to the task Agentic coding does not require the most powerful model at every step. Use a frontier model, or an on-premises flagship when policy requires it, for difficult planning and novel reasoning. Route sui
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-03 16:35]
+标题: Palette: teaching a small model to build decks in your design language
+链接: https://huggingface.co/blog/ibm-research/palette-deck-building
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-02 13:10]
-标题: The Download: the agentic web arrives and the drive for safer roads
-链接: https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our every need, without requiring us to muck about with browsers and search engines ourselves. At the time, the idea seemed far-fetched. But a quarter-century on, AI agents are beginning to make it a reality. They can triage your inbox, do your grocery shopping, and even access your bank accounts. This new era is being called the agentic web. It will inevitably transform the internet—and whether the human web survives this transition is anyone’s guess. Find out how AI agents are transforming the internet, and what we stand to lose in the process. —Grace Huckins Are we there yet? Eliminating traffic deaths Every year, traffic crashes kill more than 1 million people worldwide. They’re also the leading cause of death for children and young adults. Cheap, proven ways to make roads safer exist, including tightening intersections with planters and lowering speed limits. But government logjams and red tape can make it difficult to roll out these changes. Still, some cities are making impressive progress by investing in public transit, extending curbs, and using cameras to spot danger zones in need of a redesign. Here’s how close we are to eradicating traffic deaths. —Sara Kiley Watson This story is the final part of “Are we there yet?”, our series that takes stock of six technologies that have long promised to change the world—and scores them on a progress meter. Subscribe to read the other five instalments in our new Impossible issue. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 A $1 trillion tech selloff has deepened fears of an AI bubbleBig AI bills and weak earn
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-03 00:00]
+标题: CWE-bench v2: More coverage, quality, and transparency
+链接: https://huggingface.co/blog/cwe-bench
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-03 00:00]
 标题: Transformers Model Integration Contracts
 链接: https://huggingface.co/blog/transformers-mic
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 17:16]
+标题: Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺
+链接: https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5
+正文: Ed Zitron 撰文认为 AI 行业资金正在枯竭。OpenAI 上周以 1.25 万亿美元估值融资 110 亿美元，低于此前计划的 300 亿美元、1.4 万亿美元估值；据 The Information，其 Q1 2026 成本收入与研发支出合计 121 亿美元，截至 3 月底持有逾 730 亿美元现金及有价证券。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 10:18]
 标题: Mistral Large 4 以开放权重发布并附技术报告
 链接: https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36
 正文: Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。技术报告讲述其研发过程：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/main/assets/technical_report.pdf，Mistral AI 官方转发并称可在 alphaxiv 上阅读这一研发故事（https://www.alphaxiv.org/abs/2611.mistral-large-4）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 08:00]
+标题: OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素
+链接: https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff
+正文: OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。模型普遍口头表现出评测意识（评测中一般性意识率 57.0%–83.7%），但仅告知 🔗 阅读原文 via AIHOT · https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 07:01]
 标题: Addy Osmani 谈 Agent 时代如何保持批判性思维
@@ -60,22 +72,17 @@
 链接: https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs
 正文: OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。实验显示 probes 比更大的文本分类器对测试的越狱攻击更鲁棒，准确率随模型能力提升，且在后训练各检查点间迁移良好，但需为新基础模型重新训练，且只能检测可显式训练的已知违规类型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 16:26]
-标题: Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元
-链接: https://aihot.news/items/owfopy087lszd1cpfp3c82pxv
-正文: 据 Bloomberg 与 The Information，Anthropic 该季度营收近 170 亿美元，为一年前的十二倍，但运营成本达 175 亿美元，季度净亏损 233 亿美元，高于去年同期的 121 亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/owfopy087lszd1cpfp3c82pxv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 15:00]
-标题: OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰
-链接: https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w
-正文: OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。 🔗 阅读原文 via AIHOT · https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 12:47]
+标题: Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more
+链接: https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html
+正文: These are the stocks posting the largest moves premarket.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 06:46]
 标题: Blackstone president calls for more equity to fund AI buildout as debt risks mount
 链接: https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html
 正文: Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-02 21:13]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 13:33]
 标题: Texas governor race tightens in prediction markets, but Abbott remains favored
 链接: https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html
 正文: Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.
@@ -85,25 +92,35 @@
 链接: https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html
 正文: These are some of the stocks posting the largest moves midday.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-02 23:13]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 18:21]
 标题: Stock market after midterm elections: What S&P 500 history shows
 链接: https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html
 正文: Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-02 12:49]
-标题: Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more
-链接: https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html
-正文: These are the stocks posting the largest moves in early trading.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-03 00:00]
+标题: The 1 percent wake-up call for life insurers
+链接: https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers
+正文: Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around fee-based accumulation is disappearing. Life insurers have a choice to make.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-03 00:00]
+标题: Future of Wellness 2027: Inside the $2.7 trillion takeover
+链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends
+正文: More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness research explores the trends shaping where they spend and what they expect in return.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-03 00:00]
+标题: How frontier AI is rewriting software security rules
+链接: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules
+正文: As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies must change their approach to safeguarding their digital assets and infrastructure.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-03 00:00]
 标题: Advancing adaptation: Breaking barriers to a trillion-dollar opportunity
 链接: https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity
 正文: Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to scaling adaptation and how could they be overcome?
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-03 11:29]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-03 18:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-03 11:29]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-03 18:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
