@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-03 18:51:33
-# 共计 26 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-03 23:48:29
+# 共计 24 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-03 13:10]
 标题: The Download: controlling AI agents and “Super Intelligence” loyalty tests
@@ -32,6 +32,11 @@
 标题: Transformers Model Integration Contracts
 链接: https://huggingface.co/blog/transformers-mic
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 23:14]
+标题: AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%
+链接: https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o
+正文: AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 17:16]
 标题: Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺
 链接: https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5
@@ -57,20 +62,10 @@
 链接: https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk
 正文: 数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 22:11]
-标题: Revolut 将约 2000 名工程师迁移到自托管 GLM 编码
-链接: https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu
-正文: 据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。 🔗 阅读原文 via AIHOT · https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 21:28]
-标题: Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付
-链接: https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0
-正文: Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-02 20:00]
-标题: OpenAI 训练并部署激活分类器作为前沿模型安全监控层
-链接: https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs
-正文: OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。实验显示 probes 比更大的文本分类器对测试的越狱攻击更鲁棒，准确率随模型能力提升，且在后训练各检查点间迁移良好，但需为新基础模型重新训练，且只能检测可显式训练的已知违规类型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-03 00:00]
+标题: OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案
+链接: https://aihot.news/items/recqqiy27l866jfbhjk0cusqh
+正文: OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。 🔗 阅读原文 via AIHOT · https://aihot.news/items/recqqiy27l866jfbhjk0cusqh
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 12:47]
 标题: Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more
@@ -86,11 +81,6 @@
 标题: Texas governor race tightens in prediction markets, but Abbott remains favored
 链接: https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html
 正文: Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-02 20:00]
-标题: Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more
-链接: https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html
-正文: These are some of the stocks posting the largest moves midday.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-03 18:21]
 标题: Stock market after midterm elections: What S&P 500 history shows
@@ -117,10 +107,10 @@
 链接: https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity
 正文: Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to scaling adaptation and how could they be overcome?
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-03 18:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-03 23:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-03 18:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-03 23:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
