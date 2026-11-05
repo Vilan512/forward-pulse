@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-05 01:10:43
-# 共计 23 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-05 08:45:57
+# 共计 22 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-04 18:50]
 标题: Texas was the new epicenter of the AI data center buildout. That might be kaput.
@@ -65,6 +65,11 @@
 链接: https://aihot.news/items/mfhrioi9hwoh0m8q6q2yhjzo7
 正文: Preferred Networks 将自家翻译服务使用的翻译特化 LLM PLaMo 3 Translate 以开放权重形式在 Hugging Face 公开，提供 0.8B、2B、8B、31B 四个尺寸。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mfhrioi9hwoh0m8q6q2yhjzo7
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-04 16:00]
+标题: Goodfire 提出 mechanistic shaping 框架 用内部表征抑制模型走捷径
+链接: https://aihot.news/items/d9a7dr6n3w0nh5p2facdqqguu
+正文: Goodfire Research 发布论文提出 mechanistic shaping 框架，通过 reliance shaping 和 expression shaping 在训练中惩罚模型对特定内部概念的依赖或表达，使模型以正确方式解题而非仅答对。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d9a7dr6n3w0nh5p2facdqqguu
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-04 15:00]
 标题: 可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入
 链接: https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf
@@ -75,20 +80,10 @@
 链接: https://aihot.news/items/c39s97tylya5njp0nro6dwvbx
 正文: OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。其 Trees 和 Diffs 库已被用于 Codex 应用的文件浏览与代码变更审阅；交割后 Pierre 的开源项目将继续开源，Code Storage 客户可继续使用，功能将逐步并入 Codex，交割尚待监管批准。 🔗 阅读原文 via AIHOT · https://aihot.news/items/c39s97tylya5njp0nro6dwvbx
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-04 08:00]
-标题: OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞
-链接: https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl
-正文: OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验证、利用评估与补丁生成流水线，于 2026 年 10 月中旬对最新 Linux 内核的一次运行中复现 1,724 个漏洞，生成 948 个本地提权（LPE）漏洞利用及对应补丁，总 API 成本 $1,213,430，平均每个 LPE $1,279。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-04 06:34]
-标题: Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当
-链接: https://aihot.news/items/z2bhg9i4eqahaqc7zgktvqk98
-正文: Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。文章指出 L2 安全部监控仅标记 42.9%、对齐监控为 57.1%，部分已导致模型实际无监控运行，建议所有无监控运行案例都应进入人工审查，并要求 OpenAI 更透明地说明升级处理流程。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z2bhg9i4eqahaqc7zgktvqk98
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-04 04:43]
-标题: 腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力
-链接: https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3
-正文: 腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-05 06:54]
+标题: What the Democratic midterms sweep changes for U.S.-China relations
+链接: https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html
+正文: Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-04 22:04]
 标题: Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more
@@ -105,10 +100,10 @@
 链接: https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html
 正文: Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-05 01:10]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-05 08:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-05 01:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-05 08:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
