@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-10 01:48:08
-# 共计 24 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-10 08:59:11
+# 共计 25 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-09 19:35]
 标题: The backlash about data centers might really just be about electricity
@@ -34,6 +34,16 @@
 标题: Your Experts Have Partners. There's HOPE for Keeping Them Together
 链接: https://huggingface.co/blog/amazon/higher-order-pruning-experts
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 04:17]
+标题: Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目
+链接: https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
+正文: 作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 01:27]
+标题: 据报道 Anthropic 推进 IPO，计划下周四或周五挂牌
+链接: https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu
+正文: 据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 23:51]
 标题: The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
 链接: https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri
@@ -48,6 +58,11 @@
 标题: 做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
 链接: https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964
 正文: Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 21:46]
+标题: Figma 官方讲解画布智能体的 6 种实用方法
+链接: https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8
+正文: Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 20:06]
 标题: Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用
@@ -89,16 +104,6 @@
 链接: https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd
 正文: 据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 07:00]
-标题: Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务
-链接: https://aihot.news/items/cox936nwax49rkiimi1oicgzu
-正文: Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cox936nwax49rkiimi1oicgzu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 05:26]
-标题: 耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50
-链接: https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5
-正文: Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访耶鲁教授 Jeffrey Sonnenfeld，他估计黄仁勋保住职位的概率约为 50-50。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-09 18:46]
 标题: Jensen Huang exit odds are low on prediction markets after Nvidia probe
 链接: https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html
@@ -109,10 +114,10 @@
 链接: https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html
 正文: Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-10 01:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-10 08:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-10 01:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-10 08:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
