@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-11 02:25:13
-# 共计 33 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-11 10:03:25
+# 共计 35 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-10 13:10]
 标题: The Download: Pelosi’s successor targets AI and data centers face power woes
@@ -10,6 +10,20 @@
 标题: Evolving metal extraction processes
 链接: https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/
 正文: The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems smarter, but the fundamental science behind separating metals from ores has changed less than many realize. Today’s materials challenges are different from those of the 20th century, but why are critical metals still produced using largely the same scientific foundations? EvoMaterials, a technology platform developed by Outokumpu—the global leader in sustainable stainless steel and the producer of ferrochrome with 67% lower carbon footprint than the industry average—is exploring that question by rethinking how metals can be extracted: “We decided to go beyond the current constraints and look fundamentally at what’s the best way to do this with the benefit of the scientific engineering knowledge and hindsight that we have today,” says Caspar Stinn, technical director for extractive metallurgy at Outokumpu. “We’re looking at how we can reimagine metals production.” A supply chain problem disguised as a materials problem As economies expand and the world becomes increasingly electrified, data and scientific models point to rising demand for many minerals, driven by technologies ranging from data centers to aerospace, water treatment, energy systems, and defence. According to Antoine Allanore, professor of metallurgy at the Massachusetts Institute of Technology (MIT) this coincides with many Western economies having reduced their domestic processing capacity for the very metals those industries depend on. Metallurgy is now strategically important, shaped not only by cost and availability but also by carbon footprint, geographic origin and supply-chain resilience. That reality is particul
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-11 05:01]
+标题: BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
+链接: https://huggingface.co/blog/qvac/botpsy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 05:47]
+标题: WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权
+链接: https://aihot.news/items/ajjv9abs8vd20j05emcig98ai
+正文: WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajjv9abs8vd20j05emcig98ai
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 04:14]
+标题: Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议
+链接: https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy
+正文: Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 00:58]
 标题: Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高
@@ -91,6 +105,11 @@
 链接: https://aihot.news/items/momr4yrt6hhhfeuzjfqz6ryqy
 正文: Wiz Research 介绍其 Cyber Model Arena v3.9 的基准设计方法，该基准覆盖 26 个模型、59 个智能体和 327 道挑战，分代码漏洞、API 安全、Web 安全和云安全四类。 🔗 阅读原文 via AIHOT · https://aihot.news/items/momr4yrt6hhhfeuzjfqz6ryqy
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 16:00]
+标题: 百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源
+链接: https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j
+正文: 百度发布 ERNIE 5.5 Flash Preview，是基于此前 Base 模型的首个后训练版本，总参数 280B、激活参数 14B，支持 1M 上下文。模型 API 已在千帆平台上线，权重将于 11 月 25 日前开源；官方展示了游戏开发、3D 建模、知识工作、视频创作等 Agent 场景成果，并称该版本为后训练中间版本，正式版仍将持续优化。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 15:38]
 标题: Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证
 链接: https://aihot.news/items/t9g33uqn3lfwm8cr1kr2fvnp7
@@ -126,20 +145,10 @@
 链接: https://aihot.news/items/vouc5yc5intvgg7311kekkhsi
 正文: Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vouc5yc5intvgg7311kekkhsi
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 08:45]
-标题: Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复
-链接: https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43
-正文: Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。 🔗 阅读原文 via AIHOT · https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 08:00]
-标题: OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性
-链接: https://aihot.news/items/uif827ayipylunwlh7gejgcbo
-正文: OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uif827ayipylunwlh7gejgcbo
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 04:17]
-标题: Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目
-链接: https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
-正文: 作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-11 07:47]
+标题: Alibaba announces plans to list T-Head, its Nvidia chip rival
+链接: https://www.cnbc.com/2026/11/11/alibaba-pr.html
+正文: Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-10 16:29]
 标题: U.S. gas prices fall below $4 for the first time since July
@@ -156,10 +165,10 @@
 链接: https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html
 正文: The policymaker said he "is leaning toward" a rate increase in December and could support a half-point hike depending on inflation data.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-11 02:25]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-11 10:03]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-11 02:25]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-11 10:03]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
