@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-10 22:04:15
-# 共计 42 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-11 02:25:13
+# 共计 33 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-10 13:10]
 标题: The Download: Pelosi’s successor targets AI and data centers face power woes
@@ -11,13 +11,35 @@
 链接: https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/
 正文: The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems smarter, but the fundamental science behind separating metals from ores has changed less than many realize. Today’s materials challenges are different from those of the 20th century, but why are critical metals still produced using largely the same scientific foundations? EvoMaterials, a technology platform developed by Outokumpu—the global leader in sustainable stainless steel and the producer of ferrochrome with 67% lower carbon footprint than the industry average—is exploring that question by rethinking how metals can be extracted: “We decided to go beyond the current constraints and look fundamentally at what’s the best way to do this with the benefit of the scientific engineering knowledge and hindsight that we have today,” says Caspar Stinn, technical director for extractive metallurgy at Outokumpu. “We’re looking at how we can reimagine metals production.” A supply chain problem disguised as a materials problem As economies expand and the world becomes increasingly electrified, data and scientific models point to rising demand for many minerals, driven by technologies ranging from data centers to aerospace, water treatment, energy systems, and defence. According to Antoine Allanore, professor of metallurgy at the Massachusetts Institute of Technology (MIT) this coincides with many Western economies having reduced their domestic processing capacity for the very metals those industries depend on. Metallurgy is now strategically important, shaped not only by cost and availability but also by carbon footprint, geographic origin and supply-chain resilience. That reality is particul
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: Pay for Hugging Face Hub with your Google Cloud Account
-链接: https://huggingface.co/blog/hub-gcp-marketplace
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 00:58]
+标题: Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高
+链接: https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o
+正文: FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。 🔗 阅读原文 via AIHOT · https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: Decision Models in Hugging Face
-链接: https://huggingface.co/blog/decision
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 00:00]
+标题: Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用
+链接: https://aihot.news/items/xenhfme3azzcf8qpihr57fb93
+正文: UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xenhfme3azzcf8qpihr57fb93
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 00:00]
+标题: OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本
+链接: https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4
+正文: OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 00:00]
+标题: OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响
+链接: https://aihot.news/items/i3gp1xj4j11gi4qoreya18izb
+正文: OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 年 10 月 20 日对 1455 个 provider 端点和 Qwen3.8 27B 六个端点的实测。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i3gp1xj4j11gi4qoreya18izb
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 23:56]
+标题: Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作
+链接: https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj
+正文: 作者实测 Claude Fable 5.2 与 Gemini 4 Carbon 并对比后认为，Fable 5.2 的突出差异在于审美，这是无法用 Benchmark 评估但可直观感受的东西。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 20:52]
+标题: Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent
+链接: https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f
+正文: Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。 🔗 阅读原文 via AIHOT · https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 19:18]
 标题: Stripe 收购 OpenRouter，双方宣布合并后定位
@@ -99,65 +121,25 @@
 链接: https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0
 正文: n8n 发布 n8n Labs 首个实验项目 Nod 的研究预览版，一个独立于 n8n 的开源个人智能体，可在 Mac 或 Windows 本机的沙盒和浏览器中代用户完成取消订阅、比价、订酒店等任务，无需 n8n 账号或云服务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 12:00]
+标题: Cursor Projects 升级为多人协作模式
+链接: https://aihot.news/items/vouc5yc5intvgg7311kekkhsi
+正文: Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vouc5yc5intvgg7311kekkhsi
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 08:45]
 标题: Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复
 链接: https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43
 正文: Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。 🔗 阅读原文 via AIHOT · https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 08:00]
+标题: OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性
+链接: https://aihot.news/items/uif827ayipylunwlh7gejgcbo
+正文: OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uif827ayipylunwlh7gejgcbo
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 04:17]
 标题: Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目
 链接: https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
 正文: 作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 01:27]
-标题: 据报道 Anthropic 推进 IPO，计划下周四或周五挂牌
-链接: https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu
-正文: 据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: Anthropic 研究：稀释投毒微调数据反而会强化其后门效应
-链接: https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9
-正文: Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用很小的投毒数据，在混入同类型干净对比数据后会形成隐藏后门。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作
-链接: https://aihot.news/items/s7ny0oaxr6q9e5677fmb2hqpf
-正文: Anthropic 宣布交互式连接器升级，在支持的连接器中可将工具在对话旁打开或全屏展开，Claude 能直接修改你正在使用的页面、行或文件，改动实时呈现并需像连接器操作一样批准。 🔗 阅读原文 via AIHOT · https://aihot.news/items/s7ny0oaxr6q9e5677fmb2hqpf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: OpenRouter 实测最佳 OCR 模型：Claude Opus 5.5 最准，Mistral OCR 性价比最高
-链接: https://aihot.news/items/k4yeadirrsze4hfymnfr0vk12
-正文: OpenRouter 用 8 张自制扫描页（264 项关键值）实测 15 个视觉模型、Mistral OCR 和 Tesseract 做 OCR 的表现。 🔗 阅读原文 via AIHOT · https://aihot.news/items/k4yeadirrsze4hfymnfr0vk12
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data
-链接: https://aihot.news/items/c1fodrvts3po1pprz70weooju
-正文: Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/c1fodrvts3po1pprz70weooju
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-10 00:00]
-标题: OpenRouter 教程：用 JSON Schema、工具调用或决策模型获取任意 LLM 的结构化输出
-链接: https://aihot.news/items/b44e0p0xgg4j6d7wyei4fy5rl
-正文: OpenRouter 发布教程，讲解从任意 LLM 获取可靠结构化输出的三种方式：支持 structured outputs 的模型发送严格 JSON Schema，只支持工具的模型强制单次工具调用，只需标签时用 Jev 决策模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/b44e0p0xgg4j6d7wyei4fy5rl
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 23:58]
-标题: Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2
-链接: https://aihot.news/items/lfw4cc14h85i07c00tah6pc90
-正文: Simon Willison 发布 llm-anthropic 0.31，纳入 Anthropic 当日发布的 Fable 5.2 和 Mythos 5.2，并给出安装和调用命令。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lfw4cc14h85i07c00tah6pc90
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 23:51]
-标题: The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响
-链接: https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri
-正文: The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加坡云服务商 Megaspeed 高管 Alice Huang 的婚外情风波。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 23:21]
-标题: 实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出
-链接: https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0
-正文: Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。 🔗 阅读原文 via AIHOT · https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-09 22:46]
-标题: 做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
-链接: https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964
-正文: Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-10 16:29]
 标题: U.S. gas prices fall below $4 for the first time since July
@@ -174,35 +156,10 @@
 链接: https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html
 正文: The policymaker said he "is leaning toward" a rate increase in December and could support a half-point hike depending on inflation data.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-10 00:00]
-标题: Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun
-链接: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun
-正文: The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps moving forward, and why staying constructively discontented may be the secret to staying relevant.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-10 00:00]
-标题: Reinventing business planning with agentic AI
-链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai
-正文: Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-10 00:00]
-标题: System advantage: The new source of value in chemicals
-链接: https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals
-正文: As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around where companies compete and how they operate, innovate, and deploy their cash.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-10 00:00]
-标题: The new realities of grocery retail in the Americas and Europe
-链接: https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe
-正文: From AI and private brands to premium products and wellness-focused shopping, grocery retailers face new opportunities—and hard choices.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-10 00:00]
-标题: Global Banking Annual Review 2026: The AI disruption dividend
-链接: https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review
-正文: Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that move with precision and speed. This time, there is no grace period.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-10 22:04]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-11 02:25]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-10 22:04]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-11 02:25]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
