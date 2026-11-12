@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-12 01:11:39
-# 共计 21 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-12 08:59:41
+# 共计 21 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-11 17:00]
 标题: What to know about this year’s UN climate talks
@@ -11,14 +11,15 @@
 链接: https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still be you.&nbsp; To preserve that elusive continuity of self, some far-thinking technologists are exploring ways to keep the brain going, even beyond death. Their ideas range from freezing brains in liquid nitrogen to augmenting living ones and uploading our memories to the cloud. Here are six possible paths for keeping your mind going, and how feasible they might be. —Antonio Regalado This story is from the Impossible edition of our print magazine. Subscribe now to get every issue as soon as it lands. MIT Technology Review Narrated: Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack risk. Its core concern was that it is freely available for anyone to download and modify. The warning was the latest flashpoint in the debate over open frontier AI models. Critics warn that bad actors can misuse them, while supporters argue they prevent a handful of companies from controlling the technology. The debate, however, is more complicated than it seems. This is our latest story to become an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 COP31’s flagship pledge to electrify 35% of energy use is sinkingOnly around a dozen nations are reportedly ready to sign it. (Politico)+ It requires quadrupling the pace of electrification. (
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-11 05:01]
-标题: BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
-链接: https://huggingface.co/blog/qvac/botpsy
-
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 00:00]
 标题: OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题
 链接: https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde
 正文: OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 00:00]
+标题: OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460
+链接: https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx
+正文: OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 23:43]
 标题: WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋
@@ -65,15 +66,10 @@
 链接: https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5
 正文: 据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 05:47]
-标题: WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权
-链接: https://aihot.news/items/ajjv9abs8vd20j05emcig98ai
-正文: WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajjv9abs8vd20j05emcig98ai
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-11 04:14]
-标题: Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议
-链接: https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy
-正文: Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。 🔗 阅读原文 via AIHOT · https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-12 07:28]
+标题: China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair
+链接: https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html
+正文: China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-11 19:16]
 标题: Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire
@@ -85,20 +81,25 @@
 链接: https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html
 正文: The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-11 07:47]
-标题: Alibaba announces plans to list T-Head, its Nvidia chip rival
-链接: https://www.cnbc.com/2026/11/11/alibaba-pr.html
-正文: Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-12 00:00]
 标题: Programmatic M&A in Australia: The most reliable way to unlock value
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value
 正文: Fewer than one in 20 Australian-listed companies pursued programmatic M&amp;A over the past decade, but they delivered the highest excess shareholder returns of any cohort.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-12 01:11]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-12 00:00]
+标题: Rural healthcare and America’s $340 billion workforce earnings opportunity
+链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity
+正文: Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into nursing and allied health roles and gain economic mobility.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-12 00:00]
+标题: The Achilles’ heel of global trade: Building resilience where it matters most
+链接: https://www.mckinsey.com/mgi/our-research/the-achilles-heel-of-global-trade-building-resilience-where-it-matters-most
+正文: International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying and managing these Achilles’ heels could help unlock new markets, products, and economic growth.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-12 08:59]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-12 01:11]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-12 08:59]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
