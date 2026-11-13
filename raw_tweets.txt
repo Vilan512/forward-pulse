@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-11-13 11:44:22
-# 共计 31 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-13 18:58:26
+# 共计 30 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-13 13:10]
+标题: The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
+链接: https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries of Silicon Valley have built careers claiming to see the future. Yet five weeks before the midterms, many gathered at the White House to pose with Trump and endorse his “Super Intelligence” agenda, despite growing opposition to AI and data centers. Their decision to lash themselves to President Trump was a catastrophic misreading of the political landscape. Now, not only have they jeopardized their companies’ fates, but they’ve also raised questions about their vision and judgment.&nbsp; Here’s why Silicon Valley’s tech leaders may be less visionary than they think. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility Nvidia representatives told Illinois representative Bill Foster that it was possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review on Thursday, despite an industry group claiming they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location of advanced AI chips and prevent their smuggling to China. The act is drawing renewed attention following Nvidia CEO Jensen Huang’s resignation and reported affair. Find out what the proposed tracking measures would involve. —James O&#8217;Donnell More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can control robotic limbs and computers, and even “speak.” The 
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-13 10:00]
 标题: More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
@@ -16,14 +21,46 @@
 链接: https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
 正文: Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location of advanced AI chips in order to prevent their smuggling to China. It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy. When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed. In March 2026, the Semiconductor Industry Association, of which Nvidia is a member, explicitly opposed the bill and wrote that its mandates for chip tracking were “new, untested, and potentially infeasible.” But privately, Nvidia representatives working with Foster told the lawmaker that the company could implement them. “They never put anything in writing,” Foster says, but during technical discussions on the possibility of such safeguards, their reaction was “yeah, of course we can do this.” This private acknowledgment to Foster goes further than anything Nvidia has previously made public. Other technology Nvidia has built for its customers suggests that the company can indeed offer accurate tracking of its chips’ locations. In December 2025, for example, it announced a new tool called Fleet Intelligence that would allow customers to monitor how its advanced chips were performing across different data center locations. In doing so, the tool could indicate which country chips were in, Nvidia confirme
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-12 13:10]
-标题: The Download: COP31’s climate challenge and the quest for immortality
-链接: https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations are taking place against a particularly tense geopolitical backdrop, as the world falls further behind the Paris Agreement’s goals. Energy prices are soaring, and there are big questions about how countries will tackle the climate crisis. Expect a lot of back and forth on fossil fuels and climate finance, and whether negotiators can agree on meaningful action. Here’s what you need to know about COP31. —Casey Crownhart This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday. Inside the quest for cognitive immortality Far-thinking technologists are working on ways to keep your brain going beyond death. MIT Technology Review’s latest Roundtables event explores their ideas, from gradual brain replacement to uploading memories to the cloud. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for this subscriber-only discussion. Tune in live on Tuesday, November 17 at 5:00 p.m. GMT / 12:00 p.m. EST / 9:00 a.m. PST. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Nvidia is reportedly preparing to oust CEO Jensen HuangThe board will meet as soon as today to determine his future. (WSJ $)+ Nvidia’s stock slid 8% after the report was published. (BI)+ Huang allegedly also had an affair with an Nvidia colleague.(NYT $)+ His exit could send shockwaves across the AI industry. (Axios)+ Stakes are high in AI&#8217;s trillion-dollar gamble. (MIT Technology R
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-13 18:00]
+标题: Build a Robot Pick-and-Place Simulation with SimReady Assets
+链接: https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-13 17:02]
+标题: XYBench: Helping with the problem behind the question
+链接: https://huggingface.co/blog/allenai/xybench
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-13 14:05]
+标题: llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem
+链接: https://huggingface.co/blog/ggml-org/llama-cpp-v1
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-12 19:07]
 标题: LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
 链接: https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 17:00]
+标题: Sierra 发布 Personal Agent Protocol（Poppy）v1.0
+链接: https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr
+正文: Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 16:44]
+标题: ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买
+链接: https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq
+正文: ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 16:00]
+标题: Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明
+链接: https://aihot.news/items/vsfne926njom5wnadceo8r04m
+正文: Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vsfne926njom5wnadceo8r04m
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 15:13]
+标题: llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本
+链接: https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x
+正文: Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。 🔗 阅读原文 via AIHOT · https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 12:52]
+标题: Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会
+链接: https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66
+正文: Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 09:04]
 标题: AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO
@@ -65,70 +102,15 @@
 链接: https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4
 正文: Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:22]
-标题: Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%
-链接: https://aihot.news/items/mt013742fhedisepp2i31h1r4
-正文: 作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mt013742fhedisepp2i31h1r4
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 18:32]
+标题: Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker
+链接: https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html
+正文: Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:11]
-标题: World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats
-链接: https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm
-正文: World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表达期待用户用它构建的内容。官方为用户提供了应用和 API 端点，可用 Atlas 生成关键帧、视频片段或 3D Gaussian splats。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:07]
-标题: Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%
-链接: https://aihot.news/items/ajvxvhu8bh001pourbhhjl0ir
-正文: Artificial Analysis 评测 Google 新发布的 Gemini 4 Hydrogen：新增 xhigh 推理档在 Intelligence Index 得 54 分，比 Claude Sonnet 5.5 (max) 和 GPT-6.1 Sol (max) 低 1 分，每任务成本约为 Sonnet 的 32%，但约为 GPT-6.1 Sol 的 2.5 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajvxvhu8bh001pourbhhjl0ir
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:06]
-标题: SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈
-链接: https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4
-正文: SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为其去职与美国情报界推动、针对中国远程访问 GPU 的 RASA 法案推进有关。 🔗 阅读原文 via AIHOT · https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:02]
-标题: Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道
-链接: https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y
-正文: Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studio、Android Studio 中用 Gemini API，付费 Google AI Pro 和 Ultra 订阅者可在 Google Antigravity 中使用；企业可通过 Gemini for business 和 Google Antigravity 部署；所有用户可在 Google Search 和 Gemini 应用模型下拉菜单中访问。详情见 https://goo.gle/4zDCs8N。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:00]
-标题: Google DeepMind 发布 Gemini 4 Hydrogen
-链接: https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa
-正文: Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 18:00]
-标题: Edge0 开源 145B 端侧模型，可在笔记本本地运行
-链接: https://aihot.news/items/icmwp7qazk244f7fn6zlw8882
-正文: Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/icmwp7qazk244f7fn6zlw8882
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 17:44]
-标题: The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云
-链接: https://aihot.news/items/licdk6vosezxouovor3gvtcpe
-正文: The Verge 作者 Elizabeth Lopatto 分析 Nvidia 宣布黄仁勋辞职一事，认为第二桩婚外情只是导火索，真正原因或与芯片走私指控有关。 🔗 阅读原文 via AIHOT · https://aihot.news/items/licdk6vosezxouovor3gvtcpe
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 16:45]
-标题: Replit Agent 新增代购能力和 Google Ads 投放功能
-链接: https://aihot.news/items/k7sfjumcmtq0zswb5yj5kmju1
-正文: Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。 🔗 阅读原文 via AIHOT · https://aihot.news/items/k7sfjumcmtq0zswb5yj5kmju1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 16:19]
-标题: 黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析
-链接: https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv
-正文: Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 后的影响，CFO Colette Kress 将临时接任。他指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占市场 85%，并向 neocloud 提供财务担保、过去一年在欧洲投资近 100 亿美元；与乔布斯离任时不同，公司没有准备好的继任者，而黄仁勋本人一直是 AI 生态的关键纽带。 🔗 阅读原文 via AIHOT · https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 16:03]
-标题: Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距
-链接: https://aihot.news/items/adkgofriq3tvp6qrawfc63yw4
-正文: Epoch AI 通过卫星影像和冷却设备模型估算，华为和林格尔数据中心已投运约 105,000 颗 Ascend 910C 和 8,000 颗 Ascend 910B 芯片，对应约 81,000 H100 等效算力，为全球最大 AI 数据中心 SpaceX Colossus 2 的约 7%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/adkgofriq3tvp6qrawfc63yw4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 14:00]
-标题: Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程
-链接: https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79
-正文: Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 13:48]
-标题: NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO
-链接: https://aihot.news/items/qsbjbz754aodhcijq56puh6va
-正文: NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qsbjbz754aodhcijq56puh6va
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 14:22]
+标题: Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation
+链接: https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html
+正文: The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 02:56]
 标题: How the Jensen Huang affair changes the outlook for U.S.-China relations
@@ -145,10 +127,20 @@
 链接: https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html
 正文: Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-13 11:44]
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-13 00:00]
+标题: Prenuvo’s Andrew Lacy on making healthcare proactive
+链接: https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive
+正文: The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-13 00:00]
+标题: Separating signal from noise: The always-on finance intelligence layer
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer
+正文: A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.
+
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-13 18:58]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-13 11:44]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-13 18:58]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
