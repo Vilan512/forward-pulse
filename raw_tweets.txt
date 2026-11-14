@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-13 18:58:26
-# 共计 30 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-14 00:11:30
+# 共计 27 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-13 13:10]
 标题: The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
@@ -16,11 +16,6 @@
 链接: https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/
 正文: The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned with short-term results. And yet there they all were, a mere five weeks before the midterm elections, gathered at the White House to smile for photos with President Trump and sign on to his “Super Intelligence” agenda. Even by the diminished standards of today’s corporate governance, this was a shockingly foolish decision. Despite dozens of polls showing a rising tide of anti-Trump sentiment and bipartisan rejection of AI and data centers, the futurists of the tech elite cast aside long-term corporate interests for short-term political favor. And now, their industry is very squarely in the new victors’ crosshairs. For an industry obsessed with pattern recognition, their decision to lash themselves to President Trump has proved to be a catastrophic misreading of the political landscape. Now, not only have they jeopardized their companies’ fates, but they’ve also raised questions about their vision and judgment.&nbsp; What were they thinking? The people who work for them are just as confused as the rest of us. Tech workers I’ve spoken to at OpenAI, Meta, and other firms have noted an absence of commentary from their leaders post-election. Zuckerberg has yet to address the results internally, while an employee at another AI firm said that “leadership has been pretty silent on Slack.” Most employees share concern about potential anti-data-center legislation and are curious how leadership will adjust to a Democratic Washington, DC. But more than anything, they don’t understand how their bosses didn’t see what was so blindingly obvious to everyone else. In Silicon Valley, the Gretzkyism “skate to where the puck is going, not
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-12 20:16]
-标题: Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
-链接: https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
-正文: Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location of advanced AI chips in order to prevent their smuggling to China. It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy. When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed. In March 2026, the Semiconductor Industry Association, of which Nvidia is a member, explicitly opposed the bill and wrote that its mandates for chip tracking were “new, untested, and potentially infeasible.” But privately, Nvidia representatives working with Foster told the lawmaker that the company could implement them. “They never put anything in writing,” Foster says, but during technical discussions on the possibility of such safeguards, their reaction was “yeah, of course we can do this.” This private acknowledgment to Foster goes further than anything Nvidia has previously made public. Other technology Nvidia has built for its customers suggests that the company can indeed offer accurate tracking of its chips’ locations. In December 2025, for example, it announced a new tool called Fleet Intelligence that would allow customers to monitor how its advanced chips were performing across different data center locations. In doing so, the tool could indicate which country chips were in, Nvidia confirme
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-13 18:00]
 标题: Build a Robot Pick-and-Place Simulation with SimReady Assets
 链接: https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
@@ -33,9 +28,45 @@
 标题: llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem
 链接: https://huggingface.co/blog/ggml-org/llama-cpp-v1
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-12 19:07]
-标题: LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
-链接: https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 23:39]
+标题: Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意
+链接: https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n
+正文: Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 22:43]
+标题: Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧
+链接: https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj
+正文: Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 21:27]
+标题: NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造
+链接: https://aihot.news/items/kei20gkia8a0vhknc859jsfqr
+正文: Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kei20gkia8a0vhknc859jsfqr
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 20:22]
+标题: Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请
+链接: https://aihot.news/items/ajfypca37l5knyrnij49v5ofz
+正文: Anthropic 的 Claude Duet 更新：截至昨日在等待名单上的全部美国 Pro、Max 和 Ultra 订阅者均已收到邀请，等待名单入口为 https://claude.com/product/claude-duet。研究预览附带限额重置，Pro 为 3 次，Max 和 Ultra 为 1 次；官方计划很快向美国以外更多国家开放，并继续征集反馈。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajfypca37l5knyrnij49v5ofz
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 20:07]
+标题: WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活
+链接: https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw
+正文: The Decoder 援引 WSJ 报道分析称，黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活传闻。Nvidia 在其主导下向 AI 云厂商和数据中心开发商提供数十亿美元财务担保以换取营收分成，最大一笔涉及对 OpenAI 俄亥俄数据中心的 2500 亿美元担保，消息公布后股价跌 5%，临时 CEO Colette Kress 将该承诺减半。 🔗 阅读原文 via AIHOT · https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 19:27]
+标题: Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察
+链接: https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt
+正文: Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 18:43]
+标题: Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试
+链接: https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759
+正文: Lydia Hallie 分享一个 Claude Code 使用技巧：用 Stop hook 让 Claude 在检查失败后自动重试，关键是让 hook 以 exit code 2 退出。exit 2 会把 hook 的 stderr 返回给 Claude 触发重试，exit 1 则是非阻塞的，即使检查失败 Claude 也会直接结束。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 18:40]
+标题: 研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练
+链接: https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei
+正文: Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。 🔗 阅读原文 via AIHOT · https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-13 17:00]
 标题: Sierra 发布 Personal Agent Protocol（Poppy）v1.0
@@ -77,35 +108,10 @@
 链接: https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w
 正文: 据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 23:56]
-标题: 黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末
-链接: https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a
-正文: 英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 22:42]
-标题: 民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排
-链接: https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4
-正文: 民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 21:39]
-标题: Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋
-链接: https://aihot.news/items/k1kga19xtdab67lhplor8he8n
-正文: Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。 🔗 阅读原文 via AIHOT · https://aihot.news/items/k1kga19xtdab67lhplor8he8n
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 21:23]
-标题: Google 智能眼镜开放预购，12 月 10 日发货
-链接: https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j
-正文: Josh Woodward 宣布 Google 智能眼镜开启预购，用户可在 https://glasses.google 下单，12 月 10 日发货。首批用户可到部分 Warby Parker、Gentle Monster 和 Google 门店试戴体验。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-12 20:50]
-标题: Gemini 4 Hydrogen 今日起向全球所有用户推送
-链接: https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4
-正文: Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 18:32]
-标题: Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 23:42]
+标题: Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker
 链接: https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html
-正文: Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.
+正文: Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 14:22]
 标题: Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation
@@ -117,30 +123,10 @@
 链接: https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html
 正文: The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-12 19:05]
-标题: In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates
-链接: https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html
-正文: There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-13 00:01]
-标题: Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'
-链接: https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html
-正文: Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-13 00:00]
-标题: Prenuvo’s Andrew Lacy on making healthcare proactive
-链接: https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive
-正文: The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-13 00:00]
-标题: Separating signal from noise: The always-on finance intelligence layer
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer
-正文: A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-13 18:58]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-14 00:11]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-13 18:58]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-14 00:11]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
