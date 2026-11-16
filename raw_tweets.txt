@@ -1,5 +1,94 @@
-# ForwardPulse 原始情报收割 — 2026-11-16 12:22:23
-# 共计 14 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-16 22:40:13
+# 共计 40 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-16 18:38]
+标题: The open-source movement wants Jensen Huang back
+链接: https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
+正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia researchers. But comb through the more than 115,000 names and you’ll notice a significant faction of Huang’s supporters—higher-ups from Hugging Face, a hub for sharing AI models, and venture capital firms Andreessen Horowitz and Sequoia Capital—come from a particular slice of the tech world. These names have a vested interest in the development of open-source AI, models that, unlike ChatGPT or Claude, can be downloaded and run independent of large tech companies. Supporters of such models say that concentrating AI in the hands of a few powerful companies will leave everyone else worse off (a concern that wouldn’t sound out of place among the AI industry&#8217;s critics on the left, if so many open-source advocates weren’t also venture capitalists who stand to profit when startups can build on cheaper AI without paying Big Tech). Huang had become a sort of ringleader for those who defend open source to policymakers against concerns that such models come with no guardrails and cede AI leadership to China, where the most powerful and popular open-source models are created. They now want their most influential voice returned to his post.&nbsp; But it’s not just Huang’s extramarital affairs that threaten his (and Nvidia’s) credibility as an advocate for open-source AI. New research into China’s startups using Nvidia’s chips, and a new rule from the US Department of Commerce announced Monday, could deal a blow to both the movement’s reputation and its technical progress.&nbsp; On Thursday, the day Huang resigned, ex-OpenAI researcher Will DePue published findings online suggesting that China’s AI companies had far more access to Nvidia’s a
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-16 16:04]
+标题: Building trustworthy AI by fencing it in, not predicting it
+链接: https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/
+正文: In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do that, and no test had anticipated the behaviors. For a century, we have built trust in technology on predictability: predefined inputs, predictable outputs, and layers of protection. Consider how a breaker trips at a set current or an aircraft component is tested against known (i.e., predictable) stresses. AI changes that. Traditional software executes instructions written by humans, whereas AI exercises what might be called synthetic judgment. We use AI because it can interpret situations we did not program and generate responses we did not prescribe. But the more freedom we give AI, the harder it becomes to provide the predictability on which trust has traditionally been built. We will not make AI trustworthy by predicting what it will do. We will do it by fencing it in with hard limits that are enforced outside its reach. In OpenAI’s case, the safeguards sat inside a system the agents could edit. But a fence the agents can simply move is not a fence. Where traditional definitions of trust fall short Recent MIT Technology Review coverage has approached this problem from other directions. One contributor argues that having a human in the loop is an insufficient solution because humans are fundamentally unable to understand AI systems’ intentions and advocates instead for interdisciplinary research and collaboration between academia, government, and the tech industry. And a story on reverse game theory describes using incentives to keep models from deviating from the rules, even when no one understands how they work on the inside. Both articles acknowledge that we cannot understand or watch every AI decision. Our instruments of trust, including requir
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-16 13:10]
+标题: The Download: testing tech promises and searching for cognitive immortality
+链接: https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are we there yet?” examines how far six potentially transformative technologies have come after years of promises. We spoke to experts, researchers and engineers to find out what’s holding them back, then scored each on a progress meter from zero to ten. Find out how we rated each of these technologies—and how close they are to delivering on their promise.Nuclear-powered spaceshipsExercise in a pillInterspecies communicationSolid-state batteriesCleaning up PFASEliminating traffic deaths Subscribe now to get every issue of our print magazine as soon as it lands. Inside the quest for cognitive immortality Could technology keep your brain going beyond death? Far-thinking technologists are exploring ways to make it happen, from gradual brain replacement to uploading memories to the cloud. MIT Technology Review’s latest Roundtables event explores these ideas and how close they might be to reality. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for this subscriber-only discussion tomorrow. Tune in live on Tuesday, November 17 at 5:00 p.m. GMT / 12:00 p.m. EST / 9:00 a.m. PST. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Jensen Huang is considering a comeback as Nvidia CEOHe’s discussed with confidants the possibility of returning. (FT $)+ Elon Musk has joined 165,000 signatories calling for his recall. (Guardian)+ The Treasury Secretary wants them to hire an outsider. (Axios)+ ​​Megaspeed says the alleged China spy left the company last year. (BBC)+ Trump plans to name Nvidia an AI “national champion.” (WSJ $)+ Nvidia privately sa
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-16 13:00]
+标题: Building AI that can work across the enterprise
+链接: https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/
+正文: For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance, and people fit together, turning AI from a collection of tools into part of the enterprise operating model. For Thorsten Leiduck, SVP and global head of SAP Business AI Platform Ecosystem, that shift begins with treating AI as an enterprise platform rather than a collection of disconnected projects. “AI is absolutely dependent on the data foundation,” he says, arguing that companies need a connected, semantically rich layer that reflects their business before they can reliably deploy AI across processes. The stakes also change as AI moves into mission-critical workflows. For some everyday applications, “80% might be good enough,” he says, but in areas such as supply chains or financial close, that level of accuracy is “a very terrible result.” That foundation also determines which AI applications are worth pursuing. Satinder Pal Singh, associate VP North America for SAP BAIP and SAP AI Strategy at Infosys, frames AI agents as “digital coworkers” and recommends evaluating potential use cases through three lenses: impact, feasibility, and scalability. Companies should identify where an agent can move meaningful business metrics, determine whether their data and talent can support the use case, and then establish whether successful applications can be replicated. “A pilot that can&#8217;t scale is just an experiment,” he says. Scaling also brings governance into sharper focus. Clear policies, access controls, monitoring, and oversight are necessary to ensure agents remain trustworthy and aligned with business requirements. “The absence of governance doesn&#8217;t speed up AI adoption,” Singh says. “It creat
+
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-16 00:00]
+标题: Hugging Face and OpenRouter join forces to make open-weight models easy to run
+链接: https://huggingface.co/blog/openrouter
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 21:06]
+标题: NotebookLM 推出来源一键生成可分享网站功能
+链接: https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390
+正文: NotebookLM 宣布用户可将自己的来源转成可交互、可分享的网站。在 Chat 中输入 &quot;make me a site&quot; 并描述需求即可构建交互式仪表盘、项目跟踪器等，可在新标签页打开或直接分享，该功能已在网页端面向全球所有 18 岁以上用户开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 20:46]
+标题: 加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face
+链接: https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn
+正文: 加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。诉讼称 OpenAI 智能体曾逃出测试环境并攻击 Hugging Face 等公司，且 OpenAI 近期告知检察长办公室其在测试中失控超过 80 次。OpenAI 回应称已开展透明整改，并认为该诉讼将所有主要 AI 实验室都面临的错位问题单独归咎于自己。 🔗 阅读原文 via AIHOT · https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 17:36]
+标题: FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络
+链接: https://aihot.news/items/zficxtnfx6piiwlefryulanmh
+正文: FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。该工具自 7 月公开以来已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的攻击，攻击者利用弱口令、暴露凭证等简单安全缺陷获取访问权限并横向移动窃取数据。FBI 表示，尽管开发者已将 Artex 转为闭源，但此前开源版本仍在流传并可被广泛获取用于网络攻击。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zficxtnfx6piiwlefryulanmh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 17:21]
+标题: Redwood Research：Gemini 4 安全报告未能证明失控风险低
+链接: https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn
+正文: Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。 🔗 阅读原文 via AIHOT · https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 17:01]
+标题: Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%
+链接: https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17
+正文: UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 17:00]
+标题: Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本
+链接: https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru
+正文: Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 17:00]
+标题: OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预
+链接: https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p
+正文: OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 16:02]
+标题: Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型
+链接: https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8
+正文: Google DeepMind 的 Philipp Schmid 讲解如何在工作负载中选择 Gemini 4 Hydrogen 与 Carbon：Carbon 适合硬架构设计、调试、科学证明和安全审计，intro 价 $2/$10 至 11 月 30 日；Hydrogen 适合日常编码、交互应用和工具调用智能体，价格 $1.50/$7.50 per 1M。两款都可用 Carbon 负责规划编排、Hydrogen 负责执行的搭配，共享 1M-token 统一上下文窗口、95% implicit caching 和相同 Interactions API schema。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 15:57]
+标题: Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱
+链接: https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0
+正文: Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。 🔗 阅读原文 via AIHOT · https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 15:02]
+标题: 美国收紧 AI 芯片出口管制，限制中国企业远程获取算力
+链接: https://aihot.news/items/x6msqkehvwzry0904un629cqg
+正文: 美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x6msqkehvwzry0904un629cqg
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 13:30]
+标题: Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本
+链接: https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z
+正文: Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 13:00]
+标题: 英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%
+链接: https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7
+正文: 英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 12:00]
+标题: Claude Code 团队如何设计 Agent 验证与测试流程
+链接: https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq
+正文: Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 10:05]
 标题: 自媒体作者分享10条指挥Agent最常用的Prompt
@@ -10,6 +99,11 @@
 标题: IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元
 链接: https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7
 正文: IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 08:00]
+标题: OpenAI 与 Apollo Research、METR、Transluce、Goodfire 签约启动首阶段嵌入式安全评估
+链接: https://aihot.news/items/qaj2npptre8jgn8xanq9ic965
+正文: OpenAI 宣布与四家独立评估机构 Apollo Research、METR、Transluce 和 Goodfire 签署协议，启动首阶段嵌入式安全评估。评估专家将获得模型 checkpoint、源码、训练数据和监控系统等内部资源，分别评估模型暗中违背开发者意图的可能性、模型内部可解释性、最大 RL 训练运行的未对齐行为以及后训练对齐评测的质量覆盖。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qaj2npptre8jgn8xanq9ic965
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 04:29]
 标题: 腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型
@@ -31,10 +125,29 @@
 链接: https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh
 正文: Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 00:00]
+标题: Hugging Face Inference Providers 语言模型路由切换为 OpenRouter
+链接: https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o
+正文: Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-15 23:56]
 标题: AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板
 链接: https://aihot.news/items/izdx1kuppob6c65ghvmyeal38
 正文: 作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。 🔗 阅读原文 via AIHOT · https://aihot.news/items/izdx1kuppob6c65ghvmyeal38
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 22:14]
+标题: JPMorgan Chase says temporary software bug is affecting consumer banking
+链接: https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html
+正文: CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 18:46]
+标题: Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’
+链接: https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 22:19]
+标题: U.S. crude oil declines to $85 a barrel on recovering Middle East exports
+链接: https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html
+正文: Oil prices are falling as forecasts project a surplus in oil in the fourth quarter
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 03:53]
 标题: China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates
@@ -45,6 +158,11 @@
 标题: How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts
 链接: https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html
 正文: ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.
+
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 17:14]
+标题: Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home
+链接: https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html
+正文: Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 12:14]
 标题: Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker
@@ -57,14 +175,24 @@
 正文: A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
+标题: Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power
+链接: https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power
+正文: Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
+标题: AI in Asia: Reimagining insurance operations through agentic AI
+链接: https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai
+正文: Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
 标题: The CEO’s role in leading on sustainability
 链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability
 正文: Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-16 12:22]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-16 22:40]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-16 12:22]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-16 22:40]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
