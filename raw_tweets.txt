@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-16 22:40:13
-# 共计 40 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-17 04:53:54
+# 共计 33 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-16 18:38]
 标题: The open-source movement wants Jensen Huang back
@@ -21,9 +21,20 @@
 链接: https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/
 正文: For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance, and people fit together, turning AI from a collection of tools into part of the enterprise operating model. For Thorsten Leiduck, SVP and global head of SAP Business AI Platform Ecosystem, that shift begins with treating AI as an enterprise platform rather than a collection of disconnected projects. “AI is absolutely dependent on the data foundation,” he says, arguing that companies need a connected, semantically rich layer that reflects their business before they can reliably deploy AI across processes. The stakes also change as AI moves into mission-critical workflows. For some everyday applications, “80% might be good enough,” he says, but in areas such as supply chains or financial close, that level of accuracy is “a very terrible result.” That foundation also determines which AI applications are worth pursuing. Satinder Pal Singh, associate VP North America for SAP BAIP and SAP AI Strategy at Infosys, frames AI agents as “digital coworkers” and recommends evaluating potential use cases through three lenses: impact, feasibility, and scalability. Companies should identify where an agent can move meaningful business metrics, determine whether their data and talent can support the use case, and then establish whether successful applications can be replicated. “A pilot that can&#8217;t scale is just an experiment,” he says. Scaling also brings governance into sharper focus. Clear policies, access controls, monitoring, and oversight are necessary to ensure agents remain trustworthy and aligned with business requirements. “The absence of governance doesn&#8217;t speed up AI adoption,” Singh says. “It creat
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-16 00:00]
-标题: Hugging Face and OpenRouter join forces to make open-weight models easy to run
-链接: https://huggingface.co/blog/openrouter
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-17 01:03]
+标题: 奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过
+链接: https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms
+正文: 据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 23:17]
+标题: 科技界人士质疑黄仁勋辞职背后存在针对其的谋划
+链接: https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx
+正文: The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署&apos;与黄仁勋站在一起&apos;的公开信，要求其复职并彻查辞职相关情况。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 22:03]
+标题: Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题
+链接: https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r
+正文: TechCrunch 梳理 Nvidia 临时 CEO 兼 CFO Colette Kress 在第三季度财报发布时需回应的关键问题，包括创始人黄仁勋辞职后的管理层安排、公司治理结构、芯片销售流向追踪以及 AI 交易对财务的影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 21:06]
 标题: NotebookLM 推出来源一键生成可分享网站功能
@@ -105,35 +116,10 @@
 链接: https://aihot.news/items/qaj2npptre8jgn8xanq9ic965
 正文: OpenAI 宣布与四家独立评估机构 Apollo Research、METR、Transluce 和 Goodfire 签署协议，启动首阶段嵌入式安全评估。评估专家将获得模型 checkpoint、源码、训练数据和监控系统等内部资源，分别评估模型暗中违背开发者意图的可能性、模型内部可解释性、最大 RL 训练运行的未对齐行为以及后训练对齐评测的质量覆盖。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qaj2npptre8jgn8xanq9ic965
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 04:29]
-标题: 腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型
-链接: https://aihot.news/items/u36vxmxeopbsx4if4lap30899
-正文: 腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u36vxmxeopbsx4if4lap30899
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 03:46]
-标题: 通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低
-链接: https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe
-正文: 通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。 🔗 阅读原文 via AIHOT · https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 02:21]
-标题: Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14
-链接: https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6
-正文: Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 02:00]
-标题: Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力
-链接: https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh
-正文: Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-16 00:00]
-标题: Hugging Face Inference Providers 语言模型路由切换为 OpenRouter
-链接: https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o
-正文: Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-15 23:56]
-标题: AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板
-链接: https://aihot.news/items/izdx1kuppob6c65ghvmyeal38
-正文: 作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。 🔗 阅读原文 via AIHOT · https://aihot.news/items/izdx1kuppob6c65ghvmyeal38
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 23:01]
+标题: Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding
+链接: https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html
+正文: Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 22:14]
 标题: JPMorgan Chase says temporary software bug is affecting consumer banking
@@ -148,11 +134,6 @@
 标题: U.S. crude oil declines to $85 a barrel on recovering Middle East exports
 链接: https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html
 正文: Oil prices are falling as forecasts project a surplus in oil in the fourth quarter
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 03:53]
-标题: China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates
-链接: https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html
-正文: A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-16 12:13]
 标题: How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts
@@ -169,30 +150,15 @@
 链接: https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html
 正文: Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
-标题: Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin
-链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin
-正文: A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-17 00:00]
+标题: Steel: Forging the foundation for the future of India
+链接: https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india
+正文: As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower emissions.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
-标题: Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power
-链接: https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power
-正文: Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
-标题: AI in Asia: Reimagining insurance operations through agentic AI
-链接: https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai
-正文: Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-16 00:00]
-标题: The CEO’s role in leading on sustainability
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability
-正文: Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-16 22:40]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-17 04:53]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-16 22:40]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-17 04:53]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
