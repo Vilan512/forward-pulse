@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-19 02:53:07
-# 共计 40 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-19 10:57:03
+# 共计 29 条来自 7 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-18 14:42]
 标题: The AI Hype Index: AI is everywhere
@@ -10,11 +10,6 @@
 标题: The Download: AI learns to smell and hydropower struggles
 链接: https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with chemical analyses to train what AI startup Osmo calls the world’s first foundation model for smell. Its goal, says founder Alex Wiltschko, is “to give computers a sense of smell.” Wiltschko claims the model has already achieved “human-level olfactory intelligence” and is helping fragrance brands design new scents. But Osmo has bigger ambitions, from detecting counterfeit goods to diagnosing diseases. Not everyone is convinced its technology can deliver. How far could an AI-powered sense of smell really take us? —Amit Katwala Hydropower hit record lows in the US Southwest this summer The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. But an extreme, prolonged drought has left water levels dangerously low in the region&#8217;s two largest reservoirs—and climate change is adding to the pressure. Find out how climate change is threatening a vital source of renewable power. —Casey Crownhart MIT Technology Review Narrated: How solid-state transformers could help power the AI boom Transformers are a crucial but nearly invisible part of the US grid, helping move power efficiently across long distances. But they’re complicated and in short supply, and their basic design hasn’t changed much in about a century. As electricity demand rises from EVs, data centers, and more, plans are emerging to modernize these grid staples. Solid-state versions could help ease supply concerns and cut power losses. The technology
-
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-18 10:20]
-标题: This smell startup says its AI nose is as good as a human’s
-链接: https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
-正文: In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell. The company’s goal, says founder Alex Wiltschko, is “to give computers a sense of smell.” “Scent molecules are really the only language most species on this planet can speak,” he says. “Most species can’t communicate with sound or visually, so it truly is Earth’s original language. And it’s incredibly powerful for us, from a memory and an emotional standpoint. You can smell something once and remember it for the rest of your life. You can smell something on the street and be pulled back to high school.” In the last few months, Wiltschko claims, Osmo’s model has achieved “human-level olfactory intelligence.” The company’s definition of this is that the model is about as good as the average person at detecting and discriminating between smells, and about as good as a junior perfume designer at creating them. It says its technology is already being used in the fragrance industry to help brands design and manufacture new scents. Last month, the company says, Osmo’s AI model outperformed in-house perfumers at one of the world’s largest consumer goods companies. Wiltschko believes it could be deployed eventually for threat detection at airports, for example, or diagnosing diseases.&nbsp; Wiltschko spun the startup out of his work at Google Brain, the search giant’s former AI research lab, in 2023, and he is running the same playbook as AI startups in other domains: Throw a lot of data at difficult problems, and see what happens. The challenge with scent, Wiltschko says, is that there was a dearth of good data. Before Osmo, there were fewer than 200,000 human descriptions of smells in existing databases, by his count. Plu
 
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-18 19:54]
 标题: DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency
@@ -27,6 +22,11 @@
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-18 15:00]
 标题: Time-Series Models in the Streamhouse: A New Frontier and Use Cases
 链接: https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 04:49]
+标题: 彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲
+链接: https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a
+正文: 彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 00:42]
 标题: Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员
@@ -103,50 +103,10 @@
 链接: https://aihot.news/items/x8i90coywg5pag1dmf436vgg5
 正文: Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。 🔗 阅读原文 via AIHOT · https://aihot.news/items/x8i90coywg5pag1dmf436vgg5
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 10:45]
-标题: Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢
-链接: https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw
-正文: 据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 10:19]
-标题: OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型
-链接: https://aihot.news/items/oisr0dfay736le62g425urn8l
-正文: Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。 🔗 阅读原文 via AIHOT · https://aihot.news/items/oisr0dfay736le62g425urn8l
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 08:00]
-标题: OpenAI 发布研究加速报告：智能体完成近半数长时研究任务但进展参差
-链接: https://aihot.news/items/v0rnw0gs7wqagl0k8xwblf421
-正文: OpenAI 发布第二份研究加速报告，基于内部测量介绍编码智能体如何改变 AI 研发周期。3 月到 10 月，估计需 2-4 小时的人工任务智能体自主成功率从 23% 升至 46%，4-8 小时任务从 13% 升至 35%；但任务间差异明显，监控训练成功率达 79%，而推理与服务栈编码仅 25%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/v0rnw0gs7wqagl0k8xwblf421
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 08:00]
-标题: OpenAI 深入解析 Codex 沙箱的权限设计与三平台实现
-链接: https://aihot.news/items/fn0p7buwy74nvduahsy10sp2f
-正文: OpenAI 发布长文，详解 Codex 沙箱如何在用户现有环境中以可控的文件系统和网络限制运行命令。 🔗 阅读原文 via AIHOT · https://aihot.news/items/fn0p7buwy74nvduahsy10sp2f
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 06:00]
-标题: OpenAI 详解前沿 AI 风险管理：从训练到部署的四层防护
-链接: https://aihot.news/items/na2nxuqq5bxz0us1vjup0l259
-正文: OpenAI 发布长文，介绍其在模型全生命周期中管理前沿 AI 风险的防御纵深体系，涵盖模型对齐、安全与沙箱、拦截防护、监控响应四层保护，并按研究、内部部署、外部部署三阶段说明各层的作用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/na2nxuqq5bxz0us1vjup0l259
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 05:47]
-标题: OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异
-链接: https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf
-正文: Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。 🔗 阅读原文 via AIHOT · https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 05:30]
-标题: Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务
-链接: https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00
-正文: Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访见 CNBC Mad Money，完整视频见 CNBC Television YouTube 频道。 🔗 阅读原文 via AIHOT · https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 05:19]
-标题: Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认
-链接: https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng
-正文: Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。黄仁勋在周二财报发布前与至少 1 名董事讨论过回归事宜；该投票仅针对辞职本身，Nvidia 章程允许剩余 10 名董事以简单多数任命 CEO 而无需股东投票。另有董事将人选范围缩小至 Arm CEO Rene Haas 和 Marvell CEO Matt Murphy 等候选人。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-18 04:39]
-标题: 腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本
-链接: https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp
-正文: 腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。模型为 224B 参数（激活 12B），支持 1M 上下文，原生多模态，定位高效日常生产力场景。模型以 Tencent Hy License 发布，可在 Hugging Face（huggingface.co/tencent/Hy4-flash）和 GitHub（github.com/Tencent-Hunyuan/Hy4-flash）获取，官方预告 Hy4 即将推出。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-19 09:02]
+标题: Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage
+链接: https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html
+正文: U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-18 19:41]
 标题: Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show
@@ -168,30 +128,15 @@
 链接: https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html
 正文: Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-18 08:29]
-标题: Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi
-链接: https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html
-正文: Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-18 06:04]
-标题: Three things to watch as Trump, Xi and Putin meet in China
-链接: https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html
-正文: U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-18 06:18]
-标题: JPMorgan is working on AI agent transactions that don’t involve humans
-链接: https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html
-正文: JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.
-
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-19 00:00]
 标题: A bold vision for Belgium
 链接: https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium
 正文: A productivity revolution could more than double the country’s economic growth and ensure future prosperity.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-19 02:53]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-19 10:57]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-19 02:53]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-19 10:57]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
