@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-20 01:33:32
-# 共计 24 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-20 09:28:12
+# 共计 23 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-19 13:10]
 标题: The Download: a living liver, a billion-dollar battery deal, and AI hype
@@ -15,6 +15,16 @@
 标题: What a billion-dollar deal says about the US battery market
 链接: https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/
 正文: After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than $1 billion over time. This arrangement also shows how much the politics of batteries have shifted lately. A major part of the financial backing for this factory’s production is a $1.4 billion loan from the Trump administration’s Defense Department. While batteries can be a major tool to help drive the energy transition and cut emissions, right now much of the industry is more focused on geopolitics. Founded in 2011, Sila makes silicon-based anodes for lithium-ion batteries. The big selling point here is the potential to improve energy density—Sila’s anode weighs a fifth as much as the graphite used in anodes today and cuts the volume in half, according to the company. So using this new material enables batteries to pack more energy into the same weight and volume, allowing longer range for EVs, for example. The material can also deliver more power and recharge faster, compared with conventional chemistry. We’ve been following Sila (and its competitors) for years. My colleague James Temple covered the company when its battery first appeared in Whoop fitness wearables in 2021. Things have gotten a lot bigger since then. In 2022, Sila announced plans for a factory in Moses Lake, Washington, and received $100 million from the US Department of Energy, part of a multibillion-dollar round of grants under the Biden administration to support the US battery supply chain. The company opened its factory in September 2025, and it’s already operating. But the deal with Panasonic will help it scale to at least 10 times more production than current levels, says Gene Berdichevsky, the company’s cofounder and CEO. Panasonic has commi
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 04:01]
+标题: DeepSeek Harness 发布100天，作者分享13个实用插件玩法
+链接: https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc
+正文: 卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。 🔗 阅读原文 via AIHOT · https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 03:52]
+标题: 腾讯混元开放 Hy4 权重
+链接: https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx
+正文: 腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/LocalLLaMA 举行 AMA。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 21:59]
 标题: Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%
@@ -91,30 +101,15 @@
 链接: https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav
 正文: MIT 研究团队在 Environmental Research Letters 发表研究，估算 2023 年数据中心电力需求带来的额外空气污染在美国导致约 650 例过早死亡，其中 513 例来自 PM2.5、137 例来自烟雾，约占全国电力相关死亡总量的 5.3%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 08:00]
-标题: Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码
-链接: https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w
-正文: Ai2 于 11 月 19 日在科研智能体平台 Asta 中上线 Theorizer，该智能体检索文献并为无法解释的观测提出候选理论，所有论断均链接到支持文献，代码同步开源；通过网页界面使用时 Ai2 在限额内承担 token 费用，也可在本地运行开源库自行付费。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-20 00:00]
+标题: Advancing US economic mobility in the age of AI
+链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai
+正文: AI could widen economic gaps in the United States—or help close them. Whether it becomes a force for opportunity depends on the choices leaders make now.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 08:00]
-标题: OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能
-链接: https://aihot.news/items/alwgjr29158n454prl9tjmmw1
-正文: OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。其中 Regression Workflow 在三个多月内跟踪超过 1700 次调查、定位超过 600 个根因，相当于每天约 17 次自动调查。 🔗 阅读原文 via AIHOT · https://aihot.news/items/alwgjr29158n454prl9tjmmw1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 04:49]
-标题: 彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲
-链接: https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a
-正文: 彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-19 09:02]
-标题: Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage
-链接: https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html
-正文: U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-20 01:33]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-20 09:28]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-20 01:33]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-20 09:28]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
