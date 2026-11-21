@@ -1,10 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-11-21 15:48:42
-# 共计 11 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-21 21:21:27
+# 共计 6 条来自 4 个信息源
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-20 18:15]
-标题: The most misunderstood graph in AI just got a major update
-链接: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
-正文: A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely shared—and widely misinterpreted, owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans. Each task’s difficulty was scored by how long it took the human testers to finish it—and then models were rated according to the length of the tasks that they could complete. That plot showed that AI systems were rapidly improving—every four months, the length of the tasks that frontier models could successfully complete doubled. The updated plot adds more tasks—some that are estimated to take humans far longer than those in the original suite, and others that are more open-ended. One of the biggest questions in AI right now is the extent to which progress on “verifiable” tasks—where it’s possible to check automatically whether an AI system has succeeded or failed—carry over into tasks on which success or failure is harder to measure. We know how to teach neural networks how to do verifiable tasks: Researchers have the systems attempt one many times, strengthen the neural pathways that contribute to success, and weaken the pathways that contribute to failures. That’s why AI systems have become so good at coding and math, two domains where it’s possible to determine automatically whether a solution does or doesn’t work. It’s much harder to apply this technique, known as reinforcement learning, to tasks where success is less well defined or takes longer to ascertain—such as choosing a new research direction. For the same reason, it’s tough to evaluate AI performance on these tasks, so METR’s original time horizon plot didn’t include any of them.
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-21 18:47]
+标题: Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限
+链接: https://aihot.news/items/d32df9vzpliz9m348fug74inq
+正文: Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d32df9vzpliz9m348fug74inq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-21 11:19]
 标题: Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿
@@ -16,40 +16,15 @@
 链接: https://aihot.news/items/w612ivonntodntv1ydkt2lqwh
 正文: Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w612ivonntodntv1ydkt2lqwh
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 18:48]
-标题: ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件
-链接: https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1
-正文: ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 16:54]
-标题: Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码
-链接: https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4
-正文: Anthropic 数学家 Levent Alpöge 在个人网站宣布与 Claude 合作证明了黎曼猜想，没有论文，只放出 14 个压缩包共 175187 个 Lean 文件、1737 万行代码。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 16:40]
-标题: Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染
-链接: https://aihot.news/items/rhln87mprozseglkairsway74
-正文: Kling AI 发布 Kling Image 4.0，主打原生 8K、更强真实感、一致图像组和高级文字渲染。引用 Artificial Analysis 的评测显示其在文生图排名第 7、图像编辑排名第 6，较 Kling Image 3.0 Omni 两个榜单均提升超 225 Elo。黑五限时定价 2K 低至 $0.022/图、原生 8K 低至 $0.033/图。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rhln87mprozseglkairsway74
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-21 06:00]
 标题: How China is using summits to expand its global influence
 链接: https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html
 正文: Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 19:59]
-标题: Prediction markets outlook for stocks in 2026 dims amid AI sell-off
-链接: https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html
-正文: Odds that the S&amp;P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 21:10]
-标题: Warsh wants Fed officials to talk less. Instead, they’re talking more
-链接: https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html
-正文: Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-21 15:48]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-21 21:21]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-21 15:48]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-21 21:21]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
