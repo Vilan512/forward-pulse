@@ -1,14 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-11-20 18:10:06
-# 共计 22 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-21 00:31:47
+# 共计 18 条来自 5 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-20 18:15]
+标题: The most misunderstood graph in AI just got a major update
+链接: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+正文: A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely shared—and widely misinterpreted, owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans. Each task’s difficulty was scored by how long it took the human testers to finish it—and then models were rated according to the length of the tasks that they could complete. That plot showed that AI systems were rapidly improving—every four months, the length of the tasks that frontier models could successfully complete doubled. The updated plot adds more tasks—some that are estimated to take humans far longer than those in the original suite, and others that are more open-ended. One of the biggest questions in AI right now is the extent to which progress on “verifiable” tasks—where it’s possible to check automatically whether an AI system has succeeded or failed—carry over into tasks on which success or failure is harder to measure. We know how to teach neural networks how to do verifiable tasks: Researchers have the systems attempt one many times, strengthen the neural pathways that contribute to success, and weaken the pathways that contribute to failures. That’s why AI systems have become so good at coding and math, two domains where it’s possible to determine automatically whether a solution does or doesn’t work. It’s much harder to apply this technique, known as reinforcement learning, to tasks where success is less well defined or takes longer to ascertain—such as choosing a new research direction. For the same reason, it’s tough to evaluate AI performance on these tasks, so METR’s original time horizon plot didn’t include any of them.
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-20 13:10]
 标题: The Download: inside the quest to make our minds immortal
 链接: https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.In the latest MIT Technology Review Roundtables event, senior editor for biomedicine Antonio Regalado joined science editor Mary Beth Griggs to examine these ideas. After following the money, the science, and the philosophy, he came back part skeptical, part awestruck. Here’s a taste of what Antonio found—and what he made of it. Not all the projects are quite what they seem: A $190 million US government program to develop replacement brain tissue is officially about treating stroke, but “it’s also a fig leaf for the actual ambition”: living forever. AI could lead to convincing mind clones: Large language models are making it possible to build AI copies of people that act quite like the real thing. “This digital avatar might not be good enough for you, but what if it’s good enough for me?” Immortality can be a hard sell: One company, Nectome, wants to preserve brains within 12 minutes of medically assisted death. “If you’re selling a hot product, this is not it.” It’s not always clear what we’re trying to preserve: “I’m not even sure that I have a very good claim to be myself.” There’s an upside to life as a brain in a jar: “You can surf the internet. I do that pretty much 12 hours a day, anyway.” To find out which of these ideas might actually work, subscribers can now watch the full conversation on demand. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. Read more: Six wild ideas for perpetuating your mind Inside th
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-20 00:00]
-标题: Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost
-链接: https://huggingface.co/blog/harness-adapters-at-scale
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 22:17]
+标题: Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划
+链接: https://aihot.news/items/w612ivonntodntv1ydkt2lqwh
+正文: Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w612ivonntodntv1ydkt2lqwh
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 18:48]
+标题: ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件
+链接: https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1
+正文: ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 16:54]
 标题: Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码
@@ -30,6 +41,11 @@
 链接: https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r
 正文: Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 07:00]
+标题: Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini
+链接: https://aihot.news/items/y7nk77dxae51qwi826gpmvbho
+正文: Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/y7nk77dxae51qwi826gpmvbho
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 06:41]
 标题: MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹
 链接: https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g
@@ -45,32 +61,12 @@
 链接: https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx
 正文: 腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/LocalLLaMA 举行 AMA。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 21:59]
-标题: Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%
-链接: https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc
-正文: The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 19:59]
+标题: Prediction markets outlook for stocks in 2026 dims amid AI sell-off
+链接: https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html
+正文: Odds that the S&amp;P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 21:52]
-标题: Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务
-链接: https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj
-正文: Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 21:28]
-标题: Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验
-链接: https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6
-正文: Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 3D 场景、游戏、UI 和数据可视化等任务中将其与 Opus、Fable、Astra、Sol 对比，并评估其接近前沿的程度。 🔗 阅读原文 via AIHOT · https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 20:13]
-标题: Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO
-链接: https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq
-正文: Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。引用内容为 Sol 祝贺 Anthropic IPO 的推文，感谢 LP 及 GM 养老金、ICONIQ、Coatue、Lightspeed 等合作伙伴在增长投资最差时期押注 Anthropic。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-19 18:18]
-标题: Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型
-链接: https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo
-正文: Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。 🔗 阅读原文 via AIHOT · https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 15:20]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 21:10]
 标题: Warsh wants Fed officials to talk less. Instead, they’re talking more
 链接: https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html
 正文: Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.
@@ -85,25 +81,10 @@
 链接: https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html
 正文: Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.
 
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-20 00:00]
-标题: The new consolidation: M&A shifts in European consumer tech and media
-链接: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media
-正文: As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and where the next transactions are most likely to emerge.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-20 00:00]
-标题: Physical AI is breaking out of the box
-链接: https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box
-正文: As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-20 00:00]
-标题: Advancing US economic mobility in the age of AI
-链接: https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai
-正文: AI could widen economic gaps in the United States—or help close them. Whether it becomes a force for opportunity depends on the choices leaders make now.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-20 18:10]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-21 00:31]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-20 18:10]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-21 00:31]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
