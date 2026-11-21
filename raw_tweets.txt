@@ -1,15 +1,15 @@
-# ForwardPulse 原始情报收割 — 2026-11-21 07:52:50
-# 共计 15 条来自 5 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-21 15:48:42
+# 共计 11 条来自 5 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-20 18:15]
 标题: The most misunderstood graph in AI just got a major update
 链接: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
 正文: A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely shared—and widely misinterpreted, owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans. Each task’s difficulty was scored by how long it took the human testers to finish it—and then models were rated according to the length of the tasks that they could complete. That plot showed that AI systems were rapidly improving—every four months, the length of the tasks that frontier models could successfully complete doubled. The updated plot adds more tasks—some that are estimated to take humans far longer than those in the original suite, and others that are more open-ended. One of the biggest questions in AI right now is the extent to which progress on “verifiable” tasks—where it’s possible to check automatically whether an AI system has succeeded or failed—carry over into tasks on which success or failure is harder to measure. We know how to teach neural networks how to do verifiable tasks: Researchers have the systems attempt one many times, strengthen the neural pathways that contribute to success, and weaken the pathways that contribute to failures. That’s why AI systems have become so good at coding and math, two domains where it’s possible to determine automatically whether a solution does or doesn’t work. It’s much harder to apply this technique, known as reinforcement learning, to tasks where success is less well defined or takes longer to ascertain—such as choosing a new research direction. For the same reason, it’s tough to evaluate AI performance on these tasks, so METR’s original time horizon plot didn’t include any of them.
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-20 13:10]
-标题: The Download: inside the quest to make our minds immortal
-链接: https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.In the latest MIT Technology Review Roundtables event, senior editor for biomedicine Antonio Regalado joined science editor Mary Beth Griggs to examine these ideas. After following the money, the science, and the philosophy, he came back part skeptical, part awestruck. Here’s a taste of what Antonio found—and what he made of it. Not all the projects are quite what they seem: A $190 million US government program to develop replacement brain tissue is officially about treating stroke, but “it’s also a fig leaf for the actual ambition”: living forever. AI could lead to convincing mind clones: Large language models are making it possible to build AI copies of people that act quite like the real thing. “This digital avatar might not be good enough for you, but what if it’s good enough for me?” Immortality can be a hard sell: One company, Nectome, wants to preserve brains within 12 minutes of medically assisted death. “If you’re selling a hot product, this is not it.” It’s not always clear what we’re trying to preserve: “I’m not even sure that I have a very good claim to be myself.” There’s an upside to life as a brain in a jar: “You can surf the internet. I do that pretty much 12 hours a day, anyway.” To find out which of these ideas might actually work, subscribers can now watch the full conversation on demand. Want to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables. Read more: Six wild ideas for perpetuating your mind Inside th
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-21 11:19]
+标题: Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿
+链接: https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
+正文: Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 22:17]
 标题: Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划
@@ -31,16 +31,6 @@
 链接: https://aihot.news/items/rhln87mprozseglkairsway74
 正文: Kling AI 发布 Kling Image 4.0，主打原生 8K、更强真实感、一致图像组和高级文字渲染。引用 Artificial Analysis 的评测显示其在文生图排名第 7、图像编辑排名第 6，较 Kling Image 3.0 Omni 两个榜单均提升超 225 Elo。黑五限时定价 2K 低至 $0.022/图、原生 8K 低至 $0.033/图。 🔗 阅读原文 via AIHOT · https://aihot.news/items/rhln87mprozseglkairsway74
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 15:20]
-标题: MIT 数学面板讨论 AI 冲击下的数学研究未来
-链接: https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by
-正文: MIT 举办“AI 与社会：数学的未来”座谈，来自 MIT、哈佛、西北大学和纽约大学的数学家讨论 AI 对数学研究的影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-20 13:53]
-标题: Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫
-链接: https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r
-正文: Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-21 06:00]
 标题: How China is using summits to expand its global influence
 链接: https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html
@@ -56,20 +46,10 @@
 链接: https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html
 正文: Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 14:15]
-标题: The bull market has a new problem. The 'smart money' is selling
-链接: https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html
-正文: Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-20 13:29]
-标题: U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia
-链接: https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html
-正文: Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-21 07:52]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-21 15:48]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-21 07:52]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-21 15:48]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
