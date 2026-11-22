@@ -1,20 +1,25 @@
-# ForwardPulse 原始情报收割 — 2026-11-22 09:06:03
-# 共计 4 条来自 3 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-22 17:30:45
+# 共计 5 条来自 3 个信息源
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-22 11:08]
+标题: Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确
+链接: https://aihot.news/items/ikpixx0j7414se1f6lww2csek
+正文: Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ikpixx0j7414se1f6lww2csek
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-22 09:35]
+标题: 菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可
+链接: https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
+正文: 2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。 🔗 阅读原文 via AIHOT · https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-21 18:47]
 标题: Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限
 链接: https://aihot.news/items/d32df9vzpliz9m348fug74inq
 正文: Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d32df9vzpliz9m348fug74inq
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-21 11:19]
-标题: Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿
-链接: https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
-正文: Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。 🔗 阅读原文 via AIHOT · https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-22 09:06]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-22 17:30]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-22 09:06]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-22 17:30]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
