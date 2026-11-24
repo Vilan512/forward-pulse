@@ -1,5 +1,10 @@
-# ForwardPulse 原始情报收割 — 2026-11-24 01:24:45
-# 共计 23 条来自 6 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-24 11:51:01
+# 共计 25 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-24 11:00]
+标题: Data centers are getting their own natural gas power plants
+链接: https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
+正文: One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&nbsp;&nbsp; xAI’s Memphis campus has famously used dozens of natural gas turbines, some of them without permits, as far back as 2024. At the time, that facility was a rarity, and it faced scrutiny from regulators. It remains the subject of ongoing legal battles. But the strategy of going off-grid for power has since become a lot more common. As of October 2026, data center developers have announced plans for more than 100 behind-the-meter gas power plants at facilities in the US, according to data from Cleanview, a market intelligence company. The facilities have a combined planned capacity of over 115 gigawatts, more than double the peak power demand of California. The vast majority of these announcements have come since the beginning of 2025. It’s possible that not all these facilities will be built; only a small fraction are under construction or operating today. But there’s a growing trend of large data centers looking to build their own power supply, and this could shape the grid—and its climate impacts—for decades to come. Building your own power plant is generally more expensive than just hooking up to the grid, but the AI rush has made developers willing to pay a significant premium to get online faster. “The biggest motivator for on-site power right now from data centers is speed,” says Musfika Mishi, an associate at BloombergNEF, an energy consultancy. When developers want to build a new industrial facility—like a data center—that requires a lot of electricity, they need to request a grid connection from a local utility or regional grid operator. That request kicks off a yearslong process in which grid planners study the existing grid to understand what wou
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-23 17:36]
 标题: A legendary philosopher isn’t buying Anthropic’s consciousness argument
@@ -11,14 +16,29 @@
 链接: https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
 正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good at tasks that require judgment as they are at coding. The report updates METR’s widely shared time horizon plot, which tested models on a large suite of tasks. The new version adds more open-ended tasks, such as designing AI evaluations and scoring philosophical arguments. Models struggled with these tasks, which could prove crucial to automating research and development. Find out where AI progress is running into tougher challenges. —Grace Huckins Why using rocks for carbon removal could eventually reduce crop growth Google, Microsoft, and others are investing hundreds of millions of dollars in startups spreading crushed rock across farms to capture carbon from the air.&nbsp; The approach, known as enhanced rock weathering, could also improve soil quality and boost crop yields. But new research raises serious questions about how much material can be added to farmland before it starts reducing yields, MIT Technology Review can exclusively report. The findings suggest the carbon removal potential could be far smaller than previously estimated. Here’s why major concerns are emerging about enhanced rock weathering. —James Temple The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 AI may have cracked math&#8217;s greatest unsolved problemAnthropic’s Claude was used to prove the Riemann hypothesis. (WSJ $)+ Two groups have independently verified the proof. (Guardian)+ It could be the biggest math breakthrough in decades. (New Scientist $)+ AI may be changing who gets to do math. (MIT Technology Review) 2 The COP31 climate talks have collapsed after a fossil fuels
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-23 11:00]
-标题: Why using rocks for carbon removal could eventually reduce crop growth
-链接: https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/
-正文: Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models have found that this approach, known as enhanced rock weathering (ERW), could eventually remove 3 billion to 8 billion metric tons of carbon dioxide per year, helping to slow or one day even reverse global warming. An additional promise is that these applications of rock could help farmers by improving the quality of their soil. But a pair of preprint studies set for release today raise serious questions about how much material could be added to that soil before it may actually reduce the crop yields that are essential to farmers’ livelihoods, MIT Technology Review can exclusively report.&nbsp; Cutting back on the rock applications to prevent these negative effects would shrink the method’s carbon dioxide removal capacity, likely capping it at less than a billion tons per year. The analyses were led by researchers at CarbonPlan, a San Francisco nonprofit known for rigorous scientific analysis of carbon removal methods. These concerns come on top of a series of scientific questions about how to accurately estimate the carbon removal achieved through this approach and the possibility that some projects have overstated it, which researchers at CarbonPlan and elsewhere have raised in recent months and years. “There’s still a heck of a lot we need to learn about ERW,” says Tyler Kukla, a research scientist at CarbonPlan and lead author of the new reports. “But a real tension, to me, exists between this massive amount of uncertainty and the big questions we have about whether or not this works, sitting alongside tremendous efforts to scale it up really quickly.”&nbsp;&nbsp; How it works There is no scientific dispute that certain rocks and minerals hel
-
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-23 17:20]
 标题: RoboTrack: Point tracking for real-world robotic manipulation
 链接: https://huggingface.co/blog/allenai/robotrack
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 08:15]
+标题: OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统
+链接: https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h
+正文: OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 06:12]
+标题: 卡兹克分享两个优化用户体验和产品动效的 Prompt
+链接: https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0
+正文: 数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。要点包括让 Gemini 当方案顾问、按状态变化逐项审查动效，完成后让 GPT 审查再合并上线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 02:11]
+标题: MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次
+链接: https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8
+正文: MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 01:41]
+标题: ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单
+链接: https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
+正文: ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 22:48]
 标题: ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol
@@ -75,16 +95,6 @@
 链接: https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
 正文: NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 09:42]
-标题: 智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding
-链接: https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz
-正文: 智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 01:25]
-标题: Anthropic IPO 前三家机构如何重注押注
-链接: https://aihot.news/items/dus34samsjrld1qopq65v54uq
-正文: TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。 🔗 阅读原文 via AIHOT · https://aihot.news/items/dus34samsjrld1qopq65v54uq
-
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 21:02]
 标题: Fed's John Williams indicates higher interest rates likely 'over time' to address inflation
 链接: https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html
@@ -100,15 +110,15 @@
 链接: https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html
 正文: Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 06:06]
-标题: JPMorgan is working on AI agent transactions that don’t involve humans
-链接: https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html
-正文: JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
+标题: What is the agentic factory? An update to the machinery of transformation for financial-services businesses
+链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses
+正文: An agentic factory is a centralized model to accelerate the development of effective agentic systems.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-24 01:24]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-24 11:51]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-24 01:24]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-24 11:51]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
