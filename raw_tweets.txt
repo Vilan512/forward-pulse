@@ -1,24 +1,54 @@
-# ForwardPulse 原始情报收割 — 2026-11-24 11:51:01
-# 共计 25 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-24 21:45:21
+# 共计 27 条来自 7 个信息源
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-24 15:15]
+标题: Raising the stakes for enterprise networks with AI modernization
+链接: https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
+正文: Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As AI inference shifts from hyperscale training clouds—the huge centralized data centers where raw AI models ingest vast datasets and learn—to real-time, latency-sensitive applications, the need for on-premises or near-premises infrastructure grows. As a result, the gap between enterprise networks that are ready to support AI and those that are not is widening. As few as half of enterprises believe their current networks can handle AI’s bandwidth and latency demands, according to a recent study. DOWNLOAD THE REPORT This report explores how treating network modernization as an on-going strategy rather than a one-off project can help organizations adapt in the face of disruption and uncertainty. Key findings from the report include: AI may force companies to shift from a cloud-first approach to routing workloads. Training AI requires server-to-server data center architectures, while inference calls for low-latency connectivity close to users. Enterprises may need to fundamentally reconsider their network architecture to meet these requirements. AI inference is pushing infrastructure back on premises. Inference typically requires real-time processing and is sensitive to latency, making hosting such capabilities on distant hyperscale clouds neither economical nor practical. Inconsistent latency can lead to AI model failures, driving up queue wait times, saturating GPUs loads, and causing bottlenecks in data flows. Large enterprises may need on-premises or near-premises inference, which reverses years of cloud-first consolidation and forces new approaches to data center architecture, connectivity, and physical infrastructure. AI workloads a
+
+[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-24 13:10]
+标题: The Download: AI’s gas power boom and a consciousness reality check
+链接: https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
+正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that could last as long as a decade. Some developers won’t wait and are instead building their own off-grid gas power plants to fuel the AI boom. As of October 2026, developers had announced plans for more than 100 such gas power plants at data centers in the US. But bypassing the grid brings its own problems, from worsening climate emissions to potentially higher energy bills for everyone else. Find out how the push for gas power could shape the grid—and the climate—for decades. —Casey Crownhart A legendary philosopher isn’t buying Anthropic’s consciousness argument Before going public last week, Anthropic named the possibility of AI consciousness as a risk factor for investors, warning that it might introduce new rules to protect its models. But that stance came under fire from an inconvenient source: one of the philosophers who helped shape our understanding of consciousness in the first place. Thomas Nagel, best known for his essay about what it&#8217;s like to be a bat, was blunt. “Here are some of the smartest people on the planet being completely idiotic,” he said. He argued that producing language isn&#8217;t enough to establish consciousness. But other philosophers disagree. Here&#8217;s why language has become central to the debate over conscious AI. —James O&#8217;Donnell This story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Huang&#8217;s Nvidia return has lifted markets and put Trump under fireUS stock indexes had their best day since April 2025. (NBC News)+ Trump ma
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-24 11:00]
 标题: Data centers are getting their own natural gas power plants
 链接: https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
 正文: One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&nbsp;&nbsp; xAI’s Memphis campus has famously used dozens of natural gas turbines, some of them without permits, as far back as 2024. At the time, that facility was a rarity, and it faced scrutiny from regulators. It remains the subject of ongoing legal battles. But the strategy of going off-grid for power has since become a lot more common. As of October 2026, data center developers have announced plans for more than 100 behind-the-meter gas power plants at facilities in the US, according to data from Cleanview, a market intelligence company. The facilities have a combined planned capacity of over 115 gigawatts, more than double the peak power demand of California. The vast majority of these announcements have come since the beginning of 2025. It’s possible that not all these facilities will be built; only a small fraction are under construction or operating today. But there’s a growing trend of large data centers looking to build their own power supply, and this could shape the grid—and its climate impacts—for decades to come. Building your own power plant is generally more expensive than just hooking up to the grid, but the AI rush has made developers willing to pay a significant premium to get online faster. “The biggest motivator for on-site power right now from data centers is speed,” says Musfika Mishi, an associate at BloombergNEF, an energy consultancy. When developers want to build a new industrial facility—like a data center—that requires a lot of electricity, they need to request a grid connection from a local utility or regional grid operator. That request kicks off a yearslong process in which grid planners study the existing grid to understand what wou
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-23 17:36]
-标题: A legendary philosopher isn’t buying Anthropic’s consciousness argument
-链接: https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
-正文: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral status,” Anthropic wrote—which is to say it takes the possibility more seriously than any other AI company—it might adopt more rules and restrictions than its competitors to make sure its AI models are treated well.&nbsp; Anthropic counts a number of respected philosophers in its camp, and the company’s rationale goes something like this: Today’s AI might not be conscious, though we can’t know for sure; the chances of sentience go up as AI gets more capable; and that means we should be preparing for a near future in which AI systems have “moral significance,” meaning their consciousness makes it important they are protected from harm.&nbsp; This thinking isn’t all that fringe. According to one recent poll, 33% of the US public believes AI systems will definitely or probably develop consciousness eventually, and 7% say they already have. In a 2020 survey of 1,092 philosophers, 39% said some future AI systems will be conscious (for comparison, the philosophers were less confident about worms or flies being conscious).&nbsp; But last week, Anthropic’s openness to the consciousness question came under fire from a rather inconvenient source: one of the philosophers who helped shape our understanding of consciousness in the first place. Thomas Nagel is best known for a 1974 essay involving a bat. Acknowledging that it’s deceptively hard to define what consciousness is, Nagel offered one way out: we all can see that there is “something that it is like” to be a bat. But the problem is that a bat’s experience of the world—what it is like to navigate via echolocation, for example—is something we cannot actually know. Consciousness is a subjective thi
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-24 16:34]
+标题: Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton
+链接: https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
 
-[来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-23 13:10]
-标题: The Download: AI’s judgment problem and carbon removal’s crop threat
-链接: https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
-正文: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good at tasks that require judgment as they are at coding. The report updates METR’s widely shared time horizon plot, which tested models on a large suite of tasks. The new version adds more open-ended tasks, such as designing AI evaluations and scoring philosophical arguments. Models struggled with these tasks, which could prove crucial to automating research and development. Find out where AI progress is running into tougher challenges. —Grace Huckins Why using rocks for carbon removal could eventually reduce crop growth Google, Microsoft, and others are investing hundreds of millions of dollars in startups spreading crushed rock across farms to capture carbon from the air.&nbsp; The approach, known as enhanced rock weathering, could also improve soil quality and boost crop yields. But new research raises serious questions about how much material can be added to farmland before it starts reducing yields, MIT Technology Review can exclusively report. The findings suggest the carbon removal potential could be far smaller than previously estimated. Here’s why major concerns are emerging about enhanced rock weathering. —James Temple The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 AI may have cracked math&#8217;s greatest unsolved problemAnthropic’s Claude was used to prove the Riemann hypothesis. (WSJ $)+ Two groups have independently verified the proof. (Guardian)+ It could be the biggest math breakthrough in decades. (New Scientist $)+ AI may be changing who gets to do math. (MIT Technology Review) 2 The COP31 climate talks have collapsed after a fossil fuels
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 21:02]
+标题: OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力
+链接: https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9
+正文: OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-23 17:20]
-标题: RoboTrack: Point tracking for real-world robotic manipulation
-链接: https://huggingface.co/blog/allenai/robotrack
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 19:06]
+标题: GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜
+链接: https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st
+正文: 研究者引述案例称，GPT-6.2 Astra 仅用 22 分钟和公开资料，将耶鲁 Beinecke 图书馆藏的 1808 年蒙特利尔至苏必利尔湖匿名素描画作者鉴定为 vicomte de Chabot，并找到其微缩胶片日记供验证。日记笔迹与素描题注吻合，1808 年 6 月 18 日日记明确写下“我画了一幅素描”；作者认为这标志着模型的研究发现能力正从数学等可验证领域扩展到历史等非确定性领域。 🔗 阅读原文 via AIHOT · https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 18:32]
+标题: Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通
+链接: https://aihot.news/items/nm8mi41auemid3iivue4tel3d
+正文: Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nm8mi41auemid3iivue4tel3d
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 18:30]
+标题: Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元
+链接: https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
+正文: Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 美元，较周一收盘下跌近 12%，距其在 Nasdaq 以 111.33 美元上市不到一周。风投界视其为公开市场对 AI 行业估值的晴雨表，若持续走弱可能压低 AI 初创公司私募估值和其他公司 IPO 前景。同日 Nvidia 也跌超 7%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 12:30]
+标题: Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day
+链接: https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x
+正文: Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 10:58]
+标题: ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先
+链接: https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2
+正文: 作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。作者基于自建测算模型给出规则执行率与延迟月数的量化区间，并梳理柔佛数据中心和执法风险等关键变量。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 08:15]
 标题: OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统
@@ -40,70 +70,40 @@
 链接: https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
 正文: ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
+标题: Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用
+链接: https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx
+正文: Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
+标题: Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新
+链接: https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9
+正文: Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
+标题: OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成
+链接: https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh
+正文: OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 22:48]
 标题: ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol
 链接: https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk
 正文: ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 20:56]
-标题: Claude 推出插件，统一连接器与技能的接入方式
-链接: https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2
-正文: Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 https://claude.ai/plugins 浏览 10,000 多个插件。 🔗 阅读原文 via AIHOT · https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-24 18:34]
+标题: Kalshi daily volume of ‘perps’ trading begins to top its prediction markets
+链接: https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html
+正文: The product, the first one beyond event contracts, was introduced in May.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 20:54]
-标题: Figma agent 正式开放至 FigJam 和 Figma Slides
-链接: https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s
-正文: Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-24 20:45]
+标题: Utah drops criminal charges against Kalshi founders after company suspended operations in state
+链接: https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html
+正文: Co-founders of the prediction market platform were slated to appear in a state district court in December.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 18:26]
-标题: 俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足
-链接: https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte
-正文: 俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 17:00]
-标题: Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用
-链接: https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2
-正文: Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 16:59]
-标题: Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法
-链接: https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n
-正文: Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 15:04]
-标题: a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法
-链接: https://aihot.news/items/qkxvs90ewfu3k430sdefndv56
-正文: a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。 🔗 阅读原文 via AIHOT · https://aihot.news/items/qkxvs90ewfu3k430sdefndv56
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 15:04]
-标题: Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据
-链接: https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn
-正文: Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 14:46]
-标题: Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例
-链接: https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff
-正文: Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 14:16]
-标题: ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散
-链接: https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7
-正文: 404 Media 报道，开源框架 ARTEX 让 AI 智能体以机器速度自动完成从侦察到窃取数据的整个入侵流程，FBI 称攻击者用它针对全球政府、医疗、电信、金融、半导体等行业，数小时内即可完成一次完整攻击。原作者 Autumn-27 已于 10 月将其从 GitHub 下架并转为闭源，但多个克隆版本仍在传播，有维护者表示不会删除仓库，理由是代码已被到处复制。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 14:04]
-标题: NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会
-链接: https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
-正文: NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。 🔗 阅读原文 via AIHOT · https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 21:02]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-24 13:33]
 标题: Fed's John Williams indicates higher interest rates likely 'over time' to address inflation
 链接: https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html
 正文: The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 18:00]
-标题: ‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now
-链接: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html
-正文: Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 23:28]
 标题: Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens
@@ -111,14 +111,24 @@
 正文: Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.
 
 [来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
+标题: The AI readiness gap
+链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap
+正文: Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
+标题: Global Economics Intelligence executive summary, October 2026
+链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
+正文: Energy market shocks, rising bond yields, mounting sovereign debt, and climbing inflation challenge policymakers and central bankers, but growth remains somewhat resilient.
+
+[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
 标题: What is the agentic factory? An update to the machinery of transformation for financial-services businesses
 链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses
 正文: An agentic factory is a centralized model to accelerate the development of effective agentic systems.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-24 11:51]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-24 21:45]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-24 11:51]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-24 21:45]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
