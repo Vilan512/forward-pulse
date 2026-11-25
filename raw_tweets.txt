@@ -1,5 +1,5 @@
-# ForwardPulse 原始情报收割 — 2026-11-24 21:45:21
-# 共计 27 条来自 7 个信息源
+# ForwardPulse 原始情报收割 — 2026-11-25 04:42:38
+# 共计 24 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-24 15:15]
 标题: Raising the stakes for enterprise networks with AI modernization
@@ -20,10 +20,30 @@
 标题: Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton
 链接: https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 21:02]
-标题: OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力
-链接: https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9
-正文: OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。 🔗 阅读原文 via AIHOT · https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 04:32]
+标题: 千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电
+链接: https://aihot.news/items/cebavio3uyjwli5r3imsuq1si
+正文: 千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。文中示例包括定时提醒朋友带饮料、定时来电叫醒起床、代订包间或询问快递等场景，并邀请用户在评论区分享想安排的任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cebavio3uyjwli5r3imsuq1si
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 03:29]
+标题: Anthropic 上市不到一周跌破 83 美元发行价
+链接: https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
+正文: Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 02:35]
+标题: 矩阵乘法指数被证明精确为 9/4
+链接: https://aihot.news/items/pdtslys0302mclldlo6l1dlr9
+正文: Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。Bubeck 称这是他从未想过有生之年能看到的结果，并指出根据 Yin Tat Lee 等人的旧结果，这也意味着线性规划可在 n^{9/4} 时间内求解。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pdtslys0302mclldlo6l1dlr9
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 23:56]
+标题: Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10
+链接: https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z
+正文: Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 21:32]
+标题: Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问
+链接: https://aihot.news/items/gat7lwf755dyryyd45gvlesxz
+正文: Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gat7lwf755dyryyd45gvlesxz
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 19:06]
 标题: GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜
@@ -35,10 +55,15 @@
 链接: https://aihot.news/items/nm8mi41auemid3iivue4tel3d
 正文: Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。 🔗 阅读原文 via AIHOT · https://aihot.news/items/nm8mi41auemid3iivue4tel3d
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 18:30]
-标题: Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元
-链接: https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
-正文: Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 美元，较周一收盘下跌近 12%，距其在 Nasdaq 以 111.33 美元上市不到一周。风投界视其为公开市场对 AI 行业估值的晴雨表，若持续走弱可能压低 AI 初创公司私募估值和其他公司 IPO 前景。同日 Nvidia 也跌超 7%。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 18:08]
+标题: Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险
+链接: https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r
+正文: Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。 🔗 阅读原文 via AIHOT · https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 13:00]
+标题: OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力
+链接: https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2
+正文: OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 12:30]
 标题: Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day
@@ -55,42 +80,22 @@
 链接: https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h
 正文: OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。 🔗 阅读原文 via AIHOT · https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h
 
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 07:00]
+标题: Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍
+链接: https://aihot.news/items/yh9lmlhqwoc77d1ii1mvr5d6x
+正文: Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 (medium)，单次预测成本降低 15 倍。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yh9lmlhqwoc77d1ii1mvr5d6x
+
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 06:12]
 标题: 卡兹克分享两个优化用户体验和产品动效的 Prompt
 链接: https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0
 正文: 数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。要点包括让 Gemini 当方案顾问、按状态变化逐项审查动效，完成后让 GPT 审查再合并上线。 🔗 阅读原文 via AIHOT · https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 02:11]
-标题: MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次
-链接: https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8
-正文: MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。 🔗 阅读原文 via AIHOT · https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-25 01:13]
+标题: Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips
+链接: https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html
+正文: Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 01:41]
-标题: ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单
-链接: https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
-正文: ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
-标题: Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用
-链接: https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx
-正文: Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。 🔗 阅读原文 via AIHOT · https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
-标题: Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新
-链接: https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9
-正文: Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 00:00]
-标题: OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成
-链接: https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh
-正文: OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。 🔗 阅读原文 via AIHOT · https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-23 22:48]
-标题: ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol
-链接: https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk
-正文: ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk
-
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-24 18:34]
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-24 23:03]
 标题: Kalshi daily volume of ‘perps’ trading begins to top its prediction markets
 链接: https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html
 正文: The product, the first one beyond event contracts, was introduced in May.
@@ -105,30 +110,10 @@
 链接: https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html
 正文: The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.
 
-[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-23 23:28]
-标题: Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens
-链接: https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html
-正文: Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
-标题: The AI readiness gap
-链接: https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap
-正文: Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
-标题: Global Economics Intelligence executive summary, October 2026
-链接: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence
-正文: Energy market shocks, rising bond yields, mounting sovereign debt, and climbing inflation challenge policymakers and central bankers, but growth remains somewhat resilient.
-
-[来源: McKinsey] [分类: 科技前沿] [时间: 2026-11-24 00:00]
-标题: What is the agentic factory? An update to the machinery of transformation for financial-services businesses
-链接: https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses
-正文: An agentic factory is a centralized model to accelerate the development of effective agentic systems.
-
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-24 21:45]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-25 04:42]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-24 21:45]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-25 04:42]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
