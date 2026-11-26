@@ -1,4 +1,4 @@
-# ForwardPulse 原始情报收割 — 2026-11-25 23:54:58
+# ForwardPulse 原始情报收割 — 2026-11-26 06:03:58
 # 共计 24 条来自 6 个信息源
 
 [来源: MIT_Tech] [分类: 科技前沿] [时间: 2026-11-25 17:00]
@@ -16,6 +16,10 @@
 链接: https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/
 正文: In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he got rather busy. Panton used to get a request every year or so from a company called SmartProcure for “all purchasing records,” covering everything from road salt to computers to toilet paper. Last year, those requests started coming quarterly. Then different companies began making more specific requests, like records of every purchase related to emergency road flares. These targeted inquiries started coming monthly or more. “I’m happy to answer public records requests from people,” says Rowe, who recently moved into a position at a nearby town. “But answering it for these purposes—it feels like I’m doing unpaid opposition research on the taxpayers’ time.”&nbsp; Rowe’s experiences are being repeated across the US. While data brokers have mined public records for decades, AI has intensified investors’ interest. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data from thousands of agencies and turn it into AI-powered “signals” that help businesses sell to governments. At the same time, AI tools have made it easier for individuals to draft public records requests. Many places have seen double-digit annual increases in recent years. While more activity is good for democracy, AI-drafted requests tend to be longer, and broader in scope—and the offices answering them haven’t always grown in head count or budget.&nbsp; As agencies struggle to tell whether they’re dealing with a citizen, a chatbot, or a sales pipeline, some states are passing legislation that makes it easier to deny requests, possibly making public offices less transparent.&nbsp; Transparency, monetized The U
 
+[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-26 05:05]
+标题: Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference
+链接: https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+
 [来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-25 18:52]
 标题: Where scientists draw the line on AI agents
 链接: https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
@@ -24,9 +28,25 @@
 标题: An Indic Voice Agent with CUGA
 链接: https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
 
-[来源: HuggingFace] [分类: 人工智能] [时间: 2026-11-25 00:00]
-标题: Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000
-链接: https://huggingface.co/blog/inkling-2-mini-inference-hillclimb
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-26 00:00]
+标题: Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露
+链接: https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n
+正文: Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。 🔗 阅读原文 via AIHOT · https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-26 00:00]
+标题: OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机
+链接: https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy
+正文: Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。 🔗 阅读原文 via AIHOT · https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 23:56]
+标题: 卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义
+链接: https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc
+正文: 公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。他用GPT-6.2完整实测并展示了手册内容，包括意义地图、思维误区重构、罗盘价值观和可执行的意义时刻设计，全程约20到30分钟。 🔗 阅读原文 via AIHOT · https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc
+
+[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 19:12]
+标题: Dario Amodei 澄清不主张向 AI 交出人类自由意志
+链接: https://aihot.news/items/e6gp31eup40d99unaon9umnpo
+正文: Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。他区分了全球治理层面的交权与具体任务的自动化，后者持混合态度，包括对递归自我改进设限、警惕端到端部署带来的就业冲击，并称 Anthropic 曾拒绝让自家模型用于自主武器；文末批评部分 AI CEO 只喊“人类控制”等口号而无实质行动。Elon Musk 转发并评论 Interesting。 🔗 阅读原文 via AIHOT · https://aihot.news/items/e6gp31eup40d99unaon9umnpo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 17:35]
 标题: 42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录
@@ -59,39 +79,19 @@
 正文: TechCrunch 分析指出，黄仁勋回归 Nvidia CEO 后，公司仍面临多方对其 GPU 出口合规问题的调查。新加坡数据中心运营商 Megaspeed 被指违反美国出口管制，将先进 GPU 转运至中国。美国司法部于 2024 年启动调查，新加坡方面于 2025 年展开类似调查，加州总检察长办公室及美国证券交易委员会也关注 Nvidia 的相关披露。Nvidia 表示将停止向中国销售许可芯片，并计划设立首席合规官及董事会出口管制委员会。 🔗 阅读原文 via AIHOT · https://aihot.news/items/kzwj96fvnn3whzvnhqdvsh830
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 09:00]
-标题: Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0
+标题: Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0
 链接: https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo
-正文: Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo
+正文: Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。 🔗 阅读原文 via AIHOT · https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo
 
 [来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 07:30]
 标题: Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法
 链接: https://aihot.news/items/uyodjb16jngloilypsm1d3q0d
 正文: Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。 🔗 阅读原文 via AIHOT · https://aihot.news/items/uyodjb16jngloilypsm1d3q0d
 
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 05:29]
-标题: MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%
-链接: https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez
-正文: MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利用 5,414 家跨国公司（覆盖 38% 美国程序员）的 GitHub 合同审查时点构造自然实验，估计 Copilot 采用对劳动力需求的影响。 🔗 阅读原文 via AIHOT · https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 04:32]
-标题: 千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电
-链接: https://aihot.news/items/cebavio3uyjwli5r3imsuq1si
-正文: 千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。文中示例包括定时提醒朋友带饮料、定时来电叫醒起床、代订包间或询问快递等场景，并邀请用户在评论区分享想安排的任务。 🔗 阅读原文 via AIHOT · https://aihot.news/items/cebavio3uyjwli5r3imsuq1si
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 03:29]
-标题: Anthropic 上市不到一周跌破 83 美元发行价
-链接: https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
-正文: Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。 🔗 阅读原文 via AIHOT · https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-25 02:35]
-标题: 矩阵乘法指数被证明精确为 9/4
-链接: https://aihot.news/items/pdtslys0302mclldlo6l1dlr9
-正文: Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。Bubeck 称这是他从未想过有生之年能看到的结果，并指出根据 Yin Tat Lee 等人的旧结果，这也意味着线性规划可在 n^{9/4} 时间内求解。 🔗 阅读原文 via AIHOT · https://aihot.news/items/pdtslys0302mclldlo6l1dlr9
-
-[来源: AI_HOT] [分类: 人工智能] [时间: 2026-11-24 23:56]
-标题: Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10
-链接: https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z
-正文: Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。 🔗 阅读原文 via AIHOT · https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z
+[来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-26 05:36]
+标题: Beware higher correlation but nab high U.S. credit yields, fund managers say
+链接: https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html
+正文: The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.
 
 [来源: CNBC_Markets] [分类: 股票基金] [时间: 2026-11-25 17:08]
 标题: Prediction markets push OpenAI IPO expectations later into 2027
@@ -108,10 +108,10 @@
 链接: https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html
 正文: Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.
 
-[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-25 23:54]
+[来源: X/@sama] [分类: 人工智能] [时间: 2026-11-26 06:03]
 标题: Sam Altman: AGI timeline keeps accelerating
 正文: Just had a look at our latest internal benchmarks. The gap between current models and human-level reasoning on complex tasks is closing faster than any of our 2024 projections suggested. We might need to revisit what "AGI" even means before we get there.
 
-[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-25 23:54]
+[来源: X/@elaboratepool] [分类: 人工智能] [时间: 2026-11-26 06:03]
 标题: Satya Nadella: The next platform shift is embodied AI
 正文: We are entering the era where AI doesnt just generate text and images — it manipulates atoms. Robotics foundation models are where LLMs were in 2020. The companies that crack the sim-to-real transfer problem will define the next decade of manufacturing.
